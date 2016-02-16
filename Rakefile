@@ -2,11 +2,12 @@ require "octokit"
 require "fileutils"
 require "json"
 
+desc "List available regions to fetch data."
 task :regions_list do
   puts IO.readlines("regions".freeze).map(&:chomp).join(", ".freeze)
 end
 
-desc "Fetch Developers by specified region, or pass all to fetch developers from all regions"
+desc "Fetch Developers by specified region, or pass all to fetch developers from all regions."
 task :fetch_developers, [:region] do |t, args|
   begin
     class String

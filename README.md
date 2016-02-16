@@ -43,7 +43,7 @@ A Rubyist has at least 1 repository, for example Rubyists in Singapore:
 
 [location:Singapore repos:>=1 language:Ruby](https://github.com/search?utf8=%E2%9C%93&q=location%3ASingapore+repos%3A%3E%3D1+language%3ARuby&type=Users&ref=searchresults)
 
-## Fetch all developers data in all regions listed in [regions](/regions) file
+## Fetch developers data from all regions listed in [regions](/regions) file
 
     $ rake fetch_developers[all]
 
