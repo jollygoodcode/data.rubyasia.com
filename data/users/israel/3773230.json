@@ -1,0 +1,20 @@
+{
+  "login": "eladp",
+  "id": 3773230,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3773230?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eladp",
+  "html_url": "https://github.com/eladp",
+  "followers_url": "https://api.github.com/users/eladp/followers",
+  "following_url": "https://api.github.com/users/eladp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eladp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eladp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eladp/subscriptions",
+  "organizations_url": "https://api.github.com/users/eladp/orgs",
+  "repos_url": "https://api.github.com/users/eladp/repos",
+  "events_url": "https://api.github.com/users/eladp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eladp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jonuts",
+  "id": 948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jonuts",
+  "html_url": "https://github.com/jonuts",
+  "followers_url": "https://api.github.com/users/jonuts/followers",
+  "following_url": "https://api.github.com/users/jonuts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jonuts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jonuts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jonuts/subscriptions",
+  "organizations_url": "https://api.github.com/users/jonuts/orgs",
+  "repos_url": "https://api.github.com/users/jonuts/repos",
+  "events_url": "https://api.github.com/users/jonuts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jonuts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

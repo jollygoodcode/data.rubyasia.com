@@ -1,0 +1,20 @@
+{
+  "login": "aamnah",
+  "id": 1043670,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1043670?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aamnah",
+  "html_url": "https://github.com/aamnah",
+  "followers_url": "https://api.github.com/users/aamnah/followers",
+  "following_url": "https://api.github.com/users/aamnah/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aamnah/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aamnah/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aamnah/subscriptions",
+  "organizations_url": "https://api.github.com/users/aamnah/orgs",
+  "repos_url": "https://api.github.com/users/aamnah/repos",
+  "events_url": "https://api.github.com/users/aamnah/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aamnah/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

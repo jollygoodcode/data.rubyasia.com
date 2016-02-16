@@ -1,0 +1,20 @@
+{
+  "login": "rubymax",
+  "id": 13338173,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13338173?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubymax",
+  "html_url": "https://github.com/rubymax",
+  "followers_url": "https://api.github.com/users/rubymax/followers",
+  "following_url": "https://api.github.com/users/rubymax/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubymax/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubymax/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubymax/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubymax/orgs",
+  "repos_url": "https://api.github.com/users/rubymax/repos",
+  "events_url": "https://api.github.com/users/rubymax/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubymax/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

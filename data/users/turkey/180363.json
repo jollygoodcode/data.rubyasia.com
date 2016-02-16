@@ -1,0 +1,20 @@
+{
+  "login": "seyfeddin",
+  "id": 180363,
+  "avatar_url": "https://avatars.githubusercontent.com/u/180363?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seyfeddin",
+  "html_url": "https://github.com/seyfeddin",
+  "followers_url": "https://api.github.com/users/seyfeddin/followers",
+  "following_url": "https://api.github.com/users/seyfeddin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seyfeddin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seyfeddin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seyfeddin/subscriptions",
+  "organizations_url": "https://api.github.com/users/seyfeddin/orgs",
+  "repos_url": "https://api.github.com/users/seyfeddin/repos",
+  "events_url": "https://api.github.com/users/seyfeddin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seyfeddin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

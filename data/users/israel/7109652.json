@@ -1,0 +1,20 @@
+{
+  "login": "idanski",
+  "id": 7109652,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7109652?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idanski",
+  "html_url": "https://github.com/idanski",
+  "followers_url": "https://api.github.com/users/idanski/followers",
+  "following_url": "https://api.github.com/users/idanski/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idanski/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idanski/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idanski/subscriptions",
+  "organizations_url": "https://api.github.com/users/idanski/orgs",
+  "repos_url": "https://api.github.com/users/idanski/repos",
+  "events_url": "https://api.github.com/users/idanski/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idanski/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

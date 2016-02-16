@@ -1,0 +1,20 @@
+{
+  "login": "staii",
+  "id": 75772,
+  "avatar_url": "https://avatars.githubusercontent.com/u/75772?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/staii",
+  "html_url": "https://github.com/staii",
+  "followers_url": "https://api.github.com/users/staii/followers",
+  "following_url": "https://api.github.com/users/staii/following{/other_user}",
+  "gists_url": "https://api.github.com/users/staii/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/staii/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/staii/subscriptions",
+  "organizations_url": "https://api.github.com/users/staii/orgs",
+  "repos_url": "https://api.github.com/users/staii/repos",
+  "events_url": "https://api.github.com/users/staii/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/staii/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

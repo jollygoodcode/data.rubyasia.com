@@ -1,0 +1,20 @@
+{
+  "login": "saamirz",
+  "id": 4294696,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4294696?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saamirz",
+  "html_url": "https://github.com/saamirz",
+  "followers_url": "https://api.github.com/users/saamirz/followers",
+  "following_url": "https://api.github.com/users/saamirz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saamirz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saamirz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saamirz/subscriptions",
+  "organizations_url": "https://api.github.com/users/saamirz/orgs",
+  "repos_url": "https://api.github.com/users/saamirz/repos",
+  "events_url": "https://api.github.com/users/saamirz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saamirz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dproshutin",
+  "id": 9064208,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9064208?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dproshutin",
+  "html_url": "https://github.com/dproshutin",
+  "followers_url": "https://api.github.com/users/dproshutin/followers",
+  "following_url": "https://api.github.com/users/dproshutin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dproshutin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dproshutin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dproshutin/subscriptions",
+  "organizations_url": "https://api.github.com/users/dproshutin/orgs",
+  "repos_url": "https://api.github.com/users/dproshutin/repos",
+  "events_url": "https://api.github.com/users/dproshutin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dproshutin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

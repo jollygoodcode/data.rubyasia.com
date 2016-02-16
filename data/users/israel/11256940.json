@@ -1,0 +1,20 @@
+{
+  "login": "zeari",
+  "id": 11256940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11256940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zeari",
+  "html_url": "https://github.com/zeari",
+  "followers_url": "https://api.github.com/users/zeari/followers",
+  "following_url": "https://api.github.com/users/zeari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zeari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zeari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zeari/subscriptions",
+  "organizations_url": "https://api.github.com/users/zeari/orgs",
+  "repos_url": "https://api.github.com/users/zeari/repos",
+  "events_url": "https://api.github.com/users/zeari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zeari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

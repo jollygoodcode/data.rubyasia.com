@@ -1,0 +1,20 @@
+{
+  "login": "kavand",
+  "id": 982350,
+  "avatar_url": "https://avatars.githubusercontent.com/u/982350?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kavand",
+  "html_url": "https://github.com/kavand",
+  "followers_url": "https://api.github.com/users/kavand/followers",
+  "following_url": "https://api.github.com/users/kavand/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kavand/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kavand/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kavand/subscriptions",
+  "organizations_url": "https://api.github.com/users/kavand/orgs",
+  "repos_url": "https://api.github.com/users/kavand/repos",
+  "events_url": "https://api.github.com/users/kavand/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kavand/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

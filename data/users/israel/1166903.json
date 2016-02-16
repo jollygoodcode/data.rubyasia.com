@@ -1,0 +1,20 @@
+{
+  "login": "grozen",
+  "id": 1166903,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1166903?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/grozen",
+  "html_url": "https://github.com/grozen",
+  "followers_url": "https://api.github.com/users/grozen/followers",
+  "following_url": "https://api.github.com/users/grozen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/grozen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/grozen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/grozen/subscriptions",
+  "organizations_url": "https://api.github.com/users/grozen/orgs",
+  "repos_url": "https://api.github.com/users/grozen/repos",
+  "events_url": "https://api.github.com/users/grozen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/grozen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

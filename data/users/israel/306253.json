@@ -1,0 +1,20 @@
+{
+  "login": "yosiat",
+  "id": 306253,
+  "avatar_url": "https://avatars.githubusercontent.com/u/306253?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yosiat",
+  "html_url": "https://github.com/yosiat",
+  "followers_url": "https://api.github.com/users/yosiat/followers",
+  "following_url": "https://api.github.com/users/yosiat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yosiat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yosiat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yosiat/subscriptions",
+  "organizations_url": "https://api.github.com/users/yosiat/orgs",
+  "repos_url": "https://api.github.com/users/yosiat/repos",
+  "events_url": "https://api.github.com/users/yosiat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yosiat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shamil",
+  "id": 655447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/655447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shamil",
+  "html_url": "https://github.com/shamil",
+  "followers_url": "https://api.github.com/users/shamil/followers",
+  "following_url": "https://api.github.com/users/shamil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shamil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shamil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shamil/subscriptions",
+  "organizations_url": "https://api.github.com/users/shamil/orgs",
+  "repos_url": "https://api.github.com/users/shamil/repos",
+  "events_url": "https://api.github.com/users/shamil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shamil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

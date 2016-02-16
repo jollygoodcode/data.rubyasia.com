@@ -1,0 +1,20 @@
+{
+  "login": "karabinaa",
+  "id": 515555,
+  "avatar_url": "https://avatars.githubusercontent.com/u/515555?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/karabinaa",
+  "html_url": "https://github.com/karabinaa",
+  "followers_url": "https://api.github.com/users/karabinaa/followers",
+  "following_url": "https://api.github.com/users/karabinaa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/karabinaa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/karabinaa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/karabinaa/subscriptions",
+  "organizations_url": "https://api.github.com/users/karabinaa/orgs",
+  "repos_url": "https://api.github.com/users/karabinaa/repos",
+  "events_url": "https://api.github.com/users/karabinaa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/karabinaa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

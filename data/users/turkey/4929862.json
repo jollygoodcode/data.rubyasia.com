@@ -1,0 +1,20 @@
+{
+  "login": "macroprocessor",
+  "id": 4929862,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4929862?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macroprocessor",
+  "html_url": "https://github.com/macroprocessor",
+  "followers_url": "https://api.github.com/users/macroprocessor/followers",
+  "following_url": "https://api.github.com/users/macroprocessor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macroprocessor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macroprocessor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macroprocessor/subscriptions",
+  "organizations_url": "https://api.github.com/users/macroprocessor/orgs",
+  "repos_url": "https://api.github.com/users/macroprocessor/repos",
+  "events_url": "https://api.github.com/users/macroprocessor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macroprocessor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

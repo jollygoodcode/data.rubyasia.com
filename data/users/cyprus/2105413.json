@@ -1,0 +1,20 @@
+{
+  "login": "MikhailBarsukov",
+  "id": 2105413,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2105413?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MikhailBarsukov",
+  "html_url": "https://github.com/MikhailBarsukov",
+  "followers_url": "https://api.github.com/users/MikhailBarsukov/followers",
+  "following_url": "https://api.github.com/users/MikhailBarsukov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MikhailBarsukov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MikhailBarsukov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MikhailBarsukov/subscriptions",
+  "organizations_url": "https://api.github.com/users/MikhailBarsukov/orgs",
+  "repos_url": "https://api.github.com/users/MikhailBarsukov/repos",
+  "events_url": "https://api.github.com/users/MikhailBarsukov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MikhailBarsukov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

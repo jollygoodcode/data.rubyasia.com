@@ -1,0 +1,20 @@
+{
+  "login": "onurbozkurt",
+  "id": 36170,
+  "avatar_url": "https://avatars.githubusercontent.com/u/36170?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/onurbozkurt",
+  "html_url": "https://github.com/onurbozkurt",
+  "followers_url": "https://api.github.com/users/onurbozkurt/followers",
+  "following_url": "https://api.github.com/users/onurbozkurt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/onurbozkurt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/onurbozkurt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/onurbozkurt/subscriptions",
+  "organizations_url": "https://api.github.com/users/onurbozkurt/orgs",
+  "repos_url": "https://api.github.com/users/onurbozkurt/repos",
+  "events_url": "https://api.github.com/users/onurbozkurt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/onurbozkurt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

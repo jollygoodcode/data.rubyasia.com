@@ -1,0 +1,20 @@
+{
+  "login": "qureshius",
+  "id": 818260,
+  "avatar_url": "https://avatars.githubusercontent.com/u/818260?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qureshius",
+  "html_url": "https://github.com/qureshius",
+  "followers_url": "https://api.github.com/users/qureshius/followers",
+  "following_url": "https://api.github.com/users/qureshius/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qureshius/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qureshius/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qureshius/subscriptions",
+  "organizations_url": "https://api.github.com/users/qureshius/orgs",
+  "repos_url": "https://api.github.com/users/qureshius/repos",
+  "events_url": "https://api.github.com/users/qureshius/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qureshius/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

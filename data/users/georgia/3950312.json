@@ -1,0 +1,20 @@
+{
+  "login": "astorrer",
+  "id": 3950312,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3950312?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/astorrer",
+  "html_url": "https://github.com/astorrer",
+  "followers_url": "https://api.github.com/users/astorrer/followers",
+  "following_url": "https://api.github.com/users/astorrer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/astorrer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/astorrer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/astorrer/subscriptions",
+  "organizations_url": "https://api.github.com/users/astorrer/orgs",
+  "repos_url": "https://api.github.com/users/astorrer/repos",
+  "events_url": "https://api.github.com/users/astorrer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/astorrer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

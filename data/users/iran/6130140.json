@@ -1,0 +1,20 @@
+{
+  "login": "alitivay",
+  "id": 6130140,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6130140?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alitivay",
+  "html_url": "https://github.com/alitivay",
+  "followers_url": "https://api.github.com/users/alitivay/followers",
+  "following_url": "https://api.github.com/users/alitivay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alitivay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alitivay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alitivay/subscriptions",
+  "organizations_url": "https://api.github.com/users/alitivay/orgs",
+  "repos_url": "https://api.github.com/users/alitivay/repos",
+  "events_url": "https://api.github.com/users/alitivay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alitivay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

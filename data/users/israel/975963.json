@@ -1,0 +1,20 @@
+{
+  "login": "kruzel",
+  "id": 975963,
+  "avatar_url": "https://avatars.githubusercontent.com/u/975963?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kruzel",
+  "html_url": "https://github.com/kruzel",
+  "followers_url": "https://api.github.com/users/kruzel/followers",
+  "following_url": "https://api.github.com/users/kruzel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kruzel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kruzel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kruzel/subscriptions",
+  "organizations_url": "https://api.github.com/users/kruzel/orgs",
+  "repos_url": "https://api.github.com/users/kruzel/repos",
+  "events_url": "https://api.github.com/users/kruzel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kruzel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

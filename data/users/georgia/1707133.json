@@ -1,0 +1,20 @@
+{
+  "login": "wto",
+  "id": 1707133,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1707133?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wto",
+  "html_url": "https://github.com/wto",
+  "followers_url": "https://api.github.com/users/wto/followers",
+  "following_url": "https://api.github.com/users/wto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wto/subscriptions",
+  "organizations_url": "https://api.github.com/users/wto/orgs",
+  "repos_url": "https://api.github.com/users/wto/repos",
+  "events_url": "https://api.github.com/users/wto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

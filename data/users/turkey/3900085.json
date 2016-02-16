@@ -1,0 +1,20 @@
+{
+  "login": "stdsapma",
+  "id": 3900085,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3900085?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stdsapma",
+  "html_url": "https://github.com/stdsapma",
+  "followers_url": "https://api.github.com/users/stdsapma/followers",
+  "following_url": "https://api.github.com/users/stdsapma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stdsapma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stdsapma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stdsapma/subscriptions",
+  "organizations_url": "https://api.github.com/users/stdsapma/orgs",
+  "repos_url": "https://api.github.com/users/stdsapma/repos",
+  "events_url": "https://api.github.com/users/stdsapma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stdsapma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

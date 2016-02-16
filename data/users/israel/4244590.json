@@ -1,0 +1,20 @@
+{
+  "login": "GlideMe",
+  "id": 4244590,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4244590?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GlideMe",
+  "html_url": "https://github.com/GlideMe",
+  "followers_url": "https://api.github.com/users/GlideMe/followers",
+  "following_url": "https://api.github.com/users/GlideMe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GlideMe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GlideMe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GlideMe/subscriptions",
+  "organizations_url": "https://api.github.com/users/GlideMe/orgs",
+  "repos_url": "https://api.github.com/users/GlideMe/repos",
+  "events_url": "https://api.github.com/users/GlideMe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GlideMe/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

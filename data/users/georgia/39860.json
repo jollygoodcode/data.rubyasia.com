@@ -1,0 +1,20 @@
+{
+  "login": "atlruby",
+  "id": 39860,
+  "avatar_url": "https://avatars.githubusercontent.com/u/39860?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atlruby",
+  "html_url": "https://github.com/atlruby",
+  "followers_url": "https://api.github.com/users/atlruby/followers",
+  "following_url": "https://api.github.com/users/atlruby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atlruby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atlruby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atlruby/subscriptions",
+  "organizations_url": "https://api.github.com/users/atlruby/orgs",
+  "repos_url": "https://api.github.com/users/atlruby/repos",
+  "events_url": "https://api.github.com/users/atlruby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atlruby/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

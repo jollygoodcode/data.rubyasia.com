@@ -1,0 +1,20 @@
+{
+  "login": "UtopiaInc",
+  "id": 13042272,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13042272?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/UtopiaInc",
+  "html_url": "https://github.com/UtopiaInc",
+  "followers_url": "https://api.github.com/users/UtopiaInc/followers",
+  "following_url": "https://api.github.com/users/UtopiaInc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/UtopiaInc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/UtopiaInc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/UtopiaInc/subscriptions",
+  "organizations_url": "https://api.github.com/users/UtopiaInc/orgs",
+  "repos_url": "https://api.github.com/users/UtopiaInc/repos",
+  "events_url": "https://api.github.com/users/UtopiaInc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/UtopiaInc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

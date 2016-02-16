@@ -1,0 +1,20 @@
+{
+  "login": "hamiltonca",
+  "id": 4172179,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4172179?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hamiltonca",
+  "html_url": "https://github.com/hamiltonca",
+  "followers_url": "https://api.github.com/users/hamiltonca/followers",
+  "following_url": "https://api.github.com/users/hamiltonca/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hamiltonca/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hamiltonca/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hamiltonca/subscriptions",
+  "organizations_url": "https://api.github.com/users/hamiltonca/orgs",
+  "repos_url": "https://api.github.com/users/hamiltonca/repos",
+  "events_url": "https://api.github.com/users/hamiltonca/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hamiltonca/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

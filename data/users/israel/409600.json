@@ -1,0 +1,20 @@
+{
+  "login": "seefood",
+  "id": 409600,
+  "avatar_url": "https://avatars.githubusercontent.com/u/409600?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seefood",
+  "html_url": "https://github.com/seefood",
+  "followers_url": "https://api.github.com/users/seefood/followers",
+  "following_url": "https://api.github.com/users/seefood/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seefood/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seefood/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seefood/subscriptions",
+  "organizations_url": "https://api.github.com/users/seefood/orgs",
+  "repos_url": "https://api.github.com/users/seefood/repos",
+  "events_url": "https://api.github.com/users/seefood/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seefood/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

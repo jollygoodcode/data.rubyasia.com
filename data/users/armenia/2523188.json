@@ -1,0 +1,20 @@
+{
+  "login": "nrgweb",
+  "id": 2523188,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2523188?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nrgweb",
+  "html_url": "https://github.com/nrgweb",
+  "followers_url": "https://api.github.com/users/nrgweb/followers",
+  "following_url": "https://api.github.com/users/nrgweb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nrgweb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nrgweb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nrgweb/subscriptions",
+  "organizations_url": "https://api.github.com/users/nrgweb/orgs",
+  "repos_url": "https://api.github.com/users/nrgweb/repos",
+  "events_url": "https://api.github.com/users/nrgweb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nrgweb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

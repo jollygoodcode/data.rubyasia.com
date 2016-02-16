@@ -1,0 +1,20 @@
+{
+  "login": "mottiok",
+  "id": 5155147,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5155147?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mottiok",
+  "html_url": "https://github.com/mottiok",
+  "followers_url": "https://api.github.com/users/mottiok/followers",
+  "following_url": "https://api.github.com/users/mottiok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mottiok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mottiok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mottiok/subscriptions",
+  "organizations_url": "https://api.github.com/users/mottiok/orgs",
+  "repos_url": "https://api.github.com/users/mottiok/repos",
+  "events_url": "https://api.github.com/users/mottiok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mottiok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

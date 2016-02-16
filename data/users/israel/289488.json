@@ -1,0 +1,20 @@
+{
+  "login": "rauchy",
+  "id": 289488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/289488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rauchy",
+  "html_url": "https://github.com/rauchy",
+  "followers_url": "https://api.github.com/users/rauchy/followers",
+  "following_url": "https://api.github.com/users/rauchy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rauchy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rauchy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rauchy/subscriptions",
+  "organizations_url": "https://api.github.com/users/rauchy/orgs",
+  "repos_url": "https://api.github.com/users/rauchy/repos",
+  "events_url": "https://api.github.com/users/rauchy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rauchy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "uberstudio",
+  "id": 2960619,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2960619?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uberstudio",
+  "html_url": "https://github.com/uberstudio",
+  "followers_url": "https://api.github.com/users/uberstudio/followers",
+  "following_url": "https://api.github.com/users/uberstudio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uberstudio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uberstudio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uberstudio/subscriptions",
+  "organizations_url": "https://api.github.com/users/uberstudio/orgs",
+  "repos_url": "https://api.github.com/users/uberstudio/repos",
+  "events_url": "https://api.github.com/users/uberstudio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uberstudio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

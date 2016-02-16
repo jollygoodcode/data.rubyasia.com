@@ -1,0 +1,20 @@
+{
+  "login": "reminstitute",
+  "id": 486799,
+  "avatar_url": "https://avatars.githubusercontent.com/u/486799?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/reminstitute",
+  "html_url": "https://github.com/reminstitute",
+  "followers_url": "https://api.github.com/users/reminstitute/followers",
+  "following_url": "https://api.github.com/users/reminstitute/following{/other_user}",
+  "gists_url": "https://api.github.com/users/reminstitute/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/reminstitute/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/reminstitute/subscriptions",
+  "organizations_url": "https://api.github.com/users/reminstitute/orgs",
+  "repos_url": "https://api.github.com/users/reminstitute/repos",
+  "events_url": "https://api.github.com/users/reminstitute/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/reminstitute/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "selman",
+  "id": 172931,
+  "avatar_url": "https://avatars.githubusercontent.com/u/172931?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/selman",
+  "html_url": "https://github.com/selman",
+  "followers_url": "https://api.github.com/users/selman/followers",
+  "following_url": "https://api.github.com/users/selman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/selman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/selman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/selman/subscriptions",
+  "organizations_url": "https://api.github.com/users/selman/orgs",
+  "repos_url": "https://api.github.com/users/selman/repos",
+  "events_url": "https://api.github.com/users/selman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/selman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

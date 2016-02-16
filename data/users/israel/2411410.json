@@ -1,0 +1,20 @@
+{
+  "login": "shinespb",
+  "id": 2411410,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2411410?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shinespb",
+  "html_url": "https://github.com/shinespb",
+  "followers_url": "https://api.github.com/users/shinespb/followers",
+  "following_url": "https://api.github.com/users/shinespb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shinespb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shinespb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shinespb/subscriptions",
+  "organizations_url": "https://api.github.com/users/shinespb/orgs",
+  "repos_url": "https://api.github.com/users/shinespb/repos",
+  "events_url": "https://api.github.com/users/shinespb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shinespb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

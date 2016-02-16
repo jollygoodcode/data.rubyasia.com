@@ -1,0 +1,20 @@
+{
+  "login": "aaron678",
+  "id": 118151,
+  "avatar_url": "https://avatars.githubusercontent.com/u/118151?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aaron678",
+  "html_url": "https://github.com/aaron678",
+  "followers_url": "https://api.github.com/users/aaron678/followers",
+  "following_url": "https://api.github.com/users/aaron678/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aaron678/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aaron678/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aaron678/subscriptions",
+  "organizations_url": "https://api.github.com/users/aaron678/orgs",
+  "repos_url": "https://api.github.com/users/aaron678/repos",
+  "events_url": "https://api.github.com/users/aaron678/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aaron678/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

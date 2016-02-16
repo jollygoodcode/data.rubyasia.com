@@ -1,0 +1,20 @@
+{
+  "login": "olahav",
+  "id": 2287431,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2287431?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/olahav",
+  "html_url": "https://github.com/olahav",
+  "followers_url": "https://api.github.com/users/olahav/followers",
+  "following_url": "https://api.github.com/users/olahav/following{/other_user}",
+  "gists_url": "https://api.github.com/users/olahav/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/olahav/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/olahav/subscriptions",
+  "organizations_url": "https://api.github.com/users/olahav/orgs",
+  "repos_url": "https://api.github.com/users/olahav/repos",
+  "events_url": "https://api.github.com/users/olahav/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/olahav/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

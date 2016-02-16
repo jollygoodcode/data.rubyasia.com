@@ -1,0 +1,20 @@
+{
+  "login": "uzairshah",
+  "id": 3498711,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3498711?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uzairshah",
+  "html_url": "https://github.com/uzairshah",
+  "followers_url": "https://api.github.com/users/uzairshah/followers",
+  "following_url": "https://api.github.com/users/uzairshah/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uzairshah/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uzairshah/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uzairshah/subscriptions",
+  "organizations_url": "https://api.github.com/users/uzairshah/orgs",
+  "repos_url": "https://api.github.com/users/uzairshah/repos",
+  "events_url": "https://api.github.com/users/uzairshah/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uzairshah/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

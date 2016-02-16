@@ -1,0 +1,20 @@
+{
+  "login": "trey-jones",
+  "id": 1703284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1703284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/trey-jones",
+  "html_url": "https://github.com/trey-jones",
+  "followers_url": "https://api.github.com/users/trey-jones/followers",
+  "following_url": "https://api.github.com/users/trey-jones/following{/other_user}",
+  "gists_url": "https://api.github.com/users/trey-jones/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/trey-jones/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/trey-jones/subscriptions",
+  "organizations_url": "https://api.github.com/users/trey-jones/orgs",
+  "repos_url": "https://api.github.com/users/trey-jones/repos",
+  "events_url": "https://api.github.com/users/trey-jones/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/trey-jones/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

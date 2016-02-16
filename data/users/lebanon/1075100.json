@@ -1,0 +1,20 @@
+{
+  "login": "gharios",
+  "id": 1075100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1075100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gharios",
+  "html_url": "https://github.com/gharios",
+  "followers_url": "https://api.github.com/users/gharios/followers",
+  "following_url": "https://api.github.com/users/gharios/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gharios/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gharios/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gharios/subscriptions",
+  "organizations_url": "https://api.github.com/users/gharios/orgs",
+  "repos_url": "https://api.github.com/users/gharios/repos",
+  "events_url": "https://api.github.com/users/gharios/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gharios/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

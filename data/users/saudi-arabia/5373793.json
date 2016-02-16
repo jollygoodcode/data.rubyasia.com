@@ -1,0 +1,20 @@
+{
+  "login": "Ahmedjabar",
+  "id": 5373793,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5373793?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ahmedjabar",
+  "html_url": "https://github.com/Ahmedjabar",
+  "followers_url": "https://api.github.com/users/Ahmedjabar/followers",
+  "following_url": "https://api.github.com/users/Ahmedjabar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ahmedjabar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ahmedjabar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ahmedjabar/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ahmedjabar/orgs",
+  "repos_url": "https://api.github.com/users/Ahmedjabar/repos",
+  "events_url": "https://api.github.com/users/Ahmedjabar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ahmedjabar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

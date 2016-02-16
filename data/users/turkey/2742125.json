@@ -1,0 +1,20 @@
+{
+  "login": "dmazlum",
+  "id": 2742125,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2742125?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dmazlum",
+  "html_url": "https://github.com/dmazlum",
+  "followers_url": "https://api.github.com/users/dmazlum/followers",
+  "following_url": "https://api.github.com/users/dmazlum/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dmazlum/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dmazlum/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dmazlum/subscriptions",
+  "organizations_url": "https://api.github.com/users/dmazlum/orgs",
+  "repos_url": "https://api.github.com/users/dmazlum/repos",
+  "events_url": "https://api.github.com/users/dmazlum/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dmazlum/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "calebclark",
+  "id": 518307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/518307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/calebclark",
+  "html_url": "https://github.com/calebclark",
+  "followers_url": "https://api.github.com/users/calebclark/followers",
+  "following_url": "https://api.github.com/users/calebclark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/calebclark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/calebclark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/calebclark/subscriptions",
+  "organizations_url": "https://api.github.com/users/calebclark/orgs",
+  "repos_url": "https://api.github.com/users/calebclark/repos",
+  "events_url": "https://api.github.com/users/calebclark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/calebclark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

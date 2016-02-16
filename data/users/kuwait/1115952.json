@@ -1,0 +1,20 @@
+{
+  "login": "alobaid",
+  "id": 1115952,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1115952?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alobaid",
+  "html_url": "https://github.com/alobaid",
+  "followers_url": "https://api.github.com/users/alobaid/followers",
+  "following_url": "https://api.github.com/users/alobaid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alobaid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alobaid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alobaid/subscriptions",
+  "organizations_url": "https://api.github.com/users/alobaid/orgs",
+  "repos_url": "https://api.github.com/users/alobaid/repos",
+  "events_url": "https://api.github.com/users/alobaid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alobaid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

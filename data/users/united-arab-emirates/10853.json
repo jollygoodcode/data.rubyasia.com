@@ -1,0 +1,20 @@
+{
+  "login": "highandwild",
+  "id": 10853,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10853?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/highandwild",
+  "html_url": "https://github.com/highandwild",
+  "followers_url": "https://api.github.com/users/highandwild/followers",
+  "following_url": "https://api.github.com/users/highandwild/following{/other_user}",
+  "gists_url": "https://api.github.com/users/highandwild/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/highandwild/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/highandwild/subscriptions",
+  "organizations_url": "https://api.github.com/users/highandwild/orgs",
+  "repos_url": "https://api.github.com/users/highandwild/repos",
+  "events_url": "https://api.github.com/users/highandwild/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/highandwild/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

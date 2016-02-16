@@ -1,0 +1,20 @@
+{
+  "login": "ureyni",
+  "id": 11404543,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11404543?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ureyni",
+  "html_url": "https://github.com/ureyni",
+  "followers_url": "https://api.github.com/users/ureyni/followers",
+  "following_url": "https://api.github.com/users/ureyni/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ureyni/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ureyni/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ureyni/subscriptions",
+  "organizations_url": "https://api.github.com/users/ureyni/orgs",
+  "repos_url": "https://api.github.com/users/ureyni/repos",
+  "events_url": "https://api.github.com/users/ureyni/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ureyni/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

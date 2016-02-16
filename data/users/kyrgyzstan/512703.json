@@ -1,0 +1,20 @@
+{
+  "login": "SergeyKishenin",
+  "id": 512703,
+  "avatar_url": "https://avatars.githubusercontent.com/u/512703?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SergeyKishenin",
+  "html_url": "https://github.com/SergeyKishenin",
+  "followers_url": "https://api.github.com/users/SergeyKishenin/followers",
+  "following_url": "https://api.github.com/users/SergeyKishenin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SergeyKishenin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SergeyKishenin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SergeyKishenin/subscriptions",
+  "organizations_url": "https://api.github.com/users/SergeyKishenin/orgs",
+  "repos_url": "https://api.github.com/users/SergeyKishenin/repos",
+  "events_url": "https://api.github.com/users/SergeyKishenin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SergeyKishenin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hkan",
+  "id": 2135597,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2135597?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hkan",
+  "html_url": "https://github.com/hkan",
+  "followers_url": "https://api.github.com/users/hkan/followers",
+  "following_url": "https://api.github.com/users/hkan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hkan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hkan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hkan/subscriptions",
+  "organizations_url": "https://api.github.com/users/hkan/orgs",
+  "repos_url": "https://api.github.com/users/hkan/repos",
+  "events_url": "https://api.github.com/users/hkan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hkan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

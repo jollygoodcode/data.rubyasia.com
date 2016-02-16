@@ -1,0 +1,20 @@
+{
+  "login": "devishot",
+  "id": 1893223,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1893223?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devishot",
+  "html_url": "https://github.com/devishot",
+  "followers_url": "https://api.github.com/users/devishot/followers",
+  "following_url": "https://api.github.com/users/devishot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devishot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devishot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devishot/subscriptions",
+  "organizations_url": "https://api.github.com/users/devishot/orgs",
+  "repos_url": "https://api.github.com/users/devishot/repos",
+  "events_url": "https://api.github.com/users/devishot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devishot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

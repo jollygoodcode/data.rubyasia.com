@@ -1,0 +1,20 @@
+{
+  "login": "computeus",
+  "id": 388505,
+  "avatar_url": "https://avatars.githubusercontent.com/u/388505?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/computeus",
+  "html_url": "https://github.com/computeus",
+  "followers_url": "https://api.github.com/users/computeus/followers",
+  "following_url": "https://api.github.com/users/computeus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/computeus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/computeus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/computeus/subscriptions",
+  "organizations_url": "https://api.github.com/users/computeus/orgs",
+  "repos_url": "https://api.github.com/users/computeus/repos",
+  "events_url": "https://api.github.com/users/computeus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/computeus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

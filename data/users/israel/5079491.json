@@ -1,0 +1,20 @@
+{
+  "login": "rot-13",
+  "id": 5079491,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5079491?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rot-13",
+  "html_url": "https://github.com/rot-13",
+  "followers_url": "https://api.github.com/users/rot-13/followers",
+  "following_url": "https://api.github.com/users/rot-13/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rot-13/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rot-13/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rot-13/subscriptions",
+  "organizations_url": "https://api.github.com/users/rot-13/orgs",
+  "repos_url": "https://api.github.com/users/rot-13/repos",
+  "events_url": "https://api.github.com/users/rot-13/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rot-13/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

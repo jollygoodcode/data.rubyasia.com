@@ -1,0 +1,20 @@
+{
+  "login": "itayadler",
+  "id": 512336,
+  "avatar_url": "https://avatars.githubusercontent.com/u/512336?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/itayadler",
+  "html_url": "https://github.com/itayadler",
+  "followers_url": "https://api.github.com/users/itayadler/followers",
+  "following_url": "https://api.github.com/users/itayadler/following{/other_user}",
+  "gists_url": "https://api.github.com/users/itayadler/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/itayadler/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/itayadler/subscriptions",
+  "organizations_url": "https://api.github.com/users/itayadler/orgs",
+  "repos_url": "https://api.github.com/users/itayadler/repos",
+  "events_url": "https://api.github.com/users/itayadler/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/itayadler/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

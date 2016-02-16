@@ -1,0 +1,20 @@
+{
+  "login": "ArtDealer",
+  "id": 2253501,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2253501?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ArtDealer",
+  "html_url": "https://github.com/ArtDealer",
+  "followers_url": "https://api.github.com/users/ArtDealer/followers",
+  "following_url": "https://api.github.com/users/ArtDealer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ArtDealer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ArtDealer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ArtDealer/subscriptions",
+  "organizations_url": "https://api.github.com/users/ArtDealer/orgs",
+  "repos_url": "https://api.github.com/users/ArtDealer/repos",
+  "events_url": "https://api.github.com/users/ArtDealer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ArtDealer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

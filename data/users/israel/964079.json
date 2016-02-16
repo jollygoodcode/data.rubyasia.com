@@ -1,0 +1,20 @@
+{
+  "login": "myheritage",
+  "id": 964079,
+  "avatar_url": "https://avatars.githubusercontent.com/u/964079?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/myheritage",
+  "html_url": "https://github.com/myheritage",
+  "followers_url": "https://api.github.com/users/myheritage/followers",
+  "following_url": "https://api.github.com/users/myheritage/following{/other_user}",
+  "gists_url": "https://api.github.com/users/myheritage/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/myheritage/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/myheritage/subscriptions",
+  "organizations_url": "https://api.github.com/users/myheritage/orgs",
+  "repos_url": "https://api.github.com/users/myheritage/repos",
+  "events_url": "https://api.github.com/users/myheritage/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/myheritage/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

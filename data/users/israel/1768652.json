@@ -1,0 +1,20 @@
+{
+  "login": "benams",
+  "id": 1768652,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1768652?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/benams",
+  "html_url": "https://github.com/benams",
+  "followers_url": "https://api.github.com/users/benams/followers",
+  "following_url": "https://api.github.com/users/benams/following{/other_user}",
+  "gists_url": "https://api.github.com/users/benams/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/benams/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/benams/subscriptions",
+  "organizations_url": "https://api.github.com/users/benams/orgs",
+  "repos_url": "https://api.github.com/users/benams/repos",
+  "events_url": "https://api.github.com/users/benams/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/benams/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

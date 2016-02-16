@@ -1,0 +1,20 @@
+{
+  "login": "cregev",
+  "id": 7669819,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7669819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cregev",
+  "html_url": "https://github.com/cregev",
+  "followers_url": "https://api.github.com/users/cregev/followers",
+  "following_url": "https://api.github.com/users/cregev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cregev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cregev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cregev/subscriptions",
+  "organizations_url": "https://api.github.com/users/cregev/orgs",
+  "repos_url": "https://api.github.com/users/cregev/repos",
+  "events_url": "https://api.github.com/users/cregev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cregev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

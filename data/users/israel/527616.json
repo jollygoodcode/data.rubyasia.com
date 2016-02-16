@@ -1,0 +1,20 @@
+{
+  "login": "danarmak",
+  "id": 527616,
+  "avatar_url": "https://avatars.githubusercontent.com/u/527616?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/danarmak",
+  "html_url": "https://github.com/danarmak",
+  "followers_url": "https://api.github.com/users/danarmak/followers",
+  "following_url": "https://api.github.com/users/danarmak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/danarmak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/danarmak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/danarmak/subscriptions",
+  "organizations_url": "https://api.github.com/users/danarmak/orgs",
+  "repos_url": "https://api.github.com/users/danarmak/repos",
+  "events_url": "https://api.github.com/users/danarmak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/danarmak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

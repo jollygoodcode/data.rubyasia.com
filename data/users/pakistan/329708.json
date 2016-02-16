@@ -1,0 +1,20 @@
+{
+  "login": "mabid",
+  "id": 329708,
+  "avatar_url": "https://avatars.githubusercontent.com/u/329708?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mabid",
+  "html_url": "https://github.com/mabid",
+  "followers_url": "https://api.github.com/users/mabid/followers",
+  "following_url": "https://api.github.com/users/mabid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mabid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mabid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mabid/subscriptions",
+  "organizations_url": "https://api.github.com/users/mabid/orgs",
+  "repos_url": "https://api.github.com/users/mabid/repos",
+  "events_url": "https://api.github.com/users/mabid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mabid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

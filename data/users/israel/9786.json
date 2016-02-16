@@ -1,0 +1,20 @@
+{
+  "login": "NoamB",
+  "id": 9786,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9786?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NoamB",
+  "html_url": "https://github.com/NoamB",
+  "followers_url": "https://api.github.com/users/NoamB/followers",
+  "following_url": "https://api.github.com/users/NoamB/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NoamB/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NoamB/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NoamB/subscriptions",
+  "organizations_url": "https://api.github.com/users/NoamB/orgs",
+  "repos_url": "https://api.github.com/users/NoamB/repos",
+  "events_url": "https://api.github.com/users/NoamB/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NoamB/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

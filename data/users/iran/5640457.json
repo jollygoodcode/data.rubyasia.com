@@ -1,0 +1,20 @@
+{
+  "login": "bluetreeir",
+  "id": 5640457,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5640457?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bluetreeir",
+  "html_url": "https://github.com/bluetreeir",
+  "followers_url": "https://api.github.com/users/bluetreeir/followers",
+  "following_url": "https://api.github.com/users/bluetreeir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bluetreeir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bluetreeir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bluetreeir/subscriptions",
+  "organizations_url": "https://api.github.com/users/bluetreeir/orgs",
+  "repos_url": "https://api.github.com/users/bluetreeir/repos",
+  "events_url": "https://api.github.com/users/bluetreeir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bluetreeir/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

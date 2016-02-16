@@ -1,0 +1,20 @@
+{
+  "login": "furkanayhan",
+  "id": 1630249,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1630249?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/furkanayhan",
+  "html_url": "https://github.com/furkanayhan",
+  "followers_url": "https://api.github.com/users/furkanayhan/followers",
+  "following_url": "https://api.github.com/users/furkanayhan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/furkanayhan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/furkanayhan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/furkanayhan/subscriptions",
+  "organizations_url": "https://api.github.com/users/furkanayhan/orgs",
+  "repos_url": "https://api.github.com/users/furkanayhan/repos",
+  "events_url": "https://api.github.com/users/furkanayhan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/furkanayhan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

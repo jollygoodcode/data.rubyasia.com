@@ -1,0 +1,20 @@
+{
+  "login": "bjornd",
+  "id": 939401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/939401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bjornd",
+  "html_url": "https://github.com/bjornd",
+  "followers_url": "https://api.github.com/users/bjornd/followers",
+  "following_url": "https://api.github.com/users/bjornd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bjornd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bjornd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bjornd/subscriptions",
+  "organizations_url": "https://api.github.com/users/bjornd/orgs",
+  "repos_url": "https://api.github.com/users/bjornd/repos",
+  "events_url": "https://api.github.com/users/bjornd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bjornd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

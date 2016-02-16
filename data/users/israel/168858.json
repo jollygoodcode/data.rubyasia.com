@@ -1,0 +1,20 @@
+{
+  "login": "borisd",
+  "id": 168858,
+  "avatar_url": "https://avatars.githubusercontent.com/u/168858?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/borisd",
+  "html_url": "https://github.com/borisd",
+  "followers_url": "https://api.github.com/users/borisd/followers",
+  "following_url": "https://api.github.com/users/borisd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/borisd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/borisd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/borisd/subscriptions",
+  "organizations_url": "https://api.github.com/users/borisd/orgs",
+  "repos_url": "https://api.github.com/users/borisd/repos",
+  "events_url": "https://api.github.com/users/borisd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/borisd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

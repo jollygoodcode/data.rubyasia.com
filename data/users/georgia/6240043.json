@@ -1,0 +1,20 @@
+{
+  "login": "mattathompson",
+  "id": 6240043,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6240043?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mattathompson",
+  "html_url": "https://github.com/mattathompson",
+  "followers_url": "https://api.github.com/users/mattathompson/followers",
+  "following_url": "https://api.github.com/users/mattathompson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mattathompson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mattathompson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mattathompson/subscriptions",
+  "organizations_url": "https://api.github.com/users/mattathompson/orgs",
+  "repos_url": "https://api.github.com/users/mattathompson/repos",
+  "events_url": "https://api.github.com/users/mattathompson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mattathompson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

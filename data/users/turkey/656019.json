@@ -1,0 +1,20 @@
+{
+  "login": "hursit",
+  "id": 656019,
+  "avatar_url": "https://avatars.githubusercontent.com/u/656019?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hursit",
+  "html_url": "https://github.com/hursit",
+  "followers_url": "https://api.github.com/users/hursit/followers",
+  "following_url": "https://api.github.com/users/hursit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hursit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hursit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hursit/subscriptions",
+  "organizations_url": "https://api.github.com/users/hursit/orgs",
+  "repos_url": "https://api.github.com/users/hursit/repos",
+  "events_url": "https://api.github.com/users/hursit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hursit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

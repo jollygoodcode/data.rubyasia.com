@@ -1,0 +1,20 @@
+{
+  "login": "stephentknight",
+  "id": 537885,
+  "avatar_url": "https://avatars.githubusercontent.com/u/537885?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stephentknight",
+  "html_url": "https://github.com/stephentknight",
+  "followers_url": "https://api.github.com/users/stephentknight/followers",
+  "following_url": "https://api.github.com/users/stephentknight/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stephentknight/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stephentknight/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stephentknight/subscriptions",
+  "organizations_url": "https://api.github.com/users/stephentknight/orgs",
+  "repos_url": "https://api.github.com/users/stephentknight/repos",
+  "events_url": "https://api.github.com/users/stephentknight/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stephentknight/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

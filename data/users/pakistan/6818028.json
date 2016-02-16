@@ -1,0 +1,20 @@
+{
+  "login": "rails-hub",
+  "id": 6818028,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6818028?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rails-hub",
+  "html_url": "https://github.com/rails-hub",
+  "followers_url": "https://api.github.com/users/rails-hub/followers",
+  "following_url": "https://api.github.com/users/rails-hub/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rails-hub/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rails-hub/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rails-hub/subscriptions",
+  "organizations_url": "https://api.github.com/users/rails-hub/orgs",
+  "repos_url": "https://api.github.com/users/rails-hub/repos",
+  "events_url": "https://api.github.com/users/rails-hub/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rails-hub/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

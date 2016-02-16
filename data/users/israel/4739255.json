@@ -1,0 +1,20 @@
+{
+  "login": "shimf",
+  "id": 4739255,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4739255?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shimf",
+  "html_url": "https://github.com/shimf",
+  "followers_url": "https://api.github.com/users/shimf/followers",
+  "following_url": "https://api.github.com/users/shimf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shimf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shimf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shimf/subscriptions",
+  "organizations_url": "https://api.github.com/users/shimf/orgs",
+  "repos_url": "https://api.github.com/users/shimf/repos",
+  "events_url": "https://api.github.com/users/shimf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shimf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

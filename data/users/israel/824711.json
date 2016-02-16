@@ -1,0 +1,20 @@
+{
+  "login": "oziransky",
+  "id": 824711,
+  "avatar_url": "https://avatars.githubusercontent.com/u/824711?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oziransky",
+  "html_url": "https://github.com/oziransky",
+  "followers_url": "https://api.github.com/users/oziransky/followers",
+  "following_url": "https://api.github.com/users/oziransky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oziransky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oziransky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oziransky/subscriptions",
+  "organizations_url": "https://api.github.com/users/oziransky/orgs",
+  "repos_url": "https://api.github.com/users/oziransky/repos",
+  "events_url": "https://api.github.com/users/oziransky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oziransky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

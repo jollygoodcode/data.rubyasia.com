@@ -1,0 +1,20 @@
+{
+  "login": "sancopanco",
+  "id": 603391,
+  "avatar_url": "https://avatars.githubusercontent.com/u/603391?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sancopanco",
+  "html_url": "https://github.com/sancopanco",
+  "followers_url": "https://api.github.com/users/sancopanco/followers",
+  "following_url": "https://api.github.com/users/sancopanco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sancopanco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sancopanco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sancopanco/subscriptions",
+  "organizations_url": "https://api.github.com/users/sancopanco/orgs",
+  "repos_url": "https://api.github.com/users/sancopanco/repos",
+  "events_url": "https://api.github.com/users/sancopanco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sancopanco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

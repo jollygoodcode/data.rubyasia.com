@@ -1,0 +1,20 @@
+{
+  "login": "kaanbursa",
+  "id": 8964412,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8964412?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaanbursa",
+  "html_url": "https://github.com/kaanbursa",
+  "followers_url": "https://api.github.com/users/kaanbursa/followers",
+  "following_url": "https://api.github.com/users/kaanbursa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaanbursa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaanbursa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaanbursa/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaanbursa/orgs",
+  "repos_url": "https://api.github.com/users/kaanbursa/repos",
+  "events_url": "https://api.github.com/users/kaanbursa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaanbursa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

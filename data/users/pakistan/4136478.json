@@ -1,0 +1,20 @@
+{
+  "login": "bilalbash",
+  "id": 4136478,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4136478?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bilalbash",
+  "html_url": "https://github.com/bilalbash",
+  "followers_url": "https://api.github.com/users/bilalbash/followers",
+  "following_url": "https://api.github.com/users/bilalbash/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bilalbash/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bilalbash/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bilalbash/subscriptions",
+  "organizations_url": "https://api.github.com/users/bilalbash/orgs",
+  "repos_url": "https://api.github.com/users/bilalbash/repos",
+  "events_url": "https://api.github.com/users/bilalbash/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bilalbash/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

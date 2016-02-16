@@ -1,0 +1,20 @@
+{
+  "login": "dubsdaazn",
+  "id": 1117090,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1117090?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dubsdaazn",
+  "html_url": "https://github.com/dubsdaazn",
+  "followers_url": "https://api.github.com/users/dubsdaazn/followers",
+  "following_url": "https://api.github.com/users/dubsdaazn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dubsdaazn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dubsdaazn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dubsdaazn/subscriptions",
+  "organizations_url": "https://api.github.com/users/dubsdaazn/orgs",
+  "repos_url": "https://api.github.com/users/dubsdaazn/repos",
+  "events_url": "https://api.github.com/users/dubsdaazn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dubsdaazn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

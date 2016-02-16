@@ -1,0 +1,20 @@
+{
+  "login": "gustoir",
+  "id": 13006103,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13006103?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gustoir",
+  "html_url": "https://github.com/gustoir",
+  "followers_url": "https://api.github.com/users/gustoir/followers",
+  "following_url": "https://api.github.com/users/gustoir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gustoir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gustoir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gustoir/subscriptions",
+  "organizations_url": "https://api.github.com/users/gustoir/orgs",
+  "repos_url": "https://api.github.com/users/gustoir/repos",
+  "events_url": "https://api.github.com/users/gustoir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gustoir/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

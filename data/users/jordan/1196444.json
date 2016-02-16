@@ -1,0 +1,20 @@
+{
+  "login": "buttercloud",
+  "id": 1196444,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1196444?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/buttercloud",
+  "html_url": "https://github.com/buttercloud",
+  "followers_url": "https://api.github.com/users/buttercloud/followers",
+  "following_url": "https://api.github.com/users/buttercloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/buttercloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/buttercloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/buttercloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/buttercloud/orgs",
+  "repos_url": "https://api.github.com/users/buttercloud/repos",
+  "events_url": "https://api.github.com/users/buttercloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/buttercloud/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

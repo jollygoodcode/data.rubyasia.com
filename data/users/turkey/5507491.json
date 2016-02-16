@@ -1,0 +1,20 @@
+{
+  "login": "mmertk",
+  "id": 5507491,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5507491?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mmertk",
+  "html_url": "https://github.com/mmertk",
+  "followers_url": "https://api.github.com/users/mmertk/followers",
+  "following_url": "https://api.github.com/users/mmertk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mmertk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mmertk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mmertk/subscriptions",
+  "organizations_url": "https://api.github.com/users/mmertk/orgs",
+  "repos_url": "https://api.github.com/users/mmertk/repos",
+  "events_url": "https://api.github.com/users/mmertk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mmertk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

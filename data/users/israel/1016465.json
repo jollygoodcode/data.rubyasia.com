@@ -1,0 +1,20 @@
+{
+  "login": "royk",
+  "id": 1016465,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1016465?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/royk",
+  "html_url": "https://github.com/royk",
+  "followers_url": "https://api.github.com/users/royk/followers",
+  "following_url": "https://api.github.com/users/royk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/royk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/royk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/royk/subscriptions",
+  "organizations_url": "https://api.github.com/users/royk/orgs",
+  "repos_url": "https://api.github.com/users/royk/repos",
+  "events_url": "https://api.github.com/users/royk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/royk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

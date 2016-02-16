@@ -1,0 +1,20 @@
+{
+  "login": "alavrov",
+  "id": 518863,
+  "avatar_url": "https://avatars.githubusercontent.com/u/518863?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alavrov",
+  "html_url": "https://github.com/alavrov",
+  "followers_url": "https://api.github.com/users/alavrov/followers",
+  "following_url": "https://api.github.com/users/alavrov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alavrov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alavrov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alavrov/subscriptions",
+  "organizations_url": "https://api.github.com/users/alavrov/orgs",
+  "repos_url": "https://api.github.com/users/alavrov/repos",
+  "events_url": "https://api.github.com/users/alavrov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alavrov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

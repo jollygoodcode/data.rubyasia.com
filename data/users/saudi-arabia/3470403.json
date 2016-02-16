@@ -1,0 +1,20 @@
+{
+  "login": "Ahimta",
+  "id": 3470403,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3470403?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ahimta",
+  "html_url": "https://github.com/Ahimta",
+  "followers_url": "https://api.github.com/users/Ahimta/followers",
+  "following_url": "https://api.github.com/users/Ahimta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ahimta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ahimta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ahimta/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ahimta/orgs",
+  "repos_url": "https://api.github.com/users/Ahimta/repos",
+  "events_url": "https://api.github.com/users/Ahimta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ahimta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

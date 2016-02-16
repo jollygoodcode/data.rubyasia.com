@@ -1,0 +1,20 @@
+{
+  "login": "lispers",
+  "id": 8047700,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8047700?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lispers",
+  "html_url": "https://github.com/lispers",
+  "followers_url": "https://api.github.com/users/lispers/followers",
+  "following_url": "https://api.github.com/users/lispers/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lispers/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lispers/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lispers/subscriptions",
+  "organizations_url": "https://api.github.com/users/lispers/orgs",
+  "repos_url": "https://api.github.com/users/lispers/repos",
+  "events_url": "https://api.github.com/users/lispers/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lispers/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

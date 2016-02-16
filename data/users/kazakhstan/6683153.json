@@ -1,0 +1,20 @@
+{
+  "login": "CoolDoni",
+  "id": 6683153,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6683153?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CoolDoni",
+  "html_url": "https://github.com/CoolDoni",
+  "followers_url": "https://api.github.com/users/CoolDoni/followers",
+  "following_url": "https://api.github.com/users/CoolDoni/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CoolDoni/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CoolDoni/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CoolDoni/subscriptions",
+  "organizations_url": "https://api.github.com/users/CoolDoni/orgs",
+  "repos_url": "https://api.github.com/users/CoolDoni/repos",
+  "events_url": "https://api.github.com/users/CoolDoni/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CoolDoni/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

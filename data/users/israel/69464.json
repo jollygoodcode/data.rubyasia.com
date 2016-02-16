@@ -1,0 +1,20 @@
+{
+  "login": "adamilan",
+  "id": 69464,
+  "avatar_url": "https://avatars.githubusercontent.com/u/69464?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adamilan",
+  "html_url": "https://github.com/adamilan",
+  "followers_url": "https://api.github.com/users/adamilan/followers",
+  "following_url": "https://api.github.com/users/adamilan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adamilan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adamilan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adamilan/subscriptions",
+  "organizations_url": "https://api.github.com/users/adamilan/orgs",
+  "repos_url": "https://api.github.com/users/adamilan/repos",
+  "events_url": "https://api.github.com/users/adamilan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adamilan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

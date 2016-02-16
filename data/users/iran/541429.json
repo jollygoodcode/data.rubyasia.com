@@ -1,0 +1,20 @@
+{
+  "login": "saderi",
+  "id": 541429,
+  "avatar_url": "https://avatars.githubusercontent.com/u/541429?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saderi",
+  "html_url": "https://github.com/saderi",
+  "followers_url": "https://api.github.com/users/saderi/followers",
+  "following_url": "https://api.github.com/users/saderi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saderi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saderi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saderi/subscriptions",
+  "organizations_url": "https://api.github.com/users/saderi/orgs",
+  "repos_url": "https://api.github.com/users/saderi/repos",
+  "events_url": "https://api.github.com/users/saderi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saderi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

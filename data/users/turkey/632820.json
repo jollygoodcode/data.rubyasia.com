@@ -1,0 +1,20 @@
+{
+  "login": "askn",
+  "id": 632820,
+  "avatar_url": "https://avatars.githubusercontent.com/u/632820?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/askn",
+  "html_url": "https://github.com/askn",
+  "followers_url": "https://api.github.com/users/askn/followers",
+  "following_url": "https://api.github.com/users/askn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/askn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/askn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/askn/subscriptions",
+  "organizations_url": "https://api.github.com/users/askn/orgs",
+  "repos_url": "https://api.github.com/users/askn/repos",
+  "events_url": "https://api.github.com/users/askn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/askn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

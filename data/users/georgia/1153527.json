@@ -1,0 +1,20 @@
+{
+  "login": "colonel-sanders",
+  "id": 1153527,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1153527?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/colonel-sanders",
+  "html_url": "https://github.com/colonel-sanders",
+  "followers_url": "https://api.github.com/users/colonel-sanders/followers",
+  "following_url": "https://api.github.com/users/colonel-sanders/following{/other_user}",
+  "gists_url": "https://api.github.com/users/colonel-sanders/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/colonel-sanders/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/colonel-sanders/subscriptions",
+  "organizations_url": "https://api.github.com/users/colonel-sanders/orgs",
+  "repos_url": "https://api.github.com/users/colonel-sanders/repos",
+  "events_url": "https://api.github.com/users/colonel-sanders/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/colonel-sanders/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

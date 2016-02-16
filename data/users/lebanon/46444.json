@@ -1,0 +1,20 @@
+{
+  "login": "batlounis",
+  "id": 46444,
+  "avatar_url": "https://avatars.githubusercontent.com/u/46444?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/batlounis",
+  "html_url": "https://github.com/batlounis",
+  "followers_url": "https://api.github.com/users/batlounis/followers",
+  "following_url": "https://api.github.com/users/batlounis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/batlounis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/batlounis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/batlounis/subscriptions",
+  "organizations_url": "https://api.github.com/users/batlounis/orgs",
+  "repos_url": "https://api.github.com/users/batlounis/repos",
+  "events_url": "https://api.github.com/users/batlounis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/batlounis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

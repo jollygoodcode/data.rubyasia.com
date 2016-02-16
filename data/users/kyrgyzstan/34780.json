@@ -1,0 +1,20 @@
+{
+  "login": "vavaka",
+  "id": 34780,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34780?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vavaka",
+  "html_url": "https://github.com/vavaka",
+  "followers_url": "https://api.github.com/users/vavaka/followers",
+  "following_url": "https://api.github.com/users/vavaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vavaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vavaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vavaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/vavaka/orgs",
+  "repos_url": "https://api.github.com/users/vavaka/repos",
+  "events_url": "https://api.github.com/users/vavaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vavaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

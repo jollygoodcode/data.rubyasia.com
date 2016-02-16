@@ -1,0 +1,20 @@
+{
+  "login": "john1512",
+  "id": 450515,
+  "avatar_url": "https://avatars.githubusercontent.com/u/450515?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/john1512",
+  "html_url": "https://github.com/john1512",
+  "followers_url": "https://api.github.com/users/john1512/followers",
+  "following_url": "https://api.github.com/users/john1512/following{/other_user}",
+  "gists_url": "https://api.github.com/users/john1512/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/john1512/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/john1512/subscriptions",
+  "organizations_url": "https://api.github.com/users/john1512/orgs",
+  "repos_url": "https://api.github.com/users/john1512/repos",
+  "events_url": "https://api.github.com/users/john1512/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/john1512/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yarinb",
+  "id": 16505,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16505?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yarinb",
+  "html_url": "https://github.com/yarinb",
+  "followers_url": "https://api.github.com/users/yarinb/followers",
+  "following_url": "https://api.github.com/users/yarinb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yarinb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yarinb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yarinb/subscriptions",
+  "organizations_url": "https://api.github.com/users/yarinb/orgs",
+  "repos_url": "https://api.github.com/users/yarinb/repos",
+  "events_url": "https://api.github.com/users/yarinb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yarinb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

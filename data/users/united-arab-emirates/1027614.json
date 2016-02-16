@@ -1,0 +1,20 @@
+{
+  "login": "remiphilippe",
+  "id": 1027614,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1027614?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/remiphilippe",
+  "html_url": "https://github.com/remiphilippe",
+  "followers_url": "https://api.github.com/users/remiphilippe/followers",
+  "following_url": "https://api.github.com/users/remiphilippe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/remiphilippe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/remiphilippe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/remiphilippe/subscriptions",
+  "organizations_url": "https://api.github.com/users/remiphilippe/orgs",
+  "repos_url": "https://api.github.com/users/remiphilippe/repos",
+  "events_url": "https://api.github.com/users/remiphilippe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/remiphilippe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

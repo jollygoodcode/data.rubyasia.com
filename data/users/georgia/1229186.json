@@ -1,0 +1,20 @@
+{
+  "login": "splitDiff",
+  "id": 1229186,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1229186?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/splitDiff",
+  "html_url": "https://github.com/splitDiff",
+  "followers_url": "https://api.github.com/users/splitDiff/followers",
+  "following_url": "https://api.github.com/users/splitDiff/following{/other_user}",
+  "gists_url": "https://api.github.com/users/splitDiff/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/splitDiff/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/splitDiff/subscriptions",
+  "organizations_url": "https://api.github.com/users/splitDiff/orgs",
+  "repos_url": "https://api.github.com/users/splitDiff/repos",
+  "events_url": "https://api.github.com/users/splitDiff/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/splitDiff/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

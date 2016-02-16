@@ -1,0 +1,20 @@
+{
+  "login": "double-o-z",
+  "id": 6588320,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6588320?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/double-o-z",
+  "html_url": "https://github.com/double-o-z",
+  "followers_url": "https://api.github.com/users/double-o-z/followers",
+  "following_url": "https://api.github.com/users/double-o-z/following{/other_user}",
+  "gists_url": "https://api.github.com/users/double-o-z/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/double-o-z/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/double-o-z/subscriptions",
+  "organizations_url": "https://api.github.com/users/double-o-z/orgs",
+  "repos_url": "https://api.github.com/users/double-o-z/repos",
+  "events_url": "https://api.github.com/users/double-o-z/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/double-o-z/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

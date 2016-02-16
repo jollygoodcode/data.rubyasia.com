@@ -1,0 +1,20 @@
+{
+  "login": "RichardCoffee",
+  "id": 4010873,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4010873?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/RichardCoffee",
+  "html_url": "https://github.com/RichardCoffee",
+  "followers_url": "https://api.github.com/users/RichardCoffee/followers",
+  "following_url": "https://api.github.com/users/RichardCoffee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/RichardCoffee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/RichardCoffee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/RichardCoffee/subscriptions",
+  "organizations_url": "https://api.github.com/users/RichardCoffee/orgs",
+  "repos_url": "https://api.github.com/users/RichardCoffee/repos",
+  "events_url": "https://api.github.com/users/RichardCoffee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/RichardCoffee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

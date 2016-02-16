@@ -1,0 +1,20 @@
+{
+  "login": "vitalis",
+  "id": 36814,
+  "avatar_url": "https://avatars.githubusercontent.com/u/36814?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vitalis",
+  "html_url": "https://github.com/vitalis",
+  "followers_url": "https://api.github.com/users/vitalis/followers",
+  "following_url": "https://api.github.com/users/vitalis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vitalis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vitalis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vitalis/subscriptions",
+  "organizations_url": "https://api.github.com/users/vitalis/orgs",
+  "repos_url": "https://api.github.com/users/vitalis/repos",
+  "events_url": "https://api.github.com/users/vitalis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vitalis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

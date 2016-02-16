@@ -1,0 +1,20 @@
+{
+  "login": "benikov",
+  "id": 4035871,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4035871?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/benikov",
+  "html_url": "https://github.com/benikov",
+  "followers_url": "https://api.github.com/users/benikov/followers",
+  "following_url": "https://api.github.com/users/benikov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/benikov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/benikov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/benikov/subscriptions",
+  "organizations_url": "https://api.github.com/users/benikov/orgs",
+  "repos_url": "https://api.github.com/users/benikov/repos",
+  "events_url": "https://api.github.com/users/benikov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/benikov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

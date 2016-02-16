@@ -1,0 +1,20 @@
+{
+  "login": "miracsa",
+  "id": 5803681,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5803681?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miracsa",
+  "html_url": "https://github.com/miracsa",
+  "followers_url": "https://api.github.com/users/miracsa/followers",
+  "following_url": "https://api.github.com/users/miracsa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miracsa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miracsa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miracsa/subscriptions",
+  "organizations_url": "https://api.github.com/users/miracsa/orgs",
+  "repos_url": "https://api.github.com/users/miracsa/repos",
+  "events_url": "https://api.github.com/users/miracsa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miracsa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

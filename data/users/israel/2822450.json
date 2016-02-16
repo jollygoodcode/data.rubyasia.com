@@ -1,0 +1,20 @@
+{
+  "login": "kerkero",
+  "id": 2822450,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2822450?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kerkero",
+  "html_url": "https://github.com/kerkero",
+  "followers_url": "https://api.github.com/users/kerkero/followers",
+  "following_url": "https://api.github.com/users/kerkero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kerkero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kerkero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kerkero/subscriptions",
+  "organizations_url": "https://api.github.com/users/kerkero/orgs",
+  "repos_url": "https://api.github.com/users/kerkero/repos",
+  "events_url": "https://api.github.com/users/kerkero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kerkero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

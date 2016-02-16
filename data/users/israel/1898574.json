@@ -1,0 +1,20 @@
+{
+  "login": "operad",
+  "id": 1898574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1898574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/operad",
+  "html_url": "https://github.com/operad",
+  "followers_url": "https://api.github.com/users/operad/followers",
+  "following_url": "https://api.github.com/users/operad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/operad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/operad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/operad/subscriptions",
+  "organizations_url": "https://api.github.com/users/operad/orgs",
+  "repos_url": "https://api.github.com/users/operad/repos",
+  "events_url": "https://api.github.com/users/operad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/operad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

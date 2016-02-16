@@ -1,0 +1,20 @@
+{
+  "login": "amitkaz",
+  "id": 99561,
+  "avatar_url": "https://avatars.githubusercontent.com/u/99561?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amitkaz",
+  "html_url": "https://github.com/amitkaz",
+  "followers_url": "https://api.github.com/users/amitkaz/followers",
+  "following_url": "https://api.github.com/users/amitkaz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amitkaz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amitkaz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amitkaz/subscriptions",
+  "organizations_url": "https://api.github.com/users/amitkaz/orgs",
+  "repos_url": "https://api.github.com/users/amitkaz/repos",
+  "events_url": "https://api.github.com/users/amitkaz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amitkaz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

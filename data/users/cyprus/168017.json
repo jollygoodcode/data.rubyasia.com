@@ -1,0 +1,20 @@
+{
+  "login": "ddemetis",
+  "id": 168017,
+  "avatar_url": "https://avatars.githubusercontent.com/u/168017?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ddemetis",
+  "html_url": "https://github.com/ddemetis",
+  "followers_url": "https://api.github.com/users/ddemetis/followers",
+  "following_url": "https://api.github.com/users/ddemetis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ddemetis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ddemetis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ddemetis/subscriptions",
+  "organizations_url": "https://api.github.com/users/ddemetis/orgs",
+  "repos_url": "https://api.github.com/users/ddemetis/repos",
+  "events_url": "https://api.github.com/users/ddemetis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ddemetis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

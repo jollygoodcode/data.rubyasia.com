@@ -1,0 +1,20 @@
+{
+  "login": "itsnasir",
+  "id": 336738,
+  "avatar_url": "https://avatars.githubusercontent.com/u/336738?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/itsnasir",
+  "html_url": "https://github.com/itsnasir",
+  "followers_url": "https://api.github.com/users/itsnasir/followers",
+  "following_url": "https://api.github.com/users/itsnasir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/itsnasir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/itsnasir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/itsnasir/subscriptions",
+  "organizations_url": "https://api.github.com/users/itsnasir/orgs",
+  "repos_url": "https://api.github.com/users/itsnasir/repos",
+  "events_url": "https://api.github.com/users/itsnasir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/itsnasir/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

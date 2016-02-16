@@ -1,0 +1,20 @@
+{
+  "login": "digidemon",
+  "id": 2225889,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2225889?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/digidemon",
+  "html_url": "https://github.com/digidemon",
+  "followers_url": "https://api.github.com/users/digidemon/followers",
+  "following_url": "https://api.github.com/users/digidemon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/digidemon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/digidemon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/digidemon/subscriptions",
+  "organizations_url": "https://api.github.com/users/digidemon/orgs",
+  "repos_url": "https://api.github.com/users/digidemon/repos",
+  "events_url": "https://api.github.com/users/digidemon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/digidemon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

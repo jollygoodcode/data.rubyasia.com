@@ -1,0 +1,20 @@
+{
+  "login": "ThomasBush",
+  "id": 1376312,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1376312?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ThomasBush",
+  "html_url": "https://github.com/ThomasBush",
+  "followers_url": "https://api.github.com/users/ThomasBush/followers",
+  "following_url": "https://api.github.com/users/ThomasBush/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ThomasBush/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ThomasBush/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ThomasBush/subscriptions",
+  "organizations_url": "https://api.github.com/users/ThomasBush/orgs",
+  "repos_url": "https://api.github.com/users/ThomasBush/repos",
+  "events_url": "https://api.github.com/users/ThomasBush/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ThomasBush/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

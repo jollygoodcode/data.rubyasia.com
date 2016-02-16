@@ -1,0 +1,20 @@
+{
+  "login": "meitalfed",
+  "id": 1312739,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1312739?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/meitalfed",
+  "html_url": "https://github.com/meitalfed",
+  "followers_url": "https://api.github.com/users/meitalfed/followers",
+  "following_url": "https://api.github.com/users/meitalfed/following{/other_user}",
+  "gists_url": "https://api.github.com/users/meitalfed/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/meitalfed/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/meitalfed/subscriptions",
+  "organizations_url": "https://api.github.com/users/meitalfed/orgs",
+  "repos_url": "https://api.github.com/users/meitalfed/repos",
+  "events_url": "https://api.github.com/users/meitalfed/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/meitalfed/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "inbalj",
+  "id": 8232597,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8232597?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inbalj",
+  "html_url": "https://github.com/inbalj",
+  "followers_url": "https://api.github.com/users/inbalj/followers",
+  "following_url": "https://api.github.com/users/inbalj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inbalj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inbalj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inbalj/subscriptions",
+  "organizations_url": "https://api.github.com/users/inbalj/orgs",
+  "repos_url": "https://api.github.com/users/inbalj/repos",
+  "events_url": "https://api.github.com/users/inbalj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inbalj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

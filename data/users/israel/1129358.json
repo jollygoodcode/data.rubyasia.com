@@ -1,0 +1,20 @@
+{
+  "login": "alexpusch",
+  "id": 1129358,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1129358?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexpusch",
+  "html_url": "https://github.com/alexpusch",
+  "followers_url": "https://api.github.com/users/alexpusch/followers",
+  "following_url": "https://api.github.com/users/alexpusch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexpusch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexpusch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexpusch/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexpusch/orgs",
+  "repos_url": "https://api.github.com/users/alexpusch/repos",
+  "events_url": "https://api.github.com/users/alexpusch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexpusch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

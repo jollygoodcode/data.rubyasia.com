@@ -1,0 +1,20 @@
+{
+  "login": "jamshoo",
+  "id": 2471427,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2471427?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamshoo",
+  "html_url": "https://github.com/jamshoo",
+  "followers_url": "https://api.github.com/users/jamshoo/followers",
+  "following_url": "https://api.github.com/users/jamshoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamshoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamshoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamshoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamshoo/orgs",
+  "repos_url": "https://api.github.com/users/jamshoo/repos",
+  "events_url": "https://api.github.com/users/jamshoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamshoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

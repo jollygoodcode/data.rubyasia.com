@@ -1,0 +1,20 @@
+{
+  "login": "vranjbar",
+  "id": 10993345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10993345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vranjbar",
+  "html_url": "https://github.com/vranjbar",
+  "followers_url": "https://api.github.com/users/vranjbar/followers",
+  "following_url": "https://api.github.com/users/vranjbar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vranjbar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vranjbar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vranjbar/subscriptions",
+  "organizations_url": "https://api.github.com/users/vranjbar/orgs",
+  "repos_url": "https://api.github.com/users/vranjbar/repos",
+  "events_url": "https://api.github.com/users/vranjbar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vranjbar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

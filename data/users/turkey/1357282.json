@@ -1,0 +1,20 @@
+{
+  "login": "cenbek",
+  "id": 1357282,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1357282?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cenbek",
+  "html_url": "https://github.com/cenbek",
+  "followers_url": "https://api.github.com/users/cenbek/followers",
+  "following_url": "https://api.github.com/users/cenbek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cenbek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cenbek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cenbek/subscriptions",
+  "organizations_url": "https://api.github.com/users/cenbek/orgs",
+  "repos_url": "https://api.github.com/users/cenbek/repos",
+  "events_url": "https://api.github.com/users/cenbek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cenbek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

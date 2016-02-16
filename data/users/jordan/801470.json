@@ -1,0 +1,20 @@
+{
+  "login": "jakesorce",
+  "id": 801470,
+  "avatar_url": "https://avatars.githubusercontent.com/u/801470?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jakesorce",
+  "html_url": "https://github.com/jakesorce",
+  "followers_url": "https://api.github.com/users/jakesorce/followers",
+  "following_url": "https://api.github.com/users/jakesorce/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jakesorce/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jakesorce/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jakesorce/subscriptions",
+  "organizations_url": "https://api.github.com/users/jakesorce/orgs",
+  "repos_url": "https://api.github.com/users/jakesorce/repos",
+  "events_url": "https://api.github.com/users/jakesorce/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jakesorce/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

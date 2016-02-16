@@ -1,0 +1,20 @@
+{
+  "login": "cdambo",
+  "id": 4181673,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4181673?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cdambo",
+  "html_url": "https://github.com/cdambo",
+  "followers_url": "https://api.github.com/users/cdambo/followers",
+  "following_url": "https://api.github.com/users/cdambo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cdambo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cdambo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cdambo/subscriptions",
+  "organizations_url": "https://api.github.com/users/cdambo/orgs",
+  "repos_url": "https://api.github.com/users/cdambo/repos",
+  "events_url": "https://api.github.com/users/cdambo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cdambo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

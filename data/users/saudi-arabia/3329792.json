@@ -1,0 +1,20 @@
+{
+  "login": "devnetsa",
+  "id": 3329792,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3329792?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devnetsa",
+  "html_url": "https://github.com/devnetsa",
+  "followers_url": "https://api.github.com/users/devnetsa/followers",
+  "following_url": "https://api.github.com/users/devnetsa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devnetsa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devnetsa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devnetsa/subscriptions",
+  "organizations_url": "https://api.github.com/users/devnetsa/orgs",
+  "repos_url": "https://api.github.com/users/devnetsa/repos",
+  "events_url": "https://api.github.com/users/devnetsa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devnetsa/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

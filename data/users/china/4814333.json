@@ -1,0 +1,20 @@
+{
+  "login": "yangqw",
+  "id": 4814333,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4814333?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yangqw",
+  "html_url": "https://github.com/yangqw",
+  "followers_url": "https://api.github.com/users/yangqw/followers",
+  "following_url": "https://api.github.com/users/yangqw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yangqw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yangqw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yangqw/subscriptions",
+  "organizations_url": "https://api.github.com/users/yangqw/orgs",
+  "repos_url": "https://api.github.com/users/yangqw/repos",
+  "events_url": "https://api.github.com/users/yangqw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yangqw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

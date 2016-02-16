@@ -1,0 +1,20 @@
+{
+  "login": "kuatro",
+  "id": 5260027,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5260027?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kuatro",
+  "html_url": "https://github.com/kuatro",
+  "followers_url": "https://api.github.com/users/kuatro/followers",
+  "following_url": "https://api.github.com/users/kuatro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kuatro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kuatro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kuatro/subscriptions",
+  "organizations_url": "https://api.github.com/users/kuatro/orgs",
+  "repos_url": "https://api.github.com/users/kuatro/repos",
+  "events_url": "https://api.github.com/users/kuatro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kuatro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

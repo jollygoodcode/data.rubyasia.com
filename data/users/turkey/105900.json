@@ -1,0 +1,20 @@
+{
+  "login": "yyenigun",
+  "id": 105900,
+  "avatar_url": "https://avatars.githubusercontent.com/u/105900?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yyenigun",
+  "html_url": "https://github.com/yyenigun",
+  "followers_url": "https://api.github.com/users/yyenigun/followers",
+  "following_url": "https://api.github.com/users/yyenigun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yyenigun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yyenigun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yyenigun/subscriptions",
+  "organizations_url": "https://api.github.com/users/yyenigun/orgs",
+  "repos_url": "https://api.github.com/users/yyenigun/repos",
+  "events_url": "https://api.github.com/users/yyenigun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yyenigun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

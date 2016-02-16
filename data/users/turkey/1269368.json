@@ -1,0 +1,20 @@
+{
+  "login": "mustafayusuf",
+  "id": 1269368,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1269368?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mustafayusuf",
+  "html_url": "https://github.com/mustafayusuf",
+  "followers_url": "https://api.github.com/users/mustafayusuf/followers",
+  "following_url": "https://api.github.com/users/mustafayusuf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mustafayusuf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mustafayusuf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mustafayusuf/subscriptions",
+  "organizations_url": "https://api.github.com/users/mustafayusuf/orgs",
+  "repos_url": "https://api.github.com/users/mustafayusuf/repos",
+  "events_url": "https://api.github.com/users/mustafayusuf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mustafayusuf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "esTeam",
+  "id": 660360,
+  "avatar_url": "https://avatars.githubusercontent.com/u/660360?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/esTeam",
+  "html_url": "https://github.com/esTeam",
+  "followers_url": "https://api.github.com/users/esTeam/followers",
+  "following_url": "https://api.github.com/users/esTeam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/esTeam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/esTeam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/esTeam/subscriptions",
+  "organizations_url": "https://api.github.com/users/esTeam/orgs",
+  "repos_url": "https://api.github.com/users/esTeam/repos",
+  "events_url": "https://api.github.com/users/esTeam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/esTeam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

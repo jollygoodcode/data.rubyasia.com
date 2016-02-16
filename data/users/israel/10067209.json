@@ -1,0 +1,20 @@
+{
+  "login": "eli-zehavi",
+  "id": 10067209,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10067209?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eli-zehavi",
+  "html_url": "https://github.com/eli-zehavi",
+  "followers_url": "https://api.github.com/users/eli-zehavi/followers",
+  "following_url": "https://api.github.com/users/eli-zehavi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eli-zehavi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eli-zehavi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eli-zehavi/subscriptions",
+  "organizations_url": "https://api.github.com/users/eli-zehavi/orgs",
+  "repos_url": "https://api.github.com/users/eli-zehavi/repos",
+  "events_url": "https://api.github.com/users/eli-zehavi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eli-zehavi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

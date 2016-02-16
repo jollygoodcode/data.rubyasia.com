@@ -1,0 +1,20 @@
+{
+  "login": "jarobins",
+  "id": 733681,
+  "avatar_url": "https://avatars.githubusercontent.com/u/733681?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jarobins",
+  "html_url": "https://github.com/jarobins",
+  "followers_url": "https://api.github.com/users/jarobins/followers",
+  "following_url": "https://api.github.com/users/jarobins/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jarobins/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jarobins/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jarobins/subscriptions",
+  "organizations_url": "https://api.github.com/users/jarobins/orgs",
+  "repos_url": "https://api.github.com/users/jarobins/repos",
+  "events_url": "https://api.github.com/users/jarobins/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jarobins/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

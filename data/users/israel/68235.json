@@ -1,0 +1,20 @@
+{
+  "login": "dorkalev",
+  "id": 68235,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68235?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dorkalev",
+  "html_url": "https://github.com/dorkalev",
+  "followers_url": "https://api.github.com/users/dorkalev/followers",
+  "following_url": "https://api.github.com/users/dorkalev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dorkalev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dorkalev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dorkalev/subscriptions",
+  "organizations_url": "https://api.github.com/users/dorkalev/orgs",
+  "repos_url": "https://api.github.com/users/dorkalev/repos",
+  "events_url": "https://api.github.com/users/dorkalev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dorkalev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

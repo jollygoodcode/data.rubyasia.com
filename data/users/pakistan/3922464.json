@@ -1,0 +1,20 @@
+{
+  "login": "ansnisar",
+  "id": 3922464,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3922464?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ansnisar",
+  "html_url": "https://github.com/ansnisar",
+  "followers_url": "https://api.github.com/users/ansnisar/followers",
+  "following_url": "https://api.github.com/users/ansnisar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ansnisar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ansnisar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ansnisar/subscriptions",
+  "organizations_url": "https://api.github.com/users/ansnisar/orgs",
+  "repos_url": "https://api.github.com/users/ansnisar/repos",
+  "events_url": "https://api.github.com/users/ansnisar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ansnisar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

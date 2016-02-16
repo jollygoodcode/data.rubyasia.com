@@ -1,0 +1,20 @@
+{
+  "login": "BodemayCom",
+  "id": 7012354,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7012354?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BodemayCom",
+  "html_url": "https://github.com/BodemayCom",
+  "followers_url": "https://api.github.com/users/BodemayCom/followers",
+  "following_url": "https://api.github.com/users/BodemayCom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BodemayCom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BodemayCom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BodemayCom/subscriptions",
+  "organizations_url": "https://api.github.com/users/BodemayCom/orgs",
+  "repos_url": "https://api.github.com/users/BodemayCom/repos",
+  "events_url": "https://api.github.com/users/BodemayCom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BodemayCom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

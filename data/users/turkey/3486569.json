@@ -1,0 +1,20 @@
+{
+  "login": "hasbehas",
+  "id": 3486569,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3486569?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hasbehas",
+  "html_url": "https://github.com/hasbehas",
+  "followers_url": "https://api.github.com/users/hasbehas/followers",
+  "following_url": "https://api.github.com/users/hasbehas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hasbehas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hasbehas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hasbehas/subscriptions",
+  "organizations_url": "https://api.github.com/users/hasbehas/orgs",
+  "repos_url": "https://api.github.com/users/hasbehas/repos",
+  "events_url": "https://api.github.com/users/hasbehas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hasbehas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dwairi",
+  "id": 779226,
+  "avatar_url": "https://avatars.githubusercontent.com/u/779226?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dwairi",
+  "html_url": "https://github.com/dwairi",
+  "followers_url": "https://api.github.com/users/dwairi/followers",
+  "following_url": "https://api.github.com/users/dwairi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dwairi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dwairi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dwairi/subscriptions",
+  "organizations_url": "https://api.github.com/users/dwairi/orgs",
+  "repos_url": "https://api.github.com/users/dwairi/repos",
+  "events_url": "https://api.github.com/users/dwairi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dwairi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

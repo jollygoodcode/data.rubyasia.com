@@ -1,0 +1,20 @@
+{
+  "login": "hsinvr",
+  "id": 3183006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3183006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hsinvr",
+  "html_url": "https://github.com/hsinvr",
+  "followers_url": "https://api.github.com/users/hsinvr/followers",
+  "following_url": "https://api.github.com/users/hsinvr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hsinvr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hsinvr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hsinvr/subscriptions",
+  "organizations_url": "https://api.github.com/users/hsinvr/orgs",
+  "repos_url": "https://api.github.com/users/hsinvr/repos",
+  "events_url": "https://api.github.com/users/hsinvr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hsinvr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
