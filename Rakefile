@@ -24,11 +24,19 @@ task :fetch_developers, [:region] do |t, args|
     end
 
     def normalize(str)
-      str.split(" ".freeze).join("-".freeze).downcase
+      if str == "Timor-Leste".freeze
+        "timor-leste"
+      else
+        str.split(" ".freeze).join("-".freeze).downcase
+      end
     end
 
     def denormalize(str)
-      str.split("-".freeze).map(&:capitalize).join(" ".freeze)
+      if str == "timor-leste".freeze
+        "Timor-Leste".freeze
+      else
+        str.split("-".freeze).map(&:capitalize).join(" ".freeze)
+      end
     end
 
     user_specified_region = normalize(args[:region])
