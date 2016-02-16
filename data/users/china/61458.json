@@ -1,0 +1,20 @@
+{
+  "login": "gangcai",
+  "id": 61458,
+  "avatar_url": "https://avatars.githubusercontent.com/u/61458?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gangcai",
+  "html_url": "https://github.com/gangcai",
+  "followers_url": "https://api.github.com/users/gangcai/followers",
+  "following_url": "https://api.github.com/users/gangcai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gangcai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gangcai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gangcai/subscriptions",
+  "organizations_url": "https://api.github.com/users/gangcai/orgs",
+  "repos_url": "https://api.github.com/users/gangcai/repos",
+  "events_url": "https://api.github.com/users/gangcai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gangcai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

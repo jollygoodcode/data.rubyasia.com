@@ -1,0 +1,20 @@
+{
+  "login": "skoji",
+  "id": 119629,
+  "avatar_url": "https://avatars.githubusercontent.com/u/119629?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skoji",
+  "html_url": "https://github.com/skoji",
+  "followers_url": "https://api.github.com/users/skoji/followers",
+  "following_url": "https://api.github.com/users/skoji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skoji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skoji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skoji/subscriptions",
+  "organizations_url": "https://api.github.com/users/skoji/orgs",
+  "repos_url": "https://api.github.com/users/skoji/repos",
+  "events_url": "https://api.github.com/users/skoji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skoji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

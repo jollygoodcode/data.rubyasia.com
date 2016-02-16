@@ -1,0 +1,20 @@
+{
+  "login": "zaki",
+  "id": 21428,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21428?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zaki",
+  "html_url": "https://github.com/zaki",
+  "followers_url": "https://api.github.com/users/zaki/followers",
+  "following_url": "https://api.github.com/users/zaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/zaki/orgs",
+  "repos_url": "https://api.github.com/users/zaki/repos",
+  "events_url": "https://api.github.com/users/zaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

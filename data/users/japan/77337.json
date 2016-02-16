@@ -1,0 +1,20 @@
+{
+  "login": "sawamur",
+  "id": 77337,
+  "avatar_url": "https://avatars.githubusercontent.com/u/77337?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sawamur",
+  "html_url": "https://github.com/sawamur",
+  "followers_url": "https://api.github.com/users/sawamur/followers",
+  "following_url": "https://api.github.com/users/sawamur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sawamur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sawamur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sawamur/subscriptions",
+  "organizations_url": "https://api.github.com/users/sawamur/orgs",
+  "repos_url": "https://api.github.com/users/sawamur/repos",
+  "events_url": "https://api.github.com/users/sawamur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sawamur/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

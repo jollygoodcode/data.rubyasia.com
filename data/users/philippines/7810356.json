@@ -1,0 +1,20 @@
+{
+  "login": "zaldy1",
+  "id": 7810356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7810356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zaldy1",
+  "html_url": "https://github.com/zaldy1",
+  "followers_url": "https://api.github.com/users/zaldy1/followers",
+  "following_url": "https://api.github.com/users/zaldy1/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zaldy1/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zaldy1/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zaldy1/subscriptions",
+  "organizations_url": "https://api.github.com/users/zaldy1/orgs",
+  "repos_url": "https://api.github.com/users/zaldy1/repos",
+  "events_url": "https://api.github.com/users/zaldy1/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zaldy1/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

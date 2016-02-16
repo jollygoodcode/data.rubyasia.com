@@ -1,0 +1,20 @@
+{
+  "login": "tyabe",
+  "id": 87799,
+  "avatar_url": "https://avatars.githubusercontent.com/u/87799?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tyabe",
+  "html_url": "https://github.com/tyabe",
+  "followers_url": "https://api.github.com/users/tyabe/followers",
+  "following_url": "https://api.github.com/users/tyabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tyabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tyabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tyabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/tyabe/orgs",
+  "repos_url": "https://api.github.com/users/tyabe/repos",
+  "events_url": "https://api.github.com/users/tyabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tyabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

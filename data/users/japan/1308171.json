@@ -1,0 +1,20 @@
+{
+  "login": "hnozaka",
+  "id": 1308171,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1308171?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hnozaka",
+  "html_url": "https://github.com/hnozaka",
+  "followers_url": "https://api.github.com/users/hnozaka/followers",
+  "following_url": "https://api.github.com/users/hnozaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hnozaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hnozaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hnozaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/hnozaka/orgs",
+  "repos_url": "https://api.github.com/users/hnozaka/repos",
+  "events_url": "https://api.github.com/users/hnozaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hnozaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

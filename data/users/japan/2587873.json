@@ -1,0 +1,20 @@
+{
+  "login": "buresu",
+  "id": 2587873,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2587873?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/buresu",
+  "html_url": "https://github.com/buresu",
+  "followers_url": "https://api.github.com/users/buresu/followers",
+  "following_url": "https://api.github.com/users/buresu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/buresu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/buresu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/buresu/subscriptions",
+  "organizations_url": "https://api.github.com/users/buresu/orgs",
+  "repos_url": "https://api.github.com/users/buresu/repos",
+  "events_url": "https://api.github.com/users/buresu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/buresu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

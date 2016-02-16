@@ -1,0 +1,20 @@
+{
+  "login": "techbulls",
+  "id": 7565919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7565919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/techbulls",
+  "html_url": "https://github.com/techbulls",
+  "followers_url": "https://api.github.com/users/techbulls/followers",
+  "following_url": "https://api.github.com/users/techbulls/following{/other_user}",
+  "gists_url": "https://api.github.com/users/techbulls/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/techbulls/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/techbulls/subscriptions",
+  "organizations_url": "https://api.github.com/users/techbulls/orgs",
+  "repos_url": "https://api.github.com/users/techbulls/repos",
+  "events_url": "https://api.github.com/users/techbulls/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/techbulls/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

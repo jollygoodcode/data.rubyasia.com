@@ -1,0 +1,20 @@
+{
+  "login": "ryan5500",
+  "id": 15419,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15419?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryan5500",
+  "html_url": "https://github.com/ryan5500",
+  "followers_url": "https://api.github.com/users/ryan5500/followers",
+  "following_url": "https://api.github.com/users/ryan5500/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryan5500/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryan5500/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryan5500/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryan5500/orgs",
+  "repos_url": "https://api.github.com/users/ryan5500/repos",
+  "events_url": "https://api.github.com/users/ryan5500/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryan5500/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

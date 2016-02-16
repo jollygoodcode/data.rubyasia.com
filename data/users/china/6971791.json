@@ -1,0 +1,20 @@
+{
+  "login": "cest-jack",
+  "id": 6971791,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6971791?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cest-jack",
+  "html_url": "https://github.com/cest-jack",
+  "followers_url": "https://api.github.com/users/cest-jack/followers",
+  "following_url": "https://api.github.com/users/cest-jack/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cest-jack/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cest-jack/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cest-jack/subscriptions",
+  "organizations_url": "https://api.github.com/users/cest-jack/orgs",
+  "repos_url": "https://api.github.com/users/cest-jack/repos",
+  "events_url": "https://api.github.com/users/cest-jack/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cest-jack/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

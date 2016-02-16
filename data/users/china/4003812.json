@@ -1,0 +1,20 @@
+{
+  "login": "amoibean",
+  "id": 4003812,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4003812?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amoibean",
+  "html_url": "https://github.com/amoibean",
+  "followers_url": "https://api.github.com/users/amoibean/followers",
+  "following_url": "https://api.github.com/users/amoibean/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amoibean/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amoibean/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amoibean/subscriptions",
+  "organizations_url": "https://api.github.com/users/amoibean/orgs",
+  "repos_url": "https://api.github.com/users/amoibean/repos",
+  "events_url": "https://api.github.com/users/amoibean/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amoibean/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

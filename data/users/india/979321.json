@@ -1,0 +1,20 @@
+{
+  "login": "coderhs",
+  "id": 979321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/979321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coderhs",
+  "html_url": "https://github.com/coderhs",
+  "followers_url": "https://api.github.com/users/coderhs/followers",
+  "following_url": "https://api.github.com/users/coderhs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coderhs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coderhs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coderhs/subscriptions",
+  "organizations_url": "https://api.github.com/users/coderhs/orgs",
+  "repos_url": "https://api.github.com/users/coderhs/repos",
+  "events_url": "https://api.github.com/users/coderhs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coderhs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

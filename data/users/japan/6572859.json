@@ -1,0 +1,20 @@
+{
+  "login": "saoyam",
+  "id": 6572859,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6572859?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saoyam",
+  "html_url": "https://github.com/saoyam",
+  "followers_url": "https://api.github.com/users/saoyam/followers",
+  "following_url": "https://api.github.com/users/saoyam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saoyam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saoyam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saoyam/subscriptions",
+  "organizations_url": "https://api.github.com/users/saoyam/orgs",
+  "repos_url": "https://api.github.com/users/saoyam/repos",
+  "events_url": "https://api.github.com/users/saoyam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saoyam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

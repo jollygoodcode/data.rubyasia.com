@@ -1,0 +1,20 @@
+{
+  "login": "ebonyeye",
+  "id": 548324,
+  "avatar_url": "https://avatars.githubusercontent.com/u/548324?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ebonyeye",
+  "html_url": "https://github.com/ebonyeye",
+  "followers_url": "https://api.github.com/users/ebonyeye/followers",
+  "following_url": "https://api.github.com/users/ebonyeye/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ebonyeye/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ebonyeye/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ebonyeye/subscriptions",
+  "organizations_url": "https://api.github.com/users/ebonyeye/orgs",
+  "repos_url": "https://api.github.com/users/ebonyeye/repos",
+  "events_url": "https://api.github.com/users/ebonyeye/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ebonyeye/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

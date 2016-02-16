@@ -1,0 +1,20 @@
+{
+  "login": "TraiOi",
+  "id": 10065298,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10065298?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TraiOi",
+  "html_url": "https://github.com/TraiOi",
+  "followers_url": "https://api.github.com/users/TraiOi/followers",
+  "following_url": "https://api.github.com/users/TraiOi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TraiOi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TraiOi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TraiOi/subscriptions",
+  "organizations_url": "https://api.github.com/users/TraiOi/orgs",
+  "repos_url": "https://api.github.com/users/TraiOi/repos",
+  "events_url": "https://api.github.com/users/TraiOi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TraiOi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

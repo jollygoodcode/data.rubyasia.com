@@ -1,0 +1,20 @@
+{
+  "login": "anpadhi",
+  "id": 12200529,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12200529?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anpadhi",
+  "html_url": "https://github.com/anpadhi",
+  "followers_url": "https://api.github.com/users/anpadhi/followers",
+  "following_url": "https://api.github.com/users/anpadhi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anpadhi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anpadhi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anpadhi/subscriptions",
+  "organizations_url": "https://api.github.com/users/anpadhi/orgs",
+  "repos_url": "https://api.github.com/users/anpadhi/repos",
+  "events_url": "https://api.github.com/users/anpadhi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anpadhi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "diwadm",
+  "id": 209127,
+  "avatar_url": "https://avatars.githubusercontent.com/u/209127?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/diwadm",
+  "html_url": "https://github.com/diwadm",
+  "followers_url": "https://api.github.com/users/diwadm/followers",
+  "following_url": "https://api.github.com/users/diwadm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/diwadm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/diwadm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/diwadm/subscriptions",
+  "organizations_url": "https://api.github.com/users/diwadm/orgs",
+  "repos_url": "https://api.github.com/users/diwadm/repos",
+  "events_url": "https://api.github.com/users/diwadm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/diwadm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

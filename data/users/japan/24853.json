@@ -1,0 +1,20 @@
+{
+  "login": "gaooh",
+  "id": 24853,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24853?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gaooh",
+  "html_url": "https://github.com/gaooh",
+  "followers_url": "https://api.github.com/users/gaooh/followers",
+  "following_url": "https://api.github.com/users/gaooh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gaooh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gaooh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gaooh/subscriptions",
+  "organizations_url": "https://api.github.com/users/gaooh/orgs",
+  "repos_url": "https://api.github.com/users/gaooh/repos",
+  "events_url": "https://api.github.com/users/gaooh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gaooh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

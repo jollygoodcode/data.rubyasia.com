@@ -1,0 +1,20 @@
+{
+  "login": "okinaka",
+  "id": 120861,
+  "avatar_url": "https://avatars.githubusercontent.com/u/120861?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okinaka",
+  "html_url": "https://github.com/okinaka",
+  "followers_url": "https://api.github.com/users/okinaka/followers",
+  "following_url": "https://api.github.com/users/okinaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okinaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okinaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okinaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/okinaka/orgs",
+  "repos_url": "https://api.github.com/users/okinaka/repos",
+  "events_url": "https://api.github.com/users/okinaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okinaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

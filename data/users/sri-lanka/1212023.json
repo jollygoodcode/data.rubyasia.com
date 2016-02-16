@@ -1,0 +1,20 @@
+{
+  "login": "THPubs",
+  "id": 1212023,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1212023?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/THPubs",
+  "html_url": "https://github.com/THPubs",
+  "followers_url": "https://api.github.com/users/THPubs/followers",
+  "following_url": "https://api.github.com/users/THPubs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/THPubs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/THPubs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/THPubs/subscriptions",
+  "organizations_url": "https://api.github.com/users/THPubs/orgs",
+  "repos_url": "https://api.github.com/users/THPubs/repos",
+  "events_url": "https://api.github.com/users/THPubs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/THPubs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

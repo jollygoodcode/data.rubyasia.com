@@ -1,0 +1,20 @@
+{
+  "login": "harmandeep",
+  "id": 44576,
+  "avatar_url": "https://avatars.githubusercontent.com/u/44576?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harmandeep",
+  "html_url": "https://github.com/harmandeep",
+  "followers_url": "https://api.github.com/users/harmandeep/followers",
+  "following_url": "https://api.github.com/users/harmandeep/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harmandeep/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harmandeep/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harmandeep/subscriptions",
+  "organizations_url": "https://api.github.com/users/harmandeep/orgs",
+  "repos_url": "https://api.github.com/users/harmandeep/repos",
+  "events_url": "https://api.github.com/users/harmandeep/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harmandeep/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

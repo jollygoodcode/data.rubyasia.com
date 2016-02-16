@@ -1,0 +1,20 @@
+{
+  "login": "lurah",
+  "id": 2050773,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2050773?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lurah",
+  "html_url": "https://github.com/lurah",
+  "followers_url": "https://api.github.com/users/lurah/followers",
+  "following_url": "https://api.github.com/users/lurah/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lurah/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lurah/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lurah/subscriptions",
+  "organizations_url": "https://api.github.com/users/lurah/orgs",
+  "repos_url": "https://api.github.com/users/lurah/repos",
+  "events_url": "https://api.github.com/users/lurah/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lurah/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

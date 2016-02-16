@@ -1,0 +1,20 @@
+{
+  "login": "k-okubo",
+  "id": 453252,
+  "avatar_url": "https://avatars.githubusercontent.com/u/453252?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k-okubo",
+  "html_url": "https://github.com/k-okubo",
+  "followers_url": "https://api.github.com/users/k-okubo/followers",
+  "following_url": "https://api.github.com/users/k-okubo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k-okubo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k-okubo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k-okubo/subscriptions",
+  "organizations_url": "https://api.github.com/users/k-okubo/orgs",
+  "repos_url": "https://api.github.com/users/k-okubo/repos",
+  "events_url": "https://api.github.com/users/k-okubo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k-okubo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sukarabu",
+  "id": 637705,
+  "avatar_url": "https://avatars.githubusercontent.com/u/637705?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sukarabu",
+  "html_url": "https://github.com/sukarabu",
+  "followers_url": "https://api.github.com/users/sukarabu/followers",
+  "following_url": "https://api.github.com/users/sukarabu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sukarabu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sukarabu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sukarabu/subscriptions",
+  "organizations_url": "https://api.github.com/users/sukarabu/orgs",
+  "repos_url": "https://api.github.com/users/sukarabu/repos",
+  "events_url": "https://api.github.com/users/sukarabu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sukarabu/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

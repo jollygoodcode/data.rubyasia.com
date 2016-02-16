@@ -1,0 +1,20 @@
+{
+  "login": "openresponsive",
+  "id": 6660830,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6660830?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/openresponsive",
+  "html_url": "https://github.com/openresponsive",
+  "followers_url": "https://api.github.com/users/openresponsive/followers",
+  "following_url": "https://api.github.com/users/openresponsive/following{/other_user}",
+  "gists_url": "https://api.github.com/users/openresponsive/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/openresponsive/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/openresponsive/subscriptions",
+  "organizations_url": "https://api.github.com/users/openresponsive/orgs",
+  "repos_url": "https://api.github.com/users/openresponsive/repos",
+  "events_url": "https://api.github.com/users/openresponsive/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/openresponsive/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

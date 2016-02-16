@@ -1,0 +1,20 @@
+{
+  "login": "rochefort",
+  "id": 121045,
+  "avatar_url": "https://avatars.githubusercontent.com/u/121045?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rochefort",
+  "html_url": "https://github.com/rochefort",
+  "followers_url": "https://api.github.com/users/rochefort/followers",
+  "following_url": "https://api.github.com/users/rochefort/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rochefort/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rochefort/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rochefort/subscriptions",
+  "organizations_url": "https://api.github.com/users/rochefort/orgs",
+  "repos_url": "https://api.github.com/users/rochefort/repos",
+  "events_url": "https://api.github.com/users/rochefort/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rochefort/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "freshlhy",
+  "id": 1485100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1485100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/freshlhy",
+  "html_url": "https://github.com/freshlhy",
+  "followers_url": "https://api.github.com/users/freshlhy/followers",
+  "following_url": "https://api.github.com/users/freshlhy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/freshlhy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/freshlhy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/freshlhy/subscriptions",
+  "organizations_url": "https://api.github.com/users/freshlhy/orgs",
+  "repos_url": "https://api.github.com/users/freshlhy/repos",
+  "events_url": "https://api.github.com/users/freshlhy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/freshlhy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

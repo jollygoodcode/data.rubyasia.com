@@ -1,0 +1,20 @@
+{
+  "login": "czhc",
+  "id": 4633021,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4633021?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/czhc",
+  "html_url": "https://github.com/czhc",
+  "followers_url": "https://api.github.com/users/czhc/followers",
+  "following_url": "https://api.github.com/users/czhc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/czhc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/czhc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/czhc/subscriptions",
+  "organizations_url": "https://api.github.com/users/czhc/orgs",
+  "repos_url": "https://api.github.com/users/czhc/repos",
+  "events_url": "https://api.github.com/users/czhc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/czhc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "padi",
+  "id": 807110,
+  "avatar_url": "https://avatars.githubusercontent.com/u/807110?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/padi",
+  "html_url": "https://github.com/padi",
+  "followers_url": "https://api.github.com/users/padi/followers",
+  "following_url": "https://api.github.com/users/padi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/padi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/padi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/padi/subscriptions",
+  "organizations_url": "https://api.github.com/users/padi/orgs",
+  "repos_url": "https://api.github.com/users/padi/repos",
+  "events_url": "https://api.github.com/users/padi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/padi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

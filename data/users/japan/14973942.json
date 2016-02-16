@@ -1,0 +1,20 @@
+{
+  "login": "justway",
+  "id": 14973942,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14973942?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/justway",
+  "html_url": "https://github.com/justway",
+  "followers_url": "https://api.github.com/users/justway/followers",
+  "following_url": "https://api.github.com/users/justway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/justway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/justway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/justway/subscriptions",
+  "organizations_url": "https://api.github.com/users/justway/orgs",
+  "repos_url": "https://api.github.com/users/justway/repos",
+  "events_url": "https://api.github.com/users/justway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/justway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

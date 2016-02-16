@@ -1,0 +1,20 @@
+{
+  "login": "jpgeek",
+  "id": 813381,
+  "avatar_url": "https://avatars.githubusercontent.com/u/813381?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jpgeek",
+  "html_url": "https://github.com/jpgeek",
+  "followers_url": "https://api.github.com/users/jpgeek/followers",
+  "following_url": "https://api.github.com/users/jpgeek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jpgeek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jpgeek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jpgeek/subscriptions",
+  "organizations_url": "https://api.github.com/users/jpgeek/orgs",
+  "repos_url": "https://api.github.com/users/jpgeek/repos",
+  "events_url": "https://api.github.com/users/jpgeek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jpgeek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

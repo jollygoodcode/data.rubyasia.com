@@ -1,0 +1,20 @@
+{
+  "login": "st0012",
+  "id": 5079556,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5079556?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/st0012",
+  "html_url": "https://github.com/st0012",
+  "followers_url": "https://api.github.com/users/st0012/followers",
+  "following_url": "https://api.github.com/users/st0012/following{/other_user}",
+  "gists_url": "https://api.github.com/users/st0012/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/st0012/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/st0012/subscriptions",
+  "organizations_url": "https://api.github.com/users/st0012/orgs",
+  "repos_url": "https://api.github.com/users/st0012/repos",
+  "events_url": "https://api.github.com/users/st0012/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/st0012/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wharsojo",
+  "id": 11621,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11621?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wharsojo",
+  "html_url": "https://github.com/wharsojo",
+  "followers_url": "https://api.github.com/users/wharsojo/followers",
+  "following_url": "https://api.github.com/users/wharsojo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wharsojo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wharsojo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wharsojo/subscriptions",
+  "organizations_url": "https://api.github.com/users/wharsojo/orgs",
+  "repos_url": "https://api.github.com/users/wharsojo/repos",
+  "events_url": "https://api.github.com/users/wharsojo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wharsojo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

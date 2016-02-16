@@ -1,0 +1,20 @@
+{
+  "login": "everyleaf",
+  "id": 1326777,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1326777?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/everyleaf",
+  "html_url": "https://github.com/everyleaf",
+  "followers_url": "https://api.github.com/users/everyleaf/followers",
+  "following_url": "https://api.github.com/users/everyleaf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/everyleaf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/everyleaf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/everyleaf/subscriptions",
+  "organizations_url": "https://api.github.com/users/everyleaf/orgs",
+  "repos_url": "https://api.github.com/users/everyleaf/repos",
+  "events_url": "https://api.github.com/users/everyleaf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/everyleaf/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

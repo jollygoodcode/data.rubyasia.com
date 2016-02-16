@@ -1,0 +1,20 @@
+{
+  "login": "andrewwutw",
+  "id": 4443713,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4443713?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andrewwutw",
+  "html_url": "https://github.com/andrewwutw",
+  "followers_url": "https://api.github.com/users/andrewwutw/followers",
+  "following_url": "https://api.github.com/users/andrewwutw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andrewwutw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andrewwutw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andrewwutw/subscriptions",
+  "organizations_url": "https://api.github.com/users/andrewwutw/orgs",
+  "repos_url": "https://api.github.com/users/andrewwutw/repos",
+  "events_url": "https://api.github.com/users/andrewwutw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andrewwutw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

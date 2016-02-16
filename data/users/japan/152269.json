@@ -1,0 +1,20 @@
+{
+  "login": "irohiroki",
+  "id": 152269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/152269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/irohiroki",
+  "html_url": "https://github.com/irohiroki",
+  "followers_url": "https://api.github.com/users/irohiroki/followers",
+  "following_url": "https://api.github.com/users/irohiroki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/irohiroki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/irohiroki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/irohiroki/subscriptions",
+  "organizations_url": "https://api.github.com/users/irohiroki/orgs",
+  "repos_url": "https://api.github.com/users/irohiroki/repos",
+  "events_url": "https://api.github.com/users/irohiroki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/irohiroki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "techotaku",
+  "id": 1948179,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1948179?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/techotaku",
+  "html_url": "https://github.com/techotaku",
+  "followers_url": "https://api.github.com/users/techotaku/followers",
+  "following_url": "https://api.github.com/users/techotaku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/techotaku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/techotaku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/techotaku/subscriptions",
+  "organizations_url": "https://api.github.com/users/techotaku/orgs",
+  "repos_url": "https://api.github.com/users/techotaku/repos",
+  "events_url": "https://api.github.com/users/techotaku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/techotaku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

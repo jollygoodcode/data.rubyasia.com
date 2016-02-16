@@ -1,0 +1,20 @@
+{
+  "login": "takahashim",
+  "id": 10401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takahashim",
+  "html_url": "https://github.com/takahashim",
+  "followers_url": "https://api.github.com/users/takahashim/followers",
+  "following_url": "https://api.github.com/users/takahashim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takahashim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takahashim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takahashim/subscriptions",
+  "organizations_url": "https://api.github.com/users/takahashim/orgs",
+  "repos_url": "https://api.github.com/users/takahashim/repos",
+  "events_url": "https://api.github.com/users/takahashim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takahashim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

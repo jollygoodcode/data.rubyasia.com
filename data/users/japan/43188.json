@@ -1,0 +1,20 @@
+{
+  "login": "matadon",
+  "id": 43188,
+  "avatar_url": "https://avatars.githubusercontent.com/u/43188?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matadon",
+  "html_url": "https://github.com/matadon",
+  "followers_url": "https://api.github.com/users/matadon/followers",
+  "following_url": "https://api.github.com/users/matadon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matadon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matadon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matadon/subscriptions",
+  "organizations_url": "https://api.github.com/users/matadon/orgs",
+  "repos_url": "https://api.github.com/users/matadon/repos",
+  "events_url": "https://api.github.com/users/matadon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matadon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

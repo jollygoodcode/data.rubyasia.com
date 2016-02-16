@@ -1,0 +1,20 @@
+{
+  "login": "whthomas",
+  "id": 4974467,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4974467?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/whthomas",
+  "html_url": "https://github.com/whthomas",
+  "followers_url": "https://api.github.com/users/whthomas/followers",
+  "following_url": "https://api.github.com/users/whthomas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/whthomas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/whthomas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/whthomas/subscriptions",
+  "organizations_url": "https://api.github.com/users/whthomas/orgs",
+  "repos_url": "https://api.github.com/users/whthomas/repos",
+  "events_url": "https://api.github.com/users/whthomas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/whthomas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

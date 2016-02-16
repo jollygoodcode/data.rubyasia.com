@@ -1,0 +1,20 @@
+{
+  "login": "thomaschen",
+  "id": 1298754,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1298754?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thomaschen",
+  "html_url": "https://github.com/thomaschen",
+  "followers_url": "https://api.github.com/users/thomaschen/followers",
+  "following_url": "https://api.github.com/users/thomaschen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thomaschen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thomaschen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thomaschen/subscriptions",
+  "organizations_url": "https://api.github.com/users/thomaschen/orgs",
+  "repos_url": "https://api.github.com/users/thomaschen/repos",
+  "events_url": "https://api.github.com/users/thomaschen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thomaschen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

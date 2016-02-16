@@ -1,0 +1,20 @@
+{
+  "login": "ITX351",
+  "id": 8423472,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8423472?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ITX351",
+  "html_url": "https://github.com/ITX351",
+  "followers_url": "https://api.github.com/users/ITX351/followers",
+  "following_url": "https://api.github.com/users/ITX351/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ITX351/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ITX351/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ITX351/subscriptions",
+  "organizations_url": "https://api.github.com/users/ITX351/orgs",
+  "repos_url": "https://api.github.com/users/ITX351/repos",
+  "events_url": "https://api.github.com/users/ITX351/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ITX351/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

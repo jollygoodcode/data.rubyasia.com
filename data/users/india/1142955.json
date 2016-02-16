@@ -1,0 +1,20 @@
+{
+  "login": "lareb",
+  "id": 1142955,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1142955?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lareb",
+  "html_url": "https://github.com/lareb",
+  "followers_url": "https://api.github.com/users/lareb/followers",
+  "following_url": "https://api.github.com/users/lareb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lareb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lareb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lareb/subscriptions",
+  "organizations_url": "https://api.github.com/users/lareb/orgs",
+  "repos_url": "https://api.github.com/users/lareb/repos",
+  "events_url": "https://api.github.com/users/lareb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lareb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

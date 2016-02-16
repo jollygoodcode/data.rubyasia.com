@@ -1,0 +1,20 @@
+{
+  "login": "JackLinMaker",
+  "id": 3809224,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3809224?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JackLinMaker",
+  "html_url": "https://github.com/JackLinMaker",
+  "followers_url": "https://api.github.com/users/JackLinMaker/followers",
+  "following_url": "https://api.github.com/users/JackLinMaker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JackLinMaker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JackLinMaker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JackLinMaker/subscriptions",
+  "organizations_url": "https://api.github.com/users/JackLinMaker/orgs",
+  "repos_url": "https://api.github.com/users/JackLinMaker/repos",
+  "events_url": "https://api.github.com/users/JackLinMaker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JackLinMaker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

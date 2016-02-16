@@ -1,0 +1,20 @@
+{
+  "login": "ww1way",
+  "id": 869709,
+  "avatar_url": "https://avatars.githubusercontent.com/u/869709?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ww1way",
+  "html_url": "https://github.com/ww1way",
+  "followers_url": "https://api.github.com/users/ww1way/followers",
+  "following_url": "https://api.github.com/users/ww1way/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ww1way/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ww1way/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ww1way/subscriptions",
+  "organizations_url": "https://api.github.com/users/ww1way/orgs",
+  "repos_url": "https://api.github.com/users/ww1way/repos",
+  "events_url": "https://api.github.com/users/ww1way/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ww1way/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

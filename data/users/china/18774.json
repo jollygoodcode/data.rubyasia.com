@@ -1,0 +1,20 @@
+{
+  "login": "mimosz",
+  "id": 18774,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18774?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mimosz",
+  "html_url": "https://github.com/mimosz",
+  "followers_url": "https://api.github.com/users/mimosz/followers",
+  "following_url": "https://api.github.com/users/mimosz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mimosz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mimosz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mimosz/subscriptions",
+  "organizations_url": "https://api.github.com/users/mimosz/orgs",
+  "repos_url": "https://api.github.com/users/mimosz/repos",
+  "events_url": "https://api.github.com/users/mimosz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mimosz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

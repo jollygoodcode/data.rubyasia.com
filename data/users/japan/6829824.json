@@ -1,0 +1,20 @@
+{
+  "login": "eva-astedt",
+  "id": 6829824,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6829824?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eva-astedt",
+  "html_url": "https://github.com/eva-astedt",
+  "followers_url": "https://api.github.com/users/eva-astedt/followers",
+  "following_url": "https://api.github.com/users/eva-astedt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eva-astedt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eva-astedt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eva-astedt/subscriptions",
+  "organizations_url": "https://api.github.com/users/eva-astedt/orgs",
+  "repos_url": "https://api.github.com/users/eva-astedt/repos",
+  "events_url": "https://api.github.com/users/eva-astedt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eva-astedt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

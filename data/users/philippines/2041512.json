@@ -1,0 +1,20 @@
+{
+  "login": "paolooo",
+  "id": 2041512,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2041512?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paolooo",
+  "html_url": "https://github.com/paolooo",
+  "followers_url": "https://api.github.com/users/paolooo/followers",
+  "following_url": "https://api.github.com/users/paolooo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paolooo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paolooo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paolooo/subscriptions",
+  "organizations_url": "https://api.github.com/users/paolooo/orgs",
+  "repos_url": "https://api.github.com/users/paolooo/repos",
+  "events_url": "https://api.github.com/users/paolooo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paolooo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

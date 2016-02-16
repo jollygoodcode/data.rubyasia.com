@@ -1,0 +1,20 @@
+{
+  "login": "komagata",
+  "id": 16577,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16577?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/komagata",
+  "html_url": "https://github.com/komagata",
+  "followers_url": "https://api.github.com/users/komagata/followers",
+  "following_url": "https://api.github.com/users/komagata/following{/other_user}",
+  "gists_url": "https://api.github.com/users/komagata/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/komagata/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/komagata/subscriptions",
+  "organizations_url": "https://api.github.com/users/komagata/orgs",
+  "repos_url": "https://api.github.com/users/komagata/repos",
+  "events_url": "https://api.github.com/users/komagata/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/komagata/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

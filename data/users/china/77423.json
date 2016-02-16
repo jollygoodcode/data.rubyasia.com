@@ -1,0 +1,20 @@
+{
+  "login": "sevk",
+  "id": 77423,
+  "avatar_url": "https://avatars.githubusercontent.com/u/77423?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sevk",
+  "html_url": "https://github.com/sevk",
+  "followers_url": "https://api.github.com/users/sevk/followers",
+  "following_url": "https://api.github.com/users/sevk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sevk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sevk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sevk/subscriptions",
+  "organizations_url": "https://api.github.com/users/sevk/orgs",
+  "repos_url": "https://api.github.com/users/sevk/repos",
+  "events_url": "https://api.github.com/users/sevk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sevk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

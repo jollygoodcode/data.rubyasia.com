@@ -1,0 +1,20 @@
+{
+  "login": "scaleout",
+  "id": 89531,
+  "avatar_url": "https://avatars.githubusercontent.com/u/89531?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/scaleout",
+  "html_url": "https://github.com/scaleout",
+  "followers_url": "https://api.github.com/users/scaleout/followers",
+  "following_url": "https://api.github.com/users/scaleout/following{/other_user}",
+  "gists_url": "https://api.github.com/users/scaleout/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/scaleout/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/scaleout/subscriptions",
+  "organizations_url": "https://api.github.com/users/scaleout/orgs",
+  "repos_url": "https://api.github.com/users/scaleout/repos",
+  "events_url": "https://api.github.com/users/scaleout/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/scaleout/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

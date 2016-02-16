@@ -1,0 +1,20 @@
+{
+  "login": "asjuwel",
+  "id": 9461538,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9461538?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asjuwel",
+  "html_url": "https://github.com/asjuwel",
+  "followers_url": "https://api.github.com/users/asjuwel/followers",
+  "following_url": "https://api.github.com/users/asjuwel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asjuwel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asjuwel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asjuwel/subscriptions",
+  "organizations_url": "https://api.github.com/users/asjuwel/orgs",
+  "repos_url": "https://api.github.com/users/asjuwel/repos",
+  "events_url": "https://api.github.com/users/asjuwel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asjuwel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

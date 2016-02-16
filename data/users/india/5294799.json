@@ -1,0 +1,20 @@
+{
+  "login": "josiahsams",
+  "id": 5294799,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5294799?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/josiahsams",
+  "html_url": "https://github.com/josiahsams",
+  "followers_url": "https://api.github.com/users/josiahsams/followers",
+  "following_url": "https://api.github.com/users/josiahsams/following{/other_user}",
+  "gists_url": "https://api.github.com/users/josiahsams/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/josiahsams/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/josiahsams/subscriptions",
+  "organizations_url": "https://api.github.com/users/josiahsams/orgs",
+  "repos_url": "https://api.github.com/users/josiahsams/repos",
+  "events_url": "https://api.github.com/users/josiahsams/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/josiahsams/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

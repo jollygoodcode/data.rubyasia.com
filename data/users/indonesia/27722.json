@@ -1,0 +1,20 @@
+{
+  "login": "williamn",
+  "id": 27722,
+  "avatar_url": "https://avatars.githubusercontent.com/u/27722?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/williamn",
+  "html_url": "https://github.com/williamn",
+  "followers_url": "https://api.github.com/users/williamn/followers",
+  "following_url": "https://api.github.com/users/williamn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/williamn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/williamn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/williamn/subscriptions",
+  "organizations_url": "https://api.github.com/users/williamn/orgs",
+  "repos_url": "https://api.github.com/users/williamn/repos",
+  "events_url": "https://api.github.com/users/williamn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/williamn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

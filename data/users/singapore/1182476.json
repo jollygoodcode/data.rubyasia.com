@@ -1,0 +1,20 @@
+{
+  "login": "duanrb",
+  "id": 1182476,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1182476?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/duanrb",
+  "html_url": "https://github.com/duanrb",
+  "followers_url": "https://api.github.com/users/duanrb/followers",
+  "following_url": "https://api.github.com/users/duanrb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/duanrb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/duanrb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/duanrb/subscriptions",
+  "organizations_url": "https://api.github.com/users/duanrb/orgs",
+  "repos_url": "https://api.github.com/users/duanrb/repos",
+  "events_url": "https://api.github.com/users/duanrb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/duanrb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

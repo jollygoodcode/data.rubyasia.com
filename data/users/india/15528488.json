@@ -1,0 +1,20 @@
+{
+  "login": "muzavvir",
+  "id": 15528488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15528488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/muzavvir",
+  "html_url": "https://github.com/muzavvir",
+  "followers_url": "https://api.github.com/users/muzavvir/followers",
+  "following_url": "https://api.github.com/users/muzavvir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/muzavvir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/muzavvir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/muzavvir/subscriptions",
+  "organizations_url": "https://api.github.com/users/muzavvir/orgs",
+  "repos_url": "https://api.github.com/users/muzavvir/repos",
+  "events_url": "https://api.github.com/users/muzavvir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/muzavvir/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

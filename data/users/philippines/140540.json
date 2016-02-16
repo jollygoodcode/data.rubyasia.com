@@ -1,0 +1,20 @@
+{
+  "login": "ramonmaruko",
+  "id": 140540,
+  "avatar_url": "https://avatars.githubusercontent.com/u/140540?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ramonmaruko",
+  "html_url": "https://github.com/ramonmaruko",
+  "followers_url": "https://api.github.com/users/ramonmaruko/followers",
+  "following_url": "https://api.github.com/users/ramonmaruko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ramonmaruko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ramonmaruko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ramonmaruko/subscriptions",
+  "organizations_url": "https://api.github.com/users/ramonmaruko/orgs",
+  "repos_url": "https://api.github.com/users/ramonmaruko/repos",
+  "events_url": "https://api.github.com/users/ramonmaruko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ramonmaruko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

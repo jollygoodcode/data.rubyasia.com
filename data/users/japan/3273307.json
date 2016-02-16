@@ -1,0 +1,20 @@
+{
+  "login": "sakutec",
+  "id": 3273307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3273307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sakutec",
+  "html_url": "https://github.com/sakutec",
+  "followers_url": "https://api.github.com/users/sakutec/followers",
+  "following_url": "https://api.github.com/users/sakutec/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sakutec/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sakutec/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sakutec/subscriptions",
+  "organizations_url": "https://api.github.com/users/sakutec/orgs",
+  "repos_url": "https://api.github.com/users/sakutec/repos",
+  "events_url": "https://api.github.com/users/sakutec/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sakutec/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

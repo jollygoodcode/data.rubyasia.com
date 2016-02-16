@@ -1,0 +1,20 @@
+{
+  "login": "masassiez",
+  "id": 917151,
+  "avatar_url": "https://avatars.githubusercontent.com/u/917151?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masassiez",
+  "html_url": "https://github.com/masassiez",
+  "followers_url": "https://api.github.com/users/masassiez/followers",
+  "following_url": "https://api.github.com/users/masassiez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masassiez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masassiez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masassiez/subscriptions",
+  "organizations_url": "https://api.github.com/users/masassiez/orgs",
+  "repos_url": "https://api.github.com/users/masassiez/repos",
+  "events_url": "https://api.github.com/users/masassiez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masassiez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

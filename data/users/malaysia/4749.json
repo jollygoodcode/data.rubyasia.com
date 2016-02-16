@@ -1,0 +1,20 @@
+{
+  "login": "primary0",
+  "id": 4749,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4749?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/primary0",
+  "html_url": "https://github.com/primary0",
+  "followers_url": "https://api.github.com/users/primary0/followers",
+  "following_url": "https://api.github.com/users/primary0/following{/other_user}",
+  "gists_url": "https://api.github.com/users/primary0/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/primary0/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/primary0/subscriptions",
+  "organizations_url": "https://api.github.com/users/primary0/orgs",
+  "repos_url": "https://api.github.com/users/primary0/repos",
+  "events_url": "https://api.github.com/users/primary0/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/primary0/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

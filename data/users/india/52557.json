@@ -1,0 +1,20 @@
+{
+  "login": "rimpy",
+  "id": 52557,
+  "avatar_url": "https://avatars.githubusercontent.com/u/52557?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rimpy",
+  "html_url": "https://github.com/rimpy",
+  "followers_url": "https://api.github.com/users/rimpy/followers",
+  "following_url": "https://api.github.com/users/rimpy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rimpy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rimpy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rimpy/subscriptions",
+  "organizations_url": "https://api.github.com/users/rimpy/orgs",
+  "repos_url": "https://api.github.com/users/rimpy/repos",
+  "events_url": "https://api.github.com/users/rimpy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rimpy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

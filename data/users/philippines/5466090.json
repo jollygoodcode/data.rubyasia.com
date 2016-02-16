@@ -1,0 +1,20 @@
+{
+  "login": "jagzph",
+  "id": 5466090,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5466090?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jagzph",
+  "html_url": "https://github.com/jagzph",
+  "followers_url": "https://api.github.com/users/jagzph/followers",
+  "following_url": "https://api.github.com/users/jagzph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jagzph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jagzph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jagzph/subscriptions",
+  "organizations_url": "https://api.github.com/users/jagzph/orgs",
+  "repos_url": "https://api.github.com/users/jagzph/repos",
+  "events_url": "https://api.github.com/users/jagzph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jagzph/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

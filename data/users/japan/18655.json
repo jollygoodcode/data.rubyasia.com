@@ -1,0 +1,20 @@
+{
+  "login": "nazoking",
+  "id": 18655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nazoking",
+  "html_url": "https://github.com/nazoking",
+  "followers_url": "https://api.github.com/users/nazoking/followers",
+  "following_url": "https://api.github.com/users/nazoking/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nazoking/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nazoking/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nazoking/subscriptions",
+  "organizations_url": "https://api.github.com/users/nazoking/orgs",
+  "repos_url": "https://api.github.com/users/nazoking/repos",
+  "events_url": "https://api.github.com/users/nazoking/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nazoking/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

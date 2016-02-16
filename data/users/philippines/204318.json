@@ -1,0 +1,20 @@
+{
+  "login": "gerdadecio",
+  "id": 204318,
+  "avatar_url": "https://avatars.githubusercontent.com/u/204318?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gerdadecio",
+  "html_url": "https://github.com/gerdadecio",
+  "followers_url": "https://api.github.com/users/gerdadecio/followers",
+  "following_url": "https://api.github.com/users/gerdadecio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gerdadecio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gerdadecio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gerdadecio/subscriptions",
+  "organizations_url": "https://api.github.com/users/gerdadecio/orgs",
+  "repos_url": "https://api.github.com/users/gerdadecio/repos",
+  "events_url": "https://api.github.com/users/gerdadecio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gerdadecio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

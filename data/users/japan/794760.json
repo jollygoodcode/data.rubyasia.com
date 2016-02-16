@@ -1,0 +1,20 @@
+{
+  "login": "trysmr",
+  "id": 794760,
+  "avatar_url": "https://avatars.githubusercontent.com/u/794760?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/trysmr",
+  "html_url": "https://github.com/trysmr",
+  "followers_url": "https://api.github.com/users/trysmr/followers",
+  "following_url": "https://api.github.com/users/trysmr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/trysmr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/trysmr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/trysmr/subscriptions",
+  "organizations_url": "https://api.github.com/users/trysmr/orgs",
+  "repos_url": "https://api.github.com/users/trysmr/repos",
+  "events_url": "https://api.github.com/users/trysmr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/trysmr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wake",
+  "id": 746821,
+  "avatar_url": "https://avatars.githubusercontent.com/u/746821?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wake",
+  "html_url": "https://github.com/wake",
+  "followers_url": "https://api.github.com/users/wake/followers",
+  "following_url": "https://api.github.com/users/wake/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wake/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wake/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wake/subscriptions",
+  "organizations_url": "https://api.github.com/users/wake/orgs",
+  "repos_url": "https://api.github.com/users/wake/repos",
+  "events_url": "https://api.github.com/users/wake/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wake/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

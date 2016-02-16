@@ -1,0 +1,20 @@
+{
+  "login": "rachel-lin",
+  "id": 4451417,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4451417?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rachel-lin",
+  "html_url": "https://github.com/rachel-lin",
+  "followers_url": "https://api.github.com/users/rachel-lin/followers",
+  "following_url": "https://api.github.com/users/rachel-lin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rachel-lin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rachel-lin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rachel-lin/subscriptions",
+  "organizations_url": "https://api.github.com/users/rachel-lin/orgs",
+  "repos_url": "https://api.github.com/users/rachel-lin/repos",
+  "events_url": "https://api.github.com/users/rachel-lin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rachel-lin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

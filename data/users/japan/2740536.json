@@ -1,0 +1,20 @@
+{
+  "login": "ShareWis",
+  "id": 2740536,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2740536?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ShareWis",
+  "html_url": "https://github.com/ShareWis",
+  "followers_url": "https://api.github.com/users/ShareWis/followers",
+  "following_url": "https://api.github.com/users/ShareWis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ShareWis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ShareWis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ShareWis/subscriptions",
+  "organizations_url": "https://api.github.com/users/ShareWis/orgs",
+  "repos_url": "https://api.github.com/users/ShareWis/repos",
+  "events_url": "https://api.github.com/users/ShareWis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ShareWis/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sincemorning",
+  "id": 6023084,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6023084?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sincemorning",
+  "html_url": "https://github.com/sincemorning",
+  "followers_url": "https://api.github.com/users/sincemorning/followers",
+  "following_url": "https://api.github.com/users/sincemorning/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sincemorning/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sincemorning/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sincemorning/subscriptions",
+  "organizations_url": "https://api.github.com/users/sincemorning/orgs",
+  "repos_url": "https://api.github.com/users/sincemorning/repos",
+  "events_url": "https://api.github.com/users/sincemorning/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sincemorning/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

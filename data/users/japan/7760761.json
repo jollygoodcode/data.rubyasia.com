@@ -1,0 +1,20 @@
+{
+  "login": "kosuke-isumi",
+  "id": 7760761,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7760761?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kosuke-isumi",
+  "html_url": "https://github.com/kosuke-isumi",
+  "followers_url": "https://api.github.com/users/kosuke-isumi/followers",
+  "following_url": "https://api.github.com/users/kosuke-isumi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kosuke-isumi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kosuke-isumi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kosuke-isumi/subscriptions",
+  "organizations_url": "https://api.github.com/users/kosuke-isumi/orgs",
+  "repos_url": "https://api.github.com/users/kosuke-isumi/repos",
+  "events_url": "https://api.github.com/users/kosuke-isumi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kosuke-isumi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

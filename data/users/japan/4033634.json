@@ -1,0 +1,20 @@
+{
+  "login": "k-masaki",
+  "id": 4033634,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4033634?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k-masaki",
+  "html_url": "https://github.com/k-masaki",
+  "followers_url": "https://api.github.com/users/k-masaki/followers",
+  "following_url": "https://api.github.com/users/k-masaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k-masaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k-masaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k-masaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/k-masaki/orgs",
+  "repos_url": "https://api.github.com/users/k-masaki/repos",
+  "events_url": "https://api.github.com/users/k-masaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k-masaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "seisuke",
+  "id": 53058,
+  "avatar_url": "https://avatars.githubusercontent.com/u/53058?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seisuke",
+  "html_url": "https://github.com/seisuke",
+  "followers_url": "https://api.github.com/users/seisuke/followers",
+  "following_url": "https://api.github.com/users/seisuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seisuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seisuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seisuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/seisuke/orgs",
+  "repos_url": "https://api.github.com/users/seisuke/repos",
+  "events_url": "https://api.github.com/users/seisuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seisuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

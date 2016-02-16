@@ -1,0 +1,20 @@
+{
+  "login": "pione",
+  "id": 2987090,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2987090?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pione",
+  "html_url": "https://github.com/pione",
+  "followers_url": "https://api.github.com/users/pione/followers",
+  "following_url": "https://api.github.com/users/pione/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pione/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pione/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pione/subscriptions",
+  "organizations_url": "https://api.github.com/users/pione/orgs",
+  "repos_url": "https://api.github.com/users/pione/repos",
+  "events_url": "https://api.github.com/users/pione/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pione/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

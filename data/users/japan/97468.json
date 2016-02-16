@@ -1,0 +1,20 @@
+{
+  "login": "sugamasao",
+  "id": 97468,
+  "avatar_url": "https://avatars.githubusercontent.com/u/97468?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sugamasao",
+  "html_url": "https://github.com/sugamasao",
+  "followers_url": "https://api.github.com/users/sugamasao/followers",
+  "following_url": "https://api.github.com/users/sugamasao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sugamasao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sugamasao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sugamasao/subscriptions",
+  "organizations_url": "https://api.github.com/users/sugamasao/orgs",
+  "repos_url": "https://api.github.com/users/sugamasao/repos",
+  "events_url": "https://api.github.com/users/sugamasao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sugamasao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

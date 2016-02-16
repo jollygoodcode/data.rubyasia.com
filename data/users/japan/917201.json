@@ -1,0 +1,20 @@
+{
+  "login": "Homiez",
+  "id": 917201,
+  "avatar_url": "https://avatars.githubusercontent.com/u/917201?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Homiez",
+  "html_url": "https://github.com/Homiez",
+  "followers_url": "https://api.github.com/users/Homiez/followers",
+  "following_url": "https://api.github.com/users/Homiez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Homiez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Homiez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Homiez/subscriptions",
+  "organizations_url": "https://api.github.com/users/Homiez/orgs",
+  "repos_url": "https://api.github.com/users/Homiez/repos",
+  "events_url": "https://api.github.com/users/Homiez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Homiez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

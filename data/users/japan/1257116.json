@@ -1,0 +1,20 @@
+{
+  "login": "mizoR",
+  "id": 1257116,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1257116?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mizoR",
+  "html_url": "https://github.com/mizoR",
+  "followers_url": "https://api.github.com/users/mizoR/followers",
+  "following_url": "https://api.github.com/users/mizoR/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mizoR/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mizoR/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mizoR/subscriptions",
+  "organizations_url": "https://api.github.com/users/mizoR/orgs",
+  "repos_url": "https://api.github.com/users/mizoR/repos",
+  "events_url": "https://api.github.com/users/mizoR/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mizoR/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

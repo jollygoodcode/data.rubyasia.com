@@ -1,0 +1,20 @@
+{
+  "login": "miwarin",
+  "id": 250465,
+  "avatar_url": "https://avatars.githubusercontent.com/u/250465?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miwarin",
+  "html_url": "https://github.com/miwarin",
+  "followers_url": "https://api.github.com/users/miwarin/followers",
+  "following_url": "https://api.github.com/users/miwarin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miwarin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miwarin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miwarin/subscriptions",
+  "organizations_url": "https://api.github.com/users/miwarin/orgs",
+  "repos_url": "https://api.github.com/users/miwarin/repos",
+  "events_url": "https://api.github.com/users/miwarin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miwarin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

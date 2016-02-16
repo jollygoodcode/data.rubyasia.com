@@ -1,0 +1,20 @@
+{
+  "login": "joelkhoo",
+  "id": 1343780,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1343780?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joelkhoo",
+  "html_url": "https://github.com/joelkhoo",
+  "followers_url": "https://api.github.com/users/joelkhoo/followers",
+  "following_url": "https://api.github.com/users/joelkhoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joelkhoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joelkhoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joelkhoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/joelkhoo/orgs",
+  "repos_url": "https://api.github.com/users/joelkhoo/repos",
+  "events_url": "https://api.github.com/users/joelkhoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joelkhoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

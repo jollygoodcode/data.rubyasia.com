@@ -1,0 +1,20 @@
+{
+  "login": "ejholmes",
+  "id": 95166,
+  "avatar_url": "https://avatars.githubusercontent.com/u/95166?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ejholmes",
+  "html_url": "https://github.com/ejholmes",
+  "followers_url": "https://api.github.com/users/ejholmes/followers",
+  "following_url": "https://api.github.com/users/ejholmes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ejholmes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ejholmes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ejholmes/subscriptions",
+  "organizations_url": "https://api.github.com/users/ejholmes/orgs",
+  "repos_url": "https://api.github.com/users/ejholmes/repos",
+  "events_url": "https://api.github.com/users/ejholmes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ejholmes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

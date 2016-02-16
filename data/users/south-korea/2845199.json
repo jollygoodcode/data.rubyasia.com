@@ -1,0 +1,20 @@
+{
+  "login": "kanggoon",
+  "id": 2845199,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2845199?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kanggoon",
+  "html_url": "https://github.com/kanggoon",
+  "followers_url": "https://api.github.com/users/kanggoon/followers",
+  "following_url": "https://api.github.com/users/kanggoon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kanggoon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kanggoon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kanggoon/subscriptions",
+  "organizations_url": "https://api.github.com/users/kanggoon/orgs",
+  "repos_url": "https://api.github.com/users/kanggoon/repos",
+  "events_url": "https://api.github.com/users/kanggoon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kanggoon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

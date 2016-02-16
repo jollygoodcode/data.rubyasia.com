@@ -1,0 +1,20 @@
+{
+  "login": "herun",
+  "id": 445484,
+  "avatar_url": "https://avatars.githubusercontent.com/u/445484?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/herun",
+  "html_url": "https://github.com/herun",
+  "followers_url": "https://api.github.com/users/herun/followers",
+  "following_url": "https://api.github.com/users/herun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/herun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/herun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/herun/subscriptions",
+  "organizations_url": "https://api.github.com/users/herun/orgs",
+  "repos_url": "https://api.github.com/users/herun/repos",
+  "events_url": "https://api.github.com/users/herun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/herun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

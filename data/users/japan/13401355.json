@@ -1,0 +1,20 @@
+{
+  "login": "kfujimori",
+  "id": 13401355,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13401355?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kfujimori",
+  "html_url": "https://github.com/kfujimori",
+  "followers_url": "https://api.github.com/users/kfujimori/followers",
+  "following_url": "https://api.github.com/users/kfujimori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kfujimori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kfujimori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kfujimori/subscriptions",
+  "organizations_url": "https://api.github.com/users/kfujimori/orgs",
+  "repos_url": "https://api.github.com/users/kfujimori/repos",
+  "events_url": "https://api.github.com/users/kfujimori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kfujimori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

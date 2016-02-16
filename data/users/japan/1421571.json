@@ -1,0 +1,20 @@
+{
+  "login": "KenYN",
+  "id": 1421571,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1421571?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KenYN",
+  "html_url": "https://github.com/KenYN",
+  "followers_url": "https://api.github.com/users/KenYN/followers",
+  "following_url": "https://api.github.com/users/KenYN/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KenYN/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KenYN/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KenYN/subscriptions",
+  "organizations_url": "https://api.github.com/users/KenYN/orgs",
+  "repos_url": "https://api.github.com/users/KenYN/repos",
+  "events_url": "https://api.github.com/users/KenYN/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KenYN/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

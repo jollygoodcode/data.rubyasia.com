@@ -1,0 +1,20 @@
+{
+  "login": "aigecko",
+  "id": 4891165,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4891165?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aigecko",
+  "html_url": "https://github.com/aigecko",
+  "followers_url": "https://api.github.com/users/aigecko/followers",
+  "following_url": "https://api.github.com/users/aigecko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aigecko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aigecko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aigecko/subscriptions",
+  "organizations_url": "https://api.github.com/users/aigecko/orgs",
+  "repos_url": "https://api.github.com/users/aigecko/repos",
+  "events_url": "https://api.github.com/users/aigecko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aigecko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

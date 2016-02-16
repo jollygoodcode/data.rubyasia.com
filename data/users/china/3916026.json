@@ -1,0 +1,20 @@
+{
+  "login": "fenyou",
+  "id": 3916026,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3916026?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fenyou",
+  "html_url": "https://github.com/fenyou",
+  "followers_url": "https://api.github.com/users/fenyou/followers",
+  "following_url": "https://api.github.com/users/fenyou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fenyou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fenyou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fenyou/subscriptions",
+  "organizations_url": "https://api.github.com/users/fenyou/orgs",
+  "repos_url": "https://api.github.com/users/fenyou/repos",
+  "events_url": "https://api.github.com/users/fenyou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fenyou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

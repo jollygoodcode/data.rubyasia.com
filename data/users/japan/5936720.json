@@ -1,0 +1,20 @@
+{
+  "login": "ryunosukef",
+  "id": 5936720,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5936720?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryunosukef",
+  "html_url": "https://github.com/ryunosukef",
+  "followers_url": "https://api.github.com/users/ryunosukef/followers",
+  "following_url": "https://api.github.com/users/ryunosukef/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryunosukef/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryunosukef/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryunosukef/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryunosukef/orgs",
+  "repos_url": "https://api.github.com/users/ryunosukef/repos",
+  "events_url": "https://api.github.com/users/ryunosukef/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryunosukef/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

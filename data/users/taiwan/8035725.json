@@ -1,0 +1,20 @@
+{
+  "login": "evanchawu",
+  "id": 8035725,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8035725?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/evanchawu",
+  "html_url": "https://github.com/evanchawu",
+  "followers_url": "https://api.github.com/users/evanchawu/followers",
+  "following_url": "https://api.github.com/users/evanchawu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/evanchawu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/evanchawu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/evanchawu/subscriptions",
+  "organizations_url": "https://api.github.com/users/evanchawu/orgs",
+  "repos_url": "https://api.github.com/users/evanchawu/repos",
+  "events_url": "https://api.github.com/users/evanchawu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/evanchawu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

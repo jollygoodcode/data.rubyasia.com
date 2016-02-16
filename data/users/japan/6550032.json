@@ -1,0 +1,20 @@
+{
+  "login": "t-oi",
+  "id": 6550032,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6550032?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/t-oi",
+  "html_url": "https://github.com/t-oi",
+  "followers_url": "https://api.github.com/users/t-oi/followers",
+  "following_url": "https://api.github.com/users/t-oi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/t-oi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/t-oi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/t-oi/subscriptions",
+  "organizations_url": "https://api.github.com/users/t-oi/orgs",
+  "repos_url": "https://api.github.com/users/t-oi/repos",
+  "events_url": "https://api.github.com/users/t-oi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/t-oi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

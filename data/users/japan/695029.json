@@ -1,0 +1,20 @@
+{
+  "login": "ryoben",
+  "id": 695029,
+  "avatar_url": "https://avatars.githubusercontent.com/u/695029?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryoben",
+  "html_url": "https://github.com/ryoben",
+  "followers_url": "https://api.github.com/users/ryoben/followers",
+  "following_url": "https://api.github.com/users/ryoben/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryoben/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryoben/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryoben/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryoben/orgs",
+  "repos_url": "https://api.github.com/users/ryoben/repos",
+  "events_url": "https://api.github.com/users/ryoben/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryoben/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "pkordel",
+  "id": 5774,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5774?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pkordel",
+  "html_url": "https://github.com/pkordel",
+  "followers_url": "https://api.github.com/users/pkordel/followers",
+  "following_url": "https://api.github.com/users/pkordel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pkordel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pkordel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pkordel/subscriptions",
+  "organizations_url": "https://api.github.com/users/pkordel/orgs",
+  "repos_url": "https://api.github.com/users/pkordel/repos",
+  "events_url": "https://api.github.com/users/pkordel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pkordel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

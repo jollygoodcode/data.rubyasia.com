@@ -1,0 +1,20 @@
+{
+  "login": "niroj",
+  "id": 1224776,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1224776?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/niroj",
+  "html_url": "https://github.com/niroj",
+  "followers_url": "https://api.github.com/users/niroj/followers",
+  "following_url": "https://api.github.com/users/niroj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/niroj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/niroj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/niroj/subscriptions",
+  "organizations_url": "https://api.github.com/users/niroj/orgs",
+  "repos_url": "https://api.github.com/users/niroj/repos",
+  "events_url": "https://api.github.com/users/niroj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/niroj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

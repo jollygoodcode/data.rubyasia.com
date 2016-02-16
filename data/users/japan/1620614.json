@@ -1,0 +1,20 @@
+{
+  "login": "takata",
+  "id": 1620614,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1620614?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takata",
+  "html_url": "https://github.com/takata",
+  "followers_url": "https://api.github.com/users/takata/followers",
+  "following_url": "https://api.github.com/users/takata/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takata/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takata/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takata/subscriptions",
+  "organizations_url": "https://api.github.com/users/takata/orgs",
+  "repos_url": "https://api.github.com/users/takata/repos",
+  "events_url": "https://api.github.com/users/takata/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takata/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "aslam",
+  "id": 95872,
+  "avatar_url": "https://avatars.githubusercontent.com/u/95872?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aslam",
+  "html_url": "https://github.com/aslam",
+  "followers_url": "https://api.github.com/users/aslam/followers",
+  "following_url": "https://api.github.com/users/aslam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aslam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aslam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aslam/subscriptions",
+  "organizations_url": "https://api.github.com/users/aslam/orgs",
+  "repos_url": "https://api.github.com/users/aslam/repos",
+  "events_url": "https://api.github.com/users/aslam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aslam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wadecon",
+  "id": 13149566,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13149566?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wadecon",
+  "html_url": "https://github.com/wadecon",
+  "followers_url": "https://api.github.com/users/wadecon/followers",
+  "following_url": "https://api.github.com/users/wadecon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wadecon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wadecon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wadecon/subscriptions",
+  "organizations_url": "https://api.github.com/users/wadecon/orgs",
+  "repos_url": "https://api.github.com/users/wadecon/repos",
+  "events_url": "https://api.github.com/users/wadecon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wadecon/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

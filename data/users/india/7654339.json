@@ -1,0 +1,20 @@
+{
+  "login": "mongapps",
+  "id": 7654339,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7654339?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mongapps",
+  "html_url": "https://github.com/mongapps",
+  "followers_url": "https://api.github.com/users/mongapps/followers",
+  "following_url": "https://api.github.com/users/mongapps/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mongapps/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mongapps/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mongapps/subscriptions",
+  "organizations_url": "https://api.github.com/users/mongapps/orgs",
+  "repos_url": "https://api.github.com/users/mongapps/repos",
+  "events_url": "https://api.github.com/users/mongapps/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mongapps/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Liwanag",
+  "id": 10493921,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10493921?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Liwanag",
+  "html_url": "https://github.com/Liwanag",
+  "followers_url": "https://api.github.com/users/Liwanag/followers",
+  "following_url": "https://api.github.com/users/Liwanag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Liwanag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Liwanag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Liwanag/subscriptions",
+  "organizations_url": "https://api.github.com/users/Liwanag/orgs",
+  "repos_url": "https://api.github.com/users/Liwanag/repos",
+  "events_url": "https://api.github.com/users/Liwanag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Liwanag/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yunico-jp",
+  "id": 3013761,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3013761?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yunico-jp",
+  "html_url": "https://github.com/yunico-jp",
+  "followers_url": "https://api.github.com/users/yunico-jp/followers",
+  "following_url": "https://api.github.com/users/yunico-jp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yunico-jp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yunico-jp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yunico-jp/subscriptions",
+  "organizations_url": "https://api.github.com/users/yunico-jp/orgs",
+  "repos_url": "https://api.github.com/users/yunico-jp/repos",
+  "events_url": "https://api.github.com/users/yunico-jp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yunico-jp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

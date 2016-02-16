@@ -1,0 +1,20 @@
+{
+  "login": "travelmob",
+  "id": 10492862,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10492862?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/travelmob",
+  "html_url": "https://github.com/travelmob",
+  "followers_url": "https://api.github.com/users/travelmob/followers",
+  "following_url": "https://api.github.com/users/travelmob/following{/other_user}",
+  "gists_url": "https://api.github.com/users/travelmob/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/travelmob/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/travelmob/subscriptions",
+  "organizations_url": "https://api.github.com/users/travelmob/orgs",
+  "repos_url": "https://api.github.com/users/travelmob/repos",
+  "events_url": "https://api.github.com/users/travelmob/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/travelmob/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

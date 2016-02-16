@@ -1,0 +1,20 @@
+{
+  "login": "kusm",
+  "id": 6870637,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6870637?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kusm",
+  "html_url": "https://github.com/kusm",
+  "followers_url": "https://api.github.com/users/kusm/followers",
+  "following_url": "https://api.github.com/users/kusm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kusm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kusm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kusm/subscriptions",
+  "organizations_url": "https://api.github.com/users/kusm/orgs",
+  "repos_url": "https://api.github.com/users/kusm/repos",
+  "events_url": "https://api.github.com/users/kusm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kusm/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "brucehsu",
+  "id": 18601,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18601?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brucehsu",
+  "html_url": "https://github.com/brucehsu",
+  "followers_url": "https://api.github.com/users/brucehsu/followers",
+  "following_url": "https://api.github.com/users/brucehsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brucehsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brucehsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brucehsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/brucehsu/orgs",
+  "repos_url": "https://api.github.com/users/brucehsu/repos",
+  "events_url": "https://api.github.com/users/brucehsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brucehsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

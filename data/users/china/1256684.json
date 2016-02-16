@@ -1,0 +1,20 @@
+{
+  "login": "wenpincui",
+  "id": 1256684,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1256684?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wenpincui",
+  "html_url": "https://github.com/wenpincui",
+  "followers_url": "https://api.github.com/users/wenpincui/followers",
+  "following_url": "https://api.github.com/users/wenpincui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wenpincui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wenpincui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wenpincui/subscriptions",
+  "organizations_url": "https://api.github.com/users/wenpincui/orgs",
+  "repos_url": "https://api.github.com/users/wenpincui/repos",
+  "events_url": "https://api.github.com/users/wenpincui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wenpincui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

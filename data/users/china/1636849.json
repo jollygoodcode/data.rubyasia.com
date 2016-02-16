@@ -1,0 +1,20 @@
+{
+  "login": "tangchun",
+  "id": 1636849,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1636849?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tangchun",
+  "html_url": "https://github.com/tangchun",
+  "followers_url": "https://api.github.com/users/tangchun/followers",
+  "following_url": "https://api.github.com/users/tangchun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tangchun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tangchun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tangchun/subscriptions",
+  "organizations_url": "https://api.github.com/users/tangchun/orgs",
+  "repos_url": "https://api.github.com/users/tangchun/repos",
+  "events_url": "https://api.github.com/users/tangchun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tangchun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

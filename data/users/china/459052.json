@@ -1,0 +1,20 @@
+{
+  "login": "chuckchen",
+  "id": 459052,
+  "avatar_url": "https://avatars.githubusercontent.com/u/459052?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chuckchen",
+  "html_url": "https://github.com/chuckchen",
+  "followers_url": "https://api.github.com/users/chuckchen/followers",
+  "following_url": "https://api.github.com/users/chuckchen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chuckchen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chuckchen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chuckchen/subscriptions",
+  "organizations_url": "https://api.github.com/users/chuckchen/orgs",
+  "repos_url": "https://api.github.com/users/chuckchen/repos",
+  "events_url": "https://api.github.com/users/chuckchen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chuckchen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

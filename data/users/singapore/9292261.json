@@ -1,0 +1,20 @@
+{
+  "login": "xuatz",
+  "id": 9292261,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9292261?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xuatz",
+  "html_url": "https://github.com/xuatz",
+  "followers_url": "https://api.github.com/users/xuatz/followers",
+  "following_url": "https://api.github.com/users/xuatz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xuatz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xuatz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xuatz/subscriptions",
+  "organizations_url": "https://api.github.com/users/xuatz/orgs",
+  "repos_url": "https://api.github.com/users/xuatz/repos",
+  "events_url": "https://api.github.com/users/xuatz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xuatz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

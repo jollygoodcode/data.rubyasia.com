@@ -1,0 +1,20 @@
+{
+  "login": "k-awa",
+  "id": 13331542,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13331542?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k-awa",
+  "html_url": "https://github.com/k-awa",
+  "followers_url": "https://api.github.com/users/k-awa/followers",
+  "following_url": "https://api.github.com/users/k-awa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k-awa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k-awa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k-awa/subscriptions",
+  "organizations_url": "https://api.github.com/users/k-awa/orgs",
+  "repos_url": "https://api.github.com/users/k-awa/repos",
+  "events_url": "https://api.github.com/users/k-awa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k-awa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

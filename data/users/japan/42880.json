@@ -1,0 +1,20 @@
+{
+  "login": "lukesilvia",
+  "id": 42880,
+  "avatar_url": "https://avatars.githubusercontent.com/u/42880?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lukesilvia",
+  "html_url": "https://github.com/lukesilvia",
+  "followers_url": "https://api.github.com/users/lukesilvia/followers",
+  "following_url": "https://api.github.com/users/lukesilvia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lukesilvia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lukesilvia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lukesilvia/subscriptions",
+  "organizations_url": "https://api.github.com/users/lukesilvia/orgs",
+  "repos_url": "https://api.github.com/users/lukesilvia/repos",
+  "events_url": "https://api.github.com/users/lukesilvia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lukesilvia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

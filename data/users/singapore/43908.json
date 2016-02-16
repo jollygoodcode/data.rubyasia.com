@@ -1,0 +1,20 @@
+{
+  "login": "weynsee",
+  "id": 43908,
+  "avatar_url": "https://avatars.githubusercontent.com/u/43908?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/weynsee",
+  "html_url": "https://github.com/weynsee",
+  "followers_url": "https://api.github.com/users/weynsee/followers",
+  "following_url": "https://api.github.com/users/weynsee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/weynsee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/weynsee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/weynsee/subscriptions",
+  "organizations_url": "https://api.github.com/users/weynsee/orgs",
+  "repos_url": "https://api.github.com/users/weynsee/repos",
+  "events_url": "https://api.github.com/users/weynsee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/weynsee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

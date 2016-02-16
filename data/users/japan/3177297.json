@@ -1,0 +1,20 @@
+{
+  "login": "motikan",
+  "id": 3177297,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3177297?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/motikan",
+  "html_url": "https://github.com/motikan",
+  "followers_url": "https://api.github.com/users/motikan/followers",
+  "following_url": "https://api.github.com/users/motikan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/motikan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/motikan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/motikan/subscriptions",
+  "organizations_url": "https://api.github.com/users/motikan/orgs",
+  "repos_url": "https://api.github.com/users/motikan/repos",
+  "events_url": "https://api.github.com/users/motikan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/motikan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

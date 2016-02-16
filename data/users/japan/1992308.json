@@ -1,0 +1,20 @@
+{
+  "login": "osyoyu",
+  "id": 1992308,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1992308?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/osyoyu",
+  "html_url": "https://github.com/osyoyu",
+  "followers_url": "https://api.github.com/users/osyoyu/followers",
+  "following_url": "https://api.github.com/users/osyoyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/osyoyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/osyoyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/osyoyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/osyoyu/orgs",
+  "repos_url": "https://api.github.com/users/osyoyu/repos",
+  "events_url": "https://api.github.com/users/osyoyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/osyoyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

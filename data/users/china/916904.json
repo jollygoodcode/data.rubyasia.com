@@ -1,0 +1,20 @@
+{
+  "login": "Herdsmen",
+  "id": 916904,
+  "avatar_url": "https://avatars.githubusercontent.com/u/916904?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Herdsmen",
+  "html_url": "https://github.com/Herdsmen",
+  "followers_url": "https://api.github.com/users/Herdsmen/followers",
+  "following_url": "https://api.github.com/users/Herdsmen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Herdsmen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Herdsmen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Herdsmen/subscriptions",
+  "organizations_url": "https://api.github.com/users/Herdsmen/orgs",
+  "repos_url": "https://api.github.com/users/Herdsmen/repos",
+  "events_url": "https://api.github.com/users/Herdsmen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Herdsmen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

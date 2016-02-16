@@ -1,0 +1,20 @@
+{
+  "login": "furu",
+  "id": 708304,
+  "avatar_url": "https://avatars.githubusercontent.com/u/708304?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/furu",
+  "html_url": "https://github.com/furu",
+  "followers_url": "https://api.github.com/users/furu/followers",
+  "following_url": "https://api.github.com/users/furu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/furu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/furu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/furu/subscriptions",
+  "organizations_url": "https://api.github.com/users/furu/orgs",
+  "repos_url": "https://api.github.com/users/furu/repos",
+  "events_url": "https://api.github.com/users/furu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/furu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

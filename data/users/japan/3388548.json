@@ -1,0 +1,20 @@
+{
+  "login": "yousuketto",
+  "id": 3388548,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3388548?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yousuketto",
+  "html_url": "https://github.com/yousuketto",
+  "followers_url": "https://api.github.com/users/yousuketto/followers",
+  "following_url": "https://api.github.com/users/yousuketto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yousuketto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yousuketto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yousuketto/subscriptions",
+  "organizations_url": "https://api.github.com/users/yousuketto/orgs",
+  "repos_url": "https://api.github.com/users/yousuketto/repos",
+  "events_url": "https://api.github.com/users/yousuketto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yousuketto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

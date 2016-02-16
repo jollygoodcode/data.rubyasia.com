@@ -1,0 +1,20 @@
+{
+  "login": "johnson-joney",
+  "id": 1439399,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1439399?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/johnson-joney",
+  "html_url": "https://github.com/johnson-joney",
+  "followers_url": "https://api.github.com/users/johnson-joney/followers",
+  "following_url": "https://api.github.com/users/johnson-joney/following{/other_user}",
+  "gists_url": "https://api.github.com/users/johnson-joney/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/johnson-joney/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/johnson-joney/subscriptions",
+  "organizations_url": "https://api.github.com/users/johnson-joney/orgs",
+  "repos_url": "https://api.github.com/users/johnson-joney/repos",
+  "events_url": "https://api.github.com/users/johnson-joney/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/johnson-joney/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

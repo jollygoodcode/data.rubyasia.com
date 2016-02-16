@@ -1,0 +1,20 @@
+{
+  "login": "Jarhern",
+  "id": 567094,
+  "avatar_url": "https://avatars.githubusercontent.com/u/567094?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Jarhern",
+  "html_url": "https://github.com/Jarhern",
+  "followers_url": "https://api.github.com/users/Jarhern/followers",
+  "following_url": "https://api.github.com/users/Jarhern/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Jarhern/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Jarhern/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Jarhern/subscriptions",
+  "organizations_url": "https://api.github.com/users/Jarhern/orgs",
+  "repos_url": "https://api.github.com/users/Jarhern/repos",
+  "events_url": "https://api.github.com/users/Jarhern/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Jarhern/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

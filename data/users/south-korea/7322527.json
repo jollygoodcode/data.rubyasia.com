@@ -1,0 +1,20 @@
+{
+  "login": "roomedia",
+  "id": 7322527,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7322527?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/roomedia",
+  "html_url": "https://github.com/roomedia",
+  "followers_url": "https://api.github.com/users/roomedia/followers",
+  "following_url": "https://api.github.com/users/roomedia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/roomedia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/roomedia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/roomedia/subscriptions",
+  "organizations_url": "https://api.github.com/users/roomedia/orgs",
+  "repos_url": "https://api.github.com/users/roomedia/repos",
+  "events_url": "https://api.github.com/users/roomedia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/roomedia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

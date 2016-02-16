@@ -1,0 +1,20 @@
+{
+  "login": "dashout",
+  "id": 816011,
+  "avatar_url": "https://avatars.githubusercontent.com/u/816011?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dashout",
+  "html_url": "https://github.com/dashout",
+  "followers_url": "https://api.github.com/users/dashout/followers",
+  "following_url": "https://api.github.com/users/dashout/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dashout/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dashout/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dashout/subscriptions",
+  "organizations_url": "https://api.github.com/users/dashout/orgs",
+  "repos_url": "https://api.github.com/users/dashout/repos",
+  "events_url": "https://api.github.com/users/dashout/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dashout/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

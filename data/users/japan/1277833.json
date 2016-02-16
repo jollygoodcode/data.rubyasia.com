@@ -1,0 +1,20 @@
+{
+  "login": "kkabetani",
+  "id": 1277833,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1277833?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kkabetani",
+  "html_url": "https://github.com/kkabetani",
+  "followers_url": "https://api.github.com/users/kkabetani/followers",
+  "following_url": "https://api.github.com/users/kkabetani/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kkabetani/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kkabetani/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kkabetani/subscriptions",
+  "organizations_url": "https://api.github.com/users/kkabetani/orgs",
+  "repos_url": "https://api.github.com/users/kkabetani/repos",
+  "events_url": "https://api.github.com/users/kkabetani/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kkabetani/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

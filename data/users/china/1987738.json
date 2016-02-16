@@ -1,0 +1,20 @@
+{
+  "login": "muzykalukasz",
+  "id": 1987738,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1987738?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/muzykalukasz",
+  "html_url": "https://github.com/muzykalukasz",
+  "followers_url": "https://api.github.com/users/muzykalukasz/followers",
+  "following_url": "https://api.github.com/users/muzykalukasz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/muzykalukasz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/muzykalukasz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/muzykalukasz/subscriptions",
+  "organizations_url": "https://api.github.com/users/muzykalukasz/orgs",
+  "repos_url": "https://api.github.com/users/muzykalukasz/repos",
+  "events_url": "https://api.github.com/users/muzykalukasz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/muzykalukasz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

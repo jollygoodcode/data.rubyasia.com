@@ -1,0 +1,20 @@
+{
+  "login": "kurotaky",
+  "id": 866589,
+  "avatar_url": "https://avatars.githubusercontent.com/u/866589?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kurotaky",
+  "html_url": "https://github.com/kurotaky",
+  "followers_url": "https://api.github.com/users/kurotaky/followers",
+  "following_url": "https://api.github.com/users/kurotaky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kurotaky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kurotaky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kurotaky/subscriptions",
+  "organizations_url": "https://api.github.com/users/kurotaky/orgs",
+  "repos_url": "https://api.github.com/users/kurotaky/repos",
+  "events_url": "https://api.github.com/users/kurotaky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kurotaky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

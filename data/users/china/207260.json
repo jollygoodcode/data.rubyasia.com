@@ -1,0 +1,20 @@
+{
+  "login": "bigfei",
+  "id": 207260,
+  "avatar_url": "https://avatars.githubusercontent.com/u/207260?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bigfei",
+  "html_url": "https://github.com/bigfei",
+  "followers_url": "https://api.github.com/users/bigfei/followers",
+  "following_url": "https://api.github.com/users/bigfei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bigfei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bigfei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bigfei/subscriptions",
+  "organizations_url": "https://api.github.com/users/bigfei/orgs",
+  "repos_url": "https://api.github.com/users/bigfei/repos",
+  "events_url": "https://api.github.com/users/bigfei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bigfei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

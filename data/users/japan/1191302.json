@@ -1,0 +1,20 @@
+{
+  "login": "charlesgreen",
+  "id": 1191302,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1191302?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/charlesgreen",
+  "html_url": "https://github.com/charlesgreen",
+  "followers_url": "https://api.github.com/users/charlesgreen/followers",
+  "following_url": "https://api.github.com/users/charlesgreen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/charlesgreen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/charlesgreen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/charlesgreen/subscriptions",
+  "organizations_url": "https://api.github.com/users/charlesgreen/orgs",
+  "repos_url": "https://api.github.com/users/charlesgreen/repos",
+  "events_url": "https://api.github.com/users/charlesgreen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/charlesgreen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

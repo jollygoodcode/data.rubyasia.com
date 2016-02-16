@@ -1,0 +1,20 @@
+{
+  "login": "great-h",
+  "id": 4498684,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4498684?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/great-h",
+  "html_url": "https://github.com/great-h",
+  "followers_url": "https://api.github.com/users/great-h/followers",
+  "following_url": "https://api.github.com/users/great-h/following{/other_user}",
+  "gists_url": "https://api.github.com/users/great-h/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/great-h/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/great-h/subscriptions",
+  "organizations_url": "https://api.github.com/users/great-h/orgs",
+  "repos_url": "https://api.github.com/users/great-h/repos",
+  "events_url": "https://api.github.com/users/great-h/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/great-h/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

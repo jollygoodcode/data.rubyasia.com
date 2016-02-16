@@ -1,0 +1,20 @@
+{
+  "login": "newlix",
+  "id": 91061,
+  "avatar_url": "https://avatars.githubusercontent.com/u/91061?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/newlix",
+  "html_url": "https://github.com/newlix",
+  "followers_url": "https://api.github.com/users/newlix/followers",
+  "following_url": "https://api.github.com/users/newlix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/newlix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/newlix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/newlix/subscriptions",
+  "organizations_url": "https://api.github.com/users/newlix/orgs",
+  "repos_url": "https://api.github.com/users/newlix/repos",
+  "events_url": "https://api.github.com/users/newlix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/newlix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

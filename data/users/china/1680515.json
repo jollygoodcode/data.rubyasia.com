@@ -1,0 +1,20 @@
+{
+  "login": "tsl0922",
+  "id": 1680515,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1680515?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsl0922",
+  "html_url": "https://github.com/tsl0922",
+  "followers_url": "https://api.github.com/users/tsl0922/followers",
+  "following_url": "https://api.github.com/users/tsl0922/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsl0922/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsl0922/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsl0922/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsl0922/orgs",
+  "repos_url": "https://api.github.com/users/tsl0922/repos",
+  "events_url": "https://api.github.com/users/tsl0922/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsl0922/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

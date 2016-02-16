@@ -1,0 +1,20 @@
+{
+  "login": "chonghua",
+  "id": 473866,
+  "avatar_url": "https://avatars.githubusercontent.com/u/473866?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chonghua",
+  "html_url": "https://github.com/chonghua",
+  "followers_url": "https://api.github.com/users/chonghua/followers",
+  "following_url": "https://api.github.com/users/chonghua/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chonghua/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chonghua/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chonghua/subscriptions",
+  "organizations_url": "https://api.github.com/users/chonghua/orgs",
+  "repos_url": "https://api.github.com/users/chonghua/repos",
+  "events_url": "https://api.github.com/users/chonghua/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chonghua/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

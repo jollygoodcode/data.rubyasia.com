@@ -1,0 +1,20 @@
+{
+  "login": "yaocloud",
+  "id": 14228158,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14228158?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yaocloud",
+  "html_url": "https://github.com/yaocloud",
+  "followers_url": "https://api.github.com/users/yaocloud/followers",
+  "following_url": "https://api.github.com/users/yaocloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yaocloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yaocloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yaocloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/yaocloud/orgs",
+  "repos_url": "https://api.github.com/users/yaocloud/repos",
+  "events_url": "https://api.github.com/users/yaocloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yaocloud/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

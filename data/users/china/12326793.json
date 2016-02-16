@@ -1,0 +1,20 @@
+{
+  "login": "gotokeep",
+  "id": 12326793,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12326793?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gotokeep",
+  "html_url": "https://github.com/gotokeep",
+  "followers_url": "https://api.github.com/users/gotokeep/followers",
+  "following_url": "https://api.github.com/users/gotokeep/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gotokeep/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gotokeep/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gotokeep/subscriptions",
+  "organizations_url": "https://api.github.com/users/gotokeep/orgs",
+  "repos_url": "https://api.github.com/users/gotokeep/repos",
+  "events_url": "https://api.github.com/users/gotokeep/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gotokeep/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

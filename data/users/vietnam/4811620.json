@@ -1,0 +1,20 @@
+{
+  "login": "hoangphuong",
+  "id": 4811620,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4811620?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoangphuong",
+  "html_url": "https://github.com/hoangphuong",
+  "followers_url": "https://api.github.com/users/hoangphuong/followers",
+  "following_url": "https://api.github.com/users/hoangphuong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoangphuong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoangphuong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoangphuong/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoangphuong/orgs",
+  "repos_url": "https://api.github.com/users/hoangphuong/repos",
+  "events_url": "https://api.github.com/users/hoangphuong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoangphuong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

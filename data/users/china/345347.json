@@ -1,0 +1,20 @@
+{
+  "login": "chinacheng",
+  "id": 345347,
+  "avatar_url": "https://avatars.githubusercontent.com/u/345347?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chinacheng",
+  "html_url": "https://github.com/chinacheng",
+  "followers_url": "https://api.github.com/users/chinacheng/followers",
+  "following_url": "https://api.github.com/users/chinacheng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chinacheng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chinacheng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chinacheng/subscriptions",
+  "organizations_url": "https://api.github.com/users/chinacheng/orgs",
+  "repos_url": "https://api.github.com/users/chinacheng/repos",
+  "events_url": "https://api.github.com/users/chinacheng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chinacheng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

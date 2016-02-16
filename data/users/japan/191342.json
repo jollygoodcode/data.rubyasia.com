@@ -1,0 +1,20 @@
+{
+  "login": "yunkichi",
+  "id": 191342,
+  "avatar_url": "https://avatars.githubusercontent.com/u/191342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yunkichi",
+  "html_url": "https://github.com/yunkichi",
+  "followers_url": "https://api.github.com/users/yunkichi/followers",
+  "following_url": "https://api.github.com/users/yunkichi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yunkichi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yunkichi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yunkichi/subscriptions",
+  "organizations_url": "https://api.github.com/users/yunkichi/orgs",
+  "repos_url": "https://api.github.com/users/yunkichi/repos",
+  "events_url": "https://api.github.com/users/yunkichi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yunkichi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

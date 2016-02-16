@@ -1,0 +1,20 @@
+{
+  "login": "wenkakes",
+  "id": 718732,
+  "avatar_url": "https://avatars.githubusercontent.com/u/718732?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wenkakes",
+  "html_url": "https://github.com/wenkakes",
+  "followers_url": "https://api.github.com/users/wenkakes/followers",
+  "following_url": "https://api.github.com/users/wenkakes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wenkakes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wenkakes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wenkakes/subscriptions",
+  "organizations_url": "https://api.github.com/users/wenkakes/orgs",
+  "repos_url": "https://api.github.com/users/wenkakes/repos",
+  "events_url": "https://api.github.com/users/wenkakes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wenkakes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

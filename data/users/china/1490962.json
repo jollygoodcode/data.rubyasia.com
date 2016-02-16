@@ -1,0 +1,20 @@
+{
+  "login": "Ryan007",
+  "id": 1490962,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1490962?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ryan007",
+  "html_url": "https://github.com/Ryan007",
+  "followers_url": "https://api.github.com/users/Ryan007/followers",
+  "following_url": "https://api.github.com/users/Ryan007/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ryan007/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ryan007/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ryan007/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ryan007/orgs",
+  "repos_url": "https://api.github.com/users/Ryan007/repos",
+  "events_url": "https://api.github.com/users/Ryan007/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ryan007/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "solutelabs",
+  "id": 8971411,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8971411?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/solutelabs",
+  "html_url": "https://github.com/solutelabs",
+  "followers_url": "https://api.github.com/users/solutelabs/followers",
+  "following_url": "https://api.github.com/users/solutelabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/solutelabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/solutelabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/solutelabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/solutelabs/orgs",
+  "repos_url": "https://api.github.com/users/solutelabs/repos",
+  "events_url": "https://api.github.com/users/solutelabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/solutelabs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

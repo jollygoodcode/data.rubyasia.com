@@ -1,0 +1,20 @@
+{
+  "login": "smatocto",
+  "id": 1229806,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1229806?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smatocto",
+  "html_url": "https://github.com/smatocto",
+  "followers_url": "https://api.github.com/users/smatocto/followers",
+  "following_url": "https://api.github.com/users/smatocto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smatocto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smatocto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smatocto/subscriptions",
+  "organizations_url": "https://api.github.com/users/smatocto/orgs",
+  "repos_url": "https://api.github.com/users/smatocto/repos",
+  "events_url": "https://api.github.com/users/smatocto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smatocto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

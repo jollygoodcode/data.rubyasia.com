@@ -1,0 +1,20 @@
+{
+  "login": "bernazse",
+  "id": 4135328,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4135328?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bernazse",
+  "html_url": "https://github.com/bernazse",
+  "followers_url": "https://api.github.com/users/bernazse/followers",
+  "following_url": "https://api.github.com/users/bernazse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bernazse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bernazse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bernazse/subscriptions",
+  "organizations_url": "https://api.github.com/users/bernazse/orgs",
+  "repos_url": "https://api.github.com/users/bernazse/repos",
+  "events_url": "https://api.github.com/users/bernazse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bernazse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "h12o",
+  "id": 65925,
+  "avatar_url": "https://avatars.githubusercontent.com/u/65925?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/h12o",
+  "html_url": "https://github.com/h12o",
+  "followers_url": "https://api.github.com/users/h12o/followers",
+  "following_url": "https://api.github.com/users/h12o/following{/other_user}",
+  "gists_url": "https://api.github.com/users/h12o/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/h12o/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/h12o/subscriptions",
+  "organizations_url": "https://api.github.com/users/h12o/orgs",
+  "repos_url": "https://api.github.com/users/h12o/repos",
+  "events_url": "https://api.github.com/users/h12o/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/h12o/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

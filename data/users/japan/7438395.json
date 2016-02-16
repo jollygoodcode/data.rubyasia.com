@@ -1,0 +1,20 @@
+{
+  "login": "avosalmon",
+  "id": 7438395,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7438395?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/avosalmon",
+  "html_url": "https://github.com/avosalmon",
+  "followers_url": "https://api.github.com/users/avosalmon/followers",
+  "following_url": "https://api.github.com/users/avosalmon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/avosalmon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/avosalmon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/avosalmon/subscriptions",
+  "organizations_url": "https://api.github.com/users/avosalmon/orgs",
+  "repos_url": "https://api.github.com/users/avosalmon/repos",
+  "events_url": "https://api.github.com/users/avosalmon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/avosalmon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ledowong",
+  "id": 77749,
+  "avatar_url": "https://avatars.githubusercontent.com/u/77749?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ledowong",
+  "html_url": "https://github.com/ledowong",
+  "followers_url": "https://api.github.com/users/ledowong/followers",
+  "following_url": "https://api.github.com/users/ledowong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ledowong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ledowong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ledowong/subscriptions",
+  "organizations_url": "https://api.github.com/users/ledowong/orgs",
+  "repos_url": "https://api.github.com/users/ledowong/repos",
+  "events_url": "https://api.github.com/users/ledowong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ledowong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

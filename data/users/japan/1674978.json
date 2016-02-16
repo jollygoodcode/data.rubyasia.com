@@ -1,0 +1,20 @@
+{
+  "login": "increments",
+  "id": 1674978,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1674978?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/increments",
+  "html_url": "https://github.com/increments",
+  "followers_url": "https://api.github.com/users/increments/followers",
+  "following_url": "https://api.github.com/users/increments/following{/other_user}",
+  "gists_url": "https://api.github.com/users/increments/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/increments/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/increments/subscriptions",
+  "organizations_url": "https://api.github.com/users/increments/orgs",
+  "repos_url": "https://api.github.com/users/increments/repos",
+  "events_url": "https://api.github.com/users/increments/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/increments/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

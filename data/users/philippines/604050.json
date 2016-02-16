@@ -1,0 +1,20 @@
+{
+  "login": "Iannis",
+  "id": 604050,
+  "avatar_url": "https://avatars.githubusercontent.com/u/604050?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Iannis",
+  "html_url": "https://github.com/Iannis",
+  "followers_url": "https://api.github.com/users/Iannis/followers",
+  "following_url": "https://api.github.com/users/Iannis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Iannis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Iannis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Iannis/subscriptions",
+  "organizations_url": "https://api.github.com/users/Iannis/orgs",
+  "repos_url": "https://api.github.com/users/Iannis/repos",
+  "events_url": "https://api.github.com/users/Iannis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Iannis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

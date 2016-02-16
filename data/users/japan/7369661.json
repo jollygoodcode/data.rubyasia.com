@@ -1,0 +1,20 @@
+{
+  "login": "keikoabe",
+  "id": 7369661,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7369661?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/keikoabe",
+  "html_url": "https://github.com/keikoabe",
+  "followers_url": "https://api.github.com/users/keikoabe/followers",
+  "following_url": "https://api.github.com/users/keikoabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/keikoabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/keikoabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/keikoabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/keikoabe/orgs",
+  "repos_url": "https://api.github.com/users/keikoabe/repos",
+  "events_url": "https://api.github.com/users/keikoabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/keikoabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jamesdc",
+  "id": 417304,
+  "avatar_url": "https://avatars.githubusercontent.com/u/417304?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamesdc",
+  "html_url": "https://github.com/jamesdc",
+  "followers_url": "https://api.github.com/users/jamesdc/followers",
+  "following_url": "https://api.github.com/users/jamesdc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamesdc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamesdc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamesdc/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamesdc/orgs",
+  "repos_url": "https://api.github.com/users/jamesdc/repos",
+  "events_url": "https://api.github.com/users/jamesdc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamesdc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ChaseVoid",
+  "id": 144334,
+  "avatar_url": "https://avatars.githubusercontent.com/u/144334?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ChaseVoid",
+  "html_url": "https://github.com/ChaseVoid",
+  "followers_url": "https://api.github.com/users/ChaseVoid/followers",
+  "following_url": "https://api.github.com/users/ChaseVoid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ChaseVoid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ChaseVoid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ChaseVoid/subscriptions",
+  "organizations_url": "https://api.github.com/users/ChaseVoid/orgs",
+  "repos_url": "https://api.github.com/users/ChaseVoid/repos",
+  "events_url": "https://api.github.com/users/ChaseVoid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ChaseVoid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

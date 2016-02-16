@@ -1,0 +1,20 @@
+{
+  "login": "redramos",
+  "id": 7698985,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7698985?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/redramos",
+  "html_url": "https://github.com/redramos",
+  "followers_url": "https://api.github.com/users/redramos/followers",
+  "following_url": "https://api.github.com/users/redramos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/redramos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/redramos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/redramos/subscriptions",
+  "organizations_url": "https://api.github.com/users/redramos/orgs",
+  "repos_url": "https://api.github.com/users/redramos/repos",
+  "events_url": "https://api.github.com/users/redramos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/redramos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

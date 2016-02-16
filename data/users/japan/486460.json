@@ -1,0 +1,20 @@
+{
+  "login": "honkimi",
+  "id": 486460,
+  "avatar_url": "https://avatars.githubusercontent.com/u/486460?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/honkimi",
+  "html_url": "https://github.com/honkimi",
+  "followers_url": "https://api.github.com/users/honkimi/followers",
+  "following_url": "https://api.github.com/users/honkimi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/honkimi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/honkimi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/honkimi/subscriptions",
+  "organizations_url": "https://api.github.com/users/honkimi/orgs",
+  "repos_url": "https://api.github.com/users/honkimi/repos",
+  "events_url": "https://api.github.com/users/honkimi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/honkimi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

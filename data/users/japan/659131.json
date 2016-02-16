@@ -1,0 +1,20 @@
+{
+  "login": "nanofi",
+  "id": 659131,
+  "avatar_url": "https://avatars.githubusercontent.com/u/659131?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nanofi",
+  "html_url": "https://github.com/nanofi",
+  "followers_url": "https://api.github.com/users/nanofi/followers",
+  "following_url": "https://api.github.com/users/nanofi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nanofi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nanofi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nanofi/subscriptions",
+  "organizations_url": "https://api.github.com/users/nanofi/orgs",
+  "repos_url": "https://api.github.com/users/nanofi/repos",
+  "events_url": "https://api.github.com/users/nanofi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nanofi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

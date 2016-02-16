@@ -1,0 +1,20 @@
+{
+  "login": "djamol",
+  "id": 1022160,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1022160?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/djamol",
+  "html_url": "https://github.com/djamol",
+  "followers_url": "https://api.github.com/users/djamol/followers",
+  "following_url": "https://api.github.com/users/djamol/following{/other_user}",
+  "gists_url": "https://api.github.com/users/djamol/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/djamol/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/djamol/subscriptions",
+  "organizations_url": "https://api.github.com/users/djamol/orgs",
+  "repos_url": "https://api.github.com/users/djamol/repos",
+  "events_url": "https://api.github.com/users/djamol/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/djamol/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

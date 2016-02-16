@@ -1,0 +1,20 @@
+{
+  "login": "yehjames",
+  "id": 2988344,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2988344?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yehjames",
+  "html_url": "https://github.com/yehjames",
+  "followers_url": "https://api.github.com/users/yehjames/followers",
+  "following_url": "https://api.github.com/users/yehjames/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yehjames/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yehjames/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yehjames/subscriptions",
+  "organizations_url": "https://api.github.com/users/yehjames/orgs",
+  "repos_url": "https://api.github.com/users/yehjames/repos",
+  "events_url": "https://api.github.com/users/yehjames/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yehjames/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "methodnow",
+  "id": 1456259,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1456259?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/methodnow",
+  "html_url": "https://github.com/methodnow",
+  "followers_url": "https://api.github.com/users/methodnow/followers",
+  "following_url": "https://api.github.com/users/methodnow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/methodnow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/methodnow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/methodnow/subscriptions",
+  "organizations_url": "https://api.github.com/users/methodnow/orgs",
+  "repos_url": "https://api.github.com/users/methodnow/repos",
+  "events_url": "https://api.github.com/users/methodnow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/methodnow/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

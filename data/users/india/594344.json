@@ -1,0 +1,20 @@
+{
+  "login": "rshiva",
+  "id": 594344,
+  "avatar_url": "https://avatars.githubusercontent.com/u/594344?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rshiva",
+  "html_url": "https://github.com/rshiva",
+  "followers_url": "https://api.github.com/users/rshiva/followers",
+  "following_url": "https://api.github.com/users/rshiva/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rshiva/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rshiva/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rshiva/subscriptions",
+  "organizations_url": "https://api.github.com/users/rshiva/orgs",
+  "repos_url": "https://api.github.com/users/rshiva/repos",
+  "events_url": "https://api.github.com/users/rshiva/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rshiva/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

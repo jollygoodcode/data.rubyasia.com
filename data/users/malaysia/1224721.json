@@ -1,0 +1,20 @@
+{
+  "login": "sorsaffari",
+  "id": 1224721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1224721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sorsaffari",
+  "html_url": "https://github.com/sorsaffari",
+  "followers_url": "https://api.github.com/users/sorsaffari/followers",
+  "following_url": "https://api.github.com/users/sorsaffari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sorsaffari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sorsaffari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sorsaffari/subscriptions",
+  "organizations_url": "https://api.github.com/users/sorsaffari/orgs",
+  "repos_url": "https://api.github.com/users/sorsaffari/repos",
+  "events_url": "https://api.github.com/users/sorsaffari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sorsaffari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

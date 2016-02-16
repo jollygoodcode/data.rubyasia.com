@@ -1,0 +1,20 @@
+{
+  "login": "anoside",
+  "id": 1239807,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1239807?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anoside",
+  "html_url": "https://github.com/anoside",
+  "followers_url": "https://api.github.com/users/anoside/followers",
+  "following_url": "https://api.github.com/users/anoside/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anoside/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anoside/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anoside/subscriptions",
+  "organizations_url": "https://api.github.com/users/anoside/orgs",
+  "repos_url": "https://api.github.com/users/anoside/repos",
+  "events_url": "https://api.github.com/users/anoside/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anoside/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

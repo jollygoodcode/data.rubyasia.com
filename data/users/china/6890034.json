@@ -1,0 +1,20 @@
+{
+  "login": "jaychsu",
+  "id": 6890034,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6890034?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jaychsu",
+  "html_url": "https://github.com/jaychsu",
+  "followers_url": "https://api.github.com/users/jaychsu/followers",
+  "following_url": "https://api.github.com/users/jaychsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jaychsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jaychsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jaychsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/jaychsu/orgs",
+  "repos_url": "https://api.github.com/users/jaychsu/repos",
+  "events_url": "https://api.github.com/users/jaychsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jaychsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "BillCode4GH",
+  "id": 4200367,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4200367?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BillCode4GH",
+  "html_url": "https://github.com/BillCode4GH",
+  "followers_url": "https://api.github.com/users/BillCode4GH/followers",
+  "following_url": "https://api.github.com/users/BillCode4GH/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BillCode4GH/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BillCode4GH/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BillCode4GH/subscriptions",
+  "organizations_url": "https://api.github.com/users/BillCode4GH/orgs",
+  "repos_url": "https://api.github.com/users/BillCode4GH/repos",
+  "events_url": "https://api.github.com/users/BillCode4GH/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BillCode4GH/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "megamsys",
+  "id": 5526825,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5526825?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/megamsys",
+  "html_url": "https://github.com/megamsys",
+  "followers_url": "https://api.github.com/users/megamsys/followers",
+  "following_url": "https://api.github.com/users/megamsys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/megamsys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/megamsys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/megamsys/subscriptions",
+  "organizations_url": "https://api.github.com/users/megamsys/orgs",
+  "repos_url": "https://api.github.com/users/megamsys/repos",
+  "events_url": "https://api.github.com/users/megamsys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/megamsys/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "itszero",
+  "id": 9305,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9305?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/itszero",
+  "html_url": "https://github.com/itszero",
+  "followers_url": "https://api.github.com/users/itszero/followers",
+  "following_url": "https://api.github.com/users/itszero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/itszero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/itszero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/itszero/subscriptions",
+  "organizations_url": "https://api.github.com/users/itszero/orgs",
+  "repos_url": "https://api.github.com/users/itszero/repos",
+  "events_url": "https://api.github.com/users/itszero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/itszero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

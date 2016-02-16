@@ -1,0 +1,20 @@
+{
+  "login": "ramsingla",
+  "id": 46172,
+  "avatar_url": "https://avatars.githubusercontent.com/u/46172?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ramsingla",
+  "html_url": "https://github.com/ramsingla",
+  "followers_url": "https://api.github.com/users/ramsingla/followers",
+  "following_url": "https://api.github.com/users/ramsingla/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ramsingla/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ramsingla/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ramsingla/subscriptions",
+  "organizations_url": "https://api.github.com/users/ramsingla/orgs",
+  "repos_url": "https://api.github.com/users/ramsingla/repos",
+  "events_url": "https://api.github.com/users/ramsingla/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ramsingla/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

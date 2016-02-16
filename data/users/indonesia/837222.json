@@ -1,0 +1,20 @@
+{
+  "login": "virapay",
+  "id": 837222,
+  "avatar_url": "https://avatars.githubusercontent.com/u/837222?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/virapay",
+  "html_url": "https://github.com/virapay",
+  "followers_url": "https://api.github.com/users/virapay/followers",
+  "following_url": "https://api.github.com/users/virapay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/virapay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/virapay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/virapay/subscriptions",
+  "organizations_url": "https://api.github.com/users/virapay/orgs",
+  "repos_url": "https://api.github.com/users/virapay/repos",
+  "events_url": "https://api.github.com/users/virapay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/virapay/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

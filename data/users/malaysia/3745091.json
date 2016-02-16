@@ -1,0 +1,20 @@
+{
+  "login": "fardormu",
+  "id": 3745091,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3745091?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fardormu",
+  "html_url": "https://github.com/fardormu",
+  "followers_url": "https://api.github.com/users/fardormu/followers",
+  "following_url": "https://api.github.com/users/fardormu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fardormu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fardormu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fardormu/subscriptions",
+  "organizations_url": "https://api.github.com/users/fardormu/orgs",
+  "repos_url": "https://api.github.com/users/fardormu/repos",
+  "events_url": "https://api.github.com/users/fardormu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fardormu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

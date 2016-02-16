@@ -1,0 +1,20 @@
+{
+  "login": "jgnan",
+  "id": 1083557,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1083557?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jgnan",
+  "html_url": "https://github.com/jgnan",
+  "followers_url": "https://api.github.com/users/jgnan/followers",
+  "following_url": "https://api.github.com/users/jgnan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jgnan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jgnan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jgnan/subscriptions",
+  "organizations_url": "https://api.github.com/users/jgnan/orgs",
+  "repos_url": "https://api.github.com/users/jgnan/repos",
+  "events_url": "https://api.github.com/users/jgnan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jgnan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

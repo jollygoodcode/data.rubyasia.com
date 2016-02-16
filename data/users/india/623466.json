@@ -1,0 +1,20 @@
+{
+  "login": "uuksarma",
+  "id": 623466,
+  "avatar_url": "https://avatars.githubusercontent.com/u/623466?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uuksarma",
+  "html_url": "https://github.com/uuksarma",
+  "followers_url": "https://api.github.com/users/uuksarma/followers",
+  "following_url": "https://api.github.com/users/uuksarma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uuksarma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uuksarma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uuksarma/subscriptions",
+  "organizations_url": "https://api.github.com/users/uuksarma/orgs",
+  "repos_url": "https://api.github.com/users/uuksarma/repos",
+  "events_url": "https://api.github.com/users/uuksarma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uuksarma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

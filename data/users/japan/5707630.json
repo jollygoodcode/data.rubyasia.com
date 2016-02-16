@@ -1,0 +1,20 @@
+{
+  "login": "hirata-clara",
+  "id": 5707630,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5707630?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hirata-clara",
+  "html_url": "https://github.com/hirata-clara",
+  "followers_url": "https://api.github.com/users/hirata-clara/followers",
+  "following_url": "https://api.github.com/users/hirata-clara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hirata-clara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hirata-clara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hirata-clara/subscriptions",
+  "organizations_url": "https://api.github.com/users/hirata-clara/orgs",
+  "repos_url": "https://api.github.com/users/hirata-clara/repos",
+  "events_url": "https://api.github.com/users/hirata-clara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hirata-clara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

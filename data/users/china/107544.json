@@ -1,0 +1,20 @@
+{
+  "login": "fengjing",
+  "id": 107544,
+  "avatar_url": "https://avatars.githubusercontent.com/u/107544?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fengjing",
+  "html_url": "https://github.com/fengjing",
+  "followers_url": "https://api.github.com/users/fengjing/followers",
+  "following_url": "https://api.github.com/users/fengjing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fengjing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fengjing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fengjing/subscriptions",
+  "organizations_url": "https://api.github.com/users/fengjing/orgs",
+  "repos_url": "https://api.github.com/users/fengjing/repos",
+  "events_url": "https://api.github.com/users/fengjing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fengjing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

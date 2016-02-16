@@ -1,0 +1,20 @@
+{
+  "login": "iknow",
+  "id": 64543,
+  "avatar_url": "https://avatars.githubusercontent.com/u/64543?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iknow",
+  "html_url": "https://github.com/iknow",
+  "followers_url": "https://api.github.com/users/iknow/followers",
+  "following_url": "https://api.github.com/users/iknow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iknow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iknow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iknow/subscriptions",
+  "organizations_url": "https://api.github.com/users/iknow/orgs",
+  "repos_url": "https://api.github.com/users/iknow/repos",
+  "events_url": "https://api.github.com/users/iknow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iknow/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

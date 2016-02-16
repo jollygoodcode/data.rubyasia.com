@@ -1,0 +1,20 @@
+{
+  "login": "n-imai",
+  "id": 8196611,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8196611?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/n-imai",
+  "html_url": "https://github.com/n-imai",
+  "followers_url": "https://api.github.com/users/n-imai/followers",
+  "following_url": "https://api.github.com/users/n-imai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/n-imai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/n-imai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/n-imai/subscriptions",
+  "organizations_url": "https://api.github.com/users/n-imai/orgs",
+  "repos_url": "https://api.github.com/users/n-imai/repos",
+  "events_url": "https://api.github.com/users/n-imai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/n-imai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

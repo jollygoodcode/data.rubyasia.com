@@ -1,0 +1,20 @@
+{
+  "login": "hokamoto",
+  "id": 1726523,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1726523?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hokamoto",
+  "html_url": "https://github.com/hokamoto",
+  "followers_url": "https://api.github.com/users/hokamoto/followers",
+  "following_url": "https://api.github.com/users/hokamoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hokamoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hokamoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hokamoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/hokamoto/orgs",
+  "repos_url": "https://api.github.com/users/hokamoto/repos",
+  "events_url": "https://api.github.com/users/hokamoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hokamoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

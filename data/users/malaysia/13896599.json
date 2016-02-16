@@ -1,0 +1,20 @@
+{
+  "login": "alpacalab",
+  "id": 13896599,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13896599?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alpacalab",
+  "html_url": "https://github.com/alpacalab",
+  "followers_url": "https://api.github.com/users/alpacalab/followers",
+  "following_url": "https://api.github.com/users/alpacalab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alpacalab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alpacalab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alpacalab/subscriptions",
+  "organizations_url": "https://api.github.com/users/alpacalab/orgs",
+  "repos_url": "https://api.github.com/users/alpacalab/repos",
+  "events_url": "https://api.github.com/users/alpacalab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alpacalab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

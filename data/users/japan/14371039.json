@@ -1,0 +1,20 @@
+{
+  "login": "siaflab",
+  "id": 14371039,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14371039?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/siaflab",
+  "html_url": "https://github.com/siaflab",
+  "followers_url": "https://api.github.com/users/siaflab/followers",
+  "following_url": "https://api.github.com/users/siaflab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/siaflab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/siaflab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/siaflab/subscriptions",
+  "organizations_url": "https://api.github.com/users/siaflab/orgs",
+  "repos_url": "https://api.github.com/users/siaflab/repos",
+  "events_url": "https://api.github.com/users/siaflab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/siaflab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

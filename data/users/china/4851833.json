@@ -1,0 +1,20 @@
+{
+  "login": "Nullizer",
+  "id": 4851833,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4851833?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Nullizer",
+  "html_url": "https://github.com/Nullizer",
+  "followers_url": "https://api.github.com/users/Nullizer/followers",
+  "following_url": "https://api.github.com/users/Nullizer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Nullizer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Nullizer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Nullizer/subscriptions",
+  "organizations_url": "https://api.github.com/users/Nullizer/orgs",
+  "repos_url": "https://api.github.com/users/Nullizer/repos",
+  "events_url": "https://api.github.com/users/Nullizer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Nullizer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

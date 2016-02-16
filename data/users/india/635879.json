@@ -1,0 +1,20 @@
+{
+  "login": "medma",
+  "id": 635879,
+  "avatar_url": "https://avatars.githubusercontent.com/u/635879?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/medma",
+  "html_url": "https://github.com/medma",
+  "followers_url": "https://api.github.com/users/medma/followers",
+  "following_url": "https://api.github.com/users/medma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/medma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/medma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/medma/subscriptions",
+  "organizations_url": "https://api.github.com/users/medma/orgs",
+  "repos_url": "https://api.github.com/users/medma/repos",
+  "events_url": "https://api.github.com/users/medma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/medma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

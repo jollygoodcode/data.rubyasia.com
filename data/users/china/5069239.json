@@ -1,0 +1,20 @@
+{
+  "login": "dekexu",
+  "id": 5069239,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5069239?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dekexu",
+  "html_url": "https://github.com/dekexu",
+  "followers_url": "https://api.github.com/users/dekexu/followers",
+  "following_url": "https://api.github.com/users/dekexu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dekexu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dekexu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dekexu/subscriptions",
+  "organizations_url": "https://api.github.com/users/dekexu/orgs",
+  "repos_url": "https://api.github.com/users/dekexu/repos",
+  "events_url": "https://api.github.com/users/dekexu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dekexu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

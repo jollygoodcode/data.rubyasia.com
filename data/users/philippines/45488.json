@@ -1,0 +1,20 @@
+{
+  "login": "primerg",
+  "id": 45488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/45488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/primerg",
+  "html_url": "https://github.com/primerg",
+  "followers_url": "https://api.github.com/users/primerg/followers",
+  "following_url": "https://api.github.com/users/primerg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/primerg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/primerg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/primerg/subscriptions",
+  "organizations_url": "https://api.github.com/users/primerg/orgs",
+  "repos_url": "https://api.github.com/users/primerg/repos",
+  "events_url": "https://api.github.com/users/primerg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/primerg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rosgen",
+  "id": 1400384,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1400384?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rosgen",
+  "html_url": "https://github.com/rosgen",
+  "followers_url": "https://api.github.com/users/rosgen/followers",
+  "following_url": "https://api.github.com/users/rosgen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rosgen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rosgen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rosgen/subscriptions",
+  "organizations_url": "https://api.github.com/users/rosgen/orgs",
+  "repos_url": "https://api.github.com/users/rosgen/repos",
+  "events_url": "https://api.github.com/users/rosgen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rosgen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

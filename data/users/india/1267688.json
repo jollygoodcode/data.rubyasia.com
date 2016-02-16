@@ -1,0 +1,20 @@
+{
+  "login": "usmanarif",
+  "id": 1267688,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1267688?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/usmanarif",
+  "html_url": "https://github.com/usmanarif",
+  "followers_url": "https://api.github.com/users/usmanarif/followers",
+  "following_url": "https://api.github.com/users/usmanarif/following{/other_user}",
+  "gists_url": "https://api.github.com/users/usmanarif/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/usmanarif/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/usmanarif/subscriptions",
+  "organizations_url": "https://api.github.com/users/usmanarif/orgs",
+  "repos_url": "https://api.github.com/users/usmanarif/repos",
+  "events_url": "https://api.github.com/users/usmanarif/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/usmanarif/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

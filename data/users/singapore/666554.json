@@ -1,0 +1,20 @@
+{
+  "login": "czhao",
+  "id": 666554,
+  "avatar_url": "https://avatars.githubusercontent.com/u/666554?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/czhao",
+  "html_url": "https://github.com/czhao",
+  "followers_url": "https://api.github.com/users/czhao/followers",
+  "following_url": "https://api.github.com/users/czhao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/czhao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/czhao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/czhao/subscriptions",
+  "organizations_url": "https://api.github.com/users/czhao/orgs",
+  "repos_url": "https://api.github.com/users/czhao/repos",
+  "events_url": "https://api.github.com/users/czhao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/czhao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

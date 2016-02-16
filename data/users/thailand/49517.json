@@ -1,0 +1,20 @@
+{
+  "login": "radirk",
+  "id": 49517,
+  "avatar_url": "https://avatars.githubusercontent.com/u/49517?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/radirk",
+  "html_url": "https://github.com/radirk",
+  "followers_url": "https://api.github.com/users/radirk/followers",
+  "following_url": "https://api.github.com/users/radirk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/radirk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/radirk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/radirk/subscriptions",
+  "organizations_url": "https://api.github.com/users/radirk/orgs",
+  "repos_url": "https://api.github.com/users/radirk/repos",
+  "events_url": "https://api.github.com/users/radirk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/radirk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

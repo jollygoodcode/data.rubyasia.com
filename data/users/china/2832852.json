@@ -1,0 +1,20 @@
+{
+  "login": "PerthCharles",
+  "id": 2832852,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2832852?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PerthCharles",
+  "html_url": "https://github.com/PerthCharles",
+  "followers_url": "https://api.github.com/users/PerthCharles/followers",
+  "following_url": "https://api.github.com/users/PerthCharles/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PerthCharles/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PerthCharles/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PerthCharles/subscriptions",
+  "organizations_url": "https://api.github.com/users/PerthCharles/orgs",
+  "repos_url": "https://api.github.com/users/PerthCharles/repos",
+  "events_url": "https://api.github.com/users/PerthCharles/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PerthCharles/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

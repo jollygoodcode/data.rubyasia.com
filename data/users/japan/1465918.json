@@ -1,0 +1,20 @@
+{
+  "login": "masayukioguni",
+  "id": 1465918,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1465918?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masayukioguni",
+  "html_url": "https://github.com/masayukioguni",
+  "followers_url": "https://api.github.com/users/masayukioguni/followers",
+  "following_url": "https://api.github.com/users/masayukioguni/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masayukioguni/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masayukioguni/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masayukioguni/subscriptions",
+  "organizations_url": "https://api.github.com/users/masayukioguni/orgs",
+  "repos_url": "https://api.github.com/users/masayukioguni/repos",
+  "events_url": "https://api.github.com/users/masayukioguni/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masayukioguni/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

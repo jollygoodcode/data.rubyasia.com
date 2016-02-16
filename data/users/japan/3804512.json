@@ -1,0 +1,20 @@
+{
+  "login": "TXANT",
+  "id": 3804512,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3804512?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TXANT",
+  "html_url": "https://github.com/TXANT",
+  "followers_url": "https://api.github.com/users/TXANT/followers",
+  "following_url": "https://api.github.com/users/TXANT/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TXANT/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TXANT/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TXANT/subscriptions",
+  "organizations_url": "https://api.github.com/users/TXANT/orgs",
+  "repos_url": "https://api.github.com/users/TXANT/repos",
+  "events_url": "https://api.github.com/users/TXANT/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TXANT/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

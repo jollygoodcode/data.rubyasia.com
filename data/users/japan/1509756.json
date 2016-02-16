@@ -1,0 +1,20 @@
+{
+  "login": "akiyama-lab",
+  "id": 1509756,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1509756?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akiyama-lab",
+  "html_url": "https://github.com/akiyama-lab",
+  "followers_url": "https://api.github.com/users/akiyama-lab/followers",
+  "following_url": "https://api.github.com/users/akiyama-lab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akiyama-lab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akiyama-lab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akiyama-lab/subscriptions",
+  "organizations_url": "https://api.github.com/users/akiyama-lab/orgs",
+  "repos_url": "https://api.github.com/users/akiyama-lab/repos",
+  "events_url": "https://api.github.com/users/akiyama-lab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akiyama-lab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

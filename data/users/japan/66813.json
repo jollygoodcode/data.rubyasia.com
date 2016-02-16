@@ -1,0 +1,20 @@
+{
+  "login": "ysomei",
+  "id": 66813,
+  "avatar_url": "https://avatars.githubusercontent.com/u/66813?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ysomei",
+  "html_url": "https://github.com/ysomei",
+  "followers_url": "https://api.github.com/users/ysomei/followers",
+  "following_url": "https://api.github.com/users/ysomei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ysomei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ysomei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ysomei/subscriptions",
+  "organizations_url": "https://api.github.com/users/ysomei/orgs",
+  "repos_url": "https://api.github.com/users/ysomei/repos",
+  "events_url": "https://api.github.com/users/ysomei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ysomei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

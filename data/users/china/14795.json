@@ -1,0 +1,20 @@
+{
+  "login": "ikej",
+  "id": 14795,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14795?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ikej",
+  "html_url": "https://github.com/ikej",
+  "followers_url": "https://api.github.com/users/ikej/followers",
+  "following_url": "https://api.github.com/users/ikej/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ikej/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ikej/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ikej/subscriptions",
+  "organizations_url": "https://api.github.com/users/ikej/orgs",
+  "repos_url": "https://api.github.com/users/ikej/repos",
+  "events_url": "https://api.github.com/users/ikej/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ikej/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

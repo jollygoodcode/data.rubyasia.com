@@ -1,0 +1,20 @@
+{
+  "login": "rezalina",
+  "id": 1235164,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1235164?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rezalina",
+  "html_url": "https://github.com/rezalina",
+  "followers_url": "https://api.github.com/users/rezalina/followers",
+  "following_url": "https://api.github.com/users/rezalina/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rezalina/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rezalina/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rezalina/subscriptions",
+  "organizations_url": "https://api.github.com/users/rezalina/orgs",
+  "repos_url": "https://api.github.com/users/rezalina/repos",
+  "events_url": "https://api.github.com/users/rezalina/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rezalina/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

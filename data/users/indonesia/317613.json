@@ -1,0 +1,20 @@
+{
+  "login": "syafik",
+  "id": 317613,
+  "avatar_url": "https://avatars.githubusercontent.com/u/317613?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/syafik",
+  "html_url": "https://github.com/syafik",
+  "followers_url": "https://api.github.com/users/syafik/followers",
+  "following_url": "https://api.github.com/users/syafik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/syafik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/syafik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/syafik/subscriptions",
+  "organizations_url": "https://api.github.com/users/syafik/orgs",
+  "repos_url": "https://api.github.com/users/syafik/repos",
+  "events_url": "https://api.github.com/users/syafik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/syafik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

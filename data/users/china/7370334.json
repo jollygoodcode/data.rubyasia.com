@@ -1,0 +1,20 @@
+{
+  "login": "liyakun",
+  "id": 7370334,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7370334?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/liyakun",
+  "html_url": "https://github.com/liyakun",
+  "followers_url": "https://api.github.com/users/liyakun/followers",
+  "following_url": "https://api.github.com/users/liyakun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/liyakun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/liyakun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/liyakun/subscriptions",
+  "organizations_url": "https://api.github.com/users/liyakun/orgs",
+  "repos_url": "https://api.github.com/users/liyakun/repos",
+  "events_url": "https://api.github.com/users/liyakun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/liyakun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

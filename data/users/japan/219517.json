@@ -1,0 +1,20 @@
+{
+  "login": "matsudayousuke",
+  "id": 219517,
+  "avatar_url": "https://avatars.githubusercontent.com/u/219517?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matsudayousuke",
+  "html_url": "https://github.com/matsudayousuke",
+  "followers_url": "https://api.github.com/users/matsudayousuke/followers",
+  "following_url": "https://api.github.com/users/matsudayousuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matsudayousuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matsudayousuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matsudayousuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/matsudayousuke/orgs",
+  "repos_url": "https://api.github.com/users/matsudayousuke/repos",
+  "events_url": "https://api.github.com/users/matsudayousuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matsudayousuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

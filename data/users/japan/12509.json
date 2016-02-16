@@ -1,0 +1,20 @@
+{
+  "login": "nay",
+  "id": 12509,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12509?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nay",
+  "html_url": "https://github.com/nay",
+  "followers_url": "https://api.github.com/users/nay/followers",
+  "following_url": "https://api.github.com/users/nay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nay/subscriptions",
+  "organizations_url": "https://api.github.com/users/nay/orgs",
+  "repos_url": "https://api.github.com/users/nay/repos",
+  "events_url": "https://api.github.com/users/nay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

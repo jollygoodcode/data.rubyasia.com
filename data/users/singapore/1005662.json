@@ -1,0 +1,20 @@
+{
+  "login": "RayLong",
+  "id": 1005662,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1005662?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/RayLong",
+  "html_url": "https://github.com/RayLong",
+  "followers_url": "https://api.github.com/users/RayLong/followers",
+  "following_url": "https://api.github.com/users/RayLong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/RayLong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/RayLong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/RayLong/subscriptions",
+  "organizations_url": "https://api.github.com/users/RayLong/orgs",
+  "repos_url": "https://api.github.com/users/RayLong/repos",
+  "events_url": "https://api.github.com/users/RayLong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/RayLong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

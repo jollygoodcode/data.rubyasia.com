@@ -1,0 +1,20 @@
+{
+  "login": "rhchia",
+  "id": 68787,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68787?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rhchia",
+  "html_url": "https://github.com/rhchia",
+  "followers_url": "https://api.github.com/users/rhchia/followers",
+  "following_url": "https://api.github.com/users/rhchia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rhchia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rhchia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rhchia/subscriptions",
+  "organizations_url": "https://api.github.com/users/rhchia/orgs",
+  "repos_url": "https://api.github.com/users/rhchia/repos",
+  "events_url": "https://api.github.com/users/rhchia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rhchia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

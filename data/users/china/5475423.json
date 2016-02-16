@@ -1,0 +1,20 @@
+{
+  "login": "lanffy",
+  "id": 5475423,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5475423?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lanffy",
+  "html_url": "https://github.com/lanffy",
+  "followers_url": "https://api.github.com/users/lanffy/followers",
+  "following_url": "https://api.github.com/users/lanffy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lanffy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lanffy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lanffy/subscriptions",
+  "organizations_url": "https://api.github.com/users/lanffy/orgs",
+  "repos_url": "https://api.github.com/users/lanffy/repos",
+  "events_url": "https://api.github.com/users/lanffy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lanffy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

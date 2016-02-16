@@ -1,0 +1,20 @@
+{
+  "login": "ceplus",
+  "id": 21540,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21540?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ceplus",
+  "html_url": "https://github.com/ceplus",
+  "followers_url": "https://api.github.com/users/ceplus/followers",
+  "following_url": "https://api.github.com/users/ceplus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ceplus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ceplus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ceplus/subscriptions",
+  "organizations_url": "https://api.github.com/users/ceplus/orgs",
+  "repos_url": "https://api.github.com/users/ceplus/repos",
+  "events_url": "https://api.github.com/users/ceplus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ceplus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

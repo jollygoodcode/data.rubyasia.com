@@ -1,0 +1,20 @@
+{
+  "login": "ttakamura",
+  "id": 872982,
+  "avatar_url": "https://avatars.githubusercontent.com/u/872982?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ttakamura",
+  "html_url": "https://github.com/ttakamura",
+  "followers_url": "https://api.github.com/users/ttakamura/followers",
+  "following_url": "https://api.github.com/users/ttakamura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ttakamura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ttakamura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ttakamura/subscriptions",
+  "organizations_url": "https://api.github.com/users/ttakamura/orgs",
+  "repos_url": "https://api.github.com/users/ttakamura/repos",
+  "events_url": "https://api.github.com/users/ttakamura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ttakamura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

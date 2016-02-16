@@ -1,0 +1,20 @@
+{
+  "login": "domitry",
+  "id": 481556,
+  "avatar_url": "https://avatars.githubusercontent.com/u/481556?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/domitry",
+  "html_url": "https://github.com/domitry",
+  "followers_url": "https://api.github.com/users/domitry/followers",
+  "following_url": "https://api.github.com/users/domitry/following{/other_user}",
+  "gists_url": "https://api.github.com/users/domitry/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/domitry/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/domitry/subscriptions",
+  "organizations_url": "https://api.github.com/users/domitry/orgs",
+  "repos_url": "https://api.github.com/users/domitry/repos",
+  "events_url": "https://api.github.com/users/domitry/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/domitry/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

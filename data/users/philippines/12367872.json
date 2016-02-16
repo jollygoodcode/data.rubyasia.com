@@ -1,0 +1,20 @@
+{
+  "login": "jfaleria",
+  "id": 12367872,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12367872?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jfaleria",
+  "html_url": "https://github.com/jfaleria",
+  "followers_url": "https://api.github.com/users/jfaleria/followers",
+  "following_url": "https://api.github.com/users/jfaleria/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jfaleria/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jfaleria/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jfaleria/subscriptions",
+  "organizations_url": "https://api.github.com/users/jfaleria/orgs",
+  "repos_url": "https://api.github.com/users/jfaleria/repos",
+  "events_url": "https://api.github.com/users/jfaleria/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jfaleria/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

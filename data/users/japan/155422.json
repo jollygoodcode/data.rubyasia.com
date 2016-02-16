@@ -1,0 +1,20 @@
+{
+  "login": "merikonjatta",
+  "id": 155422,
+  "avatar_url": "https://avatars.githubusercontent.com/u/155422?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/merikonjatta",
+  "html_url": "https://github.com/merikonjatta",
+  "followers_url": "https://api.github.com/users/merikonjatta/followers",
+  "following_url": "https://api.github.com/users/merikonjatta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/merikonjatta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/merikonjatta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/merikonjatta/subscriptions",
+  "organizations_url": "https://api.github.com/users/merikonjatta/orgs",
+  "repos_url": "https://api.github.com/users/merikonjatta/repos",
+  "events_url": "https://api.github.com/users/merikonjatta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/merikonjatta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dholeus",
+  "id": 4234617,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4234617?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dholeus",
+  "html_url": "https://github.com/dholeus",
+  "followers_url": "https://api.github.com/users/dholeus/followers",
+  "following_url": "https://api.github.com/users/dholeus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dholeus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dholeus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dholeus/subscriptions",
+  "organizations_url": "https://api.github.com/users/dholeus/orgs",
+  "repos_url": "https://api.github.com/users/dholeus/repos",
+  "events_url": "https://api.github.com/users/dholeus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dholeus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

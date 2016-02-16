@@ -1,0 +1,20 @@
+{
+  "login": "volumetric",
+  "id": 760819,
+  "avatar_url": "https://avatars.githubusercontent.com/u/760819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/volumetric",
+  "html_url": "https://github.com/volumetric",
+  "followers_url": "https://api.github.com/users/volumetric/followers",
+  "following_url": "https://api.github.com/users/volumetric/following{/other_user}",
+  "gists_url": "https://api.github.com/users/volumetric/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/volumetric/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/volumetric/subscriptions",
+  "organizations_url": "https://api.github.com/users/volumetric/orgs",
+  "repos_url": "https://api.github.com/users/volumetric/repos",
+  "events_url": "https://api.github.com/users/volumetric/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/volumetric/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

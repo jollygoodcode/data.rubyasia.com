@@ -1,0 +1,20 @@
+{
+  "login": "hekki",
+  "id": 3206268,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3206268?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hekki",
+  "html_url": "https://github.com/hekki",
+  "followers_url": "https://api.github.com/users/hekki/followers",
+  "following_url": "https://api.github.com/users/hekki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hekki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hekki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hekki/subscriptions",
+  "organizations_url": "https://api.github.com/users/hekki/orgs",
+  "repos_url": "https://api.github.com/users/hekki/repos",
+  "events_url": "https://api.github.com/users/hekki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hekki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

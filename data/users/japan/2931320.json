@@ -1,0 +1,20 @@
+{
+  "login": "kurapichi",
+  "id": 2931320,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2931320?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kurapichi",
+  "html_url": "https://github.com/kurapichi",
+  "followers_url": "https://api.github.com/users/kurapichi/followers",
+  "following_url": "https://api.github.com/users/kurapichi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kurapichi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kurapichi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kurapichi/subscriptions",
+  "organizations_url": "https://api.github.com/users/kurapichi/orgs",
+  "repos_url": "https://api.github.com/users/kurapichi/repos",
+  "events_url": "https://api.github.com/users/kurapichi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kurapichi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

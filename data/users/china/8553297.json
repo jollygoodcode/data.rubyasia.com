@@ -1,0 +1,20 @@
+{
+  "login": "oshare",
+  "id": 8553297,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8553297?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oshare",
+  "html_url": "https://github.com/oshare",
+  "followers_url": "https://api.github.com/users/oshare/followers",
+  "following_url": "https://api.github.com/users/oshare/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oshare/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oshare/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oshare/subscriptions",
+  "organizations_url": "https://api.github.com/users/oshare/orgs",
+  "repos_url": "https://api.github.com/users/oshare/repos",
+  "events_url": "https://api.github.com/users/oshare/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oshare/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

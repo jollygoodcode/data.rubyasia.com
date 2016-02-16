@@ -1,0 +1,20 @@
+{
+  "login": "5long",
+  "id": 159226,
+  "avatar_url": "https://avatars.githubusercontent.com/u/159226?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/5long",
+  "html_url": "https://github.com/5long",
+  "followers_url": "https://api.github.com/users/5long/followers",
+  "following_url": "https://api.github.com/users/5long/following{/other_user}",
+  "gists_url": "https://api.github.com/users/5long/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/5long/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/5long/subscriptions",
+  "organizations_url": "https://api.github.com/users/5long/orgs",
+  "repos_url": "https://api.github.com/users/5long/repos",
+  "events_url": "https://api.github.com/users/5long/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/5long/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

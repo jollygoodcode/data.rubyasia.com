@@ -1,0 +1,20 @@
+{
+  "login": "wormful",
+  "id": 3396163,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3396163?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wormful",
+  "html_url": "https://github.com/wormful",
+  "followers_url": "https://api.github.com/users/wormful/followers",
+  "following_url": "https://api.github.com/users/wormful/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wormful/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wormful/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wormful/subscriptions",
+  "organizations_url": "https://api.github.com/users/wormful/orgs",
+  "repos_url": "https://api.github.com/users/wormful/repos",
+  "events_url": "https://api.github.com/users/wormful/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wormful/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

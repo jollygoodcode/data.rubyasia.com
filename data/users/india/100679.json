@@ -1,0 +1,20 @@
+{
+  "login": "devdatta",
+  "id": 100679,
+  "avatar_url": "https://avatars.githubusercontent.com/u/100679?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devdatta",
+  "html_url": "https://github.com/devdatta",
+  "followers_url": "https://api.github.com/users/devdatta/followers",
+  "following_url": "https://api.github.com/users/devdatta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devdatta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devdatta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devdatta/subscriptions",
+  "organizations_url": "https://api.github.com/users/devdatta/orgs",
+  "repos_url": "https://api.github.com/users/devdatta/repos",
+  "events_url": "https://api.github.com/users/devdatta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devdatta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

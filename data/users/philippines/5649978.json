@@ -1,0 +1,20 @@
+{
+  "login": "muber",
+  "id": 5649978,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5649978?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/muber",
+  "html_url": "https://github.com/muber",
+  "followers_url": "https://api.github.com/users/muber/followers",
+  "following_url": "https://api.github.com/users/muber/following{/other_user}",
+  "gists_url": "https://api.github.com/users/muber/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/muber/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/muber/subscriptions",
+  "organizations_url": "https://api.github.com/users/muber/orgs",
+  "repos_url": "https://api.github.com/users/muber/repos",
+  "events_url": "https://api.github.com/users/muber/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/muber/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

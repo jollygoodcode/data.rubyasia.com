@@ -1,0 +1,20 @@
+{
+  "login": "huchenme",
+  "id": 2078389,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2078389?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huchenme",
+  "html_url": "https://github.com/huchenme",
+  "followers_url": "https://api.github.com/users/huchenme/followers",
+  "following_url": "https://api.github.com/users/huchenme/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huchenme/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huchenme/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huchenme/subscriptions",
+  "organizations_url": "https://api.github.com/users/huchenme/orgs",
+  "repos_url": "https://api.github.com/users/huchenme/repos",
+  "events_url": "https://api.github.com/users/huchenme/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huchenme/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

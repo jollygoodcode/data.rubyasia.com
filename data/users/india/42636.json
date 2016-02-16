@@ -1,0 +1,20 @@
+{
+  "login": "waseem",
+  "id": 42636,
+  "avatar_url": "https://avatars.githubusercontent.com/u/42636?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/waseem",
+  "html_url": "https://github.com/waseem",
+  "followers_url": "https://api.github.com/users/waseem/followers",
+  "following_url": "https://api.github.com/users/waseem/following{/other_user}",
+  "gists_url": "https://api.github.com/users/waseem/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/waseem/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/waseem/subscriptions",
+  "organizations_url": "https://api.github.com/users/waseem/orgs",
+  "repos_url": "https://api.github.com/users/waseem/repos",
+  "events_url": "https://api.github.com/users/waseem/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/waseem/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

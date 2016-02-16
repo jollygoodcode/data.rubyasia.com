@@ -1,0 +1,20 @@
+{
+  "login": "oura",
+  "id": 642551,
+  "avatar_url": "https://avatars.githubusercontent.com/u/642551?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oura",
+  "html_url": "https://github.com/oura",
+  "followers_url": "https://api.github.com/users/oura/followers",
+  "following_url": "https://api.github.com/users/oura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oura/subscriptions",
+  "organizations_url": "https://api.github.com/users/oura/orgs",
+  "repos_url": "https://api.github.com/users/oura/repos",
+  "events_url": "https://api.github.com/users/oura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

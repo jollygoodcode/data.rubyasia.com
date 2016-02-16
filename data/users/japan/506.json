@@ -1,0 +1,20 @@
+{
+  "login": "nmerouze",
+  "id": 506,
+  "avatar_url": "https://avatars.githubusercontent.com/u/506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nmerouze",
+  "html_url": "https://github.com/nmerouze",
+  "followers_url": "https://api.github.com/users/nmerouze/followers",
+  "following_url": "https://api.github.com/users/nmerouze/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nmerouze/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nmerouze/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nmerouze/subscriptions",
+  "organizations_url": "https://api.github.com/users/nmerouze/orgs",
+  "repos_url": "https://api.github.com/users/nmerouze/repos",
+  "events_url": "https://api.github.com/users/nmerouze/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nmerouze/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

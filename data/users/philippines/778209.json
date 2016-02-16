@@ -1,0 +1,20 @@
+{
+  "login": "carloscasal",
+  "id": 778209,
+  "avatar_url": "https://avatars.githubusercontent.com/u/778209?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/carloscasal",
+  "html_url": "https://github.com/carloscasal",
+  "followers_url": "https://api.github.com/users/carloscasal/followers",
+  "following_url": "https://api.github.com/users/carloscasal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/carloscasal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/carloscasal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/carloscasal/subscriptions",
+  "organizations_url": "https://api.github.com/users/carloscasal/orgs",
+  "repos_url": "https://api.github.com/users/carloscasal/repos",
+  "events_url": "https://api.github.com/users/carloscasal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/carloscasal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

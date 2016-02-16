@@ -1,0 +1,20 @@
+{
+  "login": "LoicSka",
+  "id": 9484994,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9484994?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LoicSka",
+  "html_url": "https://github.com/LoicSka",
+  "followers_url": "https://api.github.com/users/LoicSka/followers",
+  "following_url": "https://api.github.com/users/LoicSka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LoicSka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LoicSka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LoicSka/subscriptions",
+  "organizations_url": "https://api.github.com/users/LoicSka/orgs",
+  "repos_url": "https://api.github.com/users/LoicSka/repos",
+  "events_url": "https://api.github.com/users/LoicSka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LoicSka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

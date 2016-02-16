@@ -1,0 +1,20 @@
+{
+  "login": "marqlabs",
+  "id": 2870160,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2870160?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marqlabs",
+  "html_url": "https://github.com/marqlabs",
+  "followers_url": "https://api.github.com/users/marqlabs/followers",
+  "following_url": "https://api.github.com/users/marqlabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marqlabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marqlabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marqlabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/marqlabs/orgs",
+  "repos_url": "https://api.github.com/users/marqlabs/repos",
+  "events_url": "https://api.github.com/users/marqlabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marqlabs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

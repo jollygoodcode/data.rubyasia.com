@@ -1,0 +1,20 @@
+{
+  "login": "amrishpatel",
+  "id": 1720107,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1720107?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amrishpatel",
+  "html_url": "https://github.com/amrishpatel",
+  "followers_url": "https://api.github.com/users/amrishpatel/followers",
+  "following_url": "https://api.github.com/users/amrishpatel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amrishpatel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amrishpatel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amrishpatel/subscriptions",
+  "organizations_url": "https://api.github.com/users/amrishpatel/orgs",
+  "repos_url": "https://api.github.com/users/amrishpatel/repos",
+  "events_url": "https://api.github.com/users/amrishpatel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amrishpatel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

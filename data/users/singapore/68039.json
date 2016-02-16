@@ -1,0 +1,20 @@
+{
+  "login": "davidchua",
+  "id": 68039,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68039?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/davidchua",
+  "html_url": "https://github.com/davidchua",
+  "followers_url": "https://api.github.com/users/davidchua/followers",
+  "following_url": "https://api.github.com/users/davidchua/following{/other_user}",
+  "gists_url": "https://api.github.com/users/davidchua/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/davidchua/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/davidchua/subscriptions",
+  "organizations_url": "https://api.github.com/users/davidchua/orgs",
+  "repos_url": "https://api.github.com/users/davidchua/repos",
+  "events_url": "https://api.github.com/users/davidchua/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/davidchua/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

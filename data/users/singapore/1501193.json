@@ -1,0 +1,20 @@
+{
+  "login": "kevonc",
+  "id": 1501193,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1501193?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kevonc",
+  "html_url": "https://github.com/kevonc",
+  "followers_url": "https://api.github.com/users/kevonc/followers",
+  "following_url": "https://api.github.com/users/kevonc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kevonc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kevonc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kevonc/subscriptions",
+  "organizations_url": "https://api.github.com/users/kevonc/orgs",
+  "repos_url": "https://api.github.com/users/kevonc/repos",
+  "events_url": "https://api.github.com/users/kevonc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kevonc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

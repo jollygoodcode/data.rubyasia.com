@@ -1,0 +1,20 @@
+{
+  "login": "ezotrank",
+  "id": 110746,
+  "avatar_url": "https://avatars.githubusercontent.com/u/110746?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ezotrank",
+  "html_url": "https://github.com/ezotrank",
+  "followers_url": "https://api.github.com/users/ezotrank/followers",
+  "following_url": "https://api.github.com/users/ezotrank/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ezotrank/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ezotrank/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ezotrank/subscriptions",
+  "organizations_url": "https://api.github.com/users/ezotrank/orgs",
+  "repos_url": "https://api.github.com/users/ezotrank/repos",
+  "events_url": "https://api.github.com/users/ezotrank/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ezotrank/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

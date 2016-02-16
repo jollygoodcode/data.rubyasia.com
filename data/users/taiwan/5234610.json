@@ -1,0 +1,20 @@
+{
+  "login": "bpmabpma",
+  "id": 5234610,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5234610?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bpmabpma",
+  "html_url": "https://github.com/bpmabpma",
+  "followers_url": "https://api.github.com/users/bpmabpma/followers",
+  "following_url": "https://api.github.com/users/bpmabpma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bpmabpma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bpmabpma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bpmabpma/subscriptions",
+  "organizations_url": "https://api.github.com/users/bpmabpma/orgs",
+  "repos_url": "https://api.github.com/users/bpmabpma/repos",
+  "events_url": "https://api.github.com/users/bpmabpma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bpmabpma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

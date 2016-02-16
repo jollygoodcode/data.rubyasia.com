@@ -1,0 +1,20 @@
+{
+  "login": "williamhaw",
+  "id": 160841,
+  "avatar_url": "https://avatars.githubusercontent.com/u/160841?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/williamhaw",
+  "html_url": "https://github.com/williamhaw",
+  "followers_url": "https://api.github.com/users/williamhaw/followers",
+  "following_url": "https://api.github.com/users/williamhaw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/williamhaw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/williamhaw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/williamhaw/subscriptions",
+  "organizations_url": "https://api.github.com/users/williamhaw/orgs",
+  "repos_url": "https://api.github.com/users/williamhaw/repos",
+  "events_url": "https://api.github.com/users/williamhaw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/williamhaw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

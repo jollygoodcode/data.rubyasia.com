@@ -1,0 +1,20 @@
+{
+  "login": "tullyliu",
+  "id": 659270,
+  "avatar_url": "https://avatars.githubusercontent.com/u/659270?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tullyliu",
+  "html_url": "https://github.com/tullyliu",
+  "followers_url": "https://api.github.com/users/tullyliu/followers",
+  "following_url": "https://api.github.com/users/tullyliu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tullyliu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tullyliu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tullyliu/subscriptions",
+  "organizations_url": "https://api.github.com/users/tullyliu/orgs",
+  "repos_url": "https://api.github.com/users/tullyliu/repos",
+  "events_url": "https://api.github.com/users/tullyliu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tullyliu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

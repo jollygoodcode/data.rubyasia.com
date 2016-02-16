@@ -1,0 +1,20 @@
+{
+  "login": "sqsy",
+  "id": 6390284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6390284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sqsy",
+  "html_url": "https://github.com/sqsy",
+  "followers_url": "https://api.github.com/users/sqsy/followers",
+  "following_url": "https://api.github.com/users/sqsy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sqsy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sqsy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sqsy/subscriptions",
+  "organizations_url": "https://api.github.com/users/sqsy/orgs",
+  "repos_url": "https://api.github.com/users/sqsy/repos",
+  "events_url": "https://api.github.com/users/sqsy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sqsy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

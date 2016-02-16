@@ -1,0 +1,20 @@
+{
+  "login": "surialabs",
+  "id": 10769241,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10769241?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/surialabs",
+  "html_url": "https://github.com/surialabs",
+  "followers_url": "https://api.github.com/users/surialabs/followers",
+  "following_url": "https://api.github.com/users/surialabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/surialabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/surialabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/surialabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/surialabs/orgs",
+  "repos_url": "https://api.github.com/users/surialabs/repos",
+  "events_url": "https://api.github.com/users/surialabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/surialabs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

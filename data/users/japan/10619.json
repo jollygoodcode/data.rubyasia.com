@@ -1,0 +1,20 @@
+{
+  "login": "nakao",
+  "id": 10619,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10619?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nakao",
+  "html_url": "https://github.com/nakao",
+  "followers_url": "https://api.github.com/users/nakao/followers",
+  "following_url": "https://api.github.com/users/nakao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nakao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nakao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nakao/subscriptions",
+  "organizations_url": "https://api.github.com/users/nakao/orgs",
+  "repos_url": "https://api.github.com/users/nakao/repos",
+  "events_url": "https://api.github.com/users/nakao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nakao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

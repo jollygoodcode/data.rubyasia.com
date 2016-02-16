@@ -1,0 +1,20 @@
+{
+  "login": "intinno",
+  "id": 64237,
+  "avatar_url": "https://avatars.githubusercontent.com/u/64237?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/intinno",
+  "html_url": "https://github.com/intinno",
+  "followers_url": "https://api.github.com/users/intinno/followers",
+  "following_url": "https://api.github.com/users/intinno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/intinno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/intinno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/intinno/subscriptions",
+  "organizations_url": "https://api.github.com/users/intinno/orgs",
+  "repos_url": "https://api.github.com/users/intinno/repos",
+  "events_url": "https://api.github.com/users/intinno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/intinno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rayiion",
+  "id": 654777,
+  "avatar_url": "https://avatars.githubusercontent.com/u/654777?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rayiion",
+  "html_url": "https://github.com/rayiion",
+  "followers_url": "https://api.github.com/users/rayiion/followers",
+  "following_url": "https://api.github.com/users/rayiion/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rayiion/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rayiion/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rayiion/subscriptions",
+  "organizations_url": "https://api.github.com/users/rayiion/orgs",
+  "repos_url": "https://api.github.com/users/rayiion/repos",
+  "events_url": "https://api.github.com/users/rayiion/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rayiion/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

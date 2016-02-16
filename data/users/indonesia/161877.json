@@ -1,0 +1,20 @@
+{
+  "login": "rboortman",
+  "id": 161877,
+  "avatar_url": "https://avatars.githubusercontent.com/u/161877?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rboortman",
+  "html_url": "https://github.com/rboortman",
+  "followers_url": "https://api.github.com/users/rboortman/followers",
+  "following_url": "https://api.github.com/users/rboortman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rboortman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rboortman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rboortman/subscriptions",
+  "organizations_url": "https://api.github.com/users/rboortman/orgs",
+  "repos_url": "https://api.github.com/users/rboortman/repos",
+  "events_url": "https://api.github.com/users/rboortman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rboortman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

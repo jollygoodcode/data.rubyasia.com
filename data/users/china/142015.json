@@ -1,0 +1,20 @@
+{
+  "login": "ywencn",
+  "id": 142015,
+  "avatar_url": "https://avatars.githubusercontent.com/u/142015?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ywencn",
+  "html_url": "https://github.com/ywencn",
+  "followers_url": "https://api.github.com/users/ywencn/followers",
+  "following_url": "https://api.github.com/users/ywencn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ywencn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ywencn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ywencn/subscriptions",
+  "organizations_url": "https://api.github.com/users/ywencn/orgs",
+  "repos_url": "https://api.github.com/users/ywencn/repos",
+  "events_url": "https://api.github.com/users/ywencn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ywencn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

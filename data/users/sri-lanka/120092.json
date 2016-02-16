@@ -1,0 +1,20 @@
+{
+  "login": "randika",
+  "id": 120092,
+  "avatar_url": "https://avatars.githubusercontent.com/u/120092?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/randika",
+  "html_url": "https://github.com/randika",
+  "followers_url": "https://api.github.com/users/randika/followers",
+  "following_url": "https://api.github.com/users/randika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/randika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/randika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/randika/subscriptions",
+  "organizations_url": "https://api.github.com/users/randika/orgs",
+  "repos_url": "https://api.github.com/users/randika/repos",
+  "events_url": "https://api.github.com/users/randika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/randika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

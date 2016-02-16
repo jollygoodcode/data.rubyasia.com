@@ -1,0 +1,20 @@
+{
+  "login": "bwaic",
+  "id": 4245817,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4245817?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bwaic",
+  "html_url": "https://github.com/bwaic",
+  "followers_url": "https://api.github.com/users/bwaic/followers",
+  "following_url": "https://api.github.com/users/bwaic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bwaic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bwaic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bwaic/subscriptions",
+  "organizations_url": "https://api.github.com/users/bwaic/orgs",
+  "repos_url": "https://api.github.com/users/bwaic/repos",
+  "events_url": "https://api.github.com/users/bwaic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bwaic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

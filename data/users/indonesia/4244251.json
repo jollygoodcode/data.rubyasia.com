@@ -1,0 +1,20 @@
+{
+  "login": "alexfedoseev",
+  "id": 4244251,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4244251?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexfedoseev",
+  "html_url": "https://github.com/alexfedoseev",
+  "followers_url": "https://api.github.com/users/alexfedoseev/followers",
+  "following_url": "https://api.github.com/users/alexfedoseev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexfedoseev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexfedoseev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexfedoseev/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexfedoseev/orgs",
+  "repos_url": "https://api.github.com/users/alexfedoseev/repos",
+  "events_url": "https://api.github.com/users/alexfedoseev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexfedoseev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

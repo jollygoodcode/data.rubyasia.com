@@ -1,0 +1,20 @@
+{
+  "login": "nott80",
+  "id": 9810617,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9810617?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nott80",
+  "html_url": "https://github.com/nott80",
+  "followers_url": "https://api.github.com/users/nott80/followers",
+  "following_url": "https://api.github.com/users/nott80/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nott80/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nott80/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nott80/subscriptions",
+  "organizations_url": "https://api.github.com/users/nott80/orgs",
+  "repos_url": "https://api.github.com/users/nott80/repos",
+  "events_url": "https://api.github.com/users/nott80/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nott80/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

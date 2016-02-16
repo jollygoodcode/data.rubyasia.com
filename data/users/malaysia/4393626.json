@@ -1,0 +1,20 @@
+{
+  "login": "nixsiow",
+  "id": 4393626,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4393626?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nixsiow",
+  "html_url": "https://github.com/nixsiow",
+  "followers_url": "https://api.github.com/users/nixsiow/followers",
+  "following_url": "https://api.github.com/users/nixsiow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nixsiow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nixsiow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nixsiow/subscriptions",
+  "organizations_url": "https://api.github.com/users/nixsiow/orgs",
+  "repos_url": "https://api.github.com/users/nixsiow/repos",
+  "events_url": "https://api.github.com/users/nixsiow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nixsiow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

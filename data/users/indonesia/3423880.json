@@ -1,0 +1,20 @@
+{
+  "login": "DstarStudio",
+  "id": 3423880,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3423880?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DstarStudio",
+  "html_url": "https://github.com/DstarStudio",
+  "followers_url": "https://api.github.com/users/DstarStudio/followers",
+  "following_url": "https://api.github.com/users/DstarStudio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DstarStudio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DstarStudio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DstarStudio/subscriptions",
+  "organizations_url": "https://api.github.com/users/DstarStudio/orgs",
+  "repos_url": "https://api.github.com/users/DstarStudio/repos",
+  "events_url": "https://api.github.com/users/DstarStudio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DstarStudio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "crowdworks",
+  "id": 7873206,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7873206?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/crowdworks",
+  "html_url": "https://github.com/crowdworks",
+  "followers_url": "https://api.github.com/users/crowdworks/followers",
+  "following_url": "https://api.github.com/users/crowdworks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/crowdworks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/crowdworks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/crowdworks/subscriptions",
+  "organizations_url": "https://api.github.com/users/crowdworks/orgs",
+  "repos_url": "https://api.github.com/users/crowdworks/repos",
+  "events_url": "https://api.github.com/users/crowdworks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/crowdworks/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sugatmankar",
+  "id": 4283293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4283293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sugatmankar",
+  "html_url": "https://github.com/sugatmankar",
+  "followers_url": "https://api.github.com/users/sugatmankar/followers",
+  "following_url": "https://api.github.com/users/sugatmankar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sugatmankar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sugatmankar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sugatmankar/subscriptions",
+  "organizations_url": "https://api.github.com/users/sugatmankar/orgs",
+  "repos_url": "https://api.github.com/users/sugatmankar/repos",
+  "events_url": "https://api.github.com/users/sugatmankar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sugatmankar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

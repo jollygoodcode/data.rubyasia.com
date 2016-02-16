@@ -1,0 +1,20 @@
+{
+  "login": "egison",
+  "id": 6812884,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6812884?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/egison",
+  "html_url": "https://github.com/egison",
+  "followers_url": "https://api.github.com/users/egison/followers",
+  "following_url": "https://api.github.com/users/egison/following{/other_user}",
+  "gists_url": "https://api.github.com/users/egison/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/egison/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/egison/subscriptions",
+  "organizations_url": "https://api.github.com/users/egison/orgs",
+  "repos_url": "https://api.github.com/users/egison/repos",
+  "events_url": "https://api.github.com/users/egison/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/egison/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

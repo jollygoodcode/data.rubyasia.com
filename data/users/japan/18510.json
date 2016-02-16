@@ -1,0 +1,20 @@
+{
+  "login": "wtnabe",
+  "id": 18510,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18510?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wtnabe",
+  "html_url": "https://github.com/wtnabe",
+  "followers_url": "https://api.github.com/users/wtnabe/followers",
+  "following_url": "https://api.github.com/users/wtnabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wtnabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wtnabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wtnabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/wtnabe/orgs",
+  "repos_url": "https://api.github.com/users/wtnabe/repos",
+  "events_url": "https://api.github.com/users/wtnabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wtnabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

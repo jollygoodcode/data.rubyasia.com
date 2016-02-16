@@ -1,0 +1,20 @@
+{
+  "login": "hsming",
+  "id": 2311867,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2311867?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hsming",
+  "html_url": "https://github.com/hsming",
+  "followers_url": "https://api.github.com/users/hsming/followers",
+  "following_url": "https://api.github.com/users/hsming/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hsming/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hsming/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hsming/subscriptions",
+  "organizations_url": "https://api.github.com/users/hsming/orgs",
+  "repos_url": "https://api.github.com/users/hsming/repos",
+  "events_url": "https://api.github.com/users/hsming/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hsming/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

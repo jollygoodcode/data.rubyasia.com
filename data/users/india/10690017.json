@@ -1,0 +1,20 @@
+{
+  "login": "codesagar",
+  "id": 10690017,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10690017?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codesagar",
+  "html_url": "https://github.com/codesagar",
+  "followers_url": "https://api.github.com/users/codesagar/followers",
+  "following_url": "https://api.github.com/users/codesagar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codesagar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codesagar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codesagar/subscriptions",
+  "organizations_url": "https://api.github.com/users/codesagar/orgs",
+  "repos_url": "https://api.github.com/users/codesagar/repos",
+  "events_url": "https://api.github.com/users/codesagar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codesagar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

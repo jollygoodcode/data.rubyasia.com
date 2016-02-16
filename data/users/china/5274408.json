@@ -1,0 +1,20 @@
+{
+  "login": "terrytong",
+  "id": 5274408,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5274408?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/terrytong",
+  "html_url": "https://github.com/terrytong",
+  "followers_url": "https://api.github.com/users/terrytong/followers",
+  "following_url": "https://api.github.com/users/terrytong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/terrytong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/terrytong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/terrytong/subscriptions",
+  "organizations_url": "https://api.github.com/users/terrytong/orgs",
+  "repos_url": "https://api.github.com/users/terrytong/repos",
+  "events_url": "https://api.github.com/users/terrytong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/terrytong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

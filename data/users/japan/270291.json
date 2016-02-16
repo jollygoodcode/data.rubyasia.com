@@ -1,0 +1,20 @@
+{
+  "login": "tjun",
+  "id": 270291,
+  "avatar_url": "https://avatars.githubusercontent.com/u/270291?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tjun",
+  "html_url": "https://github.com/tjun",
+  "followers_url": "https://api.github.com/users/tjun/followers",
+  "following_url": "https://api.github.com/users/tjun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tjun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tjun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tjun/subscriptions",
+  "organizations_url": "https://api.github.com/users/tjun/orgs",
+  "repos_url": "https://api.github.com/users/tjun/repos",
+  "events_url": "https://api.github.com/users/tjun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tjun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

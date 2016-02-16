@@ -1,0 +1,20 @@
+{
+  "login": "joruri",
+  "id": 794872,
+  "avatar_url": "https://avatars.githubusercontent.com/u/794872?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joruri",
+  "html_url": "https://github.com/joruri",
+  "followers_url": "https://api.github.com/users/joruri/followers",
+  "following_url": "https://api.github.com/users/joruri/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joruri/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joruri/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joruri/subscriptions",
+  "organizations_url": "https://api.github.com/users/joruri/orgs",
+  "repos_url": "https://api.github.com/users/joruri/repos",
+  "events_url": "https://api.github.com/users/joruri/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joruri/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

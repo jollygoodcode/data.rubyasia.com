@@ -1,0 +1,20 @@
+{
+  "login": "destinyd",
+  "id": 68806,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68806?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/destinyd",
+  "html_url": "https://github.com/destinyd",
+  "followers_url": "https://api.github.com/users/destinyd/followers",
+  "following_url": "https://api.github.com/users/destinyd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/destinyd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/destinyd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/destinyd/subscriptions",
+  "organizations_url": "https://api.github.com/users/destinyd/orgs",
+  "repos_url": "https://api.github.com/users/destinyd/repos",
+  "events_url": "https://api.github.com/users/destinyd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/destinyd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

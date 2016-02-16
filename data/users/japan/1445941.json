@@ -1,0 +1,20 @@
+{
+  "login": "millyui",
+  "id": 1445941,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1445941?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/millyui",
+  "html_url": "https://github.com/millyui",
+  "followers_url": "https://api.github.com/users/millyui/followers",
+  "following_url": "https://api.github.com/users/millyui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/millyui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/millyui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/millyui/subscriptions",
+  "organizations_url": "https://api.github.com/users/millyui/orgs",
+  "repos_url": "https://api.github.com/users/millyui/repos",
+  "events_url": "https://api.github.com/users/millyui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/millyui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

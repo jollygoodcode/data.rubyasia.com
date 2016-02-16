@@ -1,0 +1,20 @@
+{
+  "login": "NFulkerson",
+  "id": 4764329,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4764329?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NFulkerson",
+  "html_url": "https://github.com/NFulkerson",
+  "followers_url": "https://api.github.com/users/NFulkerson/followers",
+  "following_url": "https://api.github.com/users/NFulkerson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NFulkerson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NFulkerson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NFulkerson/subscriptions",
+  "organizations_url": "https://api.github.com/users/NFulkerson/orgs",
+  "repos_url": "https://api.github.com/users/NFulkerson/repos",
+  "events_url": "https://api.github.com/users/NFulkerson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NFulkerson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

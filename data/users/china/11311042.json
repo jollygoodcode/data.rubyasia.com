@@ -1,0 +1,20 @@
+{
+  "login": "jmaxhu",
+  "id": 11311042,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11311042?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jmaxhu",
+  "html_url": "https://github.com/jmaxhu",
+  "followers_url": "https://api.github.com/users/jmaxhu/followers",
+  "following_url": "https://api.github.com/users/jmaxhu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jmaxhu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jmaxhu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jmaxhu/subscriptions",
+  "organizations_url": "https://api.github.com/users/jmaxhu/orgs",
+  "repos_url": "https://api.github.com/users/jmaxhu/repos",
+  "events_url": "https://api.github.com/users/jmaxhu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jmaxhu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

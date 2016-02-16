@@ -1,0 +1,20 @@
+{
+  "login": "haibinpark",
+  "id": 2077143,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2077143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haibinpark",
+  "html_url": "https://github.com/haibinpark",
+  "followers_url": "https://api.github.com/users/haibinpark/followers",
+  "following_url": "https://api.github.com/users/haibinpark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haibinpark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haibinpark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haibinpark/subscriptions",
+  "organizations_url": "https://api.github.com/users/haibinpark/orgs",
+  "repos_url": "https://api.github.com/users/haibinpark/repos",
+  "events_url": "https://api.github.com/users/haibinpark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haibinpark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

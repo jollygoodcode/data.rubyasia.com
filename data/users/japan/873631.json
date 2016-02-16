@@ -1,0 +1,20 @@
+{
+  "login": "matsuosh",
+  "id": 873631,
+  "avatar_url": "https://avatars.githubusercontent.com/u/873631?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matsuosh",
+  "html_url": "https://github.com/matsuosh",
+  "followers_url": "https://api.github.com/users/matsuosh/followers",
+  "following_url": "https://api.github.com/users/matsuosh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matsuosh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matsuosh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matsuosh/subscriptions",
+  "organizations_url": "https://api.github.com/users/matsuosh/orgs",
+  "repos_url": "https://api.github.com/users/matsuosh/repos",
+  "events_url": "https://api.github.com/users/matsuosh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matsuosh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

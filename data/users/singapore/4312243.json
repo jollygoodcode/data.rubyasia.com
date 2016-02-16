@@ -1,0 +1,20 @@
+{
+  "login": "nikhilsh",
+  "id": 4312243,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4312243?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nikhilsh",
+  "html_url": "https://github.com/nikhilsh",
+  "followers_url": "https://api.github.com/users/nikhilsh/followers",
+  "following_url": "https://api.github.com/users/nikhilsh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nikhilsh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nikhilsh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nikhilsh/subscriptions",
+  "organizations_url": "https://api.github.com/users/nikhilsh/orgs",
+  "repos_url": "https://api.github.com/users/nikhilsh/repos",
+  "events_url": "https://api.github.com/users/nikhilsh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nikhilsh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jobaqs",
+  "id": 2370540,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2370540?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jobaqs",
+  "html_url": "https://github.com/jobaqs",
+  "followers_url": "https://api.github.com/users/jobaqs/followers",
+  "following_url": "https://api.github.com/users/jobaqs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jobaqs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jobaqs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jobaqs/subscriptions",
+  "organizations_url": "https://api.github.com/users/jobaqs/orgs",
+  "repos_url": "https://api.github.com/users/jobaqs/repos",
+  "events_url": "https://api.github.com/users/jobaqs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jobaqs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

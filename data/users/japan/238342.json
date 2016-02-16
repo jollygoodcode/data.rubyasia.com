@@ -1,0 +1,20 @@
+{
+  "login": "robodisco",
+  "id": 238342,
+  "avatar_url": "https://avatars.githubusercontent.com/u/238342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robodisco",
+  "html_url": "https://github.com/robodisco",
+  "followers_url": "https://api.github.com/users/robodisco/followers",
+  "following_url": "https://api.github.com/users/robodisco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robodisco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robodisco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robodisco/subscriptions",
+  "organizations_url": "https://api.github.com/users/robodisco/orgs",
+  "repos_url": "https://api.github.com/users/robodisco/repos",
+  "events_url": "https://api.github.com/users/robodisco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robodisco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

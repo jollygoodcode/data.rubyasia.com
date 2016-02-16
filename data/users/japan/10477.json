@@ -1,0 +1,20 @@
+{
+  "login": "macdigger",
+  "id": 10477,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10477?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macdigger",
+  "html_url": "https://github.com/macdigger",
+  "followers_url": "https://api.github.com/users/macdigger/followers",
+  "following_url": "https://api.github.com/users/macdigger/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macdigger/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macdigger/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macdigger/subscriptions",
+  "organizations_url": "https://api.github.com/users/macdigger/orgs",
+  "repos_url": "https://api.github.com/users/macdigger/repos",
+  "events_url": "https://api.github.com/users/macdigger/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macdigger/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

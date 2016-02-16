@@ -1,0 +1,20 @@
+{
+  "login": "innerlee",
+  "id": 9464825,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9464825?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/innerlee",
+  "html_url": "https://github.com/innerlee",
+  "followers_url": "https://api.github.com/users/innerlee/followers",
+  "following_url": "https://api.github.com/users/innerlee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/innerlee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/innerlee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/innerlee/subscriptions",
+  "organizations_url": "https://api.github.com/users/innerlee/orgs",
+  "repos_url": "https://api.github.com/users/innerlee/repos",
+  "events_url": "https://api.github.com/users/innerlee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/innerlee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

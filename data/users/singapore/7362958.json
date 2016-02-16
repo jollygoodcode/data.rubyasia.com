@@ -1,0 +1,20 @@
+{
+  "login": "kennyfrc",
+  "id": 7362958,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7362958?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kennyfrc",
+  "html_url": "https://github.com/kennyfrc",
+  "followers_url": "https://api.github.com/users/kennyfrc/followers",
+  "following_url": "https://api.github.com/users/kennyfrc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kennyfrc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kennyfrc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kennyfrc/subscriptions",
+  "organizations_url": "https://api.github.com/users/kennyfrc/orgs",
+  "repos_url": "https://api.github.com/users/kennyfrc/repos",
+  "events_url": "https://api.github.com/users/kennyfrc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kennyfrc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

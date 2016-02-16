@@ -1,0 +1,20 @@
+{
+  "login": "misshie",
+  "id": 51609,
+  "avatar_url": "https://avatars.githubusercontent.com/u/51609?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/misshie",
+  "html_url": "https://github.com/misshie",
+  "followers_url": "https://api.github.com/users/misshie/followers",
+  "following_url": "https://api.github.com/users/misshie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/misshie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/misshie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/misshie/subscriptions",
+  "organizations_url": "https://api.github.com/users/misshie/orgs",
+  "repos_url": "https://api.github.com/users/misshie/repos",
+  "events_url": "https://api.github.com/users/misshie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/misshie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

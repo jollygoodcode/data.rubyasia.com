@@ -1,0 +1,20 @@
+{
+  "login": "finalstream",
+  "id": 3516444,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3516444?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/finalstream",
+  "html_url": "https://github.com/finalstream",
+  "followers_url": "https://api.github.com/users/finalstream/followers",
+  "following_url": "https://api.github.com/users/finalstream/following{/other_user}",
+  "gists_url": "https://api.github.com/users/finalstream/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/finalstream/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/finalstream/subscriptions",
+  "organizations_url": "https://api.github.com/users/finalstream/orgs",
+  "repos_url": "https://api.github.com/users/finalstream/repos",
+  "events_url": "https://api.github.com/users/finalstream/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/finalstream/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "spritle",
+  "id": 63301,
+  "avatar_url": "https://avatars.githubusercontent.com/u/63301?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spritle",
+  "html_url": "https://github.com/spritle",
+  "followers_url": "https://api.github.com/users/spritle/followers",
+  "following_url": "https://api.github.com/users/spritle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spritle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spritle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spritle/subscriptions",
+  "organizations_url": "https://api.github.com/users/spritle/orgs",
+  "repos_url": "https://api.github.com/users/spritle/repos",
+  "events_url": "https://api.github.com/users/spritle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spritle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

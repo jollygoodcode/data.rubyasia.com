@@ -1,0 +1,20 @@
+{
+  "login": "yehgdotnet",
+  "id": 387533,
+  "avatar_url": "https://avatars.githubusercontent.com/u/387533?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yehgdotnet",
+  "html_url": "https://github.com/yehgdotnet",
+  "followers_url": "https://api.github.com/users/yehgdotnet/followers",
+  "following_url": "https://api.github.com/users/yehgdotnet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yehgdotnet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yehgdotnet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yehgdotnet/subscriptions",
+  "organizations_url": "https://api.github.com/users/yehgdotnet/orgs",
+  "repos_url": "https://api.github.com/users/yehgdotnet/repos",
+  "events_url": "https://api.github.com/users/yehgdotnet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yehgdotnet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

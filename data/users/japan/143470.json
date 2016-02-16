@@ -1,0 +1,20 @@
+{
+  "login": "oupo",
+  "id": 143470,
+  "avatar_url": "https://avatars.githubusercontent.com/u/143470?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oupo",
+  "html_url": "https://github.com/oupo",
+  "followers_url": "https://api.github.com/users/oupo/followers",
+  "following_url": "https://api.github.com/users/oupo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oupo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oupo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oupo/subscriptions",
+  "organizations_url": "https://api.github.com/users/oupo/orgs",
+  "repos_url": "https://api.github.com/users/oupo/repos",
+  "events_url": "https://api.github.com/users/oupo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oupo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

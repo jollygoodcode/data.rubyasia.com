@@ -1,0 +1,20 @@
+{
+  "login": "Lickkylee",
+  "id": 5035654,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5035654?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Lickkylee",
+  "html_url": "https://github.com/Lickkylee",
+  "followers_url": "https://api.github.com/users/Lickkylee/followers",
+  "following_url": "https://api.github.com/users/Lickkylee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Lickkylee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Lickkylee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Lickkylee/subscriptions",
+  "organizations_url": "https://api.github.com/users/Lickkylee/orgs",
+  "repos_url": "https://api.github.com/users/Lickkylee/repos",
+  "events_url": "https://api.github.com/users/Lickkylee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Lickkylee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

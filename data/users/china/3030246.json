@@ -1,0 +1,20 @@
+{
+  "login": "heely",
+  "id": 3030246,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3030246?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/heely",
+  "html_url": "https://github.com/heely",
+  "followers_url": "https://api.github.com/users/heely/followers",
+  "following_url": "https://api.github.com/users/heely/following{/other_user}",
+  "gists_url": "https://api.github.com/users/heely/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/heely/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/heely/subscriptions",
+  "organizations_url": "https://api.github.com/users/heely/orgs",
+  "repos_url": "https://api.github.com/users/heely/repos",
+  "events_url": "https://api.github.com/users/heely/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/heely/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

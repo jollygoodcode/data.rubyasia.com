@@ -1,0 +1,20 @@
+{
+  "login": "docs-china",
+  "id": 6920141,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6920141?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/docs-china",
+  "html_url": "https://github.com/docs-china",
+  "followers_url": "https://api.github.com/users/docs-china/followers",
+  "following_url": "https://api.github.com/users/docs-china/following{/other_user}",
+  "gists_url": "https://api.github.com/users/docs-china/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/docs-china/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/docs-china/subscriptions",
+  "organizations_url": "https://api.github.com/users/docs-china/orgs",
+  "repos_url": "https://api.github.com/users/docs-china/repos",
+  "events_url": "https://api.github.com/users/docs-china/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/docs-china/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

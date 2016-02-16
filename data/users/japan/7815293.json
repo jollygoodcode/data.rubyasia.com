@@ -1,0 +1,20 @@
+{
+  "login": "hhtyo",
+  "id": 7815293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7815293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hhtyo",
+  "html_url": "https://github.com/hhtyo",
+  "followers_url": "https://api.github.com/users/hhtyo/followers",
+  "following_url": "https://api.github.com/users/hhtyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hhtyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hhtyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hhtyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/hhtyo/orgs",
+  "repos_url": "https://api.github.com/users/hhtyo/repos",
+  "events_url": "https://api.github.com/users/hhtyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hhtyo/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

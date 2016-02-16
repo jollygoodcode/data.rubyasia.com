@@ -1,0 +1,20 @@
+{
+  "login": "y0unghe",
+  "id": 1100727,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1100727?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/y0unghe",
+  "html_url": "https://github.com/y0unghe",
+  "followers_url": "https://api.github.com/users/y0unghe/followers",
+  "following_url": "https://api.github.com/users/y0unghe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/y0unghe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/y0unghe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/y0unghe/subscriptions",
+  "organizations_url": "https://api.github.com/users/y0unghe/orgs",
+  "repos_url": "https://api.github.com/users/y0unghe/repos",
+  "events_url": "https://api.github.com/users/y0unghe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/y0unghe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

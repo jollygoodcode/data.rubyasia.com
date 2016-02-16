@@ -1,0 +1,20 @@
+{
+  "login": "connectica",
+  "id": 12149515,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12149515?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/connectica",
+  "html_url": "https://github.com/connectica",
+  "followers_url": "https://api.github.com/users/connectica/followers",
+  "following_url": "https://api.github.com/users/connectica/following{/other_user}",
+  "gists_url": "https://api.github.com/users/connectica/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/connectica/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/connectica/subscriptions",
+  "organizations_url": "https://api.github.com/users/connectica/orgs",
+  "repos_url": "https://api.github.com/users/connectica/repos",
+  "events_url": "https://api.github.com/users/connectica/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/connectica/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

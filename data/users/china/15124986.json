@@ -1,0 +1,20 @@
+{
+  "login": "bugEnding",
+  "id": 15124986,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15124986?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bugEnding",
+  "html_url": "https://github.com/bugEnding",
+  "followers_url": "https://api.github.com/users/bugEnding/followers",
+  "following_url": "https://api.github.com/users/bugEnding/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bugEnding/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bugEnding/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bugEnding/subscriptions",
+  "organizations_url": "https://api.github.com/users/bugEnding/orgs",
+  "repos_url": "https://api.github.com/users/bugEnding/repos",
+  "events_url": "https://api.github.com/users/bugEnding/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bugEnding/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

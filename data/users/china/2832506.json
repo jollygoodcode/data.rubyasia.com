@@ -1,0 +1,20 @@
+{
+  "login": "ghostuz",
+  "id": 2832506,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2832506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ghostuz",
+  "html_url": "https://github.com/ghostuz",
+  "followers_url": "https://api.github.com/users/ghostuz/followers",
+  "following_url": "https://api.github.com/users/ghostuz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ghostuz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ghostuz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ghostuz/subscriptions",
+  "organizations_url": "https://api.github.com/users/ghostuz/orgs",
+  "repos_url": "https://api.github.com/users/ghostuz/repos",
+  "events_url": "https://api.github.com/users/ghostuz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ghostuz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kimisaraz",
+  "id": 4803023,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4803023?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimisaraz",
+  "html_url": "https://github.com/kimisaraz",
+  "followers_url": "https://api.github.com/users/kimisaraz/followers",
+  "following_url": "https://api.github.com/users/kimisaraz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimisaraz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimisaraz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimisaraz/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimisaraz/orgs",
+  "repos_url": "https://api.github.com/users/kimisaraz/repos",
+  "events_url": "https://api.github.com/users/kimisaraz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimisaraz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

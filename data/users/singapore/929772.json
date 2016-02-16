@@ -1,0 +1,20 @@
+{
+  "login": "sushengloong",
+  "id": 929772,
+  "avatar_url": "https://avatars.githubusercontent.com/u/929772?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sushengloong",
+  "html_url": "https://github.com/sushengloong",
+  "followers_url": "https://api.github.com/users/sushengloong/followers",
+  "following_url": "https://api.github.com/users/sushengloong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sushengloong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sushengloong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sushengloong/subscriptions",
+  "organizations_url": "https://api.github.com/users/sushengloong/orgs",
+  "repos_url": "https://api.github.com/users/sushengloong/repos",
+  "events_url": "https://api.github.com/users/sushengloong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sushengloong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

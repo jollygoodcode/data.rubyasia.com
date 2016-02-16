@@ -1,0 +1,20 @@
+{
+  "login": "tzuhan",
+  "id": 5960419,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5960419?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tzuhan",
+  "html_url": "https://github.com/tzuhan",
+  "followers_url": "https://api.github.com/users/tzuhan/followers",
+  "following_url": "https://api.github.com/users/tzuhan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tzuhan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tzuhan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tzuhan/subscriptions",
+  "organizations_url": "https://api.github.com/users/tzuhan/orgs",
+  "repos_url": "https://api.github.com/users/tzuhan/repos",
+  "events_url": "https://api.github.com/users/tzuhan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tzuhan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

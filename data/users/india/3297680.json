@@ -1,0 +1,20 @@
+{
+  "login": "spowebteam",
+  "id": 3297680,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3297680?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spowebteam",
+  "html_url": "https://github.com/spowebteam",
+  "followers_url": "https://api.github.com/users/spowebteam/followers",
+  "following_url": "https://api.github.com/users/spowebteam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spowebteam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spowebteam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spowebteam/subscriptions",
+  "organizations_url": "https://api.github.com/users/spowebteam/orgs",
+  "repos_url": "https://api.github.com/users/spowebteam/repos",
+  "events_url": "https://api.github.com/users/spowebteam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spowebteam/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

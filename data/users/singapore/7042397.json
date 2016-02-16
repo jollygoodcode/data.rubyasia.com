@@ -1,0 +1,20 @@
+{
+  "login": "einsteinly",
+  "id": 7042397,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7042397?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/einsteinly",
+  "html_url": "https://github.com/einsteinly",
+  "followers_url": "https://api.github.com/users/einsteinly/followers",
+  "following_url": "https://api.github.com/users/einsteinly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/einsteinly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/einsteinly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/einsteinly/subscriptions",
+  "organizations_url": "https://api.github.com/users/einsteinly/orgs",
+  "repos_url": "https://api.github.com/users/einsteinly/repos",
+  "events_url": "https://api.github.com/users/einsteinly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/einsteinly/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

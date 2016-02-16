@@ -1,0 +1,20 @@
+{
+  "login": "Doujier",
+  "id": 1028887,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1028887?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Doujier",
+  "html_url": "https://github.com/Doujier",
+  "followers_url": "https://api.github.com/users/Doujier/followers",
+  "following_url": "https://api.github.com/users/Doujier/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Doujier/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Doujier/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Doujier/subscriptions",
+  "organizations_url": "https://api.github.com/users/Doujier/orgs",
+  "repos_url": "https://api.github.com/users/Doujier/repos",
+  "events_url": "https://api.github.com/users/Doujier/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Doujier/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

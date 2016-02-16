@@ -1,0 +1,20 @@
+{
+  "login": "mozamimy",
+  "id": 1119006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1119006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mozamimy",
+  "html_url": "https://github.com/mozamimy",
+  "followers_url": "https://api.github.com/users/mozamimy/followers",
+  "following_url": "https://api.github.com/users/mozamimy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mozamimy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mozamimy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mozamimy/subscriptions",
+  "organizations_url": "https://api.github.com/users/mozamimy/orgs",
+  "repos_url": "https://api.github.com/users/mozamimy/repos",
+  "events_url": "https://api.github.com/users/mozamimy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mozamimy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

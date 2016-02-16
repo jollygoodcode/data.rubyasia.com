@@ -1,0 +1,20 @@
+{
+  "login": "zeero",
+  "id": 105469,
+  "avatar_url": "https://avatars.githubusercontent.com/u/105469?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zeero",
+  "html_url": "https://github.com/zeero",
+  "followers_url": "https://api.github.com/users/zeero/followers",
+  "following_url": "https://api.github.com/users/zeero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zeero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zeero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zeero/subscriptions",
+  "organizations_url": "https://api.github.com/users/zeero/orgs",
+  "repos_url": "https://api.github.com/users/zeero/repos",
+  "events_url": "https://api.github.com/users/zeero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zeero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

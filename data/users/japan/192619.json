@@ -1,0 +1,20 @@
+{
+  "login": "k-yamada",
+  "id": 192619,
+  "avatar_url": "https://avatars.githubusercontent.com/u/192619?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k-yamada",
+  "html_url": "https://github.com/k-yamada",
+  "followers_url": "https://api.github.com/users/k-yamada/followers",
+  "following_url": "https://api.github.com/users/k-yamada/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k-yamada/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k-yamada/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k-yamada/subscriptions",
+  "organizations_url": "https://api.github.com/users/k-yamada/orgs",
+  "repos_url": "https://api.github.com/users/k-yamada/repos",
+  "events_url": "https://api.github.com/users/k-yamada/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k-yamada/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

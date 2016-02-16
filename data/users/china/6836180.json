@@ -1,0 +1,20 @@
+{
+  "login": "imEgo",
+  "id": 6836180,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6836180?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imEgo",
+  "html_url": "https://github.com/imEgo",
+  "followers_url": "https://api.github.com/users/imEgo/followers",
+  "following_url": "https://api.github.com/users/imEgo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imEgo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imEgo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imEgo/subscriptions",
+  "organizations_url": "https://api.github.com/users/imEgo/orgs",
+  "repos_url": "https://api.github.com/users/imEgo/repos",
+  "events_url": "https://api.github.com/users/imEgo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imEgo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

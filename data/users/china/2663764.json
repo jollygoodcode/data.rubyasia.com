@@ -1,0 +1,20 @@
+{
+  "login": "jabarier",
+  "id": 2663764,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2663764?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jabarier",
+  "html_url": "https://github.com/jabarier",
+  "followers_url": "https://api.github.com/users/jabarier/followers",
+  "following_url": "https://api.github.com/users/jabarier/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jabarier/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jabarier/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jabarier/subscriptions",
+  "organizations_url": "https://api.github.com/users/jabarier/orgs",
+  "repos_url": "https://api.github.com/users/jabarier/repos",
+  "events_url": "https://api.github.com/users/jabarier/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jabarier/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

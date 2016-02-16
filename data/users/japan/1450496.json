@@ -1,0 +1,20 @@
+{
+  "login": "chkfj",
+  "id": 1450496,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1450496?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chkfj",
+  "html_url": "https://github.com/chkfj",
+  "followers_url": "https://api.github.com/users/chkfj/followers",
+  "following_url": "https://api.github.com/users/chkfj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chkfj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chkfj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chkfj/subscriptions",
+  "organizations_url": "https://api.github.com/users/chkfj/orgs",
+  "repos_url": "https://api.github.com/users/chkfj/repos",
+  "events_url": "https://api.github.com/users/chkfj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chkfj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

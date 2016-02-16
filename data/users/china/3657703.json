@@ -1,0 +1,20 @@
+{
+  "login": "zhouycloud",
+  "id": 3657703,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3657703?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhouycloud",
+  "html_url": "https://github.com/zhouycloud",
+  "followers_url": "https://api.github.com/users/zhouycloud/followers",
+  "following_url": "https://api.github.com/users/zhouycloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhouycloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhouycloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhouycloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhouycloud/orgs",
+  "repos_url": "https://api.github.com/users/zhouycloud/repos",
+  "events_url": "https://api.github.com/users/zhouycloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhouycloud/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

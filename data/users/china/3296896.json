@@ -1,0 +1,20 @@
+{
+  "login": "1sters",
+  "id": 3296896,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3296896?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/1sters",
+  "html_url": "https://github.com/1sters",
+  "followers_url": "https://api.github.com/users/1sters/followers",
+  "following_url": "https://api.github.com/users/1sters/following{/other_user}",
+  "gists_url": "https://api.github.com/users/1sters/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/1sters/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/1sters/subscriptions",
+  "organizations_url": "https://api.github.com/users/1sters/orgs",
+  "repos_url": "https://api.github.com/users/1sters/repos",
+  "events_url": "https://api.github.com/users/1sters/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/1sters/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

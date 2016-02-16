@@ -1,0 +1,20 @@
+{
+  "login": "grdmnt",
+  "id": 10776105,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10776105?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/grdmnt",
+  "html_url": "https://github.com/grdmnt",
+  "followers_url": "https://api.github.com/users/grdmnt/followers",
+  "following_url": "https://api.github.com/users/grdmnt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/grdmnt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/grdmnt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/grdmnt/subscriptions",
+  "organizations_url": "https://api.github.com/users/grdmnt/orgs",
+  "repos_url": "https://api.github.com/users/grdmnt/repos",
+  "events_url": "https://api.github.com/users/grdmnt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/grdmnt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

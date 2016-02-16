@@ -1,0 +1,20 @@
+{
+  "login": "xmgeorge",
+  "id": 6262549,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6262549?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xmgeorge",
+  "html_url": "https://github.com/xmgeorge",
+  "followers_url": "https://api.github.com/users/xmgeorge/followers",
+  "following_url": "https://api.github.com/users/xmgeorge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xmgeorge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xmgeorge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xmgeorge/subscriptions",
+  "organizations_url": "https://api.github.com/users/xmgeorge/orgs",
+  "repos_url": "https://api.github.com/users/xmgeorge/repos",
+  "events_url": "https://api.github.com/users/xmgeorge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xmgeorge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

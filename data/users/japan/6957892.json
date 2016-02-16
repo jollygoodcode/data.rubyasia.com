@@ -1,0 +1,20 @@
+{
+  "login": "refraining",
+  "id": 6957892,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6957892?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/refraining",
+  "html_url": "https://github.com/refraining",
+  "followers_url": "https://api.github.com/users/refraining/followers",
+  "following_url": "https://api.github.com/users/refraining/following{/other_user}",
+  "gists_url": "https://api.github.com/users/refraining/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/refraining/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/refraining/subscriptions",
+  "organizations_url": "https://api.github.com/users/refraining/orgs",
+  "repos_url": "https://api.github.com/users/refraining/repos",
+  "events_url": "https://api.github.com/users/refraining/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/refraining/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "HugeThoughts",
+  "id": 9282524,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9282524?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HugeThoughts",
+  "html_url": "https://github.com/HugeThoughts",
+  "followers_url": "https://api.github.com/users/HugeThoughts/followers",
+  "following_url": "https://api.github.com/users/HugeThoughts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HugeThoughts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HugeThoughts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HugeThoughts/subscriptions",
+  "organizations_url": "https://api.github.com/users/HugeThoughts/orgs",
+  "repos_url": "https://api.github.com/users/HugeThoughts/repos",
+  "events_url": "https://api.github.com/users/HugeThoughts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HugeThoughts/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

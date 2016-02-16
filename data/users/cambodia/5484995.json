@@ -1,0 +1,20 @@
+{
+  "login": "vsrboth",
+  "id": 5484995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5484995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vsrboth",
+  "html_url": "https://github.com/vsrboth",
+  "followers_url": "https://api.github.com/users/vsrboth/followers",
+  "following_url": "https://api.github.com/users/vsrboth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vsrboth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vsrboth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vsrboth/subscriptions",
+  "organizations_url": "https://api.github.com/users/vsrboth/orgs",
+  "repos_url": "https://api.github.com/users/vsrboth/repos",
+  "events_url": "https://api.github.com/users/vsrboth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vsrboth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

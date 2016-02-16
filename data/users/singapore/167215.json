@@ -1,0 +1,20 @@
+{
+  "login": "bradleypriest",
+  "id": 167215,
+  "avatar_url": "https://avatars.githubusercontent.com/u/167215?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bradleypriest",
+  "html_url": "https://github.com/bradleypriest",
+  "followers_url": "https://api.github.com/users/bradleypriest/followers",
+  "following_url": "https://api.github.com/users/bradleypriest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bradleypriest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bradleypriest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bradleypriest/subscriptions",
+  "organizations_url": "https://api.github.com/users/bradleypriest/orgs",
+  "repos_url": "https://api.github.com/users/bradleypriest/repos",
+  "events_url": "https://api.github.com/users/bradleypriest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bradleypriest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Udeep",
+  "id": 3418575,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3418575?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Udeep",
+  "html_url": "https://github.com/Udeep",
+  "followers_url": "https://api.github.com/users/Udeep/followers",
+  "following_url": "https://api.github.com/users/Udeep/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Udeep/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Udeep/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Udeep/subscriptions",
+  "organizations_url": "https://api.github.com/users/Udeep/orgs",
+  "repos_url": "https://api.github.com/users/Udeep/repos",
+  "events_url": "https://api.github.com/users/Udeep/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Udeep/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

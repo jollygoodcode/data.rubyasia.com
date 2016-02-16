@@ -1,0 +1,20 @@
+{
+  "login": "flyyang",
+  "id": 3912408,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3912408?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flyyang",
+  "html_url": "https://github.com/flyyang",
+  "followers_url": "https://api.github.com/users/flyyang/followers",
+  "following_url": "https://api.github.com/users/flyyang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flyyang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flyyang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flyyang/subscriptions",
+  "organizations_url": "https://api.github.com/users/flyyang/orgs",
+  "repos_url": "https://api.github.com/users/flyyang/repos",
+  "events_url": "https://api.github.com/users/flyyang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flyyang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

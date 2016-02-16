@@ -1,0 +1,20 @@
+{
+  "login": "sdil",
+  "id": 461537,
+  "avatar_url": "https://avatars.githubusercontent.com/u/461537?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sdil",
+  "html_url": "https://github.com/sdil",
+  "followers_url": "https://api.github.com/users/sdil/followers",
+  "following_url": "https://api.github.com/users/sdil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sdil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sdil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sdil/subscriptions",
+  "organizations_url": "https://api.github.com/users/sdil/orgs",
+  "repos_url": "https://api.github.com/users/sdil/repos",
+  "events_url": "https://api.github.com/users/sdil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sdil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "saav",
+  "id": 5294689,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5294689?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saav",
+  "html_url": "https://github.com/saav",
+  "followers_url": "https://api.github.com/users/saav/followers",
+  "following_url": "https://api.github.com/users/saav/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saav/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saav/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saav/subscriptions",
+  "organizations_url": "https://api.github.com/users/saav/orgs",
+  "repos_url": "https://api.github.com/users/saav/repos",
+  "events_url": "https://api.github.com/users/saav/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saav/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

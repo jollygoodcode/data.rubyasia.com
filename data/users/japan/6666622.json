@@ -1,0 +1,20 @@
+{
+  "login": "okstilo",
+  "id": 6666622,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6666622?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okstilo",
+  "html_url": "https://github.com/okstilo",
+  "followers_url": "https://api.github.com/users/okstilo/followers",
+  "following_url": "https://api.github.com/users/okstilo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okstilo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okstilo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okstilo/subscriptions",
+  "organizations_url": "https://api.github.com/users/okstilo/orgs",
+  "repos_url": "https://api.github.com/users/okstilo/repos",
+  "events_url": "https://api.github.com/users/okstilo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okstilo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

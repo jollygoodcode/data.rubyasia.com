@@ -1,0 +1,20 @@
+{
+  "login": "hafizio",
+  "id": 4111538,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4111538?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hafizio",
+  "html_url": "https://github.com/hafizio",
+  "followers_url": "https://api.github.com/users/hafizio/followers",
+  "following_url": "https://api.github.com/users/hafizio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hafizio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hafizio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hafizio/subscriptions",
+  "organizations_url": "https://api.github.com/users/hafizio/orgs",
+  "repos_url": "https://api.github.com/users/hafizio/repos",
+  "events_url": "https://api.github.com/users/hafizio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hafizio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

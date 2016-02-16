@@ -1,0 +1,20 @@
+{
+  "login": "hakuro",
+  "id": 441954,
+  "avatar_url": "https://avatars.githubusercontent.com/u/441954?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hakuro",
+  "html_url": "https://github.com/hakuro",
+  "followers_url": "https://api.github.com/users/hakuro/followers",
+  "following_url": "https://api.github.com/users/hakuro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hakuro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hakuro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hakuro/subscriptions",
+  "organizations_url": "https://api.github.com/users/hakuro/orgs",
+  "repos_url": "https://api.github.com/users/hakuro/repos",
+  "events_url": "https://api.github.com/users/hakuro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hakuro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

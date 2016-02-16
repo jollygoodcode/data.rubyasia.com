@@ -1,0 +1,20 @@
+{
+  "login": "eddyshay",
+  "id": 4851051,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4851051?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eddyshay",
+  "html_url": "https://github.com/eddyshay",
+  "followers_url": "https://api.github.com/users/eddyshay/followers",
+  "following_url": "https://api.github.com/users/eddyshay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eddyshay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eddyshay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eddyshay/subscriptions",
+  "organizations_url": "https://api.github.com/users/eddyshay/orgs",
+  "repos_url": "https://api.github.com/users/eddyshay/repos",
+  "events_url": "https://api.github.com/users/eddyshay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eddyshay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

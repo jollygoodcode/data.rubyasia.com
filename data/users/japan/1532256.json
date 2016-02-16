@@ -1,0 +1,20 @@
+{
+  "login": "tkamada",
+  "id": 1532256,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1532256?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tkamada",
+  "html_url": "https://github.com/tkamada",
+  "followers_url": "https://api.github.com/users/tkamada/followers",
+  "following_url": "https://api.github.com/users/tkamada/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tkamada/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tkamada/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tkamada/subscriptions",
+  "organizations_url": "https://api.github.com/users/tkamada/orgs",
+  "repos_url": "https://api.github.com/users/tkamada/repos",
+  "events_url": "https://api.github.com/users/tkamada/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tkamada/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

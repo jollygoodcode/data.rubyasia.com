@@ -1,0 +1,20 @@
+{
+  "login": "lytstephen",
+  "id": 12368019,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12368019?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lytstephen",
+  "html_url": "https://github.com/lytstephen",
+  "followers_url": "https://api.github.com/users/lytstephen/followers",
+  "following_url": "https://api.github.com/users/lytstephen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lytstephen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lytstephen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lytstephen/subscriptions",
+  "organizations_url": "https://api.github.com/users/lytstephen/orgs",
+  "repos_url": "https://api.github.com/users/lytstephen/repos",
+  "events_url": "https://api.github.com/users/lytstephen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lytstephen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

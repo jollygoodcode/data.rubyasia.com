@@ -1,0 +1,20 @@
+{
+  "login": "stiekel",
+  "id": 2735087,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2735087?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stiekel",
+  "html_url": "https://github.com/stiekel",
+  "followers_url": "https://api.github.com/users/stiekel/followers",
+  "following_url": "https://api.github.com/users/stiekel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stiekel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stiekel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stiekel/subscriptions",
+  "organizations_url": "https://api.github.com/users/stiekel/orgs",
+  "repos_url": "https://api.github.com/users/stiekel/repos",
+  "events_url": "https://api.github.com/users/stiekel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stiekel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

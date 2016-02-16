@@ -1,0 +1,20 @@
+{
+  "login": "dropcontrol",
+  "id": 265457,
+  "avatar_url": "https://avatars.githubusercontent.com/u/265457?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dropcontrol",
+  "html_url": "https://github.com/dropcontrol",
+  "followers_url": "https://api.github.com/users/dropcontrol/followers",
+  "following_url": "https://api.github.com/users/dropcontrol/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dropcontrol/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dropcontrol/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dropcontrol/subscriptions",
+  "organizations_url": "https://api.github.com/users/dropcontrol/orgs",
+  "repos_url": "https://api.github.com/users/dropcontrol/repos",
+  "events_url": "https://api.github.com/users/dropcontrol/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dropcontrol/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

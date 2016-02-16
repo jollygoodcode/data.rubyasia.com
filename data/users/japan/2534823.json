@@ -1,0 +1,20 @@
+{
+  "login": "akiji",
+  "id": 2534823,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2534823?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akiji",
+  "html_url": "https://github.com/akiji",
+  "followers_url": "https://api.github.com/users/akiji/followers",
+  "following_url": "https://api.github.com/users/akiji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akiji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akiji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akiji/subscriptions",
+  "organizations_url": "https://api.github.com/users/akiji/orgs",
+  "repos_url": "https://api.github.com/users/akiji/repos",
+  "events_url": "https://api.github.com/users/akiji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akiji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

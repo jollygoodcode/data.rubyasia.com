@@ -1,0 +1,20 @@
+{
+  "login": "tnakamura",
+  "id": 1004147,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1004147?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tnakamura",
+  "html_url": "https://github.com/tnakamura",
+  "followers_url": "https://api.github.com/users/tnakamura/followers",
+  "following_url": "https://api.github.com/users/tnakamura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tnakamura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tnakamura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tnakamura/subscriptions",
+  "organizations_url": "https://api.github.com/users/tnakamura/orgs",
+  "repos_url": "https://api.github.com/users/tnakamura/repos",
+  "events_url": "https://api.github.com/users/tnakamura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tnakamura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

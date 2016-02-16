@@ -1,0 +1,20 @@
+{
+  "login": "clouddeep",
+  "id": 4697944,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4697944?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/clouddeep",
+  "html_url": "https://github.com/clouddeep",
+  "followers_url": "https://api.github.com/users/clouddeep/followers",
+  "following_url": "https://api.github.com/users/clouddeep/following{/other_user}",
+  "gists_url": "https://api.github.com/users/clouddeep/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/clouddeep/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/clouddeep/subscriptions",
+  "organizations_url": "https://api.github.com/users/clouddeep/orgs",
+  "repos_url": "https://api.github.com/users/clouddeep/repos",
+  "events_url": "https://api.github.com/users/clouddeep/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/clouddeep/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

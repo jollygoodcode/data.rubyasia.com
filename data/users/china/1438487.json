@@ -1,0 +1,20 @@
+{
+  "login": "xindong",
+  "id": 1438487,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1438487?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xindong",
+  "html_url": "https://github.com/xindong",
+  "followers_url": "https://api.github.com/users/xindong/followers",
+  "following_url": "https://api.github.com/users/xindong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xindong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xindong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xindong/subscriptions",
+  "organizations_url": "https://api.github.com/users/xindong/orgs",
+  "repos_url": "https://api.github.com/users/xindong/repos",
+  "events_url": "https://api.github.com/users/xindong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xindong/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

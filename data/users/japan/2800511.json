@@ -1,0 +1,20 @@
+{
+  "login": "n-kaito",
+  "id": 2800511,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2800511?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/n-kaito",
+  "html_url": "https://github.com/n-kaito",
+  "followers_url": "https://api.github.com/users/n-kaito/followers",
+  "following_url": "https://api.github.com/users/n-kaito/following{/other_user}",
+  "gists_url": "https://api.github.com/users/n-kaito/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/n-kaito/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/n-kaito/subscriptions",
+  "organizations_url": "https://api.github.com/users/n-kaito/orgs",
+  "repos_url": "https://api.github.com/users/n-kaito/repos",
+  "events_url": "https://api.github.com/users/n-kaito/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/n-kaito/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

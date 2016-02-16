@@ -1,0 +1,20 @@
+{
+  "login": "JieHust",
+  "id": 10471622,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10471622?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JieHust",
+  "html_url": "https://github.com/JieHust",
+  "followers_url": "https://api.github.com/users/JieHust/followers",
+  "following_url": "https://api.github.com/users/JieHust/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JieHust/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JieHust/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JieHust/subscriptions",
+  "organizations_url": "https://api.github.com/users/JieHust/orgs",
+  "repos_url": "https://api.github.com/users/JieHust/repos",
+  "events_url": "https://api.github.com/users/JieHust/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JieHust/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

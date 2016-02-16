@@ -1,0 +1,20 @@
+{
+  "login": "Lisda",
+  "id": 1274902,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1274902?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Lisda",
+  "html_url": "https://github.com/Lisda",
+  "followers_url": "https://api.github.com/users/Lisda/followers",
+  "following_url": "https://api.github.com/users/Lisda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Lisda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Lisda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Lisda/subscriptions",
+  "organizations_url": "https://api.github.com/users/Lisda/orgs",
+  "repos_url": "https://api.github.com/users/Lisda/repos",
+  "events_url": "https://api.github.com/users/Lisda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Lisda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

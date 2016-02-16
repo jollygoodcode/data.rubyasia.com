@@ -1,0 +1,20 @@
+{
+  "login": "okyada",
+  "id": 10721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okyada",
+  "html_url": "https://github.com/okyada",
+  "followers_url": "https://api.github.com/users/okyada/followers",
+  "following_url": "https://api.github.com/users/okyada/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okyada/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okyada/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okyada/subscriptions",
+  "organizations_url": "https://api.github.com/users/okyada/orgs",
+  "repos_url": "https://api.github.com/users/okyada/repos",
+  "events_url": "https://api.github.com/users/okyada/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okyada/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

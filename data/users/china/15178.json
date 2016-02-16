@@ -1,0 +1,20 @@
+{
+  "login": "saberma",
+  "id": 15178,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15178?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saberma",
+  "html_url": "https://github.com/saberma",
+  "followers_url": "https://api.github.com/users/saberma/followers",
+  "following_url": "https://api.github.com/users/saberma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saberma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saberma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saberma/subscriptions",
+  "organizations_url": "https://api.github.com/users/saberma/orgs",
+  "repos_url": "https://api.github.com/users/saberma/repos",
+  "events_url": "https://api.github.com/users/saberma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saberma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

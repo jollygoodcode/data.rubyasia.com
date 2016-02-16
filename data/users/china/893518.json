@@ -1,0 +1,20 @@
+{
+  "login": "SandWind",
+  "id": 893518,
+  "avatar_url": "https://avatars.githubusercontent.com/u/893518?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SandWind",
+  "html_url": "https://github.com/SandWind",
+  "followers_url": "https://api.github.com/users/SandWind/followers",
+  "following_url": "https://api.github.com/users/SandWind/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SandWind/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SandWind/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SandWind/subscriptions",
+  "organizations_url": "https://api.github.com/users/SandWind/orgs",
+  "repos_url": "https://api.github.com/users/SandWind/repos",
+  "events_url": "https://api.github.com/users/SandWind/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SandWind/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

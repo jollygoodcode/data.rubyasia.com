@@ -1,0 +1,20 @@
+{
+  "login": "sathya-me",
+  "id": 1215654,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1215654?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sathya-me",
+  "html_url": "https://github.com/sathya-me",
+  "followers_url": "https://api.github.com/users/sathya-me/followers",
+  "following_url": "https://api.github.com/users/sathya-me/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sathya-me/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sathya-me/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sathya-me/subscriptions",
+  "organizations_url": "https://api.github.com/users/sathya-me/orgs",
+  "repos_url": "https://api.github.com/users/sathya-me/repos",
+  "events_url": "https://api.github.com/users/sathya-me/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sathya-me/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

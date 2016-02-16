@@ -1,0 +1,20 @@
+{
+  "login": "tattsun",
+  "id": 6785288,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6785288?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tattsun",
+  "html_url": "https://github.com/tattsun",
+  "followers_url": "https://api.github.com/users/tattsun/followers",
+  "following_url": "https://api.github.com/users/tattsun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tattsun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tattsun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tattsun/subscriptions",
+  "organizations_url": "https://api.github.com/users/tattsun/orgs",
+  "repos_url": "https://api.github.com/users/tattsun/repos",
+  "events_url": "https://api.github.com/users/tattsun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tattsun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

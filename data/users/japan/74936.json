@@ -1,0 +1,20 @@
+{
+  "login": "makomamio",
+  "id": 74936,
+  "avatar_url": "https://avatars.githubusercontent.com/u/74936?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/makomamio",
+  "html_url": "https://github.com/makomamio",
+  "followers_url": "https://api.github.com/users/makomamio/followers",
+  "following_url": "https://api.github.com/users/makomamio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/makomamio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/makomamio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/makomamio/subscriptions",
+  "organizations_url": "https://api.github.com/users/makomamio/orgs",
+  "repos_url": "https://api.github.com/users/makomamio/repos",
+  "events_url": "https://api.github.com/users/makomamio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/makomamio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

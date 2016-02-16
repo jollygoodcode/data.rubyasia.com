@@ -1,0 +1,20 @@
+{
+  "login": "ogura",
+  "id": 86514,
+  "avatar_url": "https://avatars.githubusercontent.com/u/86514?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ogura",
+  "html_url": "https://github.com/ogura",
+  "followers_url": "https://api.github.com/users/ogura/followers",
+  "following_url": "https://api.github.com/users/ogura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ogura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ogura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ogura/subscriptions",
+  "organizations_url": "https://api.github.com/users/ogura/orgs",
+  "repos_url": "https://api.github.com/users/ogura/repos",
+  "events_url": "https://api.github.com/users/ogura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ogura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

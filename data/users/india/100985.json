@@ -1,0 +1,20 @@
+{
+  "login": "monangik",
+  "id": 100985,
+  "avatar_url": "https://avatars.githubusercontent.com/u/100985?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/monangik",
+  "html_url": "https://github.com/monangik",
+  "followers_url": "https://api.github.com/users/monangik/followers",
+  "following_url": "https://api.github.com/users/monangik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/monangik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/monangik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/monangik/subscriptions",
+  "organizations_url": "https://api.github.com/users/monangik/orgs",
+  "repos_url": "https://api.github.com/users/monangik/repos",
+  "events_url": "https://api.github.com/users/monangik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/monangik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

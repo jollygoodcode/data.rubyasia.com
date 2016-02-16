@@ -1,0 +1,20 @@
+{
+  "login": "codefoobar",
+  "id": 13179892,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13179892?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codefoobar",
+  "html_url": "https://github.com/codefoobar",
+  "followers_url": "https://api.github.com/users/codefoobar/followers",
+  "following_url": "https://api.github.com/users/codefoobar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codefoobar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codefoobar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codefoobar/subscriptions",
+  "organizations_url": "https://api.github.com/users/codefoobar/orgs",
+  "repos_url": "https://api.github.com/users/codefoobar/repos",
+  "events_url": "https://api.github.com/users/codefoobar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codefoobar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jusez",
+  "id": 270170,
+  "avatar_url": "https://avatars.githubusercontent.com/u/270170?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jusez",
+  "html_url": "https://github.com/jusez",
+  "followers_url": "https://api.github.com/users/jusez/followers",
+  "following_url": "https://api.github.com/users/jusez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jusez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jusez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jusez/subscriptions",
+  "organizations_url": "https://api.github.com/users/jusez/orgs",
+  "repos_url": "https://api.github.com/users/jusez/repos",
+  "events_url": "https://api.github.com/users/jusez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jusez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

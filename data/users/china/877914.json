@@ -1,0 +1,20 @@
+{
+  "login": "jinbin",
+  "id": 877914,
+  "avatar_url": "https://avatars.githubusercontent.com/u/877914?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jinbin",
+  "html_url": "https://github.com/jinbin",
+  "followers_url": "https://api.github.com/users/jinbin/followers",
+  "following_url": "https://api.github.com/users/jinbin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jinbin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jinbin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jinbin/subscriptions",
+  "organizations_url": "https://api.github.com/users/jinbin/orgs",
+  "repos_url": "https://api.github.com/users/jinbin/repos",
+  "events_url": "https://api.github.com/users/jinbin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jinbin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

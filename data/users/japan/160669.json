@@ -1,0 +1,20 @@
+{
+  "login": "ryumei",
+  "id": 160669,
+  "avatar_url": "https://avatars.githubusercontent.com/u/160669?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryumei",
+  "html_url": "https://github.com/ryumei",
+  "followers_url": "https://api.github.com/users/ryumei/followers",
+  "following_url": "https://api.github.com/users/ryumei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryumei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryumei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryumei/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryumei/orgs",
+  "repos_url": "https://api.github.com/users/ryumei/repos",
+  "events_url": "https://api.github.com/users/ryumei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryumei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

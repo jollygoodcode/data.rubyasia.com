@@ -1,0 +1,20 @@
+{
+  "login": "zhongming",
+  "id": 2070136,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2070136?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhongming",
+  "html_url": "https://github.com/zhongming",
+  "followers_url": "https://api.github.com/users/zhongming/followers",
+  "following_url": "https://api.github.com/users/zhongming/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhongming/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhongming/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhongming/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhongming/orgs",
+  "repos_url": "https://api.github.com/users/zhongming/repos",
+  "events_url": "https://api.github.com/users/zhongming/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhongming/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

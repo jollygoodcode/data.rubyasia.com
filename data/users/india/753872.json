@@ -1,0 +1,20 @@
+{
+  "login": "testapps",
+  "id": 753872,
+  "avatar_url": "https://avatars.githubusercontent.com/u/753872?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/testapps",
+  "html_url": "https://github.com/testapps",
+  "followers_url": "https://api.github.com/users/testapps/followers",
+  "following_url": "https://api.github.com/users/testapps/following{/other_user}",
+  "gists_url": "https://api.github.com/users/testapps/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/testapps/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/testapps/subscriptions",
+  "organizations_url": "https://api.github.com/users/testapps/orgs",
+  "repos_url": "https://api.github.com/users/testapps/repos",
+  "events_url": "https://api.github.com/users/testapps/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/testapps/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

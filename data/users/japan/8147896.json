@@ -1,0 +1,20 @@
+{
+  "login": "t-mochizuki",
+  "id": 8147896,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8147896?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/t-mochizuki",
+  "html_url": "https://github.com/t-mochizuki",
+  "followers_url": "https://api.github.com/users/t-mochizuki/followers",
+  "following_url": "https://api.github.com/users/t-mochizuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/t-mochizuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/t-mochizuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/t-mochizuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/t-mochizuki/orgs",
+  "repos_url": "https://api.github.com/users/t-mochizuki/repos",
+  "events_url": "https://api.github.com/users/t-mochizuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/t-mochizuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

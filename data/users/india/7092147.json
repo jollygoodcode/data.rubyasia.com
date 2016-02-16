@@ -1,0 +1,20 @@
+{
+  "login": "sbethpaudi",
+  "id": 7092147,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7092147?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sbethpaudi",
+  "html_url": "https://github.com/sbethpaudi",
+  "followers_url": "https://api.github.com/users/sbethpaudi/followers",
+  "following_url": "https://api.github.com/users/sbethpaudi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sbethpaudi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sbethpaudi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sbethpaudi/subscriptions",
+  "organizations_url": "https://api.github.com/users/sbethpaudi/orgs",
+  "repos_url": "https://api.github.com/users/sbethpaudi/repos",
+  "events_url": "https://api.github.com/users/sbethpaudi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sbethpaudi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

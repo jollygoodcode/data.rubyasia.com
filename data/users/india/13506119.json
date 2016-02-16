@@ -1,0 +1,20 @@
+{
+  "login": "huemiser",
+  "id": 13506119,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13506119?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huemiser",
+  "html_url": "https://github.com/huemiser",
+  "followers_url": "https://api.github.com/users/huemiser/followers",
+  "following_url": "https://api.github.com/users/huemiser/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huemiser/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huemiser/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huemiser/subscriptions",
+  "organizations_url": "https://api.github.com/users/huemiser/orgs",
+  "repos_url": "https://api.github.com/users/huemiser/repos",
+  "events_url": "https://api.github.com/users/huemiser/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huemiser/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

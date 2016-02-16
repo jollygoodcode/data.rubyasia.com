@@ -1,0 +1,20 @@
+{
+  "login": "arscariosus",
+  "id": 240522,
+  "avatar_url": "https://avatars.githubusercontent.com/u/240522?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arscariosus",
+  "html_url": "https://github.com/arscariosus",
+  "followers_url": "https://api.github.com/users/arscariosus/followers",
+  "following_url": "https://api.github.com/users/arscariosus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arscariosus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arscariosus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arscariosus/subscriptions",
+  "organizations_url": "https://api.github.com/users/arscariosus/orgs",
+  "repos_url": "https://api.github.com/users/arscariosus/repos",
+  "events_url": "https://api.github.com/users/arscariosus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arscariosus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

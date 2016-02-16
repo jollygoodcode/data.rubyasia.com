@@ -1,0 +1,20 @@
+{
+  "login": "tenkou",
+  "id": 1549253,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1549253?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tenkou",
+  "html_url": "https://github.com/tenkou",
+  "followers_url": "https://api.github.com/users/tenkou/followers",
+  "following_url": "https://api.github.com/users/tenkou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tenkou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tenkou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tenkou/subscriptions",
+  "organizations_url": "https://api.github.com/users/tenkou/orgs",
+  "repos_url": "https://api.github.com/users/tenkou/repos",
+  "events_url": "https://api.github.com/users/tenkou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tenkou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

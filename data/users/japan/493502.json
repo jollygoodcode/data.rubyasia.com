@@ -1,0 +1,20 @@
+{
+  "login": "kanosaki",
+  "id": 493502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/493502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kanosaki",
+  "html_url": "https://github.com/kanosaki",
+  "followers_url": "https://api.github.com/users/kanosaki/followers",
+  "following_url": "https://api.github.com/users/kanosaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kanosaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kanosaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kanosaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/kanosaki/orgs",
+  "repos_url": "https://api.github.com/users/kanosaki/repos",
+  "events_url": "https://api.github.com/users/kanosaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kanosaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

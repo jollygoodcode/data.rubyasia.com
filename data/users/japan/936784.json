@@ -1,0 +1,20 @@
+{
+  "login": "xtetsuji",
+  "id": 936784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/936784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xtetsuji",
+  "html_url": "https://github.com/xtetsuji",
+  "followers_url": "https://api.github.com/users/xtetsuji/followers",
+  "following_url": "https://api.github.com/users/xtetsuji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xtetsuji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xtetsuji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xtetsuji/subscriptions",
+  "organizations_url": "https://api.github.com/users/xtetsuji/orgs",
+  "repos_url": "https://api.github.com/users/xtetsuji/repos",
+  "events_url": "https://api.github.com/users/xtetsuji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xtetsuji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

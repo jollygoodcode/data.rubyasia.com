@@ -1,0 +1,20 @@
+{
+  "login": "taskpond",
+  "id": 8054456,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8054456?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taskpond",
+  "html_url": "https://github.com/taskpond",
+  "followers_url": "https://api.github.com/users/taskpond/followers",
+  "following_url": "https://api.github.com/users/taskpond/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taskpond/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taskpond/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taskpond/subscriptions",
+  "organizations_url": "https://api.github.com/users/taskpond/orgs",
+  "repos_url": "https://api.github.com/users/taskpond/repos",
+  "events_url": "https://api.github.com/users/taskpond/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taskpond/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

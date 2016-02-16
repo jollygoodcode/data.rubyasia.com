@@ -1,0 +1,20 @@
+{
+  "login": "gunsmith",
+  "id": 1614891,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1614891?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gunsmith",
+  "html_url": "https://github.com/gunsmith",
+  "followers_url": "https://api.github.com/users/gunsmith/followers",
+  "following_url": "https://api.github.com/users/gunsmith/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gunsmith/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gunsmith/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gunsmith/subscriptions",
+  "organizations_url": "https://api.github.com/users/gunsmith/orgs",
+  "repos_url": "https://api.github.com/users/gunsmith/repos",
+  "events_url": "https://api.github.com/users/gunsmith/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gunsmith/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

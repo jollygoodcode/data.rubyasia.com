@@ -1,0 +1,20 @@
+{
+  "login": "sapnasolutions",
+  "id": 116901,
+  "avatar_url": "https://avatars.githubusercontent.com/u/116901?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sapnasolutions",
+  "html_url": "https://github.com/sapnasolutions",
+  "followers_url": "https://api.github.com/users/sapnasolutions/followers",
+  "following_url": "https://api.github.com/users/sapnasolutions/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sapnasolutions/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sapnasolutions/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sapnasolutions/subscriptions",
+  "organizations_url": "https://api.github.com/users/sapnasolutions/orgs",
+  "repos_url": "https://api.github.com/users/sapnasolutions/repos",
+  "events_url": "https://api.github.com/users/sapnasolutions/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sapnasolutions/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

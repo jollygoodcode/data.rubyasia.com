@@ -1,0 +1,20 @@
+{
+  "login": "homata",
+  "id": 312248,
+  "avatar_url": "https://avatars.githubusercontent.com/u/312248?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/homata",
+  "html_url": "https://github.com/homata",
+  "followers_url": "https://api.github.com/users/homata/followers",
+  "following_url": "https://api.github.com/users/homata/following{/other_user}",
+  "gists_url": "https://api.github.com/users/homata/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/homata/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/homata/subscriptions",
+  "organizations_url": "https://api.github.com/users/homata/orgs",
+  "repos_url": "https://api.github.com/users/homata/repos",
+  "events_url": "https://api.github.com/users/homata/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/homata/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

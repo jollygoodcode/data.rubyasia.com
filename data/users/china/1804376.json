@@ -1,0 +1,20 @@
+{
+  "login": "BlackUmbrella",
+  "id": 1804376,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1804376?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BlackUmbrella",
+  "html_url": "https://github.com/BlackUmbrella",
+  "followers_url": "https://api.github.com/users/BlackUmbrella/followers",
+  "following_url": "https://api.github.com/users/BlackUmbrella/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BlackUmbrella/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BlackUmbrella/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BlackUmbrella/subscriptions",
+  "organizations_url": "https://api.github.com/users/BlackUmbrella/orgs",
+  "repos_url": "https://api.github.com/users/BlackUmbrella/repos",
+  "events_url": "https://api.github.com/users/BlackUmbrella/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BlackUmbrella/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

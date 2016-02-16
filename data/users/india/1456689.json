@@ -1,0 +1,20 @@
+{
+  "login": "madhanu",
+  "id": 1456689,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1456689?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/madhanu",
+  "html_url": "https://github.com/madhanu",
+  "followers_url": "https://api.github.com/users/madhanu/followers",
+  "following_url": "https://api.github.com/users/madhanu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/madhanu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/madhanu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/madhanu/subscriptions",
+  "organizations_url": "https://api.github.com/users/madhanu/orgs",
+  "repos_url": "https://api.github.com/users/madhanu/repos",
+  "events_url": "https://api.github.com/users/madhanu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/madhanu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

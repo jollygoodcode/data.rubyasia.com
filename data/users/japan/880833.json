@@ -1,0 +1,20 @@
+{
+  "login": "Todachii",
+  "id": 880833,
+  "avatar_url": "https://avatars.githubusercontent.com/u/880833?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Todachii",
+  "html_url": "https://github.com/Todachii",
+  "followers_url": "https://api.github.com/users/Todachii/followers",
+  "following_url": "https://api.github.com/users/Todachii/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Todachii/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Todachii/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Todachii/subscriptions",
+  "organizations_url": "https://api.github.com/users/Todachii/orgs",
+  "repos_url": "https://api.github.com/users/Todachii/repos",
+  "events_url": "https://api.github.com/users/Todachii/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Todachii/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

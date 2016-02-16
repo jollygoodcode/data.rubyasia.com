@@ -1,0 +1,20 @@
+{
+  "login": "supertrojan",
+  "id": 3222898,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3222898?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/supertrojan",
+  "html_url": "https://github.com/supertrojan",
+  "followers_url": "https://api.github.com/users/supertrojan/followers",
+  "following_url": "https://api.github.com/users/supertrojan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/supertrojan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/supertrojan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/supertrojan/subscriptions",
+  "organizations_url": "https://api.github.com/users/supertrojan/orgs",
+  "repos_url": "https://api.github.com/users/supertrojan/repos",
+  "events_url": "https://api.github.com/users/supertrojan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/supertrojan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

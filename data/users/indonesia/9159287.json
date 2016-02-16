@@ -1,0 +1,20 @@
+{
+  "login": "yodist",
+  "id": 9159287,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9159287?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yodist",
+  "html_url": "https://github.com/yodist",
+  "followers_url": "https://api.github.com/users/yodist/followers",
+  "following_url": "https://api.github.com/users/yodist/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yodist/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yodist/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yodist/subscriptions",
+  "organizations_url": "https://api.github.com/users/yodist/orgs",
+  "repos_url": "https://api.github.com/users/yodist/repos",
+  "events_url": "https://api.github.com/users/yodist/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yodist/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

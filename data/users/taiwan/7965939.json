@@ -1,0 +1,20 @@
+{
+  "login": "bob76828",
+  "id": 7965939,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7965939?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bob76828",
+  "html_url": "https://github.com/bob76828",
+  "followers_url": "https://api.github.com/users/bob76828/followers",
+  "following_url": "https://api.github.com/users/bob76828/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bob76828/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bob76828/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bob76828/subscriptions",
+  "organizations_url": "https://api.github.com/users/bob76828/orgs",
+  "repos_url": "https://api.github.com/users/bob76828/repos",
+  "events_url": "https://api.github.com/users/bob76828/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bob76828/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

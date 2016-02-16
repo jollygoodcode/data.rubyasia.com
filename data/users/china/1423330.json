@@ -1,0 +1,20 @@
+{
+  "login": "scchristopher",
+  "id": 1423330,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1423330?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/scchristopher",
+  "html_url": "https://github.com/scchristopher",
+  "followers_url": "https://api.github.com/users/scchristopher/followers",
+  "following_url": "https://api.github.com/users/scchristopher/following{/other_user}",
+  "gists_url": "https://api.github.com/users/scchristopher/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/scchristopher/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/scchristopher/subscriptions",
+  "organizations_url": "https://api.github.com/users/scchristopher/orgs",
+  "repos_url": "https://api.github.com/users/scchristopher/repos",
+  "events_url": "https://api.github.com/users/scchristopher/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/scchristopher/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

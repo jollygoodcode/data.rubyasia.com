@@ -1,0 +1,20 @@
+{
+  "login": "liangzan",
+  "id": 40402,
+  "avatar_url": "https://avatars.githubusercontent.com/u/40402?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/liangzan",
+  "html_url": "https://github.com/liangzan",
+  "followers_url": "https://api.github.com/users/liangzan/followers",
+  "following_url": "https://api.github.com/users/liangzan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/liangzan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/liangzan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/liangzan/subscriptions",
+  "organizations_url": "https://api.github.com/users/liangzan/orgs",
+  "repos_url": "https://api.github.com/users/liangzan/repos",
+  "events_url": "https://api.github.com/users/liangzan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/liangzan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

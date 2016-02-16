@@ -1,0 +1,20 @@
+{
+  "login": "bluezeal",
+  "id": 303068,
+  "avatar_url": "https://avatars.githubusercontent.com/u/303068?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bluezeal",
+  "html_url": "https://github.com/bluezeal",
+  "followers_url": "https://api.github.com/users/bluezeal/followers",
+  "following_url": "https://api.github.com/users/bluezeal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bluezeal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bluezeal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bluezeal/subscriptions",
+  "organizations_url": "https://api.github.com/users/bluezeal/orgs",
+  "repos_url": "https://api.github.com/users/bluezeal/repos",
+  "events_url": "https://api.github.com/users/bluezeal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bluezeal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

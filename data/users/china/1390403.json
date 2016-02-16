@@ -1,0 +1,20 @@
+{
+  "login": "ekohe",
+  "id": 1390403,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1390403?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ekohe",
+  "html_url": "https://github.com/ekohe",
+  "followers_url": "https://api.github.com/users/ekohe/followers",
+  "following_url": "https://api.github.com/users/ekohe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ekohe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ekohe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ekohe/subscriptions",
+  "organizations_url": "https://api.github.com/users/ekohe/orgs",
+  "repos_url": "https://api.github.com/users/ekohe/repos",
+  "events_url": "https://api.github.com/users/ekohe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ekohe/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

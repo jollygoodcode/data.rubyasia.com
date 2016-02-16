@@ -1,0 +1,20 @@
+{
+  "login": "gregoryzhou",
+  "id": 967899,
+  "avatar_url": "https://avatars.githubusercontent.com/u/967899?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gregoryzhou",
+  "html_url": "https://github.com/gregoryzhou",
+  "followers_url": "https://api.github.com/users/gregoryzhou/followers",
+  "following_url": "https://api.github.com/users/gregoryzhou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gregoryzhou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gregoryzhou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gregoryzhou/subscriptions",
+  "organizations_url": "https://api.github.com/users/gregoryzhou/orgs",
+  "repos_url": "https://api.github.com/users/gregoryzhou/repos",
+  "events_url": "https://api.github.com/users/gregoryzhou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gregoryzhou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

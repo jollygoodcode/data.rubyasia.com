@@ -1,0 +1,20 @@
+{
+  "login": "sbalbalosa",
+  "id": 251245,
+  "avatar_url": "https://avatars.githubusercontent.com/u/251245?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sbalbalosa",
+  "html_url": "https://github.com/sbalbalosa",
+  "followers_url": "https://api.github.com/users/sbalbalosa/followers",
+  "following_url": "https://api.github.com/users/sbalbalosa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sbalbalosa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sbalbalosa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sbalbalosa/subscriptions",
+  "organizations_url": "https://api.github.com/users/sbalbalosa/orgs",
+  "repos_url": "https://api.github.com/users/sbalbalosa/repos",
+  "events_url": "https://api.github.com/users/sbalbalosa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sbalbalosa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

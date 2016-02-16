@@ -1,0 +1,20 @@
+{
+  "login": "fkino",
+  "id": 12429,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12429?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fkino",
+  "html_url": "https://github.com/fkino",
+  "followers_url": "https://api.github.com/users/fkino/followers",
+  "following_url": "https://api.github.com/users/fkino/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fkino/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fkino/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fkino/subscriptions",
+  "organizations_url": "https://api.github.com/users/fkino/orgs",
+  "repos_url": "https://api.github.com/users/fkino/repos",
+  "events_url": "https://api.github.com/users/fkino/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fkino/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

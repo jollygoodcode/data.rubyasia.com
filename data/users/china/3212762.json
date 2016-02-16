@@ -1,0 +1,20 @@
+{
+  "login": "sxc",
+  "id": 3212762,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3212762?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sxc",
+  "html_url": "https://github.com/sxc",
+  "followers_url": "https://api.github.com/users/sxc/followers",
+  "following_url": "https://api.github.com/users/sxc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sxc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sxc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sxc/subscriptions",
+  "organizations_url": "https://api.github.com/users/sxc/orgs",
+  "repos_url": "https://api.github.com/users/sxc/repos",
+  "events_url": "https://api.github.com/users/sxc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sxc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

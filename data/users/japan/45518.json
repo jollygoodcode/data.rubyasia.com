@@ -1,0 +1,20 @@
+{
+  "login": "redmount",
+  "id": 45518,
+  "avatar_url": "https://avatars.githubusercontent.com/u/45518?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/redmount",
+  "html_url": "https://github.com/redmount",
+  "followers_url": "https://api.github.com/users/redmount/followers",
+  "following_url": "https://api.github.com/users/redmount/following{/other_user}",
+  "gists_url": "https://api.github.com/users/redmount/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/redmount/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/redmount/subscriptions",
+  "organizations_url": "https://api.github.com/users/redmount/orgs",
+  "repos_url": "https://api.github.com/users/redmount/repos",
+  "events_url": "https://api.github.com/users/redmount/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/redmount/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

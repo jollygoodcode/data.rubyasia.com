@@ -1,0 +1,20 @@
+{
+  "login": "nurisaID",
+  "id": 3329030,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3329030?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nurisaID",
+  "html_url": "https://github.com/nurisaID",
+  "followers_url": "https://api.github.com/users/nurisaID/followers",
+  "following_url": "https://api.github.com/users/nurisaID/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nurisaID/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nurisaID/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nurisaID/subscriptions",
+  "organizations_url": "https://api.github.com/users/nurisaID/orgs",
+  "repos_url": "https://api.github.com/users/nurisaID/repos",
+  "events_url": "https://api.github.com/users/nurisaID/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nurisaID/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

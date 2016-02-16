@@ -1,0 +1,20 @@
+{
+  "login": "sampot",
+  "id": 4504910,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4504910?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sampot",
+  "html_url": "https://github.com/sampot",
+  "followers_url": "https://api.github.com/users/sampot/followers",
+  "following_url": "https://api.github.com/users/sampot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sampot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sampot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sampot/subscriptions",
+  "organizations_url": "https://api.github.com/users/sampot/orgs",
+  "repos_url": "https://api.github.com/users/sampot/repos",
+  "events_url": "https://api.github.com/users/sampot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sampot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

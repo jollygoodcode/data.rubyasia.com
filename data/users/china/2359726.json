@@ -1,0 +1,20 @@
+{
+  "login": "simlegate",
+  "id": 2359726,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2359726?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simlegate",
+  "html_url": "https://github.com/simlegate",
+  "followers_url": "https://api.github.com/users/simlegate/followers",
+  "following_url": "https://api.github.com/users/simlegate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simlegate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simlegate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simlegate/subscriptions",
+  "organizations_url": "https://api.github.com/users/simlegate/orgs",
+  "repos_url": "https://api.github.com/users/simlegate/repos",
+  "events_url": "https://api.github.com/users/simlegate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simlegate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

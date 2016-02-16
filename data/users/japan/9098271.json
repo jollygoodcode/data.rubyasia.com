@@ -1,0 +1,20 @@
+{
+  "login": "jodema",
+  "id": 9098271,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9098271?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jodema",
+  "html_url": "https://github.com/jodema",
+  "followers_url": "https://api.github.com/users/jodema/followers",
+  "following_url": "https://api.github.com/users/jodema/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jodema/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jodema/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jodema/subscriptions",
+  "organizations_url": "https://api.github.com/users/jodema/orgs",
+  "repos_url": "https://api.github.com/users/jodema/repos",
+  "events_url": "https://api.github.com/users/jodema/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jodema/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

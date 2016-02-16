@@ -1,0 +1,20 @@
+{
+  "login": "menikpura",
+  "id": 1300778,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1300778?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/menikpura",
+  "html_url": "https://github.com/menikpura",
+  "followers_url": "https://api.github.com/users/menikpura/followers",
+  "following_url": "https://api.github.com/users/menikpura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/menikpura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/menikpura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/menikpura/subscriptions",
+  "organizations_url": "https://api.github.com/users/menikpura/orgs",
+  "repos_url": "https://api.github.com/users/menikpura/repos",
+  "events_url": "https://api.github.com/users/menikpura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/menikpura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

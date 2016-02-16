@@ -1,0 +1,20 @@
+{
+  "login": "yoolk",
+  "id": 2382282,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2382282?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoolk",
+  "html_url": "https://github.com/yoolk",
+  "followers_url": "https://api.github.com/users/yoolk/followers",
+  "following_url": "https://api.github.com/users/yoolk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoolk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoolk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoolk/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoolk/orgs",
+  "repos_url": "https://api.github.com/users/yoolk/repos",
+  "events_url": "https://api.github.com/users/yoolk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoolk/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

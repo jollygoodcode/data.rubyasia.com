@@ -1,0 +1,20 @@
+{
+  "login": "smbd",
+  "id": 142148,
+  "avatar_url": "https://avatars.githubusercontent.com/u/142148?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smbd",
+  "html_url": "https://github.com/smbd",
+  "followers_url": "https://api.github.com/users/smbd/followers",
+  "following_url": "https://api.github.com/users/smbd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smbd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smbd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smbd/subscriptions",
+  "organizations_url": "https://api.github.com/users/smbd/orgs",
+  "repos_url": "https://api.github.com/users/smbd/repos",
+  "events_url": "https://api.github.com/users/smbd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smbd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

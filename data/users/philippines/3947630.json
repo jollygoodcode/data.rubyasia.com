@@ -1,0 +1,20 @@
+{
+  "login": "joeyochua",
+  "id": 3947630,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3947630?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joeyochua",
+  "html_url": "https://github.com/joeyochua",
+  "followers_url": "https://api.github.com/users/joeyochua/followers",
+  "following_url": "https://api.github.com/users/joeyochua/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joeyochua/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joeyochua/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joeyochua/subscriptions",
+  "organizations_url": "https://api.github.com/users/joeyochua/orgs",
+  "repos_url": "https://api.github.com/users/joeyochua/repos",
+  "events_url": "https://api.github.com/users/joeyochua/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joeyochua/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

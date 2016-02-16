@@ -1,0 +1,20 @@
+{
+  "login": "buhrmi",
+  "id": 51177,
+  "avatar_url": "https://avatars.githubusercontent.com/u/51177?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/buhrmi",
+  "html_url": "https://github.com/buhrmi",
+  "followers_url": "https://api.github.com/users/buhrmi/followers",
+  "following_url": "https://api.github.com/users/buhrmi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/buhrmi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/buhrmi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/buhrmi/subscriptions",
+  "organizations_url": "https://api.github.com/users/buhrmi/orgs",
+  "repos_url": "https://api.github.com/users/buhrmi/repos",
+  "events_url": "https://api.github.com/users/buhrmi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/buhrmi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

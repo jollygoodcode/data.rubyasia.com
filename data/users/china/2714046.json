@@ -1,0 +1,20 @@
+{
+  "login": "humingchun",
+  "id": 2714046,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2714046?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/humingchun",
+  "html_url": "https://github.com/humingchun",
+  "followers_url": "https://api.github.com/users/humingchun/followers",
+  "following_url": "https://api.github.com/users/humingchun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/humingchun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/humingchun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/humingchun/subscriptions",
+  "organizations_url": "https://api.github.com/users/humingchun/orgs",
+  "repos_url": "https://api.github.com/users/humingchun/repos",
+  "events_url": "https://api.github.com/users/humingchun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/humingchun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

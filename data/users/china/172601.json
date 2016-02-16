@@ -1,0 +1,20 @@
+{
+  "login": "kidrane",
+  "id": 172601,
+  "avatar_url": "https://avatars.githubusercontent.com/u/172601?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kidrane",
+  "html_url": "https://github.com/kidrane",
+  "followers_url": "https://api.github.com/users/kidrane/followers",
+  "following_url": "https://api.github.com/users/kidrane/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kidrane/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kidrane/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kidrane/subscriptions",
+  "organizations_url": "https://api.github.com/users/kidrane/orgs",
+  "repos_url": "https://api.github.com/users/kidrane/repos",
+  "events_url": "https://api.github.com/users/kidrane/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kidrane/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

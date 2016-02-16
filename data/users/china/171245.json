@@ -1,0 +1,20 @@
+{
+  "login": "forresty",
+  "id": 171245,
+  "avatar_url": "https://avatars.githubusercontent.com/u/171245?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/forresty",
+  "html_url": "https://github.com/forresty",
+  "followers_url": "https://api.github.com/users/forresty/followers",
+  "following_url": "https://api.github.com/users/forresty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/forresty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/forresty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/forresty/subscriptions",
+  "organizations_url": "https://api.github.com/users/forresty/orgs",
+  "repos_url": "https://api.github.com/users/forresty/repos",
+  "events_url": "https://api.github.com/users/forresty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/forresty/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

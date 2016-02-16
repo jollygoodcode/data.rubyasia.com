@@ -1,0 +1,20 @@
+{
+  "login": "arvpande",
+  "id": 8789109,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8789109?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arvpande",
+  "html_url": "https://github.com/arvpande",
+  "followers_url": "https://api.github.com/users/arvpande/followers",
+  "following_url": "https://api.github.com/users/arvpande/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arvpande/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arvpande/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arvpande/subscriptions",
+  "organizations_url": "https://api.github.com/users/arvpande/orgs",
+  "repos_url": "https://api.github.com/users/arvpande/repos",
+  "events_url": "https://api.github.com/users/arvpande/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arvpande/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

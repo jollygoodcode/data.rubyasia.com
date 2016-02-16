@@ -1,0 +1,20 @@
+{
+  "login": "plics",
+  "id": 13031317,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13031317?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plics",
+  "html_url": "https://github.com/plics",
+  "followers_url": "https://api.github.com/users/plics/followers",
+  "following_url": "https://api.github.com/users/plics/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plics/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plics/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plics/subscriptions",
+  "organizations_url": "https://api.github.com/users/plics/orgs",
+  "repos_url": "https://api.github.com/users/plics/repos",
+  "events_url": "https://api.github.com/users/plics/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plics/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

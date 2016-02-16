@@ -1,0 +1,20 @@
+{
+  "login": "keigo-brook",
+  "id": 7877887,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7877887?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/keigo-brook",
+  "html_url": "https://github.com/keigo-brook",
+  "followers_url": "https://api.github.com/users/keigo-brook/followers",
+  "following_url": "https://api.github.com/users/keigo-brook/following{/other_user}",
+  "gists_url": "https://api.github.com/users/keigo-brook/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/keigo-brook/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/keigo-brook/subscriptions",
+  "organizations_url": "https://api.github.com/users/keigo-brook/orgs",
+  "repos_url": "https://api.github.com/users/keigo-brook/repos",
+  "events_url": "https://api.github.com/users/keigo-brook/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/keigo-brook/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

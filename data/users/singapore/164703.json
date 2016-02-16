@@ -1,0 +1,20 @@
+{
+  "login": "teohm",
+  "id": 164703,
+  "avatar_url": "https://avatars.githubusercontent.com/u/164703?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/teohm",
+  "html_url": "https://github.com/teohm",
+  "followers_url": "https://api.github.com/users/teohm/followers",
+  "following_url": "https://api.github.com/users/teohm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/teohm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/teohm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/teohm/subscriptions",
+  "organizations_url": "https://api.github.com/users/teohm/orgs",
+  "repos_url": "https://api.github.com/users/teohm/repos",
+  "events_url": "https://api.github.com/users/teohm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/teohm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

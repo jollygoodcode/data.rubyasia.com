@@ -1,0 +1,20 @@
+{
+  "login": "parolkar",
+  "id": 4930,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4930?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/parolkar",
+  "html_url": "https://github.com/parolkar",
+  "followers_url": "https://api.github.com/users/parolkar/followers",
+  "following_url": "https://api.github.com/users/parolkar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/parolkar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/parolkar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/parolkar/subscriptions",
+  "organizations_url": "https://api.github.com/users/parolkar/orgs",
+  "repos_url": "https://api.github.com/users/parolkar/repos",
+  "events_url": "https://api.github.com/users/parolkar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/parolkar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

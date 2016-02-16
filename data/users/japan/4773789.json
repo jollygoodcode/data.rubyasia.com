@@ -1,0 +1,20 @@
+{
+  "login": "tagawahiro",
+  "id": 4773789,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4773789?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tagawahiro",
+  "html_url": "https://github.com/tagawahiro",
+  "followers_url": "https://api.github.com/users/tagawahiro/followers",
+  "following_url": "https://api.github.com/users/tagawahiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tagawahiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tagawahiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tagawahiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/tagawahiro/orgs",
+  "repos_url": "https://api.github.com/users/tagawahiro/repos",
+  "events_url": "https://api.github.com/users/tagawahiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tagawahiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

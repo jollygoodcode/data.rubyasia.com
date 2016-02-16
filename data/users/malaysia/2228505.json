@@ -1,0 +1,20 @@
+{
+  "login": "jameskhoo",
+  "id": 2228505,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2228505?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jameskhoo",
+  "html_url": "https://github.com/jameskhoo",
+  "followers_url": "https://api.github.com/users/jameskhoo/followers",
+  "following_url": "https://api.github.com/users/jameskhoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jameskhoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jameskhoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jameskhoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/jameskhoo/orgs",
+  "repos_url": "https://api.github.com/users/jameskhoo/repos",
+  "events_url": "https://api.github.com/users/jameskhoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jameskhoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

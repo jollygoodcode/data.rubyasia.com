@@ -1,0 +1,20 @@
+{
+  "login": "shreyas123",
+  "id": 765113,
+  "avatar_url": "https://avatars.githubusercontent.com/u/765113?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shreyas123",
+  "html_url": "https://github.com/shreyas123",
+  "followers_url": "https://api.github.com/users/shreyas123/followers",
+  "following_url": "https://api.github.com/users/shreyas123/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shreyas123/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shreyas123/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shreyas123/subscriptions",
+  "organizations_url": "https://api.github.com/users/shreyas123/orgs",
+  "repos_url": "https://api.github.com/users/shreyas123/repos",
+  "events_url": "https://api.github.com/users/shreyas123/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shreyas123/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kobethuy",
+  "id": 3453289,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3453289?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kobethuy",
+  "html_url": "https://github.com/kobethuy",
+  "followers_url": "https://api.github.com/users/kobethuy/followers",
+  "following_url": "https://api.github.com/users/kobethuy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kobethuy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kobethuy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kobethuy/subscriptions",
+  "organizations_url": "https://api.github.com/users/kobethuy/orgs",
+  "repos_url": "https://api.github.com/users/kobethuy/repos",
+  "events_url": "https://api.github.com/users/kobethuy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kobethuy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

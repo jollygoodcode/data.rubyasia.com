@@ -1,0 +1,20 @@
+{
+  "login": "wangsheng",
+  "id": 169672,
+  "avatar_url": "https://avatars.githubusercontent.com/u/169672?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wangsheng",
+  "html_url": "https://github.com/wangsheng",
+  "followers_url": "https://api.github.com/users/wangsheng/followers",
+  "following_url": "https://api.github.com/users/wangsheng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wangsheng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wangsheng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wangsheng/subscriptions",
+  "organizations_url": "https://api.github.com/users/wangsheng/orgs",
+  "repos_url": "https://api.github.com/users/wangsheng/repos",
+  "events_url": "https://api.github.com/users/wangsheng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wangsheng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

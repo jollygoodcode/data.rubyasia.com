@@ -1,0 +1,20 @@
+{
+  "login": "tomwot",
+  "id": 4500852,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4500852?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tomwot",
+  "html_url": "https://github.com/tomwot",
+  "followers_url": "https://api.github.com/users/tomwot/followers",
+  "following_url": "https://api.github.com/users/tomwot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tomwot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tomwot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tomwot/subscriptions",
+  "organizations_url": "https://api.github.com/users/tomwot/orgs",
+  "repos_url": "https://api.github.com/users/tomwot/repos",
+  "events_url": "https://api.github.com/users/tomwot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tomwot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

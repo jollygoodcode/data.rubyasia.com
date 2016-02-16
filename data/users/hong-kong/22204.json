@@ -1,0 +1,20 @@
+{
+  "login": "gensen",
+  "id": 22204,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22204?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gensen",
+  "html_url": "https://github.com/gensen",
+  "followers_url": "https://api.github.com/users/gensen/followers",
+  "following_url": "https://api.github.com/users/gensen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gensen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gensen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gensen/subscriptions",
+  "organizations_url": "https://api.github.com/users/gensen/orgs",
+  "repos_url": "https://api.github.com/users/gensen/repos",
+  "events_url": "https://api.github.com/users/gensen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gensen/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

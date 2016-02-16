@@ -1,0 +1,20 @@
+{
+  "login": "otetsu",
+  "id": 6098906,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6098906?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/otetsu",
+  "html_url": "https://github.com/otetsu",
+  "followers_url": "https://api.github.com/users/otetsu/followers",
+  "following_url": "https://api.github.com/users/otetsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/otetsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/otetsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/otetsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/otetsu/orgs",
+  "repos_url": "https://api.github.com/users/otetsu/repos",
+  "events_url": "https://api.github.com/users/otetsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/otetsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "harveyico",
+  "id": 2908118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2908118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harveyico",
+  "html_url": "https://github.com/harveyico",
+  "followers_url": "https://api.github.com/users/harveyico/followers",
+  "following_url": "https://api.github.com/users/harveyico/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harveyico/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harveyico/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harveyico/subscriptions",
+  "organizations_url": "https://api.github.com/users/harveyico/orgs",
+  "repos_url": "https://api.github.com/users/harveyico/repos",
+  "events_url": "https://api.github.com/users/harveyico/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harveyico/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "acuizon",
+  "id": 105160,
+  "avatar_url": "https://avatars.githubusercontent.com/u/105160?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/acuizon",
+  "html_url": "https://github.com/acuizon",
+  "followers_url": "https://api.github.com/users/acuizon/followers",
+  "following_url": "https://api.github.com/users/acuizon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/acuizon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/acuizon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/acuizon/subscriptions",
+  "organizations_url": "https://api.github.com/users/acuizon/orgs",
+  "repos_url": "https://api.github.com/users/acuizon/repos",
+  "events_url": "https://api.github.com/users/acuizon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/acuizon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

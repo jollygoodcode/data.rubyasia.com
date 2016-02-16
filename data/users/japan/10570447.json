@@ -1,0 +1,20 @@
+{
+  "login": "masahiro87",
+  "id": 10570447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10570447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masahiro87",
+  "html_url": "https://github.com/masahiro87",
+  "followers_url": "https://api.github.com/users/masahiro87/followers",
+  "following_url": "https://api.github.com/users/masahiro87/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masahiro87/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masahiro87/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masahiro87/subscriptions",
+  "organizations_url": "https://api.github.com/users/masahiro87/orgs",
+  "repos_url": "https://api.github.com/users/masahiro87/repos",
+  "events_url": "https://api.github.com/users/masahiro87/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masahiro87/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

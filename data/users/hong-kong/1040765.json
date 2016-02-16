@@ -1,0 +1,20 @@
+{
+  "login": "mortensorensen",
+  "id": 1040765,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1040765?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mortensorensen",
+  "html_url": "https://github.com/mortensorensen",
+  "followers_url": "https://api.github.com/users/mortensorensen/followers",
+  "following_url": "https://api.github.com/users/mortensorensen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mortensorensen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mortensorensen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mortensorensen/subscriptions",
+  "organizations_url": "https://api.github.com/users/mortensorensen/orgs",
+  "repos_url": "https://api.github.com/users/mortensorensen/repos",
+  "events_url": "https://api.github.com/users/mortensorensen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mortensorensen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

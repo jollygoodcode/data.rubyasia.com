@@ -1,0 +1,20 @@
+{
+  "login": "eddiekao",
+  "id": 10593015,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10593015?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eddiekao",
+  "html_url": "https://github.com/eddiekao",
+  "followers_url": "https://api.github.com/users/eddiekao/followers",
+  "following_url": "https://api.github.com/users/eddiekao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eddiekao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eddiekao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eddiekao/subscriptions",
+  "organizations_url": "https://api.github.com/users/eddiekao/orgs",
+  "repos_url": "https://api.github.com/users/eddiekao/repos",
+  "events_url": "https://api.github.com/users/eddiekao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eddiekao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

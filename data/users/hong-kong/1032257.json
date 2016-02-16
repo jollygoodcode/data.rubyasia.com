@@ -1,0 +1,20 @@
+{
+  "login": "samdharma",
+  "id": 1032257,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1032257?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/samdharma",
+  "html_url": "https://github.com/samdharma",
+  "followers_url": "https://api.github.com/users/samdharma/followers",
+  "following_url": "https://api.github.com/users/samdharma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/samdharma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/samdharma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/samdharma/subscriptions",
+  "organizations_url": "https://api.github.com/users/samdharma/orgs",
+  "repos_url": "https://api.github.com/users/samdharma/repos",
+  "events_url": "https://api.github.com/users/samdharma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/samdharma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

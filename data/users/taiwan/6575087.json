@@ -1,0 +1,20 @@
+{
+  "login": "yceyang",
+  "id": 6575087,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6575087?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yceyang",
+  "html_url": "https://github.com/yceyang",
+  "followers_url": "https://api.github.com/users/yceyang/followers",
+  "following_url": "https://api.github.com/users/yceyang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yceyang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yceyang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yceyang/subscriptions",
+  "organizations_url": "https://api.github.com/users/yceyang/orgs",
+  "repos_url": "https://api.github.com/users/yceyang/repos",
+  "events_url": "https://api.github.com/users/yceyang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yceyang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

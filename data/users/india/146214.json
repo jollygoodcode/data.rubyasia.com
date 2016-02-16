@@ -1,0 +1,20 @@
+{
+  "login": "vijaydev",
+  "id": 146214,
+  "avatar_url": "https://avatars.githubusercontent.com/u/146214?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vijaydev",
+  "html_url": "https://github.com/vijaydev",
+  "followers_url": "https://api.github.com/users/vijaydev/followers",
+  "following_url": "https://api.github.com/users/vijaydev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vijaydev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vijaydev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vijaydev/subscriptions",
+  "organizations_url": "https://api.github.com/users/vijaydev/orgs",
+  "repos_url": "https://api.github.com/users/vijaydev/repos",
+  "events_url": "https://api.github.com/users/vijaydev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vijaydev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

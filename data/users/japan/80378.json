@@ -1,0 +1,20 @@
+{
+  "login": "kiyoka",
+  "id": 80378,
+  "avatar_url": "https://avatars.githubusercontent.com/u/80378?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kiyoka",
+  "html_url": "https://github.com/kiyoka",
+  "followers_url": "https://api.github.com/users/kiyoka/followers",
+  "following_url": "https://api.github.com/users/kiyoka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kiyoka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kiyoka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kiyoka/subscriptions",
+  "organizations_url": "https://api.github.com/users/kiyoka/orgs",
+  "repos_url": "https://api.github.com/users/kiyoka/repos",
+  "events_url": "https://api.github.com/users/kiyoka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kiyoka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

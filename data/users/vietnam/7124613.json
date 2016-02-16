@@ -1,0 +1,20 @@
+{
+  "login": "khuonggau",
+  "id": 7124613,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7124613?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khuonggau",
+  "html_url": "https://github.com/khuonggau",
+  "followers_url": "https://api.github.com/users/khuonggau/followers",
+  "following_url": "https://api.github.com/users/khuonggau/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khuonggau/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khuonggau/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khuonggau/subscriptions",
+  "organizations_url": "https://api.github.com/users/khuonggau/orgs",
+  "repos_url": "https://api.github.com/users/khuonggau/repos",
+  "events_url": "https://api.github.com/users/khuonggau/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khuonggau/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

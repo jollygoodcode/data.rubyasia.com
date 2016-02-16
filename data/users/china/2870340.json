@@ -1,0 +1,20 @@
+{
+  "login": "TRoam",
+  "id": 2870340,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2870340?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TRoam",
+  "html_url": "https://github.com/TRoam",
+  "followers_url": "https://api.github.com/users/TRoam/followers",
+  "following_url": "https://api.github.com/users/TRoam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TRoam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TRoam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TRoam/subscriptions",
+  "organizations_url": "https://api.github.com/users/TRoam/orgs",
+  "repos_url": "https://api.github.com/users/TRoam/repos",
+  "events_url": "https://api.github.com/users/TRoam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TRoam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

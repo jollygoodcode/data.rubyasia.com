@@ -1,0 +1,20 @@
+{
+  "login": "wites",
+  "id": 1556085,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1556085?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wites",
+  "html_url": "https://github.com/wites",
+  "followers_url": "https://api.github.com/users/wites/followers",
+  "following_url": "https://api.github.com/users/wites/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wites/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wites/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wites/subscriptions",
+  "organizations_url": "https://api.github.com/users/wites/orgs",
+  "repos_url": "https://api.github.com/users/wites/repos",
+  "events_url": "https://api.github.com/users/wites/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wites/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

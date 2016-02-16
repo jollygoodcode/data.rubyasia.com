@@ -1,0 +1,20 @@
+{
+  "login": "chenillen",
+  "id": 10745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chenillen",
+  "html_url": "https://github.com/chenillen",
+  "followers_url": "https://api.github.com/users/chenillen/followers",
+  "following_url": "https://api.github.com/users/chenillen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chenillen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chenillen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chenillen/subscriptions",
+  "organizations_url": "https://api.github.com/users/chenillen/orgs",
+  "repos_url": "https://api.github.com/users/chenillen/repos",
+  "events_url": "https://api.github.com/users/chenillen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chenillen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

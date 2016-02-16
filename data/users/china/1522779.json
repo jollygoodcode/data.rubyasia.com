@@ -1,0 +1,20 @@
+{
+  "login": "eDoctor",
+  "id": 1522779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1522779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eDoctor",
+  "html_url": "https://github.com/eDoctor",
+  "followers_url": "https://api.github.com/users/eDoctor/followers",
+  "following_url": "https://api.github.com/users/eDoctor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eDoctor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eDoctor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eDoctor/subscriptions",
+  "organizations_url": "https://api.github.com/users/eDoctor/orgs",
+  "repos_url": "https://api.github.com/users/eDoctor/repos",
+  "events_url": "https://api.github.com/users/eDoctor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eDoctor/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

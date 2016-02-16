@@ -1,0 +1,20 @@
+{
+  "login": "TPCD",
+  "id": 11970652,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11970652?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TPCD",
+  "html_url": "https://github.com/TPCD",
+  "followers_url": "https://api.github.com/users/TPCD/followers",
+  "following_url": "https://api.github.com/users/TPCD/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TPCD/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TPCD/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TPCD/subscriptions",
+  "organizations_url": "https://api.github.com/users/TPCD/orgs",
+  "repos_url": "https://api.github.com/users/TPCD/repos",
+  "events_url": "https://api.github.com/users/TPCD/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TPCD/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "zjgsamuel",
+  "id": 1848804,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1848804?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zjgsamuel",
+  "html_url": "https://github.com/zjgsamuel",
+  "followers_url": "https://api.github.com/users/zjgsamuel/followers",
+  "following_url": "https://api.github.com/users/zjgsamuel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zjgsamuel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zjgsamuel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zjgsamuel/subscriptions",
+  "organizations_url": "https://api.github.com/users/zjgsamuel/orgs",
+  "repos_url": "https://api.github.com/users/zjgsamuel/repos",
+  "events_url": "https://api.github.com/users/zjgsamuel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zjgsamuel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

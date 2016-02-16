@@ -1,0 +1,20 @@
+{
+  "login": "sitri",
+  "id": 2140131,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2140131?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sitri",
+  "html_url": "https://github.com/sitri",
+  "followers_url": "https://api.github.com/users/sitri/followers",
+  "following_url": "https://api.github.com/users/sitri/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sitri/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sitri/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sitri/subscriptions",
+  "organizations_url": "https://api.github.com/users/sitri/orgs",
+  "repos_url": "https://api.github.com/users/sitri/repos",
+  "events_url": "https://api.github.com/users/sitri/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sitri/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

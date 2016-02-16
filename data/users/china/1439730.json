@@ -1,0 +1,20 @@
+{
+  "login": "tedeyang",
+  "id": 1439730,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1439730?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tedeyang",
+  "html_url": "https://github.com/tedeyang",
+  "followers_url": "https://api.github.com/users/tedeyang/followers",
+  "following_url": "https://api.github.com/users/tedeyang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tedeyang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tedeyang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tedeyang/subscriptions",
+  "organizations_url": "https://api.github.com/users/tedeyang/orgs",
+  "repos_url": "https://api.github.com/users/tedeyang/repos",
+  "events_url": "https://api.github.com/users/tedeyang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tedeyang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

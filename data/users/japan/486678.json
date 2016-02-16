@@ -1,0 +1,20 @@
+{
+  "login": "mshibuya",
+  "id": 486678,
+  "avatar_url": "https://avatars.githubusercontent.com/u/486678?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mshibuya",
+  "html_url": "https://github.com/mshibuya",
+  "followers_url": "https://api.github.com/users/mshibuya/followers",
+  "following_url": "https://api.github.com/users/mshibuya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mshibuya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mshibuya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mshibuya/subscriptions",
+  "organizations_url": "https://api.github.com/users/mshibuya/orgs",
+  "repos_url": "https://api.github.com/users/mshibuya/repos",
+  "events_url": "https://api.github.com/users/mshibuya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mshibuya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

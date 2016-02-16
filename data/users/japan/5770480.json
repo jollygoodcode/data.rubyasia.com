@@ -1,0 +1,20 @@
+{
+  "login": "ykws",
+  "id": 5770480,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5770480?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ykws",
+  "html_url": "https://github.com/ykws",
+  "followers_url": "https://api.github.com/users/ykws/followers",
+  "following_url": "https://api.github.com/users/ykws/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ykws/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ykws/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ykws/subscriptions",
+  "organizations_url": "https://api.github.com/users/ykws/orgs",
+  "repos_url": "https://api.github.com/users/ykws/repos",
+  "events_url": "https://api.github.com/users/ykws/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ykws/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

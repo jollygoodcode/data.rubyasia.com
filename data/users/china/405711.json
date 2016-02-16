@@ -1,0 +1,20 @@
+{
+  "login": "maxazure",
+  "id": 405711,
+  "avatar_url": "https://avatars.githubusercontent.com/u/405711?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maxazure",
+  "html_url": "https://github.com/maxazure",
+  "followers_url": "https://api.github.com/users/maxazure/followers",
+  "following_url": "https://api.github.com/users/maxazure/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maxazure/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maxazure/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maxazure/subscriptions",
+  "organizations_url": "https://api.github.com/users/maxazure/orgs",
+  "repos_url": "https://api.github.com/users/maxazure/repos",
+  "events_url": "https://api.github.com/users/maxazure/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maxazure/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mitaku",
+  "id": 206473,
+  "avatar_url": "https://avatars.githubusercontent.com/u/206473?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mitaku",
+  "html_url": "https://github.com/mitaku",
+  "followers_url": "https://api.github.com/users/mitaku/followers",
+  "following_url": "https://api.github.com/users/mitaku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mitaku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mitaku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mitaku/subscriptions",
+  "organizations_url": "https://api.github.com/users/mitaku/orgs",
+  "repos_url": "https://api.github.com/users/mitaku/repos",
+  "events_url": "https://api.github.com/users/mitaku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mitaku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

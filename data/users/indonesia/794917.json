@@ -1,0 +1,20 @@
+{
+  "login": "joefebrian",
+  "id": 794917,
+  "avatar_url": "https://avatars.githubusercontent.com/u/794917?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joefebrian",
+  "html_url": "https://github.com/joefebrian",
+  "followers_url": "https://api.github.com/users/joefebrian/followers",
+  "following_url": "https://api.github.com/users/joefebrian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joefebrian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joefebrian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joefebrian/subscriptions",
+  "organizations_url": "https://api.github.com/users/joefebrian/orgs",
+  "repos_url": "https://api.github.com/users/joefebrian/repos",
+  "events_url": "https://api.github.com/users/joefebrian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joefebrian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

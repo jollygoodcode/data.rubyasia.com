@@ -1,0 +1,20 @@
+{
+  "login": "shihokambara",
+  "id": 11058278,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11058278?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shihokambara",
+  "html_url": "https://github.com/shihokambara",
+  "followers_url": "https://api.github.com/users/shihokambara/followers",
+  "following_url": "https://api.github.com/users/shihokambara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shihokambara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shihokambara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shihokambara/subscriptions",
+  "organizations_url": "https://api.github.com/users/shihokambara/orgs",
+  "repos_url": "https://api.github.com/users/shihokambara/repos",
+  "events_url": "https://api.github.com/users/shihokambara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shihokambara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

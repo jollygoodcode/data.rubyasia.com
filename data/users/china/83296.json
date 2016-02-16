@@ -1,0 +1,20 @@
+{
+  "login": "hlee",
+  "id": 83296,
+  "avatar_url": "https://avatars.githubusercontent.com/u/83296?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hlee",
+  "html_url": "https://github.com/hlee",
+  "followers_url": "https://api.github.com/users/hlee/followers",
+  "following_url": "https://api.github.com/users/hlee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hlee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hlee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hlee/subscriptions",
+  "organizations_url": "https://api.github.com/users/hlee/orgs",
+  "repos_url": "https://api.github.com/users/hlee/repos",
+  "events_url": "https://api.github.com/users/hlee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hlee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

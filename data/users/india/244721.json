@@ -1,0 +1,20 @@
+{
+  "login": "jagira",
+  "id": 244721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/244721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jagira",
+  "html_url": "https://github.com/jagira",
+  "followers_url": "https://api.github.com/users/jagira/followers",
+  "following_url": "https://api.github.com/users/jagira/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jagira/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jagira/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jagira/subscriptions",
+  "organizations_url": "https://api.github.com/users/jagira/orgs",
+  "repos_url": "https://api.github.com/users/jagira/repos",
+  "events_url": "https://api.github.com/users/jagira/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jagira/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

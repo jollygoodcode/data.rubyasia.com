@@ -1,0 +1,20 @@
+{
+  "login": "VincentZhao",
+  "id": 1323773,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1323773?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/VincentZhao",
+  "html_url": "https://github.com/VincentZhao",
+  "followers_url": "https://api.github.com/users/VincentZhao/followers",
+  "following_url": "https://api.github.com/users/VincentZhao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/VincentZhao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/VincentZhao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/VincentZhao/subscriptions",
+  "organizations_url": "https://api.github.com/users/VincentZhao/orgs",
+  "repos_url": "https://api.github.com/users/VincentZhao/repos",
+  "events_url": "https://api.github.com/users/VincentZhao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/VincentZhao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Agiley",
+  "id": 13743,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13743?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Agiley",
+  "html_url": "https://github.com/Agiley",
+  "followers_url": "https://api.github.com/users/Agiley/followers",
+  "following_url": "https://api.github.com/users/Agiley/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Agiley/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Agiley/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Agiley/subscriptions",
+  "organizations_url": "https://api.github.com/users/Agiley/orgs",
+  "repos_url": "https://api.github.com/users/Agiley/repos",
+  "events_url": "https://api.github.com/users/Agiley/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Agiley/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

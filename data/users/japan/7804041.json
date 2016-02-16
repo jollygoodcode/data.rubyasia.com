@@ -1,0 +1,20 @@
+{
+  "login": "f-toru",
+  "id": 7804041,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7804041?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/f-toru",
+  "html_url": "https://github.com/f-toru",
+  "followers_url": "https://api.github.com/users/f-toru/followers",
+  "following_url": "https://api.github.com/users/f-toru/following{/other_user}",
+  "gists_url": "https://api.github.com/users/f-toru/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/f-toru/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/f-toru/subscriptions",
+  "organizations_url": "https://api.github.com/users/f-toru/orgs",
+  "repos_url": "https://api.github.com/users/f-toru/repos",
+  "events_url": "https://api.github.com/users/f-toru/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/f-toru/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wallgeek",
+  "id": 2018627,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2018627?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wallgeek",
+  "html_url": "https://github.com/wallgeek",
+  "followers_url": "https://api.github.com/users/wallgeek/followers",
+  "following_url": "https://api.github.com/users/wallgeek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wallgeek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wallgeek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wallgeek/subscriptions",
+  "organizations_url": "https://api.github.com/users/wallgeek/orgs",
+  "repos_url": "https://api.github.com/users/wallgeek/repos",
+  "events_url": "https://api.github.com/users/wallgeek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wallgeek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

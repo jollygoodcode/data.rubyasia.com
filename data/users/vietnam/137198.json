@@ -1,0 +1,20 @@
+{
+  "login": "dinhtrung",
+  "id": 137198,
+  "avatar_url": "https://avatars.githubusercontent.com/u/137198?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dinhtrung",
+  "html_url": "https://github.com/dinhtrung",
+  "followers_url": "https://api.github.com/users/dinhtrung/followers",
+  "following_url": "https://api.github.com/users/dinhtrung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dinhtrung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dinhtrung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dinhtrung/subscriptions",
+  "organizations_url": "https://api.github.com/users/dinhtrung/orgs",
+  "repos_url": "https://api.github.com/users/dinhtrung/repos",
+  "events_url": "https://api.github.com/users/dinhtrung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dinhtrung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

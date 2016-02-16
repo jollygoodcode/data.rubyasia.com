@@ -1,0 +1,20 @@
+{
+  "login": "murashin",
+  "id": 1423011,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1423011?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/murashin",
+  "html_url": "https://github.com/murashin",
+  "followers_url": "https://api.github.com/users/murashin/followers",
+  "following_url": "https://api.github.com/users/murashin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/murashin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/murashin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/murashin/subscriptions",
+  "organizations_url": "https://api.github.com/users/murashin/orgs",
+  "repos_url": "https://api.github.com/users/murashin/repos",
+  "events_url": "https://api.github.com/users/murashin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/murashin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

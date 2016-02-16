@@ -1,0 +1,20 @@
+{
+  "login": "benejo",
+  "id": 8160835,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8160835?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/benejo",
+  "html_url": "https://github.com/benejo",
+  "followers_url": "https://api.github.com/users/benejo/followers",
+  "following_url": "https://api.github.com/users/benejo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/benejo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/benejo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/benejo/subscriptions",
+  "organizations_url": "https://api.github.com/users/benejo/orgs",
+  "repos_url": "https://api.github.com/users/benejo/repos",
+  "events_url": "https://api.github.com/users/benejo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/benejo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "IsaoCorp",
+  "id": 3634399,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3634399?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/IsaoCorp",
+  "html_url": "https://github.com/IsaoCorp",
+  "followers_url": "https://api.github.com/users/IsaoCorp/followers",
+  "following_url": "https://api.github.com/users/IsaoCorp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/IsaoCorp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/IsaoCorp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/IsaoCorp/subscriptions",
+  "organizations_url": "https://api.github.com/users/IsaoCorp/orgs",
+  "repos_url": "https://api.github.com/users/IsaoCorp/repos",
+  "events_url": "https://api.github.com/users/IsaoCorp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/IsaoCorp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

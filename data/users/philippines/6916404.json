@@ -1,0 +1,20 @@
+{
+  "login": "eaconde",
+  "id": 6916404,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6916404?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eaconde",
+  "html_url": "https://github.com/eaconde",
+  "followers_url": "https://api.github.com/users/eaconde/followers",
+  "following_url": "https://api.github.com/users/eaconde/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eaconde/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eaconde/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eaconde/subscriptions",
+  "organizations_url": "https://api.github.com/users/eaconde/orgs",
+  "repos_url": "https://api.github.com/users/eaconde/repos",
+  "events_url": "https://api.github.com/users/eaconde/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eaconde/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

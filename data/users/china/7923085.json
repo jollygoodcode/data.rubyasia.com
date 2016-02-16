@@ -1,0 +1,20 @@
+{
+  "login": "pfDave",
+  "id": 7923085,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7923085?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pfDave",
+  "html_url": "https://github.com/pfDave",
+  "followers_url": "https://api.github.com/users/pfDave/followers",
+  "following_url": "https://api.github.com/users/pfDave/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pfDave/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pfDave/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pfDave/subscriptions",
+  "organizations_url": "https://api.github.com/users/pfDave/orgs",
+  "repos_url": "https://api.github.com/users/pfDave/repos",
+  "events_url": "https://api.github.com/users/pfDave/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pfDave/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

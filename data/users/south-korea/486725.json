@@ -1,0 +1,20 @@
+{
+  "login": "staricex",
+  "id": 486725,
+  "avatar_url": "https://avatars.githubusercontent.com/u/486725?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/staricex",
+  "html_url": "https://github.com/staricex",
+  "followers_url": "https://api.github.com/users/staricex/followers",
+  "following_url": "https://api.github.com/users/staricex/following{/other_user}",
+  "gists_url": "https://api.github.com/users/staricex/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/staricex/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/staricex/subscriptions",
+  "organizations_url": "https://api.github.com/users/staricex/orgs",
+  "repos_url": "https://api.github.com/users/staricex/repos",
+  "events_url": "https://api.github.com/users/staricex/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/staricex/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "indication",
+  "id": 47577,
+  "avatar_url": "https://avatars.githubusercontent.com/u/47577?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/indication",
+  "html_url": "https://github.com/indication",
+  "followers_url": "https://api.github.com/users/indication/followers",
+  "following_url": "https://api.github.com/users/indication/following{/other_user}",
+  "gists_url": "https://api.github.com/users/indication/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/indication/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/indication/subscriptions",
+  "organizations_url": "https://api.github.com/users/indication/orgs",
+  "repos_url": "https://api.github.com/users/indication/repos",
+  "events_url": "https://api.github.com/users/indication/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/indication/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

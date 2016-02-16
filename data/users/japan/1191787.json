@@ -1,0 +1,20 @@
+{
+  "login": "gety",
+  "id": 1191787,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1191787?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gety",
+  "html_url": "https://github.com/gety",
+  "followers_url": "https://api.github.com/users/gety/followers",
+  "following_url": "https://api.github.com/users/gety/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gety/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gety/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gety/subscriptions",
+  "organizations_url": "https://api.github.com/users/gety/orgs",
+  "repos_url": "https://api.github.com/users/gety/repos",
+  "events_url": "https://api.github.com/users/gety/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gety/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

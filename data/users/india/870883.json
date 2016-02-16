@@ -1,0 +1,20 @@
+{
+  "login": "yournextleap",
+  "id": 870883,
+  "avatar_url": "https://avatars.githubusercontent.com/u/870883?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yournextleap",
+  "html_url": "https://github.com/yournextleap",
+  "followers_url": "https://api.github.com/users/yournextleap/followers",
+  "following_url": "https://api.github.com/users/yournextleap/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yournextleap/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yournextleap/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yournextleap/subscriptions",
+  "organizations_url": "https://api.github.com/users/yournextleap/orgs",
+  "repos_url": "https://api.github.com/users/yournextleap/repos",
+  "events_url": "https://api.github.com/users/yournextleap/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yournextleap/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

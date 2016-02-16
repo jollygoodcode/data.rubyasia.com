@@ -1,0 +1,20 @@
+{
+  "login": "deytack",
+  "id": 178572,
+  "avatar_url": "https://avatars.githubusercontent.com/u/178572?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deytack",
+  "html_url": "https://github.com/deytack",
+  "followers_url": "https://api.github.com/users/deytack/followers",
+  "following_url": "https://api.github.com/users/deytack/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deytack/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deytack/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deytack/subscriptions",
+  "organizations_url": "https://api.github.com/users/deytack/orgs",
+  "repos_url": "https://api.github.com/users/deytack/repos",
+  "events_url": "https://api.github.com/users/deytack/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deytack/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

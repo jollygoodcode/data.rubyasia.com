@@ -1,0 +1,20 @@
+{
+  "login": "iamzhangdabei",
+  "id": 781311,
+  "avatar_url": "https://avatars.githubusercontent.com/u/781311?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iamzhangdabei",
+  "html_url": "https://github.com/iamzhangdabei",
+  "followers_url": "https://api.github.com/users/iamzhangdabei/followers",
+  "following_url": "https://api.github.com/users/iamzhangdabei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iamzhangdabei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iamzhangdabei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iamzhangdabei/subscriptions",
+  "organizations_url": "https://api.github.com/users/iamzhangdabei/orgs",
+  "repos_url": "https://api.github.com/users/iamzhangdabei/repos",
+  "events_url": "https://api.github.com/users/iamzhangdabei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iamzhangdabei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "maverick2000",
+  "id": 2840852,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2840852?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maverick2000",
+  "html_url": "https://github.com/maverick2000",
+  "followers_url": "https://api.github.com/users/maverick2000/followers",
+  "following_url": "https://api.github.com/users/maverick2000/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maverick2000/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maverick2000/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maverick2000/subscriptions",
+  "organizations_url": "https://api.github.com/users/maverick2000/orgs",
+  "repos_url": "https://api.github.com/users/maverick2000/repos",
+  "events_url": "https://api.github.com/users/maverick2000/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maverick2000/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

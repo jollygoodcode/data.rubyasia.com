@@ -1,0 +1,20 @@
+{
+  "login": "daemonsy",
+  "id": 1251946,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1251946?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daemonsy",
+  "html_url": "https://github.com/daemonsy",
+  "followers_url": "https://api.github.com/users/daemonsy/followers",
+  "following_url": "https://api.github.com/users/daemonsy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daemonsy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daemonsy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daemonsy/subscriptions",
+  "organizations_url": "https://api.github.com/users/daemonsy/orgs",
+  "repos_url": "https://api.github.com/users/daemonsy/repos",
+  "events_url": "https://api.github.com/users/daemonsy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daemonsy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

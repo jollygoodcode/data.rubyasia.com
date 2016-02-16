@@ -1,0 +1,20 @@
+{
+  "login": "dex1t",
+  "id": 870741,
+  "avatar_url": "https://avatars.githubusercontent.com/u/870741?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dex1t",
+  "html_url": "https://github.com/dex1t",
+  "followers_url": "https://api.github.com/users/dex1t/followers",
+  "following_url": "https://api.github.com/users/dex1t/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dex1t/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dex1t/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dex1t/subscriptions",
+  "organizations_url": "https://api.github.com/users/dex1t/orgs",
+  "repos_url": "https://api.github.com/users/dex1t/repos",
+  "events_url": "https://api.github.com/users/dex1t/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dex1t/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

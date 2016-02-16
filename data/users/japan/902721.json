@@ -1,0 +1,20 @@
+{
+  "login": "meganekids",
+  "id": 902721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/902721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/meganekids",
+  "html_url": "https://github.com/meganekids",
+  "followers_url": "https://api.github.com/users/meganekids/followers",
+  "following_url": "https://api.github.com/users/meganekids/following{/other_user}",
+  "gists_url": "https://api.github.com/users/meganekids/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/meganekids/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/meganekids/subscriptions",
+  "organizations_url": "https://api.github.com/users/meganekids/orgs",
+  "repos_url": "https://api.github.com/users/meganekids/repos",
+  "events_url": "https://api.github.com/users/meganekids/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/meganekids/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

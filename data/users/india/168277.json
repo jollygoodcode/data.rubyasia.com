@@ -1,0 +1,20 @@
+{
+  "login": "gsmuralee",
+  "id": 168277,
+  "avatar_url": "https://avatars.githubusercontent.com/u/168277?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gsmuralee",
+  "html_url": "https://github.com/gsmuralee",
+  "followers_url": "https://api.github.com/users/gsmuralee/followers",
+  "following_url": "https://api.github.com/users/gsmuralee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gsmuralee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gsmuralee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gsmuralee/subscriptions",
+  "organizations_url": "https://api.github.com/users/gsmuralee/orgs",
+  "repos_url": "https://api.github.com/users/gsmuralee/repos",
+  "events_url": "https://api.github.com/users/gsmuralee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gsmuralee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

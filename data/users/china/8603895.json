@@ -1,0 +1,20 @@
+{
+  "login": "01joy",
+  "id": 8603895,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8603895?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/01joy",
+  "html_url": "https://github.com/01joy",
+  "followers_url": "https://api.github.com/users/01joy/followers",
+  "following_url": "https://api.github.com/users/01joy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/01joy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/01joy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/01joy/subscriptions",
+  "organizations_url": "https://api.github.com/users/01joy/orgs",
+  "repos_url": "https://api.github.com/users/01joy/repos",
+  "events_url": "https://api.github.com/users/01joy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/01joy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

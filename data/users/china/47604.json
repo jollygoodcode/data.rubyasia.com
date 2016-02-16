@@ -1,0 +1,20 @@
+{
+  "login": "n5ken",
+  "id": 47604,
+  "avatar_url": "https://avatars.githubusercontent.com/u/47604?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/n5ken",
+  "html_url": "https://github.com/n5ken",
+  "followers_url": "https://api.github.com/users/n5ken/followers",
+  "following_url": "https://api.github.com/users/n5ken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/n5ken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/n5ken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/n5ken/subscriptions",
+  "organizations_url": "https://api.github.com/users/n5ken/orgs",
+  "repos_url": "https://api.github.com/users/n5ken/repos",
+  "events_url": "https://api.github.com/users/n5ken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/n5ken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

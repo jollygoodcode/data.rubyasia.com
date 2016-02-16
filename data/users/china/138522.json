@@ -1,0 +1,20 @@
+{
+  "login": "aio",
+  "id": 138522,
+  "avatar_url": "https://avatars.githubusercontent.com/u/138522?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aio",
+  "html_url": "https://github.com/aio",
+  "followers_url": "https://api.github.com/users/aio/followers",
+  "following_url": "https://api.github.com/users/aio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aio/subscriptions",
+  "organizations_url": "https://api.github.com/users/aio/orgs",
+  "repos_url": "https://api.github.com/users/aio/repos",
+  "events_url": "https://api.github.com/users/aio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

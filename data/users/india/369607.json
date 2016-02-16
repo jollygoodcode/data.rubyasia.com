@@ -1,0 +1,20 @@
+{
+  "login": "kcore",
+  "id": 369607,
+  "avatar_url": "https://avatars.githubusercontent.com/u/369607?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kcore",
+  "html_url": "https://github.com/kcore",
+  "followers_url": "https://api.github.com/users/kcore/followers",
+  "following_url": "https://api.github.com/users/kcore/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kcore/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kcore/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kcore/subscriptions",
+  "organizations_url": "https://api.github.com/users/kcore/orgs",
+  "repos_url": "https://api.github.com/users/kcore/repos",
+  "events_url": "https://api.github.com/users/kcore/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kcore/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

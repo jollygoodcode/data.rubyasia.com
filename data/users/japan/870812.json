@@ -1,0 +1,20 @@
+{
+  "login": "randym",
+  "id": 870812,
+  "avatar_url": "https://avatars.githubusercontent.com/u/870812?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/randym",
+  "html_url": "https://github.com/randym",
+  "followers_url": "https://api.github.com/users/randym/followers",
+  "following_url": "https://api.github.com/users/randym/following{/other_user}",
+  "gists_url": "https://api.github.com/users/randym/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/randym/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/randym/subscriptions",
+  "organizations_url": "https://api.github.com/users/randym/orgs",
+  "repos_url": "https://api.github.com/users/randym/repos",
+  "events_url": "https://api.github.com/users/randym/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/randym/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "aniltimt",
+  "id": 3764448,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3764448?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aniltimt",
+  "html_url": "https://github.com/aniltimt",
+  "followers_url": "https://api.github.com/users/aniltimt/followers",
+  "following_url": "https://api.github.com/users/aniltimt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aniltimt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aniltimt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aniltimt/subscriptions",
+  "organizations_url": "https://api.github.com/users/aniltimt/orgs",
+  "repos_url": "https://api.github.com/users/aniltimt/repos",
+  "events_url": "https://api.github.com/users/aniltimt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aniltimt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

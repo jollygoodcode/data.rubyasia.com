@@ -1,0 +1,20 @@
+{
+  "login": "saekant",
+  "id": 6202860,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6202860?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saekant",
+  "html_url": "https://github.com/saekant",
+  "followers_url": "https://api.github.com/users/saekant/followers",
+  "following_url": "https://api.github.com/users/saekant/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saekant/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saekant/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saekant/subscriptions",
+  "organizations_url": "https://api.github.com/users/saekant/orgs",
+  "repos_url": "https://api.github.com/users/saekant/repos",
+  "events_url": "https://api.github.com/users/saekant/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saekant/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

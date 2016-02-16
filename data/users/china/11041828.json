@@ -1,0 +1,20 @@
+{
+  "login": "bdsw",
+  "id": 11041828,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11041828?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bdsw",
+  "html_url": "https://github.com/bdsw",
+  "followers_url": "https://api.github.com/users/bdsw/followers",
+  "following_url": "https://api.github.com/users/bdsw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bdsw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bdsw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bdsw/subscriptions",
+  "organizations_url": "https://api.github.com/users/bdsw/orgs",
+  "repos_url": "https://api.github.com/users/bdsw/repos",
+  "events_url": "https://api.github.com/users/bdsw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bdsw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ueneid",
+  "id": 6497258,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6497258?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ueneid",
+  "html_url": "https://github.com/ueneid",
+  "followers_url": "https://api.github.com/users/ueneid/followers",
+  "following_url": "https://api.github.com/users/ueneid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ueneid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ueneid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ueneid/subscriptions",
+  "organizations_url": "https://api.github.com/users/ueneid/orgs",
+  "repos_url": "https://api.github.com/users/ueneid/repos",
+  "events_url": "https://api.github.com/users/ueneid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ueneid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "liongarden",
+  "id": 1443006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1443006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/liongarden",
+  "html_url": "https://github.com/liongarden",
+  "followers_url": "https://api.github.com/users/liongarden/followers",
+  "following_url": "https://api.github.com/users/liongarden/following{/other_user}",
+  "gists_url": "https://api.github.com/users/liongarden/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/liongarden/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/liongarden/subscriptions",
+  "organizations_url": "https://api.github.com/users/liongarden/orgs",
+  "repos_url": "https://api.github.com/users/liongarden/repos",
+  "events_url": "https://api.github.com/users/liongarden/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/liongarden/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

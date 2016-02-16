@@ -1,0 +1,20 @@
+{
+  "login": "sigmakappa",
+  "id": 13891484,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13891484?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sigmakappa",
+  "html_url": "https://github.com/sigmakappa",
+  "followers_url": "https://api.github.com/users/sigmakappa/followers",
+  "following_url": "https://api.github.com/users/sigmakappa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sigmakappa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sigmakappa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sigmakappa/subscriptions",
+  "organizations_url": "https://api.github.com/users/sigmakappa/orgs",
+  "repos_url": "https://api.github.com/users/sigmakappa/repos",
+  "events_url": "https://api.github.com/users/sigmakappa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sigmakappa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

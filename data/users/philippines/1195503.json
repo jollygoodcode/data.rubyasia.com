@@ -1,0 +1,20 @@
+{
+  "login": "nmenego",
+  "id": 1195503,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1195503?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nmenego",
+  "html_url": "https://github.com/nmenego",
+  "followers_url": "https://api.github.com/users/nmenego/followers",
+  "following_url": "https://api.github.com/users/nmenego/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nmenego/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nmenego/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nmenego/subscriptions",
+  "organizations_url": "https://api.github.com/users/nmenego/orgs",
+  "repos_url": "https://api.github.com/users/nmenego/repos",
+  "events_url": "https://api.github.com/users/nmenego/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nmenego/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

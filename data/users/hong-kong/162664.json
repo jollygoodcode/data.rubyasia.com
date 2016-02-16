@@ -1,0 +1,20 @@
+{
+  "login": "westling",
+  "id": 162664,
+  "avatar_url": "https://avatars.githubusercontent.com/u/162664?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/westling",
+  "html_url": "https://github.com/westling",
+  "followers_url": "https://api.github.com/users/westling/followers",
+  "following_url": "https://api.github.com/users/westling/following{/other_user}",
+  "gists_url": "https://api.github.com/users/westling/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/westling/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/westling/subscriptions",
+  "organizations_url": "https://api.github.com/users/westling/orgs",
+  "repos_url": "https://api.github.com/users/westling/repos",
+  "events_url": "https://api.github.com/users/westling/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/westling/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

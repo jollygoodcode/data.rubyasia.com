@@ -1,0 +1,20 @@
+{
+  "login": "mrsy",
+  "id": 117325,
+  "avatar_url": "https://avatars.githubusercontent.com/u/117325?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrsy",
+  "html_url": "https://github.com/mrsy",
+  "followers_url": "https://api.github.com/users/mrsy/followers",
+  "following_url": "https://api.github.com/users/mrsy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrsy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrsy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrsy/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrsy/orgs",
+  "repos_url": "https://api.github.com/users/mrsy/repos",
+  "events_url": "https://api.github.com/users/mrsy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrsy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

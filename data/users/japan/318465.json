@@ -1,0 +1,20 @@
+{
+  "login": "jsuo",
+  "id": 318465,
+  "avatar_url": "https://avatars.githubusercontent.com/u/318465?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jsuo",
+  "html_url": "https://github.com/jsuo",
+  "followers_url": "https://api.github.com/users/jsuo/followers",
+  "following_url": "https://api.github.com/users/jsuo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jsuo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jsuo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jsuo/subscriptions",
+  "organizations_url": "https://api.github.com/users/jsuo/orgs",
+  "repos_url": "https://api.github.com/users/jsuo/repos",
+  "events_url": "https://api.github.com/users/jsuo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jsuo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

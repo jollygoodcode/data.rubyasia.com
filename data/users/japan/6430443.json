@@ -1,0 +1,20 @@
+{
+  "login": "kazzito",
+  "id": 6430443,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6430443?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kazzito",
+  "html_url": "https://github.com/kazzito",
+  "followers_url": "https://api.github.com/users/kazzito/followers",
+  "following_url": "https://api.github.com/users/kazzito/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kazzito/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kazzito/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kazzito/subscriptions",
+  "organizations_url": "https://api.github.com/users/kazzito/orgs",
+  "repos_url": "https://api.github.com/users/kazzito/repos",
+  "events_url": "https://api.github.com/users/kazzito/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kazzito/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

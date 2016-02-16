@@ -1,0 +1,20 @@
+{
+  "login": "EdgeX",
+  "id": 388460,
+  "avatar_url": "https://avatars.githubusercontent.com/u/388460?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/EdgeX",
+  "html_url": "https://github.com/EdgeX",
+  "followers_url": "https://api.github.com/users/EdgeX/followers",
+  "following_url": "https://api.github.com/users/EdgeX/following{/other_user}",
+  "gists_url": "https://api.github.com/users/EdgeX/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/EdgeX/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/EdgeX/subscriptions",
+  "organizations_url": "https://api.github.com/users/EdgeX/orgs",
+  "repos_url": "https://api.github.com/users/EdgeX/repos",
+  "events_url": "https://api.github.com/users/EdgeX/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/EdgeX/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

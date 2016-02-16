@@ -1,0 +1,20 @@
+{
+  "login": "krs1",
+  "id": 10942434,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10942434?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/krs1",
+  "html_url": "https://github.com/krs1",
+  "followers_url": "https://api.github.com/users/krs1/followers",
+  "following_url": "https://api.github.com/users/krs1/following{/other_user}",
+  "gists_url": "https://api.github.com/users/krs1/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/krs1/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/krs1/subscriptions",
+  "organizations_url": "https://api.github.com/users/krs1/orgs",
+  "repos_url": "https://api.github.com/users/krs1/repos",
+  "events_url": "https://api.github.com/users/krs1/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/krs1/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

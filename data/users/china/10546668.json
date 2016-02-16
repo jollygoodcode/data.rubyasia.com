@@ -1,0 +1,20 @@
+{
+  "login": "RubyNuts",
+  "id": 10546668,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10546668?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/RubyNuts",
+  "html_url": "https://github.com/RubyNuts",
+  "followers_url": "https://api.github.com/users/RubyNuts/followers",
+  "following_url": "https://api.github.com/users/RubyNuts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/RubyNuts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/RubyNuts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/RubyNuts/subscriptions",
+  "organizations_url": "https://api.github.com/users/RubyNuts/orgs",
+  "repos_url": "https://api.github.com/users/RubyNuts/repos",
+  "events_url": "https://api.github.com/users/RubyNuts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/RubyNuts/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

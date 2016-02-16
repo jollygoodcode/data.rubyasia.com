@@ -1,0 +1,20 @@
+{
+  "login": "computingfreak",
+  "id": 815909,
+  "avatar_url": "https://avatars.githubusercontent.com/u/815909?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/computingfreak",
+  "html_url": "https://github.com/computingfreak",
+  "followers_url": "https://api.github.com/users/computingfreak/followers",
+  "following_url": "https://api.github.com/users/computingfreak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/computingfreak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/computingfreak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/computingfreak/subscriptions",
+  "organizations_url": "https://api.github.com/users/computingfreak/orgs",
+  "repos_url": "https://api.github.com/users/computingfreak/repos",
+  "events_url": "https://api.github.com/users/computingfreak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/computingfreak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

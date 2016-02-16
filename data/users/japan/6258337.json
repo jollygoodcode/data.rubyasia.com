@@ -1,0 +1,20 @@
+{
+  "login": "grandvin",
+  "id": 6258337,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6258337?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/grandvin",
+  "html_url": "https://github.com/grandvin",
+  "followers_url": "https://api.github.com/users/grandvin/followers",
+  "following_url": "https://api.github.com/users/grandvin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/grandvin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/grandvin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/grandvin/subscriptions",
+  "organizations_url": "https://api.github.com/users/grandvin/orgs",
+  "repos_url": "https://api.github.com/users/grandvin/repos",
+  "events_url": "https://api.github.com/users/grandvin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/grandvin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

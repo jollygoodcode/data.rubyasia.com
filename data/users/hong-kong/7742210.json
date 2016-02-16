@@ -1,0 +1,20 @@
+{
+  "login": "laukafai",
+  "id": 7742210,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7742210?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/laukafai",
+  "html_url": "https://github.com/laukafai",
+  "followers_url": "https://api.github.com/users/laukafai/followers",
+  "following_url": "https://api.github.com/users/laukafai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/laukafai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/laukafai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/laukafai/subscriptions",
+  "organizations_url": "https://api.github.com/users/laukafai/orgs",
+  "repos_url": "https://api.github.com/users/laukafai/repos",
+  "events_url": "https://api.github.com/users/laukafai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/laukafai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

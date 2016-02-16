@@ -1,0 +1,20 @@
+{
+  "login": "you39",
+  "id": 7428745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7428745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/you39",
+  "html_url": "https://github.com/you39",
+  "followers_url": "https://api.github.com/users/you39/followers",
+  "following_url": "https://api.github.com/users/you39/following{/other_user}",
+  "gists_url": "https://api.github.com/users/you39/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/you39/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/you39/subscriptions",
+  "organizations_url": "https://api.github.com/users/you39/orgs",
+  "repos_url": "https://api.github.com/users/you39/repos",
+  "events_url": "https://api.github.com/users/you39/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/you39/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

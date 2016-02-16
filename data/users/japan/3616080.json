@@ -1,0 +1,20 @@
+{
+  "login": "kimunny",
+  "id": 3616080,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3616080?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimunny",
+  "html_url": "https://github.com/kimunny",
+  "followers_url": "https://api.github.com/users/kimunny/followers",
+  "following_url": "https://api.github.com/users/kimunny/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimunny/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimunny/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimunny/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimunny/orgs",
+  "repos_url": "https://api.github.com/users/kimunny/repos",
+  "events_url": "https://api.github.com/users/kimunny/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimunny/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

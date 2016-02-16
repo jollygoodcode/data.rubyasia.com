@@ -1,0 +1,20 @@
+{
+  "login": "DauinPoint",
+  "id": 3004746,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3004746?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DauinPoint",
+  "html_url": "https://github.com/DauinPoint",
+  "followers_url": "https://api.github.com/users/DauinPoint/followers",
+  "following_url": "https://api.github.com/users/DauinPoint/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DauinPoint/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DauinPoint/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DauinPoint/subscriptions",
+  "organizations_url": "https://api.github.com/users/DauinPoint/orgs",
+  "repos_url": "https://api.github.com/users/DauinPoint/repos",
+  "events_url": "https://api.github.com/users/DauinPoint/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DauinPoint/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

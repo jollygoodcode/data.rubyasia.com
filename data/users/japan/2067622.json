@@ -1,0 +1,20 @@
+{
+  "login": "yshtak",
+  "id": 2067622,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2067622?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yshtak",
+  "html_url": "https://github.com/yshtak",
+  "followers_url": "https://api.github.com/users/yshtak/followers",
+  "following_url": "https://api.github.com/users/yshtak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yshtak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yshtak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yshtak/subscriptions",
+  "organizations_url": "https://api.github.com/users/yshtak/orgs",
+  "repos_url": "https://api.github.com/users/yshtak/repos",
+  "events_url": "https://api.github.com/users/yshtak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yshtak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

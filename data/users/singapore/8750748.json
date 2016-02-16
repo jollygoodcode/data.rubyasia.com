@@ -1,0 +1,20 @@
+{
+  "login": "xitg",
+  "id": 8750748,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8750748?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xitg",
+  "html_url": "https://github.com/xitg",
+  "followers_url": "https://api.github.com/users/xitg/followers",
+  "following_url": "https://api.github.com/users/xitg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xitg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xitg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xitg/subscriptions",
+  "organizations_url": "https://api.github.com/users/xitg/orgs",
+  "repos_url": "https://api.github.com/users/xitg/repos",
+  "events_url": "https://api.github.com/users/xitg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xitg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

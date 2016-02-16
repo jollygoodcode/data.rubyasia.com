@@ -1,0 +1,20 @@
+{
+  "login": "travelish",
+  "id": 12015514,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12015514?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/travelish",
+  "html_url": "https://github.com/travelish",
+  "followers_url": "https://api.github.com/users/travelish/followers",
+  "following_url": "https://api.github.com/users/travelish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/travelish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/travelish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/travelish/subscriptions",
+  "organizations_url": "https://api.github.com/users/travelish/orgs",
+  "repos_url": "https://api.github.com/users/travelish/repos",
+  "events_url": "https://api.github.com/users/travelish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/travelish/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

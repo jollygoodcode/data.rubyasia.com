@@ -1,0 +1,20 @@
+{
+  "login": "mariobriggs",
+  "id": 3006502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3006502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mariobriggs",
+  "html_url": "https://github.com/mariobriggs",
+  "followers_url": "https://api.github.com/users/mariobriggs/followers",
+  "following_url": "https://api.github.com/users/mariobriggs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mariobriggs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mariobriggs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mariobriggs/subscriptions",
+  "organizations_url": "https://api.github.com/users/mariobriggs/orgs",
+  "repos_url": "https://api.github.com/users/mariobriggs/repos",
+  "events_url": "https://api.github.com/users/mariobriggs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mariobriggs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

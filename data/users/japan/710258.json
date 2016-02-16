@@ -1,0 +1,20 @@
+{
+  "login": "studio-tgl",
+  "id": 710258,
+  "avatar_url": "https://avatars.githubusercontent.com/u/710258?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/studio-tgl",
+  "html_url": "https://github.com/studio-tgl",
+  "followers_url": "https://api.github.com/users/studio-tgl/followers",
+  "following_url": "https://api.github.com/users/studio-tgl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/studio-tgl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/studio-tgl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/studio-tgl/subscriptions",
+  "organizations_url": "https://api.github.com/users/studio-tgl/orgs",
+  "repos_url": "https://api.github.com/users/studio-tgl/repos",
+  "events_url": "https://api.github.com/users/studio-tgl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/studio-tgl/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

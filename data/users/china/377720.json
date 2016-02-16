@@ -1,0 +1,20 @@
+{
+  "login": "halida",
+  "id": 377720,
+  "avatar_url": "https://avatars.githubusercontent.com/u/377720?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/halida",
+  "html_url": "https://github.com/halida",
+  "followers_url": "https://api.github.com/users/halida/followers",
+  "following_url": "https://api.github.com/users/halida/following{/other_user}",
+  "gists_url": "https://api.github.com/users/halida/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/halida/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/halida/subscriptions",
+  "organizations_url": "https://api.github.com/users/halida/orgs",
+  "repos_url": "https://api.github.com/users/halida/repos",
+  "events_url": "https://api.github.com/users/halida/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/halida/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

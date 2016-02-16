@@ -1,0 +1,20 @@
+{
+  "login": "ta2yak",
+  "id": 570542,
+  "avatar_url": "https://avatars.githubusercontent.com/u/570542?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ta2yak",
+  "html_url": "https://github.com/ta2yak",
+  "followers_url": "https://api.github.com/users/ta2yak/followers",
+  "following_url": "https://api.github.com/users/ta2yak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ta2yak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ta2yak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ta2yak/subscriptions",
+  "organizations_url": "https://api.github.com/users/ta2yak/orgs",
+  "repos_url": "https://api.github.com/users/ta2yak/repos",
+  "events_url": "https://api.github.com/users/ta2yak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ta2yak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

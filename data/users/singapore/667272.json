@@ -1,0 +1,20 @@
+{
+  "login": "linc01n",
+  "id": 667272,
+  "avatar_url": "https://avatars.githubusercontent.com/u/667272?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/linc01n",
+  "html_url": "https://github.com/linc01n",
+  "followers_url": "https://api.github.com/users/linc01n/followers",
+  "following_url": "https://api.github.com/users/linc01n/following{/other_user}",
+  "gists_url": "https://api.github.com/users/linc01n/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/linc01n/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/linc01n/subscriptions",
+  "organizations_url": "https://api.github.com/users/linc01n/orgs",
+  "repos_url": "https://api.github.com/users/linc01n/repos",
+  "events_url": "https://api.github.com/users/linc01n/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/linc01n/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

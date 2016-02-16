@@ -1,0 +1,20 @@
+{
+  "login": "rsonger",
+  "id": 1834840,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1834840?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rsonger",
+  "html_url": "https://github.com/rsonger",
+  "followers_url": "https://api.github.com/users/rsonger/followers",
+  "following_url": "https://api.github.com/users/rsonger/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rsonger/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rsonger/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rsonger/subscriptions",
+  "organizations_url": "https://api.github.com/users/rsonger/orgs",
+  "repos_url": "https://api.github.com/users/rsonger/repos",
+  "events_url": "https://api.github.com/users/rsonger/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rsonger/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

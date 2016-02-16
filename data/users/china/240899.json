@@ -1,0 +1,20 @@
+{
+  "login": "ryancheung",
+  "id": 240899,
+  "avatar_url": "https://avatars.githubusercontent.com/u/240899?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryancheung",
+  "html_url": "https://github.com/ryancheung",
+  "followers_url": "https://api.github.com/users/ryancheung/followers",
+  "following_url": "https://api.github.com/users/ryancheung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryancheung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryancheung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryancheung/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryancheung/orgs",
+  "repos_url": "https://api.github.com/users/ryancheung/repos",
+  "events_url": "https://api.github.com/users/ryancheung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryancheung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "markgeek",
+  "id": 888252,
+  "avatar_url": "https://avatars.githubusercontent.com/u/888252?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/markgeek",
+  "html_url": "https://github.com/markgeek",
+  "followers_url": "https://api.github.com/users/markgeek/followers",
+  "following_url": "https://api.github.com/users/markgeek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/markgeek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/markgeek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/markgeek/subscriptions",
+  "organizations_url": "https://api.github.com/users/markgeek/orgs",
+  "repos_url": "https://api.github.com/users/markgeek/repos",
+  "events_url": "https://api.github.com/users/markgeek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/markgeek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

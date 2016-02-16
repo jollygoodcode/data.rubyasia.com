@@ -1,0 +1,20 @@
+{
+  "login": "elgogle",
+  "id": 1802705,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1802705?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elgogle",
+  "html_url": "https://github.com/elgogle",
+  "followers_url": "https://api.github.com/users/elgogle/followers",
+  "following_url": "https://api.github.com/users/elgogle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elgogle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elgogle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elgogle/subscriptions",
+  "organizations_url": "https://api.github.com/users/elgogle/orgs",
+  "repos_url": "https://api.github.com/users/elgogle/repos",
+  "events_url": "https://api.github.com/users/elgogle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elgogle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

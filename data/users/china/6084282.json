@@ -1,0 +1,20 @@
+{
+  "login": "wlike",
+  "id": 6084282,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6084282?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wlike",
+  "html_url": "https://github.com/wlike",
+  "followers_url": "https://api.github.com/users/wlike/followers",
+  "following_url": "https://api.github.com/users/wlike/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wlike/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wlike/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wlike/subscriptions",
+  "organizations_url": "https://api.github.com/users/wlike/orgs",
+  "repos_url": "https://api.github.com/users/wlike/repos",
+  "events_url": "https://api.github.com/users/wlike/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wlike/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

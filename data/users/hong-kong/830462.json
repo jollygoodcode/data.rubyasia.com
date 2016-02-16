@@ -1,0 +1,20 @@
+{
+  "login": "billytcf",
+  "id": 830462,
+  "avatar_url": "https://avatars.githubusercontent.com/u/830462?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/billytcf",
+  "html_url": "https://github.com/billytcf",
+  "followers_url": "https://api.github.com/users/billytcf/followers",
+  "following_url": "https://api.github.com/users/billytcf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/billytcf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/billytcf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/billytcf/subscriptions",
+  "organizations_url": "https://api.github.com/users/billytcf/orgs",
+  "repos_url": "https://api.github.com/users/billytcf/repos",
+  "events_url": "https://api.github.com/users/billytcf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/billytcf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

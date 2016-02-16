@@ -1,0 +1,20 @@
+{
+  "login": "mrmrs",
+  "id": 1748143,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1748143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrmrs",
+  "html_url": "https://github.com/mrmrs",
+  "followers_url": "https://api.github.com/users/mrmrs/followers",
+  "following_url": "https://api.github.com/users/mrmrs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrmrs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrmrs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrmrs/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrmrs/orgs",
+  "repos_url": "https://api.github.com/users/mrmrs/repos",
+  "events_url": "https://api.github.com/users/mrmrs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrmrs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

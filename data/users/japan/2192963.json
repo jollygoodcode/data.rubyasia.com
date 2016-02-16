@@ -1,0 +1,20 @@
+{
+  "login": "masaomoc",
+  "id": 2192963,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2192963?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masaomoc",
+  "html_url": "https://github.com/masaomoc",
+  "followers_url": "https://api.github.com/users/masaomoc/followers",
+  "following_url": "https://api.github.com/users/masaomoc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masaomoc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masaomoc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masaomoc/subscriptions",
+  "organizations_url": "https://api.github.com/users/masaomoc/orgs",
+  "repos_url": "https://api.github.com/users/masaomoc/repos",
+  "events_url": "https://api.github.com/users/masaomoc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masaomoc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

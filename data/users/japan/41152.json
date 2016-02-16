@@ -1,0 +1,20 @@
+{
+  "login": "pyrmont",
+  "id": 41152,
+  "avatar_url": "https://avatars.githubusercontent.com/u/41152?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pyrmont",
+  "html_url": "https://github.com/pyrmont",
+  "followers_url": "https://api.github.com/users/pyrmont/followers",
+  "following_url": "https://api.github.com/users/pyrmont/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pyrmont/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pyrmont/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pyrmont/subscriptions",
+  "organizations_url": "https://api.github.com/users/pyrmont/orgs",
+  "repos_url": "https://api.github.com/users/pyrmont/repos",
+  "events_url": "https://api.github.com/users/pyrmont/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pyrmont/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

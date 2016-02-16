@@ -1,0 +1,20 @@
+{
+  "login": "kinopyo",
+  "id": 184520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/184520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kinopyo",
+  "html_url": "https://github.com/kinopyo",
+  "followers_url": "https://api.github.com/users/kinopyo/followers",
+  "following_url": "https://api.github.com/users/kinopyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kinopyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kinopyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kinopyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/kinopyo/orgs",
+  "repos_url": "https://api.github.com/users/kinopyo/repos",
+  "events_url": "https://api.github.com/users/kinopyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kinopyo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "amaork",
+  "id": 5653627,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5653627?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amaork",
+  "html_url": "https://github.com/amaork",
+  "followers_url": "https://api.github.com/users/amaork/followers",
+  "following_url": "https://api.github.com/users/amaork/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amaork/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amaork/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amaork/subscriptions",
+  "organizations_url": "https://api.github.com/users/amaork/orgs",
+  "repos_url": "https://api.github.com/users/amaork/repos",
+  "events_url": "https://api.github.com/users/amaork/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amaork/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

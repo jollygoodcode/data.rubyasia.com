@@ -1,0 +1,20 @@
+{
+  "login": "isieo",
+  "id": 172893,
+  "avatar_url": "https://avatars.githubusercontent.com/u/172893?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/isieo",
+  "html_url": "https://github.com/isieo",
+  "followers_url": "https://api.github.com/users/isieo/followers",
+  "following_url": "https://api.github.com/users/isieo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/isieo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/isieo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/isieo/subscriptions",
+  "organizations_url": "https://api.github.com/users/isieo/orgs",
+  "repos_url": "https://api.github.com/users/isieo/repos",
+  "events_url": "https://api.github.com/users/isieo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/isieo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

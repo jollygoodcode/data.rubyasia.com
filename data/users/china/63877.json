@@ -1,0 +1,20 @@
+{
+  "login": "hooopo",
+  "id": 63877,
+  "avatar_url": "https://avatars.githubusercontent.com/u/63877?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hooopo",
+  "html_url": "https://github.com/hooopo",
+  "followers_url": "https://api.github.com/users/hooopo/followers",
+  "following_url": "https://api.github.com/users/hooopo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hooopo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hooopo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hooopo/subscriptions",
+  "organizations_url": "https://api.github.com/users/hooopo/orgs",
+  "repos_url": "https://api.github.com/users/hooopo/repos",
+  "events_url": "https://api.github.com/users/hooopo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hooopo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

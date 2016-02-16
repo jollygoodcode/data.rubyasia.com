@@ -1,0 +1,20 @@
+{
+  "login": "botaydotcom",
+  "id": 690139,
+  "avatar_url": "https://avatars.githubusercontent.com/u/690139?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/botaydotcom",
+  "html_url": "https://github.com/botaydotcom",
+  "followers_url": "https://api.github.com/users/botaydotcom/followers",
+  "following_url": "https://api.github.com/users/botaydotcom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/botaydotcom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/botaydotcom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/botaydotcom/subscriptions",
+  "organizations_url": "https://api.github.com/users/botaydotcom/orgs",
+  "repos_url": "https://api.github.com/users/botaydotcom/repos",
+  "events_url": "https://api.github.com/users/botaydotcom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/botaydotcom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

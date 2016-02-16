@@ -1,0 +1,20 @@
+{
+  "login": "umegaki",
+  "id": 7950896,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7950896?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/umegaki",
+  "html_url": "https://github.com/umegaki",
+  "followers_url": "https://api.github.com/users/umegaki/followers",
+  "following_url": "https://api.github.com/users/umegaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/umegaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/umegaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/umegaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/umegaki/orgs",
+  "repos_url": "https://api.github.com/users/umegaki/repos",
+  "events_url": "https://api.github.com/users/umegaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/umegaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

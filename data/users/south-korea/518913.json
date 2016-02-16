@@ -1,0 +1,20 @@
+{
+  "login": "rubykr",
+  "id": 518913,
+  "avatar_url": "https://avatars.githubusercontent.com/u/518913?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubykr",
+  "html_url": "https://github.com/rubykr",
+  "followers_url": "https://api.github.com/users/rubykr/followers",
+  "following_url": "https://api.github.com/users/rubykr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubykr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubykr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubykr/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubykr/orgs",
+  "repos_url": "https://api.github.com/users/rubykr/repos",
+  "events_url": "https://api.github.com/users/rubykr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubykr/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

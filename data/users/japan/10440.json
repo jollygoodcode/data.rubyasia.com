@@ -1,0 +1,20 @@
+{
+  "login": "dzfl",
+  "id": 10440,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10440?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dzfl",
+  "html_url": "https://github.com/dzfl",
+  "followers_url": "https://api.github.com/users/dzfl/followers",
+  "following_url": "https://api.github.com/users/dzfl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dzfl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dzfl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dzfl/subscriptions",
+  "organizations_url": "https://api.github.com/users/dzfl/orgs",
+  "repos_url": "https://api.github.com/users/dzfl/repos",
+  "events_url": "https://api.github.com/users/dzfl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dzfl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

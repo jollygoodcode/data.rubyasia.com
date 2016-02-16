@@ -1,0 +1,20 @@
+{
+  "login": "oddindan",
+  "id": 10026619,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10026619?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oddindan",
+  "html_url": "https://github.com/oddindan",
+  "followers_url": "https://api.github.com/users/oddindan/followers",
+  "following_url": "https://api.github.com/users/oddindan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oddindan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oddindan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oddindan/subscriptions",
+  "organizations_url": "https://api.github.com/users/oddindan/orgs",
+  "repos_url": "https://api.github.com/users/oddindan/repos",
+  "events_url": "https://api.github.com/users/oddindan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oddindan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

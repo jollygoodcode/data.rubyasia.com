@@ -1,0 +1,20 @@
+{
+  "login": "zuoyang",
+  "id": 4288136,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4288136?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zuoyang",
+  "html_url": "https://github.com/zuoyang",
+  "followers_url": "https://api.github.com/users/zuoyang/followers",
+  "following_url": "https://api.github.com/users/zuoyang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zuoyang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zuoyang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zuoyang/subscriptions",
+  "organizations_url": "https://api.github.com/users/zuoyang/orgs",
+  "repos_url": "https://api.github.com/users/zuoyang/repos",
+  "events_url": "https://api.github.com/users/zuoyang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zuoyang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

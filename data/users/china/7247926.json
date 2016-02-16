@@ -1,0 +1,20 @@
+{
+  "login": "minnowlab",
+  "id": 7247926,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7247926?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/minnowlab",
+  "html_url": "https://github.com/minnowlab",
+  "followers_url": "https://api.github.com/users/minnowlab/followers",
+  "following_url": "https://api.github.com/users/minnowlab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/minnowlab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/minnowlab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/minnowlab/subscriptions",
+  "organizations_url": "https://api.github.com/users/minnowlab/orgs",
+  "repos_url": "https://api.github.com/users/minnowlab/repos",
+  "events_url": "https://api.github.com/users/minnowlab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/minnowlab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

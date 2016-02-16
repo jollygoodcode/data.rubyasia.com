@@ -1,0 +1,20 @@
+{
+  "login": "kishima",
+  "id": 291438,
+  "avatar_url": "https://avatars.githubusercontent.com/u/291438?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kishima",
+  "html_url": "https://github.com/kishima",
+  "followers_url": "https://api.github.com/users/kishima/followers",
+  "following_url": "https://api.github.com/users/kishima/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kishima/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kishima/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kishima/subscriptions",
+  "organizations_url": "https://api.github.com/users/kishima/orgs",
+  "repos_url": "https://api.github.com/users/kishima/repos",
+  "events_url": "https://api.github.com/users/kishima/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kishima/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

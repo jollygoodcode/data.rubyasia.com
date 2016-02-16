@@ -1,0 +1,20 @@
+{
+  "login": "zjlester",
+  "id": 2200428,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2200428?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zjlester",
+  "html_url": "https://github.com/zjlester",
+  "followers_url": "https://api.github.com/users/zjlester/followers",
+  "following_url": "https://api.github.com/users/zjlester/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zjlester/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zjlester/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zjlester/subscriptions",
+  "organizations_url": "https://api.github.com/users/zjlester/orgs",
+  "repos_url": "https://api.github.com/users/zjlester/repos",
+  "events_url": "https://api.github.com/users/zjlester/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zjlester/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "YetToCome",
+  "id": 5122311,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5122311?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/YetToCome",
+  "html_url": "https://github.com/YetToCome",
+  "followers_url": "https://api.github.com/users/YetToCome/followers",
+  "following_url": "https://api.github.com/users/YetToCome/following{/other_user}",
+  "gists_url": "https://api.github.com/users/YetToCome/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/YetToCome/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/YetToCome/subscriptions",
+  "organizations_url": "https://api.github.com/users/YetToCome/orgs",
+  "repos_url": "https://api.github.com/users/YetToCome/repos",
+  "events_url": "https://api.github.com/users/YetToCome/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/YetToCome/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

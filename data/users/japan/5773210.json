@@ -1,0 +1,20 @@
+{
+  "login": "lisabug",
+  "id": 5773210,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5773210?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lisabug",
+  "html_url": "https://github.com/lisabug",
+  "followers_url": "https://api.github.com/users/lisabug/followers",
+  "following_url": "https://api.github.com/users/lisabug/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lisabug/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lisabug/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lisabug/subscriptions",
+  "organizations_url": "https://api.github.com/users/lisabug/orgs",
+  "repos_url": "https://api.github.com/users/lisabug/repos",
+  "events_url": "https://api.github.com/users/lisabug/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lisabug/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

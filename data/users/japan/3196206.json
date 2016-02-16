@@ -1,0 +1,20 @@
+{
+  "login": "syinjp",
+  "id": 3196206,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3196206?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/syinjp",
+  "html_url": "https://github.com/syinjp",
+  "followers_url": "https://api.github.com/users/syinjp/followers",
+  "following_url": "https://api.github.com/users/syinjp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/syinjp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/syinjp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/syinjp/subscriptions",
+  "organizations_url": "https://api.github.com/users/syinjp/orgs",
+  "repos_url": "https://api.github.com/users/syinjp/repos",
+  "events_url": "https://api.github.com/users/syinjp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/syinjp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "redhat-cip",
+  "id": 1607795,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1607795?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/redhat-cip",
+  "html_url": "https://github.com/redhat-cip",
+  "followers_url": "https://api.github.com/users/redhat-cip/followers",
+  "following_url": "https://api.github.com/users/redhat-cip/following{/other_user}",
+  "gists_url": "https://api.github.com/users/redhat-cip/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/redhat-cip/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/redhat-cip/subscriptions",
+  "organizations_url": "https://api.github.com/users/redhat-cip/orgs",
+  "repos_url": "https://api.github.com/users/redhat-cip/repos",
+  "events_url": "https://api.github.com/users/redhat-cip/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/redhat-cip/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

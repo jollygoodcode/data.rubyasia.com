@@ -1,0 +1,20 @@
+{
+  "login": "eric183",
+  "id": 10773980,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10773980?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eric183",
+  "html_url": "https://github.com/eric183",
+  "followers_url": "https://api.github.com/users/eric183/followers",
+  "following_url": "https://api.github.com/users/eric183/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eric183/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eric183/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eric183/subscriptions",
+  "organizations_url": "https://api.github.com/users/eric183/orgs",
+  "repos_url": "https://api.github.com/users/eric183/repos",
+  "events_url": "https://api.github.com/users/eric183/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eric183/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "echonesis",
+  "id": 4730743,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4730743?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/echonesis",
+  "html_url": "https://github.com/echonesis",
+  "followers_url": "https://api.github.com/users/echonesis/followers",
+  "following_url": "https://api.github.com/users/echonesis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/echonesis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/echonesis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/echonesis/subscriptions",
+  "organizations_url": "https://api.github.com/users/echonesis/orgs",
+  "repos_url": "https://api.github.com/users/echonesis/repos",
+  "events_url": "https://api.github.com/users/echonesis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/echonesis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

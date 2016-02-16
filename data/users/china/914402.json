@@ -1,0 +1,20 @@
+{
+  "login": "benjielin",
+  "id": 914402,
+  "avatar_url": "https://avatars.githubusercontent.com/u/914402?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/benjielin",
+  "html_url": "https://github.com/benjielin",
+  "followers_url": "https://api.github.com/users/benjielin/followers",
+  "following_url": "https://api.github.com/users/benjielin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/benjielin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/benjielin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/benjielin/subscriptions",
+  "organizations_url": "https://api.github.com/users/benjielin/orgs",
+  "repos_url": "https://api.github.com/users/benjielin/repos",
+  "events_url": "https://api.github.com/users/benjielin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/benjielin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

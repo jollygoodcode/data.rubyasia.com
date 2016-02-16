@@ -1,0 +1,20 @@
+{
+  "login": "qiaoliang",
+  "id": 99467,
+  "avatar_url": "https://avatars.githubusercontent.com/u/99467?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qiaoliang",
+  "html_url": "https://github.com/qiaoliang",
+  "followers_url": "https://api.github.com/users/qiaoliang/followers",
+  "following_url": "https://api.github.com/users/qiaoliang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qiaoliang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qiaoliang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qiaoliang/subscriptions",
+  "organizations_url": "https://api.github.com/users/qiaoliang/orgs",
+  "repos_url": "https://api.github.com/users/qiaoliang/repos",
+  "events_url": "https://api.github.com/users/qiaoliang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qiaoliang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

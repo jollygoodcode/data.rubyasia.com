@@ -1,0 +1,20 @@
+{
+  "login": "kyt",
+  "id": 2620102,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2620102?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kyt",
+  "html_url": "https://github.com/kyt",
+  "followers_url": "https://api.github.com/users/kyt/followers",
+  "following_url": "https://api.github.com/users/kyt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kyt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kyt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kyt/subscriptions",
+  "organizations_url": "https://api.github.com/users/kyt/orgs",
+  "repos_url": "https://api.github.com/users/kyt/repos",
+  "events_url": "https://api.github.com/users/kyt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kyt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

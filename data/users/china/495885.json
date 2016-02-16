@@ -1,0 +1,20 @@
+{
+  "login": "hlj",
+  "id": 495885,
+  "avatar_url": "https://avatars.githubusercontent.com/u/495885?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hlj",
+  "html_url": "https://github.com/hlj",
+  "followers_url": "https://api.github.com/users/hlj/followers",
+  "following_url": "https://api.github.com/users/hlj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hlj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hlj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hlj/subscriptions",
+  "organizations_url": "https://api.github.com/users/hlj/orgs",
+  "repos_url": "https://api.github.com/users/hlj/repos",
+  "events_url": "https://api.github.com/users/hlj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hlj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

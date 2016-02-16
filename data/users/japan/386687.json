@@ -1,0 +1,20 @@
+{
+  "login": "myokoym",
+  "id": 386687,
+  "avatar_url": "https://avatars.githubusercontent.com/u/386687?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/myokoym",
+  "html_url": "https://github.com/myokoym",
+  "followers_url": "https://api.github.com/users/myokoym/followers",
+  "following_url": "https://api.github.com/users/myokoym/following{/other_user}",
+  "gists_url": "https://api.github.com/users/myokoym/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/myokoym/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/myokoym/subscriptions",
+  "organizations_url": "https://api.github.com/users/myokoym/orgs",
+  "repos_url": "https://api.github.com/users/myokoym/repos",
+  "events_url": "https://api.github.com/users/myokoym/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/myokoym/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

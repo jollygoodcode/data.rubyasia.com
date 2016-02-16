@@ -1,0 +1,20 @@
+{
+  "login": "yeojnai",
+  "id": 7066993,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7066993?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yeojnai",
+  "html_url": "https://github.com/yeojnai",
+  "followers_url": "https://api.github.com/users/yeojnai/followers",
+  "following_url": "https://api.github.com/users/yeojnai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yeojnai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yeojnai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yeojnai/subscriptions",
+  "organizations_url": "https://api.github.com/users/yeojnai/orgs",
+  "repos_url": "https://api.github.com/users/yeojnai/repos",
+  "events_url": "https://api.github.com/users/yeojnai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yeojnai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

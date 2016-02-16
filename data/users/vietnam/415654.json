@@ -1,0 +1,20 @@
+{
+  "login": "vantran",
+  "id": 415654,
+  "avatar_url": "https://avatars.githubusercontent.com/u/415654?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vantran",
+  "html_url": "https://github.com/vantran",
+  "followers_url": "https://api.github.com/users/vantran/followers",
+  "following_url": "https://api.github.com/users/vantran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vantran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vantran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vantran/subscriptions",
+  "organizations_url": "https://api.github.com/users/vantran/orgs",
+  "repos_url": "https://api.github.com/users/vantran/repos",
+  "events_url": "https://api.github.com/users/vantran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vantran/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

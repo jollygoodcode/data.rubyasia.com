@@ -1,0 +1,20 @@
+{
+  "login": "karteek",
+  "id": 58498,
+  "avatar_url": "https://avatars.githubusercontent.com/u/58498?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/karteek",
+  "html_url": "https://github.com/karteek",
+  "followers_url": "https://api.github.com/users/karteek/followers",
+  "following_url": "https://api.github.com/users/karteek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/karteek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/karteek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/karteek/subscriptions",
+  "organizations_url": "https://api.github.com/users/karteek/orgs",
+  "repos_url": "https://api.github.com/users/karteek/repos",
+  "events_url": "https://api.github.com/users/karteek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/karteek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

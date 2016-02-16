@@ -1,0 +1,20 @@
+{
+  "login": "minang",
+  "id": 10300765,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10300765?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/minang",
+  "html_url": "https://github.com/minang",
+  "followers_url": "https://api.github.com/users/minang/followers",
+  "following_url": "https://api.github.com/users/minang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/minang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/minang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/minang/subscriptions",
+  "organizations_url": "https://api.github.com/users/minang/orgs",
+  "repos_url": "https://api.github.com/users/minang/repos",
+  "events_url": "https://api.github.com/users/minang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/minang/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

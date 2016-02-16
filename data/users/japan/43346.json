@@ -1,0 +1,20 @@
+{
+  "login": "hibariya",
+  "id": 43346,
+  "avatar_url": "https://avatars.githubusercontent.com/u/43346?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hibariya",
+  "html_url": "https://github.com/hibariya",
+  "followers_url": "https://api.github.com/users/hibariya/followers",
+  "following_url": "https://api.github.com/users/hibariya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hibariya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hibariya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hibariya/subscriptions",
+  "organizations_url": "https://api.github.com/users/hibariya/orgs",
+  "repos_url": "https://api.github.com/users/hibariya/repos",
+  "events_url": "https://api.github.com/users/hibariya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hibariya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

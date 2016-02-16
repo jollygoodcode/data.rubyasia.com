@@ -1,0 +1,20 @@
+{
+  "login": "shikharateverest",
+  "id": 3232873,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3232873?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shikharateverest",
+  "html_url": "https://github.com/shikharateverest",
+  "followers_url": "https://api.github.com/users/shikharateverest/followers",
+  "following_url": "https://api.github.com/users/shikharateverest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shikharateverest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shikharateverest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shikharateverest/subscriptions",
+  "organizations_url": "https://api.github.com/users/shikharateverest/orgs",
+  "repos_url": "https://api.github.com/users/shikharateverest/repos",
+  "events_url": "https://api.github.com/users/shikharateverest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shikharateverest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

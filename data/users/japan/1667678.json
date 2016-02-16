@@ -1,0 +1,20 @@
+{
+  "login": "mttrs",
+  "id": 1667678,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1667678?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mttrs",
+  "html_url": "https://github.com/mttrs",
+  "followers_url": "https://api.github.com/users/mttrs/followers",
+  "following_url": "https://api.github.com/users/mttrs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mttrs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mttrs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mttrs/subscriptions",
+  "organizations_url": "https://api.github.com/users/mttrs/orgs",
+  "repos_url": "https://api.github.com/users/mttrs/repos",
+  "events_url": "https://api.github.com/users/mttrs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mttrs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

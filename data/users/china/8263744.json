@@ -1,0 +1,20 @@
+{
+  "login": "luoyanghero",
+  "id": 8263744,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8263744?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/luoyanghero",
+  "html_url": "https://github.com/luoyanghero",
+  "followers_url": "https://api.github.com/users/luoyanghero/followers",
+  "following_url": "https://api.github.com/users/luoyanghero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/luoyanghero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/luoyanghero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/luoyanghero/subscriptions",
+  "organizations_url": "https://api.github.com/users/luoyanghero/orgs",
+  "repos_url": "https://api.github.com/users/luoyanghero/repos",
+  "events_url": "https://api.github.com/users/luoyanghero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/luoyanghero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

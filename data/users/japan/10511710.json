@@ -1,0 +1,20 @@
+{
+  "login": "tatakauashi",
+  "id": 10511710,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10511710?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tatakauashi",
+  "html_url": "https://github.com/tatakauashi",
+  "followers_url": "https://api.github.com/users/tatakauashi/followers",
+  "following_url": "https://api.github.com/users/tatakauashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tatakauashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tatakauashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tatakauashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/tatakauashi/orgs",
+  "repos_url": "https://api.github.com/users/tatakauashi/repos",
+  "events_url": "https://api.github.com/users/tatakauashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tatakauashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

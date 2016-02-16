@@ -1,0 +1,20 @@
+{
+  "login": "macarthy",
+  "id": 7726,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7726?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macarthy",
+  "html_url": "https://github.com/macarthy",
+  "followers_url": "https://api.github.com/users/macarthy/followers",
+  "following_url": "https://api.github.com/users/macarthy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macarthy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macarthy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macarthy/subscriptions",
+  "organizations_url": "https://api.github.com/users/macarthy/orgs",
+  "repos_url": "https://api.github.com/users/macarthy/repos",
+  "events_url": "https://api.github.com/users/macarthy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macarthy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

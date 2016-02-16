@@ -1,0 +1,20 @@
+{
+  "login": "seeho",
+  "id": 1315655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1315655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seeho",
+  "html_url": "https://github.com/seeho",
+  "followers_url": "https://api.github.com/users/seeho/followers",
+  "following_url": "https://api.github.com/users/seeho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seeho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seeho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seeho/subscriptions",
+  "organizations_url": "https://api.github.com/users/seeho/orgs",
+  "repos_url": "https://api.github.com/users/seeho/repos",
+  "events_url": "https://api.github.com/users/seeho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seeho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "talenox",
+  "id": 5877976,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5877976?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/talenox",
+  "html_url": "https://github.com/talenox",
+  "followers_url": "https://api.github.com/users/talenox/followers",
+  "following_url": "https://api.github.com/users/talenox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/talenox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/talenox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/talenox/subscriptions",
+  "organizations_url": "https://api.github.com/users/talenox/orgs",
+  "repos_url": "https://api.github.com/users/talenox/repos",
+  "events_url": "https://api.github.com/users/talenox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/talenox/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

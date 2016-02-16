@@ -1,0 +1,20 @@
+{
+  "login": "fookiee",
+  "id": 10175648,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10175648?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fookiee",
+  "html_url": "https://github.com/fookiee",
+  "followers_url": "https://api.github.com/users/fookiee/followers",
+  "following_url": "https://api.github.com/users/fookiee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fookiee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fookiee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fookiee/subscriptions",
+  "organizations_url": "https://api.github.com/users/fookiee/orgs",
+  "repos_url": "https://api.github.com/users/fookiee/repos",
+  "events_url": "https://api.github.com/users/fookiee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fookiee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "66beta",
+  "id": 535237,
+  "avatar_url": "https://avatars.githubusercontent.com/u/535237?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/66beta",
+  "html_url": "https://github.com/66beta",
+  "followers_url": "https://api.github.com/users/66beta/followers",
+  "following_url": "https://api.github.com/users/66beta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/66beta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/66beta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/66beta/subscriptions",
+  "organizations_url": "https://api.github.com/users/66beta/orgs",
+  "repos_url": "https://api.github.com/users/66beta/repos",
+  "events_url": "https://api.github.com/users/66beta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/66beta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

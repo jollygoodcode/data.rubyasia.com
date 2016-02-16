@@ -1,0 +1,20 @@
+{
+  "login": "tamoot",
+  "id": 204360,
+  "avatar_url": "https://avatars.githubusercontent.com/u/204360?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tamoot",
+  "html_url": "https://github.com/tamoot",
+  "followers_url": "https://api.github.com/users/tamoot/followers",
+  "following_url": "https://api.github.com/users/tamoot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tamoot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tamoot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tamoot/subscriptions",
+  "organizations_url": "https://api.github.com/users/tamoot/orgs",
+  "repos_url": "https://api.github.com/users/tamoot/repos",
+  "events_url": "https://api.github.com/users/tamoot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tamoot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

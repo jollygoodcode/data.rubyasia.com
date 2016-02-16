@@ -1,0 +1,20 @@
+{
+  "login": "5argon",
+  "id": 5653276,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5653276?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/5argon",
+  "html_url": "https://github.com/5argon",
+  "followers_url": "https://api.github.com/users/5argon/followers",
+  "following_url": "https://api.github.com/users/5argon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/5argon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/5argon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/5argon/subscriptions",
+  "organizations_url": "https://api.github.com/users/5argon/orgs",
+  "repos_url": "https://api.github.com/users/5argon/repos",
+  "events_url": "https://api.github.com/users/5argon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/5argon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

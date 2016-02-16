@@ -1,0 +1,20 @@
+{
+  "login": "archbrys",
+  "id": 9855401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9855401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/archbrys",
+  "html_url": "https://github.com/archbrys",
+  "followers_url": "https://api.github.com/users/archbrys/followers",
+  "following_url": "https://api.github.com/users/archbrys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/archbrys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/archbrys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/archbrys/subscriptions",
+  "organizations_url": "https://api.github.com/users/archbrys/orgs",
+  "repos_url": "https://api.github.com/users/archbrys/repos",
+  "events_url": "https://api.github.com/users/archbrys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/archbrys/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

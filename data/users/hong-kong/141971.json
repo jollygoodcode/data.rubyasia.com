@@ -1,0 +1,20 @@
+{
+  "login": "crossroads",
+  "id": 141971,
+  "avatar_url": "https://avatars.githubusercontent.com/u/141971?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/crossroads",
+  "html_url": "https://github.com/crossroads",
+  "followers_url": "https://api.github.com/users/crossroads/followers",
+  "following_url": "https://api.github.com/users/crossroads/following{/other_user}",
+  "gists_url": "https://api.github.com/users/crossroads/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/crossroads/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/crossroads/subscriptions",
+  "organizations_url": "https://api.github.com/users/crossroads/orgs",
+  "repos_url": "https://api.github.com/users/crossroads/repos",
+  "events_url": "https://api.github.com/users/crossroads/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/crossroads/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

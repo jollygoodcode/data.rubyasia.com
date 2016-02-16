@@ -1,0 +1,20 @@
+{
+  "login": "znz",
+  "id": 11857,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11857?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/znz",
+  "html_url": "https://github.com/znz",
+  "followers_url": "https://api.github.com/users/znz/followers",
+  "following_url": "https://api.github.com/users/znz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/znz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/znz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/znz/subscriptions",
+  "organizations_url": "https://api.github.com/users/znz/orgs",
+  "repos_url": "https://api.github.com/users/znz/repos",
+  "events_url": "https://api.github.com/users/znz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/znz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

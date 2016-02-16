@@ -1,0 +1,20 @@
+{
+  "login": "weilu",
+  "id": 412533,
+  "avatar_url": "https://avatars.githubusercontent.com/u/412533?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/weilu",
+  "html_url": "https://github.com/weilu",
+  "followers_url": "https://api.github.com/users/weilu/followers",
+  "following_url": "https://api.github.com/users/weilu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/weilu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/weilu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/weilu/subscriptions",
+  "organizations_url": "https://api.github.com/users/weilu/orgs",
+  "repos_url": "https://api.github.com/users/weilu/repos",
+  "events_url": "https://api.github.com/users/weilu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/weilu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

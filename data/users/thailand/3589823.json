@@ -1,0 +1,20 @@
+{
+  "login": "tanirero",
+  "id": 3589823,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3589823?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tanirero",
+  "html_url": "https://github.com/tanirero",
+  "followers_url": "https://api.github.com/users/tanirero/followers",
+  "following_url": "https://api.github.com/users/tanirero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tanirero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tanirero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tanirero/subscriptions",
+  "organizations_url": "https://api.github.com/users/tanirero/orgs",
+  "repos_url": "https://api.github.com/users/tanirero/repos",
+  "events_url": "https://api.github.com/users/tanirero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tanirero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "zenhacks",
+  "id": 1931545,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1931545?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zenhacks",
+  "html_url": "https://github.com/zenhacks",
+  "followers_url": "https://api.github.com/users/zenhacks/followers",
+  "following_url": "https://api.github.com/users/zenhacks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zenhacks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zenhacks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zenhacks/subscriptions",
+  "organizations_url": "https://api.github.com/users/zenhacks/orgs",
+  "repos_url": "https://api.github.com/users/zenhacks/repos",
+  "events_url": "https://api.github.com/users/zenhacks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zenhacks/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

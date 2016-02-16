@@ -1,0 +1,20 @@
+{
+  "login": "sujrd",
+  "id": 1828859,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1828859?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sujrd",
+  "html_url": "https://github.com/sujrd",
+  "followers_url": "https://api.github.com/users/sujrd/followers",
+  "following_url": "https://api.github.com/users/sujrd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sujrd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sujrd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sujrd/subscriptions",
+  "organizations_url": "https://api.github.com/users/sujrd/orgs",
+  "repos_url": "https://api.github.com/users/sujrd/repos",
+  "events_url": "https://api.github.com/users/sujrd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sujrd/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

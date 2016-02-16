@@ -1,0 +1,20 @@
+{
+  "login": "suetming",
+  "id": 361649,
+  "avatar_url": "https://avatars.githubusercontent.com/u/361649?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suetming",
+  "html_url": "https://github.com/suetming",
+  "followers_url": "https://api.github.com/users/suetming/followers",
+  "following_url": "https://api.github.com/users/suetming/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suetming/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suetming/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suetming/subscriptions",
+  "organizations_url": "https://api.github.com/users/suetming/orgs",
+  "repos_url": "https://api.github.com/users/suetming/repos",
+  "events_url": "https://api.github.com/users/suetming/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suetming/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

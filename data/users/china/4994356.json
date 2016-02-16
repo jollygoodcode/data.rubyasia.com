@@ -1,0 +1,20 @@
+{
+  "login": "technic-tec",
+  "id": 4994356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4994356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/technic-tec",
+  "html_url": "https://github.com/technic-tec",
+  "followers_url": "https://api.github.com/users/technic-tec/followers",
+  "following_url": "https://api.github.com/users/technic-tec/following{/other_user}",
+  "gists_url": "https://api.github.com/users/technic-tec/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/technic-tec/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/technic-tec/subscriptions",
+  "organizations_url": "https://api.github.com/users/technic-tec/orgs",
+  "repos_url": "https://api.github.com/users/technic-tec/repos",
+  "events_url": "https://api.github.com/users/technic-tec/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/technic-tec/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

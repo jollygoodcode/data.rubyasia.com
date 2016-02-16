@@ -1,0 +1,20 @@
+{
+  "login": "Kadvin",
+  "id": 76483,
+  "avatar_url": "https://avatars.githubusercontent.com/u/76483?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Kadvin",
+  "html_url": "https://github.com/Kadvin",
+  "followers_url": "https://api.github.com/users/Kadvin/followers",
+  "following_url": "https://api.github.com/users/Kadvin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Kadvin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Kadvin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Kadvin/subscriptions",
+  "organizations_url": "https://api.github.com/users/Kadvin/orgs",
+  "repos_url": "https://api.github.com/users/Kadvin/repos",
+  "events_url": "https://api.github.com/users/Kadvin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Kadvin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

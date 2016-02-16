@@ -1,0 +1,20 @@
+{
+  "login": "tinixx",
+  "id": 14053332,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14053332?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tinixx",
+  "html_url": "https://github.com/tinixx",
+  "followers_url": "https://api.github.com/users/tinixx/followers",
+  "following_url": "https://api.github.com/users/tinixx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tinixx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tinixx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tinixx/subscriptions",
+  "organizations_url": "https://api.github.com/users/tinixx/orgs",
+  "repos_url": "https://api.github.com/users/tinixx/repos",
+  "events_url": "https://api.github.com/users/tinixx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tinixx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shoting",
+  "id": 70874,
+  "avatar_url": "https://avatars.githubusercontent.com/u/70874?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shoting",
+  "html_url": "https://github.com/shoting",
+  "followers_url": "https://api.github.com/users/shoting/followers",
+  "following_url": "https://api.github.com/users/shoting/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shoting/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shoting/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shoting/subscriptions",
+  "organizations_url": "https://api.github.com/users/shoting/orgs",
+  "repos_url": "https://api.github.com/users/shoting/repos",
+  "events_url": "https://api.github.com/users/shoting/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shoting/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

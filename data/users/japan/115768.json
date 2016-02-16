@@ -1,0 +1,20 @@
+{
+  "login": "moreta",
+  "id": 115768,
+  "avatar_url": "https://avatars.githubusercontent.com/u/115768?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moreta",
+  "html_url": "https://github.com/moreta",
+  "followers_url": "https://api.github.com/users/moreta/followers",
+  "following_url": "https://api.github.com/users/moreta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moreta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moreta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moreta/subscriptions",
+  "organizations_url": "https://api.github.com/users/moreta/orgs",
+  "repos_url": "https://api.github.com/users/moreta/repos",
+  "events_url": "https://api.github.com/users/moreta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moreta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

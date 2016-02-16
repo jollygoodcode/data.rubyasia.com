@@ -1,0 +1,20 @@
+{
+  "login": "simojenki",
+  "id": 4586,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4586?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simojenki",
+  "html_url": "https://github.com/simojenki",
+  "followers_url": "https://api.github.com/users/simojenki/followers",
+  "following_url": "https://api.github.com/users/simojenki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simojenki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simojenki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simojenki/subscriptions",
+  "organizations_url": "https://api.github.com/users/simojenki/orgs",
+  "repos_url": "https://api.github.com/users/simojenki/repos",
+  "events_url": "https://api.github.com/users/simojenki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simojenki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

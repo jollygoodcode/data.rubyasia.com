@@ -1,0 +1,20 @@
+{
+  "login": "stknohg",
+  "id": 720127,
+  "avatar_url": "https://avatars.githubusercontent.com/u/720127?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stknohg",
+  "html_url": "https://github.com/stknohg",
+  "followers_url": "https://api.github.com/users/stknohg/followers",
+  "following_url": "https://api.github.com/users/stknohg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stknohg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stknohg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stknohg/subscriptions",
+  "organizations_url": "https://api.github.com/users/stknohg/orgs",
+  "repos_url": "https://api.github.com/users/stknohg/repos",
+  "events_url": "https://api.github.com/users/stknohg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stknohg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

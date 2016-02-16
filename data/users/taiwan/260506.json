@@ -1,0 +1,20 @@
+{
+  "login": "twtw",
+  "id": 260506,
+  "avatar_url": "https://avatars.githubusercontent.com/u/260506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/twtw",
+  "html_url": "https://github.com/twtw",
+  "followers_url": "https://api.github.com/users/twtw/followers",
+  "following_url": "https://api.github.com/users/twtw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/twtw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/twtw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/twtw/subscriptions",
+  "organizations_url": "https://api.github.com/users/twtw/orgs",
+  "repos_url": "https://api.github.com/users/twtw/repos",
+  "events_url": "https://api.github.com/users/twtw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/twtw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

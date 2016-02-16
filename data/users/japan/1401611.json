@@ -1,0 +1,20 @@
+{
+  "login": "snnrk",
+  "id": 1401611,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1401611?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/snnrk",
+  "html_url": "https://github.com/snnrk",
+  "followers_url": "https://api.github.com/users/snnrk/followers",
+  "following_url": "https://api.github.com/users/snnrk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/snnrk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/snnrk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/snnrk/subscriptions",
+  "organizations_url": "https://api.github.com/users/snnrk/orgs",
+  "repos_url": "https://api.github.com/users/snnrk/repos",
+  "events_url": "https://api.github.com/users/snnrk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/snnrk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

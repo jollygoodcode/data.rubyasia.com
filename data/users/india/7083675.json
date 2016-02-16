@@ -1,0 +1,20 @@
+{
+  "login": "noufalk",
+  "id": 7083675,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7083675?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/noufalk",
+  "html_url": "https://github.com/noufalk",
+  "followers_url": "https://api.github.com/users/noufalk/followers",
+  "following_url": "https://api.github.com/users/noufalk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/noufalk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/noufalk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/noufalk/subscriptions",
+  "organizations_url": "https://api.github.com/users/noufalk/orgs",
+  "repos_url": "https://api.github.com/users/noufalk/repos",
+  "events_url": "https://api.github.com/users/noufalk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/noufalk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

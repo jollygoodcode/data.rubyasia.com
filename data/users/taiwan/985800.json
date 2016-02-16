@@ -1,0 +1,20 @@
+{
+  "login": "jacksctsai",
+  "id": 985800,
+  "avatar_url": "https://avatars.githubusercontent.com/u/985800?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jacksctsai",
+  "html_url": "https://github.com/jacksctsai",
+  "followers_url": "https://api.github.com/users/jacksctsai/followers",
+  "following_url": "https://api.github.com/users/jacksctsai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jacksctsai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jacksctsai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jacksctsai/subscriptions",
+  "organizations_url": "https://api.github.com/users/jacksctsai/orgs",
+  "repos_url": "https://api.github.com/users/jacksctsai/repos",
+  "events_url": "https://api.github.com/users/jacksctsai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jacksctsai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

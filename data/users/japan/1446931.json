@@ -1,0 +1,20 @@
+{
+  "login": "hisa110",
+  "id": 1446931,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1446931?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hisa110",
+  "html_url": "https://github.com/hisa110",
+  "followers_url": "https://api.github.com/users/hisa110/followers",
+  "following_url": "https://api.github.com/users/hisa110/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hisa110/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hisa110/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hisa110/subscriptions",
+  "organizations_url": "https://api.github.com/users/hisa110/orgs",
+  "repos_url": "https://api.github.com/users/hisa110/repos",
+  "events_url": "https://api.github.com/users/hisa110/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hisa110/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

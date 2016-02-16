@@ -1,0 +1,20 @@
+{
+  "login": "oldtie",
+  "id": 670588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/670588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oldtie",
+  "html_url": "https://github.com/oldtie",
+  "followers_url": "https://api.github.com/users/oldtie/followers",
+  "following_url": "https://api.github.com/users/oldtie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oldtie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oldtie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oldtie/subscriptions",
+  "organizations_url": "https://api.github.com/users/oldtie/orgs",
+  "repos_url": "https://api.github.com/users/oldtie/repos",
+  "events_url": "https://api.github.com/users/oldtie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oldtie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

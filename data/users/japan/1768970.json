@@ -1,0 +1,20 @@
+{
+  "login": "sohda",
+  "id": 1768970,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1768970?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sohda",
+  "html_url": "https://github.com/sohda",
+  "followers_url": "https://api.github.com/users/sohda/followers",
+  "following_url": "https://api.github.com/users/sohda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sohda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sohda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sohda/subscriptions",
+  "organizations_url": "https://api.github.com/users/sohda/orgs",
+  "repos_url": "https://api.github.com/users/sohda/repos",
+  "events_url": "https://api.github.com/users/sohda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sohda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

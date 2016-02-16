@@ -1,0 +1,20 @@
+{
+  "login": "rubytaiwan",
+  "id": 584859,
+  "avatar_url": "https://avatars.githubusercontent.com/u/584859?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubytaiwan",
+  "html_url": "https://github.com/rubytaiwan",
+  "followers_url": "https://api.github.com/users/rubytaiwan/followers",
+  "following_url": "https://api.github.com/users/rubytaiwan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubytaiwan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubytaiwan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubytaiwan/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubytaiwan/orgs",
+  "repos_url": "https://api.github.com/users/rubytaiwan/repos",
+  "events_url": "https://api.github.com/users/rubytaiwan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubytaiwan/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

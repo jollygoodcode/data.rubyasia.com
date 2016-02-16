@@ -1,0 +1,20 @@
+{
+  "login": "stepyu",
+  "id": 7279472,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7279472?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stepyu",
+  "html_url": "https://github.com/stepyu",
+  "followers_url": "https://api.github.com/users/stepyu/followers",
+  "following_url": "https://api.github.com/users/stepyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stepyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stepyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stepyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/stepyu/orgs",
+  "repos_url": "https://api.github.com/users/stepyu/repos",
+  "events_url": "https://api.github.com/users/stepyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stepyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

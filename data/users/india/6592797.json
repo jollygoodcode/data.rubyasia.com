@@ -1,0 +1,20 @@
+{
+  "login": "nosemicolon",
+  "id": 6592797,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6592797?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nosemicolon",
+  "html_url": "https://github.com/nosemicolon",
+  "followers_url": "https://api.github.com/users/nosemicolon/followers",
+  "following_url": "https://api.github.com/users/nosemicolon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nosemicolon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nosemicolon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nosemicolon/subscriptions",
+  "organizations_url": "https://api.github.com/users/nosemicolon/orgs",
+  "repos_url": "https://api.github.com/users/nosemicolon/repos",
+  "events_url": "https://api.github.com/users/nosemicolon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nosemicolon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

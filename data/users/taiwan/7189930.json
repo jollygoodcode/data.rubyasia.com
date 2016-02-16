@@ -1,0 +1,20 @@
+{
+  "login": "transedward",
+  "id": 7189930,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7189930?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/transedward",
+  "html_url": "https://github.com/transedward",
+  "followers_url": "https://api.github.com/users/transedward/followers",
+  "following_url": "https://api.github.com/users/transedward/following{/other_user}",
+  "gists_url": "https://api.github.com/users/transedward/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/transedward/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/transedward/subscriptions",
+  "organizations_url": "https://api.github.com/users/transedward/orgs",
+  "repos_url": "https://api.github.com/users/transedward/repos",
+  "events_url": "https://api.github.com/users/transedward/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/transedward/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

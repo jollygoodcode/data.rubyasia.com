@@ -1,0 +1,20 @@
+{
+  "login": "tigerlei010",
+  "id": 3232342,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3232342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tigerlei010",
+  "html_url": "https://github.com/tigerlei010",
+  "followers_url": "https://api.github.com/users/tigerlei010/followers",
+  "following_url": "https://api.github.com/users/tigerlei010/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tigerlei010/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tigerlei010/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tigerlei010/subscriptions",
+  "organizations_url": "https://api.github.com/users/tigerlei010/orgs",
+  "repos_url": "https://api.github.com/users/tigerlei010/repos",
+  "events_url": "https://api.github.com/users/tigerlei010/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tigerlei010/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

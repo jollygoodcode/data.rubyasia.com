@@ -1,0 +1,20 @@
+{
+  "login": "toshinori",
+  "id": 417662,
+  "avatar_url": "https://avatars.githubusercontent.com/u/417662?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toshinori",
+  "html_url": "https://github.com/toshinori",
+  "followers_url": "https://api.github.com/users/toshinori/followers",
+  "following_url": "https://api.github.com/users/toshinori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toshinori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toshinori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toshinori/subscriptions",
+  "organizations_url": "https://api.github.com/users/toshinori/orgs",
+  "repos_url": "https://api.github.com/users/toshinori/repos",
+  "events_url": "https://api.github.com/users/toshinori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toshinori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

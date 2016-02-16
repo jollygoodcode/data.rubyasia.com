@@ -1,0 +1,20 @@
+{
+  "login": "ganzo",
+  "id": 1132724,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1132724?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ganzo",
+  "html_url": "https://github.com/ganzo",
+  "followers_url": "https://api.github.com/users/ganzo/followers",
+  "following_url": "https://api.github.com/users/ganzo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ganzo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ganzo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ganzo/subscriptions",
+  "organizations_url": "https://api.github.com/users/ganzo/orgs",
+  "repos_url": "https://api.github.com/users/ganzo/repos",
+  "events_url": "https://api.github.com/users/ganzo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ganzo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yasuharu",
+  "id": 1283178,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1283178?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yasuharu",
+  "html_url": "https://github.com/yasuharu",
+  "followers_url": "https://api.github.com/users/yasuharu/followers",
+  "following_url": "https://api.github.com/users/yasuharu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yasuharu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yasuharu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yasuharu/subscriptions",
+  "organizations_url": "https://api.github.com/users/yasuharu/orgs",
+  "repos_url": "https://api.github.com/users/yasuharu/repos",
+  "events_url": "https://api.github.com/users/yasuharu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yasuharu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

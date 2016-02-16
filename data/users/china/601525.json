@@ -1,0 +1,20 @@
+{
+  "login": "qianthinking",
+  "id": 601525,
+  "avatar_url": "https://avatars.githubusercontent.com/u/601525?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qianthinking",
+  "html_url": "https://github.com/qianthinking",
+  "followers_url": "https://api.github.com/users/qianthinking/followers",
+  "following_url": "https://api.github.com/users/qianthinking/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qianthinking/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qianthinking/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qianthinking/subscriptions",
+  "organizations_url": "https://api.github.com/users/qianthinking/orgs",
+  "repos_url": "https://api.github.com/users/qianthinking/repos",
+  "events_url": "https://api.github.com/users/qianthinking/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qianthinking/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

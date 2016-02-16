@@ -1,0 +1,20 @@
+{
+  "login": "abigure",
+  "id": 4143320,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4143320?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abigure",
+  "html_url": "https://github.com/abigure",
+  "followers_url": "https://api.github.com/users/abigure/followers",
+  "following_url": "https://api.github.com/users/abigure/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abigure/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abigure/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abigure/subscriptions",
+  "organizations_url": "https://api.github.com/users/abigure/orgs",
+  "repos_url": "https://api.github.com/users/abigure/repos",
+  "events_url": "https://api.github.com/users/abigure/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abigure/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

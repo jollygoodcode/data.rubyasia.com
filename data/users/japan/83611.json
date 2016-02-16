@@ -1,0 +1,20 @@
+{
+  "login": "kgws",
+  "id": 83611,
+  "avatar_url": "https://avatars.githubusercontent.com/u/83611?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kgws",
+  "html_url": "https://github.com/kgws",
+  "followers_url": "https://api.github.com/users/kgws/followers",
+  "following_url": "https://api.github.com/users/kgws/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kgws/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kgws/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kgws/subscriptions",
+  "organizations_url": "https://api.github.com/users/kgws/orgs",
+  "repos_url": "https://api.github.com/users/kgws/repos",
+  "events_url": "https://api.github.com/users/kgws/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kgws/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

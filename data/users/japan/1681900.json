@@ -1,0 +1,20 @@
+{
+  "login": "kurano",
+  "id": 1681900,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1681900?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kurano",
+  "html_url": "https://github.com/kurano",
+  "followers_url": "https://api.github.com/users/kurano/followers",
+  "following_url": "https://api.github.com/users/kurano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kurano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kurano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kurano/subscriptions",
+  "organizations_url": "https://api.github.com/users/kurano/orgs",
+  "repos_url": "https://api.github.com/users/kurano/repos",
+  "events_url": "https://api.github.com/users/kurano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kurano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

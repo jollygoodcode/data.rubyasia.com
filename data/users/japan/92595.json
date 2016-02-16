@@ -1,0 +1,20 @@
+{
+  "login": "eiel",
+  "id": 92595,
+  "avatar_url": "https://avatars.githubusercontent.com/u/92595?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eiel",
+  "html_url": "https://github.com/eiel",
+  "followers_url": "https://api.github.com/users/eiel/followers",
+  "following_url": "https://api.github.com/users/eiel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eiel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eiel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eiel/subscriptions",
+  "organizations_url": "https://api.github.com/users/eiel/orgs",
+  "repos_url": "https://api.github.com/users/eiel/repos",
+  "events_url": "https://api.github.com/users/eiel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eiel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

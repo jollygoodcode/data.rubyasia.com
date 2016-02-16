@@ -1,0 +1,20 @@
+{
+  "login": "stevepotayteo",
+  "id": 246204,
+  "avatar_url": "https://avatars.githubusercontent.com/u/246204?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stevepotayteo",
+  "html_url": "https://github.com/stevepotayteo",
+  "followers_url": "https://api.github.com/users/stevepotayteo/followers",
+  "following_url": "https://api.github.com/users/stevepotayteo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stevepotayteo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stevepotayteo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stevepotayteo/subscriptions",
+  "organizations_url": "https://api.github.com/users/stevepotayteo/orgs",
+  "repos_url": "https://api.github.com/users/stevepotayteo/repos",
+  "events_url": "https://api.github.com/users/stevepotayteo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stevepotayteo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

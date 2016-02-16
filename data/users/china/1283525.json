@@ -1,0 +1,20 @@
+{
+  "login": "noirz",
+  "id": 1283525,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1283525?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/noirz",
+  "html_url": "https://github.com/noirz",
+  "followers_url": "https://api.github.com/users/noirz/followers",
+  "following_url": "https://api.github.com/users/noirz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/noirz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/noirz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/noirz/subscriptions",
+  "organizations_url": "https://api.github.com/users/noirz/orgs",
+  "repos_url": "https://api.github.com/users/noirz/repos",
+  "events_url": "https://api.github.com/users/noirz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/noirz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

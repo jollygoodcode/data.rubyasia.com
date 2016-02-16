@@ -1,0 +1,20 @@
+{
+  "login": "releasa",
+  "id": 380314,
+  "avatar_url": "https://avatars.githubusercontent.com/u/380314?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/releasa",
+  "html_url": "https://github.com/releasa",
+  "followers_url": "https://api.github.com/users/releasa/followers",
+  "following_url": "https://api.github.com/users/releasa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/releasa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/releasa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/releasa/subscriptions",
+  "organizations_url": "https://api.github.com/users/releasa/orgs",
+  "repos_url": "https://api.github.com/users/releasa/repos",
+  "events_url": "https://api.github.com/users/releasa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/releasa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

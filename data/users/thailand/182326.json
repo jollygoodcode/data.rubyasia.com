@@ -1,0 +1,20 @@
+{
+  "login": "sarutc",
+  "id": 182326,
+  "avatar_url": "https://avatars.githubusercontent.com/u/182326?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sarutc",
+  "html_url": "https://github.com/sarutc",
+  "followers_url": "https://api.github.com/users/sarutc/followers",
+  "following_url": "https://api.github.com/users/sarutc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sarutc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sarutc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sarutc/subscriptions",
+  "organizations_url": "https://api.github.com/users/sarutc/orgs",
+  "repos_url": "https://api.github.com/users/sarutc/repos",
+  "events_url": "https://api.github.com/users/sarutc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sarutc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yohfee",
+  "id": 52044,
+  "avatar_url": "https://avatars.githubusercontent.com/u/52044?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yohfee",
+  "html_url": "https://github.com/yohfee",
+  "followers_url": "https://api.github.com/users/yohfee/followers",
+  "following_url": "https://api.github.com/users/yohfee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yohfee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yohfee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yohfee/subscriptions",
+  "organizations_url": "https://api.github.com/users/yohfee/orgs",
+  "repos_url": "https://api.github.com/users/yohfee/repos",
+  "events_url": "https://api.github.com/users/yohfee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yohfee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

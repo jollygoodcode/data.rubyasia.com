@@ -1,0 +1,20 @@
+{
+  "login": "iamteem",
+  "id": 4166,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4166?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iamteem",
+  "html_url": "https://github.com/iamteem",
+  "followers_url": "https://api.github.com/users/iamteem/followers",
+  "following_url": "https://api.github.com/users/iamteem/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iamteem/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iamteem/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iamteem/subscriptions",
+  "organizations_url": "https://api.github.com/users/iamteem/orgs",
+  "repos_url": "https://api.github.com/users/iamteem/repos",
+  "events_url": "https://api.github.com/users/iamteem/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iamteem/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

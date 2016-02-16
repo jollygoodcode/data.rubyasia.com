@@ -1,0 +1,20 @@
+{
+  "login": "amonras",
+  "id": 3888123,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3888123?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amonras",
+  "html_url": "https://github.com/amonras",
+  "followers_url": "https://api.github.com/users/amonras/followers",
+  "following_url": "https://api.github.com/users/amonras/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amonras/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amonras/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amonras/subscriptions",
+  "organizations_url": "https://api.github.com/users/amonras/orgs",
+  "repos_url": "https://api.github.com/users/amonras/repos",
+  "events_url": "https://api.github.com/users/amonras/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amonras/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

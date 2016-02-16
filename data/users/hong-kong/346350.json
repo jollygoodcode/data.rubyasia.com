@@ -1,0 +1,20 @@
+{
+  "login": "beljun",
+  "id": 346350,
+  "avatar_url": "https://avatars.githubusercontent.com/u/346350?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/beljun",
+  "html_url": "https://github.com/beljun",
+  "followers_url": "https://api.github.com/users/beljun/followers",
+  "following_url": "https://api.github.com/users/beljun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/beljun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/beljun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/beljun/subscriptions",
+  "organizations_url": "https://api.github.com/users/beljun/orgs",
+  "repos_url": "https://api.github.com/users/beljun/repos",
+  "events_url": "https://api.github.com/users/beljun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/beljun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

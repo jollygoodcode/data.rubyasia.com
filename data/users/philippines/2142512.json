@@ -1,0 +1,20 @@
+{
+  "login": "proletaryo",
+  "id": 2142512,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2142512?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/proletaryo",
+  "html_url": "https://github.com/proletaryo",
+  "followers_url": "https://api.github.com/users/proletaryo/followers",
+  "following_url": "https://api.github.com/users/proletaryo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/proletaryo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/proletaryo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/proletaryo/subscriptions",
+  "organizations_url": "https://api.github.com/users/proletaryo/orgs",
+  "repos_url": "https://api.github.com/users/proletaryo/repos",
+  "events_url": "https://api.github.com/users/proletaryo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/proletaryo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

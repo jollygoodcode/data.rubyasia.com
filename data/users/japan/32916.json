@@ -1,0 +1,20 @@
+{
+  "login": "idesaku",
+  "id": 32916,
+  "avatar_url": "https://avatars.githubusercontent.com/u/32916?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idesaku",
+  "html_url": "https://github.com/idesaku",
+  "followers_url": "https://api.github.com/users/idesaku/followers",
+  "following_url": "https://api.github.com/users/idesaku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idesaku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idesaku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idesaku/subscriptions",
+  "organizations_url": "https://api.github.com/users/idesaku/orgs",
+  "repos_url": "https://api.github.com/users/idesaku/repos",
+  "events_url": "https://api.github.com/users/idesaku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idesaku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

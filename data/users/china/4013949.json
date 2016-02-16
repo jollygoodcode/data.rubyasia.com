@@ -1,0 +1,20 @@
+{
+  "login": "helone",
+  "id": 4013949,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4013949?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/helone",
+  "html_url": "https://github.com/helone",
+  "followers_url": "https://api.github.com/users/helone/followers",
+  "following_url": "https://api.github.com/users/helone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/helone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/helone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/helone/subscriptions",
+  "organizations_url": "https://api.github.com/users/helone/orgs",
+  "repos_url": "https://api.github.com/users/helone/repos",
+  "events_url": "https://api.github.com/users/helone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/helone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

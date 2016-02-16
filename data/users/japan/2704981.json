@@ -1,0 +1,20 @@
+{
+  "login": "team-lab",
+  "id": 2704981,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2704981?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/team-lab",
+  "html_url": "https://github.com/team-lab",
+  "followers_url": "https://api.github.com/users/team-lab/followers",
+  "following_url": "https://api.github.com/users/team-lab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/team-lab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/team-lab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/team-lab/subscriptions",
+  "organizations_url": "https://api.github.com/users/team-lab/orgs",
+  "repos_url": "https://api.github.com/users/team-lab/repos",
+  "events_url": "https://api.github.com/users/team-lab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/team-lab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

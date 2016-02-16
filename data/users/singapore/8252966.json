@@ -1,0 +1,20 @@
+{
+  "login": "flameworks",
+  "id": 8252966,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8252966?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flameworks",
+  "html_url": "https://github.com/flameworks",
+  "followers_url": "https://api.github.com/users/flameworks/followers",
+  "following_url": "https://api.github.com/users/flameworks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flameworks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flameworks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flameworks/subscriptions",
+  "organizations_url": "https://api.github.com/users/flameworks/orgs",
+  "repos_url": "https://api.github.com/users/flameworks/repos",
+  "events_url": "https://api.github.com/users/flameworks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flameworks/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

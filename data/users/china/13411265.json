@@ -1,0 +1,20 @@
+{
+  "login": "LTLGitHub",
+  "id": 13411265,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13411265?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LTLGitHub",
+  "html_url": "https://github.com/LTLGitHub",
+  "followers_url": "https://api.github.com/users/LTLGitHub/followers",
+  "following_url": "https://api.github.com/users/LTLGitHub/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LTLGitHub/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LTLGitHub/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LTLGitHub/subscriptions",
+  "organizations_url": "https://api.github.com/users/LTLGitHub/orgs",
+  "repos_url": "https://api.github.com/users/LTLGitHub/repos",
+  "events_url": "https://api.github.com/users/LTLGitHub/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LTLGitHub/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

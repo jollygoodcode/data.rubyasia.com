@@ -1,0 +1,20 @@
+{
+  "login": "jaybloke",
+  "id": 564037,
+  "avatar_url": "https://avatars.githubusercontent.com/u/564037?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jaybloke",
+  "html_url": "https://github.com/jaybloke",
+  "followers_url": "https://api.github.com/users/jaybloke/followers",
+  "following_url": "https://api.github.com/users/jaybloke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jaybloke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jaybloke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jaybloke/subscriptions",
+  "organizations_url": "https://api.github.com/users/jaybloke/orgs",
+  "repos_url": "https://api.github.com/users/jaybloke/repos",
+  "events_url": "https://api.github.com/users/jaybloke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jaybloke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

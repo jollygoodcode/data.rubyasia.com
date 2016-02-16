@@ -1,0 +1,20 @@
+{
+  "login": "3dd13",
+  "id": 223555,
+  "avatar_url": "https://avatars.githubusercontent.com/u/223555?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/3dd13",
+  "html_url": "https://github.com/3dd13",
+  "followers_url": "https://api.github.com/users/3dd13/followers",
+  "following_url": "https://api.github.com/users/3dd13/following{/other_user}",
+  "gists_url": "https://api.github.com/users/3dd13/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/3dd13/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/3dd13/subscriptions",
+  "organizations_url": "https://api.github.com/users/3dd13/orgs",
+  "repos_url": "https://api.github.com/users/3dd13/repos",
+  "events_url": "https://api.github.com/users/3dd13/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/3dd13/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

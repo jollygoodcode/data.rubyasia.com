@@ -1,0 +1,20 @@
+{
+  "login": "jovillartz",
+  "id": 8719558,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8719558?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jovillartz",
+  "html_url": "https://github.com/jovillartz",
+  "followers_url": "https://api.github.com/users/jovillartz/followers",
+  "following_url": "https://api.github.com/users/jovillartz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jovillartz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jovillartz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jovillartz/subscriptions",
+  "organizations_url": "https://api.github.com/users/jovillartz/orgs",
+  "repos_url": "https://api.github.com/users/jovillartz/repos",
+  "events_url": "https://api.github.com/users/jovillartz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jovillartz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

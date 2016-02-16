@@ -1,0 +1,20 @@
+{
+  "login": "yhunglee",
+  "id": 953536,
+  "avatar_url": "https://avatars.githubusercontent.com/u/953536?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yhunglee",
+  "html_url": "https://github.com/yhunglee",
+  "followers_url": "https://api.github.com/users/yhunglee/followers",
+  "following_url": "https://api.github.com/users/yhunglee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yhunglee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yhunglee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yhunglee/subscriptions",
+  "organizations_url": "https://api.github.com/users/yhunglee/orgs",
+  "repos_url": "https://api.github.com/users/yhunglee/repos",
+  "events_url": "https://api.github.com/users/yhunglee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yhunglee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

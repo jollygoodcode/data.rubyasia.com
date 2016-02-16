@@ -1,0 +1,20 @@
+{
+  "login": "allenwei",
+  "id": 83094,
+  "avatar_url": "https://avatars.githubusercontent.com/u/83094?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/allenwei",
+  "html_url": "https://github.com/allenwei",
+  "followers_url": "https://api.github.com/users/allenwei/followers",
+  "following_url": "https://api.github.com/users/allenwei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/allenwei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/allenwei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/allenwei/subscriptions",
+  "organizations_url": "https://api.github.com/users/allenwei/orgs",
+  "repos_url": "https://api.github.com/users/allenwei/repos",
+  "events_url": "https://api.github.com/users/allenwei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/allenwei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "oame",
+  "id": 9673255,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9673255?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oame",
+  "html_url": "https://github.com/oame",
+  "followers_url": "https://api.github.com/users/oame/followers",
+  "following_url": "https://api.github.com/users/oame/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oame/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oame/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oame/subscriptions",
+  "organizations_url": "https://api.github.com/users/oame/orgs",
+  "repos_url": "https://api.github.com/users/oame/repos",
+  "events_url": "https://api.github.com/users/oame/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oame/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

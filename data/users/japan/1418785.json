@@ -1,0 +1,20 @@
+{
+  "login": "Syobon",
+  "id": 1418785,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1418785?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Syobon",
+  "html_url": "https://github.com/Syobon",
+  "followers_url": "https://api.github.com/users/Syobon/followers",
+  "following_url": "https://api.github.com/users/Syobon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Syobon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Syobon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Syobon/subscriptions",
+  "organizations_url": "https://api.github.com/users/Syobon/orgs",
+  "repos_url": "https://api.github.com/users/Syobon/repos",
+  "events_url": "https://api.github.com/users/Syobon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Syobon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

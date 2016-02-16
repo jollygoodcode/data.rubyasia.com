@@ -1,0 +1,20 @@
+{
+  "login": "phalconhost",
+  "id": 8342744,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8342744?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/phalconhost",
+  "html_url": "https://github.com/phalconhost",
+  "followers_url": "https://api.github.com/users/phalconhost/followers",
+  "following_url": "https://api.github.com/users/phalconhost/following{/other_user}",
+  "gists_url": "https://api.github.com/users/phalconhost/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/phalconhost/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/phalconhost/subscriptions",
+  "organizations_url": "https://api.github.com/users/phalconhost/orgs",
+  "repos_url": "https://api.github.com/users/phalconhost/repos",
+  "events_url": "https://api.github.com/users/phalconhost/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/phalconhost/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "littleking",
+  "id": 4402919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4402919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/littleking",
+  "html_url": "https://github.com/littleking",
+  "followers_url": "https://api.github.com/users/littleking/followers",
+  "following_url": "https://api.github.com/users/littleking/following{/other_user}",
+  "gists_url": "https://api.github.com/users/littleking/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/littleking/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/littleking/subscriptions",
+  "organizations_url": "https://api.github.com/users/littleking/orgs",
+  "repos_url": "https://api.github.com/users/littleking/repos",
+  "events_url": "https://api.github.com/users/littleking/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/littleking/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Katoshin",
+  "id": 5594280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5594280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Katoshin",
+  "html_url": "https://github.com/Katoshin",
+  "followers_url": "https://api.github.com/users/Katoshin/followers",
+  "following_url": "https://api.github.com/users/Katoshin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Katoshin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Katoshin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Katoshin/subscriptions",
+  "organizations_url": "https://api.github.com/users/Katoshin/orgs",
+  "repos_url": "https://api.github.com/users/Katoshin/repos",
+  "events_url": "https://api.github.com/users/Katoshin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Katoshin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

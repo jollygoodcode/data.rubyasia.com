@@ -1,0 +1,20 @@
+{
+  "login": "paresharma",
+  "id": 1743203,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1743203?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paresharma",
+  "html_url": "https://github.com/paresharma",
+  "followers_url": "https://api.github.com/users/paresharma/followers",
+  "following_url": "https://api.github.com/users/paresharma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paresharma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paresharma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paresharma/subscriptions",
+  "organizations_url": "https://api.github.com/users/paresharma/orgs",
+  "repos_url": "https://api.github.com/users/paresharma/repos",
+  "events_url": "https://api.github.com/users/paresharma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paresharma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

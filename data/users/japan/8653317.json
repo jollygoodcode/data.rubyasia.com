@@ -1,0 +1,20 @@
+{
+  "login": "sekika",
+  "id": 8653317,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8653317?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sekika",
+  "html_url": "https://github.com/sekika",
+  "followers_url": "https://api.github.com/users/sekika/followers",
+  "following_url": "https://api.github.com/users/sekika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sekika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sekika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sekika/subscriptions",
+  "organizations_url": "https://api.github.com/users/sekika/orgs",
+  "repos_url": "https://api.github.com/users/sekika/repos",
+  "events_url": "https://api.github.com/users/sekika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sekika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

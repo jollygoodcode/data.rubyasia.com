@@ -1,0 +1,20 @@
+{
+  "login": "antoaruncse",
+  "id": 4453209,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4453209?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/antoaruncse",
+  "html_url": "https://github.com/antoaruncse",
+  "followers_url": "https://api.github.com/users/antoaruncse/followers",
+  "following_url": "https://api.github.com/users/antoaruncse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/antoaruncse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/antoaruncse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/antoaruncse/subscriptions",
+  "organizations_url": "https://api.github.com/users/antoaruncse/orgs",
+  "repos_url": "https://api.github.com/users/antoaruncse/repos",
+  "events_url": "https://api.github.com/users/antoaruncse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/antoaruncse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

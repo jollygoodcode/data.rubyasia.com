@@ -1,0 +1,20 @@
+{
+  "login": "kenkenpa",
+  "id": 1042526,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1042526?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kenkenpa",
+  "html_url": "https://github.com/kenkenpa",
+  "followers_url": "https://api.github.com/users/kenkenpa/followers",
+  "following_url": "https://api.github.com/users/kenkenpa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kenkenpa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kenkenpa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kenkenpa/subscriptions",
+  "organizations_url": "https://api.github.com/users/kenkenpa/orgs",
+  "repos_url": "https://api.github.com/users/kenkenpa/repos",
+  "events_url": "https://api.github.com/users/kenkenpa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kenkenpa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

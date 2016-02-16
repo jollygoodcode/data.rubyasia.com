@@ -1,0 +1,20 @@
+{
+  "login": "vickyonit",
+  "id": 2297951,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2297951?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vickyonit",
+  "html_url": "https://github.com/vickyonit",
+  "followers_url": "https://api.github.com/users/vickyonit/followers",
+  "following_url": "https://api.github.com/users/vickyonit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vickyonit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vickyonit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vickyonit/subscriptions",
+  "organizations_url": "https://api.github.com/users/vickyonit/orgs",
+  "repos_url": "https://api.github.com/users/vickyonit/repos",
+  "events_url": "https://api.github.com/users/vickyonit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vickyonit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "omarsar",
+  "id": 7049564,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7049564?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/omarsar",
+  "html_url": "https://github.com/omarsar",
+  "followers_url": "https://api.github.com/users/omarsar/followers",
+  "following_url": "https://api.github.com/users/omarsar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/omarsar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/omarsar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/omarsar/subscriptions",
+  "organizations_url": "https://api.github.com/users/omarsar/orgs",
+  "repos_url": "https://api.github.com/users/omarsar/repos",
+  "events_url": "https://api.github.com/users/omarsar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/omarsar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

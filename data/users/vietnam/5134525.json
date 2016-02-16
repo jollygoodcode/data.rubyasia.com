@@ -1,0 +1,20 @@
+{
+  "login": "vinh-nguyen",
+  "id": 5134525,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5134525?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vinh-nguyen",
+  "html_url": "https://github.com/vinh-nguyen",
+  "followers_url": "https://api.github.com/users/vinh-nguyen/followers",
+  "following_url": "https://api.github.com/users/vinh-nguyen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vinh-nguyen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vinh-nguyen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vinh-nguyen/subscriptions",
+  "organizations_url": "https://api.github.com/users/vinh-nguyen/orgs",
+  "repos_url": "https://api.github.com/users/vinh-nguyen/repos",
+  "events_url": "https://api.github.com/users/vinh-nguyen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vinh-nguyen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

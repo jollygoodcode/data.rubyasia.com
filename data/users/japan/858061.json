@@ -1,0 +1,20 @@
+{
+  "login": "ywatai",
+  "id": 858061,
+  "avatar_url": "https://avatars.githubusercontent.com/u/858061?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ywatai",
+  "html_url": "https://github.com/ywatai",
+  "followers_url": "https://api.github.com/users/ywatai/followers",
+  "following_url": "https://api.github.com/users/ywatai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ywatai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ywatai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ywatai/subscriptions",
+  "organizations_url": "https://api.github.com/users/ywatai/orgs",
+  "repos_url": "https://api.github.com/users/ywatai/repos",
+  "events_url": "https://api.github.com/users/ywatai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ywatai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "FrankyWu",
+  "id": 5209726,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5209726?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FrankyWu",
+  "html_url": "https://github.com/FrankyWu",
+  "followers_url": "https://api.github.com/users/FrankyWu/followers",
+  "following_url": "https://api.github.com/users/FrankyWu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FrankyWu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FrankyWu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FrankyWu/subscriptions",
+  "organizations_url": "https://api.github.com/users/FrankyWu/orgs",
+  "repos_url": "https://api.github.com/users/FrankyWu/repos",
+  "events_url": "https://api.github.com/users/FrankyWu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FrankyWu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

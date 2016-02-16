@@ -1,0 +1,20 @@
+{
+  "login": "takatoh",
+  "id": 68589,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68589?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takatoh",
+  "html_url": "https://github.com/takatoh",
+  "followers_url": "https://api.github.com/users/takatoh/followers",
+  "following_url": "https://api.github.com/users/takatoh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takatoh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takatoh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takatoh/subscriptions",
+  "organizations_url": "https://api.github.com/users/takatoh/orgs",
+  "repos_url": "https://api.github.com/users/takatoh/repos",
+  "events_url": "https://api.github.com/users/takatoh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takatoh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

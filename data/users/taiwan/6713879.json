@@ -1,0 +1,20 @@
+{
+  "login": "kaogaau",
+  "id": 6713879,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6713879?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaogaau",
+  "html_url": "https://github.com/kaogaau",
+  "followers_url": "https://api.github.com/users/kaogaau/followers",
+  "following_url": "https://api.github.com/users/kaogaau/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaogaau/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaogaau/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaogaau/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaogaau/orgs",
+  "repos_url": "https://api.github.com/users/kaogaau/repos",
+  "events_url": "https://api.github.com/users/kaogaau/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaogaau/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

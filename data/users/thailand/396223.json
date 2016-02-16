@@ -1,0 +1,20 @@
+{
+  "login": "khakimov",
+  "id": 396223,
+  "avatar_url": "https://avatars.githubusercontent.com/u/396223?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khakimov",
+  "html_url": "https://github.com/khakimov",
+  "followers_url": "https://api.github.com/users/khakimov/followers",
+  "following_url": "https://api.github.com/users/khakimov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khakimov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khakimov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khakimov/subscriptions",
+  "organizations_url": "https://api.github.com/users/khakimov/orgs",
+  "repos_url": "https://api.github.com/users/khakimov/repos",
+  "events_url": "https://api.github.com/users/khakimov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khakimov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

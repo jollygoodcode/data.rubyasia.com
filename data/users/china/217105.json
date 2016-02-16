@@ -1,0 +1,20 @@
+{
+  "login": "qmyuan",
+  "id": 217105,
+  "avatar_url": "https://avatars.githubusercontent.com/u/217105?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qmyuan",
+  "html_url": "https://github.com/qmyuan",
+  "followers_url": "https://api.github.com/users/qmyuan/followers",
+  "following_url": "https://api.github.com/users/qmyuan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qmyuan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qmyuan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qmyuan/subscriptions",
+  "organizations_url": "https://api.github.com/users/qmyuan/orgs",
+  "repos_url": "https://api.github.com/users/qmyuan/repos",
+  "events_url": "https://api.github.com/users/qmyuan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qmyuan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

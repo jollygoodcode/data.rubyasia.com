@@ -1,0 +1,20 @@
+{
+  "login": "kinion",
+  "id": 1555198,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1555198?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kinion",
+  "html_url": "https://github.com/kinion",
+  "followers_url": "https://api.github.com/users/kinion/followers",
+  "following_url": "https://api.github.com/users/kinion/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kinion/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kinion/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kinion/subscriptions",
+  "organizations_url": "https://api.github.com/users/kinion/orgs",
+  "repos_url": "https://api.github.com/users/kinion/repos",
+  "events_url": "https://api.github.com/users/kinion/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kinion/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

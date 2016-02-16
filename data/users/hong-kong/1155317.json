@@ -1,0 +1,20 @@
+{
+  "login": "ghkensington",
+  "id": 1155317,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1155317?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ghkensington",
+  "html_url": "https://github.com/ghkensington",
+  "followers_url": "https://api.github.com/users/ghkensington/followers",
+  "following_url": "https://api.github.com/users/ghkensington/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ghkensington/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ghkensington/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ghkensington/subscriptions",
+  "organizations_url": "https://api.github.com/users/ghkensington/orgs",
+  "repos_url": "https://api.github.com/users/ghkensington/repos",
+  "events_url": "https://api.github.com/users/ghkensington/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ghkensington/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "otaq",
+  "id": 5705982,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5705982?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/otaq",
+  "html_url": "https://github.com/otaq",
+  "followers_url": "https://api.github.com/users/otaq/followers",
+  "following_url": "https://api.github.com/users/otaq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/otaq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/otaq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/otaq/subscriptions",
+  "organizations_url": "https://api.github.com/users/otaq/orgs",
+  "repos_url": "https://api.github.com/users/otaq/repos",
+  "events_url": "https://api.github.com/users/otaq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/otaq/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

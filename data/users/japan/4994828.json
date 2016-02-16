@@ -1,0 +1,20 @@
+{
+  "login": "73log",
+  "id": 4994828,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4994828?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/73log",
+  "html_url": "https://github.com/73log",
+  "followers_url": "https://api.github.com/users/73log/followers",
+  "following_url": "https://api.github.com/users/73log/following{/other_user}",
+  "gists_url": "https://api.github.com/users/73log/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/73log/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/73log/subscriptions",
+  "organizations_url": "https://api.github.com/users/73log/orgs",
+  "repos_url": "https://api.github.com/users/73log/repos",
+  "events_url": "https://api.github.com/users/73log/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/73log/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

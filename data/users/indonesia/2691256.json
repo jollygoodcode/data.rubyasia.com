@@ -1,0 +1,20 @@
+{
+  "login": "tyegah",
+  "id": 2691256,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2691256?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tyegah",
+  "html_url": "https://github.com/tyegah",
+  "followers_url": "https://api.github.com/users/tyegah/followers",
+  "following_url": "https://api.github.com/users/tyegah/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tyegah/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tyegah/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tyegah/subscriptions",
+  "organizations_url": "https://api.github.com/users/tyegah/orgs",
+  "repos_url": "https://api.github.com/users/tyegah/repos",
+  "events_url": "https://api.github.com/users/tyegah/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tyegah/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

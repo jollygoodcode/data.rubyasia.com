@@ -1,0 +1,20 @@
+{
+  "login": "pqnga",
+  "id": 343553,
+  "avatar_url": "https://avatars.githubusercontent.com/u/343553?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pqnga",
+  "html_url": "https://github.com/pqnga",
+  "followers_url": "https://api.github.com/users/pqnga/followers",
+  "following_url": "https://api.github.com/users/pqnga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pqnga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pqnga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pqnga/subscriptions",
+  "organizations_url": "https://api.github.com/users/pqnga/orgs",
+  "repos_url": "https://api.github.com/users/pqnga/repos",
+  "events_url": "https://api.github.com/users/pqnga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pqnga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

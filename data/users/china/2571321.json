@@ -1,0 +1,20 @@
+{
+  "login": "qianzui",
+  "id": 2571321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2571321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qianzui",
+  "html_url": "https://github.com/qianzui",
+  "followers_url": "https://api.github.com/users/qianzui/followers",
+  "following_url": "https://api.github.com/users/qianzui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qianzui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qianzui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qianzui/subscriptions",
+  "organizations_url": "https://api.github.com/users/qianzui/orgs",
+  "repos_url": "https://api.github.com/users/qianzui/repos",
+  "events_url": "https://api.github.com/users/qianzui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qianzui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

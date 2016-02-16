@@ -1,0 +1,20 @@
+{
+  "login": "ashbb",
+  "id": 25582,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25582?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ashbb",
+  "html_url": "https://github.com/ashbb",
+  "followers_url": "https://api.github.com/users/ashbb/followers",
+  "following_url": "https://api.github.com/users/ashbb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ashbb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ashbb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ashbb/subscriptions",
+  "organizations_url": "https://api.github.com/users/ashbb/orgs",
+  "repos_url": "https://api.github.com/users/ashbb/repos",
+  "events_url": "https://api.github.com/users/ashbb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ashbb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

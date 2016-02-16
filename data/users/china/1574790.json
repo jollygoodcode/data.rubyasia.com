@@ -1,0 +1,20 @@
+{
+  "login": "andrewzhyl",
+  "id": 1574790,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1574790?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andrewzhyl",
+  "html_url": "https://github.com/andrewzhyl",
+  "followers_url": "https://api.github.com/users/andrewzhyl/followers",
+  "following_url": "https://api.github.com/users/andrewzhyl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andrewzhyl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andrewzhyl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andrewzhyl/subscriptions",
+  "organizations_url": "https://api.github.com/users/andrewzhyl/orgs",
+  "repos_url": "https://api.github.com/users/andrewzhyl/repos",
+  "events_url": "https://api.github.com/users/andrewzhyl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andrewzhyl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

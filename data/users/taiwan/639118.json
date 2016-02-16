@@ -1,0 +1,20 @@
+{
+  "login": "rmundo",
+  "id": 639118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/639118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rmundo",
+  "html_url": "https://github.com/rmundo",
+  "followers_url": "https://api.github.com/users/rmundo/followers",
+  "following_url": "https://api.github.com/users/rmundo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rmundo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rmundo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rmundo/subscriptions",
+  "organizations_url": "https://api.github.com/users/rmundo/orgs",
+  "repos_url": "https://api.github.com/users/rmundo/repos",
+  "events_url": "https://api.github.com/users/rmundo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rmundo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "txtmiku",
+  "id": 1518594,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1518594?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/txtmiku",
+  "html_url": "https://github.com/txtmiku",
+  "followers_url": "https://api.github.com/users/txtmiku/followers",
+  "following_url": "https://api.github.com/users/txtmiku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/txtmiku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/txtmiku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/txtmiku/subscriptions",
+  "organizations_url": "https://api.github.com/users/txtmiku/orgs",
+  "repos_url": "https://api.github.com/users/txtmiku/repos",
+  "events_url": "https://api.github.com/users/txtmiku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/txtmiku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "louiscon",
+  "id": 6913489,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6913489?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/louiscon",
+  "html_url": "https://github.com/louiscon",
+  "followers_url": "https://api.github.com/users/louiscon/followers",
+  "following_url": "https://api.github.com/users/louiscon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/louiscon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/louiscon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/louiscon/subscriptions",
+  "organizations_url": "https://api.github.com/users/louiscon/orgs",
+  "repos_url": "https://api.github.com/users/louiscon/repos",
+  "events_url": "https://api.github.com/users/louiscon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/louiscon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

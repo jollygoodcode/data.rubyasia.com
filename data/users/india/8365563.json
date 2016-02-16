@@ -1,0 +1,20 @@
+{
+  "login": "manojdevs",
+  "id": 8365563,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8365563?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/manojdevs",
+  "html_url": "https://github.com/manojdevs",
+  "followers_url": "https://api.github.com/users/manojdevs/followers",
+  "following_url": "https://api.github.com/users/manojdevs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/manojdevs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/manojdevs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/manojdevs/subscriptions",
+  "organizations_url": "https://api.github.com/users/manojdevs/orgs",
+  "repos_url": "https://api.github.com/users/manojdevs/repos",
+  "events_url": "https://api.github.com/users/manojdevs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/manojdevs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ffcheng",
+  "id": 7588238,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7588238?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ffcheng",
+  "html_url": "https://github.com/ffcheng",
+  "followers_url": "https://api.github.com/users/ffcheng/followers",
+  "following_url": "https://api.github.com/users/ffcheng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ffcheng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ffcheng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ffcheng/subscriptions",
+  "organizations_url": "https://api.github.com/users/ffcheng/orgs",
+  "repos_url": "https://api.github.com/users/ffcheng/repos",
+  "events_url": "https://api.github.com/users/ffcheng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ffcheng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

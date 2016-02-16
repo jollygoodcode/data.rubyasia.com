@@ -1,0 +1,20 @@
+{
+  "login": "xiangpeng",
+  "id": 2032781,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2032781?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xiangpeng",
+  "html_url": "https://github.com/xiangpeng",
+  "followers_url": "https://api.github.com/users/xiangpeng/followers",
+  "following_url": "https://api.github.com/users/xiangpeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xiangpeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xiangpeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xiangpeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/xiangpeng/orgs",
+  "repos_url": "https://api.github.com/users/xiangpeng/repos",
+  "events_url": "https://api.github.com/users/xiangpeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xiangpeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

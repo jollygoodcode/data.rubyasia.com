@@ -1,0 +1,20 @@
+{
+  "login": "MainStMission",
+  "id": 1667159,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1667159?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MainStMission",
+  "html_url": "https://github.com/MainStMission",
+  "followers_url": "https://api.github.com/users/MainStMission/followers",
+  "following_url": "https://api.github.com/users/MainStMission/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MainStMission/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MainStMission/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MainStMission/subscriptions",
+  "organizations_url": "https://api.github.com/users/MainStMission/orgs",
+  "repos_url": "https://api.github.com/users/MainStMission/repos",
+  "events_url": "https://api.github.com/users/MainStMission/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MainStMission/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

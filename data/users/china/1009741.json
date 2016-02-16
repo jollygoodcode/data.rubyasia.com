@@ -1,0 +1,20 @@
+{
+  "login": "DotHide",
+  "id": 1009741,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1009741?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DotHide",
+  "html_url": "https://github.com/DotHide",
+  "followers_url": "https://api.github.com/users/DotHide/followers",
+  "following_url": "https://api.github.com/users/DotHide/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DotHide/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DotHide/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DotHide/subscriptions",
+  "organizations_url": "https://api.github.com/users/DotHide/orgs",
+  "repos_url": "https://api.github.com/users/DotHide/repos",
+  "events_url": "https://api.github.com/users/DotHide/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DotHide/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

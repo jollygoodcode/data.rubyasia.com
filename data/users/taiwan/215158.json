@@ -1,0 +1,20 @@
+{
+  "login": "optimis",
+  "id": 215158,
+  "avatar_url": "https://avatars.githubusercontent.com/u/215158?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/optimis",
+  "html_url": "https://github.com/optimis",
+  "followers_url": "https://api.github.com/users/optimis/followers",
+  "following_url": "https://api.github.com/users/optimis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/optimis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/optimis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/optimis/subscriptions",
+  "organizations_url": "https://api.github.com/users/optimis/orgs",
+  "repos_url": "https://api.github.com/users/optimis/repos",
+  "events_url": "https://api.github.com/users/optimis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/optimis/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

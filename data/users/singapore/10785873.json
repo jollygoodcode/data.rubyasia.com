@@ -1,0 +1,20 @@
+{
+  "login": "boyus",
+  "id": 10785873,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10785873?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/boyus",
+  "html_url": "https://github.com/boyus",
+  "followers_url": "https://api.github.com/users/boyus/followers",
+  "following_url": "https://api.github.com/users/boyus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/boyus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/boyus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/boyus/subscriptions",
+  "organizations_url": "https://api.github.com/users/boyus/orgs",
+  "repos_url": "https://api.github.com/users/boyus/repos",
+  "events_url": "https://api.github.com/users/boyus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/boyus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

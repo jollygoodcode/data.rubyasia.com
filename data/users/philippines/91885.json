@@ -1,0 +1,20 @@
+{
+  "login": "poldz",
+  "id": 91885,
+  "avatar_url": "https://avatars.githubusercontent.com/u/91885?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/poldz",
+  "html_url": "https://github.com/poldz",
+  "followers_url": "https://api.github.com/users/poldz/followers",
+  "following_url": "https://api.github.com/users/poldz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/poldz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/poldz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/poldz/subscriptions",
+  "organizations_url": "https://api.github.com/users/poldz/orgs",
+  "repos_url": "https://api.github.com/users/poldz/repos",
+  "events_url": "https://api.github.com/users/poldz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/poldz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

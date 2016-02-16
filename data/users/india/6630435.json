@@ -1,0 +1,20 @@
+{
+  "login": "rishi-p",
+  "id": 6630435,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6630435?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rishi-p",
+  "html_url": "https://github.com/rishi-p",
+  "followers_url": "https://api.github.com/users/rishi-p/followers",
+  "following_url": "https://api.github.com/users/rishi-p/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rishi-p/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rishi-p/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rishi-p/subscriptions",
+  "organizations_url": "https://api.github.com/users/rishi-p/orgs",
+  "repos_url": "https://api.github.com/users/rishi-p/repos",
+  "events_url": "https://api.github.com/users/rishi-p/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rishi-p/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

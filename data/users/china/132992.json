@@ -1,0 +1,20 @@
+{
+  "login": "xdsnet",
+  "id": 132992,
+  "avatar_url": "https://avatars.githubusercontent.com/u/132992?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xdsnet",
+  "html_url": "https://github.com/xdsnet",
+  "followers_url": "https://api.github.com/users/xdsnet/followers",
+  "following_url": "https://api.github.com/users/xdsnet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xdsnet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xdsnet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xdsnet/subscriptions",
+  "organizations_url": "https://api.github.com/users/xdsnet/orgs",
+  "repos_url": "https://api.github.com/users/xdsnet/repos",
+  "events_url": "https://api.github.com/users/xdsnet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xdsnet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

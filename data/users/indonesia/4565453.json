@@ -1,0 +1,20 @@
+{
+  "login": "maskodok",
+  "id": 4565453,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4565453?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maskodok",
+  "html_url": "https://github.com/maskodok",
+  "followers_url": "https://api.github.com/users/maskodok/followers",
+  "following_url": "https://api.github.com/users/maskodok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maskodok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maskodok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maskodok/subscriptions",
+  "organizations_url": "https://api.github.com/users/maskodok/orgs",
+  "repos_url": "https://api.github.com/users/maskodok/repos",
+  "events_url": "https://api.github.com/users/maskodok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maskodok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

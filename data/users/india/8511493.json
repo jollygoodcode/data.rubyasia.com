@@ -1,0 +1,20 @@
+{
+  "login": "susanjacob",
+  "id": 8511493,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8511493?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/susanjacob",
+  "html_url": "https://github.com/susanjacob",
+  "followers_url": "https://api.github.com/users/susanjacob/followers",
+  "following_url": "https://api.github.com/users/susanjacob/following{/other_user}",
+  "gists_url": "https://api.github.com/users/susanjacob/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/susanjacob/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/susanjacob/subscriptions",
+  "organizations_url": "https://api.github.com/users/susanjacob/orgs",
+  "repos_url": "https://api.github.com/users/susanjacob/repos",
+  "events_url": "https://api.github.com/users/susanjacob/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/susanjacob/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

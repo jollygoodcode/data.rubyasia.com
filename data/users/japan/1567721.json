@@ -1,0 +1,20 @@
+{
+  "login": "hattori-tetsuji",
+  "id": 1567721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1567721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hattori-tetsuji",
+  "html_url": "https://github.com/hattori-tetsuji",
+  "followers_url": "https://api.github.com/users/hattori-tetsuji/followers",
+  "following_url": "https://api.github.com/users/hattori-tetsuji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hattori-tetsuji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hattori-tetsuji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hattori-tetsuji/subscriptions",
+  "organizations_url": "https://api.github.com/users/hattori-tetsuji/orgs",
+  "repos_url": "https://api.github.com/users/hattori-tetsuji/repos",
+  "events_url": "https://api.github.com/users/hattori-tetsuji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hattori-tetsuji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

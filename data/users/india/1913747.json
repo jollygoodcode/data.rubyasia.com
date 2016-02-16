@@ -1,0 +1,20 @@
+{
+  "login": "aprajshekhar",
+  "id": 1913747,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1913747?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aprajshekhar",
+  "html_url": "https://github.com/aprajshekhar",
+  "followers_url": "https://api.github.com/users/aprajshekhar/followers",
+  "following_url": "https://api.github.com/users/aprajshekhar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aprajshekhar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aprajshekhar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aprajshekhar/subscriptions",
+  "organizations_url": "https://api.github.com/users/aprajshekhar/orgs",
+  "repos_url": "https://api.github.com/users/aprajshekhar/repos",
+  "events_url": "https://api.github.com/users/aprajshekhar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aprajshekhar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

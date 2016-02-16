@@ -1,0 +1,20 @@
+{
+  "login": "pennymax",
+  "id": 386127,
+  "avatar_url": "https://avatars.githubusercontent.com/u/386127?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pennymax",
+  "html_url": "https://github.com/pennymax",
+  "followers_url": "https://api.github.com/users/pennymax/followers",
+  "following_url": "https://api.github.com/users/pennymax/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pennymax/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pennymax/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pennymax/subscriptions",
+  "organizations_url": "https://api.github.com/users/pennymax/orgs",
+  "repos_url": "https://api.github.com/users/pennymax/repos",
+  "events_url": "https://api.github.com/users/pennymax/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pennymax/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

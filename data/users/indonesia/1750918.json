@@ -1,0 +1,20 @@
+{
+  "login": "firodj",
+  "id": 1750918,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1750918?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/firodj",
+  "html_url": "https://github.com/firodj",
+  "followers_url": "https://api.github.com/users/firodj/followers",
+  "following_url": "https://api.github.com/users/firodj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/firodj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/firodj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/firodj/subscriptions",
+  "organizations_url": "https://api.github.com/users/firodj/orgs",
+  "repos_url": "https://api.github.com/users/firodj/repos",
+  "events_url": "https://api.github.com/users/firodj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/firodj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

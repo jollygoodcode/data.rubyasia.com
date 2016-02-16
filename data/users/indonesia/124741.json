@@ -1,0 +1,20 @@
+{
+  "login": "karuna",
+  "id": 124741,
+  "avatar_url": "https://avatars.githubusercontent.com/u/124741?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/karuna",
+  "html_url": "https://github.com/karuna",
+  "followers_url": "https://api.github.com/users/karuna/followers",
+  "following_url": "https://api.github.com/users/karuna/following{/other_user}",
+  "gists_url": "https://api.github.com/users/karuna/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/karuna/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/karuna/subscriptions",
+  "organizations_url": "https://api.github.com/users/karuna/orgs",
+  "repos_url": "https://api.github.com/users/karuna/repos",
+  "events_url": "https://api.github.com/users/karuna/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/karuna/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

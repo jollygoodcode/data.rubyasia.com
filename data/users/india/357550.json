@@ -1,0 +1,20 @@
+{
+  "login": "kreetitech",
+  "id": 357550,
+  "avatar_url": "https://avatars.githubusercontent.com/u/357550?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kreetitech",
+  "html_url": "https://github.com/kreetitech",
+  "followers_url": "https://api.github.com/users/kreetitech/followers",
+  "following_url": "https://api.github.com/users/kreetitech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kreetitech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kreetitech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kreetitech/subscriptions",
+  "organizations_url": "https://api.github.com/users/kreetitech/orgs",
+  "repos_url": "https://api.github.com/users/kreetitech/repos",
+  "events_url": "https://api.github.com/users/kreetitech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kreetitech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

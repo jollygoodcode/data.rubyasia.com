@@ -1,0 +1,20 @@
+{
+  "login": "tyok",
+  "id": 89855,
+  "avatar_url": "https://avatars.githubusercontent.com/u/89855?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tyok",
+  "html_url": "https://github.com/tyok",
+  "followers_url": "https://api.github.com/users/tyok/followers",
+  "following_url": "https://api.github.com/users/tyok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tyok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tyok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tyok/subscriptions",
+  "organizations_url": "https://api.github.com/users/tyok/orgs",
+  "repos_url": "https://api.github.com/users/tyok/repos",
+  "events_url": "https://api.github.com/users/tyok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tyok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

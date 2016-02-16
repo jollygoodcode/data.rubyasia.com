@@ -1,0 +1,20 @@
+{
+  "login": "tonsh",
+  "id": 848371,
+  "avatar_url": "https://avatars.githubusercontent.com/u/848371?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tonsh",
+  "html_url": "https://github.com/tonsh",
+  "followers_url": "https://api.github.com/users/tonsh/followers",
+  "following_url": "https://api.github.com/users/tonsh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tonsh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tonsh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tonsh/subscriptions",
+  "organizations_url": "https://api.github.com/users/tonsh/orgs",
+  "repos_url": "https://api.github.com/users/tonsh/repos",
+  "events_url": "https://api.github.com/users/tonsh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tonsh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

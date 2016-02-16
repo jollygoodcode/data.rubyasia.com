@@ -1,0 +1,20 @@
+{
+  "login": "CaDs",
+  "id": 446632,
+  "avatar_url": "https://avatars.githubusercontent.com/u/446632?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CaDs",
+  "html_url": "https://github.com/CaDs",
+  "followers_url": "https://api.github.com/users/CaDs/followers",
+  "following_url": "https://api.github.com/users/CaDs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CaDs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CaDs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CaDs/subscriptions",
+  "organizations_url": "https://api.github.com/users/CaDs/orgs",
+  "repos_url": "https://api.github.com/users/CaDs/repos",
+  "events_url": "https://api.github.com/users/CaDs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CaDs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

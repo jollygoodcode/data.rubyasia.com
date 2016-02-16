@@ -1,0 +1,20 @@
+{
+  "login": "CoderKungfu",
+  "id": 3862723,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3862723?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CoderKungfu",
+  "html_url": "https://github.com/CoderKungfu",
+  "followers_url": "https://api.github.com/users/CoderKungfu/followers",
+  "following_url": "https://api.github.com/users/CoderKungfu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CoderKungfu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CoderKungfu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CoderKungfu/subscriptions",
+  "organizations_url": "https://api.github.com/users/CoderKungfu/orgs",
+  "repos_url": "https://api.github.com/users/CoderKungfu/repos",
+  "events_url": "https://api.github.com/users/CoderKungfu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CoderKungfu/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "malprax",
+  "id": 2161850,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2161850?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/malprax",
+  "html_url": "https://github.com/malprax",
+  "followers_url": "https://api.github.com/users/malprax/followers",
+  "following_url": "https://api.github.com/users/malprax/following{/other_user}",
+  "gists_url": "https://api.github.com/users/malprax/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/malprax/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/malprax/subscriptions",
+  "organizations_url": "https://api.github.com/users/malprax/orgs",
+  "repos_url": "https://api.github.com/users/malprax/repos",
+  "events_url": "https://api.github.com/users/malprax/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/malprax/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

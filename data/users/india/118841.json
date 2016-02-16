@@ -1,0 +1,20 @@
+{
+  "login": "anthonyhsiao",
+  "id": 118841,
+  "avatar_url": "https://avatars.githubusercontent.com/u/118841?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anthonyhsiao",
+  "html_url": "https://github.com/anthonyhsiao",
+  "followers_url": "https://api.github.com/users/anthonyhsiao/followers",
+  "following_url": "https://api.github.com/users/anthonyhsiao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anthonyhsiao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anthonyhsiao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anthonyhsiao/subscriptions",
+  "organizations_url": "https://api.github.com/users/anthonyhsiao/orgs",
+  "repos_url": "https://api.github.com/users/anthonyhsiao/repos",
+  "events_url": "https://api.github.com/users/anthonyhsiao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anthonyhsiao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "thewhatsupguy",
+  "id": 13177506,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13177506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thewhatsupguy",
+  "html_url": "https://github.com/thewhatsupguy",
+  "followers_url": "https://api.github.com/users/thewhatsupguy/followers",
+  "following_url": "https://api.github.com/users/thewhatsupguy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thewhatsupguy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thewhatsupguy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thewhatsupguy/subscriptions",
+  "organizations_url": "https://api.github.com/users/thewhatsupguy/orgs",
+  "repos_url": "https://api.github.com/users/thewhatsupguy/repos",
+  "events_url": "https://api.github.com/users/thewhatsupguy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thewhatsupguy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

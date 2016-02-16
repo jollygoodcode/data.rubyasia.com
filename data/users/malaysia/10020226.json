@@ -1,0 +1,20 @@
+{
+  "login": "ryangoh",
+  "id": 10020226,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10020226?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryangoh",
+  "html_url": "https://github.com/ryangoh",
+  "followers_url": "https://api.github.com/users/ryangoh/followers",
+  "following_url": "https://api.github.com/users/ryangoh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryangoh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryangoh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryangoh/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryangoh/orgs",
+  "repos_url": "https://api.github.com/users/ryangoh/repos",
+  "events_url": "https://api.github.com/users/ryangoh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryangoh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

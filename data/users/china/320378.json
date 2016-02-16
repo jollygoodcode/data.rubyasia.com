@@ -1,0 +1,20 @@
+{
+  "login": "patrickwai",
+  "id": 320378,
+  "avatar_url": "https://avatars.githubusercontent.com/u/320378?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/patrickwai",
+  "html_url": "https://github.com/patrickwai",
+  "followers_url": "https://api.github.com/users/patrickwai/followers",
+  "following_url": "https://api.github.com/users/patrickwai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/patrickwai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/patrickwai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/patrickwai/subscriptions",
+  "organizations_url": "https://api.github.com/users/patrickwai/orgs",
+  "repos_url": "https://api.github.com/users/patrickwai/repos",
+  "events_url": "https://api.github.com/users/patrickwai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/patrickwai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

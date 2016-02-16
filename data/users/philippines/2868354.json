@@ -1,0 +1,20 @@
+{
+  "login": "JenniferJunio",
+  "id": 2868354,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2868354?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JenniferJunio",
+  "html_url": "https://github.com/JenniferJunio",
+  "followers_url": "https://api.github.com/users/JenniferJunio/followers",
+  "following_url": "https://api.github.com/users/JenniferJunio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JenniferJunio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JenniferJunio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JenniferJunio/subscriptions",
+  "organizations_url": "https://api.github.com/users/JenniferJunio/orgs",
+  "repos_url": "https://api.github.com/users/JenniferJunio/repos",
+  "events_url": "https://api.github.com/users/JenniferJunio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JenniferJunio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

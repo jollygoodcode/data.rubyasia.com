@@ -1,0 +1,20 @@
+{
+  "login": "rituka",
+  "id": 12825,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12825?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rituka",
+  "html_url": "https://github.com/rituka",
+  "followers_url": "https://api.github.com/users/rituka/followers",
+  "following_url": "https://api.github.com/users/rituka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rituka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rituka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rituka/subscriptions",
+  "organizations_url": "https://api.github.com/users/rituka/orgs",
+  "repos_url": "https://api.github.com/users/rituka/repos",
+  "events_url": "https://api.github.com/users/rituka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rituka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

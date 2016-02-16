@@ -1,0 +1,20 @@
+{
+  "login": "zhuple",
+  "id": 8578200,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8578200?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhuple",
+  "html_url": "https://github.com/zhuple",
+  "followers_url": "https://api.github.com/users/zhuple/followers",
+  "following_url": "https://api.github.com/users/zhuple/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhuple/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhuple/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhuple/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhuple/orgs",
+  "repos_url": "https://api.github.com/users/zhuple/repos",
+  "events_url": "https://api.github.com/users/zhuple/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhuple/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "uwork",
+  "id": 10830188,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10830188?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uwork",
+  "html_url": "https://github.com/uwork",
+  "followers_url": "https://api.github.com/users/uwork/followers",
+  "following_url": "https://api.github.com/users/uwork/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uwork/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uwork/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uwork/subscriptions",
+  "organizations_url": "https://api.github.com/users/uwork/orgs",
+  "repos_url": "https://api.github.com/users/uwork/repos",
+  "events_url": "https://api.github.com/users/uwork/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uwork/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

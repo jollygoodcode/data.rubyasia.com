@@ -1,0 +1,20 @@
+{
+  "login": "joakimPPL",
+  "id": 10204782,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10204782?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joakimPPL",
+  "html_url": "https://github.com/joakimPPL",
+  "followers_url": "https://api.github.com/users/joakimPPL/followers",
+  "following_url": "https://api.github.com/users/joakimPPL/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joakimPPL/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joakimPPL/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joakimPPL/subscriptions",
+  "organizations_url": "https://api.github.com/users/joakimPPL/orgs",
+  "repos_url": "https://api.github.com/users/joakimPPL/repos",
+  "events_url": "https://api.github.com/users/joakimPPL/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joakimPPL/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

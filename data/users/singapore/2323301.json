@@ -1,0 +1,20 @@
+{
+  "login": "cantab",
+  "id": 2323301,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2323301?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cantab",
+  "html_url": "https://github.com/cantab",
+  "followers_url": "https://api.github.com/users/cantab/followers",
+  "following_url": "https://api.github.com/users/cantab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cantab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cantab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cantab/subscriptions",
+  "organizations_url": "https://api.github.com/users/cantab/orgs",
+  "repos_url": "https://api.github.com/users/cantab/repos",
+  "events_url": "https://api.github.com/users/cantab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cantab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "donmhico",
+  "id": 5747475,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5747475?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/donmhico",
+  "html_url": "https://github.com/donmhico",
+  "followers_url": "https://api.github.com/users/donmhico/followers",
+  "following_url": "https://api.github.com/users/donmhico/following{/other_user}",
+  "gists_url": "https://api.github.com/users/donmhico/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/donmhico/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/donmhico/subscriptions",
+  "organizations_url": "https://api.github.com/users/donmhico/orgs",
+  "repos_url": "https://api.github.com/users/donmhico/repos",
+  "events_url": "https://api.github.com/users/donmhico/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/donmhico/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

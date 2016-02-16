@@ -1,0 +1,20 @@
+{
+  "login": "pumadong",
+  "id": 3498980,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3498980?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pumadong",
+  "html_url": "https://github.com/pumadong",
+  "followers_url": "https://api.github.com/users/pumadong/followers",
+  "following_url": "https://api.github.com/users/pumadong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pumadong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pumadong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pumadong/subscriptions",
+  "organizations_url": "https://api.github.com/users/pumadong/orgs",
+  "repos_url": "https://api.github.com/users/pumadong/repos",
+  "events_url": "https://api.github.com/users/pumadong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pumadong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mglai",
+  "id": 2969722,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2969722?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mglai",
+  "html_url": "https://github.com/mglai",
+  "followers_url": "https://api.github.com/users/mglai/followers",
+  "following_url": "https://api.github.com/users/mglai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mglai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mglai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mglai/subscriptions",
+  "organizations_url": "https://api.github.com/users/mglai/orgs",
+  "repos_url": "https://api.github.com/users/mglai/repos",
+  "events_url": "https://api.github.com/users/mglai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mglai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

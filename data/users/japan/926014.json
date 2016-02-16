@@ -1,0 +1,20 @@
+{
+  "login": "takenory",
+  "id": 926014,
+  "avatar_url": "https://avatars.githubusercontent.com/u/926014?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takenory",
+  "html_url": "https://github.com/takenory",
+  "followers_url": "https://api.github.com/users/takenory/followers",
+  "following_url": "https://api.github.com/users/takenory/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takenory/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takenory/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takenory/subscriptions",
+  "organizations_url": "https://api.github.com/users/takenory/orgs",
+  "repos_url": "https://api.github.com/users/takenory/repos",
+  "events_url": "https://api.github.com/users/takenory/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takenory/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

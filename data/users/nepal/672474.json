@@ -1,0 +1,20 @@
+{
+  "login": "xecutioner",
+  "id": 672474,
+  "avatar_url": "https://avatars.githubusercontent.com/u/672474?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xecutioner",
+  "html_url": "https://github.com/xecutioner",
+  "followers_url": "https://api.github.com/users/xecutioner/followers",
+  "following_url": "https://api.github.com/users/xecutioner/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xecutioner/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xecutioner/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xecutioner/subscriptions",
+  "organizations_url": "https://api.github.com/users/xecutioner/orgs",
+  "repos_url": "https://api.github.com/users/xecutioner/repos",
+  "events_url": "https://api.github.com/users/xecutioner/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xecutioner/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

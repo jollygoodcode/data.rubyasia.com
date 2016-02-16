@@ -1,0 +1,20 @@
+{
+  "login": "IvanChou",
+  "id": 2182089,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2182089?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/IvanChou",
+  "html_url": "https://github.com/IvanChou",
+  "followers_url": "https://api.github.com/users/IvanChou/followers",
+  "following_url": "https://api.github.com/users/IvanChou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/IvanChou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/IvanChou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/IvanChou/subscriptions",
+  "organizations_url": "https://api.github.com/users/IvanChou/orgs",
+  "repos_url": "https://api.github.com/users/IvanChou/repos",
+  "events_url": "https://api.github.com/users/IvanChou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/IvanChou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

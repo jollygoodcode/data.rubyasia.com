@@ -1,0 +1,20 @@
+{
+  "login": "sunge",
+  "id": 920416,
+  "avatar_url": "https://avatars.githubusercontent.com/u/920416?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sunge",
+  "html_url": "https://github.com/sunge",
+  "followers_url": "https://api.github.com/users/sunge/followers",
+  "following_url": "https://api.github.com/users/sunge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sunge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sunge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sunge/subscriptions",
+  "organizations_url": "https://api.github.com/users/sunge/orgs",
+  "repos_url": "https://api.github.com/users/sunge/repos",
+  "events_url": "https://api.github.com/users/sunge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sunge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

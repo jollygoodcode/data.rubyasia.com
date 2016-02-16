@@ -1,0 +1,20 @@
+{
+  "login": "dinoue",
+  "id": 1407574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1407574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dinoue",
+  "html_url": "https://github.com/dinoue",
+  "followers_url": "https://api.github.com/users/dinoue/followers",
+  "following_url": "https://api.github.com/users/dinoue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dinoue/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dinoue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dinoue/subscriptions",
+  "organizations_url": "https://api.github.com/users/dinoue/orgs",
+  "repos_url": "https://api.github.com/users/dinoue/repos",
+  "events_url": "https://api.github.com/users/dinoue/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dinoue/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

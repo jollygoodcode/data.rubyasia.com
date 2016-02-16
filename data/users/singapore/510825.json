@@ -1,0 +1,20 @@
+{
+  "login": "ericntd",
+  "id": 510825,
+  "avatar_url": "https://avatars.githubusercontent.com/u/510825?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ericntd",
+  "html_url": "https://github.com/ericntd",
+  "followers_url": "https://api.github.com/users/ericntd/followers",
+  "following_url": "https://api.github.com/users/ericntd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ericntd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ericntd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ericntd/subscriptions",
+  "organizations_url": "https://api.github.com/users/ericntd/orgs",
+  "repos_url": "https://api.github.com/users/ericntd/repos",
+  "events_url": "https://api.github.com/users/ericntd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ericntd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "takak",
+  "id": 1264479,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1264479?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takak",
+  "html_url": "https://github.com/takak",
+  "followers_url": "https://api.github.com/users/takak/followers",
+  "following_url": "https://api.github.com/users/takak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takak/subscriptions",
+  "organizations_url": "https://api.github.com/users/takak/orgs",
+  "repos_url": "https://api.github.com/users/takak/repos",
+  "events_url": "https://api.github.com/users/takak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

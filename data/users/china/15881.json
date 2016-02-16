@@ -1,0 +1,20 @@
+{
+  "login": "mifan",
+  "id": 15881,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15881?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mifan",
+  "html_url": "https://github.com/mifan",
+  "followers_url": "https://api.github.com/users/mifan/followers",
+  "following_url": "https://api.github.com/users/mifan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mifan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mifan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mifan/subscriptions",
+  "organizations_url": "https://api.github.com/users/mifan/orgs",
+  "repos_url": "https://api.github.com/users/mifan/repos",
+  "events_url": "https://api.github.com/users/mifan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mifan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "haocafes",
+  "id": 9413093,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9413093?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haocafes",
+  "html_url": "https://github.com/haocafes",
+  "followers_url": "https://api.github.com/users/haocafes/followers",
+  "following_url": "https://api.github.com/users/haocafes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haocafes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haocafes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haocafes/subscriptions",
+  "organizations_url": "https://api.github.com/users/haocafes/orgs",
+  "repos_url": "https://api.github.com/users/haocafes/repos",
+  "events_url": "https://api.github.com/users/haocafes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haocafes/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

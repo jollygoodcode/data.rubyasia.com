@@ -1,0 +1,20 @@
+{
+  "login": "pocke",
+  "id": 4361134,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4361134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pocke",
+  "html_url": "https://github.com/pocke",
+  "followers_url": "https://api.github.com/users/pocke/followers",
+  "following_url": "https://api.github.com/users/pocke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pocke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pocke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pocke/subscriptions",
+  "organizations_url": "https://api.github.com/users/pocke/orgs",
+  "repos_url": "https://api.github.com/users/pocke/repos",
+  "events_url": "https://api.github.com/users/pocke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pocke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

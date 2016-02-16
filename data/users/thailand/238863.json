@@ -1,0 +1,20 @@
+{
+  "login": "Exoth",
+  "id": 238863,
+  "avatar_url": "https://avatars.githubusercontent.com/u/238863?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Exoth",
+  "html_url": "https://github.com/Exoth",
+  "followers_url": "https://api.github.com/users/Exoth/followers",
+  "following_url": "https://api.github.com/users/Exoth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Exoth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Exoth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Exoth/subscriptions",
+  "organizations_url": "https://api.github.com/users/Exoth/orgs",
+  "repos_url": "https://api.github.com/users/Exoth/repos",
+  "events_url": "https://api.github.com/users/Exoth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Exoth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

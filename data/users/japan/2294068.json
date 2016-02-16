@@ -1,0 +1,20 @@
+{
+  "login": "javilm",
+  "id": 2294068,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2294068?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/javilm",
+  "html_url": "https://github.com/javilm",
+  "followers_url": "https://api.github.com/users/javilm/followers",
+  "following_url": "https://api.github.com/users/javilm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/javilm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/javilm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/javilm/subscriptions",
+  "organizations_url": "https://api.github.com/users/javilm/orgs",
+  "repos_url": "https://api.github.com/users/javilm/repos",
+  "events_url": "https://api.github.com/users/javilm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/javilm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

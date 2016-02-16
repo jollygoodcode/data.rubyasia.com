@@ -1,0 +1,20 @@
+{
+  "login": "takemikami",
+  "id": 1129652,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1129652?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takemikami",
+  "html_url": "https://github.com/takemikami",
+  "followers_url": "https://api.github.com/users/takemikami/followers",
+  "following_url": "https://api.github.com/users/takemikami/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takemikami/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takemikami/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takemikami/subscriptions",
+  "organizations_url": "https://api.github.com/users/takemikami/orgs",
+  "repos_url": "https://api.github.com/users/takemikami/repos",
+  "events_url": "https://api.github.com/users/takemikami/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takemikami/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

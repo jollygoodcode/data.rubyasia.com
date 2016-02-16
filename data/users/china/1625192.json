@@ -1,0 +1,20 @@
+{
+  "login": "bravluna",
+  "id": 1625192,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1625192?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bravluna",
+  "html_url": "https://github.com/bravluna",
+  "followers_url": "https://api.github.com/users/bravluna/followers",
+  "following_url": "https://api.github.com/users/bravluna/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bravluna/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bravluna/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bravluna/subscriptions",
+  "organizations_url": "https://api.github.com/users/bravluna/orgs",
+  "repos_url": "https://api.github.com/users/bravluna/repos",
+  "events_url": "https://api.github.com/users/bravluna/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bravluna/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

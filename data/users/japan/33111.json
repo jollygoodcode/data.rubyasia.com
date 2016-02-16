@@ -1,0 +1,20 @@
+{
+  "login": "okkez",
+  "id": 33111,
+  "avatar_url": "https://avatars.githubusercontent.com/u/33111?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okkez",
+  "html_url": "https://github.com/okkez",
+  "followers_url": "https://api.github.com/users/okkez/followers",
+  "following_url": "https://api.github.com/users/okkez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okkez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okkez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okkez/subscriptions",
+  "organizations_url": "https://api.github.com/users/okkez/orgs",
+  "repos_url": "https://api.github.com/users/okkez/repos",
+  "events_url": "https://api.github.com/users/okkez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okkez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

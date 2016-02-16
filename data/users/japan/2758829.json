@@ -1,0 +1,20 @@
+{
+  "login": "horigome",
+  "id": 2758829,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2758829?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/horigome",
+  "html_url": "https://github.com/horigome",
+  "followers_url": "https://api.github.com/users/horigome/followers",
+  "following_url": "https://api.github.com/users/horigome/following{/other_user}",
+  "gists_url": "https://api.github.com/users/horigome/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/horigome/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/horigome/subscriptions",
+  "organizations_url": "https://api.github.com/users/horigome/orgs",
+  "repos_url": "https://api.github.com/users/horigome/repos",
+  "events_url": "https://api.github.com/users/horigome/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/horigome/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

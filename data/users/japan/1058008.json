@@ -1,0 +1,20 @@
+{
+  "login": "muthee",
+  "id": 1058008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1058008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/muthee",
+  "html_url": "https://github.com/muthee",
+  "followers_url": "https://api.github.com/users/muthee/followers",
+  "following_url": "https://api.github.com/users/muthee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/muthee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/muthee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/muthee/subscriptions",
+  "organizations_url": "https://api.github.com/users/muthee/orgs",
+  "repos_url": "https://api.github.com/users/muthee/repos",
+  "events_url": "https://api.github.com/users/muthee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/muthee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

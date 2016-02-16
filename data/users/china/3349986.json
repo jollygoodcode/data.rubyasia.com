@@ -1,0 +1,20 @@
+{
+  "login": "worldask",
+  "id": 3349986,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3349986?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/worldask",
+  "html_url": "https://github.com/worldask",
+  "followers_url": "https://api.github.com/users/worldask/followers",
+  "following_url": "https://api.github.com/users/worldask/following{/other_user}",
+  "gists_url": "https://api.github.com/users/worldask/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/worldask/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/worldask/subscriptions",
+  "organizations_url": "https://api.github.com/users/worldask/orgs",
+  "repos_url": "https://api.github.com/users/worldask/repos",
+  "events_url": "https://api.github.com/users/worldask/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/worldask/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

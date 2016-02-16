@@ -1,0 +1,20 @@
+{
+  "login": "mashabow",
+  "id": 6268183,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6268183?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mashabow",
+  "html_url": "https://github.com/mashabow",
+  "followers_url": "https://api.github.com/users/mashabow/followers",
+  "following_url": "https://api.github.com/users/mashabow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mashabow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mashabow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mashabow/subscriptions",
+  "organizations_url": "https://api.github.com/users/mashabow/orgs",
+  "repos_url": "https://api.github.com/users/mashabow/repos",
+  "events_url": "https://api.github.com/users/mashabow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mashabow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

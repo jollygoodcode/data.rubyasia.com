@@ -1,0 +1,20 @@
+{
+  "login": "marugoshi",
+  "id": 36650,
+  "avatar_url": "https://avatars.githubusercontent.com/u/36650?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marugoshi",
+  "html_url": "https://github.com/marugoshi",
+  "followers_url": "https://api.github.com/users/marugoshi/followers",
+  "following_url": "https://api.github.com/users/marugoshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marugoshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marugoshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marugoshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/marugoshi/orgs",
+  "repos_url": "https://api.github.com/users/marugoshi/repos",
+  "events_url": "https://api.github.com/users/marugoshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marugoshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

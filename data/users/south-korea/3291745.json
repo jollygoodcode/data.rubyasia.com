@@ -1,0 +1,20 @@
+{
+  "login": "rossgeesman",
+  "id": 3291745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3291745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rossgeesman",
+  "html_url": "https://github.com/rossgeesman",
+  "followers_url": "https://api.github.com/users/rossgeesman/followers",
+  "following_url": "https://api.github.com/users/rossgeesman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rossgeesman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rossgeesman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rossgeesman/subscriptions",
+  "organizations_url": "https://api.github.com/users/rossgeesman/orgs",
+  "repos_url": "https://api.github.com/users/rossgeesman/repos",
+  "events_url": "https://api.github.com/users/rossgeesman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rossgeesman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

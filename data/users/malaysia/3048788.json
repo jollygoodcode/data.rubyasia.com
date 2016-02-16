@@ -1,0 +1,20 @@
+{
+  "login": "kevinhoong",
+  "id": 3048788,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3048788?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kevinhoong",
+  "html_url": "https://github.com/kevinhoong",
+  "followers_url": "https://api.github.com/users/kevinhoong/followers",
+  "following_url": "https://api.github.com/users/kevinhoong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kevinhoong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kevinhoong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kevinhoong/subscriptions",
+  "organizations_url": "https://api.github.com/users/kevinhoong/orgs",
+  "repos_url": "https://api.github.com/users/kevinhoong/repos",
+  "events_url": "https://api.github.com/users/kevinhoong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kevinhoong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

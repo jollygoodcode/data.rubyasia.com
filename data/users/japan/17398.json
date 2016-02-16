@@ -1,0 +1,20 @@
+{
+  "login": "melborne",
+  "id": 17398,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17398?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/melborne",
+  "html_url": "https://github.com/melborne",
+  "followers_url": "https://api.github.com/users/melborne/followers",
+  "following_url": "https://api.github.com/users/melborne/following{/other_user}",
+  "gists_url": "https://api.github.com/users/melborne/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/melborne/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/melborne/subscriptions",
+  "organizations_url": "https://api.github.com/users/melborne/orgs",
+  "repos_url": "https://api.github.com/users/melborne/repos",
+  "events_url": "https://api.github.com/users/melborne/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/melborne/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

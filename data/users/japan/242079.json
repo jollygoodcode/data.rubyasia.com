@@ -1,0 +1,20 @@
+{
+  "login": "cynipe",
+  "id": 242079,
+  "avatar_url": "https://avatars.githubusercontent.com/u/242079?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cynipe",
+  "html_url": "https://github.com/cynipe",
+  "followers_url": "https://api.github.com/users/cynipe/followers",
+  "following_url": "https://api.github.com/users/cynipe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cynipe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cynipe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cynipe/subscriptions",
+  "organizations_url": "https://api.github.com/users/cynipe/orgs",
+  "repos_url": "https://api.github.com/users/cynipe/repos",
+  "events_url": "https://api.github.com/users/cynipe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cynipe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

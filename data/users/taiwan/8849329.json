@@ -1,0 +1,20 @@
+{
+  "login": "HsuanTang",
+  "id": 8849329,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8849329?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HsuanTang",
+  "html_url": "https://github.com/HsuanTang",
+  "followers_url": "https://api.github.com/users/HsuanTang/followers",
+  "following_url": "https://api.github.com/users/HsuanTang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HsuanTang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HsuanTang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HsuanTang/subscriptions",
+  "organizations_url": "https://api.github.com/users/HsuanTang/orgs",
+  "repos_url": "https://api.github.com/users/HsuanTang/repos",
+  "events_url": "https://api.github.com/users/HsuanTang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HsuanTang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

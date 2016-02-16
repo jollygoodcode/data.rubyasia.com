@@ -1,0 +1,20 @@
+{
+  "login": "styd",
+  "id": 8341867,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8341867?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/styd",
+  "html_url": "https://github.com/styd",
+  "followers_url": "https://api.github.com/users/styd/followers",
+  "following_url": "https://api.github.com/users/styd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/styd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/styd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/styd/subscriptions",
+  "organizations_url": "https://api.github.com/users/styd/orgs",
+  "repos_url": "https://api.github.com/users/styd/repos",
+  "events_url": "https://api.github.com/users/styd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/styd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

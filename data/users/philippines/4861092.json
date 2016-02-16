@@ -1,0 +1,20 @@
+{
+  "login": "carlflor",
+  "id": 4861092,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4861092?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/carlflor",
+  "html_url": "https://github.com/carlflor",
+  "followers_url": "https://api.github.com/users/carlflor/followers",
+  "following_url": "https://api.github.com/users/carlflor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/carlflor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/carlflor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/carlflor/subscriptions",
+  "organizations_url": "https://api.github.com/users/carlflor/orgs",
+  "repos_url": "https://api.github.com/users/carlflor/repos",
+  "events_url": "https://api.github.com/users/carlflor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/carlflor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dingzhihao",
+  "id": 3000034,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3000034?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dingzhihao",
+  "html_url": "https://github.com/dingzhihao",
+  "followers_url": "https://api.github.com/users/dingzhihao/followers",
+  "following_url": "https://api.github.com/users/dingzhihao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dingzhihao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dingzhihao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dingzhihao/subscriptions",
+  "organizations_url": "https://api.github.com/users/dingzhihao/orgs",
+  "repos_url": "https://api.github.com/users/dingzhihao/repos",
+  "events_url": "https://api.github.com/users/dingzhihao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dingzhihao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

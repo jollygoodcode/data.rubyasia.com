@@ -1,0 +1,20 @@
+{
+  "login": "agweiler",
+  "id": 9154671,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9154671?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/agweiler",
+  "html_url": "https://github.com/agweiler",
+  "followers_url": "https://api.github.com/users/agweiler/followers",
+  "following_url": "https://api.github.com/users/agweiler/following{/other_user}",
+  "gists_url": "https://api.github.com/users/agweiler/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/agweiler/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/agweiler/subscriptions",
+  "organizations_url": "https://api.github.com/users/agweiler/orgs",
+  "repos_url": "https://api.github.com/users/agweiler/repos",
+  "events_url": "https://api.github.com/users/agweiler/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/agweiler/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "paikia",
+  "id": 212524,
+  "avatar_url": "https://avatars.githubusercontent.com/u/212524?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paikia",
+  "html_url": "https://github.com/paikia",
+  "followers_url": "https://api.github.com/users/paikia/followers",
+  "following_url": "https://api.github.com/users/paikia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paikia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paikia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paikia/subscriptions",
+  "organizations_url": "https://api.github.com/users/paikia/orgs",
+  "repos_url": "https://api.github.com/users/paikia/repos",
+  "events_url": "https://api.github.com/users/paikia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paikia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jinycoo",
+  "id": 281238,
+  "avatar_url": "https://avatars.githubusercontent.com/u/281238?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jinycoo",
+  "html_url": "https://github.com/jinycoo",
+  "followers_url": "https://api.github.com/users/jinycoo/followers",
+  "following_url": "https://api.github.com/users/jinycoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jinycoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jinycoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jinycoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/jinycoo/orgs",
+  "repos_url": "https://api.github.com/users/jinycoo/repos",
+  "events_url": "https://api.github.com/users/jinycoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jinycoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

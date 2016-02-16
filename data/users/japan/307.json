@@ -1,0 +1,20 @@
+{
+  "login": "norio",
+  "id": 307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/norio",
+  "html_url": "https://github.com/norio",
+  "followers_url": "https://api.github.com/users/norio/followers",
+  "following_url": "https://api.github.com/users/norio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/norio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/norio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/norio/subscriptions",
+  "organizations_url": "https://api.github.com/users/norio/orgs",
+  "repos_url": "https://api.github.com/users/norio/repos",
+  "events_url": "https://api.github.com/users/norio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/norio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sabamotto",
+  "id": 675589,
+  "avatar_url": "https://avatars.githubusercontent.com/u/675589?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sabamotto",
+  "html_url": "https://github.com/sabamotto",
+  "followers_url": "https://api.github.com/users/sabamotto/followers",
+  "following_url": "https://api.github.com/users/sabamotto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sabamotto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sabamotto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sabamotto/subscriptions",
+  "organizations_url": "https://api.github.com/users/sabamotto/orgs",
+  "repos_url": "https://api.github.com/users/sabamotto/repos",
+  "events_url": "https://api.github.com/users/sabamotto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sabamotto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

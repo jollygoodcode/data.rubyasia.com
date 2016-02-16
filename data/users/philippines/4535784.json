@@ -1,0 +1,20 @@
+{
+  "login": "jedcore",
+  "id": 4535784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4535784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jedcore",
+  "html_url": "https://github.com/jedcore",
+  "followers_url": "https://api.github.com/users/jedcore/followers",
+  "following_url": "https://api.github.com/users/jedcore/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jedcore/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jedcore/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jedcore/subscriptions",
+  "organizations_url": "https://api.github.com/users/jedcore/orgs",
+  "repos_url": "https://api.github.com/users/jedcore/repos",
+  "events_url": "https://api.github.com/users/jedcore/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jedcore/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

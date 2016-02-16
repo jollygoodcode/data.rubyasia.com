@@ -1,0 +1,20 @@
+{
+  "login": "u-pyon",
+  "id": 740368,
+  "avatar_url": "https://avatars.githubusercontent.com/u/740368?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/u-pyon",
+  "html_url": "https://github.com/u-pyon",
+  "followers_url": "https://api.github.com/users/u-pyon/followers",
+  "following_url": "https://api.github.com/users/u-pyon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/u-pyon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/u-pyon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/u-pyon/subscriptions",
+  "organizations_url": "https://api.github.com/users/u-pyon/orgs",
+  "repos_url": "https://api.github.com/users/u-pyon/repos",
+  "events_url": "https://api.github.com/users/u-pyon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/u-pyon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "taglia",
+  "id": 612306,
+  "avatar_url": "https://avatars.githubusercontent.com/u/612306?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taglia",
+  "html_url": "https://github.com/taglia",
+  "followers_url": "https://api.github.com/users/taglia/followers",
+  "following_url": "https://api.github.com/users/taglia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taglia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taglia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taglia/subscriptions",
+  "organizations_url": "https://api.github.com/users/taglia/orgs",
+  "repos_url": "https://api.github.com/users/taglia/repos",
+  "events_url": "https://api.github.com/users/taglia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taglia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

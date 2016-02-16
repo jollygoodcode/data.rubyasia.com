@@ -1,0 +1,20 @@
+{
+  "login": "ctxhou",
+  "id": 3364028,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3364028?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ctxhou",
+  "html_url": "https://github.com/ctxhou",
+  "followers_url": "https://api.github.com/users/ctxhou/followers",
+  "following_url": "https://api.github.com/users/ctxhou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ctxhou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ctxhou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ctxhou/subscriptions",
+  "organizations_url": "https://api.github.com/users/ctxhou/orgs",
+  "repos_url": "https://api.github.com/users/ctxhou/repos",
+  "events_url": "https://api.github.com/users/ctxhou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ctxhou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

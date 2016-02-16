@@ -1,0 +1,20 @@
+{
+  "login": "bayunox",
+  "id": 1251616,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1251616?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bayunox",
+  "html_url": "https://github.com/bayunox",
+  "followers_url": "https://api.github.com/users/bayunox/followers",
+  "following_url": "https://api.github.com/users/bayunox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bayunox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bayunox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bayunox/subscriptions",
+  "organizations_url": "https://api.github.com/users/bayunox/orgs",
+  "repos_url": "https://api.github.com/users/bayunox/repos",
+  "events_url": "https://api.github.com/users/bayunox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bayunox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

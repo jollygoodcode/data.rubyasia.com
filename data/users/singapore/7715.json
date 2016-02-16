@@ -1,0 +1,20 @@
+{
+  "login": "jugend",
+  "id": 7715,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7715?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jugend",
+  "html_url": "https://github.com/jugend",
+  "followers_url": "https://api.github.com/users/jugend/followers",
+  "following_url": "https://api.github.com/users/jugend/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jugend/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jugend/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jugend/subscriptions",
+  "organizations_url": "https://api.github.com/users/jugend/orgs",
+  "repos_url": "https://api.github.com/users/jugend/repos",
+  "events_url": "https://api.github.com/users/jugend/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jugend/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

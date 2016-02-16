@@ -1,0 +1,20 @@
+{
+  "login": "koichirok",
+  "id": 5219757,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5219757?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/koichirok",
+  "html_url": "https://github.com/koichirok",
+  "followers_url": "https://api.github.com/users/koichirok/followers",
+  "following_url": "https://api.github.com/users/koichirok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/koichirok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/koichirok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/koichirok/subscriptions",
+  "organizations_url": "https://api.github.com/users/koichirok/orgs",
+  "repos_url": "https://api.github.com/users/koichirok/repos",
+  "events_url": "https://api.github.com/users/koichirok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/koichirok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

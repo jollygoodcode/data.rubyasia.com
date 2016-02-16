@@ -1,0 +1,20 @@
+{
+  "login": "umejam",
+  "id": 77847,
+  "avatar_url": "https://avatars.githubusercontent.com/u/77847?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/umejam",
+  "html_url": "https://github.com/umejam",
+  "followers_url": "https://api.github.com/users/umejam/followers",
+  "following_url": "https://api.github.com/users/umejam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/umejam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/umejam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/umejam/subscriptions",
+  "organizations_url": "https://api.github.com/users/umejam/orgs",
+  "repos_url": "https://api.github.com/users/umejam/repos",
+  "events_url": "https://api.github.com/users/umejam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/umejam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

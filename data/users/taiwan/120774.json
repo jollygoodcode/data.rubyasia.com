@@ -1,0 +1,20 @@
+{
+  "login": "charlesc",
+  "id": 120774,
+  "avatar_url": "https://avatars.githubusercontent.com/u/120774?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/charlesc",
+  "html_url": "https://github.com/charlesc",
+  "followers_url": "https://api.github.com/users/charlesc/followers",
+  "following_url": "https://api.github.com/users/charlesc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/charlesc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/charlesc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/charlesc/subscriptions",
+  "organizations_url": "https://api.github.com/users/charlesc/orgs",
+  "repos_url": "https://api.github.com/users/charlesc/repos",
+  "events_url": "https://api.github.com/users/charlesc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/charlesc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

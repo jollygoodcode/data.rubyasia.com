@@ -1,0 +1,20 @@
+{
+  "login": "Yellowen",
+  "id": 3639224,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3639224?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Yellowen",
+  "html_url": "https://github.com/Yellowen",
+  "followers_url": "https://api.github.com/users/Yellowen/followers",
+  "following_url": "https://api.github.com/users/Yellowen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Yellowen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Yellowen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Yellowen/subscriptions",
+  "organizations_url": "https://api.github.com/users/Yellowen/orgs",
+  "repos_url": "https://api.github.com/users/Yellowen/repos",
+  "events_url": "https://api.github.com/users/Yellowen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Yellowen/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

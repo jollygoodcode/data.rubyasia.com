@@ -1,0 +1,20 @@
+{
+  "login": "piece601",
+  "id": 4464928,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4464928?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/piece601",
+  "html_url": "https://github.com/piece601",
+  "followers_url": "https://api.github.com/users/piece601/followers",
+  "following_url": "https://api.github.com/users/piece601/following{/other_user}",
+  "gists_url": "https://api.github.com/users/piece601/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/piece601/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/piece601/subscriptions",
+  "organizations_url": "https://api.github.com/users/piece601/orgs",
+  "repos_url": "https://api.github.com/users/piece601/repos",
+  "events_url": "https://api.github.com/users/piece601/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/piece601/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

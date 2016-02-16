@@ -1,0 +1,20 @@
+{
+  "login": "ConoHa",
+  "id": 6566808,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6566808?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ConoHa",
+  "html_url": "https://github.com/ConoHa",
+  "followers_url": "https://api.github.com/users/ConoHa/followers",
+  "following_url": "https://api.github.com/users/ConoHa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ConoHa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ConoHa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ConoHa/subscriptions",
+  "organizations_url": "https://api.github.com/users/ConoHa/orgs",
+  "repos_url": "https://api.github.com/users/ConoHa/repos",
+  "events_url": "https://api.github.com/users/ConoHa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ConoHa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

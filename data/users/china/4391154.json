@@ -1,0 +1,20 @@
+{
+  "login": "strikingly",
+  "id": 4391154,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4391154?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/strikingly",
+  "html_url": "https://github.com/strikingly",
+  "followers_url": "https://api.github.com/users/strikingly/followers",
+  "following_url": "https://api.github.com/users/strikingly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/strikingly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/strikingly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/strikingly/subscriptions",
+  "organizations_url": "https://api.github.com/users/strikingly/orgs",
+  "repos_url": "https://api.github.com/users/strikingly/repos",
+  "events_url": "https://api.github.com/users/strikingly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/strikingly/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

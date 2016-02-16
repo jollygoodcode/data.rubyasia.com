@@ -1,0 +1,20 @@
+{
+  "login": "Airmal",
+  "id": 10544097,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10544097?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Airmal",
+  "html_url": "https://github.com/Airmal",
+  "followers_url": "https://api.github.com/users/Airmal/followers",
+  "following_url": "https://api.github.com/users/Airmal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Airmal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Airmal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Airmal/subscriptions",
+  "organizations_url": "https://api.github.com/users/Airmal/orgs",
+  "repos_url": "https://api.github.com/users/Airmal/repos",
+  "events_url": "https://api.github.com/users/Airmal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Airmal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

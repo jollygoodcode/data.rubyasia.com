@@ -1,0 +1,20 @@
+{
+  "login": "haessal",
+  "id": 6584963,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6584963?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haessal",
+  "html_url": "https://github.com/haessal",
+  "followers_url": "https://api.github.com/users/haessal/followers",
+  "following_url": "https://api.github.com/users/haessal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haessal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haessal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haessal/subscriptions",
+  "organizations_url": "https://api.github.com/users/haessal/orgs",
+  "repos_url": "https://api.github.com/users/haessal/repos",
+  "events_url": "https://api.github.com/users/haessal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haessal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

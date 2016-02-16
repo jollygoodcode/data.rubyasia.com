@@ -1,0 +1,20 @@
+{
+  "login": "khajum",
+  "id": 322912,
+  "avatar_url": "https://avatars.githubusercontent.com/u/322912?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khajum",
+  "html_url": "https://github.com/khajum",
+  "followers_url": "https://api.github.com/users/khajum/followers",
+  "following_url": "https://api.github.com/users/khajum/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khajum/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khajum/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khajum/subscriptions",
+  "organizations_url": "https://api.github.com/users/khajum/orgs",
+  "repos_url": "https://api.github.com/users/khajum/repos",
+  "events_url": "https://api.github.com/users/khajum/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khajum/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

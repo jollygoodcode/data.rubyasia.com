@@ -1,0 +1,20 @@
+{
+  "login": "haway",
+  "id": 1576254,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1576254?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haway",
+  "html_url": "https://github.com/haway",
+  "followers_url": "https://api.github.com/users/haway/followers",
+  "following_url": "https://api.github.com/users/haway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haway/subscriptions",
+  "organizations_url": "https://api.github.com/users/haway/orgs",
+  "repos_url": "https://api.github.com/users/haway/repos",
+  "events_url": "https://api.github.com/users/haway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

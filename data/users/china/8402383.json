@@ -1,0 +1,20 @@
+{
+  "login": "BartDuff",
+  "id": 8402383,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8402383?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BartDuff",
+  "html_url": "https://github.com/BartDuff",
+  "followers_url": "https://api.github.com/users/BartDuff/followers",
+  "following_url": "https://api.github.com/users/BartDuff/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BartDuff/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BartDuff/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BartDuff/subscriptions",
+  "organizations_url": "https://api.github.com/users/BartDuff/orgs",
+  "repos_url": "https://api.github.com/users/BartDuff/repos",
+  "events_url": "https://api.github.com/users/BartDuff/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BartDuff/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

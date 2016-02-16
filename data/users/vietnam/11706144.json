@@ -1,0 +1,20 @@
+{
+  "login": "cyclehacker",
+  "id": 11706144,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11706144?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cyclehacker",
+  "html_url": "https://github.com/cyclehacker",
+  "followers_url": "https://api.github.com/users/cyclehacker/followers",
+  "following_url": "https://api.github.com/users/cyclehacker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cyclehacker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cyclehacker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cyclehacker/subscriptions",
+  "organizations_url": "https://api.github.com/users/cyclehacker/orgs",
+  "repos_url": "https://api.github.com/users/cyclehacker/repos",
+  "events_url": "https://api.github.com/users/cyclehacker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cyclehacker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

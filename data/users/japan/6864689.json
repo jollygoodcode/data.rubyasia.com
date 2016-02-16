@@ -1,0 +1,20 @@
+{
+  "login": "sourei",
+  "id": 6864689,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6864689?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sourei",
+  "html_url": "https://github.com/sourei",
+  "followers_url": "https://api.github.com/users/sourei/followers",
+  "following_url": "https://api.github.com/users/sourei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sourei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sourei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sourei/subscriptions",
+  "organizations_url": "https://api.github.com/users/sourei/orgs",
+  "repos_url": "https://api.github.com/users/sourei/repos",
+  "events_url": "https://api.github.com/users/sourei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sourei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jiekchenid",
+  "id": 460270,
+  "avatar_url": "https://avatars.githubusercontent.com/u/460270?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jiekchenid",
+  "html_url": "https://github.com/jiekchenid",
+  "followers_url": "https://api.github.com/users/jiekchenid/followers",
+  "following_url": "https://api.github.com/users/jiekchenid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jiekchenid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jiekchenid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jiekchenid/subscriptions",
+  "organizations_url": "https://api.github.com/users/jiekchenid/orgs",
+  "repos_url": "https://api.github.com/users/jiekchenid/repos",
+  "events_url": "https://api.github.com/users/jiekchenid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jiekchenid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

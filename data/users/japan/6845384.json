@@ -1,0 +1,20 @@
+{
+  "login": "lyiase",
+  "id": 6845384,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6845384?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lyiase",
+  "html_url": "https://github.com/lyiase",
+  "followers_url": "https://api.github.com/users/lyiase/followers",
+  "following_url": "https://api.github.com/users/lyiase/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lyiase/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lyiase/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lyiase/subscriptions",
+  "organizations_url": "https://api.github.com/users/lyiase/orgs",
+  "repos_url": "https://api.github.com/users/lyiase/repos",
+  "events_url": "https://api.github.com/users/lyiase/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lyiase/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

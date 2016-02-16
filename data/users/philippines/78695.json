@@ -1,0 +1,20 @@
+{
+  "login": "gretch",
+  "id": 78695,
+  "avatar_url": "https://avatars.githubusercontent.com/u/78695?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gretch",
+  "html_url": "https://github.com/gretch",
+  "followers_url": "https://api.github.com/users/gretch/followers",
+  "following_url": "https://api.github.com/users/gretch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gretch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gretch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gretch/subscriptions",
+  "organizations_url": "https://api.github.com/users/gretch/orgs",
+  "repos_url": "https://api.github.com/users/gretch/repos",
+  "events_url": "https://api.github.com/users/gretch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gretch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

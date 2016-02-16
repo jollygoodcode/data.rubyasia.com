@@ -1,0 +1,20 @@
+{
+  "login": "sunnogo",
+  "id": 5097261,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5097261?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sunnogo",
+  "html_url": "https://github.com/sunnogo",
+  "followers_url": "https://api.github.com/users/sunnogo/followers",
+  "following_url": "https://api.github.com/users/sunnogo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sunnogo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sunnogo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sunnogo/subscriptions",
+  "organizations_url": "https://api.github.com/users/sunnogo/orgs",
+  "repos_url": "https://api.github.com/users/sunnogo/repos",
+  "events_url": "https://api.github.com/users/sunnogo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sunnogo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

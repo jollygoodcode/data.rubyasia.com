@@ -1,0 +1,20 @@
+{
+  "login": "okimangelo",
+  "id": 813485,
+  "avatar_url": "https://avatars.githubusercontent.com/u/813485?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okimangelo",
+  "html_url": "https://github.com/okimangelo",
+  "followers_url": "https://api.github.com/users/okimangelo/followers",
+  "following_url": "https://api.github.com/users/okimangelo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okimangelo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okimangelo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okimangelo/subscriptions",
+  "organizations_url": "https://api.github.com/users/okimangelo/orgs",
+  "repos_url": "https://api.github.com/users/okimangelo/repos",
+  "events_url": "https://api.github.com/users/okimangelo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okimangelo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

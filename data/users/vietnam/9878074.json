@@ -1,0 +1,20 @@
+{
+  "login": "Ruby-SG",
+  "id": 9878074,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9878074?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ruby-SG",
+  "html_url": "https://github.com/Ruby-SG",
+  "followers_url": "https://api.github.com/users/Ruby-SG/followers",
+  "following_url": "https://api.github.com/users/Ruby-SG/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ruby-SG/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ruby-SG/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ruby-SG/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ruby-SG/orgs",
+  "repos_url": "https://api.github.com/users/Ruby-SG/repos",
+  "events_url": "https://api.github.com/users/Ruby-SG/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ruby-SG/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

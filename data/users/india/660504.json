@@ -1,0 +1,20 @@
+{
+  "login": "jitrc",
+  "id": 660504,
+  "avatar_url": "https://avatars.githubusercontent.com/u/660504?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jitrc",
+  "html_url": "https://github.com/jitrc",
+  "followers_url": "https://api.github.com/users/jitrc/followers",
+  "following_url": "https://api.github.com/users/jitrc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jitrc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jitrc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jitrc/subscriptions",
+  "organizations_url": "https://api.github.com/users/jitrc/orgs",
+  "repos_url": "https://api.github.com/users/jitrc/repos",
+  "events_url": "https://api.github.com/users/jitrc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jitrc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "spacemarket",
+  "id": 6180171,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6180171?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spacemarket",
+  "html_url": "https://github.com/spacemarket",
+  "followers_url": "https://api.github.com/users/spacemarket/followers",
+  "following_url": "https://api.github.com/users/spacemarket/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spacemarket/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spacemarket/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spacemarket/subscriptions",
+  "organizations_url": "https://api.github.com/users/spacemarket/orgs",
+  "repos_url": "https://api.github.com/users/spacemarket/repos",
+  "events_url": "https://api.github.com/users/spacemarket/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spacemarket/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

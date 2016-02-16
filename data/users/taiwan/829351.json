@@ -1,0 +1,20 @@
+{
+  "login": "boosterwu",
+  "id": 829351,
+  "avatar_url": "https://avatars.githubusercontent.com/u/829351?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/boosterwu",
+  "html_url": "https://github.com/boosterwu",
+  "followers_url": "https://api.github.com/users/boosterwu/followers",
+  "following_url": "https://api.github.com/users/boosterwu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/boosterwu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/boosterwu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/boosterwu/subscriptions",
+  "organizations_url": "https://api.github.com/users/boosterwu/orgs",
+  "repos_url": "https://api.github.com/users/boosterwu/repos",
+  "events_url": "https://api.github.com/users/boosterwu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/boosterwu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

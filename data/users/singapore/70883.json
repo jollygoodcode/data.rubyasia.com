@@ -1,0 +1,20 @@
+{
+  "login": "dewanr",
+  "id": 70883,
+  "avatar_url": "https://avatars.githubusercontent.com/u/70883?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dewanr",
+  "html_url": "https://github.com/dewanr",
+  "followers_url": "https://api.github.com/users/dewanr/followers",
+  "following_url": "https://api.github.com/users/dewanr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dewanr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dewanr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dewanr/subscriptions",
+  "organizations_url": "https://api.github.com/users/dewanr/orgs",
+  "repos_url": "https://api.github.com/users/dewanr/repos",
+  "events_url": "https://api.github.com/users/dewanr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dewanr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

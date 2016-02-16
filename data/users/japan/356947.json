@@ -1,0 +1,20 @@
+{
+  "login": "yamakatu",
+  "id": 356947,
+  "avatar_url": "https://avatars.githubusercontent.com/u/356947?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yamakatu",
+  "html_url": "https://github.com/yamakatu",
+  "followers_url": "https://api.github.com/users/yamakatu/followers",
+  "following_url": "https://api.github.com/users/yamakatu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yamakatu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yamakatu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yamakatu/subscriptions",
+  "organizations_url": "https://api.github.com/users/yamakatu/orgs",
+  "repos_url": "https://api.github.com/users/yamakatu/repos",
+  "events_url": "https://api.github.com/users/yamakatu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yamakatu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

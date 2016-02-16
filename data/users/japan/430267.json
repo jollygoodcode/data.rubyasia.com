@@ -1,0 +1,20 @@
+{
+  "login": "kubosho",
+  "id": 430267,
+  "avatar_url": "https://avatars.githubusercontent.com/u/430267?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kubosho",
+  "html_url": "https://github.com/kubosho",
+  "followers_url": "https://api.github.com/users/kubosho/followers",
+  "following_url": "https://api.github.com/users/kubosho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kubosho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kubosho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kubosho/subscriptions",
+  "organizations_url": "https://api.github.com/users/kubosho/orgs",
+  "repos_url": "https://api.github.com/users/kubosho/repos",
+  "events_url": "https://api.github.com/users/kubosho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kubosho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

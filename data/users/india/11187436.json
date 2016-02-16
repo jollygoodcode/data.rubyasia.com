@@ -1,0 +1,20 @@
+{
+  "login": "getflint",
+  "id": 11187436,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11187436?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/getflint",
+  "html_url": "https://github.com/getflint",
+  "followers_url": "https://api.github.com/users/getflint/followers",
+  "following_url": "https://api.github.com/users/getflint/following{/other_user}",
+  "gists_url": "https://api.github.com/users/getflint/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/getflint/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/getflint/subscriptions",
+  "organizations_url": "https://api.github.com/users/getflint/orgs",
+  "repos_url": "https://api.github.com/users/getflint/repos",
+  "events_url": "https://api.github.com/users/getflint/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/getflint/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

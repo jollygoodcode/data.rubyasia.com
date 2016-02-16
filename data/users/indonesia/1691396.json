@@ -1,0 +1,20 @@
+{
+  "login": "yogahp",
+  "id": 1691396,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1691396?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yogahp",
+  "html_url": "https://github.com/yogahp",
+  "followers_url": "https://api.github.com/users/yogahp/followers",
+  "following_url": "https://api.github.com/users/yogahp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yogahp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yogahp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yogahp/subscriptions",
+  "organizations_url": "https://api.github.com/users/yogahp/orgs",
+  "repos_url": "https://api.github.com/users/yogahp/repos",
+  "events_url": "https://api.github.com/users/yogahp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yogahp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

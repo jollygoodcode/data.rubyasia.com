@@ -1,0 +1,20 @@
+{
+  "login": "tohchye",
+  "id": 905,
+  "avatar_url": "https://avatars.githubusercontent.com/u/905?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tohchye",
+  "html_url": "https://github.com/tohchye",
+  "followers_url": "https://api.github.com/users/tohchye/followers",
+  "following_url": "https://api.github.com/users/tohchye/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tohchye/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tohchye/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tohchye/subscriptions",
+  "organizations_url": "https://api.github.com/users/tohchye/orgs",
+  "repos_url": "https://api.github.com/users/tohchye/repos",
+  "events_url": "https://api.github.com/users/tohchye/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tohchye/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

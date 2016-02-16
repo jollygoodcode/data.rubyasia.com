@@ -1,0 +1,20 @@
+{
+  "login": "steverandy",
+  "id": 525332,
+  "avatar_url": "https://avatars.githubusercontent.com/u/525332?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/steverandy",
+  "html_url": "https://github.com/steverandy",
+  "followers_url": "https://api.github.com/users/steverandy/followers",
+  "following_url": "https://api.github.com/users/steverandy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/steverandy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/steverandy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/steverandy/subscriptions",
+  "organizations_url": "https://api.github.com/users/steverandy/orgs",
+  "repos_url": "https://api.github.com/users/steverandy/repos",
+  "events_url": "https://api.github.com/users/steverandy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/steverandy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

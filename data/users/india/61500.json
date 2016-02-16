@@ -1,0 +1,20 @@
+{
+  "login": "gautamrege",
+  "id": 61500,
+  "avatar_url": "https://avatars.githubusercontent.com/u/61500?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gautamrege",
+  "html_url": "https://github.com/gautamrege",
+  "followers_url": "https://api.github.com/users/gautamrege/followers",
+  "following_url": "https://api.github.com/users/gautamrege/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gautamrege/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gautamrege/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gautamrege/subscriptions",
+  "organizations_url": "https://api.github.com/users/gautamrege/orgs",
+  "repos_url": "https://api.github.com/users/gautamrege/repos",
+  "events_url": "https://api.github.com/users/gautamrege/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gautamrege/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

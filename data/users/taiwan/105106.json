@@ -1,0 +1,20 @@
+{
+  "login": "JosephKu",
+  "id": 105106,
+  "avatar_url": "https://avatars.githubusercontent.com/u/105106?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JosephKu",
+  "html_url": "https://github.com/JosephKu",
+  "followers_url": "https://api.github.com/users/JosephKu/followers",
+  "following_url": "https://api.github.com/users/JosephKu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JosephKu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JosephKu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JosephKu/subscriptions",
+  "organizations_url": "https://api.github.com/users/JosephKu/orgs",
+  "repos_url": "https://api.github.com/users/JosephKu/repos",
+  "events_url": "https://api.github.com/users/JosephKu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JosephKu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "leomayleomay",
+  "id": 48898,
+  "avatar_url": "https://avatars.githubusercontent.com/u/48898?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leomayleomay",
+  "html_url": "https://github.com/leomayleomay",
+  "followers_url": "https://api.github.com/users/leomayleomay/followers",
+  "following_url": "https://api.github.com/users/leomayleomay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leomayleomay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leomayleomay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leomayleomay/subscriptions",
+  "organizations_url": "https://api.github.com/users/leomayleomay/orgs",
+  "repos_url": "https://api.github.com/users/leomayleomay/repos",
+  "events_url": "https://api.github.com/users/leomayleomay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leomayleomay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

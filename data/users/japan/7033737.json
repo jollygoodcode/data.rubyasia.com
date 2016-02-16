@@ -1,0 +1,20 @@
+{
+  "login": "Ninigi",
+  "id": 7033737,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7033737?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ninigi",
+  "html_url": "https://github.com/Ninigi",
+  "followers_url": "https://api.github.com/users/Ninigi/followers",
+  "following_url": "https://api.github.com/users/Ninigi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ninigi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ninigi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ninigi/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ninigi/orgs",
+  "repos_url": "https://api.github.com/users/Ninigi/repos",
+  "events_url": "https://api.github.com/users/Ninigi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ninigi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "labocho",
+  "id": 428177,
+  "avatar_url": "https://avatars.githubusercontent.com/u/428177?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/labocho",
+  "html_url": "https://github.com/labocho",
+  "followers_url": "https://api.github.com/users/labocho/followers",
+  "following_url": "https://api.github.com/users/labocho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/labocho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/labocho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/labocho/subscriptions",
+  "organizations_url": "https://api.github.com/users/labocho/orgs",
+  "repos_url": "https://api.github.com/users/labocho/repos",
+  "events_url": "https://api.github.com/users/labocho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/labocho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

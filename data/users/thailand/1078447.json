@@ -1,0 +1,20 @@
+{
+  "login": "ariesanywhere",
+  "id": 1078447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1078447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ariesanywhere",
+  "html_url": "https://github.com/ariesanywhere",
+  "followers_url": "https://api.github.com/users/ariesanywhere/followers",
+  "following_url": "https://api.github.com/users/ariesanywhere/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ariesanywhere/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ariesanywhere/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ariesanywhere/subscriptions",
+  "organizations_url": "https://api.github.com/users/ariesanywhere/orgs",
+  "repos_url": "https://api.github.com/users/ariesanywhere/repos",
+  "events_url": "https://api.github.com/users/ariesanywhere/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ariesanywhere/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "adousj",
+  "id": 7557999,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7557999?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adousj",
+  "html_url": "https://github.com/adousj",
+  "followers_url": "https://api.github.com/users/adousj/followers",
+  "following_url": "https://api.github.com/users/adousj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adousj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adousj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adousj/subscriptions",
+  "organizations_url": "https://api.github.com/users/adousj/orgs",
+  "repos_url": "https://api.github.com/users/adousj/repos",
+  "events_url": "https://api.github.com/users/adousj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adousj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "xfym",
+  "id": 7707894,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7707894?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xfym",
+  "html_url": "https://github.com/xfym",
+  "followers_url": "https://api.github.com/users/xfym/followers",
+  "following_url": "https://api.github.com/users/xfym/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xfym/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xfym/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xfym/subscriptions",
+  "organizations_url": "https://api.github.com/users/xfym/orgs",
+  "repos_url": "https://api.github.com/users/xfym/repos",
+  "events_url": "https://api.github.com/users/xfym/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xfym/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

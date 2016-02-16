@@ -1,0 +1,20 @@
+{
+  "login": "imyh",
+  "id": 9253866,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9253866?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imyh",
+  "html_url": "https://github.com/imyh",
+  "followers_url": "https://api.github.com/users/imyh/followers",
+  "following_url": "https://api.github.com/users/imyh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imyh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imyh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imyh/subscriptions",
+  "organizations_url": "https://api.github.com/users/imyh/orgs",
+  "repos_url": "https://api.github.com/users/imyh/repos",
+  "events_url": "https://api.github.com/users/imyh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imyh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

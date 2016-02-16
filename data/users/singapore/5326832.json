@@ -1,0 +1,20 @@
+{
+  "login": "jollygoodcode",
+  "id": 5326832,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5326832?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jollygoodcode",
+  "html_url": "https://github.com/jollygoodcode",
+  "followers_url": "https://api.github.com/users/jollygoodcode/followers",
+  "following_url": "https://api.github.com/users/jollygoodcode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jollygoodcode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jollygoodcode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jollygoodcode/subscriptions",
+  "organizations_url": "https://api.github.com/users/jollygoodcode/orgs",
+  "repos_url": "https://api.github.com/users/jollygoodcode/repos",
+  "events_url": "https://api.github.com/users/jollygoodcode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jollygoodcode/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

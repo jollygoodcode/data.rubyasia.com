@@ -1,0 +1,20 @@
+{
+  "login": "nmindia",
+  "id": 192987,
+  "avatar_url": "https://avatars.githubusercontent.com/u/192987?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nmindia",
+  "html_url": "https://github.com/nmindia",
+  "followers_url": "https://api.github.com/users/nmindia/followers",
+  "following_url": "https://api.github.com/users/nmindia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nmindia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nmindia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nmindia/subscriptions",
+  "organizations_url": "https://api.github.com/users/nmindia/orgs",
+  "repos_url": "https://api.github.com/users/nmindia/repos",
+  "events_url": "https://api.github.com/users/nmindia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nmindia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

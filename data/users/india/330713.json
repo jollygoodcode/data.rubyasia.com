@@ -1,0 +1,20 @@
+{
+  "login": "maniempire",
+  "id": 330713,
+  "avatar_url": "https://avatars.githubusercontent.com/u/330713?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maniempire",
+  "html_url": "https://github.com/maniempire",
+  "followers_url": "https://api.github.com/users/maniempire/followers",
+  "following_url": "https://api.github.com/users/maniempire/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maniempire/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maniempire/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maniempire/subscriptions",
+  "organizations_url": "https://api.github.com/users/maniempire/orgs",
+  "repos_url": "https://api.github.com/users/maniempire/repos",
+  "events_url": "https://api.github.com/users/maniempire/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maniempire/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

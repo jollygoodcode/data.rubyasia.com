@@ -1,0 +1,20 @@
+{
+  "login": "omasanori",
+  "id": 167209,
+  "avatar_url": "https://avatars.githubusercontent.com/u/167209?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/omasanori",
+  "html_url": "https://github.com/omasanori",
+  "followers_url": "https://api.github.com/users/omasanori/followers",
+  "following_url": "https://api.github.com/users/omasanori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/omasanori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/omasanori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/omasanori/subscriptions",
+  "organizations_url": "https://api.github.com/users/omasanori/orgs",
+  "repos_url": "https://api.github.com/users/omasanori/repos",
+  "events_url": "https://api.github.com/users/omasanori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/omasanori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

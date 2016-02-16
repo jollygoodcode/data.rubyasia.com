@@ -1,0 +1,20 @@
+{
+  "login": "devansingam",
+  "id": 12889820,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12889820?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devansingam",
+  "html_url": "https://github.com/devansingam",
+  "followers_url": "https://api.github.com/users/devansingam/followers",
+  "following_url": "https://api.github.com/users/devansingam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devansingam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devansingam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devansingam/subscriptions",
+  "organizations_url": "https://api.github.com/users/devansingam/orgs",
+  "repos_url": "https://api.github.com/users/devansingam/repos",
+  "events_url": "https://api.github.com/users/devansingam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devansingam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

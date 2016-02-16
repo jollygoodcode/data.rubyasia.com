@@ -1,0 +1,20 @@
+{
+  "login": "vnc-biz",
+  "id": 2013607,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2013607?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vnc-biz",
+  "html_url": "https://github.com/vnc-biz",
+  "followers_url": "https://api.github.com/users/vnc-biz/followers",
+  "following_url": "https://api.github.com/users/vnc-biz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vnc-biz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vnc-biz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vnc-biz/subscriptions",
+  "organizations_url": "https://api.github.com/users/vnc-biz/orgs",
+  "repos_url": "https://api.github.com/users/vnc-biz/repos",
+  "events_url": "https://api.github.com/users/vnc-biz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vnc-biz/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

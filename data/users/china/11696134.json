@@ -1,0 +1,20 @@
+{
+  "login": "gameFu",
+  "id": 11696134,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11696134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gameFu",
+  "html_url": "https://github.com/gameFu",
+  "followers_url": "https://api.github.com/users/gameFu/followers",
+  "following_url": "https://api.github.com/users/gameFu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gameFu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gameFu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gameFu/subscriptions",
+  "organizations_url": "https://api.github.com/users/gameFu/orgs",
+  "repos_url": "https://api.github.com/users/gameFu/repos",
+  "events_url": "https://api.github.com/users/gameFu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gameFu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tak2siva",
+  "id": 4321013,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4321013?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tak2siva",
+  "html_url": "https://github.com/tak2siva",
+  "followers_url": "https://api.github.com/users/tak2siva/followers",
+  "following_url": "https://api.github.com/users/tak2siva/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tak2siva/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tak2siva/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tak2siva/subscriptions",
+  "organizations_url": "https://api.github.com/users/tak2siva/orgs",
+  "repos_url": "https://api.github.com/users/tak2siva/repos",
+  "events_url": "https://api.github.com/users/tak2siva/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tak2siva/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

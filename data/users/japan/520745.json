@@ -1,0 +1,20 @@
+{
+  "login": "naohta",
+  "id": 520745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/520745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/naohta",
+  "html_url": "https://github.com/naohta",
+  "followers_url": "https://api.github.com/users/naohta/followers",
+  "following_url": "https://api.github.com/users/naohta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/naohta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/naohta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/naohta/subscriptions",
+  "organizations_url": "https://api.github.com/users/naohta/orgs",
+  "repos_url": "https://api.github.com/users/naohta/repos",
+  "events_url": "https://api.github.com/users/naohta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/naohta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

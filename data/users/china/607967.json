@@ -1,0 +1,20 @@
+{
+  "login": "tinyfive",
+  "id": 607967,
+  "avatar_url": "https://avatars.githubusercontent.com/u/607967?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tinyfive",
+  "html_url": "https://github.com/tinyfive",
+  "followers_url": "https://api.github.com/users/tinyfive/followers",
+  "following_url": "https://api.github.com/users/tinyfive/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tinyfive/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tinyfive/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tinyfive/subscriptions",
+  "organizations_url": "https://api.github.com/users/tinyfive/orgs",
+  "repos_url": "https://api.github.com/users/tinyfive/repos",
+  "events_url": "https://api.github.com/users/tinyfive/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tinyfive/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

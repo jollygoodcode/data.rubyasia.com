@@ -1,0 +1,20 @@
+{
+  "login": "yandy",
+  "id": 535319,
+  "avatar_url": "https://avatars.githubusercontent.com/u/535319?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yandy",
+  "html_url": "https://github.com/yandy",
+  "followers_url": "https://api.github.com/users/yandy/followers",
+  "following_url": "https://api.github.com/users/yandy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yandy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yandy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yandy/subscriptions",
+  "organizations_url": "https://api.github.com/users/yandy/orgs",
+  "repos_url": "https://api.github.com/users/yandy/repos",
+  "events_url": "https://api.github.com/users/yandy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yandy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

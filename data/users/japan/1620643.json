@@ -1,0 +1,20 @@
+{
+  "login": "hiroshimarb",
+  "id": 1620643,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1620643?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiroshimarb",
+  "html_url": "https://github.com/hiroshimarb",
+  "followers_url": "https://api.github.com/users/hiroshimarb/followers",
+  "following_url": "https://api.github.com/users/hiroshimarb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiroshimarb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiroshimarb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiroshimarb/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiroshimarb/orgs",
+  "repos_url": "https://api.github.com/users/hiroshimarb/repos",
+  "events_url": "https://api.github.com/users/hiroshimarb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiroshimarb/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

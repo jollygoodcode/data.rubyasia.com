@@ -1,0 +1,20 @@
+{
+  "login": "halenohi",
+  "id": 4413264,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4413264?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/halenohi",
+  "html_url": "https://github.com/halenohi",
+  "followers_url": "https://api.github.com/users/halenohi/followers",
+  "following_url": "https://api.github.com/users/halenohi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/halenohi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/halenohi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/halenohi/subscriptions",
+  "organizations_url": "https://api.github.com/users/halenohi/orgs",
+  "repos_url": "https://api.github.com/users/halenohi/repos",
+  "events_url": "https://api.github.com/users/halenohi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/halenohi/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

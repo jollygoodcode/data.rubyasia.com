@@ -1,0 +1,20 @@
+{
+  "login": "stabacov",
+  "id": 1186321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1186321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stabacov",
+  "html_url": "https://github.com/stabacov",
+  "followers_url": "https://api.github.com/users/stabacov/followers",
+  "following_url": "https://api.github.com/users/stabacov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stabacov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stabacov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stabacov/subscriptions",
+  "organizations_url": "https://api.github.com/users/stabacov/orgs",
+  "repos_url": "https://api.github.com/users/stabacov/repos",
+  "events_url": "https://api.github.com/users/stabacov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stabacov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

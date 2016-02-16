@@ -1,0 +1,20 @@
+{
+  "login": "bluestein",
+  "id": 9268500,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9268500?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bluestein",
+  "html_url": "https://github.com/bluestein",
+  "followers_url": "https://api.github.com/users/bluestein/followers",
+  "following_url": "https://api.github.com/users/bluestein/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bluestein/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bluestein/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bluestein/subscriptions",
+  "organizations_url": "https://api.github.com/users/bluestein/orgs",
+  "repos_url": "https://api.github.com/users/bluestein/repos",
+  "events_url": "https://api.github.com/users/bluestein/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bluestein/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

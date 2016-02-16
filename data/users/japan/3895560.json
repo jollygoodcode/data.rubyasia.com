@@ -1,0 +1,20 @@
+{
+  "login": "kskomori",
+  "id": 3895560,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3895560?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kskomori",
+  "html_url": "https://github.com/kskomori",
+  "followers_url": "https://api.github.com/users/kskomori/followers",
+  "following_url": "https://api.github.com/users/kskomori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kskomori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kskomori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kskomori/subscriptions",
+  "organizations_url": "https://api.github.com/users/kskomori/orgs",
+  "repos_url": "https://api.github.com/users/kskomori/repos",
+  "events_url": "https://api.github.com/users/kskomori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kskomori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

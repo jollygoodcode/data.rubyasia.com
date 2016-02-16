@@ -1,0 +1,20 @@
+{
+  "login": "tmlee",
+  "id": 110264,
+  "avatar_url": "https://avatars.githubusercontent.com/u/110264?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tmlee",
+  "html_url": "https://github.com/tmlee",
+  "followers_url": "https://api.github.com/users/tmlee/followers",
+  "following_url": "https://api.github.com/users/tmlee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tmlee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tmlee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tmlee/subscriptions",
+  "organizations_url": "https://api.github.com/users/tmlee/orgs",
+  "repos_url": "https://api.github.com/users/tmlee/repos",
+  "events_url": "https://api.github.com/users/tmlee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tmlee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

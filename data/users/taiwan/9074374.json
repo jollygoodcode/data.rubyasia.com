@@ -1,0 +1,20 @@
+{
+  "login": "king4sam",
+  "id": 9074374,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9074374?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/king4sam",
+  "html_url": "https://github.com/king4sam",
+  "followers_url": "https://api.github.com/users/king4sam/followers",
+  "following_url": "https://api.github.com/users/king4sam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/king4sam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/king4sam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/king4sam/subscriptions",
+  "organizations_url": "https://api.github.com/users/king4sam/orgs",
+  "repos_url": "https://api.github.com/users/king4sam/repos",
+  "events_url": "https://api.github.com/users/king4sam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/king4sam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

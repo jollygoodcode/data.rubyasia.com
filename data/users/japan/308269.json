@@ -1,0 +1,20 @@
+{
+  "login": "SmokyJp",
+  "id": 308269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/308269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SmokyJp",
+  "html_url": "https://github.com/SmokyJp",
+  "followers_url": "https://api.github.com/users/SmokyJp/followers",
+  "following_url": "https://api.github.com/users/SmokyJp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SmokyJp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SmokyJp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SmokyJp/subscriptions",
+  "organizations_url": "https://api.github.com/users/SmokyJp/orgs",
+  "repos_url": "https://api.github.com/users/SmokyJp/repos",
+  "events_url": "https://api.github.com/users/SmokyJp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SmokyJp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

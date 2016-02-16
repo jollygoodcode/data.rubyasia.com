@@ -1,0 +1,20 @@
+{
+  "login": "hiro-su",
+  "id": 916624,
+  "avatar_url": "https://avatars.githubusercontent.com/u/916624?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiro-su",
+  "html_url": "https://github.com/hiro-su",
+  "followers_url": "https://api.github.com/users/hiro-su/followers",
+  "following_url": "https://api.github.com/users/hiro-su/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiro-su/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiro-su/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiro-su/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiro-su/orgs",
+  "repos_url": "https://api.github.com/users/hiro-su/repos",
+  "events_url": "https://api.github.com/users/hiro-su/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiro-su/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

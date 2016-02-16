@@ -1,0 +1,20 @@
+{
+  "login": "KICKHOST",
+  "id": 3241152,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3241152?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KICKHOST",
+  "html_url": "https://github.com/KICKHOST",
+  "followers_url": "https://api.github.com/users/KICKHOST/followers",
+  "following_url": "https://api.github.com/users/KICKHOST/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KICKHOST/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KICKHOST/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KICKHOST/subscriptions",
+  "organizations_url": "https://api.github.com/users/KICKHOST/orgs",
+  "repos_url": "https://api.github.com/users/KICKHOST/repos",
+  "events_url": "https://api.github.com/users/KICKHOST/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KICKHOST/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

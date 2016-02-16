@@ -1,0 +1,20 @@
+{
+  "login": "Leanis",
+  "id": 4949402,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4949402?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Leanis",
+  "html_url": "https://github.com/Leanis",
+  "followers_url": "https://api.github.com/users/Leanis/followers",
+  "following_url": "https://api.github.com/users/Leanis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Leanis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Leanis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Leanis/subscriptions",
+  "organizations_url": "https://api.github.com/users/Leanis/orgs",
+  "repos_url": "https://api.github.com/users/Leanis/repos",
+  "events_url": "https://api.github.com/users/Leanis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Leanis/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

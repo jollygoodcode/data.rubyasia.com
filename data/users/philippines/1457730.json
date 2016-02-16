@@ -1,0 +1,20 @@
+{
+  "login": "gjaldon",
+  "id": 1457730,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1457730?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gjaldon",
+  "html_url": "https://github.com/gjaldon",
+  "followers_url": "https://api.github.com/users/gjaldon/followers",
+  "following_url": "https://api.github.com/users/gjaldon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gjaldon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gjaldon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gjaldon/subscriptions",
+  "organizations_url": "https://api.github.com/users/gjaldon/orgs",
+  "repos_url": "https://api.github.com/users/gjaldon/repos",
+  "events_url": "https://api.github.com/users/gjaldon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gjaldon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jeremylinlin",
+  "id": 8186549,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8186549?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeremylinlin",
+  "html_url": "https://github.com/jeremylinlin",
+  "followers_url": "https://api.github.com/users/jeremylinlin/followers",
+  "following_url": "https://api.github.com/users/jeremylinlin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeremylinlin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeremylinlin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeremylinlin/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeremylinlin/orgs",
+  "repos_url": "https://api.github.com/users/jeremylinlin/repos",
+  "events_url": "https://api.github.com/users/jeremylinlin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeremylinlin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

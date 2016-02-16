@@ -1,0 +1,20 @@
+{
+  "login": "naivefun",
+  "id": 10683378,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10683378?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/naivefun",
+  "html_url": "https://github.com/naivefun",
+  "followers_url": "https://api.github.com/users/naivefun/followers",
+  "following_url": "https://api.github.com/users/naivefun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/naivefun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/naivefun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/naivefun/subscriptions",
+  "organizations_url": "https://api.github.com/users/naivefun/orgs",
+  "repos_url": "https://api.github.com/users/naivefun/repos",
+  "events_url": "https://api.github.com/users/naivefun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/naivefun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

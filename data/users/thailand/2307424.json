@@ -1,0 +1,20 @@
+{
+  "login": "chiangdao",
+  "id": 2307424,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2307424?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chiangdao",
+  "html_url": "https://github.com/chiangdao",
+  "followers_url": "https://api.github.com/users/chiangdao/followers",
+  "following_url": "https://api.github.com/users/chiangdao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chiangdao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chiangdao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chiangdao/subscriptions",
+  "organizations_url": "https://api.github.com/users/chiangdao/orgs",
+  "repos_url": "https://api.github.com/users/chiangdao/repos",
+  "events_url": "https://api.github.com/users/chiangdao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chiangdao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

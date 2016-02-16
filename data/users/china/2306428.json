@@ -1,0 +1,20 @@
+{
+  "login": "sweetdark",
+  "id": 2306428,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2306428?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sweetdark",
+  "html_url": "https://github.com/sweetdark",
+  "followers_url": "https://api.github.com/users/sweetdark/followers",
+  "following_url": "https://api.github.com/users/sweetdark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sweetdark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sweetdark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sweetdark/subscriptions",
+  "organizations_url": "https://api.github.com/users/sweetdark/orgs",
+  "repos_url": "https://api.github.com/users/sweetdark/repos",
+  "events_url": "https://api.github.com/users/sweetdark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sweetdark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

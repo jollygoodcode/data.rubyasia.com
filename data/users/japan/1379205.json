@@ -1,0 +1,20 @@
+{
+  "login": "suruseas",
+  "id": 1379205,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1379205?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suruseas",
+  "html_url": "https://github.com/suruseas",
+  "followers_url": "https://api.github.com/users/suruseas/followers",
+  "following_url": "https://api.github.com/users/suruseas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suruseas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suruseas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suruseas/subscriptions",
+  "organizations_url": "https://api.github.com/users/suruseas/orgs",
+  "repos_url": "https://api.github.com/users/suruseas/repos",
+  "events_url": "https://api.github.com/users/suruseas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suruseas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

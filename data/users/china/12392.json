@@ -1,0 +1,20 @@
+{
+  "login": "caiwangqin",
+  "id": 12392,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12392?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/caiwangqin",
+  "html_url": "https://github.com/caiwangqin",
+  "followers_url": "https://api.github.com/users/caiwangqin/followers",
+  "following_url": "https://api.github.com/users/caiwangqin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/caiwangqin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/caiwangqin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/caiwangqin/subscriptions",
+  "organizations_url": "https://api.github.com/users/caiwangqin/orgs",
+  "repos_url": "https://api.github.com/users/caiwangqin/repos",
+  "events_url": "https://api.github.com/users/caiwangqin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/caiwangqin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

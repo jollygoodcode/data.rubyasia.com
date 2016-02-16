@@ -1,0 +1,20 @@
+{
+  "login": "midore",
+  "id": 52248,
+  "avatar_url": "https://avatars.githubusercontent.com/u/52248?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/midore",
+  "html_url": "https://github.com/midore",
+  "followers_url": "https://api.github.com/users/midore/followers",
+  "following_url": "https://api.github.com/users/midore/following{/other_user}",
+  "gists_url": "https://api.github.com/users/midore/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/midore/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/midore/subscriptions",
+  "organizations_url": "https://api.github.com/users/midore/orgs",
+  "repos_url": "https://api.github.com/users/midore/repos",
+  "events_url": "https://api.github.com/users/midore/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/midore/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

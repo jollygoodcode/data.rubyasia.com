@@ -1,0 +1,20 @@
+{
+  "login": "yoshuki",
+  "id": 9143,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoshuki",
+  "html_url": "https://github.com/yoshuki",
+  "followers_url": "https://api.github.com/users/yoshuki/followers",
+  "following_url": "https://api.github.com/users/yoshuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoshuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoshuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoshuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoshuki/orgs",
+  "repos_url": "https://api.github.com/users/yoshuki/repos",
+  "events_url": "https://api.github.com/users/yoshuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoshuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

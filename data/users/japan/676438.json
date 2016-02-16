@@ -1,0 +1,20 @@
+{
+  "login": "tkatochin",
+  "id": 676438,
+  "avatar_url": "https://avatars.githubusercontent.com/u/676438?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tkatochin",
+  "html_url": "https://github.com/tkatochin",
+  "followers_url": "https://api.github.com/users/tkatochin/followers",
+  "following_url": "https://api.github.com/users/tkatochin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tkatochin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tkatochin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tkatochin/subscriptions",
+  "organizations_url": "https://api.github.com/users/tkatochin/orgs",
+  "repos_url": "https://api.github.com/users/tkatochin/repos",
+  "events_url": "https://api.github.com/users/tkatochin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tkatochin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

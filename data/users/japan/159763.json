@@ -1,0 +1,20 @@
+{
+  "login": "oonuma",
+  "id": 159763,
+  "avatar_url": "https://avatars.githubusercontent.com/u/159763?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oonuma",
+  "html_url": "https://github.com/oonuma",
+  "followers_url": "https://api.github.com/users/oonuma/followers",
+  "following_url": "https://api.github.com/users/oonuma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oonuma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oonuma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oonuma/subscriptions",
+  "organizations_url": "https://api.github.com/users/oonuma/orgs",
+  "repos_url": "https://api.github.com/users/oonuma/repos",
+  "events_url": "https://api.github.com/users/oonuma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oonuma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

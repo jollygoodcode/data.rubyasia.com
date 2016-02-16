@@ -1,0 +1,20 @@
+{
+  "login": "cloudemr",
+  "id": 3658985,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3658985?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cloudemr",
+  "html_url": "https://github.com/cloudemr",
+  "followers_url": "https://api.github.com/users/cloudemr/followers",
+  "following_url": "https://api.github.com/users/cloudemr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cloudemr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cloudemr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cloudemr/subscriptions",
+  "organizations_url": "https://api.github.com/users/cloudemr/orgs",
+  "repos_url": "https://api.github.com/users/cloudemr/repos",
+  "events_url": "https://api.github.com/users/cloudemr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cloudemr/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

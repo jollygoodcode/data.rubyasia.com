@@ -1,0 +1,20 @@
+{
+  "login": "ryanteo",
+  "id": 274001,
+  "avatar_url": "https://avatars.githubusercontent.com/u/274001?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryanteo",
+  "html_url": "https://github.com/ryanteo",
+  "followers_url": "https://api.github.com/users/ryanteo/followers",
+  "following_url": "https://api.github.com/users/ryanteo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryanteo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryanteo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryanteo/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryanteo/orgs",
+  "repos_url": "https://api.github.com/users/ryanteo/repos",
+  "events_url": "https://api.github.com/users/ryanteo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryanteo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

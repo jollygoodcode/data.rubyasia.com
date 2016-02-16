@@ -1,0 +1,20 @@
+{
+  "login": "gsmendoza",
+  "id": 61476,
+  "avatar_url": "https://avatars.githubusercontent.com/u/61476?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gsmendoza",
+  "html_url": "https://github.com/gsmendoza",
+  "followers_url": "https://api.github.com/users/gsmendoza/followers",
+  "following_url": "https://api.github.com/users/gsmendoza/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gsmendoza/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gsmendoza/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gsmendoza/subscriptions",
+  "organizations_url": "https://api.github.com/users/gsmendoza/orgs",
+  "repos_url": "https://api.github.com/users/gsmendoza/repos",
+  "events_url": "https://api.github.com/users/gsmendoza/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gsmendoza/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

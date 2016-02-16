@@ -1,0 +1,20 @@
+{
+  "login": "Bridgeconn",
+  "id": 17051386,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17051386?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Bridgeconn",
+  "html_url": "https://github.com/Bridgeconn",
+  "followers_url": "https://api.github.com/users/Bridgeconn/followers",
+  "following_url": "https://api.github.com/users/Bridgeconn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Bridgeconn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Bridgeconn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Bridgeconn/subscriptions",
+  "organizations_url": "https://api.github.com/users/Bridgeconn/orgs",
+  "repos_url": "https://api.github.com/users/Bridgeconn/repos",
+  "events_url": "https://api.github.com/users/Bridgeconn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Bridgeconn/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

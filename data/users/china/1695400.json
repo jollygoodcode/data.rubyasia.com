@@ -1,0 +1,20 @@
+{
+  "login": "jjyr",
+  "id": 1695400,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1695400?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jjyr",
+  "html_url": "https://github.com/jjyr",
+  "followers_url": "https://api.github.com/users/jjyr/followers",
+  "following_url": "https://api.github.com/users/jjyr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jjyr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jjyr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jjyr/subscriptions",
+  "organizations_url": "https://api.github.com/users/jjyr/orgs",
+  "repos_url": "https://api.github.com/users/jjyr/repos",
+  "events_url": "https://api.github.com/users/jjyr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jjyr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

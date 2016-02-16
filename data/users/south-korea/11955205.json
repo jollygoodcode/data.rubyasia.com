@@ -1,0 +1,20 @@
+{
+  "login": "ForTen",
+  "id": 11955205,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11955205?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ForTen",
+  "html_url": "https://github.com/ForTen",
+  "followers_url": "https://api.github.com/users/ForTen/followers",
+  "following_url": "https://api.github.com/users/ForTen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ForTen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ForTen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ForTen/subscriptions",
+  "organizations_url": "https://api.github.com/users/ForTen/orgs",
+  "repos_url": "https://api.github.com/users/ForTen/repos",
+  "events_url": "https://api.github.com/users/ForTen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ForTen/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

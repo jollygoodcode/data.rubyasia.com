@@ -1,0 +1,20 @@
+{
+  "login": "marcy-terui",
+  "id": 4560264,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4560264?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marcy-terui",
+  "html_url": "https://github.com/marcy-terui",
+  "followers_url": "https://api.github.com/users/marcy-terui/followers",
+  "following_url": "https://api.github.com/users/marcy-terui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marcy-terui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marcy-terui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marcy-terui/subscriptions",
+  "organizations_url": "https://api.github.com/users/marcy-terui/orgs",
+  "repos_url": "https://api.github.com/users/marcy-terui/repos",
+  "events_url": "https://api.github.com/users/marcy-terui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marcy-terui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

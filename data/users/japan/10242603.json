@@ -1,0 +1,20 @@
+{
+  "login": "techacademy-jp",
+  "id": 10242603,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10242603?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/techacademy-jp",
+  "html_url": "https://github.com/techacademy-jp",
+  "followers_url": "https://api.github.com/users/techacademy-jp/followers",
+  "following_url": "https://api.github.com/users/techacademy-jp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/techacademy-jp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/techacademy-jp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/techacademy-jp/subscriptions",
+  "organizations_url": "https://api.github.com/users/techacademy-jp/orgs",
+  "repos_url": "https://api.github.com/users/techacademy-jp/repos",
+  "events_url": "https://api.github.com/users/techacademy-jp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/techacademy-jp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

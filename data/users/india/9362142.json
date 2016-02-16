@@ -1,0 +1,20 @@
+{
+  "login": "liznet",
+  "id": 9362142,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9362142?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/liznet",
+  "html_url": "https://github.com/liznet",
+  "followers_url": "https://api.github.com/users/liznet/followers",
+  "following_url": "https://api.github.com/users/liznet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/liznet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/liznet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/liznet/subscriptions",
+  "organizations_url": "https://api.github.com/users/liznet/orgs",
+  "repos_url": "https://api.github.com/users/liznet/repos",
+  "events_url": "https://api.github.com/users/liznet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/liznet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

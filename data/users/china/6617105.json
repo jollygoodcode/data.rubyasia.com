@@ -1,0 +1,20 @@
+{
+  "login": "fhyme",
+  "id": 6617105,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6617105?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fhyme",
+  "html_url": "https://github.com/fhyme",
+  "followers_url": "https://api.github.com/users/fhyme/followers",
+  "following_url": "https://api.github.com/users/fhyme/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fhyme/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fhyme/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fhyme/subscriptions",
+  "organizations_url": "https://api.github.com/users/fhyme/orgs",
+  "repos_url": "https://api.github.com/users/fhyme/repos",
+  "events_url": "https://api.github.com/users/fhyme/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fhyme/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

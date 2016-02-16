@@ -1,0 +1,20 @@
+{
+  "login": "bestjc",
+  "id": 8321942,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8321942?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bestjc",
+  "html_url": "https://github.com/bestjc",
+  "followers_url": "https://api.github.com/users/bestjc/followers",
+  "following_url": "https://api.github.com/users/bestjc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bestjc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bestjc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bestjc/subscriptions",
+  "organizations_url": "https://api.github.com/users/bestjc/orgs",
+  "repos_url": "https://api.github.com/users/bestjc/repos",
+  "events_url": "https://api.github.com/users/bestjc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bestjc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

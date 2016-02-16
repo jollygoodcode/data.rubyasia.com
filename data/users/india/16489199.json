@@ -1,0 +1,20 @@
+{
+  "login": "encircleio",
+  "id": 16489199,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16489199?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/encircleio",
+  "html_url": "https://github.com/encircleio",
+  "followers_url": "https://api.github.com/users/encircleio/followers",
+  "following_url": "https://api.github.com/users/encircleio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/encircleio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/encircleio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/encircleio/subscriptions",
+  "organizations_url": "https://api.github.com/users/encircleio/orgs",
+  "repos_url": "https://api.github.com/users/encircleio/repos",
+  "events_url": "https://api.github.com/users/encircleio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/encircleio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

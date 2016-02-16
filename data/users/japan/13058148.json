@@ -1,0 +1,20 @@
+{
+  "login": "inagamaro",
+  "id": 13058148,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13058148?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inagamaro",
+  "html_url": "https://github.com/inagamaro",
+  "followers_url": "https://api.github.com/users/inagamaro/followers",
+  "following_url": "https://api.github.com/users/inagamaro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inagamaro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inagamaro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inagamaro/subscriptions",
+  "organizations_url": "https://api.github.com/users/inagamaro/orgs",
+  "repos_url": "https://api.github.com/users/inagamaro/repos",
+  "events_url": "https://api.github.com/users/inagamaro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inagamaro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

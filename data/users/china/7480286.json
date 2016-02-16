@@ -1,0 +1,20 @@
+{
+  "login": "tsumugi",
+  "id": 7480286,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7480286?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsumugi",
+  "html_url": "https://github.com/tsumugi",
+  "followers_url": "https://api.github.com/users/tsumugi/followers",
+  "following_url": "https://api.github.com/users/tsumugi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsumugi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsumugi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsumugi/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsumugi/orgs",
+  "repos_url": "https://api.github.com/users/tsumugi/repos",
+  "events_url": "https://api.github.com/users/tsumugi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsumugi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

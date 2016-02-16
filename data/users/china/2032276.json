@@ -1,0 +1,20 @@
+{
+  "login": "fly2wind",
+  "id": 2032276,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2032276?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fly2wind",
+  "html_url": "https://github.com/fly2wind",
+  "followers_url": "https://api.github.com/users/fly2wind/followers",
+  "following_url": "https://api.github.com/users/fly2wind/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fly2wind/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fly2wind/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fly2wind/subscriptions",
+  "organizations_url": "https://api.github.com/users/fly2wind/orgs",
+  "repos_url": "https://api.github.com/users/fly2wind/repos",
+  "events_url": "https://api.github.com/users/fly2wind/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fly2wind/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

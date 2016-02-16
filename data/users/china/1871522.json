@@ -1,0 +1,20 @@
+{
+  "login": "shawndu",
+  "id": 1871522,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1871522?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shawndu",
+  "html_url": "https://github.com/shawndu",
+  "followers_url": "https://api.github.com/users/shawndu/followers",
+  "following_url": "https://api.github.com/users/shawndu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shawndu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shawndu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shawndu/subscriptions",
+  "organizations_url": "https://api.github.com/users/shawndu/orgs",
+  "repos_url": "https://api.github.com/users/shawndu/repos",
+  "events_url": "https://api.github.com/users/shawndu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shawndu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

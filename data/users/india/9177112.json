@@ -1,0 +1,20 @@
+{
+  "login": "infrastructurerepublic",
+  "id": 9177112,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9177112?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/infrastructurerepublic",
+  "html_url": "https://github.com/infrastructurerepublic",
+  "followers_url": "https://api.github.com/users/infrastructurerepublic/followers",
+  "following_url": "https://api.github.com/users/infrastructurerepublic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/infrastructurerepublic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/infrastructurerepublic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/infrastructurerepublic/subscriptions",
+  "organizations_url": "https://api.github.com/users/infrastructurerepublic/orgs",
+  "repos_url": "https://api.github.com/users/infrastructurerepublic/repos",
+  "events_url": "https://api.github.com/users/infrastructurerepublic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/infrastructurerepublic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

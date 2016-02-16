@@ -1,0 +1,20 @@
+{
+  "login": "ScrowBolt",
+  "id": 4470586,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4470586?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ScrowBolt",
+  "html_url": "https://github.com/ScrowBolt",
+  "followers_url": "https://api.github.com/users/ScrowBolt/followers",
+  "following_url": "https://api.github.com/users/ScrowBolt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ScrowBolt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ScrowBolt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ScrowBolt/subscriptions",
+  "organizations_url": "https://api.github.com/users/ScrowBolt/orgs",
+  "repos_url": "https://api.github.com/users/ScrowBolt/repos",
+  "events_url": "https://api.github.com/users/ScrowBolt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ScrowBolt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

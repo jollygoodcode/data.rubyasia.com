@@ -1,0 +1,20 @@
+{
+  "login": "nghong",
+  "id": 479980,
+  "avatar_url": "https://avatars.githubusercontent.com/u/479980?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nghong",
+  "html_url": "https://github.com/nghong",
+  "followers_url": "https://api.github.com/users/nghong/followers",
+  "following_url": "https://api.github.com/users/nghong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nghong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nghong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nghong/subscriptions",
+  "organizations_url": "https://api.github.com/users/nghong/orgs",
+  "repos_url": "https://api.github.com/users/nghong/repos",
+  "events_url": "https://api.github.com/users/nghong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nghong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

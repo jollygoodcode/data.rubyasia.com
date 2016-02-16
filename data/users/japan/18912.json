@@ -1,0 +1,20 @@
+{
+  "login": "akm",
+  "id": 18912,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18912?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akm",
+  "html_url": "https://github.com/akm",
+  "followers_url": "https://api.github.com/users/akm/followers",
+  "following_url": "https://api.github.com/users/akm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akm/subscriptions",
+  "organizations_url": "https://api.github.com/users/akm/orgs",
+  "repos_url": "https://api.github.com/users/akm/repos",
+  "events_url": "https://api.github.com/users/akm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

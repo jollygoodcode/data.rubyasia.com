@@ -1,0 +1,20 @@
+{
+  "login": "martindelima",
+  "id": 1381232,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1381232?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/martindelima",
+  "html_url": "https://github.com/martindelima",
+  "followers_url": "https://api.github.com/users/martindelima/followers",
+  "following_url": "https://api.github.com/users/martindelima/following{/other_user}",
+  "gists_url": "https://api.github.com/users/martindelima/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/martindelima/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/martindelima/subscriptions",
+  "organizations_url": "https://api.github.com/users/martindelima/orgs",
+  "repos_url": "https://api.github.com/users/martindelima/repos",
+  "events_url": "https://api.github.com/users/martindelima/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/martindelima/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

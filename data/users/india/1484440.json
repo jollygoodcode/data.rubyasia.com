@@ -1,0 +1,20 @@
+{
+  "login": "oddjobsman",
+  "id": 1484440,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1484440?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oddjobsman",
+  "html_url": "https://github.com/oddjobsman",
+  "followers_url": "https://api.github.com/users/oddjobsman/followers",
+  "following_url": "https://api.github.com/users/oddjobsman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oddjobsman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oddjobsman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oddjobsman/subscriptions",
+  "organizations_url": "https://api.github.com/users/oddjobsman/orgs",
+  "repos_url": "https://api.github.com/users/oddjobsman/repos",
+  "events_url": "https://api.github.com/users/oddjobsman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oddjobsman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

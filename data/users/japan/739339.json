@@ -1,0 +1,20 @@
+{
+  "login": "hidakatsuya",
+  "id": 739339,
+  "avatar_url": "https://avatars.githubusercontent.com/u/739339?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hidakatsuya",
+  "html_url": "https://github.com/hidakatsuya",
+  "followers_url": "https://api.github.com/users/hidakatsuya/followers",
+  "following_url": "https://api.github.com/users/hidakatsuya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hidakatsuya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hidakatsuya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hidakatsuya/subscriptions",
+  "organizations_url": "https://api.github.com/users/hidakatsuya/orgs",
+  "repos_url": "https://api.github.com/users/hidakatsuya/repos",
+  "events_url": "https://api.github.com/users/hidakatsuya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hidakatsuya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "nghiamt",
+  "id": 2397064,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2397064?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nghiamt",
+  "html_url": "https://github.com/nghiamt",
+  "followers_url": "https://api.github.com/users/nghiamt/followers",
+  "following_url": "https://api.github.com/users/nghiamt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nghiamt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nghiamt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nghiamt/subscriptions",
+  "organizations_url": "https://api.github.com/users/nghiamt/orgs",
+  "repos_url": "https://api.github.com/users/nghiamt/repos",
+  "events_url": "https://api.github.com/users/nghiamt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nghiamt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

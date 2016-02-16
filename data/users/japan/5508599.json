@@ -1,0 +1,20 @@
+{
+  "login": "tsubird",
+  "id": 5508599,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5508599?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsubird",
+  "html_url": "https://github.com/tsubird",
+  "followers_url": "https://api.github.com/users/tsubird/followers",
+  "following_url": "https://api.github.com/users/tsubird/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsubird/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsubird/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsubird/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsubird/orgs",
+  "repos_url": "https://api.github.com/users/tsubird/repos",
+  "events_url": "https://api.github.com/users/tsubird/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsubird/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

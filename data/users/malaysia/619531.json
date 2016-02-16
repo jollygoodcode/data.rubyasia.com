@@ -1,0 +1,20 @@
+{
+  "login": "AlphaMelon",
+  "id": 619531,
+  "avatar_url": "https://avatars.githubusercontent.com/u/619531?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AlphaMelon",
+  "html_url": "https://github.com/AlphaMelon",
+  "followers_url": "https://api.github.com/users/AlphaMelon/followers",
+  "following_url": "https://api.github.com/users/AlphaMelon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AlphaMelon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AlphaMelon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AlphaMelon/subscriptions",
+  "organizations_url": "https://api.github.com/users/AlphaMelon/orgs",
+  "repos_url": "https://api.github.com/users/AlphaMelon/repos",
+  "events_url": "https://api.github.com/users/AlphaMelon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AlphaMelon/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

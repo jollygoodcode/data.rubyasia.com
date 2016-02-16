@@ -1,0 +1,20 @@
+{
+  "login": "FIRHQ",
+  "id": 7297628,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7297628?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FIRHQ",
+  "html_url": "https://github.com/FIRHQ",
+  "followers_url": "https://api.github.com/users/FIRHQ/followers",
+  "following_url": "https://api.github.com/users/FIRHQ/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FIRHQ/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FIRHQ/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FIRHQ/subscriptions",
+  "organizations_url": "https://api.github.com/users/FIRHQ/orgs",
+  "repos_url": "https://api.github.com/users/FIRHQ/repos",
+  "events_url": "https://api.github.com/users/FIRHQ/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FIRHQ/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

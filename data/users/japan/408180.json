@@ -1,0 +1,20 @@
+{
+  "login": "goking",
+  "id": 408180,
+  "avatar_url": "https://avatars.githubusercontent.com/u/408180?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/goking",
+  "html_url": "https://github.com/goking",
+  "followers_url": "https://api.github.com/users/goking/followers",
+  "following_url": "https://api.github.com/users/goking/following{/other_user}",
+  "gists_url": "https://api.github.com/users/goking/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/goking/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/goking/subscriptions",
+  "organizations_url": "https://api.github.com/users/goking/orgs",
+  "repos_url": "https://api.github.com/users/goking/repos",
+  "events_url": "https://api.github.com/users/goking/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/goking/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

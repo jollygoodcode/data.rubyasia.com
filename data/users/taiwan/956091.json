@@ -1,0 +1,20 @@
+{
+  "login": "arrmac",
+  "id": 956091,
+  "avatar_url": "https://avatars.githubusercontent.com/u/956091?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arrmac",
+  "html_url": "https://github.com/arrmac",
+  "followers_url": "https://api.github.com/users/arrmac/followers",
+  "following_url": "https://api.github.com/users/arrmac/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arrmac/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arrmac/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arrmac/subscriptions",
+  "organizations_url": "https://api.github.com/users/arrmac/orgs",
+  "repos_url": "https://api.github.com/users/arrmac/repos",
+  "events_url": "https://api.github.com/users/arrmac/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arrmac/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

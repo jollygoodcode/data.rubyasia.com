@@ -1,0 +1,20 @@
+{
+  "login": "sawaken",
+  "id": 6066813,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6066813?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sawaken",
+  "html_url": "https://github.com/sawaken",
+  "followers_url": "https://api.github.com/users/sawaken/followers",
+  "following_url": "https://api.github.com/users/sawaken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sawaken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sawaken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sawaken/subscriptions",
+  "organizations_url": "https://api.github.com/users/sawaken/orgs",
+  "repos_url": "https://api.github.com/users/sawaken/repos",
+  "events_url": "https://api.github.com/users/sawaken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sawaken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

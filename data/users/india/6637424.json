@@ -1,0 +1,20 @@
+{
+  "login": "svavhal",
+  "id": 6637424,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6637424?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/svavhal",
+  "html_url": "https://github.com/svavhal",
+  "followers_url": "https://api.github.com/users/svavhal/followers",
+  "following_url": "https://api.github.com/users/svavhal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/svavhal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/svavhal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/svavhal/subscriptions",
+  "organizations_url": "https://api.github.com/users/svavhal/orgs",
+  "repos_url": "https://api.github.com/users/svavhal/repos",
+  "events_url": "https://api.github.com/users/svavhal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/svavhal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

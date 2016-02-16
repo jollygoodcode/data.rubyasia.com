@@ -1,0 +1,20 @@
+{
+  "login": "hhtank",
+  "id": 15938125,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15938125?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hhtank",
+  "html_url": "https://github.com/hhtank",
+  "followers_url": "https://api.github.com/users/hhtank/followers",
+  "following_url": "https://api.github.com/users/hhtank/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hhtank/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hhtank/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hhtank/subscriptions",
+  "organizations_url": "https://api.github.com/users/hhtank/orgs",
+  "repos_url": "https://api.github.com/users/hhtank/repos",
+  "events_url": "https://api.github.com/users/hhtank/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hhtank/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

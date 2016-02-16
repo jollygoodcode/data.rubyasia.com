@@ -1,0 +1,20 @@
+{
+  "login": "deanbear",
+  "id": 1433080,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1433080?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deanbear",
+  "html_url": "https://github.com/deanbear",
+  "followers_url": "https://api.github.com/users/deanbear/followers",
+  "following_url": "https://api.github.com/users/deanbear/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deanbear/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deanbear/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deanbear/subscriptions",
+  "organizations_url": "https://api.github.com/users/deanbear/orgs",
+  "repos_url": "https://api.github.com/users/deanbear/repos",
+  "events_url": "https://api.github.com/users/deanbear/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deanbear/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

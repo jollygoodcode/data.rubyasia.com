@@ -1,0 +1,20 @@
+{
+  "login": "shyaken",
+  "id": 158163,
+  "avatar_url": "https://avatars.githubusercontent.com/u/158163?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shyaken",
+  "html_url": "https://github.com/shyaken",
+  "followers_url": "https://api.github.com/users/shyaken/followers",
+  "following_url": "https://api.github.com/users/shyaken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shyaken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shyaken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shyaken/subscriptions",
+  "organizations_url": "https://api.github.com/users/shyaken/orgs",
+  "repos_url": "https://api.github.com/users/shyaken/repos",
+  "events_url": "https://api.github.com/users/shyaken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shyaken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

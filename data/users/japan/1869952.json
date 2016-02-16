@@ -1,0 +1,20 @@
+{
+  "login": "pataiji",
+  "id": 1869952,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1869952?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pataiji",
+  "html_url": "https://github.com/pataiji",
+  "followers_url": "https://api.github.com/users/pataiji/followers",
+  "following_url": "https://api.github.com/users/pataiji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pataiji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pataiji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pataiji/subscriptions",
+  "organizations_url": "https://api.github.com/users/pataiji/orgs",
+  "repos_url": "https://api.github.com/users/pataiji/repos",
+  "events_url": "https://api.github.com/users/pataiji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pataiji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

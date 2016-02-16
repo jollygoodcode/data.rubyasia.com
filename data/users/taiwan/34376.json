@@ -1,0 +1,20 @@
+{
+  "login": "cactis",
+  "id": 34376,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34376?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cactis",
+  "html_url": "https://github.com/cactis",
+  "followers_url": "https://api.github.com/users/cactis/followers",
+  "following_url": "https://api.github.com/users/cactis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cactis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cactis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cactis/subscriptions",
+  "organizations_url": "https://api.github.com/users/cactis/orgs",
+  "repos_url": "https://api.github.com/users/cactis/repos",
+  "events_url": "https://api.github.com/users/cactis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cactis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

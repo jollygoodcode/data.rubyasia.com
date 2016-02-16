@@ -1,0 +1,20 @@
+{
+  "login": "MichaelYim",
+  "id": 3065452,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3065452?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MichaelYim",
+  "html_url": "https://github.com/MichaelYim",
+  "followers_url": "https://api.github.com/users/MichaelYim/followers",
+  "following_url": "https://api.github.com/users/MichaelYim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MichaelYim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MichaelYim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MichaelYim/subscriptions",
+  "organizations_url": "https://api.github.com/users/MichaelYim/orgs",
+  "repos_url": "https://api.github.com/users/MichaelYim/repos",
+  "events_url": "https://api.github.com/users/MichaelYim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MichaelYim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

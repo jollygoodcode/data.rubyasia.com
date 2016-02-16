@@ -1,0 +1,20 @@
+{
+  "login": "coiled-coil",
+  "id": 509979,
+  "avatar_url": "https://avatars.githubusercontent.com/u/509979?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coiled-coil",
+  "html_url": "https://github.com/coiled-coil",
+  "followers_url": "https://api.github.com/users/coiled-coil/followers",
+  "following_url": "https://api.github.com/users/coiled-coil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coiled-coil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coiled-coil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coiled-coil/subscriptions",
+  "organizations_url": "https://api.github.com/users/coiled-coil/orgs",
+  "repos_url": "https://api.github.com/users/coiled-coil/repos",
+  "events_url": "https://api.github.com/users/coiled-coil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coiled-coil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

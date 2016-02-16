@@ -1,0 +1,20 @@
+{
+  "login": "shibason",
+  "id": 101586,
+  "avatar_url": "https://avatars.githubusercontent.com/u/101586?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shibason",
+  "html_url": "https://github.com/shibason",
+  "followers_url": "https://api.github.com/users/shibason/followers",
+  "following_url": "https://api.github.com/users/shibason/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shibason/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shibason/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shibason/subscriptions",
+  "organizations_url": "https://api.github.com/users/shibason/orgs",
+  "repos_url": "https://api.github.com/users/shibason/repos",
+  "events_url": "https://api.github.com/users/shibason/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shibason/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

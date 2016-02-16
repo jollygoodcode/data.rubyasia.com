@@ -1,0 +1,20 @@
+{
+  "login": "vampxlr",
+  "id": 3054174,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3054174?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vampxlr",
+  "html_url": "https://github.com/vampxlr",
+  "followers_url": "https://api.github.com/users/vampxlr/followers",
+  "following_url": "https://api.github.com/users/vampxlr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vampxlr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vampxlr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vampxlr/subscriptions",
+  "organizations_url": "https://api.github.com/users/vampxlr/orgs",
+  "repos_url": "https://api.github.com/users/vampxlr/repos",
+  "events_url": "https://api.github.com/users/vampxlr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vampxlr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "motethansen",
+  "id": 2936790,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2936790?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/motethansen",
+  "html_url": "https://github.com/motethansen",
+  "followers_url": "https://api.github.com/users/motethansen/followers",
+  "following_url": "https://api.github.com/users/motethansen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/motethansen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/motethansen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/motethansen/subscriptions",
+  "organizations_url": "https://api.github.com/users/motethansen/orgs",
+  "repos_url": "https://api.github.com/users/motethansen/repos",
+  "events_url": "https://api.github.com/users/motethansen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/motethansen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

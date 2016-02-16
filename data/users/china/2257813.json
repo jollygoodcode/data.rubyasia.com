@@ -1,0 +1,20 @@
+{
+  "login": "zpc987",
+  "id": 2257813,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2257813?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zpc987",
+  "html_url": "https://github.com/zpc987",
+  "followers_url": "https://api.github.com/users/zpc987/followers",
+  "following_url": "https://api.github.com/users/zpc987/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zpc987/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zpc987/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zpc987/subscriptions",
+  "organizations_url": "https://api.github.com/users/zpc987/orgs",
+  "repos_url": "https://api.github.com/users/zpc987/repos",
+  "events_url": "https://api.github.com/users/zpc987/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zpc987/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

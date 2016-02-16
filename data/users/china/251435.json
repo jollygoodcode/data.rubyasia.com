@@ -1,0 +1,20 @@
+{
+  "login": "lembacon",
+  "id": 251435,
+  "avatar_url": "https://avatars.githubusercontent.com/u/251435?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lembacon",
+  "html_url": "https://github.com/lembacon",
+  "followers_url": "https://api.github.com/users/lembacon/followers",
+  "following_url": "https://api.github.com/users/lembacon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lembacon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lembacon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lembacon/subscriptions",
+  "organizations_url": "https://api.github.com/users/lembacon/orgs",
+  "repos_url": "https://api.github.com/users/lembacon/repos",
+  "events_url": "https://api.github.com/users/lembacon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lembacon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

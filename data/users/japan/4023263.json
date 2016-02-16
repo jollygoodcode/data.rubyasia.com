@@ -1,0 +1,20 @@
+{
+  "login": "michael-hiroshi",
+  "id": 4023263,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4023263?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/michael-hiroshi",
+  "html_url": "https://github.com/michael-hiroshi",
+  "followers_url": "https://api.github.com/users/michael-hiroshi/followers",
+  "following_url": "https://api.github.com/users/michael-hiroshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/michael-hiroshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/michael-hiroshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/michael-hiroshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/michael-hiroshi/orgs",
+  "repos_url": "https://api.github.com/users/michael-hiroshi/repos",
+  "events_url": "https://api.github.com/users/michael-hiroshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/michael-hiroshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

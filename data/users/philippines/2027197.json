@@ -1,0 +1,20 @@
+{
+  "login": "joemalski",
+  "id": 2027197,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2027197?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joemalski",
+  "html_url": "https://github.com/joemalski",
+  "followers_url": "https://api.github.com/users/joemalski/followers",
+  "following_url": "https://api.github.com/users/joemalski/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joemalski/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joemalski/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joemalski/subscriptions",
+  "organizations_url": "https://api.github.com/users/joemalski/orgs",
+  "repos_url": "https://api.github.com/users/joemalski/repos",
+  "events_url": "https://api.github.com/users/joemalski/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joemalski/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

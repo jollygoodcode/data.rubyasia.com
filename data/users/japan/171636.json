@@ -1,0 +1,20 @@
+{
+  "login": "skwsm",
+  "id": 171636,
+  "avatar_url": "https://avatars.githubusercontent.com/u/171636?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skwsm",
+  "html_url": "https://github.com/skwsm",
+  "followers_url": "https://api.github.com/users/skwsm/followers",
+  "following_url": "https://api.github.com/users/skwsm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skwsm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skwsm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skwsm/subscriptions",
+  "organizations_url": "https://api.github.com/users/skwsm/orgs",
+  "repos_url": "https://api.github.com/users/skwsm/repos",
+  "events_url": "https://api.github.com/users/skwsm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skwsm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

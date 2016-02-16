@@ -1,0 +1,20 @@
+{
+  "login": "sishen",
+  "id": 11197,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11197?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sishen",
+  "html_url": "https://github.com/sishen",
+  "followers_url": "https://api.github.com/users/sishen/followers",
+  "following_url": "https://api.github.com/users/sishen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sishen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sishen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sishen/subscriptions",
+  "organizations_url": "https://api.github.com/users/sishen/orgs",
+  "repos_url": "https://api.github.com/users/sishen/repos",
+  "events_url": "https://api.github.com/users/sishen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sishen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

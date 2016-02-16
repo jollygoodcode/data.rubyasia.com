@@ -1,0 +1,20 @@
+{
+  "login": "kagemiku",
+  "id": 3097559,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3097559?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kagemiku",
+  "html_url": "https://github.com/kagemiku",
+  "followers_url": "https://api.github.com/users/kagemiku/followers",
+  "following_url": "https://api.github.com/users/kagemiku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kagemiku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kagemiku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kagemiku/subscriptions",
+  "organizations_url": "https://api.github.com/users/kagemiku/orgs",
+  "repos_url": "https://api.github.com/users/kagemiku/repos",
+  "events_url": "https://api.github.com/users/kagemiku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kagemiku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

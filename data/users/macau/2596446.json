@@ -1,0 +1,20 @@
+{
+  "login": "Xelio",
+  "id": 2596446,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2596446?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Xelio",
+  "html_url": "https://github.com/Xelio",
+  "followers_url": "https://api.github.com/users/Xelio/followers",
+  "following_url": "https://api.github.com/users/Xelio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Xelio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Xelio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Xelio/subscriptions",
+  "organizations_url": "https://api.github.com/users/Xelio/orgs",
+  "repos_url": "https://api.github.com/users/Xelio/repos",
+  "events_url": "https://api.github.com/users/Xelio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Xelio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

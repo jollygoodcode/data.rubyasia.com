@@ -1,0 +1,20 @@
+{
+  "login": "nickhsu",
+  "id": 137801,
+  "avatar_url": "https://avatars.githubusercontent.com/u/137801?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nickhsu",
+  "html_url": "https://github.com/nickhsu",
+  "followers_url": "https://api.github.com/users/nickhsu/followers",
+  "following_url": "https://api.github.com/users/nickhsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nickhsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nickhsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nickhsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/nickhsu/orgs",
+  "repos_url": "https://api.github.com/users/nickhsu/repos",
+  "events_url": "https://api.github.com/users/nickhsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nickhsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

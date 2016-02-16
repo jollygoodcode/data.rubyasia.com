@@ -1,0 +1,20 @@
+{
+  "login": "mehadesai",
+  "id": 7439293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7439293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mehadesai",
+  "html_url": "https://github.com/mehadesai",
+  "followers_url": "https://api.github.com/users/mehadesai/followers",
+  "following_url": "https://api.github.com/users/mehadesai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mehadesai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mehadesai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mehadesai/subscriptions",
+  "organizations_url": "https://api.github.com/users/mehadesai/orgs",
+  "repos_url": "https://api.github.com/users/mehadesai/repos",
+  "events_url": "https://api.github.com/users/mehadesai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mehadesai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "udzura",
+  "id": 91011,
+  "avatar_url": "https://avatars.githubusercontent.com/u/91011?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/udzura",
+  "html_url": "https://github.com/udzura",
+  "followers_url": "https://api.github.com/users/udzura/followers",
+  "following_url": "https://api.github.com/users/udzura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/udzura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/udzura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/udzura/subscriptions",
+  "organizations_url": "https://api.github.com/users/udzura/orgs",
+  "repos_url": "https://api.github.com/users/udzura/repos",
+  "events_url": "https://api.github.com/users/udzura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/udzura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

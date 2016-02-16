@@ -1,0 +1,20 @@
+{
+  "login": "alChaCC",
+  "id": 966059,
+  "avatar_url": "https://avatars.githubusercontent.com/u/966059?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alChaCC",
+  "html_url": "https://github.com/alChaCC",
+  "followers_url": "https://api.github.com/users/alChaCC/followers",
+  "following_url": "https://api.github.com/users/alChaCC/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alChaCC/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alChaCC/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alChaCC/subscriptions",
+  "organizations_url": "https://api.github.com/users/alChaCC/orgs",
+  "repos_url": "https://api.github.com/users/alChaCC/repos",
+  "events_url": "https://api.github.com/users/alChaCC/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alChaCC/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

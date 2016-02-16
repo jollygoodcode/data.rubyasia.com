@@ -1,0 +1,20 @@
+{
+  "login": "zhouguangming",
+  "id": 1201049,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1201049?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhouguangming",
+  "html_url": "https://github.com/zhouguangming",
+  "followers_url": "https://api.github.com/users/zhouguangming/followers",
+  "following_url": "https://api.github.com/users/zhouguangming/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhouguangming/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhouguangming/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhouguangming/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhouguangming/orgs",
+  "repos_url": "https://api.github.com/users/zhouguangming/repos",
+  "events_url": "https://api.github.com/users/zhouguangming/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhouguangming/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

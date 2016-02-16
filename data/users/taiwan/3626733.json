@@ -1,0 +1,20 @@
+{
+  "login": "tompipen",
+  "id": 3626733,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3626733?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tompipen",
+  "html_url": "https://github.com/tompipen",
+  "followers_url": "https://api.github.com/users/tompipen/followers",
+  "following_url": "https://api.github.com/users/tompipen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tompipen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tompipen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tompipen/subscriptions",
+  "organizations_url": "https://api.github.com/users/tompipen/orgs",
+  "repos_url": "https://api.github.com/users/tompipen/repos",
+  "events_url": "https://api.github.com/users/tompipen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tompipen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

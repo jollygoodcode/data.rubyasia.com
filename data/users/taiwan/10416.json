@@ -1,0 +1,20 @@
+{
+  "login": "godfat",
+  "id": 10416,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10416?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/godfat",
+  "html_url": "https://github.com/godfat",
+  "followers_url": "https://api.github.com/users/godfat/followers",
+  "following_url": "https://api.github.com/users/godfat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/godfat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/godfat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/godfat/subscriptions",
+  "organizations_url": "https://api.github.com/users/godfat/orgs",
+  "repos_url": "https://api.github.com/users/godfat/repos",
+  "events_url": "https://api.github.com/users/godfat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/godfat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

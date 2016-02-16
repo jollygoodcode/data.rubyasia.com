@@ -1,0 +1,20 @@
+{
+  "login": "jamesknelson",
+  "id": 161707,
+  "avatar_url": "https://avatars.githubusercontent.com/u/161707?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamesknelson",
+  "html_url": "https://github.com/jamesknelson",
+  "followers_url": "https://api.github.com/users/jamesknelson/followers",
+  "following_url": "https://api.github.com/users/jamesknelson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamesknelson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamesknelson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamesknelson/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamesknelson/orgs",
+  "repos_url": "https://api.github.com/users/jamesknelson/repos",
+  "events_url": "https://api.github.com/users/jamesknelson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamesknelson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

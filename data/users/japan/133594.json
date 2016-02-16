@@ -1,0 +1,20 @@
+{
+  "login": "bugcloud",
+  "id": 133594,
+  "avatar_url": "https://avatars.githubusercontent.com/u/133594?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bugcloud",
+  "html_url": "https://github.com/bugcloud",
+  "followers_url": "https://api.github.com/users/bugcloud/followers",
+  "following_url": "https://api.github.com/users/bugcloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bugcloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bugcloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bugcloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/bugcloud/orgs",
+  "repos_url": "https://api.github.com/users/bugcloud/repos",
+  "events_url": "https://api.github.com/users/bugcloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bugcloud/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

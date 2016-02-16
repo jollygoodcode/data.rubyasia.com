@@ -1,0 +1,20 @@
+{
+  "login": "ToMeWelcome",
+  "id": 12780727,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12780727?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ToMeWelcome",
+  "html_url": "https://github.com/ToMeWelcome",
+  "followers_url": "https://api.github.com/users/ToMeWelcome/followers",
+  "following_url": "https://api.github.com/users/ToMeWelcome/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ToMeWelcome/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ToMeWelcome/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ToMeWelcome/subscriptions",
+  "organizations_url": "https://api.github.com/users/ToMeWelcome/orgs",
+  "repos_url": "https://api.github.com/users/ToMeWelcome/repos",
+  "events_url": "https://api.github.com/users/ToMeWelcome/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ToMeWelcome/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ElliotCui",
+  "id": 1572416,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1572416?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ElliotCui",
+  "html_url": "https://github.com/ElliotCui",
+  "followers_url": "https://api.github.com/users/ElliotCui/followers",
+  "following_url": "https://api.github.com/users/ElliotCui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ElliotCui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ElliotCui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ElliotCui/subscriptions",
+  "organizations_url": "https://api.github.com/users/ElliotCui/orgs",
+  "repos_url": "https://api.github.com/users/ElliotCui/repos",
+  "events_url": "https://api.github.com/users/ElliotCui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ElliotCui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

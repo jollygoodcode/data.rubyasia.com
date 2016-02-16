@@ -1,0 +1,20 @@
+{
+  "login": "dennem",
+  "id": 1093406,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1093406?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dennem",
+  "html_url": "https://github.com/dennem",
+  "followers_url": "https://api.github.com/users/dennem/followers",
+  "following_url": "https://api.github.com/users/dennem/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dennem/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dennem/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dennem/subscriptions",
+  "organizations_url": "https://api.github.com/users/dennem/orgs",
+  "repos_url": "https://api.github.com/users/dennem/repos",
+  "events_url": "https://api.github.com/users/dennem/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dennem/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

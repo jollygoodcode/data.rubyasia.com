@@ -1,0 +1,20 @@
+{
+  "login": "mcpulanco",
+  "id": 7072269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7072269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mcpulanco",
+  "html_url": "https://github.com/mcpulanco",
+  "followers_url": "https://api.github.com/users/mcpulanco/followers",
+  "following_url": "https://api.github.com/users/mcpulanco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mcpulanco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mcpulanco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mcpulanco/subscriptions",
+  "organizations_url": "https://api.github.com/users/mcpulanco/orgs",
+  "repos_url": "https://api.github.com/users/mcpulanco/repos",
+  "events_url": "https://api.github.com/users/mcpulanco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mcpulanco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "repeatedly",
+  "id": 16928,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16928?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/repeatedly",
+  "html_url": "https://github.com/repeatedly",
+  "followers_url": "https://api.github.com/users/repeatedly/followers",
+  "following_url": "https://api.github.com/users/repeatedly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/repeatedly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/repeatedly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/repeatedly/subscriptions",
+  "organizations_url": "https://api.github.com/users/repeatedly/orgs",
+  "repos_url": "https://api.github.com/users/repeatedly/repos",
+  "events_url": "https://api.github.com/users/repeatedly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/repeatedly/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sh0hei",
+  "id": 884074,
+  "avatar_url": "https://avatars.githubusercontent.com/u/884074?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sh0hei",
+  "html_url": "https://github.com/sh0hei",
+  "followers_url": "https://api.github.com/users/sh0hei/followers",
+  "following_url": "https://api.github.com/users/sh0hei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sh0hei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sh0hei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sh0hei/subscriptions",
+  "organizations_url": "https://api.github.com/users/sh0hei/orgs",
+  "repos_url": "https://api.github.com/users/sh0hei/repos",
+  "events_url": "https://api.github.com/users/sh0hei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sh0hei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

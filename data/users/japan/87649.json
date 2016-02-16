@@ -1,0 +1,20 @@
+{
+  "login": "aereal",
+  "id": 87649,
+  "avatar_url": "https://avatars.githubusercontent.com/u/87649?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aereal",
+  "html_url": "https://github.com/aereal",
+  "followers_url": "https://api.github.com/users/aereal/followers",
+  "following_url": "https://api.github.com/users/aereal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aereal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aereal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aereal/subscriptions",
+  "organizations_url": "https://api.github.com/users/aereal/orgs",
+  "repos_url": "https://api.github.com/users/aereal/repos",
+  "events_url": "https://api.github.com/users/aereal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aereal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

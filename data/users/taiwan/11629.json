@@ -1,0 +1,20 @@
+{
+  "login": "weijen",
+  "id": 11629,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11629?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/weijen",
+  "html_url": "https://github.com/weijen",
+  "followers_url": "https://api.github.com/users/weijen/followers",
+  "following_url": "https://api.github.com/users/weijen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/weijen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/weijen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/weijen/subscriptions",
+  "organizations_url": "https://api.github.com/users/weijen/orgs",
+  "repos_url": "https://api.github.com/users/weijen/repos",
+  "events_url": "https://api.github.com/users/weijen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/weijen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

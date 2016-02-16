@@ -1,0 +1,20 @@
+{
+  "login": "railsinsomniac",
+  "id": 2138,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2138?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/railsinsomniac",
+  "html_url": "https://github.com/railsinsomniac",
+  "followers_url": "https://api.github.com/users/railsinsomniac/followers",
+  "following_url": "https://api.github.com/users/railsinsomniac/following{/other_user}",
+  "gists_url": "https://api.github.com/users/railsinsomniac/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/railsinsomniac/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/railsinsomniac/subscriptions",
+  "organizations_url": "https://api.github.com/users/railsinsomniac/orgs",
+  "repos_url": "https://api.github.com/users/railsinsomniac/repos",
+  "events_url": "https://api.github.com/users/railsinsomniac/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/railsinsomniac/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

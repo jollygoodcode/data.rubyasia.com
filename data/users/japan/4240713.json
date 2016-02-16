@@ -1,0 +1,20 @@
+{
+  "login": "moicci",
+  "id": 4240713,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4240713?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moicci",
+  "html_url": "https://github.com/moicci",
+  "followers_url": "https://api.github.com/users/moicci/followers",
+  "following_url": "https://api.github.com/users/moicci/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moicci/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moicci/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moicci/subscriptions",
+  "organizations_url": "https://api.github.com/users/moicci/orgs",
+  "repos_url": "https://api.github.com/users/moicci/repos",
+  "events_url": "https://api.github.com/users/moicci/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moicci/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

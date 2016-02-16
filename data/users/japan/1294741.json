@@ -1,0 +1,20 @@
+{
+  "login": "fetaro",
+  "id": 1294741,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1294741?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fetaro",
+  "html_url": "https://github.com/fetaro",
+  "followers_url": "https://api.github.com/users/fetaro/followers",
+  "following_url": "https://api.github.com/users/fetaro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fetaro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fetaro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fetaro/subscriptions",
+  "organizations_url": "https://api.github.com/users/fetaro/orgs",
+  "repos_url": "https://api.github.com/users/fetaro/repos",
+  "events_url": "https://api.github.com/users/fetaro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fetaro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

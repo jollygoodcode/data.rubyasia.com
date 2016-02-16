@@ -1,0 +1,20 @@
+{
+  "login": "wyjazz",
+  "id": 2421995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2421995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wyjazz",
+  "html_url": "https://github.com/wyjazz",
+  "followers_url": "https://api.github.com/users/wyjazz/followers",
+  "following_url": "https://api.github.com/users/wyjazz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wyjazz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wyjazz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wyjazz/subscriptions",
+  "organizations_url": "https://api.github.com/users/wyjazz/orgs",
+  "repos_url": "https://api.github.com/users/wyjazz/repos",
+  "events_url": "https://api.github.com/users/wyjazz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wyjazz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

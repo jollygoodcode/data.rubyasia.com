@@ -1,0 +1,20 @@
+{
+  "login": "digwhy",
+  "id": 2661772,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2661772?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/digwhy",
+  "html_url": "https://github.com/digwhy",
+  "followers_url": "https://api.github.com/users/digwhy/followers",
+  "following_url": "https://api.github.com/users/digwhy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/digwhy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/digwhy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/digwhy/subscriptions",
+  "organizations_url": "https://api.github.com/users/digwhy/orgs",
+  "repos_url": "https://api.github.com/users/digwhy/repos",
+  "events_url": "https://api.github.com/users/digwhy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/digwhy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

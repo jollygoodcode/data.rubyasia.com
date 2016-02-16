@@ -1,0 +1,20 @@
+{
+  "login": "tomotaka",
+  "id": 287538,
+  "avatar_url": "https://avatars.githubusercontent.com/u/287538?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tomotaka",
+  "html_url": "https://github.com/tomotaka",
+  "followers_url": "https://api.github.com/users/tomotaka/followers",
+  "following_url": "https://api.github.com/users/tomotaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tomotaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tomotaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tomotaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/tomotaka/orgs",
+  "repos_url": "https://api.github.com/users/tomotaka/repos",
+  "events_url": "https://api.github.com/users/tomotaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tomotaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

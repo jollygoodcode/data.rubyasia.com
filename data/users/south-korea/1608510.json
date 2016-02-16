@@ -1,0 +1,20 @@
+{
+  "login": "verecahill",
+  "id": 1608510,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1608510?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/verecahill",
+  "html_url": "https://github.com/verecahill",
+  "followers_url": "https://api.github.com/users/verecahill/followers",
+  "following_url": "https://api.github.com/users/verecahill/following{/other_user}",
+  "gists_url": "https://api.github.com/users/verecahill/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/verecahill/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/verecahill/subscriptions",
+  "organizations_url": "https://api.github.com/users/verecahill/orgs",
+  "repos_url": "https://api.github.com/users/verecahill/repos",
+  "events_url": "https://api.github.com/users/verecahill/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/verecahill/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

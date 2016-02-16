@@ -1,0 +1,20 @@
+{
+  "login": "codest",
+  "id": 687703,
+  "avatar_url": "https://avatars.githubusercontent.com/u/687703?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codest",
+  "html_url": "https://github.com/codest",
+  "followers_url": "https://api.github.com/users/codest/followers",
+  "following_url": "https://api.github.com/users/codest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codest/subscriptions",
+  "organizations_url": "https://api.github.com/users/codest/orgs",
+  "repos_url": "https://api.github.com/users/codest/repos",
+  "events_url": "https://api.github.com/users/codest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

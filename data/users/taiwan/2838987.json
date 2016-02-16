@@ -1,0 +1,20 @@
+{
+  "login": "programmermagazine",
+  "id": 2838987,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2838987?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/programmermagazine",
+  "html_url": "https://github.com/programmermagazine",
+  "followers_url": "https://api.github.com/users/programmermagazine/followers",
+  "following_url": "https://api.github.com/users/programmermagazine/following{/other_user}",
+  "gists_url": "https://api.github.com/users/programmermagazine/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/programmermagazine/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/programmermagazine/subscriptions",
+  "organizations_url": "https://api.github.com/users/programmermagazine/orgs",
+  "repos_url": "https://api.github.com/users/programmermagazine/repos",
+  "events_url": "https://api.github.com/users/programmermagazine/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/programmermagazine/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

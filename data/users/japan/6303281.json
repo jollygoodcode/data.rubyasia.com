@@ -1,0 +1,20 @@
+{
+  "login": "ryujno",
+  "id": 6303281,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6303281?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryujno",
+  "html_url": "https://github.com/ryujno",
+  "followers_url": "https://api.github.com/users/ryujno/followers",
+  "following_url": "https://api.github.com/users/ryujno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryujno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryujno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryujno/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryujno/orgs",
+  "repos_url": "https://api.github.com/users/ryujno/repos",
+  "events_url": "https://api.github.com/users/ryujno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryujno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

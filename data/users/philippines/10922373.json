@@ -1,0 +1,20 @@
+{
+  "login": "redtonic",
+  "id": 10922373,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10922373?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/redtonic",
+  "html_url": "https://github.com/redtonic",
+  "followers_url": "https://api.github.com/users/redtonic/followers",
+  "following_url": "https://api.github.com/users/redtonic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/redtonic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/redtonic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/redtonic/subscriptions",
+  "organizations_url": "https://api.github.com/users/redtonic/orgs",
+  "repos_url": "https://api.github.com/users/redtonic/repos",
+  "events_url": "https://api.github.com/users/redtonic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/redtonic/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

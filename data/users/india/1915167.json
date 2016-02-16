@@ -1,0 +1,20 @@
+{
+  "login": "codehaven",
+  "id": 1915167,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1915167?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codehaven",
+  "html_url": "https://github.com/codehaven",
+  "followers_url": "https://api.github.com/users/codehaven/followers",
+  "following_url": "https://api.github.com/users/codehaven/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codehaven/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codehaven/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codehaven/subscriptions",
+  "organizations_url": "https://api.github.com/users/codehaven/orgs",
+  "repos_url": "https://api.github.com/users/codehaven/repos",
+  "events_url": "https://api.github.com/users/codehaven/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codehaven/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

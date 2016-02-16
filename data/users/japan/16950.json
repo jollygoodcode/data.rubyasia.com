@@ -1,0 +1,20 @@
+{
+  "login": "hajimehoshi",
+  "id": 16950,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16950?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hajimehoshi",
+  "html_url": "https://github.com/hajimehoshi",
+  "followers_url": "https://api.github.com/users/hajimehoshi/followers",
+  "following_url": "https://api.github.com/users/hajimehoshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hajimehoshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hajimehoshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hajimehoshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/hajimehoshi/orgs",
+  "repos_url": "https://api.github.com/users/hajimehoshi/repos",
+  "events_url": "https://api.github.com/users/hajimehoshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hajimehoshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

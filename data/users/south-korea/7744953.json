@@ -1,0 +1,20 @@
+{
+  "login": "hkjinlee",
+  "id": 7744953,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7744953?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hkjinlee",
+  "html_url": "https://github.com/hkjinlee",
+  "followers_url": "https://api.github.com/users/hkjinlee/followers",
+  "following_url": "https://api.github.com/users/hkjinlee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hkjinlee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hkjinlee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hkjinlee/subscriptions",
+  "organizations_url": "https://api.github.com/users/hkjinlee/orgs",
+  "repos_url": "https://api.github.com/users/hkjinlee/repos",
+  "events_url": "https://api.github.com/users/hkjinlee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hkjinlee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "JoshHsieh",
+  "id": 2595194,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2595194?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JoshHsieh",
+  "html_url": "https://github.com/JoshHsieh",
+  "followers_url": "https://api.github.com/users/JoshHsieh/followers",
+  "following_url": "https://api.github.com/users/JoshHsieh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JoshHsieh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JoshHsieh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JoshHsieh/subscriptions",
+  "organizations_url": "https://api.github.com/users/JoshHsieh/orgs",
+  "repos_url": "https://api.github.com/users/JoshHsieh/repos",
+  "events_url": "https://api.github.com/users/JoshHsieh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JoshHsieh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

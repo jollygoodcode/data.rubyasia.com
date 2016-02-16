@@ -1,0 +1,20 @@
+{
+  "login": "salkicky",
+  "id": 1237441,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1237441?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/salkicky",
+  "html_url": "https://github.com/salkicky",
+  "followers_url": "https://api.github.com/users/salkicky/followers",
+  "following_url": "https://api.github.com/users/salkicky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/salkicky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/salkicky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/salkicky/subscriptions",
+  "organizations_url": "https://api.github.com/users/salkicky/orgs",
+  "repos_url": "https://api.github.com/users/salkicky/repos",
+  "events_url": "https://api.github.com/users/salkicky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/salkicky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shinelogo",
+  "id": 1762977,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1762977?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shinelogo",
+  "html_url": "https://github.com/shinelogo",
+  "followers_url": "https://api.github.com/users/shinelogo/followers",
+  "following_url": "https://api.github.com/users/shinelogo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shinelogo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shinelogo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shinelogo/subscriptions",
+  "organizations_url": "https://api.github.com/users/shinelogo/orgs",
+  "repos_url": "https://api.github.com/users/shinelogo/repos",
+  "events_url": "https://api.github.com/users/shinelogo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shinelogo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

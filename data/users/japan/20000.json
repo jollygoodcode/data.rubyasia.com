@@ -1,0 +1,20 @@
+{
+  "login": "iwadon",
+  "id": 20000,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20000?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iwadon",
+  "html_url": "https://github.com/iwadon",
+  "followers_url": "https://api.github.com/users/iwadon/followers",
+  "following_url": "https://api.github.com/users/iwadon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iwadon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iwadon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iwadon/subscriptions",
+  "organizations_url": "https://api.github.com/users/iwadon/orgs",
+  "repos_url": "https://api.github.com/users/iwadon/repos",
+  "events_url": "https://api.github.com/users/iwadon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iwadon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

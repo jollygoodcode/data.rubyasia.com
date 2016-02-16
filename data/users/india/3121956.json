@@ -1,0 +1,20 @@
+{
+  "login": "iarpit",
+  "id": 3121956,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3121956?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iarpit",
+  "html_url": "https://github.com/iarpit",
+  "followers_url": "https://api.github.com/users/iarpit/followers",
+  "following_url": "https://api.github.com/users/iarpit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iarpit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iarpit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iarpit/subscriptions",
+  "organizations_url": "https://api.github.com/users/iarpit/orgs",
+  "repos_url": "https://api.github.com/users/iarpit/repos",
+  "events_url": "https://api.github.com/users/iarpit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iarpit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

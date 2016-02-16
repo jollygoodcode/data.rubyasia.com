@@ -1,0 +1,20 @@
+{
+  "login": "haimingpro",
+  "id": 7529948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7529948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haimingpro",
+  "html_url": "https://github.com/haimingpro",
+  "followers_url": "https://api.github.com/users/haimingpro/followers",
+  "following_url": "https://api.github.com/users/haimingpro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haimingpro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haimingpro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haimingpro/subscriptions",
+  "organizations_url": "https://api.github.com/users/haimingpro/orgs",
+  "repos_url": "https://api.github.com/users/haimingpro/repos",
+  "events_url": "https://api.github.com/users/haimingpro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haimingpro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

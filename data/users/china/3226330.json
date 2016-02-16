@@ -1,0 +1,20 @@
+{
+  "login": "scdeny",
+  "id": 3226330,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3226330?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/scdeny",
+  "html_url": "https://github.com/scdeny",
+  "followers_url": "https://api.github.com/users/scdeny/followers",
+  "following_url": "https://api.github.com/users/scdeny/following{/other_user}",
+  "gists_url": "https://api.github.com/users/scdeny/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/scdeny/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/scdeny/subscriptions",
+  "organizations_url": "https://api.github.com/users/scdeny/orgs",
+  "repos_url": "https://api.github.com/users/scdeny/repos",
+  "events_url": "https://api.github.com/users/scdeny/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/scdeny/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

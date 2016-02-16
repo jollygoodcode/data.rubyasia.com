@@ -1,0 +1,20 @@
+{
+  "login": "raviwu",
+  "id": 5523983,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5523983?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raviwu",
+  "html_url": "https://github.com/raviwu",
+  "followers_url": "https://api.github.com/users/raviwu/followers",
+  "following_url": "https://api.github.com/users/raviwu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raviwu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raviwu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raviwu/subscriptions",
+  "organizations_url": "https://api.github.com/users/raviwu/orgs",
+  "repos_url": "https://api.github.com/users/raviwu/repos",
+  "events_url": "https://api.github.com/users/raviwu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raviwu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

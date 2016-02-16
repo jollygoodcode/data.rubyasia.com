@@ -1,0 +1,20 @@
+{
+  "login": "hSATAC",
+  "id": 88208,
+  "avatar_url": "https://avatars.githubusercontent.com/u/88208?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hSATAC",
+  "html_url": "https://github.com/hSATAC",
+  "followers_url": "https://api.github.com/users/hSATAC/followers",
+  "following_url": "https://api.github.com/users/hSATAC/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hSATAC/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hSATAC/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hSATAC/subscriptions",
+  "organizations_url": "https://api.github.com/users/hSATAC/orgs",
+  "repos_url": "https://api.github.com/users/hSATAC/repos",
+  "events_url": "https://api.github.com/users/hSATAC/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hSATAC/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

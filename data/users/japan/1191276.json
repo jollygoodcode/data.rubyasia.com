@@ -1,0 +1,20 @@
+{
+  "login": "kukenko",
+  "id": 1191276,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1191276?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kukenko",
+  "html_url": "https://github.com/kukenko",
+  "followers_url": "https://api.github.com/users/kukenko/followers",
+  "following_url": "https://api.github.com/users/kukenko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kukenko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kukenko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kukenko/subscriptions",
+  "organizations_url": "https://api.github.com/users/kukenko/orgs",
+  "repos_url": "https://api.github.com/users/kukenko/repos",
+  "events_url": "https://api.github.com/users/kukenko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kukenko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "epirus",
+  "id": 2031281,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2031281?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/epirus",
+  "html_url": "https://github.com/epirus",
+  "followers_url": "https://api.github.com/users/epirus/followers",
+  "following_url": "https://api.github.com/users/epirus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/epirus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/epirus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/epirus/subscriptions",
+  "organizations_url": "https://api.github.com/users/epirus/orgs",
+  "repos_url": "https://api.github.com/users/epirus/repos",
+  "events_url": "https://api.github.com/users/epirus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/epirus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

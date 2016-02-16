@@ -1,0 +1,20 @@
+{
+  "login": "jasonyslai",
+  "id": 958382,
+  "avatar_url": "https://avatars.githubusercontent.com/u/958382?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasonyslai",
+  "html_url": "https://github.com/jasonyslai",
+  "followers_url": "https://api.github.com/users/jasonyslai/followers",
+  "following_url": "https://api.github.com/users/jasonyslai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasonyslai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasonyslai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasonyslai/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasonyslai/orgs",
+  "repos_url": "https://api.github.com/users/jasonyslai/repos",
+  "events_url": "https://api.github.com/users/jasonyslai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasonyslai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

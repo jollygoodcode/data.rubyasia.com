@@ -1,0 +1,20 @@
+{
+  "login": "zophos",
+  "id": 74045,
+  "avatar_url": "https://avatars.githubusercontent.com/u/74045?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zophos",
+  "html_url": "https://github.com/zophos",
+  "followers_url": "https://api.github.com/users/zophos/followers",
+  "following_url": "https://api.github.com/users/zophos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zophos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zophos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zophos/subscriptions",
+  "organizations_url": "https://api.github.com/users/zophos/orgs",
+  "repos_url": "https://api.github.com/users/zophos/repos",
+  "events_url": "https://api.github.com/users/zophos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zophos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

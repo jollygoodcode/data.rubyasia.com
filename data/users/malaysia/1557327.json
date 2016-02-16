@@ -1,0 +1,20 @@
+{
+  "login": "wmazren",
+  "id": 1557327,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1557327?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wmazren",
+  "html_url": "https://github.com/wmazren",
+  "followers_url": "https://api.github.com/users/wmazren/followers",
+  "following_url": "https://api.github.com/users/wmazren/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wmazren/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wmazren/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wmazren/subscriptions",
+  "organizations_url": "https://api.github.com/users/wmazren/orgs",
+  "repos_url": "https://api.github.com/users/wmazren/repos",
+  "events_url": "https://api.github.com/users/wmazren/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wmazren/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

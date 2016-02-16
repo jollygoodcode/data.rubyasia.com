@@ -1,0 +1,20 @@
+{
+  "login": "kkchsht",
+  "id": 253604,
+  "avatar_url": "https://avatars.githubusercontent.com/u/253604?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kkchsht",
+  "html_url": "https://github.com/kkchsht",
+  "followers_url": "https://api.github.com/users/kkchsht/followers",
+  "following_url": "https://api.github.com/users/kkchsht/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kkchsht/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kkchsht/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kkchsht/subscriptions",
+  "organizations_url": "https://api.github.com/users/kkchsht/orgs",
+  "repos_url": "https://api.github.com/users/kkchsht/repos",
+  "events_url": "https://api.github.com/users/kkchsht/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kkchsht/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

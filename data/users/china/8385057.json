@@ -1,0 +1,20 @@
+{
+  "login": "hutsonlu",
+  "id": 8385057,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8385057?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hutsonlu",
+  "html_url": "https://github.com/hutsonlu",
+  "followers_url": "https://api.github.com/users/hutsonlu/followers",
+  "following_url": "https://api.github.com/users/hutsonlu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hutsonlu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hutsonlu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hutsonlu/subscriptions",
+  "organizations_url": "https://api.github.com/users/hutsonlu/orgs",
+  "repos_url": "https://api.github.com/users/hutsonlu/repos",
+  "events_url": "https://api.github.com/users/hutsonlu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hutsonlu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

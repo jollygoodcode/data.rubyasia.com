@@ -1,0 +1,20 @@
+{
+  "login": "embibe",
+  "id": 2588212,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2588212?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/embibe",
+  "html_url": "https://github.com/embibe",
+  "followers_url": "https://api.github.com/users/embibe/followers",
+  "following_url": "https://api.github.com/users/embibe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/embibe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/embibe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/embibe/subscriptions",
+  "organizations_url": "https://api.github.com/users/embibe/orgs",
+  "repos_url": "https://api.github.com/users/embibe/repos",
+  "events_url": "https://api.github.com/users/embibe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/embibe/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

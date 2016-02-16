@@ -1,0 +1,20 @@
+{
+  "login": "ainoya",
+  "id": 2300438,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2300438?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ainoya",
+  "html_url": "https://github.com/ainoya",
+  "followers_url": "https://api.github.com/users/ainoya/followers",
+  "following_url": "https://api.github.com/users/ainoya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ainoya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ainoya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ainoya/subscriptions",
+  "organizations_url": "https://api.github.com/users/ainoya/orgs",
+  "repos_url": "https://api.github.com/users/ainoya/repos",
+  "events_url": "https://api.github.com/users/ainoya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ainoya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

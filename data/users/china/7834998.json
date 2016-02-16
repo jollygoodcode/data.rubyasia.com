@@ -1,0 +1,20 @@
+{
+  "login": "alvingeek",
+  "id": 7834998,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7834998?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alvingeek",
+  "html_url": "https://github.com/alvingeek",
+  "followers_url": "https://api.github.com/users/alvingeek/followers",
+  "following_url": "https://api.github.com/users/alvingeek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alvingeek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alvingeek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alvingeek/subscriptions",
+  "organizations_url": "https://api.github.com/users/alvingeek/orgs",
+  "repos_url": "https://api.github.com/users/alvingeek/repos",
+  "events_url": "https://api.github.com/users/alvingeek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alvingeek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

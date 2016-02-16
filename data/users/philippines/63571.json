@@ -1,0 +1,20 @@
+{
+  "login": "dukz",
+  "id": 63571,
+  "avatar_url": "https://avatars.githubusercontent.com/u/63571?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dukz",
+  "html_url": "https://github.com/dukz",
+  "followers_url": "https://api.github.com/users/dukz/followers",
+  "following_url": "https://api.github.com/users/dukz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dukz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dukz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dukz/subscriptions",
+  "organizations_url": "https://api.github.com/users/dukz/orgs",
+  "repos_url": "https://api.github.com/users/dukz/repos",
+  "events_url": "https://api.github.com/users/dukz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dukz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

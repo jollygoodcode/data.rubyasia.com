@@ -1,0 +1,20 @@
+{
+  "login": "yesmeck",
+  "id": 465125,
+  "avatar_url": "https://avatars.githubusercontent.com/u/465125?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yesmeck",
+  "html_url": "https://github.com/yesmeck",
+  "followers_url": "https://api.github.com/users/yesmeck/followers",
+  "following_url": "https://api.github.com/users/yesmeck/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yesmeck/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yesmeck/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yesmeck/subscriptions",
+  "organizations_url": "https://api.github.com/users/yesmeck/orgs",
+  "repos_url": "https://api.github.com/users/yesmeck/repos",
+  "events_url": "https://api.github.com/users/yesmeck/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yesmeck/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

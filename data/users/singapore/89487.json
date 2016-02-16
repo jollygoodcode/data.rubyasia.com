@@ -1,0 +1,20 @@
+{
+  "login": "mathieulegrand",
+  "id": 89487,
+  "avatar_url": "https://avatars.githubusercontent.com/u/89487?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mathieulegrand",
+  "html_url": "https://github.com/mathieulegrand",
+  "followers_url": "https://api.github.com/users/mathieulegrand/followers",
+  "following_url": "https://api.github.com/users/mathieulegrand/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mathieulegrand/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mathieulegrand/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mathieulegrand/subscriptions",
+  "organizations_url": "https://api.github.com/users/mathieulegrand/orgs",
+  "repos_url": "https://api.github.com/users/mathieulegrand/repos",
+  "events_url": "https://api.github.com/users/mathieulegrand/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mathieulegrand/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

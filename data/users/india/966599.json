@@ -1,0 +1,20 @@
+{
+  "login": "tutshelf",
+  "id": 966599,
+  "avatar_url": "https://avatars.githubusercontent.com/u/966599?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tutshelf",
+  "html_url": "https://github.com/tutshelf",
+  "followers_url": "https://api.github.com/users/tutshelf/followers",
+  "following_url": "https://api.github.com/users/tutshelf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tutshelf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tutshelf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tutshelf/subscriptions",
+  "organizations_url": "https://api.github.com/users/tutshelf/orgs",
+  "repos_url": "https://api.github.com/users/tutshelf/repos",
+  "events_url": "https://api.github.com/users/tutshelf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tutshelf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

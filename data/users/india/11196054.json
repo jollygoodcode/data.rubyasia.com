@@ -1,0 +1,20 @@
+{
+  "login": "agiratech",
+  "id": 11196054,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11196054?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/agiratech",
+  "html_url": "https://github.com/agiratech",
+  "followers_url": "https://api.github.com/users/agiratech/followers",
+  "following_url": "https://api.github.com/users/agiratech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/agiratech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/agiratech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/agiratech/subscriptions",
+  "organizations_url": "https://api.github.com/users/agiratech/orgs",
+  "repos_url": "https://api.github.com/users/agiratech/repos",
+  "events_url": "https://api.github.com/users/agiratech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/agiratech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

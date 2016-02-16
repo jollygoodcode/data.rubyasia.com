@@ -1,0 +1,20 @@
+{
+  "login": "taka-tt",
+  "id": 1027784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1027784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taka-tt",
+  "html_url": "https://github.com/taka-tt",
+  "followers_url": "https://api.github.com/users/taka-tt/followers",
+  "following_url": "https://api.github.com/users/taka-tt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taka-tt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taka-tt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taka-tt/subscriptions",
+  "organizations_url": "https://api.github.com/users/taka-tt/orgs",
+  "repos_url": "https://api.github.com/users/taka-tt/repos",
+  "events_url": "https://api.github.com/users/taka-tt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taka-tt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

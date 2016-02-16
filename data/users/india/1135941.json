@@ -1,0 +1,20 @@
+{
+  "login": "lewstherin",
+  "id": 1135941,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1135941?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lewstherin",
+  "html_url": "https://github.com/lewstherin",
+  "followers_url": "https://api.github.com/users/lewstherin/followers",
+  "following_url": "https://api.github.com/users/lewstherin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lewstherin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lewstherin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lewstherin/subscriptions",
+  "organizations_url": "https://api.github.com/users/lewstherin/orgs",
+  "repos_url": "https://api.github.com/users/lewstherin/repos",
+  "events_url": "https://api.github.com/users/lewstherin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lewstherin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

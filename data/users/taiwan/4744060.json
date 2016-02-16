@@ -1,0 +1,20 @@
+{
+  "login": "frsnic",
+  "id": 4744060,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4744060?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/frsnic",
+  "html_url": "https://github.com/frsnic",
+  "followers_url": "https://api.github.com/users/frsnic/followers",
+  "following_url": "https://api.github.com/users/frsnic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/frsnic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/frsnic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/frsnic/subscriptions",
+  "organizations_url": "https://api.github.com/users/frsnic/orgs",
+  "repos_url": "https://api.github.com/users/frsnic/repos",
+  "events_url": "https://api.github.com/users/frsnic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/frsnic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

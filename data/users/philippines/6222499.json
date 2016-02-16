@@ -1,0 +1,20 @@
+{
+  "login": "Archeia",
+  "id": 6222499,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6222499?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Archeia",
+  "html_url": "https://github.com/Archeia",
+  "followers_url": "https://api.github.com/users/Archeia/followers",
+  "following_url": "https://api.github.com/users/Archeia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Archeia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Archeia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Archeia/subscriptions",
+  "organizations_url": "https://api.github.com/users/Archeia/orgs",
+  "repos_url": "https://api.github.com/users/Archeia/repos",
+  "events_url": "https://api.github.com/users/Archeia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Archeia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

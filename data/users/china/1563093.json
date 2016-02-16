@@ -1,0 +1,20 @@
+{
+  "login": "lvyunyi",
+  "id": 1563093,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1563093?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lvyunyi",
+  "html_url": "https://github.com/lvyunyi",
+  "followers_url": "https://api.github.com/users/lvyunyi/followers",
+  "following_url": "https://api.github.com/users/lvyunyi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lvyunyi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lvyunyi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lvyunyi/subscriptions",
+  "organizations_url": "https://api.github.com/users/lvyunyi/orgs",
+  "repos_url": "https://api.github.com/users/lvyunyi/repos",
+  "events_url": "https://api.github.com/users/lvyunyi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lvyunyi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

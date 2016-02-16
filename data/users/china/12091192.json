@@ -1,0 +1,20 @@
+{
+  "login": "wildalson",
+  "id": 12091192,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12091192?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wildalson",
+  "html_url": "https://github.com/wildalson",
+  "followers_url": "https://api.github.com/users/wildalson/followers",
+  "following_url": "https://api.github.com/users/wildalson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wildalson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wildalson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wildalson/subscriptions",
+  "organizations_url": "https://api.github.com/users/wildalson/orgs",
+  "repos_url": "https://api.github.com/users/wildalson/repos",
+  "events_url": "https://api.github.com/users/wildalson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wildalson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

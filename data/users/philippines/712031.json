@@ -1,0 +1,20 @@
+{
+  "login": "rollyn",
+  "id": 712031,
+  "avatar_url": "https://avatars.githubusercontent.com/u/712031?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rollyn",
+  "html_url": "https://github.com/rollyn",
+  "followers_url": "https://api.github.com/users/rollyn/followers",
+  "following_url": "https://api.github.com/users/rollyn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rollyn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rollyn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rollyn/subscriptions",
+  "organizations_url": "https://api.github.com/users/rollyn/orgs",
+  "repos_url": "https://api.github.com/users/rollyn/repos",
+  "events_url": "https://api.github.com/users/rollyn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rollyn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

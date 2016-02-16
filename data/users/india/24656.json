@@ -1,0 +1,20 @@
+{
+  "login": "anshul",
+  "id": 24656,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24656?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anshul",
+  "html_url": "https://github.com/anshul",
+  "followers_url": "https://api.github.com/users/anshul/followers",
+  "following_url": "https://api.github.com/users/anshul/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anshul/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anshul/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anshul/subscriptions",
+  "organizations_url": "https://api.github.com/users/anshul/orgs",
+  "repos_url": "https://api.github.com/users/anshul/repos",
+  "events_url": "https://api.github.com/users/anshul/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anshul/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

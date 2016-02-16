@@ -1,0 +1,20 @@
+{
+  "login": "avinashv",
+  "id": 11396,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11396?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/avinashv",
+  "html_url": "https://github.com/avinashv",
+  "followers_url": "https://api.github.com/users/avinashv/followers",
+  "following_url": "https://api.github.com/users/avinashv/following{/other_user}",
+  "gists_url": "https://api.github.com/users/avinashv/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/avinashv/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/avinashv/subscriptions",
+  "organizations_url": "https://api.github.com/users/avinashv/orgs",
+  "repos_url": "https://api.github.com/users/avinashv/repos",
+  "events_url": "https://api.github.com/users/avinashv/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/avinashv/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

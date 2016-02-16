@@ -1,0 +1,20 @@
+{
+  "login": "kenohata",
+  "id": 604570,
+  "avatar_url": "https://avatars.githubusercontent.com/u/604570?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kenohata",
+  "html_url": "https://github.com/kenohata",
+  "followers_url": "https://api.github.com/users/kenohata/followers",
+  "following_url": "https://api.github.com/users/kenohata/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kenohata/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kenohata/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kenohata/subscriptions",
+  "organizations_url": "https://api.github.com/users/kenohata/orgs",
+  "repos_url": "https://api.github.com/users/kenohata/repos",
+  "events_url": "https://api.github.com/users/kenohata/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kenohata/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

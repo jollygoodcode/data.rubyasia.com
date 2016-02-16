@@ -1,0 +1,20 @@
+{
+  "login": "horidaisuke",
+  "id": 3899165,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3899165?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/horidaisuke",
+  "html_url": "https://github.com/horidaisuke",
+  "followers_url": "https://api.github.com/users/horidaisuke/followers",
+  "following_url": "https://api.github.com/users/horidaisuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/horidaisuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/horidaisuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/horidaisuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/horidaisuke/orgs",
+  "repos_url": "https://api.github.com/users/horidaisuke/repos",
+  "events_url": "https://api.github.com/users/horidaisuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/horidaisuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

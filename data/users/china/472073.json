@@ -1,0 +1,20 @@
+{
+  "login": "joray",
+  "id": 472073,
+  "avatar_url": "https://avatars.githubusercontent.com/u/472073?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joray",
+  "html_url": "https://github.com/joray",
+  "followers_url": "https://api.github.com/users/joray/followers",
+  "following_url": "https://api.github.com/users/joray/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joray/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joray/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joray/subscriptions",
+  "organizations_url": "https://api.github.com/users/joray/orgs",
+  "repos_url": "https://api.github.com/users/joray/repos",
+  "events_url": "https://api.github.com/users/joray/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joray/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

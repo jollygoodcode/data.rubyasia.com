@@ -1,0 +1,20 @@
+{
+  "login": "fgsoap",
+  "id": 2555074,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2555074?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fgsoap",
+  "html_url": "https://github.com/fgsoap",
+  "followers_url": "https://api.github.com/users/fgsoap/followers",
+  "following_url": "https://api.github.com/users/fgsoap/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fgsoap/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fgsoap/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fgsoap/subscriptions",
+  "organizations_url": "https://api.github.com/users/fgsoap/orgs",
+  "repos_url": "https://api.github.com/users/fgsoap/repos",
+  "events_url": "https://api.github.com/users/fgsoap/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fgsoap/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

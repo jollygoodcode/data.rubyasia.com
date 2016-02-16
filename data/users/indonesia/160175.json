@@ -1,0 +1,20 @@
+{
+  "login": "kurniaone",
+  "id": 160175,
+  "avatar_url": "https://avatars.githubusercontent.com/u/160175?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kurniaone",
+  "html_url": "https://github.com/kurniaone",
+  "followers_url": "https://api.github.com/users/kurniaone/followers",
+  "following_url": "https://api.github.com/users/kurniaone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kurniaone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kurniaone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kurniaone/subscriptions",
+  "organizations_url": "https://api.github.com/users/kurniaone/orgs",
+  "repos_url": "https://api.github.com/users/kurniaone/repos",
+  "events_url": "https://api.github.com/users/kurniaone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kurniaone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

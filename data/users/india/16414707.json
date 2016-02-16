@@ -1,0 +1,20 @@
+{
+  "login": "pr4njal",
+  "id": 16414707,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16414707?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pr4njal",
+  "html_url": "https://github.com/pr4njal",
+  "followers_url": "https://api.github.com/users/pr4njal/followers",
+  "following_url": "https://api.github.com/users/pr4njal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pr4njal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pr4njal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pr4njal/subscriptions",
+  "organizations_url": "https://api.github.com/users/pr4njal/orgs",
+  "repos_url": "https://api.github.com/users/pr4njal/repos",
+  "events_url": "https://api.github.com/users/pr4njal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pr4njal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

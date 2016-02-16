@@ -1,0 +1,20 @@
+{
+  "login": "mpagalan",
+  "id": 36579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/36579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mpagalan",
+  "html_url": "https://github.com/mpagalan",
+  "followers_url": "https://api.github.com/users/mpagalan/followers",
+  "following_url": "https://api.github.com/users/mpagalan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mpagalan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mpagalan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mpagalan/subscriptions",
+  "organizations_url": "https://api.github.com/users/mpagalan/orgs",
+  "repos_url": "https://api.github.com/users/mpagalan/repos",
+  "events_url": "https://api.github.com/users/mpagalan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mpagalan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

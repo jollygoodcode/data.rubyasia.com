@@ -1,0 +1,20 @@
+{
+  "login": "jperocho",
+  "id": 1308925,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1308925?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jperocho",
+  "html_url": "https://github.com/jperocho",
+  "followers_url": "https://api.github.com/users/jperocho/followers",
+  "following_url": "https://api.github.com/users/jperocho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jperocho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jperocho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jperocho/subscriptions",
+  "organizations_url": "https://api.github.com/users/jperocho/orgs",
+  "repos_url": "https://api.github.com/users/jperocho/repos",
+  "events_url": "https://api.github.com/users/jperocho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jperocho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

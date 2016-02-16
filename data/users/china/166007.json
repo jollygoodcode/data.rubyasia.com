@@ -1,0 +1,20 @@
+{
+  "login": "hannyu",
+  "id": 166007,
+  "avatar_url": "https://avatars.githubusercontent.com/u/166007?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hannyu",
+  "html_url": "https://github.com/hannyu",
+  "followers_url": "https://api.github.com/users/hannyu/followers",
+  "following_url": "https://api.github.com/users/hannyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hannyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hannyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hannyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/hannyu/orgs",
+  "repos_url": "https://api.github.com/users/hannyu/repos",
+  "events_url": "https://api.github.com/users/hannyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hannyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

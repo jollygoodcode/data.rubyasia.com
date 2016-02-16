@@ -1,0 +1,20 @@
+{
+  "login": "helloyangdan",
+  "id": 5466081,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5466081?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/helloyangdan",
+  "html_url": "https://github.com/helloyangdan",
+  "followers_url": "https://api.github.com/users/helloyangdan/followers",
+  "following_url": "https://api.github.com/users/helloyangdan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/helloyangdan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/helloyangdan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/helloyangdan/subscriptions",
+  "organizations_url": "https://api.github.com/users/helloyangdan/orgs",
+  "repos_url": "https://api.github.com/users/helloyangdan/repos",
+  "events_url": "https://api.github.com/users/helloyangdan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/helloyangdan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

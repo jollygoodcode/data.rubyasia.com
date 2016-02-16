@@ -1,0 +1,20 @@
+{
+  "login": "PenguinGabe",
+  "id": 2005788,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2005788?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PenguinGabe",
+  "html_url": "https://github.com/PenguinGabe",
+  "followers_url": "https://api.github.com/users/PenguinGabe/followers",
+  "following_url": "https://api.github.com/users/PenguinGabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PenguinGabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PenguinGabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PenguinGabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/PenguinGabe/orgs",
+  "repos_url": "https://api.github.com/users/PenguinGabe/repos",
+  "events_url": "https://api.github.com/users/PenguinGabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PenguinGabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

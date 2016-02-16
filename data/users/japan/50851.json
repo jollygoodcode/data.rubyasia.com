@@ -1,0 +1,20 @@
+{
+  "login": "ebith",
+  "id": 50851,
+  "avatar_url": "https://avatars.githubusercontent.com/u/50851?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ebith",
+  "html_url": "https://github.com/ebith",
+  "followers_url": "https://api.github.com/users/ebith/followers",
+  "following_url": "https://api.github.com/users/ebith/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ebith/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ebith/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ebith/subscriptions",
+  "organizations_url": "https://api.github.com/users/ebith/orgs",
+  "repos_url": "https://api.github.com/users/ebith/repos",
+  "events_url": "https://api.github.com/users/ebith/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ebith/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

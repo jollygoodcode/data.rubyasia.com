@@ -1,0 +1,20 @@
+{
+  "login": "haru",
+  "id": 99401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/99401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haru",
+  "html_url": "https://github.com/haru",
+  "followers_url": "https://api.github.com/users/haru/followers",
+  "following_url": "https://api.github.com/users/haru/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haru/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haru/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haru/subscriptions",
+  "organizations_url": "https://api.github.com/users/haru/orgs",
+  "repos_url": "https://api.github.com/users/haru/repos",
+  "events_url": "https://api.github.com/users/haru/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haru/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

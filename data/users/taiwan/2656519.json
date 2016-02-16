@@ -1,0 +1,20 @@
+{
+  "login": "JohnnyTseng",
+  "id": 2656519,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2656519?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JohnnyTseng",
+  "html_url": "https://github.com/JohnnyTseng",
+  "followers_url": "https://api.github.com/users/JohnnyTseng/followers",
+  "following_url": "https://api.github.com/users/JohnnyTseng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JohnnyTseng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JohnnyTseng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JohnnyTseng/subscriptions",
+  "organizations_url": "https://api.github.com/users/JohnnyTseng/orgs",
+  "repos_url": "https://api.github.com/users/JohnnyTseng/repos",
+  "events_url": "https://api.github.com/users/JohnnyTseng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JohnnyTseng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

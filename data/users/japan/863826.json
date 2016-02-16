@@ -1,0 +1,20 @@
+{
+  "login": "Chiether",
+  "id": 863826,
+  "avatar_url": "https://avatars.githubusercontent.com/u/863826?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Chiether",
+  "html_url": "https://github.com/Chiether",
+  "followers_url": "https://api.github.com/users/Chiether/followers",
+  "following_url": "https://api.github.com/users/Chiether/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Chiether/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Chiether/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Chiether/subscriptions",
+  "organizations_url": "https://api.github.com/users/Chiether/orgs",
+  "repos_url": "https://api.github.com/users/Chiether/repos",
+  "events_url": "https://api.github.com/users/Chiether/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Chiether/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

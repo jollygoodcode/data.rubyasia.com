@@ -1,0 +1,20 @@
+{
+  "login": "andy19910102",
+  "id": 14119945,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14119945?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andy19910102",
+  "html_url": "https://github.com/andy19910102",
+  "followers_url": "https://api.github.com/users/andy19910102/followers",
+  "following_url": "https://api.github.com/users/andy19910102/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andy19910102/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andy19910102/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andy19910102/subscriptions",
+  "organizations_url": "https://api.github.com/users/andy19910102/orgs",
+  "repos_url": "https://api.github.com/users/andy19910102/repos",
+  "events_url": "https://api.github.com/users/andy19910102/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andy19910102/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

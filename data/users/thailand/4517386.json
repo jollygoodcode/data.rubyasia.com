@@ -1,0 +1,20 @@
+{
+  "login": "codemy",
+  "id": 4517386,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4517386?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codemy",
+  "html_url": "https://github.com/codemy",
+  "followers_url": "https://api.github.com/users/codemy/followers",
+  "following_url": "https://api.github.com/users/codemy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codemy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codemy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codemy/subscriptions",
+  "organizations_url": "https://api.github.com/users/codemy/orgs",
+  "repos_url": "https://api.github.com/users/codemy/repos",
+  "events_url": "https://api.github.com/users/codemy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codemy/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hfu",
+  "id": 18297,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18297?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hfu",
+  "html_url": "https://github.com/hfu",
+  "followers_url": "https://api.github.com/users/hfu/followers",
+  "following_url": "https://api.github.com/users/hfu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hfu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hfu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hfu/subscriptions",
+  "organizations_url": "https://api.github.com/users/hfu/orgs",
+  "repos_url": "https://api.github.com/users/hfu/repos",
+  "events_url": "https://api.github.com/users/hfu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hfu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

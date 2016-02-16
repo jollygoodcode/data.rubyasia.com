@@ -1,0 +1,20 @@
+{
+  "login": "kazutomi",
+  "id": 880050,
+  "avatar_url": "https://avatars.githubusercontent.com/u/880050?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kazutomi",
+  "html_url": "https://github.com/kazutomi",
+  "followers_url": "https://api.github.com/users/kazutomi/followers",
+  "following_url": "https://api.github.com/users/kazutomi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kazutomi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kazutomi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kazutomi/subscriptions",
+  "organizations_url": "https://api.github.com/users/kazutomi/orgs",
+  "repos_url": "https://api.github.com/users/kazutomi/repos",
+  "events_url": "https://api.github.com/users/kazutomi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kazutomi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

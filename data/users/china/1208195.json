@@ -1,0 +1,20 @@
+{
+  "login": "godseraph",
+  "id": 1208195,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1208195?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/godseraph",
+  "html_url": "https://github.com/godseraph",
+  "followers_url": "https://api.github.com/users/godseraph/followers",
+  "following_url": "https://api.github.com/users/godseraph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/godseraph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/godseraph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/godseraph/subscriptions",
+  "organizations_url": "https://api.github.com/users/godseraph/orgs",
+  "repos_url": "https://api.github.com/users/godseraph/repos",
+  "events_url": "https://api.github.com/users/godseraph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/godseraph/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

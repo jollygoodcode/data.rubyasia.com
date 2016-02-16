@@ -1,0 +1,20 @@
+{
+  "login": "ershad",
+  "id": 106525,
+  "avatar_url": "https://avatars.githubusercontent.com/u/106525?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ershad",
+  "html_url": "https://github.com/ershad",
+  "followers_url": "https://api.github.com/users/ershad/followers",
+  "following_url": "https://api.github.com/users/ershad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ershad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ershad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ershad/subscriptions",
+  "organizations_url": "https://api.github.com/users/ershad/orgs",
+  "repos_url": "https://api.github.com/users/ershad/repos",
+  "events_url": "https://api.github.com/users/ershad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ershad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

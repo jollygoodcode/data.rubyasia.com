@@ -1,0 +1,20 @@
+{
+  "login": "learnlambda",
+  "id": 10563574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10563574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/learnlambda",
+  "html_url": "https://github.com/learnlambda",
+  "followers_url": "https://api.github.com/users/learnlambda/followers",
+  "following_url": "https://api.github.com/users/learnlambda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/learnlambda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/learnlambda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/learnlambda/subscriptions",
+  "organizations_url": "https://api.github.com/users/learnlambda/orgs",
+  "repos_url": "https://api.github.com/users/learnlambda/repos",
+  "events_url": "https://api.github.com/users/learnlambda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/learnlambda/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

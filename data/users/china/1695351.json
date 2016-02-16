@@ -1,0 +1,20 @@
+{
+  "login": "3xian",
+  "id": 1695351,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1695351?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/3xian",
+  "html_url": "https://github.com/3xian",
+  "followers_url": "https://api.github.com/users/3xian/followers",
+  "following_url": "https://api.github.com/users/3xian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/3xian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/3xian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/3xian/subscriptions",
+  "organizations_url": "https://api.github.com/users/3xian/orgs",
+  "repos_url": "https://api.github.com/users/3xian/repos",
+  "events_url": "https://api.github.com/users/3xian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/3xian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

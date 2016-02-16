@@ -1,0 +1,20 @@
+{
+  "login": "jamjom",
+  "id": 3581808,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3581808?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamjom",
+  "html_url": "https://github.com/jamjom",
+  "followers_url": "https://api.github.com/users/jamjom/followers",
+  "following_url": "https://api.github.com/users/jamjom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamjom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamjom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamjom/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamjom/orgs",
+  "repos_url": "https://api.github.com/users/jamjom/repos",
+  "events_url": "https://api.github.com/users/jamjom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamjom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

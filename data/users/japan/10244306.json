@@ -1,0 +1,20 @@
+{
+  "login": "nak-g-its",
+  "id": 10244306,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10244306?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nak-g-its",
+  "html_url": "https://github.com/nak-g-its",
+  "followers_url": "https://api.github.com/users/nak-g-its/followers",
+  "following_url": "https://api.github.com/users/nak-g-its/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nak-g-its/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nak-g-its/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nak-g-its/subscriptions",
+  "organizations_url": "https://api.github.com/users/nak-g-its/orgs",
+  "repos_url": "https://api.github.com/users/nak-g-its/repos",
+  "events_url": "https://api.github.com/users/nak-g-its/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nak-g-its/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

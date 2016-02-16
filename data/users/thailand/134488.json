@@ -1,0 +1,20 @@
+{
+  "login": "zacksiri",
+  "id": 134488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/134488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zacksiri",
+  "html_url": "https://github.com/zacksiri",
+  "followers_url": "https://api.github.com/users/zacksiri/followers",
+  "following_url": "https://api.github.com/users/zacksiri/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zacksiri/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zacksiri/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zacksiri/subscriptions",
+  "organizations_url": "https://api.github.com/users/zacksiri/orgs",
+  "repos_url": "https://api.github.com/users/zacksiri/repos",
+  "events_url": "https://api.github.com/users/zacksiri/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zacksiri/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

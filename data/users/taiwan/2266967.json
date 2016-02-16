@@ -1,0 +1,20 @@
+{
+  "login": "warrenwong",
+  "id": 2266967,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2266967?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/warrenwong",
+  "html_url": "https://github.com/warrenwong",
+  "followers_url": "https://api.github.com/users/warrenwong/followers",
+  "following_url": "https://api.github.com/users/warrenwong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/warrenwong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/warrenwong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/warrenwong/subscriptions",
+  "organizations_url": "https://api.github.com/users/warrenwong/orgs",
+  "repos_url": "https://api.github.com/users/warrenwong/repos",
+  "events_url": "https://api.github.com/users/warrenwong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/warrenwong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

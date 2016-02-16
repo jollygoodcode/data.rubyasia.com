@@ -1,0 +1,20 @@
+{
+  "login": "superwf",
+  "id": 308262,
+  "avatar_url": "https://avatars.githubusercontent.com/u/308262?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/superwf",
+  "html_url": "https://github.com/superwf",
+  "followers_url": "https://api.github.com/users/superwf/followers",
+  "following_url": "https://api.github.com/users/superwf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/superwf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/superwf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/superwf/subscriptions",
+  "organizations_url": "https://api.github.com/users/superwf/orgs",
+  "repos_url": "https://api.github.com/users/superwf/repos",
+  "events_url": "https://api.github.com/users/superwf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/superwf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

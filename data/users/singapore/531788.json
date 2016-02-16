@@ -1,0 +1,20 @@
+{
+  "login": "davidlowjw",
+  "id": 531788,
+  "avatar_url": "https://avatars.githubusercontent.com/u/531788?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/davidlowjw",
+  "html_url": "https://github.com/davidlowjw",
+  "followers_url": "https://api.github.com/users/davidlowjw/followers",
+  "following_url": "https://api.github.com/users/davidlowjw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/davidlowjw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/davidlowjw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/davidlowjw/subscriptions",
+  "organizations_url": "https://api.github.com/users/davidlowjw/orgs",
+  "repos_url": "https://api.github.com/users/davidlowjw/repos",
+  "events_url": "https://api.github.com/users/davidlowjw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/davidlowjw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

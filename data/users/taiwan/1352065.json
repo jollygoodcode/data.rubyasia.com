@@ -1,0 +1,20 @@
+{
+  "login": "zhengmeyer",
+  "id": 1352065,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1352065?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhengmeyer",
+  "html_url": "https://github.com/zhengmeyer",
+  "followers_url": "https://api.github.com/users/zhengmeyer/followers",
+  "following_url": "https://api.github.com/users/zhengmeyer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhengmeyer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhengmeyer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhengmeyer/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhengmeyer/orgs",
+  "repos_url": "https://api.github.com/users/zhengmeyer/repos",
+  "events_url": "https://api.github.com/users/zhengmeyer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhengmeyer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

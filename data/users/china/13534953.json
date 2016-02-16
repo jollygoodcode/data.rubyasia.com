@@ -1,0 +1,20 @@
+{
+  "login": "larry-shi",
+  "id": 13534953,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13534953?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/larry-shi",
+  "html_url": "https://github.com/larry-shi",
+  "followers_url": "https://api.github.com/users/larry-shi/followers",
+  "following_url": "https://api.github.com/users/larry-shi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/larry-shi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/larry-shi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/larry-shi/subscriptions",
+  "organizations_url": "https://api.github.com/users/larry-shi/orgs",
+  "repos_url": "https://api.github.com/users/larry-shi/repos",
+  "events_url": "https://api.github.com/users/larry-shi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/larry-shi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

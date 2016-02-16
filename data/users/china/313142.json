@@ -1,0 +1,20 @@
+{
+  "login": "jqeHealth",
+  "id": 313142,
+  "avatar_url": "https://avatars.githubusercontent.com/u/313142?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jqeHealth",
+  "html_url": "https://github.com/jqeHealth",
+  "followers_url": "https://api.github.com/users/jqeHealth/followers",
+  "following_url": "https://api.github.com/users/jqeHealth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jqeHealth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jqeHealth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jqeHealth/subscriptions",
+  "organizations_url": "https://api.github.com/users/jqeHealth/orgs",
+  "repos_url": "https://api.github.com/users/jqeHealth/repos",
+  "events_url": "https://api.github.com/users/jqeHealth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jqeHealth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

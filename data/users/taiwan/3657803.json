@@ -1,0 +1,20 @@
+{
+  "login": "terratakashi",
+  "id": 3657803,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3657803?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/terratakashi",
+  "html_url": "https://github.com/terratakashi",
+  "followers_url": "https://api.github.com/users/terratakashi/followers",
+  "following_url": "https://api.github.com/users/terratakashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/terratakashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/terratakashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/terratakashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/terratakashi/orgs",
+  "repos_url": "https://api.github.com/users/terratakashi/repos",
+  "events_url": "https://api.github.com/users/terratakashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/terratakashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

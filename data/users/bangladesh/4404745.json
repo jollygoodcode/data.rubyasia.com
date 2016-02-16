@@ -1,0 +1,20 @@
+{
+  "login": "atikur",
+  "id": 4404745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4404745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atikur",
+  "html_url": "https://github.com/atikur",
+  "followers_url": "https://api.github.com/users/atikur/followers",
+  "following_url": "https://api.github.com/users/atikur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atikur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atikur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atikur/subscriptions",
+  "organizations_url": "https://api.github.com/users/atikur/orgs",
+  "repos_url": "https://api.github.com/users/atikur/repos",
+  "events_url": "https://api.github.com/users/atikur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atikur/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

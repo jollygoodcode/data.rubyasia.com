@@ -1,0 +1,20 @@
+{
+  "login": "hssh",
+  "id": 388284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/388284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hssh",
+  "html_url": "https://github.com/hssh",
+  "followers_url": "https://api.github.com/users/hssh/followers",
+  "following_url": "https://api.github.com/users/hssh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hssh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hssh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hssh/subscriptions",
+  "organizations_url": "https://api.github.com/users/hssh/orgs",
+  "repos_url": "https://api.github.com/users/hssh/repos",
+  "events_url": "https://api.github.com/users/hssh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hssh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

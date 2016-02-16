@@ -1,0 +1,20 @@
+{
+  "login": "mymagic",
+  "id": 7767067,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7767067?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mymagic",
+  "html_url": "https://github.com/mymagic",
+  "followers_url": "https://api.github.com/users/mymagic/followers",
+  "following_url": "https://api.github.com/users/mymagic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mymagic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mymagic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mymagic/subscriptions",
+  "organizations_url": "https://api.github.com/users/mymagic/orgs",
+  "repos_url": "https://api.github.com/users/mymagic/repos",
+  "events_url": "https://api.github.com/users/mymagic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mymagic/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

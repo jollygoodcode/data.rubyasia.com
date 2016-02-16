@@ -1,0 +1,20 @@
+{
+  "login": "bird1204",
+  "id": 4373926,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4373926?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bird1204",
+  "html_url": "https://github.com/bird1204",
+  "followers_url": "https://api.github.com/users/bird1204/followers",
+  "following_url": "https://api.github.com/users/bird1204/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bird1204/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bird1204/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bird1204/subscriptions",
+  "organizations_url": "https://api.github.com/users/bird1204/orgs",
+  "repos_url": "https://api.github.com/users/bird1204/repos",
+  "events_url": "https://api.github.com/users/bird1204/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bird1204/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mayuco",
+  "id": 52765,
+  "avatar_url": "https://avatars.githubusercontent.com/u/52765?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mayuco",
+  "html_url": "https://github.com/mayuco",
+  "followers_url": "https://api.github.com/users/mayuco/followers",
+  "following_url": "https://api.github.com/users/mayuco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mayuco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mayuco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mayuco/subscriptions",
+  "organizations_url": "https://api.github.com/users/mayuco/orgs",
+  "repos_url": "https://api.github.com/users/mayuco/repos",
+  "events_url": "https://api.github.com/users/mayuco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mayuco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

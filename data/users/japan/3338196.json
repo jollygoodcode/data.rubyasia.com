@@ -1,0 +1,20 @@
+{
+  "login": "rubima",
+  "id": 3338196,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3338196?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubima",
+  "html_url": "https://github.com/rubima",
+  "followers_url": "https://api.github.com/users/rubima/followers",
+  "following_url": "https://api.github.com/users/rubima/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubima/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubima/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubima/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubima/orgs",
+  "repos_url": "https://api.github.com/users/rubima/repos",
+  "events_url": "https://api.github.com/users/rubima/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubima/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

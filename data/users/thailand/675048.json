@@ -1,0 +1,20 @@
+{
+  "login": "jakkris",
+  "id": 675048,
+  "avatar_url": "https://avatars.githubusercontent.com/u/675048?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jakkris",
+  "html_url": "https://github.com/jakkris",
+  "followers_url": "https://api.github.com/users/jakkris/followers",
+  "following_url": "https://api.github.com/users/jakkris/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jakkris/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jakkris/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jakkris/subscriptions",
+  "organizations_url": "https://api.github.com/users/jakkris/orgs",
+  "repos_url": "https://api.github.com/users/jakkris/repos",
+  "events_url": "https://api.github.com/users/jakkris/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jakkris/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

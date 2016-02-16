@@ -1,0 +1,20 @@
+{
+  "login": "darcy4github",
+  "id": 3336918,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3336918?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/darcy4github",
+  "html_url": "https://github.com/darcy4github",
+  "followers_url": "https://api.github.com/users/darcy4github/followers",
+  "following_url": "https://api.github.com/users/darcy4github/following{/other_user}",
+  "gists_url": "https://api.github.com/users/darcy4github/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/darcy4github/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/darcy4github/subscriptions",
+  "organizations_url": "https://api.github.com/users/darcy4github/orgs",
+  "repos_url": "https://api.github.com/users/darcy4github/repos",
+  "events_url": "https://api.github.com/users/darcy4github/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/darcy4github/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

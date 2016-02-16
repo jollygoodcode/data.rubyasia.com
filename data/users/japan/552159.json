@@ -1,0 +1,20 @@
+{
+  "login": "y-matsuwitter",
+  "id": 552159,
+  "avatar_url": "https://avatars.githubusercontent.com/u/552159?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/y-matsuwitter",
+  "html_url": "https://github.com/y-matsuwitter",
+  "followers_url": "https://api.github.com/users/y-matsuwitter/followers",
+  "following_url": "https://api.github.com/users/y-matsuwitter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/y-matsuwitter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/y-matsuwitter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/y-matsuwitter/subscriptions",
+  "organizations_url": "https://api.github.com/users/y-matsuwitter/orgs",
+  "repos_url": "https://api.github.com/users/y-matsuwitter/repos",
+  "events_url": "https://api.github.com/users/y-matsuwitter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/y-matsuwitter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

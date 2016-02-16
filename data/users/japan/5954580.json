@@ -1,0 +1,20 @@
+{
+  "login": "fixerinit",
+  "id": 5954580,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5954580?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fixerinit",
+  "html_url": "https://github.com/fixerinit",
+  "followers_url": "https://api.github.com/users/fixerinit/followers",
+  "following_url": "https://api.github.com/users/fixerinit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fixerinit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fixerinit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fixerinit/subscriptions",
+  "organizations_url": "https://api.github.com/users/fixerinit/orgs",
+  "repos_url": "https://api.github.com/users/fixerinit/repos",
+  "events_url": "https://api.github.com/users/fixerinit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fixerinit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

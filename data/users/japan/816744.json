@@ -1,0 +1,20 @@
+{
+  "login": "scriptwork",
+  "id": 816744,
+  "avatar_url": "https://avatars.githubusercontent.com/u/816744?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/scriptwork",
+  "html_url": "https://github.com/scriptwork",
+  "followers_url": "https://api.github.com/users/scriptwork/followers",
+  "following_url": "https://api.github.com/users/scriptwork/following{/other_user}",
+  "gists_url": "https://api.github.com/users/scriptwork/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/scriptwork/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/scriptwork/subscriptions",
+  "organizations_url": "https://api.github.com/users/scriptwork/orgs",
+  "repos_url": "https://api.github.com/users/scriptwork/repos",
+  "events_url": "https://api.github.com/users/scriptwork/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/scriptwork/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

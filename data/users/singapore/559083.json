@@ -1,0 +1,20 @@
+{
+  "login": "favoritemedium",
+  "id": 559083,
+  "avatar_url": "https://avatars.githubusercontent.com/u/559083?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/favoritemedium",
+  "html_url": "https://github.com/favoritemedium",
+  "followers_url": "https://api.github.com/users/favoritemedium/followers",
+  "following_url": "https://api.github.com/users/favoritemedium/following{/other_user}",
+  "gists_url": "https://api.github.com/users/favoritemedium/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/favoritemedium/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/favoritemedium/subscriptions",
+  "organizations_url": "https://api.github.com/users/favoritemedium/orgs",
+  "repos_url": "https://api.github.com/users/favoritemedium/repos",
+  "events_url": "https://api.github.com/users/favoritemedium/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/favoritemedium/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

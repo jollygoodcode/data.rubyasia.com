@@ -1,0 +1,20 @@
+{
+  "login": "yoki",
+  "id": 159776,
+  "avatar_url": "https://avatars.githubusercontent.com/u/159776?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoki",
+  "html_url": "https://github.com/yoki",
+  "followers_url": "https://api.github.com/users/yoki/followers",
+  "following_url": "https://api.github.com/users/yoki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoki/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoki/orgs",
+  "repos_url": "https://api.github.com/users/yoki/repos",
+  "events_url": "https://api.github.com/users/yoki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

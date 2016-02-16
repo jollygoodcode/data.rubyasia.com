@@ -1,0 +1,20 @@
+{
+  "login": "shinokaro",
+  "id": 5183414,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5183414?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shinokaro",
+  "html_url": "https://github.com/shinokaro",
+  "followers_url": "https://api.github.com/users/shinokaro/followers",
+  "following_url": "https://api.github.com/users/shinokaro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shinokaro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shinokaro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shinokaro/subscriptions",
+  "organizations_url": "https://api.github.com/users/shinokaro/orgs",
+  "repos_url": "https://api.github.com/users/shinokaro/repos",
+  "events_url": "https://api.github.com/users/shinokaro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shinokaro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

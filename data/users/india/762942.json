@@ -1,0 +1,20 @@
+{
+  "login": "raghuk",
+  "id": 762942,
+  "avatar_url": "https://avatars.githubusercontent.com/u/762942?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raghuk",
+  "html_url": "https://github.com/raghuk",
+  "followers_url": "https://api.github.com/users/raghuk/followers",
+  "following_url": "https://api.github.com/users/raghuk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raghuk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raghuk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raghuk/subscriptions",
+  "organizations_url": "https://api.github.com/users/raghuk/orgs",
+  "repos_url": "https://api.github.com/users/raghuk/repos",
+  "events_url": "https://api.github.com/users/raghuk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raghuk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

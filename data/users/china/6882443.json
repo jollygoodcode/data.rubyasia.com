@@ -1,0 +1,20 @@
+{
+  "login": "superarm",
+  "id": 6882443,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6882443?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/superarm",
+  "html_url": "https://github.com/superarm",
+  "followers_url": "https://api.github.com/users/superarm/followers",
+  "following_url": "https://api.github.com/users/superarm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/superarm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/superarm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/superarm/subscriptions",
+  "organizations_url": "https://api.github.com/users/superarm/orgs",
+  "repos_url": "https://api.github.com/users/superarm/repos",
+  "events_url": "https://api.github.com/users/superarm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/superarm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

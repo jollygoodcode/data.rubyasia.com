@@ -1,0 +1,20 @@
+{
+  "login": "luikore",
+  "id": 94995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/94995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/luikore",
+  "html_url": "https://github.com/luikore",
+  "followers_url": "https://api.github.com/users/luikore/followers",
+  "following_url": "https://api.github.com/users/luikore/following{/other_user}",
+  "gists_url": "https://api.github.com/users/luikore/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/luikore/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/luikore/subscriptions",
+  "organizations_url": "https://api.github.com/users/luikore/orgs",
+  "repos_url": "https://api.github.com/users/luikore/repos",
+  "events_url": "https://api.github.com/users/luikore/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/luikore/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

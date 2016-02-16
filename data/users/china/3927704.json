@@ -1,0 +1,20 @@
+{
+  "login": "anyways",
+  "id": 3927704,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3927704?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anyways",
+  "html_url": "https://github.com/anyways",
+  "followers_url": "https://api.github.com/users/anyways/followers",
+  "following_url": "https://api.github.com/users/anyways/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anyways/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anyways/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anyways/subscriptions",
+  "organizations_url": "https://api.github.com/users/anyways/orgs",
+  "repos_url": "https://api.github.com/users/anyways/repos",
+  "events_url": "https://api.github.com/users/anyways/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anyways/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

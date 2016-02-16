@@ -1,0 +1,20 @@
+{
+  "login": "SlimYang",
+  "id": 537011,
+  "avatar_url": "https://avatars.githubusercontent.com/u/537011?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SlimYang",
+  "html_url": "https://github.com/SlimYang",
+  "followers_url": "https://api.github.com/users/SlimYang/followers",
+  "following_url": "https://api.github.com/users/SlimYang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SlimYang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SlimYang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SlimYang/subscriptions",
+  "organizations_url": "https://api.github.com/users/SlimYang/orgs",
+  "repos_url": "https://api.github.com/users/SlimYang/repos",
+  "events_url": "https://api.github.com/users/SlimYang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SlimYang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

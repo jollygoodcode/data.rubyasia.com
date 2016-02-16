@@ -1,0 +1,20 @@
+{
+  "login": "taivn07",
+  "id": 1506189,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1506189?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taivn07",
+  "html_url": "https://github.com/taivn07",
+  "followers_url": "https://api.github.com/users/taivn07/followers",
+  "following_url": "https://api.github.com/users/taivn07/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taivn07/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taivn07/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taivn07/subscriptions",
+  "organizations_url": "https://api.github.com/users/taivn07/orgs",
+  "repos_url": "https://api.github.com/users/taivn07/repos",
+  "events_url": "https://api.github.com/users/taivn07/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taivn07/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

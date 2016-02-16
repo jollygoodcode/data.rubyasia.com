@@ -1,0 +1,20 @@
+{
+  "login": "NaCl-Ltd",
+  "id": 5554607,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5554607?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NaCl-Ltd",
+  "html_url": "https://github.com/NaCl-Ltd",
+  "followers_url": "https://api.github.com/users/NaCl-Ltd/followers",
+  "following_url": "https://api.github.com/users/NaCl-Ltd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NaCl-Ltd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NaCl-Ltd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NaCl-Ltd/subscriptions",
+  "organizations_url": "https://api.github.com/users/NaCl-Ltd/orgs",
+  "repos_url": "https://api.github.com/users/NaCl-Ltd/repos",
+  "events_url": "https://api.github.com/users/NaCl-Ltd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NaCl-Ltd/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

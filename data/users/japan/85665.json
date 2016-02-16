@@ -1,0 +1,20 @@
+{
+  "login": "chocoby",
+  "id": 85665,
+  "avatar_url": "https://avatars.githubusercontent.com/u/85665?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chocoby",
+  "html_url": "https://github.com/chocoby",
+  "followers_url": "https://api.github.com/users/chocoby/followers",
+  "following_url": "https://api.github.com/users/chocoby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chocoby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chocoby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chocoby/subscriptions",
+  "organizations_url": "https://api.github.com/users/chocoby/orgs",
+  "repos_url": "https://api.github.com/users/chocoby/repos",
+  "events_url": "https://api.github.com/users/chocoby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chocoby/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

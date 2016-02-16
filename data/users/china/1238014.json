@@ -1,0 +1,20 @@
+{
+  "login": "laknock",
+  "id": 1238014,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1238014?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/laknock",
+  "html_url": "https://github.com/laknock",
+  "followers_url": "https://api.github.com/users/laknock/followers",
+  "following_url": "https://api.github.com/users/laknock/following{/other_user}",
+  "gists_url": "https://api.github.com/users/laknock/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/laknock/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/laknock/subscriptions",
+  "organizations_url": "https://api.github.com/users/laknock/orgs",
+  "repos_url": "https://api.github.com/users/laknock/repos",
+  "events_url": "https://api.github.com/users/laknock/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/laknock/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

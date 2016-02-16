@@ -1,0 +1,20 @@
+{
+  "login": "Encodous",
+  "id": 8491241,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8491241?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Encodous",
+  "html_url": "https://github.com/Encodous",
+  "followers_url": "https://api.github.com/users/Encodous/followers",
+  "following_url": "https://api.github.com/users/Encodous/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Encodous/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Encodous/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Encodous/subscriptions",
+  "organizations_url": "https://api.github.com/users/Encodous/orgs",
+  "repos_url": "https://api.github.com/users/Encodous/repos",
+  "events_url": "https://api.github.com/users/Encodous/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Encodous/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

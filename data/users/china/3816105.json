@@ -1,0 +1,20 @@
+{
+  "login": "geekplux",
+  "id": 3816105,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3816105?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/geekplux",
+  "html_url": "https://github.com/geekplux",
+  "followers_url": "https://api.github.com/users/geekplux/followers",
+  "following_url": "https://api.github.com/users/geekplux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/geekplux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/geekplux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/geekplux/subscriptions",
+  "organizations_url": "https://api.github.com/users/geekplux/orgs",
+  "repos_url": "https://api.github.com/users/geekplux/repos",
+  "events_url": "https://api.github.com/users/geekplux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/geekplux/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

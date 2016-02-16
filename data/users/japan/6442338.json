@@ -1,0 +1,20 @@
+{
+  "login": "shisokun",
+  "id": 6442338,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6442338?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shisokun",
+  "html_url": "https://github.com/shisokun",
+  "followers_url": "https://api.github.com/users/shisokun/followers",
+  "following_url": "https://api.github.com/users/shisokun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shisokun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shisokun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shisokun/subscriptions",
+  "organizations_url": "https://api.github.com/users/shisokun/orgs",
+  "repos_url": "https://api.github.com/users/shisokun/repos",
+  "events_url": "https://api.github.com/users/shisokun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shisokun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

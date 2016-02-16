@@ -1,0 +1,20 @@
+{
+  "login": "gustamora",
+  "id": 4763307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4763307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gustamora",
+  "html_url": "https://github.com/gustamora",
+  "followers_url": "https://api.github.com/users/gustamora/followers",
+  "following_url": "https://api.github.com/users/gustamora/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gustamora/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gustamora/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gustamora/subscriptions",
+  "organizations_url": "https://api.github.com/users/gustamora/orgs",
+  "repos_url": "https://api.github.com/users/gustamora/repos",
+  "events_url": "https://api.github.com/users/gustamora/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gustamora/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

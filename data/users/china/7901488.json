@@ -1,0 +1,20 @@
+{
+  "login": "kellonge",
+  "id": 7901488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7901488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kellonge",
+  "html_url": "https://github.com/kellonge",
+  "followers_url": "https://api.github.com/users/kellonge/followers",
+  "following_url": "https://api.github.com/users/kellonge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kellonge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kellonge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kellonge/subscriptions",
+  "organizations_url": "https://api.github.com/users/kellonge/orgs",
+  "repos_url": "https://api.github.com/users/kellonge/repos",
+  "events_url": "https://api.github.com/users/kellonge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kellonge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

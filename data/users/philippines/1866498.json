@@ -1,0 +1,20 @@
+{
+  "login": "melgomez",
+  "id": 1866498,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1866498?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/melgomez",
+  "html_url": "https://github.com/melgomez",
+  "followers_url": "https://api.github.com/users/melgomez/followers",
+  "following_url": "https://api.github.com/users/melgomez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/melgomez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/melgomez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/melgomez/subscriptions",
+  "organizations_url": "https://api.github.com/users/melgomez/orgs",
+  "repos_url": "https://api.github.com/users/melgomez/repos",
+  "events_url": "https://api.github.com/users/melgomez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/melgomez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

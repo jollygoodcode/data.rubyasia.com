@@ -1,0 +1,20 @@
+{
+  "login": "EAvatarTech",
+  "id": 5634434,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5634434?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/EAvatarTech",
+  "html_url": "https://github.com/EAvatarTech",
+  "followers_url": "https://api.github.com/users/EAvatarTech/followers",
+  "following_url": "https://api.github.com/users/EAvatarTech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/EAvatarTech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/EAvatarTech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/EAvatarTech/subscriptions",
+  "organizations_url": "https://api.github.com/users/EAvatarTech/orgs",
+  "repos_url": "https://api.github.com/users/EAvatarTech/repos",
+  "events_url": "https://api.github.com/users/EAvatarTech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/EAvatarTech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

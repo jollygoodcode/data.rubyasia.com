@@ -1,0 +1,20 @@
+{
+  "login": "kzgs",
+  "id": 71806,
+  "avatar_url": "https://avatars.githubusercontent.com/u/71806?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kzgs",
+  "html_url": "https://github.com/kzgs",
+  "followers_url": "https://api.github.com/users/kzgs/followers",
+  "following_url": "https://api.github.com/users/kzgs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kzgs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kzgs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kzgs/subscriptions",
+  "organizations_url": "https://api.github.com/users/kzgs/orgs",
+  "repos_url": "https://api.github.com/users/kzgs/repos",
+  "events_url": "https://api.github.com/users/kzgs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kzgs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "moulali",
+  "id": 170919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/170919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moulali",
+  "html_url": "https://github.com/moulali",
+  "followers_url": "https://api.github.com/users/moulali/followers",
+  "following_url": "https://api.github.com/users/moulali/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moulali/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moulali/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moulali/subscriptions",
+  "organizations_url": "https://api.github.com/users/moulali/orgs",
+  "repos_url": "https://api.github.com/users/moulali/repos",
+  "events_url": "https://api.github.com/users/moulali/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moulali/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

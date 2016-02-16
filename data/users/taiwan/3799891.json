@@ -1,0 +1,20 @@
+{
+  "login": "AnnaHo",
+  "id": 3799891,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3799891?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AnnaHo",
+  "html_url": "https://github.com/AnnaHo",
+  "followers_url": "https://api.github.com/users/AnnaHo/followers",
+  "following_url": "https://api.github.com/users/AnnaHo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AnnaHo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AnnaHo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AnnaHo/subscriptions",
+  "organizations_url": "https://api.github.com/users/AnnaHo/orgs",
+  "repos_url": "https://api.github.com/users/AnnaHo/repos",
+  "events_url": "https://api.github.com/users/AnnaHo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AnnaHo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

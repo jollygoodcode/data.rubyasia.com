@@ -1,0 +1,20 @@
+{
+  "login": "anuragtanwar",
+  "id": 1880079,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1880079?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anuragtanwar",
+  "html_url": "https://github.com/anuragtanwar",
+  "followers_url": "https://api.github.com/users/anuragtanwar/followers",
+  "following_url": "https://api.github.com/users/anuragtanwar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anuragtanwar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anuragtanwar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anuragtanwar/subscriptions",
+  "organizations_url": "https://api.github.com/users/anuragtanwar/orgs",
+  "repos_url": "https://api.github.com/users/anuragtanwar/repos",
+  "events_url": "https://api.github.com/users/anuragtanwar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anuragtanwar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

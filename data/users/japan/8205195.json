@@ -1,0 +1,20 @@
+{
+  "login": "W-I-Z",
+  "id": 8205195,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8205195?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/W-I-Z",
+  "html_url": "https://github.com/W-I-Z",
+  "followers_url": "https://api.github.com/users/W-I-Z/followers",
+  "following_url": "https://api.github.com/users/W-I-Z/following{/other_user}",
+  "gists_url": "https://api.github.com/users/W-I-Z/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/W-I-Z/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/W-I-Z/subscriptions",
+  "organizations_url": "https://api.github.com/users/W-I-Z/orgs",
+  "repos_url": "https://api.github.com/users/W-I-Z/repos",
+  "events_url": "https://api.github.com/users/W-I-Z/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/W-I-Z/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

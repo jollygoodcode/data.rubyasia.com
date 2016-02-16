@@ -1,0 +1,20 @@
+{
+  "login": "kingaxis",
+  "id": 951503,
+  "avatar_url": "https://avatars.githubusercontent.com/u/951503?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kingaxis",
+  "html_url": "https://github.com/kingaxis",
+  "followers_url": "https://api.github.com/users/kingaxis/followers",
+  "following_url": "https://api.github.com/users/kingaxis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kingaxis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kingaxis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kingaxis/subscriptions",
+  "organizations_url": "https://api.github.com/users/kingaxis/orgs",
+  "repos_url": "https://api.github.com/users/kingaxis/repos",
+  "events_url": "https://api.github.com/users/kingaxis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kingaxis/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

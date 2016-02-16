@@ -1,0 +1,20 @@
+{
+  "login": "aentan",
+  "id": 791368,
+  "avatar_url": "https://avatars.githubusercontent.com/u/791368?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aentan",
+  "html_url": "https://github.com/aentan",
+  "followers_url": "https://api.github.com/users/aentan/followers",
+  "following_url": "https://api.github.com/users/aentan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aentan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aentan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aentan/subscriptions",
+  "organizations_url": "https://api.github.com/users/aentan/orgs",
+  "repos_url": "https://api.github.com/users/aentan/repos",
+  "events_url": "https://api.github.com/users/aentan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aentan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

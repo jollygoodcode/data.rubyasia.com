@@ -1,0 +1,20 @@
+{
+  "login": "hallucinations",
+  "id": 68869,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68869?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hallucinations",
+  "html_url": "https://github.com/hallucinations",
+  "followers_url": "https://api.github.com/users/hallucinations/followers",
+  "following_url": "https://api.github.com/users/hallucinations/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hallucinations/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hallucinations/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hallucinations/subscriptions",
+  "organizations_url": "https://api.github.com/users/hallucinations/orgs",
+  "repos_url": "https://api.github.com/users/hallucinations/repos",
+  "events_url": "https://api.github.com/users/hallucinations/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hallucinations/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

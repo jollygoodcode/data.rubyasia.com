@@ -1,0 +1,20 @@
+{
+  "login": "yoyeung",
+  "id": 451538,
+  "avatar_url": "https://avatars.githubusercontent.com/u/451538?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoyeung",
+  "html_url": "https://github.com/yoyeung",
+  "followers_url": "https://api.github.com/users/yoyeung/followers",
+  "following_url": "https://api.github.com/users/yoyeung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoyeung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoyeung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoyeung/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoyeung/orgs",
+  "repos_url": "https://api.github.com/users/yoyeung/repos",
+  "events_url": "https://api.github.com/users/yoyeung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoyeung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

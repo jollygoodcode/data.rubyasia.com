@@ -1,0 +1,20 @@
+{
+  "login": "murderbug",
+  "id": 5163345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5163345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/murderbug",
+  "html_url": "https://github.com/murderbug",
+  "followers_url": "https://api.github.com/users/murderbug/followers",
+  "following_url": "https://api.github.com/users/murderbug/following{/other_user}",
+  "gists_url": "https://api.github.com/users/murderbug/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/murderbug/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/murderbug/subscriptions",
+  "organizations_url": "https://api.github.com/users/murderbug/orgs",
+  "repos_url": "https://api.github.com/users/murderbug/repos",
+  "events_url": "https://api.github.com/users/murderbug/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/murderbug/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

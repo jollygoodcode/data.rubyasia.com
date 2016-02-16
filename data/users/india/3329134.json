@@ -1,0 +1,20 @@
+{
+  "login": "TechieDev",
+  "id": 3329134,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3329134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TechieDev",
+  "html_url": "https://github.com/TechieDev",
+  "followers_url": "https://api.github.com/users/TechieDev/followers",
+  "following_url": "https://api.github.com/users/TechieDev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TechieDev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TechieDev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TechieDev/subscriptions",
+  "organizations_url": "https://api.github.com/users/TechieDev/orgs",
+  "repos_url": "https://api.github.com/users/TechieDev/repos",
+  "events_url": "https://api.github.com/users/TechieDev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TechieDev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

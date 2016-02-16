@@ -1,0 +1,20 @@
+{
+  "login": "nkpoid",
+  "id": 7278829,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7278829?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nkpoid",
+  "html_url": "https://github.com/nkpoid",
+  "followers_url": "https://api.github.com/users/nkpoid/followers",
+  "following_url": "https://api.github.com/users/nkpoid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nkpoid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nkpoid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nkpoid/subscriptions",
+  "organizations_url": "https://api.github.com/users/nkpoid/orgs",
+  "repos_url": "https://api.github.com/users/nkpoid/repos",
+  "events_url": "https://api.github.com/users/nkpoid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nkpoid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

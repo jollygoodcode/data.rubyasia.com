@@ -1,0 +1,20 @@
+{
+  "login": "pidofme",
+  "id": 1329392,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1329392?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pidofme",
+  "html_url": "https://github.com/pidofme",
+  "followers_url": "https://api.github.com/users/pidofme/followers",
+  "following_url": "https://api.github.com/users/pidofme/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pidofme/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pidofme/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pidofme/subscriptions",
+  "organizations_url": "https://api.github.com/users/pidofme/orgs",
+  "repos_url": "https://api.github.com/users/pidofme/repos",
+  "events_url": "https://api.github.com/users/pidofme/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pidofme/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

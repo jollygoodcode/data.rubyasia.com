@@ -1,0 +1,20 @@
+{
+  "login": "t-yamo",
+  "id": 2154705,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2154705?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/t-yamo",
+  "html_url": "https://github.com/t-yamo",
+  "followers_url": "https://api.github.com/users/t-yamo/followers",
+  "following_url": "https://api.github.com/users/t-yamo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/t-yamo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/t-yamo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/t-yamo/subscriptions",
+  "organizations_url": "https://api.github.com/users/t-yamo/orgs",
+  "repos_url": "https://api.github.com/users/t-yamo/repos",
+  "events_url": "https://api.github.com/users/t-yamo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/t-yamo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

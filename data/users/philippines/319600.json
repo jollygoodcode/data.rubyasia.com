@@ -1,0 +1,20 @@
+{
+  "login": "proudcloud",
+  "id": 319600,
+  "avatar_url": "https://avatars.githubusercontent.com/u/319600?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/proudcloud",
+  "html_url": "https://github.com/proudcloud",
+  "followers_url": "https://api.github.com/users/proudcloud/followers",
+  "following_url": "https://api.github.com/users/proudcloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/proudcloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/proudcloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/proudcloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/proudcloud/orgs",
+  "repos_url": "https://api.github.com/users/proudcloud/repos",
+  "events_url": "https://api.github.com/users/proudcloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/proudcloud/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "msears",
+  "id": 329249,
+  "avatar_url": "https://avatars.githubusercontent.com/u/329249?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/msears",
+  "html_url": "https://github.com/msears",
+  "followers_url": "https://api.github.com/users/msears/followers",
+  "following_url": "https://api.github.com/users/msears/following{/other_user}",
+  "gists_url": "https://api.github.com/users/msears/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/msears/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/msears/subscriptions",
+  "organizations_url": "https://api.github.com/users/msears/orgs",
+  "repos_url": "https://api.github.com/users/msears/repos",
+  "events_url": "https://api.github.com/users/msears/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/msears/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

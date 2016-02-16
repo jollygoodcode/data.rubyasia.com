@@ -1,0 +1,20 @@
+{
+  "login": "fratellomio",
+  "id": 6015405,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6015405?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fratellomio",
+  "html_url": "https://github.com/fratellomio",
+  "followers_url": "https://api.github.com/users/fratellomio/followers",
+  "following_url": "https://api.github.com/users/fratellomio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fratellomio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fratellomio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fratellomio/subscriptions",
+  "organizations_url": "https://api.github.com/users/fratellomio/orgs",
+  "repos_url": "https://api.github.com/users/fratellomio/repos",
+  "events_url": "https://api.github.com/users/fratellomio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fratellomio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

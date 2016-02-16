@@ -1,0 +1,20 @@
+{
+  "login": "jonog",
+  "id": 1314353,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1314353?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jonog",
+  "html_url": "https://github.com/jonog",
+  "followers_url": "https://api.github.com/users/jonog/followers",
+  "following_url": "https://api.github.com/users/jonog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jonog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jonog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jonog/subscriptions",
+  "organizations_url": "https://api.github.com/users/jonog/orgs",
+  "repos_url": "https://api.github.com/users/jonog/repos",
+  "events_url": "https://api.github.com/users/jonog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jonog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

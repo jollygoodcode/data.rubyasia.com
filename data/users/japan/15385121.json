@@ -1,0 +1,20 @@
+{
+  "login": "chefscript",
+  "id": 15385121,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15385121?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chefscript",
+  "html_url": "https://github.com/chefscript",
+  "followers_url": "https://api.github.com/users/chefscript/followers",
+  "following_url": "https://api.github.com/users/chefscript/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chefscript/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chefscript/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chefscript/subscriptions",
+  "organizations_url": "https://api.github.com/users/chefscript/orgs",
+  "repos_url": "https://api.github.com/users/chefscript/repos",
+  "events_url": "https://api.github.com/users/chefscript/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chefscript/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

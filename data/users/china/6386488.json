@@ -1,0 +1,20 @@
+{
+  "login": "blooddrunk",
+  "id": 6386488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6386488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/blooddrunk",
+  "html_url": "https://github.com/blooddrunk",
+  "followers_url": "https://api.github.com/users/blooddrunk/followers",
+  "following_url": "https://api.github.com/users/blooddrunk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/blooddrunk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/blooddrunk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/blooddrunk/subscriptions",
+  "organizations_url": "https://api.github.com/users/blooddrunk/orgs",
+  "repos_url": "https://api.github.com/users/blooddrunk/repos",
+  "events_url": "https://api.github.com/users/blooddrunk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/blooddrunk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "alicehsu",
+  "id": 6399668,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6399668?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alicehsu",
+  "html_url": "https://github.com/alicehsu",
+  "followers_url": "https://api.github.com/users/alicehsu/followers",
+  "following_url": "https://api.github.com/users/alicehsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alicehsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alicehsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alicehsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/alicehsu/orgs",
+  "repos_url": "https://api.github.com/users/alicehsu/repos",
+  "events_url": "https://api.github.com/users/alicehsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alicehsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

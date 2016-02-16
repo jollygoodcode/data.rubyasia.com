@@ -1,0 +1,20 @@
+{
+  "login": "danielfeng",
+  "id": 142465,
+  "avatar_url": "https://avatars.githubusercontent.com/u/142465?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/danielfeng",
+  "html_url": "https://github.com/danielfeng",
+  "followers_url": "https://api.github.com/users/danielfeng/followers",
+  "following_url": "https://api.github.com/users/danielfeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/danielfeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/danielfeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/danielfeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/danielfeng/orgs",
+  "repos_url": "https://api.github.com/users/danielfeng/repos",
+  "events_url": "https://api.github.com/users/danielfeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/danielfeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

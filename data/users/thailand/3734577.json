@@ -1,0 +1,20 @@
+{
+  "login": "nengoz",
+  "id": 3734577,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3734577?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nengoz",
+  "html_url": "https://github.com/nengoz",
+  "followers_url": "https://api.github.com/users/nengoz/followers",
+  "following_url": "https://api.github.com/users/nengoz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nengoz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nengoz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nengoz/subscriptions",
+  "organizations_url": "https://api.github.com/users/nengoz/orgs",
+  "repos_url": "https://api.github.com/users/nengoz/repos",
+  "events_url": "https://api.github.com/users/nengoz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nengoz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "smallstyle",
+  "id": 564066,
+  "avatar_url": "https://avatars.githubusercontent.com/u/564066?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smallstyle",
+  "html_url": "https://github.com/smallstyle",
+  "followers_url": "https://api.github.com/users/smallstyle/followers",
+  "following_url": "https://api.github.com/users/smallstyle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smallstyle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smallstyle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smallstyle/subscriptions",
+  "organizations_url": "https://api.github.com/users/smallstyle/orgs",
+  "repos_url": "https://api.github.com/users/smallstyle/repos",
+  "events_url": "https://api.github.com/users/smallstyle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smallstyle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

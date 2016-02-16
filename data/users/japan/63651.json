@@ -1,0 +1,20 @@
+{
+  "login": "yyuu",
+  "id": 63651,
+  "avatar_url": "https://avatars.githubusercontent.com/u/63651?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yyuu",
+  "html_url": "https://github.com/yyuu",
+  "followers_url": "https://api.github.com/users/yyuu/followers",
+  "following_url": "https://api.github.com/users/yyuu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yyuu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yyuu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yyuu/subscriptions",
+  "organizations_url": "https://api.github.com/users/yyuu/orgs",
+  "repos_url": "https://api.github.com/users/yyuu/repos",
+  "events_url": "https://api.github.com/users/yyuu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yyuu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

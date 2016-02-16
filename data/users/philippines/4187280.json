@@ -1,0 +1,20 @@
+{
+  "login": "philipnery",
+  "id": 4187280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4187280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/philipnery",
+  "html_url": "https://github.com/philipnery",
+  "followers_url": "https://api.github.com/users/philipnery/followers",
+  "following_url": "https://api.github.com/users/philipnery/following{/other_user}",
+  "gists_url": "https://api.github.com/users/philipnery/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/philipnery/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/philipnery/subscriptions",
+  "organizations_url": "https://api.github.com/users/philipnery/orgs",
+  "repos_url": "https://api.github.com/users/philipnery/repos",
+  "events_url": "https://api.github.com/users/philipnery/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/philipnery/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

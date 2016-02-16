@@ -1,0 +1,20 @@
+{
+  "login": "ayie-media",
+  "id": 10253898,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10253898?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayie-media",
+  "html_url": "https://github.com/ayie-media",
+  "followers_url": "https://api.github.com/users/ayie-media/followers",
+  "following_url": "https://api.github.com/users/ayie-media/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayie-media/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayie-media/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayie-media/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayie-media/orgs",
+  "repos_url": "https://api.github.com/users/ayie-media/repos",
+  "events_url": "https://api.github.com/users/ayie-media/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayie-media/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

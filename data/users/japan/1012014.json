@@ -1,0 +1,20 @@
+{
+  "login": "okuramasafumi",
+  "id": 1012014,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1012014?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okuramasafumi",
+  "html_url": "https://github.com/okuramasafumi",
+  "followers_url": "https://api.github.com/users/okuramasafumi/followers",
+  "following_url": "https://api.github.com/users/okuramasafumi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okuramasafumi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okuramasafumi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okuramasafumi/subscriptions",
+  "organizations_url": "https://api.github.com/users/okuramasafumi/orgs",
+  "repos_url": "https://api.github.com/users/okuramasafumi/repos",
+  "events_url": "https://api.github.com/users/okuramasafumi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okuramasafumi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

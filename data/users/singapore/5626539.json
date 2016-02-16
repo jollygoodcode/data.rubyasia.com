@@ -1,0 +1,20 @@
+{
+  "login": "DumboCL",
+  "id": 5626539,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5626539?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DumboCL",
+  "html_url": "https://github.com/DumboCL",
+  "followers_url": "https://api.github.com/users/DumboCL/followers",
+  "following_url": "https://api.github.com/users/DumboCL/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DumboCL/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DumboCL/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DumboCL/subscriptions",
+  "organizations_url": "https://api.github.com/users/DumboCL/orgs",
+  "repos_url": "https://api.github.com/users/DumboCL/repos",
+  "events_url": "https://api.github.com/users/DumboCL/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DumboCL/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

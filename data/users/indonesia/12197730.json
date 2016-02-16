@@ -1,0 +1,20 @@
+{
+  "login": "virpion",
+  "id": 12197730,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12197730?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/virpion",
+  "html_url": "https://github.com/virpion",
+  "followers_url": "https://api.github.com/users/virpion/followers",
+  "following_url": "https://api.github.com/users/virpion/following{/other_user}",
+  "gists_url": "https://api.github.com/users/virpion/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/virpion/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/virpion/subscriptions",
+  "organizations_url": "https://api.github.com/users/virpion/orgs",
+  "repos_url": "https://api.github.com/users/virpion/repos",
+  "events_url": "https://api.github.com/users/virpion/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/virpion/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

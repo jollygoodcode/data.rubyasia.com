@@ -1,0 +1,20 @@
+{
+  "login": "kokemusaz",
+  "id": 2369400,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2369400?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kokemusaz",
+  "html_url": "https://github.com/kokemusaz",
+  "followers_url": "https://api.github.com/users/kokemusaz/followers",
+  "following_url": "https://api.github.com/users/kokemusaz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kokemusaz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kokemusaz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kokemusaz/subscriptions",
+  "organizations_url": "https://api.github.com/users/kokemusaz/orgs",
+  "repos_url": "https://api.github.com/users/kokemusaz/repos",
+  "events_url": "https://api.github.com/users/kokemusaz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kokemusaz/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

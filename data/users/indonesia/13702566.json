@@ -1,0 +1,20 @@
+{
+  "login": "ences",
+  "id": 13702566,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13702566?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ences",
+  "html_url": "https://github.com/ences",
+  "followers_url": "https://api.github.com/users/ences/followers",
+  "following_url": "https://api.github.com/users/ences/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ences/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ences/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ences/subscriptions",
+  "organizations_url": "https://api.github.com/users/ences/orgs",
+  "repos_url": "https://api.github.com/users/ences/repos",
+  "events_url": "https://api.github.com/users/ences/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ences/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

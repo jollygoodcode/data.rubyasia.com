@@ -1,0 +1,20 @@
+{
+  "login": "JasonWyse",
+  "id": 1941055,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1941055?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JasonWyse",
+  "html_url": "https://github.com/JasonWyse",
+  "followers_url": "https://api.github.com/users/JasonWyse/followers",
+  "following_url": "https://api.github.com/users/JasonWyse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JasonWyse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JasonWyse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JasonWyse/subscriptions",
+  "organizations_url": "https://api.github.com/users/JasonWyse/orgs",
+  "repos_url": "https://api.github.com/users/JasonWyse/repos",
+  "events_url": "https://api.github.com/users/JasonWyse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JasonWyse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bati11",
+  "id": 1365564,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1365564?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bati11",
+  "html_url": "https://github.com/bati11",
+  "followers_url": "https://api.github.com/users/bati11/followers",
+  "following_url": "https://api.github.com/users/bati11/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bati11/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bati11/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bati11/subscriptions",
+  "organizations_url": "https://api.github.com/users/bati11/orgs",
+  "repos_url": "https://api.github.com/users/bati11/repos",
+  "events_url": "https://api.github.com/users/bati11/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bati11/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yorocobi",
+  "id": 4485598,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4485598?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yorocobi",
+  "html_url": "https://github.com/yorocobi",
+  "followers_url": "https://api.github.com/users/yorocobi/followers",
+  "following_url": "https://api.github.com/users/yorocobi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yorocobi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yorocobi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yorocobi/subscriptions",
+  "organizations_url": "https://api.github.com/users/yorocobi/orgs",
+  "repos_url": "https://api.github.com/users/yorocobi/repos",
+  "events_url": "https://api.github.com/users/yorocobi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yorocobi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

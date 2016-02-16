@@ -1,0 +1,20 @@
+{
+  "login": "emojidex",
+  "id": 7530646,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7530646?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emojidex",
+  "html_url": "https://github.com/emojidex",
+  "followers_url": "https://api.github.com/users/emojidex/followers",
+  "following_url": "https://api.github.com/users/emojidex/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emojidex/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emojidex/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emojidex/subscriptions",
+  "organizations_url": "https://api.github.com/users/emojidex/orgs",
+  "repos_url": "https://api.github.com/users/emojidex/repos",
+  "events_url": "https://api.github.com/users/emojidex/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emojidex/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

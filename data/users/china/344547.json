@@ -1,0 +1,20 @@
+{
+  "login": "nantas",
+  "id": 344547,
+  "avatar_url": "https://avatars.githubusercontent.com/u/344547?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nantas",
+  "html_url": "https://github.com/nantas",
+  "followers_url": "https://api.github.com/users/nantas/followers",
+  "following_url": "https://api.github.com/users/nantas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nantas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nantas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nantas/subscriptions",
+  "organizations_url": "https://api.github.com/users/nantas/orgs",
+  "repos_url": "https://api.github.com/users/nantas/repos",
+  "events_url": "https://api.github.com/users/nantas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nantas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gazay",
+  "id": 29658,
+  "avatar_url": "https://avatars.githubusercontent.com/u/29658?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gazay",
+  "html_url": "https://github.com/gazay",
+  "followers_url": "https://api.github.com/users/gazay/followers",
+  "following_url": "https://api.github.com/users/gazay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gazay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gazay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gazay/subscriptions",
+  "organizations_url": "https://api.github.com/users/gazay/orgs",
+  "repos_url": "https://api.github.com/users/gazay/repos",
+  "events_url": "https://api.github.com/users/gazay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gazay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

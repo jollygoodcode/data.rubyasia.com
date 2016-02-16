@@ -1,0 +1,20 @@
+{
+  "login": "qyin",
+  "id": 1741623,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1741623?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qyin",
+  "html_url": "https://github.com/qyin",
+  "followers_url": "https://api.github.com/users/qyin/followers",
+  "following_url": "https://api.github.com/users/qyin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qyin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qyin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qyin/subscriptions",
+  "organizations_url": "https://api.github.com/users/qyin/orgs",
+  "repos_url": "https://api.github.com/users/qyin/repos",
+  "events_url": "https://api.github.com/users/qyin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qyin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bearwithclaws",
+  "id": 130698,
+  "avatar_url": "https://avatars.githubusercontent.com/u/130698?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bearwithclaws",
+  "html_url": "https://github.com/bearwithclaws",
+  "followers_url": "https://api.github.com/users/bearwithclaws/followers",
+  "following_url": "https://api.github.com/users/bearwithclaws/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bearwithclaws/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bearwithclaws/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bearwithclaws/subscriptions",
+  "organizations_url": "https://api.github.com/users/bearwithclaws/orgs",
+  "repos_url": "https://api.github.com/users/bearwithclaws/repos",
+  "events_url": "https://api.github.com/users/bearwithclaws/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bearwithclaws/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

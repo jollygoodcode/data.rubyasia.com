@@ -1,0 +1,20 @@
+{
+  "login": "machiroi",
+  "id": 3827220,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3827220?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/machiroi",
+  "html_url": "https://github.com/machiroi",
+  "followers_url": "https://api.github.com/users/machiroi/followers",
+  "following_url": "https://api.github.com/users/machiroi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/machiroi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/machiroi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/machiroi/subscriptions",
+  "organizations_url": "https://api.github.com/users/machiroi/orgs",
+  "repos_url": "https://api.github.com/users/machiroi/repos",
+  "events_url": "https://api.github.com/users/machiroi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/machiroi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

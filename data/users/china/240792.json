@@ -1,0 +1,20 @@
+{
+  "login": "Macrow",
+  "id": 240792,
+  "avatar_url": "https://avatars.githubusercontent.com/u/240792?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Macrow",
+  "html_url": "https://github.com/Macrow",
+  "followers_url": "https://api.github.com/users/Macrow/followers",
+  "following_url": "https://api.github.com/users/Macrow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Macrow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Macrow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Macrow/subscriptions",
+  "organizations_url": "https://api.github.com/users/Macrow/orgs",
+  "repos_url": "https://api.github.com/users/Macrow/repos",
+  "events_url": "https://api.github.com/users/Macrow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Macrow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

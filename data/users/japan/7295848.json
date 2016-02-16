@@ -1,0 +1,20 @@
+{
+  "login": "kyafuso",
+  "id": 7295848,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7295848?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kyafuso",
+  "html_url": "https://github.com/kyafuso",
+  "followers_url": "https://api.github.com/users/kyafuso/followers",
+  "following_url": "https://api.github.com/users/kyafuso/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kyafuso/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kyafuso/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kyafuso/subscriptions",
+  "organizations_url": "https://api.github.com/users/kyafuso/orgs",
+  "repos_url": "https://api.github.com/users/kyafuso/repos",
+  "events_url": "https://api.github.com/users/kyafuso/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kyafuso/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

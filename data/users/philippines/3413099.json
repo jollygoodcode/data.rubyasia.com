@@ -1,0 +1,20 @@
+{
+  "login": "sarahempeno",
+  "id": 3413099,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3413099?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sarahempeno",
+  "html_url": "https://github.com/sarahempeno",
+  "followers_url": "https://api.github.com/users/sarahempeno/followers",
+  "following_url": "https://api.github.com/users/sarahempeno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sarahempeno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sarahempeno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sarahempeno/subscriptions",
+  "organizations_url": "https://api.github.com/users/sarahempeno/orgs",
+  "repos_url": "https://api.github.com/users/sarahempeno/repos",
+  "events_url": "https://api.github.com/users/sarahempeno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sarahempeno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

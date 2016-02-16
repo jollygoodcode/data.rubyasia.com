@@ -1,0 +1,20 @@
+{
+  "login": "ariarijp",
+  "id": 635649,
+  "avatar_url": "https://avatars.githubusercontent.com/u/635649?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ariarijp",
+  "html_url": "https://github.com/ariarijp",
+  "followers_url": "https://api.github.com/users/ariarijp/followers",
+  "following_url": "https://api.github.com/users/ariarijp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ariarijp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ariarijp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ariarijp/subscriptions",
+  "organizations_url": "https://api.github.com/users/ariarijp/orgs",
+  "repos_url": "https://api.github.com/users/ariarijp/repos",
+  "events_url": "https://api.github.com/users/ariarijp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ariarijp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

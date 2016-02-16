@@ -1,0 +1,20 @@
+{
+  "login": "poshboytl",
+  "id": 5960,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5960?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/poshboytl",
+  "html_url": "https://github.com/poshboytl",
+  "followers_url": "https://api.github.com/users/poshboytl/followers",
+  "following_url": "https://api.github.com/users/poshboytl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/poshboytl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/poshboytl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/poshboytl/subscriptions",
+  "organizations_url": "https://api.github.com/users/poshboytl/orgs",
+  "repos_url": "https://api.github.com/users/poshboytl/repos",
+  "events_url": "https://api.github.com/users/poshboytl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/poshboytl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

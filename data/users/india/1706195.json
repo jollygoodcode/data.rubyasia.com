@@ -1,0 +1,20 @@
+{
+  "login": "shadow-fox",
+  "id": 1706195,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1706195?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shadow-fox",
+  "html_url": "https://github.com/shadow-fox",
+  "followers_url": "https://api.github.com/users/shadow-fox/followers",
+  "following_url": "https://api.github.com/users/shadow-fox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shadow-fox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shadow-fox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shadow-fox/subscriptions",
+  "organizations_url": "https://api.github.com/users/shadow-fox/orgs",
+  "repos_url": "https://api.github.com/users/shadow-fox/repos",
+  "events_url": "https://api.github.com/users/shadow-fox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shadow-fox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

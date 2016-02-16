@@ -1,0 +1,20 @@
+{
+  "login": "kakahu",
+  "id": 5676538,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5676538?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kakahu",
+  "html_url": "https://github.com/kakahu",
+  "followers_url": "https://api.github.com/users/kakahu/followers",
+  "following_url": "https://api.github.com/users/kakahu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kakahu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kakahu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kakahu/subscriptions",
+  "organizations_url": "https://api.github.com/users/kakahu/orgs",
+  "repos_url": "https://api.github.com/users/kakahu/repos",
+  "events_url": "https://api.github.com/users/kakahu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kakahu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

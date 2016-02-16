@@ -1,0 +1,20 @@
+{
+  "login": "mediweb",
+  "id": 526680,
+  "avatar_url": "https://avatars.githubusercontent.com/u/526680?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mediweb",
+  "html_url": "https://github.com/mediweb",
+  "followers_url": "https://api.github.com/users/mediweb/followers",
+  "following_url": "https://api.github.com/users/mediweb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mediweb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mediweb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mediweb/subscriptions",
+  "organizations_url": "https://api.github.com/users/mediweb/orgs",
+  "repos_url": "https://api.github.com/users/mediweb/repos",
+  "events_url": "https://api.github.com/users/mediweb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mediweb/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

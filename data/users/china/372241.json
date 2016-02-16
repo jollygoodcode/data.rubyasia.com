@@ -1,0 +1,20 @@
+{
+  "login": "jeanzhang",
+  "id": 372241,
+  "avatar_url": "https://avatars.githubusercontent.com/u/372241?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeanzhang",
+  "html_url": "https://github.com/jeanzhang",
+  "followers_url": "https://api.github.com/users/jeanzhang/followers",
+  "following_url": "https://api.github.com/users/jeanzhang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeanzhang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeanzhang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeanzhang/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeanzhang/orgs",
+  "repos_url": "https://api.github.com/users/jeanzhang/repos",
+  "events_url": "https://api.github.com/users/jeanzhang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeanzhang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

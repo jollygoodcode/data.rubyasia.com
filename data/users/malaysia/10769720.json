@@ -1,0 +1,20 @@
+{
+  "login": "ezeratech",
+  "id": 10769720,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10769720?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ezeratech",
+  "html_url": "https://github.com/ezeratech",
+  "followers_url": "https://api.github.com/users/ezeratech/followers",
+  "following_url": "https://api.github.com/users/ezeratech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ezeratech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ezeratech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ezeratech/subscriptions",
+  "organizations_url": "https://api.github.com/users/ezeratech/orgs",
+  "repos_url": "https://api.github.com/users/ezeratech/repos",
+  "events_url": "https://api.github.com/users/ezeratech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ezeratech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

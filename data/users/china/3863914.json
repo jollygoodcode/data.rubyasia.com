@@ -1,0 +1,20 @@
+{
+  "login": "yoution",
+  "id": 3863914,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3863914?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoution",
+  "html_url": "https://github.com/yoution",
+  "followers_url": "https://api.github.com/users/yoution/followers",
+  "following_url": "https://api.github.com/users/yoution/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoution/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoution/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoution/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoution/orgs",
+  "repos_url": "https://api.github.com/users/yoution/repos",
+  "events_url": "https://api.github.com/users/yoution/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoution/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

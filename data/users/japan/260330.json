@@ -1,0 +1,20 @@
+{
+  "login": "meatball55",
+  "id": 260330,
+  "avatar_url": "https://avatars.githubusercontent.com/u/260330?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/meatball55",
+  "html_url": "https://github.com/meatball55",
+  "followers_url": "https://api.github.com/users/meatball55/followers",
+  "following_url": "https://api.github.com/users/meatball55/following{/other_user}",
+  "gists_url": "https://api.github.com/users/meatball55/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/meatball55/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/meatball55/subscriptions",
+  "organizations_url": "https://api.github.com/users/meatball55/orgs",
+  "repos_url": "https://api.github.com/users/meatball55/repos",
+  "events_url": "https://api.github.com/users/meatball55/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/meatball55/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

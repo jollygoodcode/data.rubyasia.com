@@ -1,0 +1,20 @@
+{
+  "login": "windy",
+  "id": 291258,
+  "avatar_url": "https://avatars.githubusercontent.com/u/291258?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/windy",
+  "html_url": "https://github.com/windy",
+  "followers_url": "https://api.github.com/users/windy/followers",
+  "following_url": "https://api.github.com/users/windy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/windy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/windy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/windy/subscriptions",
+  "organizations_url": "https://api.github.com/users/windy/orgs",
+  "repos_url": "https://api.github.com/users/windy/repos",
+  "events_url": "https://api.github.com/users/windy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/windy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

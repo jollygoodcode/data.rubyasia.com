@@ -1,0 +1,20 @@
+{
+  "login": "wxxsw",
+  "id": 921863,
+  "avatar_url": "https://avatars.githubusercontent.com/u/921863?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wxxsw",
+  "html_url": "https://github.com/wxxsw",
+  "followers_url": "https://api.github.com/users/wxxsw/followers",
+  "following_url": "https://api.github.com/users/wxxsw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wxxsw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wxxsw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wxxsw/subscriptions",
+  "organizations_url": "https://api.github.com/users/wxxsw/orgs",
+  "repos_url": "https://api.github.com/users/wxxsw/repos",
+  "events_url": "https://api.github.com/users/wxxsw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wxxsw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

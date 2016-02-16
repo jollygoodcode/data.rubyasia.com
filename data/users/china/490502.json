@@ -1,0 +1,20 @@
+{
+  "login": "raykin",
+  "id": 490502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/490502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raykin",
+  "html_url": "https://github.com/raykin",
+  "followers_url": "https://api.github.com/users/raykin/followers",
+  "following_url": "https://api.github.com/users/raykin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raykin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raykin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raykin/subscriptions",
+  "organizations_url": "https://api.github.com/users/raykin/orgs",
+  "repos_url": "https://api.github.com/users/raykin/repos",
+  "events_url": "https://api.github.com/users/raykin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raykin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

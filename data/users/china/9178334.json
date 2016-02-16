@@ -1,0 +1,20 @@
+{
+  "login": "drunkevil",
+  "id": 9178334,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9178334?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/drunkevil",
+  "html_url": "https://github.com/drunkevil",
+  "followers_url": "https://api.github.com/users/drunkevil/followers",
+  "following_url": "https://api.github.com/users/drunkevil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/drunkevil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/drunkevil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/drunkevil/subscriptions",
+  "organizations_url": "https://api.github.com/users/drunkevil/orgs",
+  "repos_url": "https://api.github.com/users/drunkevil/repos",
+  "events_url": "https://api.github.com/users/drunkevil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/drunkevil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

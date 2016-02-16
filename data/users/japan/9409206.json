@@ -1,0 +1,20 @@
+{
+  "login": "tayoneda",
+  "id": 9409206,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9409206?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tayoneda",
+  "html_url": "https://github.com/tayoneda",
+  "followers_url": "https://api.github.com/users/tayoneda/followers",
+  "following_url": "https://api.github.com/users/tayoneda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tayoneda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tayoneda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tayoneda/subscriptions",
+  "organizations_url": "https://api.github.com/users/tayoneda/orgs",
+  "repos_url": "https://api.github.com/users/tayoneda/repos",
+  "events_url": "https://api.github.com/users/tayoneda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tayoneda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "windhorn",
+  "id": 440197,
+  "avatar_url": "https://avatars.githubusercontent.com/u/440197?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/windhorn",
+  "html_url": "https://github.com/windhorn",
+  "followers_url": "https://api.github.com/users/windhorn/followers",
+  "following_url": "https://api.github.com/users/windhorn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/windhorn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/windhorn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/windhorn/subscriptions",
+  "organizations_url": "https://api.github.com/users/windhorn/orgs",
+  "repos_url": "https://api.github.com/users/windhorn/repos",
+  "events_url": "https://api.github.com/users/windhorn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/windhorn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gavinhughes",
+  "id": 10154,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10154?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gavinhughes",
+  "html_url": "https://github.com/gavinhughes",
+  "followers_url": "https://api.github.com/users/gavinhughes/followers",
+  "following_url": "https://api.github.com/users/gavinhughes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gavinhughes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gavinhughes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gavinhughes/subscriptions",
+  "organizations_url": "https://api.github.com/users/gavinhughes/orgs",
+  "repos_url": "https://api.github.com/users/gavinhughes/repos",
+  "events_url": "https://api.github.com/users/gavinhughes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gavinhughes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

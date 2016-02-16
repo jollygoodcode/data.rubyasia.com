@@ -1,0 +1,20 @@
+{
+  "login": "ennkeypee",
+  "id": 8080691,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8080691?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ennkeypee",
+  "html_url": "https://github.com/ennkeypee",
+  "followers_url": "https://api.github.com/users/ennkeypee/followers",
+  "following_url": "https://api.github.com/users/ennkeypee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ennkeypee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ennkeypee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ennkeypee/subscriptions",
+  "organizations_url": "https://api.github.com/users/ennkeypee/orgs",
+  "repos_url": "https://api.github.com/users/ennkeypee/repos",
+  "events_url": "https://api.github.com/users/ennkeypee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ennkeypee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

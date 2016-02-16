@@ -1,0 +1,20 @@
+{
+  "login": "iamademar",
+  "id": 237025,
+  "avatar_url": "https://avatars.githubusercontent.com/u/237025?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iamademar",
+  "html_url": "https://github.com/iamademar",
+  "followers_url": "https://api.github.com/users/iamademar/followers",
+  "following_url": "https://api.github.com/users/iamademar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iamademar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iamademar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iamademar/subscriptions",
+  "organizations_url": "https://api.github.com/users/iamademar/orgs",
+  "repos_url": "https://api.github.com/users/iamademar/repos",
+  "events_url": "https://api.github.com/users/iamademar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iamademar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

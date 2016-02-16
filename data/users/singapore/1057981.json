@@ -1,0 +1,20 @@
+{
+  "login": "jefflam",
+  "id": 1057981,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1057981?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jefflam",
+  "html_url": "https://github.com/jefflam",
+  "followers_url": "https://api.github.com/users/jefflam/followers",
+  "following_url": "https://api.github.com/users/jefflam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jefflam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jefflam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jefflam/subscriptions",
+  "organizations_url": "https://api.github.com/users/jefflam/orgs",
+  "repos_url": "https://api.github.com/users/jefflam/repos",
+  "events_url": "https://api.github.com/users/jefflam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jefflam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

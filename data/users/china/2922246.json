@@ -1,0 +1,20 @@
+{
+  "login": "sailorhero",
+  "id": 2922246,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2922246?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sailorhero",
+  "html_url": "https://github.com/sailorhero",
+  "followers_url": "https://api.github.com/users/sailorhero/followers",
+  "following_url": "https://api.github.com/users/sailorhero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sailorhero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sailorhero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sailorhero/subscriptions",
+  "organizations_url": "https://api.github.com/users/sailorhero/orgs",
+  "repos_url": "https://api.github.com/users/sailorhero/repos",
+  "events_url": "https://api.github.com/users/sailorhero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sailorhero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

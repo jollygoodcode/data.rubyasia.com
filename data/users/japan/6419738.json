@@ -1,0 +1,20 @@
+{
+  "login": "malchy",
+  "id": 6419738,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6419738?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/malchy",
+  "html_url": "https://github.com/malchy",
+  "followers_url": "https://api.github.com/users/malchy/followers",
+  "following_url": "https://api.github.com/users/malchy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/malchy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/malchy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/malchy/subscriptions",
+  "organizations_url": "https://api.github.com/users/malchy/orgs",
+  "repos_url": "https://api.github.com/users/malchy/repos",
+  "events_url": "https://api.github.com/users/malchy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/malchy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "zhming",
+  "id": 1219579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1219579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhming",
+  "html_url": "https://github.com/zhming",
+  "followers_url": "https://api.github.com/users/zhming/followers",
+  "following_url": "https://api.github.com/users/zhming/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhming/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhming/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhming/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhming/orgs",
+  "repos_url": "https://api.github.com/users/zhming/repos",
+  "events_url": "https://api.github.com/users/zhming/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhming/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

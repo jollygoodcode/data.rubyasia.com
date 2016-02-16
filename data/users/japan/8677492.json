@@ -1,0 +1,20 @@
+{
+  "login": "yohase",
+  "id": 8677492,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8677492?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yohase",
+  "html_url": "https://github.com/yohase",
+  "followers_url": "https://api.github.com/users/yohase/followers",
+  "following_url": "https://api.github.com/users/yohase/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yohase/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yohase/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yohase/subscriptions",
+  "organizations_url": "https://api.github.com/users/yohase/orgs",
+  "repos_url": "https://api.github.com/users/yohase/repos",
+  "events_url": "https://api.github.com/users/yohase/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yohase/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

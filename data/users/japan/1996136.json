@@ -1,0 +1,20 @@
+{
+  "login": "ippeif",
+  "id": 1996136,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1996136?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ippeif",
+  "html_url": "https://github.com/ippeif",
+  "followers_url": "https://api.github.com/users/ippeif/followers",
+  "following_url": "https://api.github.com/users/ippeif/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ippeif/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ippeif/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ippeif/subscriptions",
+  "organizations_url": "https://api.github.com/users/ippeif/orgs",
+  "repos_url": "https://api.github.com/users/ippeif/repos",
+  "events_url": "https://api.github.com/users/ippeif/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ippeif/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

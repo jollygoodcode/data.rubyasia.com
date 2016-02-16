@@ -1,0 +1,20 @@
+{
+  "login": "jimmykwok",
+  "id": 8273193,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8273193?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jimmykwok",
+  "html_url": "https://github.com/jimmykwok",
+  "followers_url": "https://api.github.com/users/jimmykwok/followers",
+  "following_url": "https://api.github.com/users/jimmykwok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jimmykwok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jimmykwok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jimmykwok/subscriptions",
+  "organizations_url": "https://api.github.com/users/jimmykwok/orgs",
+  "repos_url": "https://api.github.com/users/jimmykwok/repos",
+  "events_url": "https://api.github.com/users/jimmykwok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jimmykwok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

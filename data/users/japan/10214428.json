@@ -1,0 +1,20 @@
+{
+  "login": "kaeruair",
+  "id": 10214428,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10214428?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaeruair",
+  "html_url": "https://github.com/kaeruair",
+  "followers_url": "https://api.github.com/users/kaeruair/followers",
+  "following_url": "https://api.github.com/users/kaeruair/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaeruair/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaeruair/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaeruair/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaeruair/orgs",
+  "repos_url": "https://api.github.com/users/kaeruair/repos",
+  "events_url": "https://api.github.com/users/kaeruair/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaeruair/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yokozawa",
+  "id": 620658,
+  "avatar_url": "https://avatars.githubusercontent.com/u/620658?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yokozawa",
+  "html_url": "https://github.com/yokozawa",
+  "followers_url": "https://api.github.com/users/yokozawa/followers",
+  "following_url": "https://api.github.com/users/yokozawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yokozawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yokozawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yokozawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/yokozawa/orgs",
+  "repos_url": "https://api.github.com/users/yokozawa/repos",
+  "events_url": "https://api.github.com/users/yokozawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yokozawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

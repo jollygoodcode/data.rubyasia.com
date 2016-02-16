@@ -1,0 +1,20 @@
+{
+  "login": "Novtopro",
+  "id": 7251140,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7251140?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Novtopro",
+  "html_url": "https://github.com/Novtopro",
+  "followers_url": "https://api.github.com/users/Novtopro/followers",
+  "following_url": "https://api.github.com/users/Novtopro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Novtopro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Novtopro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Novtopro/subscriptions",
+  "organizations_url": "https://api.github.com/users/Novtopro/orgs",
+  "repos_url": "https://api.github.com/users/Novtopro/repos",
+  "events_url": "https://api.github.com/users/Novtopro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Novtopro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

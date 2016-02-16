@@ -1,0 +1,20 @@
+{
+  "login": "geekvijay",
+  "id": 783719,
+  "avatar_url": "https://avatars.githubusercontent.com/u/783719?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/geekvijay",
+  "html_url": "https://github.com/geekvijay",
+  "followers_url": "https://api.github.com/users/geekvijay/followers",
+  "following_url": "https://api.github.com/users/geekvijay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/geekvijay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/geekvijay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/geekvijay/subscriptions",
+  "organizations_url": "https://api.github.com/users/geekvijay/orgs",
+  "repos_url": "https://api.github.com/users/geekvijay/repos",
+  "events_url": "https://api.github.com/users/geekvijay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/geekvijay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

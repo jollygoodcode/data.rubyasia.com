@@ -1,0 +1,20 @@
+{
+  "login": "yuzos",
+  "id": 7181935,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7181935?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuzos",
+  "html_url": "https://github.com/yuzos",
+  "followers_url": "https://api.github.com/users/yuzos/followers",
+  "following_url": "https://api.github.com/users/yuzos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuzos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuzos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuzos/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuzos/orgs",
+  "repos_url": "https://api.github.com/users/yuzos/repos",
+  "events_url": "https://api.github.com/users/yuzos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuzos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

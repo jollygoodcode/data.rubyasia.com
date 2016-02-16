@@ -1,0 +1,20 @@
+{
+  "login": "catonx",
+  "id": 7506748,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7506748?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/catonx",
+  "html_url": "https://github.com/catonx",
+  "followers_url": "https://api.github.com/users/catonx/followers",
+  "following_url": "https://api.github.com/users/catonx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/catonx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/catonx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/catonx/subscriptions",
+  "organizations_url": "https://api.github.com/users/catonx/orgs",
+  "repos_url": "https://api.github.com/users/catonx/repos",
+  "events_url": "https://api.github.com/users/catonx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/catonx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

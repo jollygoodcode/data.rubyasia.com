@@ -1,0 +1,20 @@
+{
+  "login": "DeployGate",
+  "id": 2267863,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2267863?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DeployGate",
+  "html_url": "https://github.com/DeployGate",
+  "followers_url": "https://api.github.com/users/DeployGate/followers",
+  "following_url": "https://api.github.com/users/DeployGate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DeployGate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DeployGate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DeployGate/subscriptions",
+  "organizations_url": "https://api.github.com/users/DeployGate/orgs",
+  "repos_url": "https://api.github.com/users/DeployGate/repos",
+  "events_url": "https://api.github.com/users/DeployGate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DeployGate/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

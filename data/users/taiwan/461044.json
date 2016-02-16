@@ -1,0 +1,20 @@
+{
+  "login": "robertabcd",
+  "id": 461044,
+  "avatar_url": "https://avatars.githubusercontent.com/u/461044?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robertabcd",
+  "html_url": "https://github.com/robertabcd",
+  "followers_url": "https://api.github.com/users/robertabcd/followers",
+  "following_url": "https://api.github.com/users/robertabcd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robertabcd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robertabcd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robertabcd/subscriptions",
+  "organizations_url": "https://api.github.com/users/robertabcd/orgs",
+  "repos_url": "https://api.github.com/users/robertabcd/repos",
+  "events_url": "https://api.github.com/users/robertabcd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robertabcd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jollywing",
+  "id": 4646515,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4646515?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jollywing",
+  "html_url": "https://github.com/jollywing",
+  "followers_url": "https://api.github.com/users/jollywing/followers",
+  "following_url": "https://api.github.com/users/jollywing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jollywing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jollywing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jollywing/subscriptions",
+  "organizations_url": "https://api.github.com/users/jollywing/orgs",
+  "repos_url": "https://api.github.com/users/jollywing/repos",
+  "events_url": "https://api.github.com/users/jollywing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jollywing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

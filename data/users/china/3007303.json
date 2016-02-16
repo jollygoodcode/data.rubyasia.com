@@ -1,0 +1,20 @@
+{
+  "login": "Coxxs",
+  "id": 3007303,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3007303?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Coxxs",
+  "html_url": "https://github.com/Coxxs",
+  "followers_url": "https://api.github.com/users/Coxxs/followers",
+  "following_url": "https://api.github.com/users/Coxxs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Coxxs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Coxxs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Coxxs/subscriptions",
+  "organizations_url": "https://api.github.com/users/Coxxs/orgs",
+  "repos_url": "https://api.github.com/users/Coxxs/repos",
+  "events_url": "https://api.github.com/users/Coxxs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Coxxs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

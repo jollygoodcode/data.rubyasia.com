@@ -1,0 +1,20 @@
+{
+  "login": "ruby-uestc",
+  "id": 3204551,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3204551?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ruby-uestc",
+  "html_url": "https://github.com/ruby-uestc",
+  "followers_url": "https://api.github.com/users/ruby-uestc/followers",
+  "following_url": "https://api.github.com/users/ruby-uestc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ruby-uestc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ruby-uestc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ruby-uestc/subscriptions",
+  "organizations_url": "https://api.github.com/users/ruby-uestc/orgs",
+  "repos_url": "https://api.github.com/users/ruby-uestc/repos",
+  "events_url": "https://api.github.com/users/ruby-uestc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ruby-uestc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

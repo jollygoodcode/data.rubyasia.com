@@ -1,0 +1,20 @@
+{
+  "login": "nashjain",
+  "id": 38799,
+  "avatar_url": "https://avatars.githubusercontent.com/u/38799?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nashjain",
+  "html_url": "https://github.com/nashjain",
+  "followers_url": "https://api.github.com/users/nashjain/followers",
+  "following_url": "https://api.github.com/users/nashjain/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nashjain/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nashjain/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nashjain/subscriptions",
+  "organizations_url": "https://api.github.com/users/nashjain/orgs",
+  "repos_url": "https://api.github.com/users/nashjain/repos",
+  "events_url": "https://api.github.com/users/nashjain/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nashjain/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "pragmaticly",
+  "id": 1797783,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1797783?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pragmaticly",
+  "html_url": "https://github.com/pragmaticly",
+  "followers_url": "https://api.github.com/users/pragmaticly/followers",
+  "following_url": "https://api.github.com/users/pragmaticly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pragmaticly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pragmaticly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pragmaticly/subscriptions",
+  "organizations_url": "https://api.github.com/users/pragmaticly/orgs",
+  "repos_url": "https://api.github.com/users/pragmaticly/repos",
+  "events_url": "https://api.github.com/users/pragmaticly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pragmaticly/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

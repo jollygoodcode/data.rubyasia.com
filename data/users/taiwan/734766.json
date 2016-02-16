@@ -1,0 +1,20 @@
+{
+  "login": "tilumi",
+  "id": 734766,
+  "avatar_url": "https://avatars.githubusercontent.com/u/734766?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tilumi",
+  "html_url": "https://github.com/tilumi",
+  "followers_url": "https://api.github.com/users/tilumi/followers",
+  "following_url": "https://api.github.com/users/tilumi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tilumi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tilumi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tilumi/subscriptions",
+  "organizations_url": "https://api.github.com/users/tilumi/orgs",
+  "repos_url": "https://api.github.com/users/tilumi/repos",
+  "events_url": "https://api.github.com/users/tilumi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tilumi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

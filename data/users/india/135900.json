@@ -1,0 +1,20 @@
+{
+  "login": "fizzysoftware",
+  "id": 135900,
+  "avatar_url": "https://avatars.githubusercontent.com/u/135900?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fizzysoftware",
+  "html_url": "https://github.com/fizzysoftware",
+  "followers_url": "https://api.github.com/users/fizzysoftware/followers",
+  "following_url": "https://api.github.com/users/fizzysoftware/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fizzysoftware/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fizzysoftware/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fizzysoftware/subscriptions",
+  "organizations_url": "https://api.github.com/users/fizzysoftware/orgs",
+  "repos_url": "https://api.github.com/users/fizzysoftware/repos",
+  "events_url": "https://api.github.com/users/fizzysoftware/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fizzysoftware/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

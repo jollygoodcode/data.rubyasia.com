@@ -1,0 +1,20 @@
+{
+  "login": "nicholasmartin",
+  "id": 3005020,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3005020?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nicholasmartin",
+  "html_url": "https://github.com/nicholasmartin",
+  "followers_url": "https://api.github.com/users/nicholasmartin/followers",
+  "following_url": "https://api.github.com/users/nicholasmartin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nicholasmartin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nicholasmartin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nicholasmartin/subscriptions",
+  "organizations_url": "https://api.github.com/users/nicholasmartin/orgs",
+  "repos_url": "https://api.github.com/users/nicholasmartin/repos",
+  "events_url": "https://api.github.com/users/nicholasmartin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nicholasmartin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

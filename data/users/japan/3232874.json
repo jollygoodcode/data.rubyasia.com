@@ -1,0 +1,20 @@
+{
+  "login": "s10018",
+  "id": 3232874,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3232874?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/s10018",
+  "html_url": "https://github.com/s10018",
+  "followers_url": "https://api.github.com/users/s10018/followers",
+  "following_url": "https://api.github.com/users/s10018/following{/other_user}",
+  "gists_url": "https://api.github.com/users/s10018/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/s10018/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/s10018/subscriptions",
+  "organizations_url": "https://api.github.com/users/s10018/orgs",
+  "repos_url": "https://api.github.com/users/s10018/repos",
+  "events_url": "https://api.github.com/users/s10018/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/s10018/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

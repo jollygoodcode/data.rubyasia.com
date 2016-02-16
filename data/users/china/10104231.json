@@ -1,0 +1,20 @@
+{
+  "login": "melotusme",
+  "id": 10104231,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10104231?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/melotusme",
+  "html_url": "https://github.com/melotusme",
+  "followers_url": "https://api.github.com/users/melotusme/followers",
+  "following_url": "https://api.github.com/users/melotusme/following{/other_user}",
+  "gists_url": "https://api.github.com/users/melotusme/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/melotusme/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/melotusme/subscriptions",
+  "organizations_url": "https://api.github.com/users/melotusme/orgs",
+  "repos_url": "https://api.github.com/users/melotusme/repos",
+  "events_url": "https://api.github.com/users/melotusme/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/melotusme/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

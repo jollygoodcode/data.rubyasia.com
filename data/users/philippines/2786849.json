@@ -1,0 +1,20 @@
+{
+  "login": "norrisjay",
+  "id": 2786849,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2786849?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/norrisjay",
+  "html_url": "https://github.com/norrisjay",
+  "followers_url": "https://api.github.com/users/norrisjay/followers",
+  "following_url": "https://api.github.com/users/norrisjay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/norrisjay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/norrisjay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/norrisjay/subscriptions",
+  "organizations_url": "https://api.github.com/users/norrisjay/orgs",
+  "repos_url": "https://api.github.com/users/norrisjay/repos",
+  "events_url": "https://api.github.com/users/norrisjay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/norrisjay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

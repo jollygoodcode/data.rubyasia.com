@@ -1,0 +1,20 @@
+{
+  "login": "hisahiko",
+  "id": 462885,
+  "avatar_url": "https://avatars.githubusercontent.com/u/462885?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hisahiko",
+  "html_url": "https://github.com/hisahiko",
+  "followers_url": "https://api.github.com/users/hisahiko/followers",
+  "following_url": "https://api.github.com/users/hisahiko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hisahiko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hisahiko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hisahiko/subscriptions",
+  "organizations_url": "https://api.github.com/users/hisahiko/orgs",
+  "repos_url": "https://api.github.com/users/hisahiko/repos",
+  "events_url": "https://api.github.com/users/hisahiko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hisahiko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

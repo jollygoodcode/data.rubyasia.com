@@ -1,0 +1,20 @@
+{
+  "login": "suture",
+  "id": 90376,
+  "avatar_url": "https://avatars.githubusercontent.com/u/90376?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suture",
+  "html_url": "https://github.com/suture",
+  "followers_url": "https://api.github.com/users/suture/followers",
+  "following_url": "https://api.github.com/users/suture/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suture/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suture/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suture/subscriptions",
+  "organizations_url": "https://api.github.com/users/suture/orgs",
+  "repos_url": "https://api.github.com/users/suture/repos",
+  "events_url": "https://api.github.com/users/suture/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suture/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

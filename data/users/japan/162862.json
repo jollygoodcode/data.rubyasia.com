@@ -1,0 +1,20 @@
+{
+  "login": "minimum2scp",
+  "id": 162862,
+  "avatar_url": "https://avatars.githubusercontent.com/u/162862?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/minimum2scp",
+  "html_url": "https://github.com/minimum2scp",
+  "followers_url": "https://api.github.com/users/minimum2scp/followers",
+  "following_url": "https://api.github.com/users/minimum2scp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/minimum2scp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/minimum2scp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/minimum2scp/subscriptions",
+  "organizations_url": "https://api.github.com/users/minimum2scp/orgs",
+  "repos_url": "https://api.github.com/users/minimum2scp/repos",
+  "events_url": "https://api.github.com/users/minimum2scp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/minimum2scp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

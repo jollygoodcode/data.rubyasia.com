@@ -1,0 +1,20 @@
+{
+  "login": "nnazmul",
+  "id": 8501561,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8501561?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nnazmul",
+  "html_url": "https://github.com/nnazmul",
+  "followers_url": "https://api.github.com/users/nnazmul/followers",
+  "following_url": "https://api.github.com/users/nnazmul/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nnazmul/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nnazmul/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nnazmul/subscriptions",
+  "organizations_url": "https://api.github.com/users/nnazmul/orgs",
+  "repos_url": "https://api.github.com/users/nnazmul/repos",
+  "events_url": "https://api.github.com/users/nnazmul/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nnazmul/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dongbin",
+  "id": 5506,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dongbin",
+  "html_url": "https://github.com/dongbin",
+  "followers_url": "https://api.github.com/users/dongbin/followers",
+  "following_url": "https://api.github.com/users/dongbin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dongbin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dongbin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dongbin/subscriptions",
+  "organizations_url": "https://api.github.com/users/dongbin/orgs",
+  "repos_url": "https://api.github.com/users/dongbin/repos",
+  "events_url": "https://api.github.com/users/dongbin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dongbin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

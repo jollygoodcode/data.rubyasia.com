@@ -1,0 +1,20 @@
+{
+  "login": "macks",
+  "id": 20346,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20346?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macks",
+  "html_url": "https://github.com/macks",
+  "followers_url": "https://api.github.com/users/macks/followers",
+  "following_url": "https://api.github.com/users/macks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macks/subscriptions",
+  "organizations_url": "https://api.github.com/users/macks/orgs",
+  "repos_url": "https://api.github.com/users/macks/repos",
+  "events_url": "https://api.github.com/users/macks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macks/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

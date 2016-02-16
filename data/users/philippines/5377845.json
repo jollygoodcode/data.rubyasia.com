@@ -1,0 +1,20 @@
+{
+  "login": "vixon",
+  "id": 5377845,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5377845?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vixon",
+  "html_url": "https://github.com/vixon",
+  "followers_url": "https://api.github.com/users/vixon/followers",
+  "following_url": "https://api.github.com/users/vixon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vixon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vixon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vixon/subscriptions",
+  "organizations_url": "https://api.github.com/users/vixon/orgs",
+  "repos_url": "https://api.github.com/users/vixon/repos",
+  "events_url": "https://api.github.com/users/vixon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vixon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

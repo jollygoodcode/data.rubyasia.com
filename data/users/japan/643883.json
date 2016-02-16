@@ -1,0 +1,20 @@
+{
+  "login": "KazuyaTanizawa",
+  "id": 643883,
+  "avatar_url": "https://avatars.githubusercontent.com/u/643883?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KazuyaTanizawa",
+  "html_url": "https://github.com/KazuyaTanizawa",
+  "followers_url": "https://api.github.com/users/KazuyaTanizawa/followers",
+  "following_url": "https://api.github.com/users/KazuyaTanizawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KazuyaTanizawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KazuyaTanizawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KazuyaTanizawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/KazuyaTanizawa/orgs",
+  "repos_url": "https://api.github.com/users/KazuyaTanizawa/repos",
+  "events_url": "https://api.github.com/users/KazuyaTanizawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KazuyaTanizawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

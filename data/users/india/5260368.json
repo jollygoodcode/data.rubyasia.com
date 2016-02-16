@@ -1,0 +1,20 @@
+{
+  "login": "weblounge",
+  "id": 5260368,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5260368?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/weblounge",
+  "html_url": "https://github.com/weblounge",
+  "followers_url": "https://api.github.com/users/weblounge/followers",
+  "following_url": "https://api.github.com/users/weblounge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/weblounge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/weblounge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/weblounge/subscriptions",
+  "organizations_url": "https://api.github.com/users/weblounge/orgs",
+  "repos_url": "https://api.github.com/users/weblounge/repos",
+  "events_url": "https://api.github.com/users/weblounge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/weblounge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

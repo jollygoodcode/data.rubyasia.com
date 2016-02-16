@@ -1,0 +1,20 @@
+{
+  "login": "Lyptica",
+  "id": 7007879,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7007879?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Lyptica",
+  "html_url": "https://github.com/Lyptica",
+  "followers_url": "https://api.github.com/users/Lyptica/followers",
+  "following_url": "https://api.github.com/users/Lyptica/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Lyptica/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Lyptica/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Lyptica/subscriptions",
+  "organizations_url": "https://api.github.com/users/Lyptica/orgs",
+  "repos_url": "https://api.github.com/users/Lyptica/repos",
+  "events_url": "https://api.github.com/users/Lyptica/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Lyptica/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

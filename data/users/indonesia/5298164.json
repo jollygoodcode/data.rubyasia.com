@@ -1,0 +1,20 @@
+{
+  "login": "pemiluAPI",
+  "id": 5298164,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5298164?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pemiluAPI",
+  "html_url": "https://github.com/pemiluAPI",
+  "followers_url": "https://api.github.com/users/pemiluAPI/followers",
+  "following_url": "https://api.github.com/users/pemiluAPI/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pemiluAPI/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pemiluAPI/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pemiluAPI/subscriptions",
+  "organizations_url": "https://api.github.com/users/pemiluAPI/orgs",
+  "repos_url": "https://api.github.com/users/pemiluAPI/repos",
+  "events_url": "https://api.github.com/users/pemiluAPI/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pemiluAPI/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

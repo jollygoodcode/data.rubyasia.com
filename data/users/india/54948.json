@@ -1,0 +1,20 @@
+{
+  "login": "diganta",
+  "id": 54948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/54948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/diganta",
+  "html_url": "https://github.com/diganta",
+  "followers_url": "https://api.github.com/users/diganta/followers",
+  "following_url": "https://api.github.com/users/diganta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/diganta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/diganta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/diganta/subscriptions",
+  "organizations_url": "https://api.github.com/users/diganta/orgs",
+  "repos_url": "https://api.github.com/users/diganta/repos",
+  "events_url": "https://api.github.com/users/diganta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/diganta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "libhide",
+  "id": 1370559,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1370559?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/libhide",
+  "html_url": "https://github.com/libhide",
+  "followers_url": "https://api.github.com/users/libhide/followers",
+  "following_url": "https://api.github.com/users/libhide/following{/other_user}",
+  "gists_url": "https://api.github.com/users/libhide/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/libhide/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/libhide/subscriptions",
+  "organizations_url": "https://api.github.com/users/libhide/orgs",
+  "repos_url": "https://api.github.com/users/libhide/repos",
+  "events_url": "https://api.github.com/users/libhide/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/libhide/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

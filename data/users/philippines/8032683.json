@@ -1,0 +1,20 @@
+{
+  "login": "5thport",
+  "id": 8032683,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8032683?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/5thport",
+  "html_url": "https://github.com/5thport",
+  "followers_url": "https://api.github.com/users/5thport/followers",
+  "following_url": "https://api.github.com/users/5thport/following{/other_user}",
+  "gists_url": "https://api.github.com/users/5thport/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/5thport/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/5thport/subscriptions",
+  "organizations_url": "https://api.github.com/users/5thport/orgs",
+  "repos_url": "https://api.github.com/users/5thport/repos",
+  "events_url": "https://api.github.com/users/5thport/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/5thport/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

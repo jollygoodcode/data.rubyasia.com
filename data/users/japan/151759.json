@@ -1,0 +1,20 @@
+{
+  "login": "afunai",
+  "id": 151759,
+  "avatar_url": "https://avatars.githubusercontent.com/u/151759?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/afunai",
+  "html_url": "https://github.com/afunai",
+  "followers_url": "https://api.github.com/users/afunai/followers",
+  "following_url": "https://api.github.com/users/afunai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/afunai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/afunai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/afunai/subscriptions",
+  "organizations_url": "https://api.github.com/users/afunai/orgs",
+  "repos_url": "https://api.github.com/users/afunai/repos",
+  "events_url": "https://api.github.com/users/afunai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/afunai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

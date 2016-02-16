@@ -1,0 +1,20 @@
+{
+  "login": "namoshika",
+  "id": 5507106,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5507106?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/namoshika",
+  "html_url": "https://github.com/namoshika",
+  "followers_url": "https://api.github.com/users/namoshika/followers",
+  "following_url": "https://api.github.com/users/namoshika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/namoshika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/namoshika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/namoshika/subscriptions",
+  "organizations_url": "https://api.github.com/users/namoshika/orgs",
+  "repos_url": "https://api.github.com/users/namoshika/repos",
+  "events_url": "https://api.github.com/users/namoshika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/namoshika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Picato",
+  "id": 10125906,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10125906?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Picato",
+  "html_url": "https://github.com/Picato",
+  "followers_url": "https://api.github.com/users/Picato/followers",
+  "following_url": "https://api.github.com/users/Picato/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Picato/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Picato/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Picato/subscriptions",
+  "organizations_url": "https://api.github.com/users/Picato/orgs",
+  "repos_url": "https://api.github.com/users/Picato/repos",
+  "events_url": "https://api.github.com/users/Picato/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Picato/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

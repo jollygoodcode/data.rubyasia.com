@@ -1,0 +1,20 @@
+{
+  "login": "avencel",
+  "id": 3983816,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3983816?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/avencel",
+  "html_url": "https://github.com/avencel",
+  "followers_url": "https://api.github.com/users/avencel/followers",
+  "following_url": "https://api.github.com/users/avencel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/avencel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/avencel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/avencel/subscriptions",
+  "organizations_url": "https://api.github.com/users/avencel/orgs",
+  "repos_url": "https://api.github.com/users/avencel/repos",
+  "events_url": "https://api.github.com/users/avencel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/avencel/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

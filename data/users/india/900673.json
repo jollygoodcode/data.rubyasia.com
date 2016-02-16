@@ -1,0 +1,20 @@
+{
+  "login": "arrcoder",
+  "id": 900673,
+  "avatar_url": "https://avatars.githubusercontent.com/u/900673?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arrcoder",
+  "html_url": "https://github.com/arrcoder",
+  "followers_url": "https://api.github.com/users/arrcoder/followers",
+  "following_url": "https://api.github.com/users/arrcoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arrcoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arrcoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arrcoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/arrcoder/orgs",
+  "repos_url": "https://api.github.com/users/arrcoder/repos",
+  "events_url": "https://api.github.com/users/arrcoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arrcoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

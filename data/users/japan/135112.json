@@ -1,0 +1,20 @@
+{
+  "login": "smellman",
+  "id": 135112,
+  "avatar_url": "https://avatars.githubusercontent.com/u/135112?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smellman",
+  "html_url": "https://github.com/smellman",
+  "followers_url": "https://api.github.com/users/smellman/followers",
+  "following_url": "https://api.github.com/users/smellman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smellman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smellman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smellman/subscriptions",
+  "organizations_url": "https://api.github.com/users/smellman/orgs",
+  "repos_url": "https://api.github.com/users/smellman/repos",
+  "events_url": "https://api.github.com/users/smellman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smellman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

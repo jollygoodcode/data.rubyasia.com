@@ -1,0 +1,20 @@
+{
+  "login": "pepper",
+  "id": 32959,
+  "avatar_url": "https://avatars.githubusercontent.com/u/32959?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pepper",
+  "html_url": "https://github.com/pepper",
+  "followers_url": "https://api.github.com/users/pepper/followers",
+  "following_url": "https://api.github.com/users/pepper/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pepper/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pepper/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pepper/subscriptions",
+  "organizations_url": "https://api.github.com/users/pepper/orgs",
+  "repos_url": "https://api.github.com/users/pepper/repos",
+  "events_url": "https://api.github.com/users/pepper/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pepper/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kaochenlong",
+  "id": 33090,
+  "avatar_url": "https://avatars.githubusercontent.com/u/33090?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaochenlong",
+  "html_url": "https://github.com/kaochenlong",
+  "followers_url": "https://api.github.com/users/kaochenlong/followers",
+  "following_url": "https://api.github.com/users/kaochenlong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaochenlong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaochenlong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaochenlong/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaochenlong/orgs",
+  "repos_url": "https://api.github.com/users/kaochenlong/repos",
+  "events_url": "https://api.github.com/users/kaochenlong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaochenlong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

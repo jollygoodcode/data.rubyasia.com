@@ -1,0 +1,20 @@
+{
+  "login": "nshibazaki",
+  "id": 760162,
+  "avatar_url": "https://avatars.githubusercontent.com/u/760162?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nshibazaki",
+  "html_url": "https://github.com/nshibazaki",
+  "followers_url": "https://api.github.com/users/nshibazaki/followers",
+  "following_url": "https://api.github.com/users/nshibazaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nshibazaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nshibazaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nshibazaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/nshibazaki/orgs",
+  "repos_url": "https://api.github.com/users/nshibazaki/repos",
+  "events_url": "https://api.github.com/users/nshibazaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nshibazaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

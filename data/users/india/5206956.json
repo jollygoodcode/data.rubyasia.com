@@ -1,0 +1,20 @@
+{
+  "login": "althaffe",
+  "id": 5206956,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5206956?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/althaffe",
+  "html_url": "https://github.com/althaffe",
+  "followers_url": "https://api.github.com/users/althaffe/followers",
+  "following_url": "https://api.github.com/users/althaffe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/althaffe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/althaffe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/althaffe/subscriptions",
+  "organizations_url": "https://api.github.com/users/althaffe/orgs",
+  "repos_url": "https://api.github.com/users/althaffe/repos",
+  "events_url": "https://api.github.com/users/althaffe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/althaffe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

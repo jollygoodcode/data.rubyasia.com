@@ -1,0 +1,20 @@
+{
+  "login": "markterence",
+  "id": 2003215,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2003215?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/markterence",
+  "html_url": "https://github.com/markterence",
+  "followers_url": "https://api.github.com/users/markterence/followers",
+  "following_url": "https://api.github.com/users/markterence/following{/other_user}",
+  "gists_url": "https://api.github.com/users/markterence/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/markterence/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/markterence/subscriptions",
+  "organizations_url": "https://api.github.com/users/markterence/orgs",
+  "repos_url": "https://api.github.com/users/markterence/repos",
+  "events_url": "https://api.github.com/users/markterence/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/markterence/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

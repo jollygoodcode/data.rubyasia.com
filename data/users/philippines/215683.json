@@ -1,0 +1,20 @@
+{
+  "login": "tristanperalta",
+  "id": 215683,
+  "avatar_url": "https://avatars.githubusercontent.com/u/215683?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tristanperalta",
+  "html_url": "https://github.com/tristanperalta",
+  "followers_url": "https://api.github.com/users/tristanperalta/followers",
+  "following_url": "https://api.github.com/users/tristanperalta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tristanperalta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tristanperalta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tristanperalta/subscriptions",
+  "organizations_url": "https://api.github.com/users/tristanperalta/orgs",
+  "repos_url": "https://api.github.com/users/tristanperalta/repos",
+  "events_url": "https://api.github.com/users/tristanperalta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tristanperalta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

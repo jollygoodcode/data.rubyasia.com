@@ -1,0 +1,20 @@
+{
+  "login": "littlefoxa",
+  "id": 4590634,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4590634?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/littlefoxa",
+  "html_url": "https://github.com/littlefoxa",
+  "followers_url": "https://api.github.com/users/littlefoxa/followers",
+  "following_url": "https://api.github.com/users/littlefoxa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/littlefoxa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/littlefoxa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/littlefoxa/subscriptions",
+  "organizations_url": "https://api.github.com/users/littlefoxa/orgs",
+  "repos_url": "https://api.github.com/users/littlefoxa/repos",
+  "events_url": "https://api.github.com/users/littlefoxa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/littlefoxa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

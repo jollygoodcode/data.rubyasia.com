@@ -1,0 +1,20 @@
+{
+  "login": "tagackt",
+  "id": 2845415,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2845415?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tagackt",
+  "html_url": "https://github.com/tagackt",
+  "followers_url": "https://api.github.com/users/tagackt/followers",
+  "following_url": "https://api.github.com/users/tagackt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tagackt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tagackt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tagackt/subscriptions",
+  "organizations_url": "https://api.github.com/users/tagackt/orgs",
+  "repos_url": "https://api.github.com/users/tagackt/repos",
+  "events_url": "https://api.github.com/users/tagackt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tagackt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

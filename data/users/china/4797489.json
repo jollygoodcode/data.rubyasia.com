@@ -1,0 +1,20 @@
+{
+  "login": "royzheng",
+  "id": 4797489,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4797489?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/royzheng",
+  "html_url": "https://github.com/royzheng",
+  "followers_url": "https://api.github.com/users/royzheng/followers",
+  "following_url": "https://api.github.com/users/royzheng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/royzheng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/royzheng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/royzheng/subscriptions",
+  "organizations_url": "https://api.github.com/users/royzheng/orgs",
+  "repos_url": "https://api.github.com/users/royzheng/repos",
+  "events_url": "https://api.github.com/users/royzheng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/royzheng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

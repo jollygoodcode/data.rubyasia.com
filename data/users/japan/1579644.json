@@ -1,0 +1,20 @@
+{
+  "login": "cjwirth",
+  "id": 1579644,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1579644?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cjwirth",
+  "html_url": "https://github.com/cjwirth",
+  "followers_url": "https://api.github.com/users/cjwirth/followers",
+  "following_url": "https://api.github.com/users/cjwirth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cjwirth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cjwirth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cjwirth/subscriptions",
+  "organizations_url": "https://api.github.com/users/cjwirth/orgs",
+  "repos_url": "https://api.github.com/users/cjwirth/repos",
+  "events_url": "https://api.github.com/users/cjwirth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cjwirth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

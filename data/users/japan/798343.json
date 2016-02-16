@@ -1,0 +1,20 @@
+{
+  "login": "pasberth",
+  "id": 798343,
+  "avatar_url": "https://avatars.githubusercontent.com/u/798343?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pasberth",
+  "html_url": "https://github.com/pasberth",
+  "followers_url": "https://api.github.com/users/pasberth/followers",
+  "following_url": "https://api.github.com/users/pasberth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pasberth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pasberth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pasberth/subscriptions",
+  "organizations_url": "https://api.github.com/users/pasberth/orgs",
+  "repos_url": "https://api.github.com/users/pasberth/repos",
+  "events_url": "https://api.github.com/users/pasberth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pasberth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

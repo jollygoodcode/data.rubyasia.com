@@ -1,0 +1,20 @@
+{
+  "login": "warungit",
+  "id": 13320527,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13320527?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/warungit",
+  "html_url": "https://github.com/warungit",
+  "followers_url": "https://api.github.com/users/warungit/followers",
+  "following_url": "https://api.github.com/users/warungit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/warungit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/warungit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/warungit/subscriptions",
+  "organizations_url": "https://api.github.com/users/warungit/orgs",
+  "repos_url": "https://api.github.com/users/warungit/repos",
+  "events_url": "https://api.github.com/users/warungit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/warungit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

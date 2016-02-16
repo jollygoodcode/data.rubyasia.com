@@ -1,0 +1,20 @@
+{
+  "login": "wwju",
+  "id": 3179564,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3179564?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wwju",
+  "html_url": "https://github.com/wwju",
+  "followers_url": "https://api.github.com/users/wwju/followers",
+  "following_url": "https://api.github.com/users/wwju/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wwju/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wwju/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wwju/subscriptions",
+  "organizations_url": "https://api.github.com/users/wwju/orgs",
+  "repos_url": "https://api.github.com/users/wwju/repos",
+  "events_url": "https://api.github.com/users/wwju/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wwju/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

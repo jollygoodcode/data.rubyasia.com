@@ -1,0 +1,20 @@
+{
+  "login": "gefoon",
+  "id": 374545,
+  "avatar_url": "https://avatars.githubusercontent.com/u/374545?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gefoon",
+  "html_url": "https://github.com/gefoon",
+  "followers_url": "https://api.github.com/users/gefoon/followers",
+  "following_url": "https://api.github.com/users/gefoon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gefoon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gefoon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gefoon/subscriptions",
+  "organizations_url": "https://api.github.com/users/gefoon/orgs",
+  "repos_url": "https://api.github.com/users/gefoon/repos",
+  "events_url": "https://api.github.com/users/gefoon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gefoon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

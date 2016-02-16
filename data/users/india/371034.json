@@ -1,0 +1,20 @@
+{
+  "login": "dharin",
+  "id": 371034,
+  "avatar_url": "https://avatars.githubusercontent.com/u/371034?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dharin",
+  "html_url": "https://github.com/dharin",
+  "followers_url": "https://api.github.com/users/dharin/followers",
+  "following_url": "https://api.github.com/users/dharin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dharin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dharin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dharin/subscriptions",
+  "organizations_url": "https://api.github.com/users/dharin/orgs",
+  "repos_url": "https://api.github.com/users/dharin/repos",
+  "events_url": "https://api.github.com/users/dharin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dharin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

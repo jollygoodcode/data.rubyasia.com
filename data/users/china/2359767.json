@@ -1,0 +1,20 @@
+{
+  "login": "yup9",
+  "id": 2359767,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2359767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yup9",
+  "html_url": "https://github.com/yup9",
+  "followers_url": "https://api.github.com/users/yup9/followers",
+  "following_url": "https://api.github.com/users/yup9/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yup9/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yup9/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yup9/subscriptions",
+  "organizations_url": "https://api.github.com/users/yup9/orgs",
+  "repos_url": "https://api.github.com/users/yup9/repos",
+  "events_url": "https://api.github.com/users/yup9/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yup9/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rossio",
+  "id": 1272689,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1272689?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rossio",
+  "html_url": "https://github.com/rossio",
+  "followers_url": "https://api.github.com/users/rossio/followers",
+  "following_url": "https://api.github.com/users/rossio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rossio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rossio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rossio/subscriptions",
+  "organizations_url": "https://api.github.com/users/rossio/orgs",
+  "repos_url": "https://api.github.com/users/rossio/repos",
+  "events_url": "https://api.github.com/users/rossio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rossio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

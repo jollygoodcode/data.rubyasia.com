@@ -1,0 +1,20 @@
+{
+  "login": "patricklindsay",
+  "id": 7923681,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7923681?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/patricklindsay",
+  "html_url": "https://github.com/patricklindsay",
+  "followers_url": "https://api.github.com/users/patricklindsay/followers",
+  "following_url": "https://api.github.com/users/patricklindsay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/patricklindsay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/patricklindsay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/patricklindsay/subscriptions",
+  "organizations_url": "https://api.github.com/users/patricklindsay/orgs",
+  "repos_url": "https://api.github.com/users/patricklindsay/repos",
+  "events_url": "https://api.github.com/users/patricklindsay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/patricklindsay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

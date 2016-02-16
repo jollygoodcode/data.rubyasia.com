@@ -1,0 +1,20 @@
+{
+  "login": "paul-ylz",
+  "id": 4860556,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4860556?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paul-ylz",
+  "html_url": "https://github.com/paul-ylz",
+  "followers_url": "https://api.github.com/users/paul-ylz/followers",
+  "following_url": "https://api.github.com/users/paul-ylz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paul-ylz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paul-ylz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paul-ylz/subscriptions",
+  "organizations_url": "https://api.github.com/users/paul-ylz/orgs",
+  "repos_url": "https://api.github.com/users/paul-ylz/repos",
+  "events_url": "https://api.github.com/users/paul-ylz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paul-ylz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

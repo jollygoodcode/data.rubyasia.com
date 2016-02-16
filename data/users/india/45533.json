@@ -1,0 +1,20 @@
+{
+  "login": "amirivija",
+  "id": 45533,
+  "avatar_url": "https://avatars.githubusercontent.com/u/45533?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amirivija",
+  "html_url": "https://github.com/amirivija",
+  "followers_url": "https://api.github.com/users/amirivija/followers",
+  "following_url": "https://api.github.com/users/amirivija/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amirivija/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amirivija/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amirivija/subscriptions",
+  "organizations_url": "https://api.github.com/users/amirivija/orgs",
+  "repos_url": "https://api.github.com/users/amirivija/repos",
+  "events_url": "https://api.github.com/users/amirivija/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amirivija/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "thesquirrelz",
+  "id": 15226527,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15226527?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thesquirrelz",
+  "html_url": "https://github.com/thesquirrelz",
+  "followers_url": "https://api.github.com/users/thesquirrelz/followers",
+  "following_url": "https://api.github.com/users/thesquirrelz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thesquirrelz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thesquirrelz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thesquirrelz/subscriptions",
+  "organizations_url": "https://api.github.com/users/thesquirrelz/orgs",
+  "repos_url": "https://api.github.com/users/thesquirrelz/repos",
+  "events_url": "https://api.github.com/users/thesquirrelz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thesquirrelz/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "blairsu",
+  "id": 1818299,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1818299?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/blairsu",
+  "html_url": "https://github.com/blairsu",
+  "followers_url": "https://api.github.com/users/blairsu/followers",
+  "following_url": "https://api.github.com/users/blairsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/blairsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/blairsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/blairsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/blairsu/orgs",
+  "repos_url": "https://api.github.com/users/blairsu/repos",
+  "events_url": "https://api.github.com/users/blairsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/blairsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

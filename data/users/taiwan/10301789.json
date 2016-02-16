@@ -1,0 +1,20 @@
+{
+  "login": "Arcofresh",
+  "id": 10301789,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10301789?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Arcofresh",
+  "html_url": "https://github.com/Arcofresh",
+  "followers_url": "https://api.github.com/users/Arcofresh/followers",
+  "following_url": "https://api.github.com/users/Arcofresh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Arcofresh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Arcofresh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Arcofresh/subscriptions",
+  "organizations_url": "https://api.github.com/users/Arcofresh/orgs",
+  "repos_url": "https://api.github.com/users/Arcofresh/repos",
+  "events_url": "https://api.github.com/users/Arcofresh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Arcofresh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

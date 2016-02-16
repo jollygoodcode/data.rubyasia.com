@@ -1,0 +1,20 @@
+{
+  "login": "manabo",
+  "id": 5210517,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5210517?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/manabo",
+  "html_url": "https://github.com/manabo",
+  "followers_url": "https://api.github.com/users/manabo/followers",
+  "following_url": "https://api.github.com/users/manabo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/manabo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/manabo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/manabo/subscriptions",
+  "organizations_url": "https://api.github.com/users/manabo/orgs",
+  "repos_url": "https://api.github.com/users/manabo/repos",
+  "events_url": "https://api.github.com/users/manabo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/manabo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

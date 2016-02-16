@@ -1,0 +1,20 @@
+{
+  "login": "mdonalds",
+  "id": 1552671,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1552671?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mdonalds",
+  "html_url": "https://github.com/mdonalds",
+  "followers_url": "https://api.github.com/users/mdonalds/followers",
+  "following_url": "https://api.github.com/users/mdonalds/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mdonalds/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mdonalds/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mdonalds/subscriptions",
+  "organizations_url": "https://api.github.com/users/mdonalds/orgs",
+  "repos_url": "https://api.github.com/users/mdonalds/repos",
+  "events_url": "https://api.github.com/users/mdonalds/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mdonalds/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

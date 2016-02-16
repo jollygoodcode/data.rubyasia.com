@@ -1,0 +1,20 @@
+{
+  "login": "shimbara",
+  "id": 5010245,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5010245?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shimbara",
+  "html_url": "https://github.com/shimbara",
+  "followers_url": "https://api.github.com/users/shimbara/followers",
+  "following_url": "https://api.github.com/users/shimbara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shimbara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shimbara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shimbara/subscriptions",
+  "organizations_url": "https://api.github.com/users/shimbara/orgs",
+  "repos_url": "https://api.github.com/users/shimbara/repos",
+  "events_url": "https://api.github.com/users/shimbara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shimbara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

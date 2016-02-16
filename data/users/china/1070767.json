@@ -1,0 +1,20 @@
+{
+  "login": "leebo",
+  "id": 1070767,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1070767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leebo",
+  "html_url": "https://github.com/leebo",
+  "followers_url": "https://api.github.com/users/leebo/followers",
+  "following_url": "https://api.github.com/users/leebo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leebo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leebo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leebo/subscriptions",
+  "organizations_url": "https://api.github.com/users/leebo/orgs",
+  "repos_url": "https://api.github.com/users/leebo/repos",
+  "events_url": "https://api.github.com/users/leebo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leebo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kyo-nanba",
+  "id": 1596772,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1596772?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kyo-nanba",
+  "html_url": "https://github.com/kyo-nanba",
+  "followers_url": "https://api.github.com/users/kyo-nanba/followers",
+  "following_url": "https://api.github.com/users/kyo-nanba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kyo-nanba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kyo-nanba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kyo-nanba/subscriptions",
+  "organizations_url": "https://api.github.com/users/kyo-nanba/orgs",
+  "repos_url": "https://api.github.com/users/kyo-nanba/repos",
+  "events_url": "https://api.github.com/users/kyo-nanba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kyo-nanba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

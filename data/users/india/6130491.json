@@ -1,0 +1,20 @@
+{
+  "login": "gutfeeling",
+  "id": 6130491,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6130491?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gutfeeling",
+  "html_url": "https://github.com/gutfeeling",
+  "followers_url": "https://api.github.com/users/gutfeeling/followers",
+  "following_url": "https://api.github.com/users/gutfeeling/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gutfeeling/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gutfeeling/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gutfeeling/subscriptions",
+  "organizations_url": "https://api.github.com/users/gutfeeling/orgs",
+  "repos_url": "https://api.github.com/users/gutfeeling/repos",
+  "events_url": "https://api.github.com/users/gutfeeling/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gutfeeling/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

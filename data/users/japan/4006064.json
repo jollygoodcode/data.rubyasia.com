@@ -1,0 +1,20 @@
+{
+  "login": "Etangium",
+  "id": 4006064,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4006064?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Etangium",
+  "html_url": "https://github.com/Etangium",
+  "followers_url": "https://api.github.com/users/Etangium/followers",
+  "following_url": "https://api.github.com/users/Etangium/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Etangium/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Etangium/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Etangium/subscriptions",
+  "organizations_url": "https://api.github.com/users/Etangium/orgs",
+  "repos_url": "https://api.github.com/users/Etangium/repos",
+  "events_url": "https://api.github.com/users/Etangium/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Etangium/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

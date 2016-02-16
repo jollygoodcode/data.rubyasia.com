@@ -1,0 +1,20 @@
+{
+  "login": "wootan",
+  "id": 10499812,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10499812?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wootan",
+  "html_url": "https://github.com/wootan",
+  "followers_url": "https://api.github.com/users/wootan/followers",
+  "following_url": "https://api.github.com/users/wootan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wootan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wootan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wootan/subscriptions",
+  "organizations_url": "https://api.github.com/users/wootan/orgs",
+  "repos_url": "https://api.github.com/users/wootan/repos",
+  "events_url": "https://api.github.com/users/wootan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wootan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

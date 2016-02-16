@@ -1,0 +1,20 @@
+{
+  "login": "liqites",
+  "id": 5523883,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5523883?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/liqites",
+  "html_url": "https://github.com/liqites",
+  "followers_url": "https://api.github.com/users/liqites/followers",
+  "following_url": "https://api.github.com/users/liqites/following{/other_user}",
+  "gists_url": "https://api.github.com/users/liqites/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/liqites/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/liqites/subscriptions",
+  "organizations_url": "https://api.github.com/users/liqites/orgs",
+  "repos_url": "https://api.github.com/users/liqites/repos",
+  "events_url": "https://api.github.com/users/liqites/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/liqites/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

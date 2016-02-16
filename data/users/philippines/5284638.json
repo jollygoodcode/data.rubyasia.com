@@ -1,0 +1,20 @@
+{
+  "login": "perplexedhero",
+  "id": 5284638,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5284638?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/perplexedhero",
+  "html_url": "https://github.com/perplexedhero",
+  "followers_url": "https://api.github.com/users/perplexedhero/followers",
+  "following_url": "https://api.github.com/users/perplexedhero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/perplexedhero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/perplexedhero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/perplexedhero/subscriptions",
+  "organizations_url": "https://api.github.com/users/perplexedhero/orgs",
+  "repos_url": "https://api.github.com/users/perplexedhero/repos",
+  "events_url": "https://api.github.com/users/perplexedhero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/perplexedhero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tka",
+  "id": 65579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/65579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tka",
+  "html_url": "https://github.com/tka",
+  "followers_url": "https://api.github.com/users/tka/followers",
+  "following_url": "https://api.github.com/users/tka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tka/subscriptions",
+  "organizations_url": "https://api.github.com/users/tka/orgs",
+  "repos_url": "https://api.github.com/users/tka/repos",
+  "events_url": "https://api.github.com/users/tka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

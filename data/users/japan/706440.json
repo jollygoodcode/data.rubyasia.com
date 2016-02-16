@@ -1,0 +1,20 @@
+{
+  "login": "daicham",
+  "id": 706440,
+  "avatar_url": "https://avatars.githubusercontent.com/u/706440?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daicham",
+  "html_url": "https://github.com/daicham",
+  "followers_url": "https://api.github.com/users/daicham/followers",
+  "following_url": "https://api.github.com/users/daicham/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daicham/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daicham/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daicham/subscriptions",
+  "organizations_url": "https://api.github.com/users/daicham/orgs",
+  "repos_url": "https://api.github.com/users/daicham/repos",
+  "events_url": "https://api.github.com/users/daicham/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daicham/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

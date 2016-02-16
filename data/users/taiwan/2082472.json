@@ -1,0 +1,20 @@
+{
+  "login": "macchiang",
+  "id": 2082472,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2082472?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macchiang",
+  "html_url": "https://github.com/macchiang",
+  "followers_url": "https://api.github.com/users/macchiang/followers",
+  "following_url": "https://api.github.com/users/macchiang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macchiang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macchiang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macchiang/subscriptions",
+  "organizations_url": "https://api.github.com/users/macchiang/orgs",
+  "repos_url": "https://api.github.com/users/macchiang/repos",
+  "events_url": "https://api.github.com/users/macchiang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macchiang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

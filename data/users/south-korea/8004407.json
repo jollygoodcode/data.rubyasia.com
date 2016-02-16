@@ -1,0 +1,20 @@
+{
+  "login": "ejoonie-irm",
+  "id": 8004407,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8004407?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ejoonie-irm",
+  "html_url": "https://github.com/ejoonie-irm",
+  "followers_url": "https://api.github.com/users/ejoonie-irm/followers",
+  "following_url": "https://api.github.com/users/ejoonie-irm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ejoonie-irm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ejoonie-irm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ejoonie-irm/subscriptions",
+  "organizations_url": "https://api.github.com/users/ejoonie-irm/orgs",
+  "repos_url": "https://api.github.com/users/ejoonie-irm/repos",
+  "events_url": "https://api.github.com/users/ejoonie-irm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ejoonie-irm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

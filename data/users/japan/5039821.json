@@ -1,0 +1,20 @@
+{
+  "login": "kurobeniq",
+  "id": 5039821,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5039821?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kurobeniq",
+  "html_url": "https://github.com/kurobeniq",
+  "followers_url": "https://api.github.com/users/kurobeniq/followers",
+  "following_url": "https://api.github.com/users/kurobeniq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kurobeniq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kurobeniq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kurobeniq/subscriptions",
+  "organizations_url": "https://api.github.com/users/kurobeniq/orgs",
+  "repos_url": "https://api.github.com/users/kurobeniq/repos",
+  "events_url": "https://api.github.com/users/kurobeniq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kurobeniq/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

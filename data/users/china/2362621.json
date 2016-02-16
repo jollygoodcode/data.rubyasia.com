@@ -1,0 +1,20 @@
+{
+  "login": "chenwery",
+  "id": 2362621,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2362621?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chenwery",
+  "html_url": "https://github.com/chenwery",
+  "followers_url": "https://api.github.com/users/chenwery/followers",
+  "following_url": "https://api.github.com/users/chenwery/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chenwery/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chenwery/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chenwery/subscriptions",
+  "organizations_url": "https://api.github.com/users/chenwery/orgs",
+  "repos_url": "https://api.github.com/users/chenwery/repos",
+  "events_url": "https://api.github.com/users/chenwery/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chenwery/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

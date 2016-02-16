@@ -1,0 +1,20 @@
+{
+  "login": "araipiyo",
+  "id": 455880,
+  "avatar_url": "https://avatars.githubusercontent.com/u/455880?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/araipiyo",
+  "html_url": "https://github.com/araipiyo",
+  "followers_url": "https://api.github.com/users/araipiyo/followers",
+  "following_url": "https://api.github.com/users/araipiyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/araipiyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/araipiyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/araipiyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/araipiyo/orgs",
+  "repos_url": "https://api.github.com/users/araipiyo/repos",
+  "events_url": "https://api.github.com/users/araipiyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/araipiyo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

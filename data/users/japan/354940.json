@@ -1,0 +1,20 @@
+{
+  "login": "inohiro",
+  "id": 354940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/354940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inohiro",
+  "html_url": "https://github.com/inohiro",
+  "followers_url": "https://api.github.com/users/inohiro/followers",
+  "following_url": "https://api.github.com/users/inohiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inohiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inohiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inohiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/inohiro/orgs",
+  "repos_url": "https://api.github.com/users/inohiro/repos",
+  "events_url": "https://api.github.com/users/inohiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inohiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

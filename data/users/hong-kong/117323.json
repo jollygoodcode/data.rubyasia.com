@@ -1,0 +1,20 @@
+{
+  "login": "davetheninja",
+  "id": 117323,
+  "avatar_url": "https://avatars.githubusercontent.com/u/117323?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/davetheninja",
+  "html_url": "https://github.com/davetheninja",
+  "followers_url": "https://api.github.com/users/davetheninja/followers",
+  "following_url": "https://api.github.com/users/davetheninja/following{/other_user}",
+  "gists_url": "https://api.github.com/users/davetheninja/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/davetheninja/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/davetheninja/subscriptions",
+  "organizations_url": "https://api.github.com/users/davetheninja/orgs",
+  "repos_url": "https://api.github.com/users/davetheninja/repos",
+  "events_url": "https://api.github.com/users/davetheninja/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/davetheninja/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

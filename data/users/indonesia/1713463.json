@@ -1,0 +1,20 @@
+{
+  "login": "41studio",
+  "id": 1713463,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1713463?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/41studio",
+  "html_url": "https://github.com/41studio",
+  "followers_url": "https://api.github.com/users/41studio/followers",
+  "following_url": "https://api.github.com/users/41studio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/41studio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/41studio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/41studio/subscriptions",
+  "organizations_url": "https://api.github.com/users/41studio/orgs",
+  "repos_url": "https://api.github.com/users/41studio/repos",
+  "events_url": "https://api.github.com/users/41studio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/41studio/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

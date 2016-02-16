@@ -1,0 +1,20 @@
+{
+  "login": "CloudSquare",
+  "id": 1825863,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1825863?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CloudSquare",
+  "html_url": "https://github.com/CloudSquare",
+  "followers_url": "https://api.github.com/users/CloudSquare/followers",
+  "following_url": "https://api.github.com/users/CloudSquare/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CloudSquare/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CloudSquare/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CloudSquare/subscriptions",
+  "organizations_url": "https://api.github.com/users/CloudSquare/orgs",
+  "repos_url": "https://api.github.com/users/CloudSquare/repos",
+  "events_url": "https://api.github.com/users/CloudSquare/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CloudSquare/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

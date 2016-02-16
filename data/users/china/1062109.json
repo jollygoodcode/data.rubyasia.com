@@ -1,0 +1,20 @@
+{
+  "login": "acenqiu",
+  "id": 1062109,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1062109?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/acenqiu",
+  "html_url": "https://github.com/acenqiu",
+  "followers_url": "https://api.github.com/users/acenqiu/followers",
+  "following_url": "https://api.github.com/users/acenqiu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/acenqiu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/acenqiu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/acenqiu/subscriptions",
+  "organizations_url": "https://api.github.com/users/acenqiu/orgs",
+  "repos_url": "https://api.github.com/users/acenqiu/repos",
+  "events_url": "https://api.github.com/users/acenqiu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/acenqiu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yoshitake-hamano",
+  "id": 1617402,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1617402?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoshitake-hamano",
+  "html_url": "https://github.com/yoshitake-hamano",
+  "followers_url": "https://api.github.com/users/yoshitake-hamano/followers",
+  "following_url": "https://api.github.com/users/yoshitake-hamano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoshitake-hamano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoshitake-hamano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoshitake-hamano/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoshitake-hamano/orgs",
+  "repos_url": "https://api.github.com/users/yoshitake-hamano/repos",
+  "events_url": "https://api.github.com/users/yoshitake-hamano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoshitake-hamano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

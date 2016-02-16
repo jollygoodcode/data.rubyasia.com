@@ -1,0 +1,20 @@
+{
+  "login": "ymow",
+  "id": 1109036,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1109036?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ymow",
+  "html_url": "https://github.com/ymow",
+  "followers_url": "https://api.github.com/users/ymow/followers",
+  "following_url": "https://api.github.com/users/ymow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ymow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ymow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ymow/subscriptions",
+  "organizations_url": "https://api.github.com/users/ymow/orgs",
+  "repos_url": "https://api.github.com/users/ymow/repos",
+  "events_url": "https://api.github.com/users/ymow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ymow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

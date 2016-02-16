@@ -1,0 +1,20 @@
+{
+  "login": "auzty",
+  "id": 7480231,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7480231?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/auzty",
+  "html_url": "https://github.com/auzty",
+  "followers_url": "https://api.github.com/users/auzty/followers",
+  "following_url": "https://api.github.com/users/auzty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/auzty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/auzty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/auzty/subscriptions",
+  "organizations_url": "https://api.github.com/users/auzty/orgs",
+  "repos_url": "https://api.github.com/users/auzty/repos",
+  "events_url": "https://api.github.com/users/auzty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/auzty/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

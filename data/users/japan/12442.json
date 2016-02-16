@@ -1,0 +1,20 @@
+{
+  "login": "faultier",
+  "id": 12442,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12442?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/faultier",
+  "html_url": "https://github.com/faultier",
+  "followers_url": "https://api.github.com/users/faultier/followers",
+  "following_url": "https://api.github.com/users/faultier/following{/other_user}",
+  "gists_url": "https://api.github.com/users/faultier/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/faultier/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/faultier/subscriptions",
+  "organizations_url": "https://api.github.com/users/faultier/orgs",
+  "repos_url": "https://api.github.com/users/faultier/repos",
+  "events_url": "https://api.github.com/users/faultier/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/faultier/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

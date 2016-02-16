@@ -1,0 +1,20 @@
+{
+  "login": "hoekit",
+  "id": 930134,
+  "avatar_url": "https://avatars.githubusercontent.com/u/930134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoekit",
+  "html_url": "https://github.com/hoekit",
+  "followers_url": "https://api.github.com/users/hoekit/followers",
+  "following_url": "https://api.github.com/users/hoekit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoekit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoekit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoekit/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoekit/orgs",
+  "repos_url": "https://api.github.com/users/hoekit/repos",
+  "events_url": "https://api.github.com/users/hoekit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoekit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

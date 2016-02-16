@@ -1,0 +1,20 @@
+{
+  "login": "rubykansai",
+  "id": 18461,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18461?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubykansai",
+  "html_url": "https://github.com/rubykansai",
+  "followers_url": "https://api.github.com/users/rubykansai/followers",
+  "following_url": "https://api.github.com/users/rubykansai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubykansai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubykansai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubykansai/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubykansai/orgs",
+  "repos_url": "https://api.github.com/users/rubykansai/repos",
+  "events_url": "https://api.github.com/users/rubykansai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubykansai/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

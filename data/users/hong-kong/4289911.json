@@ -1,0 +1,20 @@
+{
+  "login": "stirlingpoon",
+  "id": 4289911,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4289911?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stirlingpoon",
+  "html_url": "https://github.com/stirlingpoon",
+  "followers_url": "https://api.github.com/users/stirlingpoon/followers",
+  "following_url": "https://api.github.com/users/stirlingpoon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stirlingpoon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stirlingpoon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stirlingpoon/subscriptions",
+  "organizations_url": "https://api.github.com/users/stirlingpoon/orgs",
+  "repos_url": "https://api.github.com/users/stirlingpoon/repos",
+  "events_url": "https://api.github.com/users/stirlingpoon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stirlingpoon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

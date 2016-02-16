@@ -1,0 +1,20 @@
+{
+  "login": "opelab",
+  "id": 7642236,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7642236?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/opelab",
+  "html_url": "https://github.com/opelab",
+  "followers_url": "https://api.github.com/users/opelab/followers",
+  "following_url": "https://api.github.com/users/opelab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/opelab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/opelab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/opelab/subscriptions",
+  "organizations_url": "https://api.github.com/users/opelab/orgs",
+  "repos_url": "https://api.github.com/users/opelab/repos",
+  "events_url": "https://api.github.com/users/opelab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/opelab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

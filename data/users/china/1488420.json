@@ -1,0 +1,20 @@
+{
+  "login": "fizzwu",
+  "id": 1488420,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1488420?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fizzwu",
+  "html_url": "https://github.com/fizzwu",
+  "followers_url": "https://api.github.com/users/fizzwu/followers",
+  "following_url": "https://api.github.com/users/fizzwu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fizzwu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fizzwu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fizzwu/subscriptions",
+  "organizations_url": "https://api.github.com/users/fizzwu/orgs",
+  "repos_url": "https://api.github.com/users/fizzwu/repos",
+  "events_url": "https://api.github.com/users/fizzwu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fizzwu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

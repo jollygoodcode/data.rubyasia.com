@@ -1,0 +1,20 @@
+{
+  "login": "maximinus",
+  "id": 435023,
+  "avatar_url": "https://avatars.githubusercontent.com/u/435023?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maximinus",
+  "html_url": "https://github.com/maximinus",
+  "followers_url": "https://api.github.com/users/maximinus/followers",
+  "following_url": "https://api.github.com/users/maximinus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maximinus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maximinus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maximinus/subscriptions",
+  "organizations_url": "https://api.github.com/users/maximinus/orgs",
+  "repos_url": "https://api.github.com/users/maximinus/repos",
+  "events_url": "https://api.github.com/users/maximinus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maximinus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

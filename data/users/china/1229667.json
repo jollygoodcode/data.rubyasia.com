@@ -1,0 +1,20 @@
+{
+  "login": "kimimaro",
+  "id": 1229667,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1229667?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimimaro",
+  "html_url": "https://github.com/kimimaro",
+  "followers_url": "https://api.github.com/users/kimimaro/followers",
+  "following_url": "https://api.github.com/users/kimimaro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimimaro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimimaro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimimaro/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimimaro/orgs",
+  "repos_url": "https://api.github.com/users/kimimaro/repos",
+  "events_url": "https://api.github.com/users/kimimaro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimimaro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

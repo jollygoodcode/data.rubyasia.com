@@ -1,0 +1,20 @@
+{
+  "login": "adpande",
+  "id": 128881,
+  "avatar_url": "https://avatars.githubusercontent.com/u/128881?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adpande",
+  "html_url": "https://github.com/adpande",
+  "followers_url": "https://api.github.com/users/adpande/followers",
+  "following_url": "https://api.github.com/users/adpande/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adpande/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adpande/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adpande/subscriptions",
+  "organizations_url": "https://api.github.com/users/adpande/orgs",
+  "repos_url": "https://api.github.com/users/adpande/repos",
+  "events_url": "https://api.github.com/users/adpande/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adpande/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

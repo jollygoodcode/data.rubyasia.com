@@ -1,0 +1,20 @@
+{
+  "login": "xwxz",
+  "id": 4415049,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4415049?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xwxz",
+  "html_url": "https://github.com/xwxz",
+  "followers_url": "https://api.github.com/users/xwxz/followers",
+  "following_url": "https://api.github.com/users/xwxz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xwxz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xwxz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xwxz/subscriptions",
+  "organizations_url": "https://api.github.com/users/xwxz/orgs",
+  "repos_url": "https://api.github.com/users/xwxz/repos",
+  "events_url": "https://api.github.com/users/xwxz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xwxz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

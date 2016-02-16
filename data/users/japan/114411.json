@@ -1,0 +1,20 @@
+{
+  "login": "nashiki",
+  "id": 114411,
+  "avatar_url": "https://avatars.githubusercontent.com/u/114411?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nashiki",
+  "html_url": "https://github.com/nashiki",
+  "followers_url": "https://api.github.com/users/nashiki/followers",
+  "following_url": "https://api.github.com/users/nashiki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nashiki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nashiki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nashiki/subscriptions",
+  "organizations_url": "https://api.github.com/users/nashiki/orgs",
+  "repos_url": "https://api.github.com/users/nashiki/repos",
+  "events_url": "https://api.github.com/users/nashiki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nashiki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

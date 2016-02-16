@@ -1,0 +1,20 @@
+{
+  "login": "bumblepuppy",
+  "id": 9193257,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9193257?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bumblepuppy",
+  "html_url": "https://github.com/bumblepuppy",
+  "followers_url": "https://api.github.com/users/bumblepuppy/followers",
+  "following_url": "https://api.github.com/users/bumblepuppy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bumblepuppy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bumblepuppy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bumblepuppy/subscriptions",
+  "organizations_url": "https://api.github.com/users/bumblepuppy/orgs",
+  "repos_url": "https://api.github.com/users/bumblepuppy/repos",
+  "events_url": "https://api.github.com/users/bumblepuppy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bumblepuppy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

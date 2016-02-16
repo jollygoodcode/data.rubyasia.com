@@ -1,0 +1,20 @@
+{
+  "login": "fewspider",
+  "id": 3256161,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3256161?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fewspider",
+  "html_url": "https://github.com/fewspider",
+  "followers_url": "https://api.github.com/users/fewspider/followers",
+  "following_url": "https://api.github.com/users/fewspider/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fewspider/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fewspider/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fewspider/subscriptions",
+  "organizations_url": "https://api.github.com/users/fewspider/orgs",
+  "repos_url": "https://api.github.com/users/fewspider/repos",
+  "events_url": "https://api.github.com/users/fewspider/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fewspider/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

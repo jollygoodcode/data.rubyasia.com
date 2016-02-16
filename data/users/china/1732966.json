@@ -1,0 +1,20 @@
+{
+  "login": "hyleong",
+  "id": 1732966,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1732966?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hyleong",
+  "html_url": "https://github.com/hyleong",
+  "followers_url": "https://api.github.com/users/hyleong/followers",
+  "following_url": "https://api.github.com/users/hyleong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hyleong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hyleong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hyleong/subscriptions",
+  "organizations_url": "https://api.github.com/users/hyleong/orgs",
+  "repos_url": "https://api.github.com/users/hyleong/repos",
+  "events_url": "https://api.github.com/users/hyleong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hyleong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

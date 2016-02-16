@@ -1,0 +1,20 @@
+{
+  "login": "nagakura",
+  "id": 1272335,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1272335?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nagakura",
+  "html_url": "https://github.com/nagakura",
+  "followers_url": "https://api.github.com/users/nagakura/followers",
+  "following_url": "https://api.github.com/users/nagakura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nagakura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nagakura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nagakura/subscriptions",
+  "organizations_url": "https://api.github.com/users/nagakura/orgs",
+  "repos_url": "https://api.github.com/users/nagakura/repos",
+  "events_url": "https://api.github.com/users/nagakura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nagakura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

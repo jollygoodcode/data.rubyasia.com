@@ -1,0 +1,20 @@
+{
+  "login": "puffsnow",
+  "id": 5180579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5180579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/puffsnow",
+  "html_url": "https://github.com/puffsnow",
+  "followers_url": "https://api.github.com/users/puffsnow/followers",
+  "following_url": "https://api.github.com/users/puffsnow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/puffsnow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/puffsnow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/puffsnow/subscriptions",
+  "organizations_url": "https://api.github.com/users/puffsnow/orgs",
+  "repos_url": "https://api.github.com/users/puffsnow/repos",
+  "events_url": "https://api.github.com/users/puffsnow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/puffsnow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

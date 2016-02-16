@@ -1,0 +1,20 @@
+{
+  "login": "CodeCrux",
+  "id": 7957662,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7957662?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CodeCrux",
+  "html_url": "https://github.com/CodeCrux",
+  "followers_url": "https://api.github.com/users/CodeCrux/followers",
+  "following_url": "https://api.github.com/users/CodeCrux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CodeCrux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CodeCrux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CodeCrux/subscriptions",
+  "organizations_url": "https://api.github.com/users/CodeCrux/orgs",
+  "repos_url": "https://api.github.com/users/CodeCrux/repos",
+  "events_url": "https://api.github.com/users/CodeCrux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CodeCrux/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

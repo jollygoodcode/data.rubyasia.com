@@ -1,0 +1,20 @@
+{
+  "login": "sohosai",
+  "id": 4887603,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4887603?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sohosai",
+  "html_url": "https://github.com/sohosai",
+  "followers_url": "https://api.github.com/users/sohosai/followers",
+  "following_url": "https://api.github.com/users/sohosai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sohosai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sohosai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sohosai/subscriptions",
+  "organizations_url": "https://api.github.com/users/sohosai/orgs",
+  "repos_url": "https://api.github.com/users/sohosai/repos",
+  "events_url": "https://api.github.com/users/sohosai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sohosai/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

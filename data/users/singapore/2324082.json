@@ -1,0 +1,20 @@
+{
+  "login": "cdukes",
+  "id": 2324082,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2324082?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cdukes",
+  "html_url": "https://github.com/cdukes",
+  "followers_url": "https://api.github.com/users/cdukes/followers",
+  "following_url": "https://api.github.com/users/cdukes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cdukes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cdukes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cdukes/subscriptions",
+  "organizations_url": "https://api.github.com/users/cdukes/orgs",
+  "repos_url": "https://api.github.com/users/cdukes/repos",
+  "events_url": "https://api.github.com/users/cdukes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cdukes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

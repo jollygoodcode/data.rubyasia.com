@@ -1,0 +1,20 @@
+{
+  "login": "tcoc",
+  "id": 6645995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6645995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tcoc",
+  "html_url": "https://github.com/tcoc",
+  "followers_url": "https://api.github.com/users/tcoc/followers",
+  "following_url": "https://api.github.com/users/tcoc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tcoc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tcoc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tcoc/subscriptions",
+  "organizations_url": "https://api.github.com/users/tcoc/orgs",
+  "repos_url": "https://api.github.com/users/tcoc/repos",
+  "events_url": "https://api.github.com/users/tcoc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tcoc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "readona",
+  "id": 2766798,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2766798?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/readona",
+  "html_url": "https://github.com/readona",
+  "followers_url": "https://api.github.com/users/readona/followers",
+  "following_url": "https://api.github.com/users/readona/following{/other_user}",
+  "gists_url": "https://api.github.com/users/readona/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/readona/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/readona/subscriptions",
+  "organizations_url": "https://api.github.com/users/readona/orgs",
+  "repos_url": "https://api.github.com/users/readona/repos",
+  "events_url": "https://api.github.com/users/readona/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/readona/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

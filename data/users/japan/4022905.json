@@ -1,0 +1,20 @@
+{
+  "login": "yorimoto",
+  "id": 4022905,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4022905?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yorimoto",
+  "html_url": "https://github.com/yorimoto",
+  "followers_url": "https://api.github.com/users/yorimoto/followers",
+  "following_url": "https://api.github.com/users/yorimoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yorimoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yorimoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yorimoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/yorimoto/orgs",
+  "repos_url": "https://api.github.com/users/yorimoto/repos",
+  "events_url": "https://api.github.com/users/yorimoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yorimoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

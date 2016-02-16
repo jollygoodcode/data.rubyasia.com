@@ -1,0 +1,20 @@
+{
+  "login": "smashideas",
+  "id": 10058252,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10058252?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smashideas",
+  "html_url": "https://github.com/smashideas",
+  "followers_url": "https://api.github.com/users/smashideas/followers",
+  "following_url": "https://api.github.com/users/smashideas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smashideas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smashideas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smashideas/subscriptions",
+  "organizations_url": "https://api.github.com/users/smashideas/orgs",
+  "repos_url": "https://api.github.com/users/smashideas/repos",
+  "events_url": "https://api.github.com/users/smashideas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smashideas/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

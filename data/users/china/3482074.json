@@ -1,0 +1,20 @@
+{
+  "login": "babodx",
+  "id": 3482074,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3482074?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/babodx",
+  "html_url": "https://github.com/babodx",
+  "followers_url": "https://api.github.com/users/babodx/followers",
+  "following_url": "https://api.github.com/users/babodx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/babodx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/babodx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/babodx/subscriptions",
+  "organizations_url": "https://api.github.com/users/babodx/orgs",
+  "repos_url": "https://api.github.com/users/babodx/repos",
+  "events_url": "https://api.github.com/users/babodx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/babodx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

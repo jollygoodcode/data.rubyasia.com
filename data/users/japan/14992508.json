@@ -1,0 +1,20 @@
+{
+  "login": "mupty",
+  "id": 14992508,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14992508?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mupty",
+  "html_url": "https://github.com/mupty",
+  "followers_url": "https://api.github.com/users/mupty/followers",
+  "following_url": "https://api.github.com/users/mupty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mupty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mupty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mupty/subscriptions",
+  "organizations_url": "https://api.github.com/users/mupty/orgs",
+  "repos_url": "https://api.github.com/users/mupty/repos",
+  "events_url": "https://api.github.com/users/mupty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mupty/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

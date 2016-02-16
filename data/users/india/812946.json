@@ -1,0 +1,20 @@
+{
+  "login": "amkis",
+  "id": 812946,
+  "avatar_url": "https://avatars.githubusercontent.com/u/812946?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amkis",
+  "html_url": "https://github.com/amkis",
+  "followers_url": "https://api.github.com/users/amkis/followers",
+  "following_url": "https://api.github.com/users/amkis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amkis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amkis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amkis/subscriptions",
+  "organizations_url": "https://api.github.com/users/amkis/orgs",
+  "repos_url": "https://api.github.com/users/amkis/repos",
+  "events_url": "https://api.github.com/users/amkis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amkis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

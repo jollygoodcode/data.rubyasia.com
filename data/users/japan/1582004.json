@@ -1,0 +1,20 @@
+{
+  "login": "devyas",
+  "id": 1582004,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1582004?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devyas",
+  "html_url": "https://github.com/devyas",
+  "followers_url": "https://api.github.com/users/devyas/followers",
+  "following_url": "https://api.github.com/users/devyas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devyas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devyas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devyas/subscriptions",
+  "organizations_url": "https://api.github.com/users/devyas/orgs",
+  "repos_url": "https://api.github.com/users/devyas/repos",
+  "events_url": "https://api.github.com/users/devyas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devyas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

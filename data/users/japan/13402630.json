@@ -1,0 +1,20 @@
+{
+  "login": "j5kd",
+  "id": 13402630,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13402630?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/j5kd",
+  "html_url": "https://github.com/j5kd",
+  "followers_url": "https://api.github.com/users/j5kd/followers",
+  "following_url": "https://api.github.com/users/j5kd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/j5kd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/j5kd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/j5kd/subscriptions",
+  "organizations_url": "https://api.github.com/users/j5kd/orgs",
+  "repos_url": "https://api.github.com/users/j5kd/repos",
+  "events_url": "https://api.github.com/users/j5kd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/j5kd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

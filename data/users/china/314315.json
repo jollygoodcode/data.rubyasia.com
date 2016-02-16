@@ -1,0 +1,20 @@
+{
+  "login": "yuanping",
+  "id": 314315,
+  "avatar_url": "https://avatars.githubusercontent.com/u/314315?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuanping",
+  "html_url": "https://github.com/yuanping",
+  "followers_url": "https://api.github.com/users/yuanping/followers",
+  "following_url": "https://api.github.com/users/yuanping/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuanping/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuanping/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuanping/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuanping/orgs",
+  "repos_url": "https://api.github.com/users/yuanping/repos",
+  "events_url": "https://api.github.com/users/yuanping/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuanping/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

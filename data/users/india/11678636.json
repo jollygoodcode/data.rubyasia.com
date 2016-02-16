@@ -1,0 +1,20 @@
+{
+  "login": "mparitala",
+  "id": 11678636,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11678636?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mparitala",
+  "html_url": "https://github.com/mparitala",
+  "followers_url": "https://api.github.com/users/mparitala/followers",
+  "following_url": "https://api.github.com/users/mparitala/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mparitala/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mparitala/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mparitala/subscriptions",
+  "organizations_url": "https://api.github.com/users/mparitala/orgs",
+  "repos_url": "https://api.github.com/users/mparitala/repos",
+  "events_url": "https://api.github.com/users/mparitala/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mparitala/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

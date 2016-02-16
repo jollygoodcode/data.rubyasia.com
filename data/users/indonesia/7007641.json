@@ -1,0 +1,20 @@
+{
+  "login": "inefit",
+  "id": 7007641,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7007641?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inefit",
+  "html_url": "https://github.com/inefit",
+  "followers_url": "https://api.github.com/users/inefit/followers",
+  "following_url": "https://api.github.com/users/inefit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inefit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inefit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inefit/subscriptions",
+  "organizations_url": "https://api.github.com/users/inefit/orgs",
+  "repos_url": "https://api.github.com/users/inefit/repos",
+  "events_url": "https://api.github.com/users/inefit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inefit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

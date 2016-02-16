@@ -1,0 +1,20 @@
+{
+  "login": "shoumu",
+  "id": 2498069,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2498069?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shoumu",
+  "html_url": "https://github.com/shoumu",
+  "followers_url": "https://api.github.com/users/shoumu/followers",
+  "following_url": "https://api.github.com/users/shoumu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shoumu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shoumu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shoumu/subscriptions",
+  "organizations_url": "https://api.github.com/users/shoumu/orgs",
+  "repos_url": "https://api.github.com/users/shoumu/repos",
+  "events_url": "https://api.github.com/users/shoumu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shoumu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

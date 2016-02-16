@@ -1,0 +1,20 @@
+{
+  "login": "psskhal",
+  "id": 2403846,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2403846?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/psskhal",
+  "html_url": "https://github.com/psskhal",
+  "followers_url": "https://api.github.com/users/psskhal/followers",
+  "following_url": "https://api.github.com/users/psskhal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/psskhal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/psskhal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/psskhal/subscriptions",
+  "organizations_url": "https://api.github.com/users/psskhal/orgs",
+  "repos_url": "https://api.github.com/users/psskhal/repos",
+  "events_url": "https://api.github.com/users/psskhal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/psskhal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

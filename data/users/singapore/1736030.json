@@ -1,0 +1,20 @@
+{
+  "login": "vinoaj",
+  "id": 1736030,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1736030?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vinoaj",
+  "html_url": "https://github.com/vinoaj",
+  "followers_url": "https://api.github.com/users/vinoaj/followers",
+  "following_url": "https://api.github.com/users/vinoaj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vinoaj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vinoaj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vinoaj/subscriptions",
+  "organizations_url": "https://api.github.com/users/vinoaj/orgs",
+  "repos_url": "https://api.github.com/users/vinoaj/repos",
+  "events_url": "https://api.github.com/users/vinoaj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vinoaj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

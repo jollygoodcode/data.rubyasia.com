@@ -1,0 +1,20 @@
+{
+  "login": "teamlittlelives",
+  "id": 2462782,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2462782?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/teamlittlelives",
+  "html_url": "https://github.com/teamlittlelives",
+  "followers_url": "https://api.github.com/users/teamlittlelives/followers",
+  "following_url": "https://api.github.com/users/teamlittlelives/following{/other_user}",
+  "gists_url": "https://api.github.com/users/teamlittlelives/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/teamlittlelives/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/teamlittlelives/subscriptions",
+  "organizations_url": "https://api.github.com/users/teamlittlelives/orgs",
+  "repos_url": "https://api.github.com/users/teamlittlelives/repos",
+  "events_url": "https://api.github.com/users/teamlittlelives/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/teamlittlelives/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

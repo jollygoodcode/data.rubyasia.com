@@ -1,0 +1,20 @@
+{
+  "login": "kadoppe",
+  "id": 20763,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20763?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kadoppe",
+  "html_url": "https://github.com/kadoppe",
+  "followers_url": "https://api.github.com/users/kadoppe/followers",
+  "following_url": "https://api.github.com/users/kadoppe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kadoppe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kadoppe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kadoppe/subscriptions",
+  "organizations_url": "https://api.github.com/users/kadoppe/orgs",
+  "repos_url": "https://api.github.com/users/kadoppe/repos",
+  "events_url": "https://api.github.com/users/kadoppe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kadoppe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

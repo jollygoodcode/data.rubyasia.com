@@ -1,0 +1,20 @@
+{
+  "login": "lioneldsilva",
+  "id": 10355564,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10355564?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lioneldsilva",
+  "html_url": "https://github.com/lioneldsilva",
+  "followers_url": "https://api.github.com/users/lioneldsilva/followers",
+  "following_url": "https://api.github.com/users/lioneldsilva/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lioneldsilva/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lioneldsilva/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lioneldsilva/subscriptions",
+  "organizations_url": "https://api.github.com/users/lioneldsilva/orgs",
+  "repos_url": "https://api.github.com/users/lioneldsilva/repos",
+  "events_url": "https://api.github.com/users/lioneldsilva/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lioneldsilva/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

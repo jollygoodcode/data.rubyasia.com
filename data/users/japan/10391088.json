@@ -1,0 +1,20 @@
+{
+  "login": "rilmayer",
+  "id": 10391088,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10391088?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rilmayer",
+  "html_url": "https://github.com/rilmayer",
+  "followers_url": "https://api.github.com/users/rilmayer/followers",
+  "following_url": "https://api.github.com/users/rilmayer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rilmayer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rilmayer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rilmayer/subscriptions",
+  "organizations_url": "https://api.github.com/users/rilmayer/orgs",
+  "repos_url": "https://api.github.com/users/rilmayer/repos",
+  "events_url": "https://api.github.com/users/rilmayer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rilmayer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

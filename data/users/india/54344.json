@@ -1,0 +1,20 @@
+{
+  "login": "jagdeep",
+  "id": 54344,
+  "avatar_url": "https://avatars.githubusercontent.com/u/54344?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jagdeep",
+  "html_url": "https://github.com/jagdeep",
+  "followers_url": "https://api.github.com/users/jagdeep/followers",
+  "following_url": "https://api.github.com/users/jagdeep/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jagdeep/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jagdeep/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jagdeep/subscriptions",
+  "organizations_url": "https://api.github.com/users/jagdeep/orgs",
+  "repos_url": "https://api.github.com/users/jagdeep/repos",
+  "events_url": "https://api.github.com/users/jagdeep/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jagdeep/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

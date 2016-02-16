@@ -1,0 +1,20 @@
+{
+  "login": "shamithc",
+  "id": 404230,
+  "avatar_url": "https://avatars.githubusercontent.com/u/404230?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shamithc",
+  "html_url": "https://github.com/shamithc",
+  "followers_url": "https://api.github.com/users/shamithc/followers",
+  "following_url": "https://api.github.com/users/shamithc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shamithc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shamithc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shamithc/subscriptions",
+  "organizations_url": "https://api.github.com/users/shamithc/orgs",
+  "repos_url": "https://api.github.com/users/shamithc/repos",
+  "events_url": "https://api.github.com/users/shamithc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shamithc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

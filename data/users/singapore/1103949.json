@@ -1,0 +1,20 @@
+{
+  "login": "vikicasts",
+  "id": 1103949,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1103949?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vikicasts",
+  "html_url": "https://github.com/vikicasts",
+  "followers_url": "https://api.github.com/users/vikicasts/followers",
+  "following_url": "https://api.github.com/users/vikicasts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vikicasts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vikicasts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vikicasts/subscriptions",
+  "organizations_url": "https://api.github.com/users/vikicasts/orgs",
+  "repos_url": "https://api.github.com/users/vikicasts/repos",
+  "events_url": "https://api.github.com/users/vikicasts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vikicasts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

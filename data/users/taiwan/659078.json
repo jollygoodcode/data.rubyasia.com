@@ -1,0 +1,20 @@
+{
+  "login": "jvmgroup",
+  "id": 659078,
+  "avatar_url": "https://avatars.githubusercontent.com/u/659078?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jvmgroup",
+  "html_url": "https://github.com/jvmgroup",
+  "followers_url": "https://api.github.com/users/jvmgroup/followers",
+  "following_url": "https://api.github.com/users/jvmgroup/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jvmgroup/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jvmgroup/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jvmgroup/subscriptions",
+  "organizations_url": "https://api.github.com/users/jvmgroup/orgs",
+  "repos_url": "https://api.github.com/users/jvmgroup/repos",
+  "events_url": "https://api.github.com/users/jvmgroup/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jvmgroup/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

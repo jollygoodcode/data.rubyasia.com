@@ -1,0 +1,20 @@
+{
+  "login": "lamfete",
+  "id": 6195369,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6195369?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lamfete",
+  "html_url": "https://github.com/lamfete",
+  "followers_url": "https://api.github.com/users/lamfete/followers",
+  "following_url": "https://api.github.com/users/lamfete/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lamfete/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lamfete/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lamfete/subscriptions",
+  "organizations_url": "https://api.github.com/users/lamfete/orgs",
+  "repos_url": "https://api.github.com/users/lamfete/repos",
+  "events_url": "https://api.github.com/users/lamfete/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lamfete/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

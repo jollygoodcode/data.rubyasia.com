@@ -1,0 +1,20 @@
+{
+  "login": "railsant",
+  "id": 414092,
+  "avatar_url": "https://avatars.githubusercontent.com/u/414092?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/railsant",
+  "html_url": "https://github.com/railsant",
+  "followers_url": "https://api.github.com/users/railsant/followers",
+  "following_url": "https://api.github.com/users/railsant/following{/other_user}",
+  "gists_url": "https://api.github.com/users/railsant/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/railsant/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/railsant/subscriptions",
+  "organizations_url": "https://api.github.com/users/railsant/orgs",
+  "repos_url": "https://api.github.com/users/railsant/repos",
+  "events_url": "https://api.github.com/users/railsant/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/railsant/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

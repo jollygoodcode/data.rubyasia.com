@@ -1,0 +1,20 @@
+{
+  "login": "scorix",
+  "id": 842097,
+  "avatar_url": "https://avatars.githubusercontent.com/u/842097?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/scorix",
+  "html_url": "https://github.com/scorix",
+  "followers_url": "https://api.github.com/users/scorix/followers",
+  "following_url": "https://api.github.com/users/scorix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/scorix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/scorix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/scorix/subscriptions",
+  "organizations_url": "https://api.github.com/users/scorix/orgs",
+  "repos_url": "https://api.github.com/users/scorix/repos",
+  "events_url": "https://api.github.com/users/scorix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/scorix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

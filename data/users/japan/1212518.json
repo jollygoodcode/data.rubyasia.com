@@ -1,0 +1,20 @@
+{
+  "login": "hareno",
+  "id": 1212518,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1212518?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hareno",
+  "html_url": "https://github.com/hareno",
+  "followers_url": "https://api.github.com/users/hareno/followers",
+  "following_url": "https://api.github.com/users/hareno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hareno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hareno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hareno/subscriptions",
+  "organizations_url": "https://api.github.com/users/hareno/orgs",
+  "repos_url": "https://api.github.com/users/hareno/repos",
+  "events_url": "https://api.github.com/users/hareno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hareno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

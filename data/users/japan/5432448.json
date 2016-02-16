@@ -1,0 +1,20 @@
+{
+  "login": "sadakoa",
+  "id": 5432448,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5432448?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sadakoa",
+  "html_url": "https://github.com/sadakoa",
+  "followers_url": "https://api.github.com/users/sadakoa/followers",
+  "following_url": "https://api.github.com/users/sadakoa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sadakoa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sadakoa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sadakoa/subscriptions",
+  "organizations_url": "https://api.github.com/users/sadakoa/orgs",
+  "repos_url": "https://api.github.com/users/sadakoa/repos",
+  "events_url": "https://api.github.com/users/sadakoa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sadakoa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

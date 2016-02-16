@@ -1,0 +1,20 @@
+{
+  "login": "wysl",
+  "id": 15063284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15063284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wysl",
+  "html_url": "https://github.com/wysl",
+  "followers_url": "https://api.github.com/users/wysl/followers",
+  "following_url": "https://api.github.com/users/wysl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wysl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wysl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wysl/subscriptions",
+  "organizations_url": "https://api.github.com/users/wysl/orgs",
+  "repos_url": "https://api.github.com/users/wysl/repos",
+  "events_url": "https://api.github.com/users/wysl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wysl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

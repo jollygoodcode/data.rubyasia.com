@@ -1,0 +1,20 @@
+{
+  "login": "DNx5",
+  "id": 10906988,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10906988?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DNx5",
+  "html_url": "https://github.com/DNx5",
+  "followers_url": "https://api.github.com/users/DNx5/followers",
+  "following_url": "https://api.github.com/users/DNx5/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DNx5/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DNx5/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DNx5/subscriptions",
+  "organizations_url": "https://api.github.com/users/DNx5/orgs",
+  "repos_url": "https://api.github.com/users/DNx5/repos",
+  "events_url": "https://api.github.com/users/DNx5/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DNx5/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

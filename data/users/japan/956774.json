@@ -1,0 +1,20 @@
+{
+  "login": "aspick",
+  "id": 956774,
+  "avatar_url": "https://avatars.githubusercontent.com/u/956774?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aspick",
+  "html_url": "https://github.com/aspick",
+  "followers_url": "https://api.github.com/users/aspick/followers",
+  "following_url": "https://api.github.com/users/aspick/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aspick/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aspick/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aspick/subscriptions",
+  "organizations_url": "https://api.github.com/users/aspick/orgs",
+  "repos_url": "https://api.github.com/users/aspick/repos",
+  "events_url": "https://api.github.com/users/aspick/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aspick/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

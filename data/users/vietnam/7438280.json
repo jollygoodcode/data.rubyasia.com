@@ -1,0 +1,20 @@
+{
+  "login": "thaotp",
+  "id": 7438280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7438280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thaotp",
+  "html_url": "https://github.com/thaotp",
+  "followers_url": "https://api.github.com/users/thaotp/followers",
+  "following_url": "https://api.github.com/users/thaotp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thaotp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thaotp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thaotp/subscriptions",
+  "organizations_url": "https://api.github.com/users/thaotp/orgs",
+  "repos_url": "https://api.github.com/users/thaotp/repos",
+  "events_url": "https://api.github.com/users/thaotp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thaotp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

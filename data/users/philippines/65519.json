@@ -1,0 +1,20 @@
+{
+  "login": "luckyrps",
+  "id": 65519,
+  "avatar_url": "https://avatars.githubusercontent.com/u/65519?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/luckyrps",
+  "html_url": "https://github.com/luckyrps",
+  "followers_url": "https://api.github.com/users/luckyrps/followers",
+  "following_url": "https://api.github.com/users/luckyrps/following{/other_user}",
+  "gists_url": "https://api.github.com/users/luckyrps/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/luckyrps/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/luckyrps/subscriptions",
+  "organizations_url": "https://api.github.com/users/luckyrps/orgs",
+  "repos_url": "https://api.github.com/users/luckyrps/repos",
+  "events_url": "https://api.github.com/users/luckyrps/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/luckyrps/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

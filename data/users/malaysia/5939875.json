@@ -1,0 +1,20 @@
+{
+  "login": "albert-tan",
+  "id": 5939875,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5939875?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/albert-tan",
+  "html_url": "https://github.com/albert-tan",
+  "followers_url": "https://api.github.com/users/albert-tan/followers",
+  "following_url": "https://api.github.com/users/albert-tan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/albert-tan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/albert-tan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/albert-tan/subscriptions",
+  "organizations_url": "https://api.github.com/users/albert-tan/orgs",
+  "repos_url": "https://api.github.com/users/albert-tan/repos",
+  "events_url": "https://api.github.com/users/albert-tan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/albert-tan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

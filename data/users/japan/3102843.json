@@ -1,0 +1,20 @@
+{
+  "login": "tei-g",
+  "id": 3102843,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3102843?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tei-g",
+  "html_url": "https://github.com/tei-g",
+  "followers_url": "https://api.github.com/users/tei-g/followers",
+  "following_url": "https://api.github.com/users/tei-g/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tei-g/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tei-g/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tei-g/subscriptions",
+  "organizations_url": "https://api.github.com/users/tei-g/orgs",
+  "repos_url": "https://api.github.com/users/tei-g/repos",
+  "events_url": "https://api.github.com/users/tei-g/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tei-g/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

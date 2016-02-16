@@ -1,0 +1,20 @@
+{
+  "login": "lealforest",
+  "id": 2712933,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2712933?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lealforest",
+  "html_url": "https://github.com/lealforest",
+  "followers_url": "https://api.github.com/users/lealforest/followers",
+  "following_url": "https://api.github.com/users/lealforest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lealforest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lealforest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lealforest/subscriptions",
+  "organizations_url": "https://api.github.com/users/lealforest/orgs",
+  "repos_url": "https://api.github.com/users/lealforest/repos",
+  "events_url": "https://api.github.com/users/lealforest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lealforest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

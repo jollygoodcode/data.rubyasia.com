@@ -1,0 +1,20 @@
+{
+  "login": "pinglamb",
+  "id": 287503,
+  "avatar_url": "https://avatars.githubusercontent.com/u/287503?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pinglamb",
+  "html_url": "https://github.com/pinglamb",
+  "followers_url": "https://api.github.com/users/pinglamb/followers",
+  "following_url": "https://api.github.com/users/pinglamb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pinglamb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pinglamb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pinglamb/subscriptions",
+  "organizations_url": "https://api.github.com/users/pinglamb/orgs",
+  "repos_url": "https://api.github.com/users/pinglamb/repos",
+  "events_url": "https://api.github.com/users/pinglamb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pinglamb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ytanno",
+  "id": 5708364,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5708364?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ytanno",
+  "html_url": "https://github.com/ytanno",
+  "followers_url": "https://api.github.com/users/ytanno/followers",
+  "following_url": "https://api.github.com/users/ytanno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ytanno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ytanno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ytanno/subscriptions",
+  "organizations_url": "https://api.github.com/users/ytanno/orgs",
+  "repos_url": "https://api.github.com/users/ytanno/repos",
+  "events_url": "https://api.github.com/users/ytanno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ytanno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

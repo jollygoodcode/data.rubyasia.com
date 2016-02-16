@@ -1,0 +1,20 @@
+{
+  "login": "buoyant",
+  "id": 853287,
+  "avatar_url": "https://avatars.githubusercontent.com/u/853287?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/buoyant",
+  "html_url": "https://github.com/buoyant",
+  "followers_url": "https://api.github.com/users/buoyant/followers",
+  "following_url": "https://api.github.com/users/buoyant/following{/other_user}",
+  "gists_url": "https://api.github.com/users/buoyant/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/buoyant/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/buoyant/subscriptions",
+  "organizations_url": "https://api.github.com/users/buoyant/orgs",
+  "repos_url": "https://api.github.com/users/buoyant/repos",
+  "events_url": "https://api.github.com/users/buoyant/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/buoyant/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

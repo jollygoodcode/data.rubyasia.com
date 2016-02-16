@@ -1,0 +1,20 @@
+{
+  "login": "awingla",
+  "id": 3305349,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3305349?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/awingla",
+  "html_url": "https://github.com/awingla",
+  "followers_url": "https://api.github.com/users/awingla/followers",
+  "following_url": "https://api.github.com/users/awingla/following{/other_user}",
+  "gists_url": "https://api.github.com/users/awingla/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/awingla/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/awingla/subscriptions",
+  "organizations_url": "https://api.github.com/users/awingla/orgs",
+  "repos_url": "https://api.github.com/users/awingla/repos",
+  "events_url": "https://api.github.com/users/awingla/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/awingla/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

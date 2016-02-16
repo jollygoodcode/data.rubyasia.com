@@ -1,0 +1,20 @@
+{
+  "login": "nayutaya",
+  "id": 28059,
+  "avatar_url": "https://avatars.githubusercontent.com/u/28059?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nayutaya",
+  "html_url": "https://github.com/nayutaya",
+  "followers_url": "https://api.github.com/users/nayutaya/followers",
+  "following_url": "https://api.github.com/users/nayutaya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nayutaya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nayutaya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nayutaya/subscriptions",
+  "organizations_url": "https://api.github.com/users/nayutaya/orgs",
+  "repos_url": "https://api.github.com/users/nayutaya/repos",
+  "events_url": "https://api.github.com/users/nayutaya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nayutaya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

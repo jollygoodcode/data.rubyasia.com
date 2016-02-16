@@ -1,0 +1,20 @@
+{
+  "login": "ROkuda",
+  "id": 3324169,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3324169?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ROkuda",
+  "html_url": "https://github.com/ROkuda",
+  "followers_url": "https://api.github.com/users/ROkuda/followers",
+  "following_url": "https://api.github.com/users/ROkuda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ROkuda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ROkuda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ROkuda/subscriptions",
+  "organizations_url": "https://api.github.com/users/ROkuda/orgs",
+  "repos_url": "https://api.github.com/users/ROkuda/repos",
+  "events_url": "https://api.github.com/users/ROkuda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ROkuda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

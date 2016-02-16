@@ -1,0 +1,20 @@
+{
+  "login": "yosukeono",
+  "id": 6466521,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6466521?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yosukeono",
+  "html_url": "https://github.com/yosukeono",
+  "followers_url": "https://api.github.com/users/yosukeono/followers",
+  "following_url": "https://api.github.com/users/yosukeono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yosukeono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yosukeono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yosukeono/subscriptions",
+  "organizations_url": "https://api.github.com/users/yosukeono/orgs",
+  "repos_url": "https://api.github.com/users/yosukeono/repos",
+  "events_url": "https://api.github.com/users/yosukeono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yosukeono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

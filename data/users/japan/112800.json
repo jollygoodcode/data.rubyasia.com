@@ -1,0 +1,20 @@
+{
+  "login": "mobalean",
+  "id": 112800,
+  "avatar_url": "https://avatars.githubusercontent.com/u/112800?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mobalean",
+  "html_url": "https://github.com/mobalean",
+  "followers_url": "https://api.github.com/users/mobalean/followers",
+  "following_url": "https://api.github.com/users/mobalean/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mobalean/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mobalean/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mobalean/subscriptions",
+  "organizations_url": "https://api.github.com/users/mobalean/orgs",
+  "repos_url": "https://api.github.com/users/mobalean/repos",
+  "events_url": "https://api.github.com/users/mobalean/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mobalean/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Rustandi",
+  "id": 3454113,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3454113?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Rustandi",
+  "html_url": "https://github.com/Rustandi",
+  "followers_url": "https://api.github.com/users/Rustandi/followers",
+  "following_url": "https://api.github.com/users/Rustandi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Rustandi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Rustandi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Rustandi/subscriptions",
+  "organizations_url": "https://api.github.com/users/Rustandi/orgs",
+  "repos_url": "https://api.github.com/users/Rustandi/repos",
+  "events_url": "https://api.github.com/users/Rustandi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Rustandi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "andit-ogihara",
+  "id": 10173056,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10173056?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andit-ogihara",
+  "html_url": "https://github.com/andit-ogihara",
+  "followers_url": "https://api.github.com/users/andit-ogihara/followers",
+  "following_url": "https://api.github.com/users/andit-ogihara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andit-ogihara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andit-ogihara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andit-ogihara/subscriptions",
+  "organizations_url": "https://api.github.com/users/andit-ogihara/orgs",
+  "repos_url": "https://api.github.com/users/andit-ogihara/repos",
+  "events_url": "https://api.github.com/users/andit-ogihara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andit-ogihara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

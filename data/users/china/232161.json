@@ -1,0 +1,20 @@
+{
+  "login": "andot",
+  "id": 232161,
+  "avatar_url": "https://avatars.githubusercontent.com/u/232161?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andot",
+  "html_url": "https://github.com/andot",
+  "followers_url": "https://api.github.com/users/andot/followers",
+  "following_url": "https://api.github.com/users/andot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andot/subscriptions",
+  "organizations_url": "https://api.github.com/users/andot/orgs",
+  "repos_url": "https://api.github.com/users/andot/repos",
+  "events_url": "https://api.github.com/users/andot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

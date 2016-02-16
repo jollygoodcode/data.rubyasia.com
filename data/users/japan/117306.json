@@ -1,0 +1,20 @@
+{
+  "login": "ogasyo",
+  "id": 117306,
+  "avatar_url": "https://avatars.githubusercontent.com/u/117306?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ogasyo",
+  "html_url": "https://github.com/ogasyo",
+  "followers_url": "https://api.github.com/users/ogasyo/followers",
+  "following_url": "https://api.github.com/users/ogasyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ogasyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ogasyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ogasyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/ogasyo/orgs",
+  "repos_url": "https://api.github.com/users/ogasyo/repos",
+  "events_url": "https://api.github.com/users/ogasyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ogasyo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

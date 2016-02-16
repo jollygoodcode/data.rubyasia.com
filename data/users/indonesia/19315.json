@@ -1,0 +1,20 @@
+{
+  "login": "rafeequl",
+  "id": 19315,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19315?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rafeequl",
+  "html_url": "https://github.com/rafeequl",
+  "followers_url": "https://api.github.com/users/rafeequl/followers",
+  "following_url": "https://api.github.com/users/rafeequl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rafeequl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rafeequl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rafeequl/subscriptions",
+  "organizations_url": "https://api.github.com/users/rafeequl/orgs",
+  "repos_url": "https://api.github.com/users/rafeequl/repos",
+  "events_url": "https://api.github.com/users/rafeequl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rafeequl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

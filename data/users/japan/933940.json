@@ -1,0 +1,20 @@
+{
+  "login": "totakke",
+  "id": 933940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/933940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/totakke",
+  "html_url": "https://github.com/totakke",
+  "followers_url": "https://api.github.com/users/totakke/followers",
+  "following_url": "https://api.github.com/users/totakke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/totakke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/totakke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/totakke/subscriptions",
+  "organizations_url": "https://api.github.com/users/totakke/orgs",
+  "repos_url": "https://api.github.com/users/totakke/repos",
+  "events_url": "https://api.github.com/users/totakke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/totakke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

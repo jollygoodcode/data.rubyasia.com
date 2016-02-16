@@ -1,0 +1,20 @@
+{
+  "login": "jesse-yin",
+  "id": 7950271,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7950271?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jesse-yin",
+  "html_url": "https://github.com/jesse-yin",
+  "followers_url": "https://api.github.com/users/jesse-yin/followers",
+  "following_url": "https://api.github.com/users/jesse-yin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jesse-yin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jesse-yin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jesse-yin/subscriptions",
+  "organizations_url": "https://api.github.com/users/jesse-yin/orgs",
+  "repos_url": "https://api.github.com/users/jesse-yin/repos",
+  "events_url": "https://api.github.com/users/jesse-yin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jesse-yin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

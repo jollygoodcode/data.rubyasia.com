@@ -1,0 +1,20 @@
+{
+  "login": "oke-ya",
+  "id": 5126875,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5126875?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oke-ya",
+  "html_url": "https://github.com/oke-ya",
+  "followers_url": "https://api.github.com/users/oke-ya/followers",
+  "following_url": "https://api.github.com/users/oke-ya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oke-ya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oke-ya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oke-ya/subscriptions",
+  "organizations_url": "https://api.github.com/users/oke-ya/orgs",
+  "repos_url": "https://api.github.com/users/oke-ya/repos",
+  "events_url": "https://api.github.com/users/oke-ya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oke-ya/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

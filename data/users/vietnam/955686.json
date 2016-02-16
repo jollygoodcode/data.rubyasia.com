@@ -1,0 +1,20 @@
+{
+  "login": "hieurl",
+  "id": 955686,
+  "avatar_url": "https://avatars.githubusercontent.com/u/955686?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hieurl",
+  "html_url": "https://github.com/hieurl",
+  "followers_url": "https://api.github.com/users/hieurl/followers",
+  "following_url": "https://api.github.com/users/hieurl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hieurl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hieurl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hieurl/subscriptions",
+  "organizations_url": "https://api.github.com/users/hieurl/orgs",
+  "repos_url": "https://api.github.com/users/hieurl/repos",
+  "events_url": "https://api.github.com/users/hieurl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hieurl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

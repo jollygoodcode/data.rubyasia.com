@@ -1,0 +1,20 @@
+{
+  "login": "kuroda",
+  "id": 5565,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5565?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kuroda",
+  "html_url": "https://github.com/kuroda",
+  "followers_url": "https://api.github.com/users/kuroda/followers",
+  "following_url": "https://api.github.com/users/kuroda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kuroda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kuroda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kuroda/subscriptions",
+  "organizations_url": "https://api.github.com/users/kuroda/orgs",
+  "repos_url": "https://api.github.com/users/kuroda/repos",
+  "events_url": "https://api.github.com/users/kuroda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kuroda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kazoo",
+  "id": 696262,
+  "avatar_url": "https://avatars.githubusercontent.com/u/696262?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kazoo",
+  "html_url": "https://github.com/kazoo",
+  "followers_url": "https://api.github.com/users/kazoo/followers",
+  "following_url": "https://api.github.com/users/kazoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kazoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kazoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kazoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/kazoo/orgs",
+  "repos_url": "https://api.github.com/users/kazoo/repos",
+  "events_url": "https://api.github.com/users/kazoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kazoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

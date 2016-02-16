@@ -1,0 +1,20 @@
+{
+  "login": "cderong",
+  "id": 508559,
+  "avatar_url": "https://avatars.githubusercontent.com/u/508559?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cderong",
+  "html_url": "https://github.com/cderong",
+  "followers_url": "https://api.github.com/users/cderong/followers",
+  "following_url": "https://api.github.com/users/cderong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cderong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cderong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cderong/subscriptions",
+  "organizations_url": "https://api.github.com/users/cderong/orgs",
+  "repos_url": "https://api.github.com/users/cderong/repos",
+  "events_url": "https://api.github.com/users/cderong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cderong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

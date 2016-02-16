@@ -1,0 +1,20 @@
+{
+  "login": "jamiltao",
+  "id": 289755,
+  "avatar_url": "https://avatars.githubusercontent.com/u/289755?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamiltao",
+  "html_url": "https://github.com/jamiltao",
+  "followers_url": "https://api.github.com/users/jamiltao/followers",
+  "following_url": "https://api.github.com/users/jamiltao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamiltao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamiltao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamiltao/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamiltao/orgs",
+  "repos_url": "https://api.github.com/users/jamiltao/repos",
+  "events_url": "https://api.github.com/users/jamiltao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamiltao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

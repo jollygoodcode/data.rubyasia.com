@@ -1,0 +1,20 @@
+{
+  "login": "JohnnyLam111",
+  "id": 9018263,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9018263?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JohnnyLam111",
+  "html_url": "https://github.com/JohnnyLam111",
+  "followers_url": "https://api.github.com/users/JohnnyLam111/followers",
+  "following_url": "https://api.github.com/users/JohnnyLam111/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JohnnyLam111/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JohnnyLam111/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JohnnyLam111/subscriptions",
+  "organizations_url": "https://api.github.com/users/JohnnyLam111/orgs",
+  "repos_url": "https://api.github.com/users/JohnnyLam111/repos",
+  "events_url": "https://api.github.com/users/JohnnyLam111/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JohnnyLam111/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

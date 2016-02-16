@@ -1,0 +1,20 @@
+{
+  "login": "genshiro",
+  "id": 34751,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34751?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/genshiro",
+  "html_url": "https://github.com/genshiro",
+  "followers_url": "https://api.github.com/users/genshiro/followers",
+  "following_url": "https://api.github.com/users/genshiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/genshiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/genshiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/genshiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/genshiro/orgs",
+  "repos_url": "https://api.github.com/users/genshiro/repos",
+  "events_url": "https://api.github.com/users/genshiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/genshiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

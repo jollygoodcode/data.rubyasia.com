@@ -1,0 +1,20 @@
+{
+  "login": "YukiKita",
+  "id": 202945,
+  "avatar_url": "https://avatars.githubusercontent.com/u/202945?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/YukiKita",
+  "html_url": "https://github.com/YukiKita",
+  "followers_url": "https://api.github.com/users/YukiKita/followers",
+  "following_url": "https://api.github.com/users/YukiKita/following{/other_user}",
+  "gists_url": "https://api.github.com/users/YukiKita/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/YukiKita/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/YukiKita/subscriptions",
+  "organizations_url": "https://api.github.com/users/YukiKita/orgs",
+  "repos_url": "https://api.github.com/users/YukiKita/repos",
+  "events_url": "https://api.github.com/users/YukiKita/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/YukiKita/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

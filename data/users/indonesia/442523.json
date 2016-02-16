@@ -1,0 +1,20 @@
+{
+  "login": "Gungz",
+  "id": 442523,
+  "avatar_url": "https://avatars.githubusercontent.com/u/442523?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Gungz",
+  "html_url": "https://github.com/Gungz",
+  "followers_url": "https://api.github.com/users/Gungz/followers",
+  "following_url": "https://api.github.com/users/Gungz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Gungz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Gungz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Gungz/subscriptions",
+  "organizations_url": "https://api.github.com/users/Gungz/orgs",
+  "repos_url": "https://api.github.com/users/Gungz/repos",
+  "events_url": "https://api.github.com/users/Gungz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Gungz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

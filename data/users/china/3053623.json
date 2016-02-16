@@ -1,0 +1,20 @@
+{
+  "login": "jojogos",
+  "id": 3053623,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3053623?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jojogos",
+  "html_url": "https://github.com/jojogos",
+  "followers_url": "https://api.github.com/users/jojogos/followers",
+  "following_url": "https://api.github.com/users/jojogos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jojogos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jojogos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jojogos/subscriptions",
+  "organizations_url": "https://api.github.com/users/jojogos/orgs",
+  "repos_url": "https://api.github.com/users/jojogos/repos",
+  "events_url": "https://api.github.com/users/jojogos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jojogos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

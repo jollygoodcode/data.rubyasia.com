@@ -1,0 +1,20 @@
+{
+  "login": "pvin",
+  "id": 4160460,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4160460?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pvin",
+  "html_url": "https://github.com/pvin",
+  "followers_url": "https://api.github.com/users/pvin/followers",
+  "following_url": "https://api.github.com/users/pvin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pvin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pvin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pvin/subscriptions",
+  "organizations_url": "https://api.github.com/users/pvin/orgs",
+  "repos_url": "https://api.github.com/users/pvin/repos",
+  "events_url": "https://api.github.com/users/pvin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pvin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

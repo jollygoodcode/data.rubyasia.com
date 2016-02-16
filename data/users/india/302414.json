@@ -1,0 +1,20 @@
+{
+  "login": "orthodoc",
+  "id": 302414,
+  "avatar_url": "https://avatars.githubusercontent.com/u/302414?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/orthodoc",
+  "html_url": "https://github.com/orthodoc",
+  "followers_url": "https://api.github.com/users/orthodoc/followers",
+  "following_url": "https://api.github.com/users/orthodoc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/orthodoc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/orthodoc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/orthodoc/subscriptions",
+  "organizations_url": "https://api.github.com/users/orthodoc/orgs",
+  "repos_url": "https://api.github.com/users/orthodoc/repos",
+  "events_url": "https://api.github.com/users/orthodoc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/orthodoc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

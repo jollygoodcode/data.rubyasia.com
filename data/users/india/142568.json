@@ -1,0 +1,20 @@
+{
+  "login": "jimmi",
+  "id": 142568,
+  "avatar_url": "https://avatars.githubusercontent.com/u/142568?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jimmi",
+  "html_url": "https://github.com/jimmi",
+  "followers_url": "https://api.github.com/users/jimmi/followers",
+  "following_url": "https://api.github.com/users/jimmi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jimmi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jimmi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jimmi/subscriptions",
+  "organizations_url": "https://api.github.com/users/jimmi/orgs",
+  "repos_url": "https://api.github.com/users/jimmi/repos",
+  "events_url": "https://api.github.com/users/jimmi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jimmi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

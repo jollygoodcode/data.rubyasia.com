@@ -1,0 +1,20 @@
+{
+  "login": "aananth",
+  "id": 3953271,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3953271?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aananth",
+  "html_url": "https://github.com/aananth",
+  "followers_url": "https://api.github.com/users/aananth/followers",
+  "following_url": "https://api.github.com/users/aananth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aananth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aananth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aananth/subscriptions",
+  "organizations_url": "https://api.github.com/users/aananth/orgs",
+  "repos_url": "https://api.github.com/users/aananth/repos",
+  "events_url": "https://api.github.com/users/aananth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aananth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

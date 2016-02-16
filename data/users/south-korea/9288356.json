@@ -1,0 +1,20 @@
+{
+  "login": "nextbase",
+  "id": 9288356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9288356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nextbase",
+  "html_url": "https://github.com/nextbase",
+  "followers_url": "https://api.github.com/users/nextbase/followers",
+  "following_url": "https://api.github.com/users/nextbase/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nextbase/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nextbase/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nextbase/subscriptions",
+  "organizations_url": "https://api.github.com/users/nextbase/orgs",
+  "repos_url": "https://api.github.com/users/nextbase/repos",
+  "events_url": "https://api.github.com/users/nextbase/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nextbase/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

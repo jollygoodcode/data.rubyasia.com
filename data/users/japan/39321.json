@@ -1,0 +1,20 @@
+{
+  "login": "hlxwell",
+  "id": 39321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/39321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hlxwell",
+  "html_url": "https://github.com/hlxwell",
+  "followers_url": "https://api.github.com/users/hlxwell/followers",
+  "following_url": "https://api.github.com/users/hlxwell/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hlxwell/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hlxwell/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hlxwell/subscriptions",
+  "organizations_url": "https://api.github.com/users/hlxwell/orgs",
+  "repos_url": "https://api.github.com/users/hlxwell/repos",
+  "events_url": "https://api.github.com/users/hlxwell/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hlxwell/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

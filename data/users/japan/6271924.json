@@ -1,0 +1,20 @@
+{
+  "login": "Mochit",
+  "id": 6271924,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6271924?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Mochit",
+  "html_url": "https://github.com/Mochit",
+  "followers_url": "https://api.github.com/users/Mochit/followers",
+  "following_url": "https://api.github.com/users/Mochit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Mochit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Mochit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Mochit/subscriptions",
+  "organizations_url": "https://api.github.com/users/Mochit/orgs",
+  "repos_url": "https://api.github.com/users/Mochit/repos",
+  "events_url": "https://api.github.com/users/Mochit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Mochit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

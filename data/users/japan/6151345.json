@@ -1,0 +1,20 @@
+{
+  "login": "takasix",
+  "id": 6151345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6151345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takasix",
+  "html_url": "https://github.com/takasix",
+  "followers_url": "https://api.github.com/users/takasix/followers",
+  "following_url": "https://api.github.com/users/takasix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takasix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takasix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takasix/subscriptions",
+  "organizations_url": "https://api.github.com/users/takasix/orgs",
+  "repos_url": "https://api.github.com/users/takasix/repos",
+  "events_url": "https://api.github.com/users/takasix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takasix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

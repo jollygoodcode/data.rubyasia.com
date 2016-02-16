@@ -1,0 +1,20 @@
+{
+  "login": "bzz",
+  "id": 5582506,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5582506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bzz",
+  "html_url": "https://github.com/bzz",
+  "followers_url": "https://api.github.com/users/bzz/followers",
+  "following_url": "https://api.github.com/users/bzz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bzz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bzz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bzz/subscriptions",
+  "organizations_url": "https://api.github.com/users/bzz/orgs",
+  "repos_url": "https://api.github.com/users/bzz/repos",
+  "events_url": "https://api.github.com/users/bzz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bzz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

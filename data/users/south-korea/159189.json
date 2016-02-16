@@ -1,0 +1,20 @@
+{
+  "login": "peterhume",
+  "id": 159189,
+  "avatar_url": "https://avatars.githubusercontent.com/u/159189?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/peterhume",
+  "html_url": "https://github.com/peterhume",
+  "followers_url": "https://api.github.com/users/peterhume/followers",
+  "following_url": "https://api.github.com/users/peterhume/following{/other_user}",
+  "gists_url": "https://api.github.com/users/peterhume/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/peterhume/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/peterhume/subscriptions",
+  "organizations_url": "https://api.github.com/users/peterhume/orgs",
+  "repos_url": "https://api.github.com/users/peterhume/repos",
+  "events_url": "https://api.github.com/users/peterhume/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/peterhume/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

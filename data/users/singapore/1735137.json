@@ -1,0 +1,20 @@
+{
+  "login": "cykhoo",
+  "id": 1735137,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1735137?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cykhoo",
+  "html_url": "https://github.com/cykhoo",
+  "followers_url": "https://api.github.com/users/cykhoo/followers",
+  "following_url": "https://api.github.com/users/cykhoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cykhoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cykhoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cykhoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/cykhoo/orgs",
+  "repos_url": "https://api.github.com/users/cykhoo/repos",
+  "events_url": "https://api.github.com/users/cykhoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cykhoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ruby-random",
+  "id": 11497562,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11497562?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ruby-random",
+  "html_url": "https://github.com/ruby-random",
+  "followers_url": "https://api.github.com/users/ruby-random/followers",
+  "following_url": "https://api.github.com/users/ruby-random/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ruby-random/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ruby-random/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ruby-random/subscriptions",
+  "organizations_url": "https://api.github.com/users/ruby-random/orgs",
+  "repos_url": "https://api.github.com/users/ruby-random/repos",
+  "events_url": "https://api.github.com/users/ruby-random/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ruby-random/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "solgems",
+  "id": 1508608,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1508608?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/solgems",
+  "html_url": "https://github.com/solgems",
+  "followers_url": "https://api.github.com/users/solgems/followers",
+  "following_url": "https://api.github.com/users/solgems/following{/other_user}",
+  "gists_url": "https://api.github.com/users/solgems/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/solgems/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/solgems/subscriptions",
+  "organizations_url": "https://api.github.com/users/solgems/orgs",
+  "repos_url": "https://api.github.com/users/solgems/repos",
+  "events_url": "https://api.github.com/users/solgems/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/solgems/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

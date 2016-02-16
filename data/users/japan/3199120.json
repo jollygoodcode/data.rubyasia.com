@@ -1,0 +1,20 @@
+{
+  "login": "Alileus",
+  "id": 3199120,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3199120?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Alileus",
+  "html_url": "https://github.com/Alileus",
+  "followers_url": "https://api.github.com/users/Alileus/followers",
+  "following_url": "https://api.github.com/users/Alileus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Alileus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Alileus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Alileus/subscriptions",
+  "organizations_url": "https://api.github.com/users/Alileus/orgs",
+  "repos_url": "https://api.github.com/users/Alileus/repos",
+  "events_url": "https://api.github.com/users/Alileus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Alileus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

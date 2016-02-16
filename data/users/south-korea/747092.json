@@ -1,0 +1,20 @@
+{
+  "login": "JaeMyeongPark",
+  "id": 747092,
+  "avatar_url": "https://avatars.githubusercontent.com/u/747092?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JaeMyeongPark",
+  "html_url": "https://github.com/JaeMyeongPark",
+  "followers_url": "https://api.github.com/users/JaeMyeongPark/followers",
+  "following_url": "https://api.github.com/users/JaeMyeongPark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JaeMyeongPark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JaeMyeongPark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JaeMyeongPark/subscriptions",
+  "organizations_url": "https://api.github.com/users/JaeMyeongPark/orgs",
+  "repos_url": "https://api.github.com/users/JaeMyeongPark/repos",
+  "events_url": "https://api.github.com/users/JaeMyeongPark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JaeMyeongPark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

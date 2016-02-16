@@ -1,0 +1,20 @@
+{
+  "login": "harrysuren",
+  "id": 7484885,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7484885?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harrysuren",
+  "html_url": "https://github.com/harrysuren",
+  "followers_url": "https://api.github.com/users/harrysuren/followers",
+  "following_url": "https://api.github.com/users/harrysuren/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harrysuren/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harrysuren/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harrysuren/subscriptions",
+  "organizations_url": "https://api.github.com/users/harrysuren/orgs",
+  "repos_url": "https://api.github.com/users/harrysuren/repos",
+  "events_url": "https://api.github.com/users/harrysuren/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harrysuren/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Enyu",
+  "id": 2087771,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2087771?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Enyu",
+  "html_url": "https://github.com/Enyu",
+  "followers_url": "https://api.github.com/users/Enyu/followers",
+  "following_url": "https://api.github.com/users/Enyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Enyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Enyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Enyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/Enyu/orgs",
+  "repos_url": "https://api.github.com/users/Enyu/repos",
+  "events_url": "https://api.github.com/users/Enyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Enyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

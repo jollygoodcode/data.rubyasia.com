@@ -1,0 +1,20 @@
+{
+  "login": "exomarc",
+  "id": 1400088,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1400088?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/exomarc",
+  "html_url": "https://github.com/exomarc",
+  "followers_url": "https://api.github.com/users/exomarc/followers",
+  "following_url": "https://api.github.com/users/exomarc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/exomarc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/exomarc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/exomarc/subscriptions",
+  "organizations_url": "https://api.github.com/users/exomarc/orgs",
+  "repos_url": "https://api.github.com/users/exomarc/repos",
+  "events_url": "https://api.github.com/users/exomarc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/exomarc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

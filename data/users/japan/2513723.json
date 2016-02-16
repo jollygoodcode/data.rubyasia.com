@@ -1,0 +1,20 @@
+{
+  "login": "moto-yak",
+  "id": 2513723,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2513723?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moto-yak",
+  "html_url": "https://github.com/moto-yak",
+  "followers_url": "https://api.github.com/users/moto-yak/followers",
+  "following_url": "https://api.github.com/users/moto-yak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moto-yak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moto-yak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moto-yak/subscriptions",
+  "organizations_url": "https://api.github.com/users/moto-yak/orgs",
+  "repos_url": "https://api.github.com/users/moto-yak/repos",
+  "events_url": "https://api.github.com/users/moto-yak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moto-yak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

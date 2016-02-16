@@ -1,0 +1,20 @@
+{
+  "login": "penxera",
+  "id": 5194780,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5194780?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/penxera",
+  "html_url": "https://github.com/penxera",
+  "followers_url": "https://api.github.com/users/penxera/followers",
+  "following_url": "https://api.github.com/users/penxera/following{/other_user}",
+  "gists_url": "https://api.github.com/users/penxera/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/penxera/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/penxera/subscriptions",
+  "organizations_url": "https://api.github.com/users/penxera/orgs",
+  "repos_url": "https://api.github.com/users/penxera/repos",
+  "events_url": "https://api.github.com/users/penxera/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/penxera/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

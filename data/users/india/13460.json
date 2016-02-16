@@ -1,0 +1,20 @@
+{
+  "login": "hackedunit",
+  "id": 13460,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13460?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hackedunit",
+  "html_url": "https://github.com/hackedunit",
+  "followers_url": "https://api.github.com/users/hackedunit/followers",
+  "following_url": "https://api.github.com/users/hackedunit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hackedunit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hackedunit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hackedunit/subscriptions",
+  "organizations_url": "https://api.github.com/users/hackedunit/orgs",
+  "repos_url": "https://api.github.com/users/hackedunit/repos",
+  "events_url": "https://api.github.com/users/hackedunit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hackedunit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

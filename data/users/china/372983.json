@@ -1,0 +1,20 @@
+{
+  "login": "suffering",
+  "id": 372983,
+  "avatar_url": "https://avatars.githubusercontent.com/u/372983?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suffering",
+  "html_url": "https://github.com/suffering",
+  "followers_url": "https://api.github.com/users/suffering/followers",
+  "following_url": "https://api.github.com/users/suffering/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suffering/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suffering/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suffering/subscriptions",
+  "organizations_url": "https://api.github.com/users/suffering/orgs",
+  "repos_url": "https://api.github.com/users/suffering/repos",
+  "events_url": "https://api.github.com/users/suffering/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suffering/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

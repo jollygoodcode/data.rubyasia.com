@@ -1,0 +1,20 @@
+{
+  "login": "lizbew",
+  "id": 1736620,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1736620?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lizbew",
+  "html_url": "https://github.com/lizbew",
+  "followers_url": "https://api.github.com/users/lizbew/followers",
+  "following_url": "https://api.github.com/users/lizbew/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lizbew/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lizbew/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lizbew/subscriptions",
+  "organizations_url": "https://api.github.com/users/lizbew/orgs",
+  "repos_url": "https://api.github.com/users/lizbew/repos",
+  "events_url": "https://api.github.com/users/lizbew/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lizbew/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

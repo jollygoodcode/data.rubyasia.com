@@ -1,0 +1,20 @@
+{
+  "login": "jackytu",
+  "id": 3814418,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3814418?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jackytu",
+  "html_url": "https://github.com/jackytu",
+  "followers_url": "https://api.github.com/users/jackytu/followers",
+  "following_url": "https://api.github.com/users/jackytu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jackytu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jackytu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jackytu/subscriptions",
+  "organizations_url": "https://api.github.com/users/jackytu/orgs",
+  "repos_url": "https://api.github.com/users/jackytu/repos",
+  "events_url": "https://api.github.com/users/jackytu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jackytu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

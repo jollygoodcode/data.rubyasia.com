@@ -1,0 +1,20 @@
+{
+  "login": "bisaikong",
+  "id": 4644948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4644948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bisaikong",
+  "html_url": "https://github.com/bisaikong",
+  "followers_url": "https://api.github.com/users/bisaikong/followers",
+  "following_url": "https://api.github.com/users/bisaikong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bisaikong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bisaikong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bisaikong/subscriptions",
+  "organizations_url": "https://api.github.com/users/bisaikong/orgs",
+  "repos_url": "https://api.github.com/users/bisaikong/repos",
+  "events_url": "https://api.github.com/users/bisaikong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bisaikong/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

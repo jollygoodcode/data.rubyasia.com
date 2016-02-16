@@ -1,0 +1,20 @@
+{
+  "login": "arifinallycodes",
+  "id": 2325442,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2325442?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arifinallycodes",
+  "html_url": "https://github.com/arifinallycodes",
+  "followers_url": "https://api.github.com/users/arifinallycodes/followers",
+  "following_url": "https://api.github.com/users/arifinallycodes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arifinallycodes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arifinallycodes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arifinallycodes/subscriptions",
+  "organizations_url": "https://api.github.com/users/arifinallycodes/orgs",
+  "repos_url": "https://api.github.com/users/arifinallycodes/repos",
+  "events_url": "https://api.github.com/users/arifinallycodes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arifinallycodes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

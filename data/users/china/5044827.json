@@ -1,0 +1,20 @@
+{
+  "login": "sleeping-lion",
+  "id": 5044827,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5044827?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sleeping-lion",
+  "html_url": "https://github.com/sleeping-lion",
+  "followers_url": "https://api.github.com/users/sleeping-lion/followers",
+  "following_url": "https://api.github.com/users/sleeping-lion/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sleeping-lion/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sleeping-lion/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sleeping-lion/subscriptions",
+  "organizations_url": "https://api.github.com/users/sleeping-lion/orgs",
+  "repos_url": "https://api.github.com/users/sleeping-lion/repos",
+  "events_url": "https://api.github.com/users/sleeping-lion/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sleeping-lion/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

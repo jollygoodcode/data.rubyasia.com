@@ -1,0 +1,20 @@
+{
+  "login": "speartail",
+  "id": 10751,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10751?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/speartail",
+  "html_url": "https://github.com/speartail",
+  "followers_url": "https://api.github.com/users/speartail/followers",
+  "following_url": "https://api.github.com/users/speartail/following{/other_user}",
+  "gists_url": "https://api.github.com/users/speartail/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/speartail/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/speartail/subscriptions",
+  "organizations_url": "https://api.github.com/users/speartail/orgs",
+  "repos_url": "https://api.github.com/users/speartail/repos",
+  "events_url": "https://api.github.com/users/speartail/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/speartail/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

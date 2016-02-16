@@ -1,0 +1,20 @@
+{
+  "login": "cg5labs",
+  "id": 16848639,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16848639?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cg5labs",
+  "html_url": "https://github.com/cg5labs",
+  "followers_url": "https://api.github.com/users/cg5labs/followers",
+  "following_url": "https://api.github.com/users/cg5labs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cg5labs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cg5labs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cg5labs/subscriptions",
+  "organizations_url": "https://api.github.com/users/cg5labs/orgs",
+  "repos_url": "https://api.github.com/users/cg5labs/repos",
+  "events_url": "https://api.github.com/users/cg5labs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cg5labs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

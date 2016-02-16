@@ -1,0 +1,20 @@
+{
+  "login": "anahorny",
+  "id": 103919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/103919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anahorny",
+  "html_url": "https://github.com/anahorny",
+  "followers_url": "https://api.github.com/users/anahorny/followers",
+  "following_url": "https://api.github.com/users/anahorny/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anahorny/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anahorny/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anahorny/subscriptions",
+  "organizations_url": "https://api.github.com/users/anahorny/orgs",
+  "repos_url": "https://api.github.com/users/anahorny/repos",
+  "events_url": "https://api.github.com/users/anahorny/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anahorny/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kufu",
+  "id": 6356728,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6356728?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kufu",
+  "html_url": "https://github.com/kufu",
+  "followers_url": "https://api.github.com/users/kufu/followers",
+  "following_url": "https://api.github.com/users/kufu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kufu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kufu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kufu/subscriptions",
+  "organizations_url": "https://api.github.com/users/kufu/orgs",
+  "repos_url": "https://api.github.com/users/kufu/repos",
+  "events_url": "https://api.github.com/users/kufu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kufu/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "marikhu",
+  "id": 1103804,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1103804?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marikhu",
+  "html_url": "https://github.com/marikhu",
+  "followers_url": "https://api.github.com/users/marikhu/followers",
+  "following_url": "https://api.github.com/users/marikhu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marikhu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marikhu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marikhu/subscriptions",
+  "organizations_url": "https://api.github.com/users/marikhu/orgs",
+  "repos_url": "https://api.github.com/users/marikhu/repos",
+  "events_url": "https://api.github.com/users/marikhu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marikhu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ShaneLan",
+  "id": 3370659,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3370659?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ShaneLan",
+  "html_url": "https://github.com/ShaneLan",
+  "followers_url": "https://api.github.com/users/ShaneLan/followers",
+  "following_url": "https://api.github.com/users/ShaneLan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ShaneLan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ShaneLan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ShaneLan/subscriptions",
+  "organizations_url": "https://api.github.com/users/ShaneLan/orgs",
+  "repos_url": "https://api.github.com/users/ShaneLan/repos",
+  "events_url": "https://api.github.com/users/ShaneLan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ShaneLan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

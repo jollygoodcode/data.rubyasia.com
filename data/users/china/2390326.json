@@ -1,0 +1,20 @@
+{
+  "login": "qar",
+  "id": 2390326,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2390326?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qar",
+  "html_url": "https://github.com/qar",
+  "followers_url": "https://api.github.com/users/qar/followers",
+  "following_url": "https://api.github.com/users/qar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qar/subscriptions",
+  "organizations_url": "https://api.github.com/users/qar/orgs",
+  "repos_url": "https://api.github.com/users/qar/repos",
+  "events_url": "https://api.github.com/users/qar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

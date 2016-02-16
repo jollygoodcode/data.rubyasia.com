@@ -1,0 +1,20 @@
+{
+  "login": "gzoo",
+  "id": 6293331,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6293331?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gzoo",
+  "html_url": "https://github.com/gzoo",
+  "followers_url": "https://api.github.com/users/gzoo/followers",
+  "following_url": "https://api.github.com/users/gzoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gzoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gzoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gzoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/gzoo/orgs",
+  "repos_url": "https://api.github.com/users/gzoo/repos",
+  "events_url": "https://api.github.com/users/gzoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gzoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

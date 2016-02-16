@@ -1,0 +1,20 @@
+{
+  "login": "BillYuan",
+  "id": 714819,
+  "avatar_url": "https://avatars.githubusercontent.com/u/714819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BillYuan",
+  "html_url": "https://github.com/BillYuan",
+  "followers_url": "https://api.github.com/users/BillYuan/followers",
+  "following_url": "https://api.github.com/users/BillYuan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BillYuan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BillYuan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BillYuan/subscriptions",
+  "organizations_url": "https://api.github.com/users/BillYuan/orgs",
+  "repos_url": "https://api.github.com/users/BillYuan/repos",
+  "events_url": "https://api.github.com/users/BillYuan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BillYuan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

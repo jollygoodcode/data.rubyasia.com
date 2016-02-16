@@ -1,0 +1,20 @@
+{
+  "login": "boj",
+  "id": 50839,
+  "avatar_url": "https://avatars.githubusercontent.com/u/50839?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/boj",
+  "html_url": "https://github.com/boj",
+  "followers_url": "https://api.github.com/users/boj/followers",
+  "following_url": "https://api.github.com/users/boj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/boj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/boj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/boj/subscriptions",
+  "organizations_url": "https://api.github.com/users/boj/orgs",
+  "repos_url": "https://api.github.com/users/boj/repos",
+  "events_url": "https://api.github.com/users/boj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/boj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hkwtf",
+  "id": 3434477,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3434477?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hkwtf",
+  "html_url": "https://github.com/hkwtf",
+  "followers_url": "https://api.github.com/users/hkwtf/followers",
+  "following_url": "https://api.github.com/users/hkwtf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hkwtf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hkwtf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hkwtf/subscriptions",
+  "organizations_url": "https://api.github.com/users/hkwtf/orgs",
+  "repos_url": "https://api.github.com/users/hkwtf/repos",
+  "events_url": "https://api.github.com/users/hkwtf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hkwtf/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

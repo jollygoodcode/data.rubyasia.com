@@ -1,0 +1,20 @@
+{
+  "login": "whchung",
+  "id": 1673574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1673574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/whchung",
+  "html_url": "https://github.com/whchung",
+  "followers_url": "https://api.github.com/users/whchung/followers",
+  "following_url": "https://api.github.com/users/whchung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/whchung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/whchung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/whchung/subscriptions",
+  "organizations_url": "https://api.github.com/users/whchung/orgs",
+  "repos_url": "https://api.github.com/users/whchung/repos",
+  "events_url": "https://api.github.com/users/whchung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/whchung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

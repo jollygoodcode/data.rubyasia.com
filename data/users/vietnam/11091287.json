@@ -1,0 +1,20 @@
+{
+  "login": "macchandev",
+  "id": 11091287,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11091287?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macchandev",
+  "html_url": "https://github.com/macchandev",
+  "followers_url": "https://api.github.com/users/macchandev/followers",
+  "following_url": "https://api.github.com/users/macchandev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macchandev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macchandev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macchandev/subscriptions",
+  "organizations_url": "https://api.github.com/users/macchandev/orgs",
+  "repos_url": "https://api.github.com/users/macchandev/repos",
+  "events_url": "https://api.github.com/users/macchandev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macchandev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

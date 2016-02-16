@@ -1,0 +1,20 @@
+{
+  "login": "duelking",
+  "id": 6865771,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6865771?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/duelking",
+  "html_url": "https://github.com/duelking",
+  "followers_url": "https://api.github.com/users/duelking/followers",
+  "following_url": "https://api.github.com/users/duelking/following{/other_user}",
+  "gists_url": "https://api.github.com/users/duelking/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/duelking/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/duelking/subscriptions",
+  "organizations_url": "https://api.github.com/users/duelking/orgs",
+  "repos_url": "https://api.github.com/users/duelking/repos",
+  "events_url": "https://api.github.com/users/duelking/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/duelking/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

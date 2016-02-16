@@ -1,0 +1,20 @@
+{
+  "login": "therealmccoy",
+  "id": 507729,
+  "avatar_url": "https://avatars.githubusercontent.com/u/507729?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/therealmccoy",
+  "html_url": "https://github.com/therealmccoy",
+  "followers_url": "https://api.github.com/users/therealmccoy/followers",
+  "following_url": "https://api.github.com/users/therealmccoy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/therealmccoy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/therealmccoy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/therealmccoy/subscriptions",
+  "organizations_url": "https://api.github.com/users/therealmccoy/orgs",
+  "repos_url": "https://api.github.com/users/therealmccoy/repos",
+  "events_url": "https://api.github.com/users/therealmccoy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/therealmccoy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

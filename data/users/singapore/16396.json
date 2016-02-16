@@ -1,0 +1,20 @@
+{
+  "login": "jasoncheow",
+  "id": 16396,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16396?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasoncheow",
+  "html_url": "https://github.com/jasoncheow",
+  "followers_url": "https://api.github.com/users/jasoncheow/followers",
+  "following_url": "https://api.github.com/users/jasoncheow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasoncheow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasoncheow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasoncheow/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasoncheow/orgs",
+  "repos_url": "https://api.github.com/users/jasoncheow/repos",
+  "events_url": "https://api.github.com/users/jasoncheow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasoncheow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

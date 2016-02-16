@@ -1,0 +1,20 @@
+{
+  "login": "monal",
+  "id": 2692032,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2692032?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/monal",
+  "html_url": "https://github.com/monal",
+  "followers_url": "https://api.github.com/users/monal/followers",
+  "following_url": "https://api.github.com/users/monal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/monal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/monal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/monal/subscriptions",
+  "organizations_url": "https://api.github.com/users/monal/orgs",
+  "repos_url": "https://api.github.com/users/monal/repos",
+  "events_url": "https://api.github.com/users/monal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/monal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

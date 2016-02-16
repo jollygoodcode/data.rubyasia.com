@@ -1,0 +1,20 @@
+{
+  "login": "Matsue",
+  "id": 1086548,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1086548?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Matsue",
+  "html_url": "https://github.com/Matsue",
+  "followers_url": "https://api.github.com/users/Matsue/followers",
+  "following_url": "https://api.github.com/users/Matsue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Matsue/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Matsue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Matsue/subscriptions",
+  "organizations_url": "https://api.github.com/users/Matsue/orgs",
+  "repos_url": "https://api.github.com/users/Matsue/repos",
+  "events_url": "https://api.github.com/users/Matsue/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Matsue/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

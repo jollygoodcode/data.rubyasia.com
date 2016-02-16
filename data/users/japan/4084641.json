@@ -1,0 +1,20 @@
+{
+  "login": "mini60",
+  "id": 4084641,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4084641?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mini60",
+  "html_url": "https://github.com/mini60",
+  "followers_url": "https://api.github.com/users/mini60/followers",
+  "following_url": "https://api.github.com/users/mini60/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mini60/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mini60/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mini60/subscriptions",
+  "organizations_url": "https://api.github.com/users/mini60/orgs",
+  "repos_url": "https://api.github.com/users/mini60/repos",
+  "events_url": "https://api.github.com/users/mini60/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mini60/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

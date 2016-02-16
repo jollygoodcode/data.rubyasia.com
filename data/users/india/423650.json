@@ -1,0 +1,20 @@
+{
+  "login": "timothyandrew",
+  "id": 423650,
+  "avatar_url": "https://avatars.githubusercontent.com/u/423650?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/timothyandrew",
+  "html_url": "https://github.com/timothyandrew",
+  "followers_url": "https://api.github.com/users/timothyandrew/followers",
+  "following_url": "https://api.github.com/users/timothyandrew/following{/other_user}",
+  "gists_url": "https://api.github.com/users/timothyandrew/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/timothyandrew/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/timothyandrew/subscriptions",
+  "organizations_url": "https://api.github.com/users/timothyandrew/orgs",
+  "repos_url": "https://api.github.com/users/timothyandrew/repos",
+  "events_url": "https://api.github.com/users/timothyandrew/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/timothyandrew/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

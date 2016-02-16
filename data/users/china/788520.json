@@ -1,0 +1,20 @@
+{
+  "login": "john1king",
+  "id": 788520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/788520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/john1king",
+  "html_url": "https://github.com/john1king",
+  "followers_url": "https://api.github.com/users/john1king/followers",
+  "following_url": "https://api.github.com/users/john1king/following{/other_user}",
+  "gists_url": "https://api.github.com/users/john1king/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/john1king/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/john1king/subscriptions",
+  "organizations_url": "https://api.github.com/users/john1king/orgs",
+  "repos_url": "https://api.github.com/users/john1king/repos",
+  "events_url": "https://api.github.com/users/john1king/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/john1king/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

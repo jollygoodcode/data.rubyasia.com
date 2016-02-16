@@ -1,0 +1,20 @@
+{
+  "login": "geeky-sh",
+  "id": 1645273,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1645273?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/geeky-sh",
+  "html_url": "https://github.com/geeky-sh",
+  "followers_url": "https://api.github.com/users/geeky-sh/followers",
+  "following_url": "https://api.github.com/users/geeky-sh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/geeky-sh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/geeky-sh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/geeky-sh/subscriptions",
+  "organizations_url": "https://api.github.com/users/geeky-sh/orgs",
+  "repos_url": "https://api.github.com/users/geeky-sh/repos",
+  "events_url": "https://api.github.com/users/geeky-sh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/geeky-sh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

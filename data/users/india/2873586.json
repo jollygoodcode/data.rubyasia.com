@@ -1,0 +1,20 @@
+{
+  "login": "indyarocks",
+  "id": 2873586,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2873586?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/indyarocks",
+  "html_url": "https://github.com/indyarocks",
+  "followers_url": "https://api.github.com/users/indyarocks/followers",
+  "following_url": "https://api.github.com/users/indyarocks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/indyarocks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/indyarocks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/indyarocks/subscriptions",
+  "organizations_url": "https://api.github.com/users/indyarocks/orgs",
+  "repos_url": "https://api.github.com/users/indyarocks/repos",
+  "events_url": "https://api.github.com/users/indyarocks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/indyarocks/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

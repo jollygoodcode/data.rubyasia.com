@@ -1,0 +1,20 @@
+{
+  "login": "linhyo",
+  "id": 9191183,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9191183?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/linhyo",
+  "html_url": "https://github.com/linhyo",
+  "followers_url": "https://api.github.com/users/linhyo/followers",
+  "following_url": "https://api.github.com/users/linhyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/linhyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/linhyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/linhyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/linhyo/orgs",
+  "repos_url": "https://api.github.com/users/linhyo/repos",
+  "events_url": "https://api.github.com/users/linhyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/linhyo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

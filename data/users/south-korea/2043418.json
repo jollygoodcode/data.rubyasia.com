@@ -1,0 +1,20 @@
+{
+  "login": "arkemiq",
+  "id": 2043418,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2043418?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arkemiq",
+  "html_url": "https://github.com/arkemiq",
+  "followers_url": "https://api.github.com/users/arkemiq/followers",
+  "following_url": "https://api.github.com/users/arkemiq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arkemiq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arkemiq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arkemiq/subscriptions",
+  "organizations_url": "https://api.github.com/users/arkemiq/orgs",
+  "repos_url": "https://api.github.com/users/arkemiq/repos",
+  "events_url": "https://api.github.com/users/arkemiq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arkemiq/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

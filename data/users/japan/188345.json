@@ -1,0 +1,20 @@
+{
+  "login": "cheeseweasel",
+  "id": 188345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/188345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cheeseweasel",
+  "html_url": "https://github.com/cheeseweasel",
+  "followers_url": "https://api.github.com/users/cheeseweasel/followers",
+  "following_url": "https://api.github.com/users/cheeseweasel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cheeseweasel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cheeseweasel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cheeseweasel/subscriptions",
+  "organizations_url": "https://api.github.com/users/cheeseweasel/orgs",
+  "repos_url": "https://api.github.com/users/cheeseweasel/repos",
+  "events_url": "https://api.github.com/users/cheeseweasel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cheeseweasel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mikewire",
+  "id": 662032,
+  "avatar_url": "https://avatars.githubusercontent.com/u/662032?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mikewire",
+  "html_url": "https://github.com/mikewire",
+  "followers_url": "https://api.github.com/users/mikewire/followers",
+  "following_url": "https://api.github.com/users/mikewire/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mikewire/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mikewire/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mikewire/subscriptions",
+  "organizations_url": "https://api.github.com/users/mikewire/orgs",
+  "repos_url": "https://api.github.com/users/mikewire/repos",
+  "events_url": "https://api.github.com/users/mikewire/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mikewire/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

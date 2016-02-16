@@ -1,0 +1,20 @@
+{
+  "login": "sidepixel",
+  "id": 1642942,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1642942?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sidepixel",
+  "html_url": "https://github.com/sidepixel",
+  "followers_url": "https://api.github.com/users/sidepixel/followers",
+  "following_url": "https://api.github.com/users/sidepixel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sidepixel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sidepixel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sidepixel/subscriptions",
+  "organizations_url": "https://api.github.com/users/sidepixel/orgs",
+  "repos_url": "https://api.github.com/users/sidepixel/repos",
+  "events_url": "https://api.github.com/users/sidepixel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sidepixel/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

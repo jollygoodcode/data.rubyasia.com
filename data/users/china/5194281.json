@@ -1,0 +1,20 @@
+{
+  "login": "taocp",
+  "id": 5194281,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5194281?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taocp",
+  "html_url": "https://github.com/taocp",
+  "followers_url": "https://api.github.com/users/taocp/followers",
+  "following_url": "https://api.github.com/users/taocp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taocp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taocp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taocp/subscriptions",
+  "organizations_url": "https://api.github.com/users/taocp/orgs",
+  "repos_url": "https://api.github.com/users/taocp/repos",
+  "events_url": "https://api.github.com/users/taocp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taocp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

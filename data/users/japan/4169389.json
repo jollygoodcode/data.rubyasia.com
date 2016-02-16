@@ -1,0 +1,20 @@
+{
+  "login": "feedforce",
+  "id": 4169389,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4169389?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/feedforce",
+  "html_url": "https://github.com/feedforce",
+  "followers_url": "https://api.github.com/users/feedforce/followers",
+  "following_url": "https://api.github.com/users/feedforce/following{/other_user}",
+  "gists_url": "https://api.github.com/users/feedforce/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/feedforce/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/feedforce/subscriptions",
+  "organizations_url": "https://api.github.com/users/feedforce/orgs",
+  "repos_url": "https://api.github.com/users/feedforce/repos",
+  "events_url": "https://api.github.com/users/feedforce/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/feedforce/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

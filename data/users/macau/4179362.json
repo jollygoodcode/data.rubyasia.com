@@ -1,0 +1,20 @@
+{
+  "login": "hanteng",
+  "id": 4179362,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4179362?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hanteng",
+  "html_url": "https://github.com/hanteng",
+  "followers_url": "https://api.github.com/users/hanteng/followers",
+  "following_url": "https://api.github.com/users/hanteng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hanteng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hanteng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hanteng/subscriptions",
+  "organizations_url": "https://api.github.com/users/hanteng/orgs",
+  "repos_url": "https://api.github.com/users/hanteng/repos",
+  "events_url": "https://api.github.com/users/hanteng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hanteng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

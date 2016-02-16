@@ -1,0 +1,20 @@
+{
+  "login": "hana-da",
+  "id": 180448,
+  "avatar_url": "https://avatars.githubusercontent.com/u/180448?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hana-da",
+  "html_url": "https://github.com/hana-da",
+  "followers_url": "https://api.github.com/users/hana-da/followers",
+  "following_url": "https://api.github.com/users/hana-da/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hana-da/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hana-da/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hana-da/subscriptions",
+  "organizations_url": "https://api.github.com/users/hana-da/orgs",
+  "repos_url": "https://api.github.com/users/hana-da/repos",
+  "events_url": "https://api.github.com/users/hana-da/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hana-da/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

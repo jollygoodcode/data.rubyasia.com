@@ -1,0 +1,20 @@
+{
+  "login": "ShiningRay",
+  "id": 9770,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9770?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ShiningRay",
+  "html_url": "https://github.com/ShiningRay",
+  "followers_url": "https://api.github.com/users/ShiningRay/followers",
+  "following_url": "https://api.github.com/users/ShiningRay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ShiningRay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ShiningRay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ShiningRay/subscriptions",
+  "organizations_url": "https://api.github.com/users/ShiningRay/orgs",
+  "repos_url": "https://api.github.com/users/ShiningRay/repos",
+  "events_url": "https://api.github.com/users/ShiningRay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ShiningRay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

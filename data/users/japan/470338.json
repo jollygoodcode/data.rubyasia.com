@@ -1,0 +1,20 @@
+{
+  "login": "imkira",
+  "id": 470338,
+  "avatar_url": "https://avatars.githubusercontent.com/u/470338?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imkira",
+  "html_url": "https://github.com/imkira",
+  "followers_url": "https://api.github.com/users/imkira/followers",
+  "following_url": "https://api.github.com/users/imkira/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imkira/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imkira/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imkira/subscriptions",
+  "organizations_url": "https://api.github.com/users/imkira/orgs",
+  "repos_url": "https://api.github.com/users/imkira/repos",
+  "events_url": "https://api.github.com/users/imkira/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imkira/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "pot2mayo",
+  "id": 5609225,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5609225?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pot2mayo",
+  "html_url": "https://github.com/pot2mayo",
+  "followers_url": "https://api.github.com/users/pot2mayo/followers",
+  "following_url": "https://api.github.com/users/pot2mayo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pot2mayo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pot2mayo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pot2mayo/subscriptions",
+  "organizations_url": "https://api.github.com/users/pot2mayo/orgs",
+  "repos_url": "https://api.github.com/users/pot2mayo/repos",
+  "events_url": "https://api.github.com/users/pot2mayo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pot2mayo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "solargazer",
+  "id": 2620931,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2620931?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/solargazer",
+  "html_url": "https://github.com/solargazer",
+  "followers_url": "https://api.github.com/users/solargazer/followers",
+  "following_url": "https://api.github.com/users/solargazer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/solargazer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/solargazer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/solargazer/subscriptions",
+  "organizations_url": "https://api.github.com/users/solargazer/orgs",
+  "repos_url": "https://api.github.com/users/solargazer/repos",
+  "events_url": "https://api.github.com/users/solargazer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/solargazer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

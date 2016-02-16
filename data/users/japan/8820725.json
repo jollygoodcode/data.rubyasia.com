@@ -1,0 +1,20 @@
+{
+  "login": "hirobits",
+  "id": 8820725,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8820725?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hirobits",
+  "html_url": "https://github.com/hirobits",
+  "followers_url": "https://api.github.com/users/hirobits/followers",
+  "following_url": "https://api.github.com/users/hirobits/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hirobits/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hirobits/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hirobits/subscriptions",
+  "organizations_url": "https://api.github.com/users/hirobits/orgs",
+  "repos_url": "https://api.github.com/users/hirobits/repos",
+  "events_url": "https://api.github.com/users/hirobits/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hirobits/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

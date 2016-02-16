@@ -1,0 +1,20 @@
+{
+  "login": "spyhole",
+  "id": 1698342,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1698342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spyhole",
+  "html_url": "https://github.com/spyhole",
+  "followers_url": "https://api.github.com/users/spyhole/followers",
+  "following_url": "https://api.github.com/users/spyhole/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spyhole/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spyhole/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spyhole/subscriptions",
+  "organizations_url": "https://api.github.com/users/spyhole/orgs",
+  "repos_url": "https://api.github.com/users/spyhole/repos",
+  "events_url": "https://api.github.com/users/spyhole/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spyhole/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

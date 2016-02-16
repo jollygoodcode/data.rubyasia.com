@@ -1,0 +1,20 @@
+{
+  "login": "Lionas",
+  "id": 1113980,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1113980?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Lionas",
+  "html_url": "https://github.com/Lionas",
+  "followers_url": "https://api.github.com/users/Lionas/followers",
+  "following_url": "https://api.github.com/users/Lionas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Lionas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Lionas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Lionas/subscriptions",
+  "organizations_url": "https://api.github.com/users/Lionas/orgs",
+  "repos_url": "https://api.github.com/users/Lionas/repos",
+  "events_url": "https://api.github.com/users/Lionas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Lionas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "derekluo",
+  "id": 1260465,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1260465?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/derekluo",
+  "html_url": "https://github.com/derekluo",
+  "followers_url": "https://api.github.com/users/derekluo/followers",
+  "following_url": "https://api.github.com/users/derekluo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/derekluo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/derekluo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/derekluo/subscriptions",
+  "organizations_url": "https://api.github.com/users/derekluo/orgs",
+  "repos_url": "https://api.github.com/users/derekluo/repos",
+  "events_url": "https://api.github.com/users/derekluo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/derekluo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

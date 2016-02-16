@@ -1,0 +1,20 @@
+{
+  "login": "youknowcast",
+  "id": 2378303,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2378303?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/youknowcast",
+  "html_url": "https://github.com/youknowcast",
+  "followers_url": "https://api.github.com/users/youknowcast/followers",
+  "following_url": "https://api.github.com/users/youknowcast/following{/other_user}",
+  "gists_url": "https://api.github.com/users/youknowcast/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/youknowcast/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/youknowcast/subscriptions",
+  "organizations_url": "https://api.github.com/users/youknowcast/orgs",
+  "repos_url": "https://api.github.com/users/youknowcast/repos",
+  "events_url": "https://api.github.com/users/youknowcast/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/youknowcast/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

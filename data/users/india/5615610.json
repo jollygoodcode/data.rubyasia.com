@@ -1,0 +1,20 @@
+{
+  "login": "am-rita",
+  "id": 5615610,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5615610?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/am-rita",
+  "html_url": "https://github.com/am-rita",
+  "followers_url": "https://api.github.com/users/am-rita/followers",
+  "following_url": "https://api.github.com/users/am-rita/following{/other_user}",
+  "gists_url": "https://api.github.com/users/am-rita/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/am-rita/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/am-rita/subscriptions",
+  "organizations_url": "https://api.github.com/users/am-rita/orgs",
+  "repos_url": "https://api.github.com/users/am-rita/repos",
+  "events_url": "https://api.github.com/users/am-rita/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/am-rita/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

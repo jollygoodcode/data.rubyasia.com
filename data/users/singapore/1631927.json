@@ -1,0 +1,20 @@
+{
+  "login": "ptwoms",
+  "id": 1631927,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1631927?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ptwoms",
+  "html_url": "https://github.com/ptwoms",
+  "followers_url": "https://api.github.com/users/ptwoms/followers",
+  "following_url": "https://api.github.com/users/ptwoms/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ptwoms/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ptwoms/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ptwoms/subscriptions",
+  "organizations_url": "https://api.github.com/users/ptwoms/orgs",
+  "repos_url": "https://api.github.com/users/ptwoms/repos",
+  "events_url": "https://api.github.com/users/ptwoms/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ptwoms/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

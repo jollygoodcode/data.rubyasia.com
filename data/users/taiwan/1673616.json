@@ -1,0 +1,20 @@
+{
+  "login": "lifeercom",
+  "id": 1673616,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1673616?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lifeercom",
+  "html_url": "https://github.com/lifeercom",
+  "followers_url": "https://api.github.com/users/lifeercom/followers",
+  "following_url": "https://api.github.com/users/lifeercom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lifeercom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lifeercom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lifeercom/subscriptions",
+  "organizations_url": "https://api.github.com/users/lifeercom/orgs",
+  "repos_url": "https://api.github.com/users/lifeercom/repos",
+  "events_url": "https://api.github.com/users/lifeercom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lifeercom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

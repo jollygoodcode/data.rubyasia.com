@@ -1,0 +1,20 @@
+{
+  "login": "aonsager",
+  "id": 118934,
+  "avatar_url": "https://avatars.githubusercontent.com/u/118934?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aonsager",
+  "html_url": "https://github.com/aonsager",
+  "followers_url": "https://api.github.com/users/aonsager/followers",
+  "following_url": "https://api.github.com/users/aonsager/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aonsager/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aonsager/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aonsager/subscriptions",
+  "organizations_url": "https://api.github.com/users/aonsager/orgs",
+  "repos_url": "https://api.github.com/users/aonsager/repos",
+  "events_url": "https://api.github.com/users/aonsager/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aonsager/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

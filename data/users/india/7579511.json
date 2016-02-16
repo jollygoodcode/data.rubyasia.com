@@ -1,0 +1,20 @@
+{
+  "login": "iamankits",
+  "id": 7579511,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7579511?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iamankits",
+  "html_url": "https://github.com/iamankits",
+  "followers_url": "https://api.github.com/users/iamankits/followers",
+  "following_url": "https://api.github.com/users/iamankits/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iamankits/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iamankits/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iamankits/subscriptions",
+  "organizations_url": "https://api.github.com/users/iamankits/orgs",
+  "repos_url": "https://api.github.com/users/iamankits/repos",
+  "events_url": "https://api.github.com/users/iamankits/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iamankits/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

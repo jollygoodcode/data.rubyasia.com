@@ -1,0 +1,20 @@
+{
+  "login": "paulhsu",
+  "id": 392958,
+  "avatar_url": "https://avatars.githubusercontent.com/u/392958?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paulhsu",
+  "html_url": "https://github.com/paulhsu",
+  "followers_url": "https://api.github.com/users/paulhsu/followers",
+  "following_url": "https://api.github.com/users/paulhsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paulhsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paulhsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paulhsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/paulhsu/orgs",
+  "repos_url": "https://api.github.com/users/paulhsu/repos",
+  "events_url": "https://api.github.com/users/paulhsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paulhsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

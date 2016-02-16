@@ -1,0 +1,20 @@
+{
+  "login": "jososcar",
+  "id": 5025882,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5025882?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jososcar",
+  "html_url": "https://github.com/jososcar",
+  "followers_url": "https://api.github.com/users/jososcar/followers",
+  "following_url": "https://api.github.com/users/jososcar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jososcar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jososcar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jososcar/subscriptions",
+  "organizations_url": "https://api.github.com/users/jososcar/orgs",
+  "repos_url": "https://api.github.com/users/jososcar/repos",
+  "events_url": "https://api.github.com/users/jososcar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jososcar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

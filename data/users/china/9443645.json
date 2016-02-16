@@ -1,0 +1,20 @@
+{
+  "login": "renai",
+  "id": 9443645,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9443645?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/renai",
+  "html_url": "https://github.com/renai",
+  "followers_url": "https://api.github.com/users/renai/followers",
+  "following_url": "https://api.github.com/users/renai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/renai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/renai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/renai/subscriptions",
+  "organizations_url": "https://api.github.com/users/renai/orgs",
+  "repos_url": "https://api.github.com/users/renai/repos",
+  "events_url": "https://api.github.com/users/renai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/renai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

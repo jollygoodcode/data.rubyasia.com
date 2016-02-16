@@ -1,0 +1,20 @@
+{
+  "login": "teashown",
+  "id": 1711862,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1711862?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/teashown",
+  "html_url": "https://github.com/teashown",
+  "followers_url": "https://api.github.com/users/teashown/followers",
+  "following_url": "https://api.github.com/users/teashown/following{/other_user}",
+  "gists_url": "https://api.github.com/users/teashown/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/teashown/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/teashown/subscriptions",
+  "organizations_url": "https://api.github.com/users/teashown/orgs",
+  "repos_url": "https://api.github.com/users/teashown/repos",
+  "events_url": "https://api.github.com/users/teashown/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/teashown/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Luminoid",
+  "id": 9383774,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9383774?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Luminoid",
+  "html_url": "https://github.com/Luminoid",
+  "followers_url": "https://api.github.com/users/Luminoid/followers",
+  "following_url": "https://api.github.com/users/Luminoid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Luminoid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Luminoid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Luminoid/subscriptions",
+  "organizations_url": "https://api.github.com/users/Luminoid/orgs",
+  "repos_url": "https://api.github.com/users/Luminoid/repos",
+  "events_url": "https://api.github.com/users/Luminoid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Luminoid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

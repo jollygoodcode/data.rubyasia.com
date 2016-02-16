@@ -1,0 +1,20 @@
+{
+  "login": "twnaing",
+  "id": 801973,
+  "avatar_url": "https://avatars.githubusercontent.com/u/801973?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/twnaing",
+  "html_url": "https://github.com/twnaing",
+  "followers_url": "https://api.github.com/users/twnaing/followers",
+  "following_url": "https://api.github.com/users/twnaing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/twnaing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/twnaing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/twnaing/subscriptions",
+  "organizations_url": "https://api.github.com/users/twnaing/orgs",
+  "repos_url": "https://api.github.com/users/twnaing/repos",
+  "events_url": "https://api.github.com/users/twnaing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/twnaing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

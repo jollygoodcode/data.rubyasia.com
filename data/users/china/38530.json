@@ -1,0 +1,20 @@
+{
+  "login": "Neomeng",
+  "id": 38530,
+  "avatar_url": "https://avatars.githubusercontent.com/u/38530?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Neomeng",
+  "html_url": "https://github.com/Neomeng",
+  "followers_url": "https://api.github.com/users/Neomeng/followers",
+  "following_url": "https://api.github.com/users/Neomeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Neomeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Neomeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Neomeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/Neomeng/orgs",
+  "repos_url": "https://api.github.com/users/Neomeng/repos",
+  "events_url": "https://api.github.com/users/Neomeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Neomeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

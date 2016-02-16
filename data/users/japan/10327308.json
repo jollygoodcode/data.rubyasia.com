@@ -1,0 +1,20 @@
+{
+  "login": "tsuyoz",
+  "id": 10327308,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10327308?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsuyoz",
+  "html_url": "https://github.com/tsuyoz",
+  "followers_url": "https://api.github.com/users/tsuyoz/followers",
+  "following_url": "https://api.github.com/users/tsuyoz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsuyoz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsuyoz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsuyoz/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsuyoz/orgs",
+  "repos_url": "https://api.github.com/users/tsuyoz/repos",
+  "events_url": "https://api.github.com/users/tsuyoz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsuyoz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rcwangtw",
+  "id": 12874031,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12874031?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rcwangtw",
+  "html_url": "https://github.com/rcwangtw",
+  "followers_url": "https://api.github.com/users/rcwangtw/followers",
+  "following_url": "https://api.github.com/users/rcwangtw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rcwangtw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rcwangtw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rcwangtw/subscriptions",
+  "organizations_url": "https://api.github.com/users/rcwangtw/orgs",
+  "repos_url": "https://api.github.com/users/rcwangtw/repos",
+  "events_url": "https://api.github.com/users/rcwangtw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rcwangtw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

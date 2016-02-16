@@ -1,0 +1,20 @@
+{
+  "login": "hgsk",
+  "id": 544085,
+  "avatar_url": "https://avatars.githubusercontent.com/u/544085?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hgsk",
+  "html_url": "https://github.com/hgsk",
+  "followers_url": "https://api.github.com/users/hgsk/followers",
+  "following_url": "https://api.github.com/users/hgsk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hgsk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hgsk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hgsk/subscriptions",
+  "organizations_url": "https://api.github.com/users/hgsk/orgs",
+  "repos_url": "https://api.github.com/users/hgsk/repos",
+  "events_url": "https://api.github.com/users/hgsk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hgsk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Prepsmith",
+  "id": 11454269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11454269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Prepsmith",
+  "html_url": "https://github.com/Prepsmith",
+  "followers_url": "https://api.github.com/users/Prepsmith/followers",
+  "following_url": "https://api.github.com/users/Prepsmith/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Prepsmith/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Prepsmith/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Prepsmith/subscriptions",
+  "organizations_url": "https://api.github.com/users/Prepsmith/orgs",
+  "repos_url": "https://api.github.com/users/Prepsmith/repos",
+  "events_url": "https://api.github.com/users/Prepsmith/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Prepsmith/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

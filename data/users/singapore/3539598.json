@@ -1,0 +1,20 @@
+{
+  "login": "opsdeveloper",
+  "id": 3539598,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3539598?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/opsdeveloper",
+  "html_url": "https://github.com/opsdeveloper",
+  "followers_url": "https://api.github.com/users/opsdeveloper/followers",
+  "following_url": "https://api.github.com/users/opsdeveloper/following{/other_user}",
+  "gists_url": "https://api.github.com/users/opsdeveloper/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/opsdeveloper/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/opsdeveloper/subscriptions",
+  "organizations_url": "https://api.github.com/users/opsdeveloper/orgs",
+  "repos_url": "https://api.github.com/users/opsdeveloper/repos",
+  "events_url": "https://api.github.com/users/opsdeveloper/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/opsdeveloper/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

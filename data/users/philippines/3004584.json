@@ -1,0 +1,20 @@
+{
+  "login": "vpablo",
+  "id": 3004584,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3004584?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vpablo",
+  "html_url": "https://github.com/vpablo",
+  "followers_url": "https://api.github.com/users/vpablo/followers",
+  "following_url": "https://api.github.com/users/vpablo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vpablo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vpablo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vpablo/subscriptions",
+  "organizations_url": "https://api.github.com/users/vpablo/orgs",
+  "repos_url": "https://api.github.com/users/vpablo/repos",
+  "events_url": "https://api.github.com/users/vpablo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vpablo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

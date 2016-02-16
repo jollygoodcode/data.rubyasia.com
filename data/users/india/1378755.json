@@ -1,0 +1,20 @@
+{
+  "login": "techaddict",
+  "id": 1378755,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1378755?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/techaddict",
+  "html_url": "https://github.com/techaddict",
+  "followers_url": "https://api.github.com/users/techaddict/followers",
+  "following_url": "https://api.github.com/users/techaddict/following{/other_user}",
+  "gists_url": "https://api.github.com/users/techaddict/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/techaddict/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/techaddict/subscriptions",
+  "organizations_url": "https://api.github.com/users/techaddict/orgs",
+  "repos_url": "https://api.github.com/users/techaddict/repos",
+  "events_url": "https://api.github.com/users/techaddict/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/techaddict/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

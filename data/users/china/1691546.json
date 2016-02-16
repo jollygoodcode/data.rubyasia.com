@@ -1,0 +1,20 @@
+{
+  "login": "feinux",
+  "id": 1691546,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1691546?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/feinux",
+  "html_url": "https://github.com/feinux",
+  "followers_url": "https://api.github.com/users/feinux/followers",
+  "following_url": "https://api.github.com/users/feinux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/feinux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/feinux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/feinux/subscriptions",
+  "organizations_url": "https://api.github.com/users/feinux/orgs",
+  "repos_url": "https://api.github.com/users/feinux/repos",
+  "events_url": "https://api.github.com/users/feinux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/feinux/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

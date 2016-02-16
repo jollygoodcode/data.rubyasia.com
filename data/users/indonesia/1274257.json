@@ -1,0 +1,20 @@
+{
+  "login": "dirg-bisma",
+  "id": 1274257,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1274257?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dirg-bisma",
+  "html_url": "https://github.com/dirg-bisma",
+  "followers_url": "https://api.github.com/users/dirg-bisma/followers",
+  "following_url": "https://api.github.com/users/dirg-bisma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dirg-bisma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dirg-bisma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dirg-bisma/subscriptions",
+  "organizations_url": "https://api.github.com/users/dirg-bisma/orgs",
+  "repos_url": "https://api.github.com/users/dirg-bisma/repos",
+  "events_url": "https://api.github.com/users/dirg-bisma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dirg-bisma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

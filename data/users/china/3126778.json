@@ -1,0 +1,20 @@
+{
+  "login": "emoizhang",
+  "id": 3126778,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3126778?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emoizhang",
+  "html_url": "https://github.com/emoizhang",
+  "followers_url": "https://api.github.com/users/emoizhang/followers",
+  "following_url": "https://api.github.com/users/emoizhang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emoizhang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emoizhang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emoizhang/subscriptions",
+  "organizations_url": "https://api.github.com/users/emoizhang/orgs",
+  "repos_url": "https://api.github.com/users/emoizhang/repos",
+  "events_url": "https://api.github.com/users/emoizhang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emoizhang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

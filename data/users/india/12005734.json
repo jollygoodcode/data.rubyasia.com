@@ -1,0 +1,20 @@
+{
+  "login": "rahullakhaney",
+  "id": 12005734,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12005734?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rahullakhaney",
+  "html_url": "https://github.com/rahullakhaney",
+  "followers_url": "https://api.github.com/users/rahullakhaney/followers",
+  "following_url": "https://api.github.com/users/rahullakhaney/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rahullakhaney/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rahullakhaney/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rahullakhaney/subscriptions",
+  "organizations_url": "https://api.github.com/users/rahullakhaney/orgs",
+  "repos_url": "https://api.github.com/users/rahullakhaney/repos",
+  "events_url": "https://api.github.com/users/rahullakhaney/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rahullakhaney/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

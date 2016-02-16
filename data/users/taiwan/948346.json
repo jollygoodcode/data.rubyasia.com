@@ -1,0 +1,20 @@
+{
+  "login": "cyrixhero",
+  "id": 948346,
+  "avatar_url": "https://avatars.githubusercontent.com/u/948346?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cyrixhero",
+  "html_url": "https://github.com/cyrixhero",
+  "followers_url": "https://api.github.com/users/cyrixhero/followers",
+  "following_url": "https://api.github.com/users/cyrixhero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cyrixhero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cyrixhero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cyrixhero/subscriptions",
+  "organizations_url": "https://api.github.com/users/cyrixhero/orgs",
+  "repos_url": "https://api.github.com/users/cyrixhero/repos",
+  "events_url": "https://api.github.com/users/cyrixhero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cyrixhero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

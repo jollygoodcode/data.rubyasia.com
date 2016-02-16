@@ -1,0 +1,20 @@
+{
+  "login": "lfsolutions",
+  "id": 3453238,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3453238?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lfsolutions",
+  "html_url": "https://github.com/lfsolutions",
+  "followers_url": "https://api.github.com/users/lfsolutions/followers",
+  "following_url": "https://api.github.com/users/lfsolutions/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lfsolutions/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lfsolutions/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lfsolutions/subscriptions",
+  "organizations_url": "https://api.github.com/users/lfsolutions/orgs",
+  "repos_url": "https://api.github.com/users/lfsolutions/repos",
+  "events_url": "https://api.github.com/users/lfsolutions/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lfsolutions/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

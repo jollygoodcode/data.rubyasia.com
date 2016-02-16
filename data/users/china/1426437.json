@@ -1,0 +1,20 @@
+{
+  "login": "huyangying",
+  "id": 1426437,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1426437?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huyangying",
+  "html_url": "https://github.com/huyangying",
+  "followers_url": "https://api.github.com/users/huyangying/followers",
+  "following_url": "https://api.github.com/users/huyangying/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huyangying/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huyangying/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huyangying/subscriptions",
+  "organizations_url": "https://api.github.com/users/huyangying/orgs",
+  "repos_url": "https://api.github.com/users/huyangying/repos",
+  "events_url": "https://api.github.com/users/huyangying/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huyangying/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

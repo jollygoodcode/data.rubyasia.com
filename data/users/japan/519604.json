@@ -1,0 +1,20 @@
+{
+  "login": "itochan",
+  "id": 519604,
+  "avatar_url": "https://avatars.githubusercontent.com/u/519604?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/itochan",
+  "html_url": "https://github.com/itochan",
+  "followers_url": "https://api.github.com/users/itochan/followers",
+  "following_url": "https://api.github.com/users/itochan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/itochan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/itochan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/itochan/subscriptions",
+  "organizations_url": "https://api.github.com/users/itochan/orgs",
+  "repos_url": "https://api.github.com/users/itochan/repos",
+  "events_url": "https://api.github.com/users/itochan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/itochan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

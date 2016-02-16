@@ -1,0 +1,20 @@
+{
+  "login": "sanglanun",
+  "id": 6336820,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6336820?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sanglanun",
+  "html_url": "https://github.com/sanglanun",
+  "followers_url": "https://api.github.com/users/sanglanun/followers",
+  "following_url": "https://api.github.com/users/sanglanun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sanglanun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sanglanun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sanglanun/subscriptions",
+  "organizations_url": "https://api.github.com/users/sanglanun/orgs",
+  "repos_url": "https://api.github.com/users/sanglanun/repos",
+  "events_url": "https://api.github.com/users/sanglanun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sanglanun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

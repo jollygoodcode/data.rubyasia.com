@@ -1,0 +1,20 @@
+{
+  "login": "gargsuchi",
+  "id": 120015,
+  "avatar_url": "https://avatars.githubusercontent.com/u/120015?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gargsuchi",
+  "html_url": "https://github.com/gargsuchi",
+  "followers_url": "https://api.github.com/users/gargsuchi/followers",
+  "following_url": "https://api.github.com/users/gargsuchi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gargsuchi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gargsuchi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gargsuchi/subscriptions",
+  "organizations_url": "https://api.github.com/users/gargsuchi/orgs",
+  "repos_url": "https://api.github.com/users/gargsuchi/repos",
+  "events_url": "https://api.github.com/users/gargsuchi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gargsuchi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

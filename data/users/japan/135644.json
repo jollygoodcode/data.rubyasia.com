@@ -1,0 +1,20 @@
+{
+  "login": "haruyama",
+  "id": 135644,
+  "avatar_url": "https://avatars.githubusercontent.com/u/135644?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haruyama",
+  "html_url": "https://github.com/haruyama",
+  "followers_url": "https://api.github.com/users/haruyama/followers",
+  "following_url": "https://api.github.com/users/haruyama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haruyama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haruyama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haruyama/subscriptions",
+  "organizations_url": "https://api.github.com/users/haruyama/orgs",
+  "repos_url": "https://api.github.com/users/haruyama/repos",
+  "events_url": "https://api.github.com/users/haruyama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haruyama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

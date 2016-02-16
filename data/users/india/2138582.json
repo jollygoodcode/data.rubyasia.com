@@ -1,0 +1,20 @@
+{
+  "login": "debamitro",
+  "id": 2138582,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2138582?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/debamitro",
+  "html_url": "https://github.com/debamitro",
+  "followers_url": "https://api.github.com/users/debamitro/followers",
+  "following_url": "https://api.github.com/users/debamitro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/debamitro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/debamitro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/debamitro/subscriptions",
+  "organizations_url": "https://api.github.com/users/debamitro/orgs",
+  "repos_url": "https://api.github.com/users/debamitro/repos",
+  "events_url": "https://api.github.com/users/debamitro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/debamitro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

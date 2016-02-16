@@ -1,0 +1,20 @@
+{
+  "login": "a-sendo",
+  "id": 2919407,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2919407?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/a-sendo",
+  "html_url": "https://github.com/a-sendo",
+  "followers_url": "https://api.github.com/users/a-sendo/followers",
+  "following_url": "https://api.github.com/users/a-sendo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/a-sendo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/a-sendo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/a-sendo/subscriptions",
+  "organizations_url": "https://api.github.com/users/a-sendo/orgs",
+  "repos_url": "https://api.github.com/users/a-sendo/repos",
+  "events_url": "https://api.github.com/users/a-sendo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/a-sendo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

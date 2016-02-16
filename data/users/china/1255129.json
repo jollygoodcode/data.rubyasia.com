@@ -1,0 +1,20 @@
+{
+  "login": "jimrok",
+  "id": 1255129,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1255129?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jimrok",
+  "html_url": "https://github.com/jimrok",
+  "followers_url": "https://api.github.com/users/jimrok/followers",
+  "following_url": "https://api.github.com/users/jimrok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jimrok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jimrok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jimrok/subscriptions",
+  "organizations_url": "https://api.github.com/users/jimrok/orgs",
+  "repos_url": "https://api.github.com/users/jimrok/repos",
+  "events_url": "https://api.github.com/users/jimrok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jimrok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

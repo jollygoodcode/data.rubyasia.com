@@ -1,0 +1,20 @@
+{
+  "login": "dammuarpit",
+  "id": 13690845,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13690845?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dammuarpit",
+  "html_url": "https://github.com/dammuarpit",
+  "followers_url": "https://api.github.com/users/dammuarpit/followers",
+  "following_url": "https://api.github.com/users/dammuarpit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dammuarpit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dammuarpit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dammuarpit/subscriptions",
+  "organizations_url": "https://api.github.com/users/dammuarpit/orgs",
+  "repos_url": "https://api.github.com/users/dammuarpit/repos",
+  "events_url": "https://api.github.com/users/dammuarpit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dammuarpit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

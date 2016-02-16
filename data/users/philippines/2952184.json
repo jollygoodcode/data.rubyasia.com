@@ -1,0 +1,20 @@
+{
+  "login": "EdeyaLabs",
+  "id": 2952184,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2952184?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/EdeyaLabs",
+  "html_url": "https://github.com/EdeyaLabs",
+  "followers_url": "https://api.github.com/users/EdeyaLabs/followers",
+  "following_url": "https://api.github.com/users/EdeyaLabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/EdeyaLabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/EdeyaLabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/EdeyaLabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/EdeyaLabs/orgs",
+  "repos_url": "https://api.github.com/users/EdeyaLabs/repos",
+  "events_url": "https://api.github.com/users/EdeyaLabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/EdeyaLabs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

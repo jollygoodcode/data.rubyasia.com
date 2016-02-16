@@ -1,0 +1,20 @@
+{
+  "login": "toshina",
+  "id": 16795596,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16795596?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toshina",
+  "html_url": "https://github.com/toshina",
+  "followers_url": "https://api.github.com/users/toshina/followers",
+  "following_url": "https://api.github.com/users/toshina/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toshina/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toshina/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toshina/subscriptions",
+  "organizations_url": "https://api.github.com/users/toshina/orgs",
+  "repos_url": "https://api.github.com/users/toshina/repos",
+  "events_url": "https://api.github.com/users/toshina/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toshina/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

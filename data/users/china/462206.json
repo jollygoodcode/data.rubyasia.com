@@ -1,0 +1,20 @@
+{
+  "login": "pierrchen",
+  "id": 462206,
+  "avatar_url": "https://avatars.githubusercontent.com/u/462206?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pierrchen",
+  "html_url": "https://github.com/pierrchen",
+  "followers_url": "https://api.github.com/users/pierrchen/followers",
+  "following_url": "https://api.github.com/users/pierrchen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pierrchen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pierrchen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pierrchen/subscriptions",
+  "organizations_url": "https://api.github.com/users/pierrchen/orgs",
+  "repos_url": "https://api.github.com/users/pierrchen/repos",
+  "events_url": "https://api.github.com/users/pierrchen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pierrchen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

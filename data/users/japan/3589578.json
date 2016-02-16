@@ -1,0 +1,20 @@
+{
+  "login": "proshiba",
+  "id": 3589578,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3589578?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/proshiba",
+  "html_url": "https://github.com/proshiba",
+  "followers_url": "https://api.github.com/users/proshiba/followers",
+  "following_url": "https://api.github.com/users/proshiba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/proshiba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/proshiba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/proshiba/subscriptions",
+  "organizations_url": "https://api.github.com/users/proshiba/orgs",
+  "repos_url": "https://api.github.com/users/proshiba/repos",
+  "events_url": "https://api.github.com/users/proshiba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/proshiba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

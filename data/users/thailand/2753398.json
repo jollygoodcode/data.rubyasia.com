@@ -1,0 +1,20 @@
+{
+  "login": "50kudos",
+  "id": 2753398,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2753398?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/50kudos",
+  "html_url": "https://github.com/50kudos",
+  "followers_url": "https://api.github.com/users/50kudos/followers",
+  "following_url": "https://api.github.com/users/50kudos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/50kudos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/50kudos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/50kudos/subscriptions",
+  "organizations_url": "https://api.github.com/users/50kudos/orgs",
+  "repos_url": "https://api.github.com/users/50kudos/repos",
+  "events_url": "https://api.github.com/users/50kudos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/50kudos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

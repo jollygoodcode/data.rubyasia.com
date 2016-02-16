@@ -1,0 +1,20 @@
+{
+  "login": "jamesneve",
+  "id": 1942112,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1942112?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamesneve",
+  "html_url": "https://github.com/jamesneve",
+  "followers_url": "https://api.github.com/users/jamesneve/followers",
+  "following_url": "https://api.github.com/users/jamesneve/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamesneve/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamesneve/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamesneve/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamesneve/orgs",
+  "repos_url": "https://api.github.com/users/jamesneve/repos",
+  "events_url": "https://api.github.com/users/jamesneve/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamesneve/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

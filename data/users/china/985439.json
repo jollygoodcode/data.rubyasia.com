@@ -1,0 +1,20 @@
+{
+  "login": "mookrs",
+  "id": 985439,
+  "avatar_url": "https://avatars.githubusercontent.com/u/985439?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mookrs",
+  "html_url": "https://github.com/mookrs",
+  "followers_url": "https://api.github.com/users/mookrs/followers",
+  "following_url": "https://api.github.com/users/mookrs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mookrs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mookrs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mookrs/subscriptions",
+  "organizations_url": "https://api.github.com/users/mookrs/orgs",
+  "repos_url": "https://api.github.com/users/mookrs/repos",
+  "events_url": "https://api.github.com/users/mookrs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mookrs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

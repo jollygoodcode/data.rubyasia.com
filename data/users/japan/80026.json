@@ -1,0 +1,20 @@
+{
+  "login": "gorinovic",
+  "id": 80026,
+  "avatar_url": "https://avatars.githubusercontent.com/u/80026?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gorinovic",
+  "html_url": "https://github.com/gorinovic",
+  "followers_url": "https://api.github.com/users/gorinovic/followers",
+  "following_url": "https://api.github.com/users/gorinovic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gorinovic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gorinovic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gorinovic/subscriptions",
+  "organizations_url": "https://api.github.com/users/gorinovic/orgs",
+  "repos_url": "https://api.github.com/users/gorinovic/repos",
+  "events_url": "https://api.github.com/users/gorinovic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gorinovic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

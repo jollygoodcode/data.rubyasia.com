@@ -1,0 +1,20 @@
+{
+  "login": "chamnap",
+  "id": 407708,
+  "avatar_url": "https://avatars.githubusercontent.com/u/407708?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chamnap",
+  "html_url": "https://github.com/chamnap",
+  "followers_url": "https://api.github.com/users/chamnap/followers",
+  "following_url": "https://api.github.com/users/chamnap/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chamnap/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chamnap/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chamnap/subscriptions",
+  "organizations_url": "https://api.github.com/users/chamnap/orgs",
+  "repos_url": "https://api.github.com/users/chamnap/repos",
+  "events_url": "https://api.github.com/users/chamnap/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chamnap/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

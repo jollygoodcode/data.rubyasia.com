@@ -1,0 +1,20 @@
+{
+  "login": "averma",
+  "id": 1057746,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1057746?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/averma",
+  "html_url": "https://github.com/averma",
+  "followers_url": "https://api.github.com/users/averma/followers",
+  "following_url": "https://api.github.com/users/averma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/averma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/averma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/averma/subscriptions",
+  "organizations_url": "https://api.github.com/users/averma/orgs",
+  "repos_url": "https://api.github.com/users/averma/repos",
+  "events_url": "https://api.github.com/users/averma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/averma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

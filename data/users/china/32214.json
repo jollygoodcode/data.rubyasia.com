@@ -1,0 +1,20 @@
+{
+  "login": "sbabybird",
+  "id": 32214,
+  "avatar_url": "https://avatars.githubusercontent.com/u/32214?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sbabybird",
+  "html_url": "https://github.com/sbabybird",
+  "followers_url": "https://api.github.com/users/sbabybird/followers",
+  "following_url": "https://api.github.com/users/sbabybird/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sbabybird/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sbabybird/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sbabybird/subscriptions",
+  "organizations_url": "https://api.github.com/users/sbabybird/orgs",
+  "repos_url": "https://api.github.com/users/sbabybird/repos",
+  "events_url": "https://api.github.com/users/sbabybird/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sbabybird/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

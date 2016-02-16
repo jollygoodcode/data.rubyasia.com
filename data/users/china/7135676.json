@@ -1,0 +1,20 @@
+{
+  "login": "rick-liu",
+  "id": 7135676,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7135676?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rick-liu",
+  "html_url": "https://github.com/rick-liu",
+  "followers_url": "https://api.github.com/users/rick-liu/followers",
+  "following_url": "https://api.github.com/users/rick-liu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rick-liu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rick-liu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rick-liu/subscriptions",
+  "organizations_url": "https://api.github.com/users/rick-liu/orgs",
+  "repos_url": "https://api.github.com/users/rick-liu/repos",
+  "events_url": "https://api.github.com/users/rick-liu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rick-liu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

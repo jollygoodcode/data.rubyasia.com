@@ -1,0 +1,20 @@
+{
+  "login": "masao",
+  "id": 38825,
+  "avatar_url": "https://avatars.githubusercontent.com/u/38825?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masao",
+  "html_url": "https://github.com/masao",
+  "followers_url": "https://api.github.com/users/masao/followers",
+  "following_url": "https://api.github.com/users/masao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masao/subscriptions",
+  "organizations_url": "https://api.github.com/users/masao/orgs",
+  "repos_url": "https://api.github.com/users/masao/repos",
+  "events_url": "https://api.github.com/users/masao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

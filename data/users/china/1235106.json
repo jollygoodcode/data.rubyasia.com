@@ -1,0 +1,20 @@
+{
+  "login": "shooterman",
+  "id": 1235106,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1235106?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shooterman",
+  "html_url": "https://github.com/shooterman",
+  "followers_url": "https://api.github.com/users/shooterman/followers",
+  "following_url": "https://api.github.com/users/shooterman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shooterman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shooterman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shooterman/subscriptions",
+  "organizations_url": "https://api.github.com/users/shooterman/orgs",
+  "repos_url": "https://api.github.com/users/shooterman/repos",
+  "events_url": "https://api.github.com/users/shooterman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shooterman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

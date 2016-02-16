@@ -1,0 +1,20 @@
+{
+  "login": "morpheus-kr",
+  "id": 1075727,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1075727?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/morpheus-kr",
+  "html_url": "https://github.com/morpheus-kr",
+  "followers_url": "https://api.github.com/users/morpheus-kr/followers",
+  "following_url": "https://api.github.com/users/morpheus-kr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/morpheus-kr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/morpheus-kr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/morpheus-kr/subscriptions",
+  "organizations_url": "https://api.github.com/users/morpheus-kr/orgs",
+  "repos_url": "https://api.github.com/users/morpheus-kr/repos",
+  "events_url": "https://api.github.com/users/morpheus-kr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/morpheus-kr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

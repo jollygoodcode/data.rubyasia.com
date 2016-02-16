@@ -1,0 +1,20 @@
+{
+  "login": "kiwiwin",
+  "id": 1262807,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1262807?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kiwiwin",
+  "html_url": "https://github.com/kiwiwin",
+  "followers_url": "https://api.github.com/users/kiwiwin/followers",
+  "following_url": "https://api.github.com/users/kiwiwin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kiwiwin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kiwiwin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kiwiwin/subscriptions",
+  "organizations_url": "https://api.github.com/users/kiwiwin/orgs",
+  "repos_url": "https://api.github.com/users/kiwiwin/repos",
+  "events_url": "https://api.github.com/users/kiwiwin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kiwiwin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

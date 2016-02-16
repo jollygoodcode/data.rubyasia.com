@@ -1,0 +1,20 @@
+{
+  "login": "hothero",
+  "id": 665345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/665345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hothero",
+  "html_url": "https://github.com/hothero",
+  "followers_url": "https://api.github.com/users/hothero/followers",
+  "following_url": "https://api.github.com/users/hothero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hothero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hothero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hothero/subscriptions",
+  "organizations_url": "https://api.github.com/users/hothero/orgs",
+  "repos_url": "https://api.github.com/users/hothero/repos",
+  "events_url": "https://api.github.com/users/hothero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hothero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

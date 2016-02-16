@@ -1,0 +1,20 @@
+{
+  "login": "littletimo",
+  "id": 998933,
+  "avatar_url": "https://avatars.githubusercontent.com/u/998933?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/littletimo",
+  "html_url": "https://github.com/littletimo",
+  "followers_url": "https://api.github.com/users/littletimo/followers",
+  "following_url": "https://api.github.com/users/littletimo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/littletimo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/littletimo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/littletimo/subscriptions",
+  "organizations_url": "https://api.github.com/users/littletimo/orgs",
+  "repos_url": "https://api.github.com/users/littletimo/repos",
+  "events_url": "https://api.github.com/users/littletimo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/littletimo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

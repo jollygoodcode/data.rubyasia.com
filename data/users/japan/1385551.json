@@ -1,0 +1,20 @@
+{
+  "login": "wnoguchi",
+  "id": 1385551,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1385551?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wnoguchi",
+  "html_url": "https://github.com/wnoguchi",
+  "followers_url": "https://api.github.com/users/wnoguchi/followers",
+  "following_url": "https://api.github.com/users/wnoguchi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wnoguchi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wnoguchi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wnoguchi/subscriptions",
+  "organizations_url": "https://api.github.com/users/wnoguchi/orgs",
+  "repos_url": "https://api.github.com/users/wnoguchi/repos",
+  "events_url": "https://api.github.com/users/wnoguchi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wnoguchi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

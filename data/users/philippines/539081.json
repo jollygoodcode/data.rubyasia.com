@@ -1,0 +1,20 @@
+{
+  "login": "fchua",
+  "id": 539081,
+  "avatar_url": "https://avatars.githubusercontent.com/u/539081?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fchua",
+  "html_url": "https://github.com/fchua",
+  "followers_url": "https://api.github.com/users/fchua/followers",
+  "following_url": "https://api.github.com/users/fchua/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fchua/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fchua/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fchua/subscriptions",
+  "organizations_url": "https://api.github.com/users/fchua/orgs",
+  "repos_url": "https://api.github.com/users/fchua/repos",
+  "events_url": "https://api.github.com/users/fchua/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fchua/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

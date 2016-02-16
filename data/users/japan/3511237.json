@@ -1,0 +1,20 @@
+{
+  "login": "morikat",
+  "id": 3511237,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3511237?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/morikat",
+  "html_url": "https://github.com/morikat",
+  "followers_url": "https://api.github.com/users/morikat/followers",
+  "following_url": "https://api.github.com/users/morikat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/morikat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/morikat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/morikat/subscriptions",
+  "organizations_url": "https://api.github.com/users/morikat/orgs",
+  "repos_url": "https://api.github.com/users/morikat/repos",
+  "events_url": "https://api.github.com/users/morikat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/morikat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "PlutusCN",
+  "id": 1049404,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1049404?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PlutusCN",
+  "html_url": "https://github.com/PlutusCN",
+  "followers_url": "https://api.github.com/users/PlutusCN/followers",
+  "following_url": "https://api.github.com/users/PlutusCN/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PlutusCN/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PlutusCN/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PlutusCN/subscriptions",
+  "organizations_url": "https://api.github.com/users/PlutusCN/orgs",
+  "repos_url": "https://api.github.com/users/PlutusCN/repos",
+  "events_url": "https://api.github.com/users/PlutusCN/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PlutusCN/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

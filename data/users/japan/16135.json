@@ -1,0 +1,20 @@
+{
+  "login": "milk1000cc",
+  "id": 16135,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16135?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/milk1000cc",
+  "html_url": "https://github.com/milk1000cc",
+  "followers_url": "https://api.github.com/users/milk1000cc/followers",
+  "following_url": "https://api.github.com/users/milk1000cc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/milk1000cc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/milk1000cc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/milk1000cc/subscriptions",
+  "organizations_url": "https://api.github.com/users/milk1000cc/orgs",
+  "repos_url": "https://api.github.com/users/milk1000cc/repos",
+  "events_url": "https://api.github.com/users/milk1000cc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/milk1000cc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

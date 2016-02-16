@@ -1,0 +1,20 @@
+{
+  "login": "yuja",
+  "id": 172069,
+  "avatar_url": "https://avatars.githubusercontent.com/u/172069?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuja",
+  "html_url": "https://github.com/yuja",
+  "followers_url": "https://api.github.com/users/yuja/followers",
+  "following_url": "https://api.github.com/users/yuja/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuja/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuja/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuja/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuja/orgs",
+  "repos_url": "https://api.github.com/users/yuja/repos",
+  "events_url": "https://api.github.com/users/yuja/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuja/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

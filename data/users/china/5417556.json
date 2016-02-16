@@ -1,0 +1,20 @@
+{
+  "login": "mehwww",
+  "id": 5417556,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5417556?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mehwww",
+  "html_url": "https://github.com/mehwww",
+  "followers_url": "https://api.github.com/users/mehwww/followers",
+  "following_url": "https://api.github.com/users/mehwww/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mehwww/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mehwww/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mehwww/subscriptions",
+  "organizations_url": "https://api.github.com/users/mehwww/orgs",
+  "repos_url": "https://api.github.com/users/mehwww/repos",
+  "events_url": "https://api.github.com/users/mehwww/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mehwww/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

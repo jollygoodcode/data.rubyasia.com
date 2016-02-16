@@ -1,0 +1,20 @@
+{
+  "login": "agustiadi",
+  "id": 5186284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5186284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/agustiadi",
+  "html_url": "https://github.com/agustiadi",
+  "followers_url": "https://api.github.com/users/agustiadi/followers",
+  "following_url": "https://api.github.com/users/agustiadi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/agustiadi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/agustiadi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/agustiadi/subscriptions",
+  "organizations_url": "https://api.github.com/users/agustiadi/orgs",
+  "repos_url": "https://api.github.com/users/agustiadi/repos",
+  "events_url": "https://api.github.com/users/agustiadi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/agustiadi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

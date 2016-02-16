@@ -1,0 +1,20 @@
+{
+  "login": "zhenguang",
+  "id": 665415,
+  "avatar_url": "https://avatars.githubusercontent.com/u/665415?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhenguang",
+  "html_url": "https://github.com/zhenguang",
+  "followers_url": "https://api.github.com/users/zhenguang/followers",
+  "following_url": "https://api.github.com/users/zhenguang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhenguang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhenguang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhenguang/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhenguang/orgs",
+  "repos_url": "https://api.github.com/users/zhenguang/repos",
+  "events_url": "https://api.github.com/users/zhenguang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhenguang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "haluan",
+  "id": 830409,
+  "avatar_url": "https://avatars.githubusercontent.com/u/830409?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haluan",
+  "html_url": "https://github.com/haluan",
+  "followers_url": "https://api.github.com/users/haluan/followers",
+  "following_url": "https://api.github.com/users/haluan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haluan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haluan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haluan/subscriptions",
+  "organizations_url": "https://api.github.com/users/haluan/orgs",
+  "repos_url": "https://api.github.com/users/haluan/repos",
+  "events_url": "https://api.github.com/users/haluan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haluan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

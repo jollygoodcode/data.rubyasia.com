@@ -1,0 +1,20 @@
+{
+  "login": "jimmyjeng",
+  "id": 10155022,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10155022?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jimmyjeng",
+  "html_url": "https://github.com/jimmyjeng",
+  "followers_url": "https://api.github.com/users/jimmyjeng/followers",
+  "following_url": "https://api.github.com/users/jimmyjeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jimmyjeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jimmyjeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jimmyjeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/jimmyjeng/orgs",
+  "repos_url": "https://api.github.com/users/jimmyjeng/repos",
+  "events_url": "https://api.github.com/users/jimmyjeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jimmyjeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

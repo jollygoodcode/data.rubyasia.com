@@ -1,0 +1,20 @@
+{
+  "login": "cfmitrah",
+  "id": 532401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/532401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cfmitrah",
+  "html_url": "https://github.com/cfmitrah",
+  "followers_url": "https://api.github.com/users/cfmitrah/followers",
+  "following_url": "https://api.github.com/users/cfmitrah/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cfmitrah/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cfmitrah/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cfmitrah/subscriptions",
+  "organizations_url": "https://api.github.com/users/cfmitrah/orgs",
+  "repos_url": "https://api.github.com/users/cfmitrah/repos",
+  "events_url": "https://api.github.com/users/cfmitrah/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cfmitrah/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

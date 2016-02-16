@@ -1,0 +1,20 @@
+{
+  "login": "kennyj",
+  "id": 13426,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13426?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kennyj",
+  "html_url": "https://github.com/kennyj",
+  "followers_url": "https://api.github.com/users/kennyj/followers",
+  "following_url": "https://api.github.com/users/kennyj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kennyj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kennyj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kennyj/subscriptions",
+  "organizations_url": "https://api.github.com/users/kennyj/orgs",
+  "repos_url": "https://api.github.com/users/kennyj/repos",
+  "events_url": "https://api.github.com/users/kennyj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kennyj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

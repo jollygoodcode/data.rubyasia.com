@@ -1,0 +1,20 @@
+{
+  "login": "itaruru",
+  "id": 2151947,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2151947?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/itaruru",
+  "html_url": "https://github.com/itaruru",
+  "followers_url": "https://api.github.com/users/itaruru/followers",
+  "following_url": "https://api.github.com/users/itaruru/following{/other_user}",
+  "gists_url": "https://api.github.com/users/itaruru/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/itaruru/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/itaruru/subscriptions",
+  "organizations_url": "https://api.github.com/users/itaruru/orgs",
+  "repos_url": "https://api.github.com/users/itaruru/repos",
+  "events_url": "https://api.github.com/users/itaruru/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/itaruru/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

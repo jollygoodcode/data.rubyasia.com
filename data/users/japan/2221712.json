@@ -1,0 +1,20 @@
+{
+  "login": "C-FO",
+  "id": 2221712,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2221712?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/C-FO",
+  "html_url": "https://github.com/C-FO",
+  "followers_url": "https://api.github.com/users/C-FO/followers",
+  "following_url": "https://api.github.com/users/C-FO/following{/other_user}",
+  "gists_url": "https://api.github.com/users/C-FO/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/C-FO/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/C-FO/subscriptions",
+  "organizations_url": "https://api.github.com/users/C-FO/orgs",
+  "repos_url": "https://api.github.com/users/C-FO/repos",
+  "events_url": "https://api.github.com/users/C-FO/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/C-FO/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

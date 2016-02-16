@@ -1,0 +1,20 @@
+{
+  "login": "mirakui",
+  "id": 20384,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20384?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mirakui",
+  "html_url": "https://github.com/mirakui",
+  "followers_url": "https://api.github.com/users/mirakui/followers",
+  "following_url": "https://api.github.com/users/mirakui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mirakui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mirakui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mirakui/subscriptions",
+  "organizations_url": "https://api.github.com/users/mirakui/orgs",
+  "repos_url": "https://api.github.com/users/mirakui/repos",
+  "events_url": "https://api.github.com/users/mirakui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mirakui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

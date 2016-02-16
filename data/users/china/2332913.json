@@ -1,0 +1,20 @@
+{
+  "login": "leemoen",
+  "id": 2332913,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2332913?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leemoen",
+  "html_url": "https://github.com/leemoen",
+  "followers_url": "https://api.github.com/users/leemoen/followers",
+  "following_url": "https://api.github.com/users/leemoen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leemoen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leemoen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leemoen/subscriptions",
+  "organizations_url": "https://api.github.com/users/leemoen/orgs",
+  "repos_url": "https://api.github.com/users/leemoen/repos",
+  "events_url": "https://api.github.com/users/leemoen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leemoen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

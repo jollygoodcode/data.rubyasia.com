@@ -1,0 +1,20 @@
+{
+  "login": "maojieming",
+  "id": 304268,
+  "avatar_url": "https://avatars.githubusercontent.com/u/304268?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maojieming",
+  "html_url": "https://github.com/maojieming",
+  "followers_url": "https://api.github.com/users/maojieming/followers",
+  "following_url": "https://api.github.com/users/maojieming/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maojieming/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maojieming/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maojieming/subscriptions",
+  "organizations_url": "https://api.github.com/users/maojieming/orgs",
+  "repos_url": "https://api.github.com/users/maojieming/repos",
+  "events_url": "https://api.github.com/users/maojieming/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maojieming/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

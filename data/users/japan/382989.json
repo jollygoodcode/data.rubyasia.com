@@ -1,0 +1,20 @@
+{
+  "login": "hiki",
+  "id": 382989,
+  "avatar_url": "https://avatars.githubusercontent.com/u/382989?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiki",
+  "html_url": "https://github.com/hiki",
+  "followers_url": "https://api.github.com/users/hiki/followers",
+  "following_url": "https://api.github.com/users/hiki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiki/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiki/orgs",
+  "repos_url": "https://api.github.com/users/hiki/repos",
+  "events_url": "https://api.github.com/users/hiki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiki/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

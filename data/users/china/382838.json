@@ -1,0 +1,20 @@
+{
+  "login": "smilekk",
+  "id": 382838,
+  "avatar_url": "https://avatars.githubusercontent.com/u/382838?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smilekk",
+  "html_url": "https://github.com/smilekk",
+  "followers_url": "https://api.github.com/users/smilekk/followers",
+  "following_url": "https://api.github.com/users/smilekk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smilekk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smilekk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smilekk/subscriptions",
+  "organizations_url": "https://api.github.com/users/smilekk/orgs",
+  "repos_url": "https://api.github.com/users/smilekk/repos",
+  "events_url": "https://api.github.com/users/smilekk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smilekk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

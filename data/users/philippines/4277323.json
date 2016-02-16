@@ -1,0 +1,20 @@
+{
+  "login": "iggy-tan",
+  "id": 4277323,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4277323?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iggy-tan",
+  "html_url": "https://github.com/iggy-tan",
+  "followers_url": "https://api.github.com/users/iggy-tan/followers",
+  "following_url": "https://api.github.com/users/iggy-tan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iggy-tan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iggy-tan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iggy-tan/subscriptions",
+  "organizations_url": "https://api.github.com/users/iggy-tan/orgs",
+  "repos_url": "https://api.github.com/users/iggy-tan/repos",
+  "events_url": "https://api.github.com/users/iggy-tan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iggy-tan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

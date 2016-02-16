@@ -1,0 +1,20 @@
+{
+  "login": "NightFeather",
+  "id": 4570441,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4570441?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NightFeather",
+  "html_url": "https://github.com/NightFeather",
+  "followers_url": "https://api.github.com/users/NightFeather/followers",
+  "following_url": "https://api.github.com/users/NightFeather/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NightFeather/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NightFeather/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NightFeather/subscriptions",
+  "organizations_url": "https://api.github.com/users/NightFeather/orgs",
+  "repos_url": "https://api.github.com/users/NightFeather/repos",
+  "events_url": "https://api.github.com/users/NightFeather/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NightFeather/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

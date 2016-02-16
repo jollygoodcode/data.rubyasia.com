@@ -1,0 +1,20 @@
+{
+  "login": "longicorn",
+  "id": 153239,
+  "avatar_url": "https://avatars.githubusercontent.com/u/153239?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/longicorn",
+  "html_url": "https://github.com/longicorn",
+  "followers_url": "https://api.github.com/users/longicorn/followers",
+  "following_url": "https://api.github.com/users/longicorn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/longicorn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/longicorn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/longicorn/subscriptions",
+  "organizations_url": "https://api.github.com/users/longicorn/orgs",
+  "repos_url": "https://api.github.com/users/longicorn/repos",
+  "events_url": "https://api.github.com/users/longicorn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/longicorn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

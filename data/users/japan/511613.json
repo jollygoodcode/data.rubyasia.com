@@ -1,0 +1,20 @@
+{
+  "login": "cond",
+  "id": 511613,
+  "avatar_url": "https://avatars.githubusercontent.com/u/511613?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cond",
+  "html_url": "https://github.com/cond",
+  "followers_url": "https://api.github.com/users/cond/followers",
+  "following_url": "https://api.github.com/users/cond/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cond/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cond/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cond/subscriptions",
+  "organizations_url": "https://api.github.com/users/cond/orgs",
+  "repos_url": "https://api.github.com/users/cond/repos",
+  "events_url": "https://api.github.com/users/cond/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cond/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

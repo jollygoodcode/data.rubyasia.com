@@ -1,0 +1,20 @@
+{
+  "login": "binaries",
+  "id": 41951,
+  "avatar_url": "https://avatars.githubusercontent.com/u/41951?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/binaries",
+  "html_url": "https://github.com/binaries",
+  "followers_url": "https://api.github.com/users/binaries/followers",
+  "following_url": "https://api.github.com/users/binaries/following{/other_user}",
+  "gists_url": "https://api.github.com/users/binaries/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/binaries/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/binaries/subscriptions",
+  "organizations_url": "https://api.github.com/users/binaries/orgs",
+  "repos_url": "https://api.github.com/users/binaries/repos",
+  "events_url": "https://api.github.com/users/binaries/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/binaries/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

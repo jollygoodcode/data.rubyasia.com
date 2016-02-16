@@ -1,0 +1,20 @@
+{
+  "login": "jerryjohnjacob",
+  "id": 4962432,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4962432?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jerryjohnjacob",
+  "html_url": "https://github.com/jerryjohnjacob",
+  "followers_url": "https://api.github.com/users/jerryjohnjacob/followers",
+  "following_url": "https://api.github.com/users/jerryjohnjacob/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jerryjohnjacob/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jerryjohnjacob/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jerryjohnjacob/subscriptions",
+  "organizations_url": "https://api.github.com/users/jerryjohnjacob/orgs",
+  "repos_url": "https://api.github.com/users/jerryjohnjacob/repos",
+  "events_url": "https://api.github.com/users/jerryjohnjacob/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jerryjohnjacob/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

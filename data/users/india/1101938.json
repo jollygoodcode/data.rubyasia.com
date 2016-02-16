@@ -1,0 +1,20 @@
+{
+  "login": "covert-oddity",
+  "id": 1101938,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1101938?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/covert-oddity",
+  "html_url": "https://github.com/covert-oddity",
+  "followers_url": "https://api.github.com/users/covert-oddity/followers",
+  "following_url": "https://api.github.com/users/covert-oddity/following{/other_user}",
+  "gists_url": "https://api.github.com/users/covert-oddity/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/covert-oddity/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/covert-oddity/subscriptions",
+  "organizations_url": "https://api.github.com/users/covert-oddity/orgs",
+  "repos_url": "https://api.github.com/users/covert-oddity/repos",
+  "events_url": "https://api.github.com/users/covert-oddity/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/covert-oddity/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

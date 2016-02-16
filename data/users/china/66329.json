@@ -1,0 +1,20 @@
+{
+  "login": "niedhui",
+  "id": 66329,
+  "avatar_url": "https://avatars.githubusercontent.com/u/66329?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/niedhui",
+  "html_url": "https://github.com/niedhui",
+  "followers_url": "https://api.github.com/users/niedhui/followers",
+  "following_url": "https://api.github.com/users/niedhui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/niedhui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/niedhui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/niedhui/subscriptions",
+  "organizations_url": "https://api.github.com/users/niedhui/orgs",
+  "repos_url": "https://api.github.com/users/niedhui/repos",
+  "events_url": "https://api.github.com/users/niedhui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/niedhui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

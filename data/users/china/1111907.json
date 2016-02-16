@@ -1,0 +1,20 @@
+{
+  "login": "caok",
+  "id": 1111907,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1111907?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/caok",
+  "html_url": "https://github.com/caok",
+  "followers_url": "https://api.github.com/users/caok/followers",
+  "following_url": "https://api.github.com/users/caok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/caok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/caok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/caok/subscriptions",
+  "organizations_url": "https://api.github.com/users/caok/orgs",
+  "repos_url": "https://api.github.com/users/caok/repos",
+  "events_url": "https://api.github.com/users/caok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/caok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "asianfilm",
+  "id": 890222,
+  "avatar_url": "https://avatars.githubusercontent.com/u/890222?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asianfilm",
+  "html_url": "https://github.com/asianfilm",
+  "followers_url": "https://api.github.com/users/asianfilm/followers",
+  "following_url": "https://api.github.com/users/asianfilm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asianfilm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asianfilm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asianfilm/subscriptions",
+  "organizations_url": "https://api.github.com/users/asianfilm/orgs",
+  "repos_url": "https://api.github.com/users/asianfilm/repos",
+  "events_url": "https://api.github.com/users/asianfilm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asianfilm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "takaokouji",
+  "id": 52317,
+  "avatar_url": "https://avatars.githubusercontent.com/u/52317?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takaokouji",
+  "html_url": "https://github.com/takaokouji",
+  "followers_url": "https://api.github.com/users/takaokouji/followers",
+  "following_url": "https://api.github.com/users/takaokouji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takaokouji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takaokouji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takaokouji/subscriptions",
+  "organizations_url": "https://api.github.com/users/takaokouji/orgs",
+  "repos_url": "https://api.github.com/users/takaokouji/repos",
+  "events_url": "https://api.github.com/users/takaokouji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takaokouji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

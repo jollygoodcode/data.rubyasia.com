@@ -1,0 +1,20 @@
+{
+  "login": "hori",
+  "id": 671806,
+  "avatar_url": "https://avatars.githubusercontent.com/u/671806?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hori",
+  "html_url": "https://github.com/hori",
+  "followers_url": "https://api.github.com/users/hori/followers",
+  "following_url": "https://api.github.com/users/hori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hori/subscriptions",
+  "organizations_url": "https://api.github.com/users/hori/orgs",
+  "repos_url": "https://api.github.com/users/hori/repos",
+  "events_url": "https://api.github.com/users/hori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

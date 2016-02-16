@@ -1,0 +1,20 @@
+{
+  "login": "agiratech-mars",
+  "id": 23616,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23616?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/agiratech-mars",
+  "html_url": "https://github.com/agiratech-mars",
+  "followers_url": "https://api.github.com/users/agiratech-mars/followers",
+  "following_url": "https://api.github.com/users/agiratech-mars/following{/other_user}",
+  "gists_url": "https://api.github.com/users/agiratech-mars/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/agiratech-mars/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/agiratech-mars/subscriptions",
+  "organizations_url": "https://api.github.com/users/agiratech-mars/orgs",
+  "repos_url": "https://api.github.com/users/agiratech-mars/repos",
+  "events_url": "https://api.github.com/users/agiratech-mars/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/agiratech-mars/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

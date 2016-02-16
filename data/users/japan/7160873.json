@@ -1,0 +1,20 @@
+{
+  "login": "inoinojp",
+  "id": 7160873,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7160873?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inoinojp",
+  "html_url": "https://github.com/inoinojp",
+  "followers_url": "https://api.github.com/users/inoinojp/followers",
+  "following_url": "https://api.github.com/users/inoinojp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inoinojp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inoinojp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inoinojp/subscriptions",
+  "organizations_url": "https://api.github.com/users/inoinojp/orgs",
+  "repos_url": "https://api.github.com/users/inoinojp/repos",
+  "events_url": "https://api.github.com/users/inoinojp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inoinojp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

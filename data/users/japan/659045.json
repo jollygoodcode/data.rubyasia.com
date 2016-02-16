@@ -1,0 +1,20 @@
+{
+  "login": "shimpei",
+  "id": 659045,
+  "avatar_url": "https://avatars.githubusercontent.com/u/659045?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shimpei",
+  "html_url": "https://github.com/shimpei",
+  "followers_url": "https://api.github.com/users/shimpei/followers",
+  "following_url": "https://api.github.com/users/shimpei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shimpei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shimpei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shimpei/subscriptions",
+  "organizations_url": "https://api.github.com/users/shimpei/orgs",
+  "repos_url": "https://api.github.com/users/shimpei/repos",
+  "events_url": "https://api.github.com/users/shimpei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shimpei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

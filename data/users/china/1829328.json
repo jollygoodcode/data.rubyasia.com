@@ -1,0 +1,20 @@
+{
+  "login": "palytoxin",
+  "id": 1829328,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1829328?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/palytoxin",
+  "html_url": "https://github.com/palytoxin",
+  "followers_url": "https://api.github.com/users/palytoxin/followers",
+  "following_url": "https://api.github.com/users/palytoxin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/palytoxin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/palytoxin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/palytoxin/subscriptions",
+  "organizations_url": "https://api.github.com/users/palytoxin/orgs",
+  "repos_url": "https://api.github.com/users/palytoxin/repos",
+  "events_url": "https://api.github.com/users/palytoxin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/palytoxin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

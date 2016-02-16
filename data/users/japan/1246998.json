@@ -1,0 +1,20 @@
+{
+  "login": "betchx",
+  "id": 1246998,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1246998?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/betchx",
+  "html_url": "https://github.com/betchx",
+  "followers_url": "https://api.github.com/users/betchx/followers",
+  "following_url": "https://api.github.com/users/betchx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/betchx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/betchx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/betchx/subscriptions",
+  "organizations_url": "https://api.github.com/users/betchx/orgs",
+  "repos_url": "https://api.github.com/users/betchx/repos",
+  "events_url": "https://api.github.com/users/betchx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/betchx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

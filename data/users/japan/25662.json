@@ -1,0 +1,20 @@
+{
+  "login": "khamanaka",
+  "id": 25662,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25662?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khamanaka",
+  "html_url": "https://github.com/khamanaka",
+  "followers_url": "https://api.github.com/users/khamanaka/followers",
+  "following_url": "https://api.github.com/users/khamanaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khamanaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khamanaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khamanaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/khamanaka/orgs",
+  "repos_url": "https://api.github.com/users/khamanaka/repos",
+  "events_url": "https://api.github.com/users/khamanaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khamanaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "uskanda",
+  "id": 13825,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13825?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uskanda",
+  "html_url": "https://github.com/uskanda",
+  "followers_url": "https://api.github.com/users/uskanda/followers",
+  "following_url": "https://api.github.com/users/uskanda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uskanda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uskanda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uskanda/subscriptions",
+  "organizations_url": "https://api.github.com/users/uskanda/orgs",
+  "repos_url": "https://api.github.com/users/uskanda/repos",
+  "events_url": "https://api.github.com/users/uskanda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uskanda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

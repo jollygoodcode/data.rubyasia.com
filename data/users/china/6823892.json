@@ -1,0 +1,20 @@
+{
+  "login": "unitloop",
+  "id": 6823892,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6823892?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unitloop",
+  "html_url": "https://github.com/unitloop",
+  "followers_url": "https://api.github.com/users/unitloop/followers",
+  "following_url": "https://api.github.com/users/unitloop/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unitloop/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unitloop/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unitloop/subscriptions",
+  "organizations_url": "https://api.github.com/users/unitloop/orgs",
+  "repos_url": "https://api.github.com/users/unitloop/repos",
+  "events_url": "https://api.github.com/users/unitloop/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unitloop/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

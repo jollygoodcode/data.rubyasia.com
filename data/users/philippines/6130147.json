@@ -1,0 +1,20 @@
+{
+  "login": "b-ggs",
+  "id": 6130147,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6130147?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/b-ggs",
+  "html_url": "https://github.com/b-ggs",
+  "followers_url": "https://api.github.com/users/b-ggs/followers",
+  "following_url": "https://api.github.com/users/b-ggs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/b-ggs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/b-ggs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/b-ggs/subscriptions",
+  "organizations_url": "https://api.github.com/users/b-ggs/orgs",
+  "repos_url": "https://api.github.com/users/b-ggs/repos",
+  "events_url": "https://api.github.com/users/b-ggs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/b-ggs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

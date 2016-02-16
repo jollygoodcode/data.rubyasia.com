@@ -1,0 +1,20 @@
+{
+  "login": "xuanye",
+  "id": 756204,
+  "avatar_url": "https://avatars.githubusercontent.com/u/756204?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xuanye",
+  "html_url": "https://github.com/xuanye",
+  "followers_url": "https://api.github.com/users/xuanye/followers",
+  "following_url": "https://api.github.com/users/xuanye/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xuanye/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xuanye/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xuanye/subscriptions",
+  "organizations_url": "https://api.github.com/users/xuanye/orgs",
+  "repos_url": "https://api.github.com/users/xuanye/repos",
+  "events_url": "https://api.github.com/users/xuanye/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xuanye/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

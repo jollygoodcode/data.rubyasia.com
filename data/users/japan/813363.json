@@ -1,0 +1,20 @@
+{
+  "login": "sveltema",
+  "id": 813363,
+  "avatar_url": "https://avatars.githubusercontent.com/u/813363?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sveltema",
+  "html_url": "https://github.com/sveltema",
+  "followers_url": "https://api.github.com/users/sveltema/followers",
+  "following_url": "https://api.github.com/users/sveltema/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sveltema/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sveltema/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sveltema/subscriptions",
+  "organizations_url": "https://api.github.com/users/sveltema/orgs",
+  "repos_url": "https://api.github.com/users/sveltema/repos",
+  "events_url": "https://api.github.com/users/sveltema/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sveltema/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

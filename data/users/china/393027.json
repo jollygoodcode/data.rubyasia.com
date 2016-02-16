@@ -1,0 +1,20 @@
+{
+  "login": "nicolasmei",
+  "id": 393027,
+  "avatar_url": "https://avatars.githubusercontent.com/u/393027?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nicolasmei",
+  "html_url": "https://github.com/nicolasmei",
+  "followers_url": "https://api.github.com/users/nicolasmei/followers",
+  "following_url": "https://api.github.com/users/nicolasmei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nicolasmei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nicolasmei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nicolasmei/subscriptions",
+  "organizations_url": "https://api.github.com/users/nicolasmei/orgs",
+  "repos_url": "https://api.github.com/users/nicolasmei/repos",
+  "events_url": "https://api.github.com/users/nicolasmei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nicolasmei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

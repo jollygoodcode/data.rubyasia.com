@@ -1,0 +1,20 @@
+{
+  "login": "geniitech",
+  "id": 6606149,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6606149?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/geniitech",
+  "html_url": "https://github.com/geniitech",
+  "followers_url": "https://api.github.com/users/geniitech/followers",
+  "following_url": "https://api.github.com/users/geniitech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/geniitech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/geniitech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/geniitech/subscriptions",
+  "organizations_url": "https://api.github.com/users/geniitech/orgs",
+  "repos_url": "https://api.github.com/users/geniitech/repos",
+  "events_url": "https://api.github.com/users/geniitech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/geniitech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

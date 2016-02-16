@@ -1,0 +1,20 @@
+{
+  "login": "nusedutech",
+  "id": 10369748,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10369748?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nusedutech",
+  "html_url": "https://github.com/nusedutech",
+  "followers_url": "https://api.github.com/users/nusedutech/followers",
+  "following_url": "https://api.github.com/users/nusedutech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nusedutech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nusedutech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nusedutech/subscriptions",
+  "organizations_url": "https://api.github.com/users/nusedutech/orgs",
+  "repos_url": "https://api.github.com/users/nusedutech/repos",
+  "events_url": "https://api.github.com/users/nusedutech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nusedutech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

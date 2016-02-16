@@ -1,0 +1,20 @@
+{
+  "login": "yhagio",
+  "id": 2874081,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2874081?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yhagio",
+  "html_url": "https://github.com/yhagio",
+  "followers_url": "https://api.github.com/users/yhagio/followers",
+  "following_url": "https://api.github.com/users/yhagio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yhagio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yhagio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yhagio/subscriptions",
+  "organizations_url": "https://api.github.com/users/yhagio/orgs",
+  "repos_url": "https://api.github.com/users/yhagio/repos",
+  "events_url": "https://api.github.com/users/yhagio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yhagio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

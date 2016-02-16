@@ -1,0 +1,20 @@
+{
+  "login": "coldmachine",
+  "id": 639532,
+  "avatar_url": "https://avatars.githubusercontent.com/u/639532?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coldmachine",
+  "html_url": "https://github.com/coldmachine",
+  "followers_url": "https://api.github.com/users/coldmachine/followers",
+  "following_url": "https://api.github.com/users/coldmachine/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coldmachine/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coldmachine/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coldmachine/subscriptions",
+  "organizations_url": "https://api.github.com/users/coldmachine/orgs",
+  "repos_url": "https://api.github.com/users/coldmachine/repos",
+  "events_url": "https://api.github.com/users/coldmachine/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coldmachine/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

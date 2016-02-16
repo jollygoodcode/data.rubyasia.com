@@ -1,0 +1,20 @@
+{
+  "login": "ongaeshi",
+  "id": 154418,
+  "avatar_url": "https://avatars.githubusercontent.com/u/154418?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ongaeshi",
+  "html_url": "https://github.com/ongaeshi",
+  "followers_url": "https://api.github.com/users/ongaeshi/followers",
+  "following_url": "https://api.github.com/users/ongaeshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ongaeshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ongaeshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ongaeshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/ongaeshi/orgs",
+  "repos_url": "https://api.github.com/users/ongaeshi/repos",
+  "events_url": "https://api.github.com/users/ongaeshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ongaeshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

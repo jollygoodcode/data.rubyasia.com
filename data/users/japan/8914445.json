@@ -1,0 +1,20 @@
+{
+  "login": "caffelover",
+  "id": 8914445,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8914445?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/caffelover",
+  "html_url": "https://github.com/caffelover",
+  "followers_url": "https://api.github.com/users/caffelover/followers",
+  "following_url": "https://api.github.com/users/caffelover/following{/other_user}",
+  "gists_url": "https://api.github.com/users/caffelover/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/caffelover/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/caffelover/subscriptions",
+  "organizations_url": "https://api.github.com/users/caffelover/orgs",
+  "repos_url": "https://api.github.com/users/caffelover/repos",
+  "events_url": "https://api.github.com/users/caffelover/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/caffelover/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

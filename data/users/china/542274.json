@@ -1,0 +1,20 @@
+{
+  "login": "qingping",
+  "id": 542274,
+  "avatar_url": "https://avatars.githubusercontent.com/u/542274?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qingping",
+  "html_url": "https://github.com/qingping",
+  "followers_url": "https://api.github.com/users/qingping/followers",
+  "following_url": "https://api.github.com/users/qingping/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qingping/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qingping/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qingping/subscriptions",
+  "organizations_url": "https://api.github.com/users/qingping/orgs",
+  "repos_url": "https://api.github.com/users/qingping/repos",
+  "events_url": "https://api.github.com/users/qingping/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qingping/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

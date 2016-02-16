@@ -1,0 +1,20 @@
+{
+  "login": "tono",
+  "id": 125995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/125995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tono",
+  "html_url": "https://github.com/tono",
+  "followers_url": "https://api.github.com/users/tono/followers",
+  "following_url": "https://api.github.com/users/tono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tono/subscriptions",
+  "organizations_url": "https://api.github.com/users/tono/orgs",
+  "repos_url": "https://api.github.com/users/tono/repos",
+  "events_url": "https://api.github.com/users/tono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

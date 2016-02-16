@@ -1,0 +1,20 @@
+{
+  "login": "codefeast",
+  "id": 2609625,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2609625?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codefeast",
+  "html_url": "https://github.com/codefeast",
+  "followers_url": "https://api.github.com/users/codefeast/followers",
+  "following_url": "https://api.github.com/users/codefeast/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codefeast/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codefeast/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codefeast/subscriptions",
+  "organizations_url": "https://api.github.com/users/codefeast/orgs",
+  "repos_url": "https://api.github.com/users/codefeast/repos",
+  "events_url": "https://api.github.com/users/codefeast/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codefeast/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
