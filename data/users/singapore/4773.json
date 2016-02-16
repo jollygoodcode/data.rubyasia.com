@@ -1,0 +1,20 @@
+{
+  "login": "andywatts",
+  "id": 4773,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4773?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andywatts",
+  "html_url": "https://github.com/andywatts",
+  "followers_url": "https://api.github.com/users/andywatts/followers",
+  "following_url": "https://api.github.com/users/andywatts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andywatts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andywatts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andywatts/subscriptions",
+  "organizations_url": "https://api.github.com/users/andywatts/orgs",
+  "repos_url": "https://api.github.com/users/andywatts/repos",
+  "events_url": "https://api.github.com/users/andywatts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andywatts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

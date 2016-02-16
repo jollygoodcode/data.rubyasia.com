@@ -1,0 +1,20 @@
+{
+  "login": "ayumin",
+  "id": 37002,
+  "avatar_url": "https://avatars.githubusercontent.com/u/37002?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayumin",
+  "html_url": "https://github.com/ayumin",
+  "followers_url": "https://api.github.com/users/ayumin/followers",
+  "following_url": "https://api.github.com/users/ayumin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayumin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayumin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayumin/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayumin/orgs",
+  "repos_url": "https://api.github.com/users/ayumin/repos",
+  "events_url": "https://api.github.com/users/ayumin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayumin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

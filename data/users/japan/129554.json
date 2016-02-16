@@ -1,0 +1,20 @@
+{
+  "login": "hiroz",
+  "id": 129554,
+  "avatar_url": "https://avatars.githubusercontent.com/u/129554?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiroz",
+  "html_url": "https://github.com/hiroz",
+  "followers_url": "https://api.github.com/users/hiroz/followers",
+  "following_url": "https://api.github.com/users/hiroz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiroz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiroz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiroz/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiroz/orgs",
+  "repos_url": "https://api.github.com/users/hiroz/repos",
+  "events_url": "https://api.github.com/users/hiroz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiroz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

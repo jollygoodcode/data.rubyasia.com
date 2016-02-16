@@ -1,0 +1,20 @@
+{
+  "login": "asdhse",
+  "id": 16350140,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16350140?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asdhse",
+  "html_url": "https://github.com/asdhse",
+  "followers_url": "https://api.github.com/users/asdhse/followers",
+  "following_url": "https://api.github.com/users/asdhse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asdhse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asdhse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asdhse/subscriptions",
+  "organizations_url": "https://api.github.com/users/asdhse/orgs",
+  "repos_url": "https://api.github.com/users/asdhse/repos",
+  "events_url": "https://api.github.com/users/asdhse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asdhse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

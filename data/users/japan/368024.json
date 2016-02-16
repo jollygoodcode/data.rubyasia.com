@@ -1,0 +1,20 @@
+{
+  "login": "simeji",
+  "id": 368024,
+  "avatar_url": "https://avatars.githubusercontent.com/u/368024?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simeji",
+  "html_url": "https://github.com/simeji",
+  "followers_url": "https://api.github.com/users/simeji/followers",
+  "following_url": "https://api.github.com/users/simeji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simeji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simeji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simeji/subscriptions",
+  "organizations_url": "https://api.github.com/users/simeji/orgs",
+  "repos_url": "https://api.github.com/users/simeji/repos",
+  "events_url": "https://api.github.com/users/simeji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simeji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

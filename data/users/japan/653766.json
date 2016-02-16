@@ -1,0 +1,20 @@
+{
+  "login": "jlenriquez",
+  "id": 653766,
+  "avatar_url": "https://avatars.githubusercontent.com/u/653766?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jlenriquez",
+  "html_url": "https://github.com/jlenriquez",
+  "followers_url": "https://api.github.com/users/jlenriquez/followers",
+  "following_url": "https://api.github.com/users/jlenriquez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jlenriquez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jlenriquez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jlenriquez/subscriptions",
+  "organizations_url": "https://api.github.com/users/jlenriquez/orgs",
+  "repos_url": "https://api.github.com/users/jlenriquez/repos",
+  "events_url": "https://api.github.com/users/jlenriquez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jlenriquez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

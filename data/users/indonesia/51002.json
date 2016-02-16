@@ -1,0 +1,20 @@
+{
+  "login": "hadins",
+  "id": 51002,
+  "avatar_url": "https://avatars.githubusercontent.com/u/51002?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hadins",
+  "html_url": "https://github.com/hadins",
+  "followers_url": "https://api.github.com/users/hadins/followers",
+  "following_url": "https://api.github.com/users/hadins/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hadins/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hadins/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hadins/subscriptions",
+  "organizations_url": "https://api.github.com/users/hadins/orgs",
+  "repos_url": "https://api.github.com/users/hadins/repos",
+  "events_url": "https://api.github.com/users/hadins/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hadins/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

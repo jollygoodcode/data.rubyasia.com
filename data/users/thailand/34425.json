@@ -1,0 +1,20 @@
+{
+  "login": "neomatic",
+  "id": 34425,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34425?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/neomatic",
+  "html_url": "https://github.com/neomatic",
+  "followers_url": "https://api.github.com/users/neomatic/followers",
+  "following_url": "https://api.github.com/users/neomatic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/neomatic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/neomatic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/neomatic/subscriptions",
+  "organizations_url": "https://api.github.com/users/neomatic/orgs",
+  "repos_url": "https://api.github.com/users/neomatic/repos",
+  "events_url": "https://api.github.com/users/neomatic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/neomatic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

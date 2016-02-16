@@ -1,0 +1,20 @@
+{
+  "login": "carlqt",
+  "id": 5034394,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5034394?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/carlqt",
+  "html_url": "https://github.com/carlqt",
+  "followers_url": "https://api.github.com/users/carlqt/followers",
+  "following_url": "https://api.github.com/users/carlqt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/carlqt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/carlqt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/carlqt/subscriptions",
+  "organizations_url": "https://api.github.com/users/carlqt/orgs",
+  "repos_url": "https://api.github.com/users/carlqt/repos",
+  "events_url": "https://api.github.com/users/carlqt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/carlqt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

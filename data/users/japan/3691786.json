@@ -1,0 +1,20 @@
+{
+  "login": "repoten-api",
+  "id": 3691786,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3691786?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/repoten-api",
+  "html_url": "https://github.com/repoten-api",
+  "followers_url": "https://api.github.com/users/repoten-api/followers",
+  "following_url": "https://api.github.com/users/repoten-api/following{/other_user}",
+  "gists_url": "https://api.github.com/users/repoten-api/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/repoten-api/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/repoten-api/subscriptions",
+  "organizations_url": "https://api.github.com/users/repoten-api/orgs",
+  "repos_url": "https://api.github.com/users/repoten-api/repos",
+  "events_url": "https://api.github.com/users/repoten-api/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/repoten-api/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

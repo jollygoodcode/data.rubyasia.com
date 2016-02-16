@@ -1,0 +1,20 @@
+{
+  "login": "nov",
+  "id": 27299,
+  "avatar_url": "https://avatars.githubusercontent.com/u/27299?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nov",
+  "html_url": "https://github.com/nov",
+  "followers_url": "https://api.github.com/users/nov/followers",
+  "following_url": "https://api.github.com/users/nov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nov/subscriptions",
+  "organizations_url": "https://api.github.com/users/nov/orgs",
+  "repos_url": "https://api.github.com/users/nov/repos",
+  "events_url": "https://api.github.com/users/nov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "StevenKo",
+  "id": 1100488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1100488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/StevenKo",
+  "html_url": "https://github.com/StevenKo",
+  "followers_url": "https://api.github.com/users/StevenKo/followers",
+  "following_url": "https://api.github.com/users/StevenKo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/StevenKo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/StevenKo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/StevenKo/subscriptions",
+  "organizations_url": "https://api.github.com/users/StevenKo/orgs",
+  "repos_url": "https://api.github.com/users/StevenKo/repos",
+  "events_url": "https://api.github.com/users/StevenKo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/StevenKo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

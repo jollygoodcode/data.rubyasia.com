@@ -1,0 +1,20 @@
+{
+  "login": "KazuhiroHayashi",
+  "id": 110166,
+  "avatar_url": "https://avatars.githubusercontent.com/u/110166?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KazuhiroHayashi",
+  "html_url": "https://github.com/KazuhiroHayashi",
+  "followers_url": "https://api.github.com/users/KazuhiroHayashi/followers",
+  "following_url": "https://api.github.com/users/KazuhiroHayashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KazuhiroHayashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KazuhiroHayashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KazuhiroHayashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/KazuhiroHayashi/orgs",
+  "repos_url": "https://api.github.com/users/KazuhiroHayashi/repos",
+  "events_url": "https://api.github.com/users/KazuhiroHayashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KazuhiroHayashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

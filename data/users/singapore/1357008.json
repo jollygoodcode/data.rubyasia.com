@@ -1,0 +1,20 @@
+{
+  "login": "arnaudblandin",
+  "id": 1357008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1357008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arnaudblandin",
+  "html_url": "https://github.com/arnaudblandin",
+  "followers_url": "https://api.github.com/users/arnaudblandin/followers",
+  "following_url": "https://api.github.com/users/arnaudblandin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arnaudblandin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arnaudblandin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arnaudblandin/subscriptions",
+  "organizations_url": "https://api.github.com/users/arnaudblandin/orgs",
+  "repos_url": "https://api.github.com/users/arnaudblandin/repos",
+  "events_url": "https://api.github.com/users/arnaudblandin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arnaudblandin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

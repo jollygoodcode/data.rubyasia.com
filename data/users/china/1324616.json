@@ -1,0 +1,20 @@
+{
+  "login": "AnYuan",
+  "id": 1324616,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1324616?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AnYuan",
+  "html_url": "https://github.com/AnYuan",
+  "followers_url": "https://api.github.com/users/AnYuan/followers",
+  "following_url": "https://api.github.com/users/AnYuan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AnYuan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AnYuan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AnYuan/subscriptions",
+  "organizations_url": "https://api.github.com/users/AnYuan/orgs",
+  "repos_url": "https://api.github.com/users/AnYuan/repos",
+  "events_url": "https://api.github.com/users/AnYuan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AnYuan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

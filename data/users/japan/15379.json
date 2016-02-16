@@ -1,0 +1,20 @@
+{
+  "login": "libelabo",
+  "id": 15379,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15379?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/libelabo",
+  "html_url": "https://github.com/libelabo",
+  "followers_url": "https://api.github.com/users/libelabo/followers",
+  "following_url": "https://api.github.com/users/libelabo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/libelabo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/libelabo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/libelabo/subscriptions",
+  "organizations_url": "https://api.github.com/users/libelabo/orgs",
+  "repos_url": "https://api.github.com/users/libelabo/repos",
+  "events_url": "https://api.github.com/users/libelabo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/libelabo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

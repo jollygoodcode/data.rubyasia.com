@@ -1,0 +1,20 @@
+{
+  "login": "baoti",
+  "id": 3110710,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3110710?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/baoti",
+  "html_url": "https://github.com/baoti",
+  "followers_url": "https://api.github.com/users/baoti/followers",
+  "following_url": "https://api.github.com/users/baoti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/baoti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/baoti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/baoti/subscriptions",
+  "organizations_url": "https://api.github.com/users/baoti/orgs",
+  "repos_url": "https://api.github.com/users/baoti/repos",
+  "events_url": "https://api.github.com/users/baoti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/baoti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

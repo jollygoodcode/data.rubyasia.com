@@ -1,0 +1,20 @@
+{
+  "login": "nwinds",
+  "id": 11988387,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11988387?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nwinds",
+  "html_url": "https://github.com/nwinds",
+  "followers_url": "https://api.github.com/users/nwinds/followers",
+  "following_url": "https://api.github.com/users/nwinds/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nwinds/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nwinds/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nwinds/subscriptions",
+  "organizations_url": "https://api.github.com/users/nwinds/orgs",
+  "repos_url": "https://api.github.com/users/nwinds/repos",
+  "events_url": "https://api.github.com/users/nwinds/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nwinds/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

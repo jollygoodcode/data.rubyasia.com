@@ -1,0 +1,20 @@
+{
+  "login": "sasakipochi",
+  "id": 190675,
+  "avatar_url": "https://avatars.githubusercontent.com/u/190675?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sasakipochi",
+  "html_url": "https://github.com/sasakipochi",
+  "followers_url": "https://api.github.com/users/sasakipochi/followers",
+  "following_url": "https://api.github.com/users/sasakipochi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sasakipochi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sasakipochi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sasakipochi/subscriptions",
+  "organizations_url": "https://api.github.com/users/sasakipochi/orgs",
+  "repos_url": "https://api.github.com/users/sasakipochi/repos",
+  "events_url": "https://api.github.com/users/sasakipochi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sasakipochi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

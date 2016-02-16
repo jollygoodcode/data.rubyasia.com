@@ -1,0 +1,20 @@
+{
+  "login": "kota-row",
+  "id": 4261848,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4261848?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kota-row",
+  "html_url": "https://github.com/kota-row",
+  "followers_url": "https://api.github.com/users/kota-row/followers",
+  "following_url": "https://api.github.com/users/kota-row/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kota-row/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kota-row/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kota-row/subscriptions",
+  "organizations_url": "https://api.github.com/users/kota-row/orgs",
+  "repos_url": "https://api.github.com/users/kota-row/repos",
+  "events_url": "https://api.github.com/users/kota-row/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kota-row/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

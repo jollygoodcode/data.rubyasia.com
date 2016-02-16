@@ -1,0 +1,20 @@
+{
+  "login": "dorakueyon",
+  "id": 7741244,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7741244?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dorakueyon",
+  "html_url": "https://github.com/dorakueyon",
+  "followers_url": "https://api.github.com/users/dorakueyon/followers",
+  "following_url": "https://api.github.com/users/dorakueyon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dorakueyon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dorakueyon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dorakueyon/subscriptions",
+  "organizations_url": "https://api.github.com/users/dorakueyon/orgs",
+  "repos_url": "https://api.github.com/users/dorakueyon/repos",
+  "events_url": "https://api.github.com/users/dorakueyon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dorakueyon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

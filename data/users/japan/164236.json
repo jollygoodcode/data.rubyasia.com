@@ -1,0 +1,20 @@
+{
+  "login": "oshige",
+  "id": 164236,
+  "avatar_url": "https://avatars.githubusercontent.com/u/164236?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oshige",
+  "html_url": "https://github.com/oshige",
+  "followers_url": "https://api.github.com/users/oshige/followers",
+  "following_url": "https://api.github.com/users/oshige/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oshige/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oshige/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oshige/subscriptions",
+  "organizations_url": "https://api.github.com/users/oshige/orgs",
+  "repos_url": "https://api.github.com/users/oshige/repos",
+  "events_url": "https://api.github.com/users/oshige/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oshige/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

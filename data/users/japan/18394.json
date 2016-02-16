@@ -1,0 +1,20 @@
+{
+  "login": "ginkouno",
+  "id": 18394,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18394?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ginkouno",
+  "html_url": "https://github.com/ginkouno",
+  "followers_url": "https://api.github.com/users/ginkouno/followers",
+  "following_url": "https://api.github.com/users/ginkouno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ginkouno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ginkouno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ginkouno/subscriptions",
+  "organizations_url": "https://api.github.com/users/ginkouno/orgs",
+  "repos_url": "https://api.github.com/users/ginkouno/repos",
+  "events_url": "https://api.github.com/users/ginkouno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ginkouno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

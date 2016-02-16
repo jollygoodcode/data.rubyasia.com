@@ -1,0 +1,20 @@
+{
+  "login": "hello-kukoo",
+  "id": 857942,
+  "avatar_url": "https://avatars.githubusercontent.com/u/857942?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hello-kukoo",
+  "html_url": "https://github.com/hello-kukoo",
+  "followers_url": "https://api.github.com/users/hello-kukoo/followers",
+  "following_url": "https://api.github.com/users/hello-kukoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hello-kukoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hello-kukoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hello-kukoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/hello-kukoo/orgs",
+  "repos_url": "https://api.github.com/users/hello-kukoo/repos",
+  "events_url": "https://api.github.com/users/hello-kukoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hello-kukoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

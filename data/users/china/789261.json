@@ -1,0 +1,20 @@
+{
+  "login": "yncmc",
+  "id": 789261,
+  "avatar_url": "https://avatars.githubusercontent.com/u/789261?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yncmc",
+  "html_url": "https://github.com/yncmc",
+  "followers_url": "https://api.github.com/users/yncmc/followers",
+  "following_url": "https://api.github.com/users/yncmc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yncmc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yncmc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yncmc/subscriptions",
+  "organizations_url": "https://api.github.com/users/yncmc/orgs",
+  "repos_url": "https://api.github.com/users/yncmc/repos",
+  "events_url": "https://api.github.com/users/yncmc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yncmc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

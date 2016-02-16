@@ -1,0 +1,20 @@
+{
+  "login": "piconyan",
+  "id": 4922869,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4922869?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/piconyan",
+  "html_url": "https://github.com/piconyan",
+  "followers_url": "https://api.github.com/users/piconyan/followers",
+  "following_url": "https://api.github.com/users/piconyan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/piconyan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/piconyan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/piconyan/subscriptions",
+  "organizations_url": "https://api.github.com/users/piconyan/orgs",
+  "repos_url": "https://api.github.com/users/piconyan/repos",
+  "events_url": "https://api.github.com/users/piconyan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/piconyan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mats116",
+  "id": 5158858,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5158858?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mats116",
+  "html_url": "https://github.com/mats116",
+  "followers_url": "https://api.github.com/users/mats116/followers",
+  "following_url": "https://api.github.com/users/mats116/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mats116/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mats116/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mats116/subscriptions",
+  "organizations_url": "https://api.github.com/users/mats116/orgs",
+  "repos_url": "https://api.github.com/users/mats116/repos",
+  "events_url": "https://api.github.com/users/mats116/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mats116/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

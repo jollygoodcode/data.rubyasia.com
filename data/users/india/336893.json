@@ -1,0 +1,20 @@
+{
+  "login": "bratish",
+  "id": 336893,
+  "avatar_url": "https://avatars.githubusercontent.com/u/336893?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bratish",
+  "html_url": "https://github.com/bratish",
+  "followers_url": "https://api.github.com/users/bratish/followers",
+  "following_url": "https://api.github.com/users/bratish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bratish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bratish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bratish/subscriptions",
+  "organizations_url": "https://api.github.com/users/bratish/orgs",
+  "repos_url": "https://api.github.com/users/bratish/repos",
+  "events_url": "https://api.github.com/users/bratish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bratish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

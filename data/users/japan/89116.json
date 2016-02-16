@@ -1,0 +1,20 @@
+{
+  "login": "yterajima",
+  "id": 89116,
+  "avatar_url": "https://avatars.githubusercontent.com/u/89116?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yterajima",
+  "html_url": "https://github.com/yterajima",
+  "followers_url": "https://api.github.com/users/yterajima/followers",
+  "following_url": "https://api.github.com/users/yterajima/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yterajima/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yterajima/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yterajima/subscriptions",
+  "organizations_url": "https://api.github.com/users/yterajima/orgs",
+  "repos_url": "https://api.github.com/users/yterajima/repos",
+  "events_url": "https://api.github.com/users/yterajima/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yterajima/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

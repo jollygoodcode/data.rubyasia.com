@@ -1,0 +1,20 @@
+{
+  "login": "hoppr",
+  "id": 1821475,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1821475?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoppr",
+  "html_url": "https://github.com/hoppr",
+  "followers_url": "https://api.github.com/users/hoppr/followers",
+  "following_url": "https://api.github.com/users/hoppr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoppr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoppr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoppr/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoppr/orgs",
+  "repos_url": "https://api.github.com/users/hoppr/repos",
+  "events_url": "https://api.github.com/users/hoppr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoppr/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

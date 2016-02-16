@@ -1,0 +1,20 @@
+{
+  "login": "katherlee",
+  "id": 2315061,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2315061?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katherlee",
+  "html_url": "https://github.com/katherlee",
+  "followers_url": "https://api.github.com/users/katherlee/followers",
+  "following_url": "https://api.github.com/users/katherlee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katherlee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katherlee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katherlee/subscriptions",
+  "organizations_url": "https://api.github.com/users/katherlee/orgs",
+  "repos_url": "https://api.github.com/users/katherlee/repos",
+  "events_url": "https://api.github.com/users/katherlee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katherlee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

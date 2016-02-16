@@ -1,0 +1,20 @@
+{
+  "login": "bluelion4",
+  "id": 11439114,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11439114?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bluelion4",
+  "html_url": "https://github.com/bluelion4",
+  "followers_url": "https://api.github.com/users/bluelion4/followers",
+  "following_url": "https://api.github.com/users/bluelion4/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bluelion4/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bluelion4/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bluelion4/subscriptions",
+  "organizations_url": "https://api.github.com/users/bluelion4/orgs",
+  "repos_url": "https://api.github.com/users/bluelion4/repos",
+  "events_url": "https://api.github.com/users/bluelion4/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bluelion4/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

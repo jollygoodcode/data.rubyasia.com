@@ -1,0 +1,20 @@
+{
+  "login": "starqle",
+  "id": 747283,
+  "avatar_url": "https://avatars.githubusercontent.com/u/747283?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/starqle",
+  "html_url": "https://github.com/starqle",
+  "followers_url": "https://api.github.com/users/starqle/followers",
+  "following_url": "https://api.github.com/users/starqle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/starqle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/starqle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/starqle/subscriptions",
+  "organizations_url": "https://api.github.com/users/starqle/orgs",
+  "repos_url": "https://api.github.com/users/starqle/repos",
+  "events_url": "https://api.github.com/users/starqle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/starqle/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

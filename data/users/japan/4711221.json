@@ -1,0 +1,20 @@
+{
+  "login": "sueki1242",
+  "id": 4711221,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4711221?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sueki1242",
+  "html_url": "https://github.com/sueki1242",
+  "followers_url": "https://api.github.com/users/sueki1242/followers",
+  "following_url": "https://api.github.com/users/sueki1242/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sueki1242/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sueki1242/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sueki1242/subscriptions",
+  "organizations_url": "https://api.github.com/users/sueki1242/orgs",
+  "repos_url": "https://api.github.com/users/sueki1242/repos",
+  "events_url": "https://api.github.com/users/sueki1242/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sueki1242/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hube",
+  "id": 395901,
+  "avatar_url": "https://avatars.githubusercontent.com/u/395901?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hube",
+  "html_url": "https://github.com/hube",
+  "followers_url": "https://api.github.com/users/hube/followers",
+  "following_url": "https://api.github.com/users/hube/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hube/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hube/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hube/subscriptions",
+  "organizations_url": "https://api.github.com/users/hube/orgs",
+  "repos_url": "https://api.github.com/users/hube/repos",
+  "events_url": "https://api.github.com/users/hube/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hube/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

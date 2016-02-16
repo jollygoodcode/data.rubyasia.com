@@ -1,0 +1,20 @@
+{
+  "login": "TJMYK",
+  "id": 16219932,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16219932?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TJMYK",
+  "html_url": "https://github.com/TJMYK",
+  "followers_url": "https://api.github.com/users/TJMYK/followers",
+  "following_url": "https://api.github.com/users/TJMYK/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TJMYK/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TJMYK/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TJMYK/subscriptions",
+  "organizations_url": "https://api.github.com/users/TJMYK/orgs",
+  "repos_url": "https://api.github.com/users/TJMYK/repos",
+  "events_url": "https://api.github.com/users/TJMYK/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TJMYK/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

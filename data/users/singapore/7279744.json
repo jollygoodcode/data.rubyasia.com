@@ -1,0 +1,20 @@
+{
+  "login": "Tykco",
+  "id": 7279744,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7279744?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Tykco",
+  "html_url": "https://github.com/Tykco",
+  "followers_url": "https://api.github.com/users/Tykco/followers",
+  "following_url": "https://api.github.com/users/Tykco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Tykco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Tykco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Tykco/subscriptions",
+  "organizations_url": "https://api.github.com/users/Tykco/orgs",
+  "repos_url": "https://api.github.com/users/Tykco/repos",
+  "events_url": "https://api.github.com/users/Tykco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Tykco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

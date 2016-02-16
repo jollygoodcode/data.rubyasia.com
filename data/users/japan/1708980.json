@@ -1,0 +1,20 @@
+{
+  "login": "pepabo",
+  "id": 1708980,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1708980?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pepabo",
+  "html_url": "https://github.com/pepabo",
+  "followers_url": "https://api.github.com/users/pepabo/followers",
+  "following_url": "https://api.github.com/users/pepabo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pepabo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pepabo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pepabo/subscriptions",
+  "organizations_url": "https://api.github.com/users/pepabo/orgs",
+  "repos_url": "https://api.github.com/users/pepabo/repos",
+  "events_url": "https://api.github.com/users/pepabo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pepabo/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Wakabaya",
+  "id": 1397066,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1397066?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Wakabaya",
+  "html_url": "https://github.com/Wakabaya",
+  "followers_url": "https://api.github.com/users/Wakabaya/followers",
+  "following_url": "https://api.github.com/users/Wakabaya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Wakabaya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Wakabaya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Wakabaya/subscriptions",
+  "organizations_url": "https://api.github.com/users/Wakabaya/orgs",
+  "repos_url": "https://api.github.com/users/Wakabaya/repos",
+  "events_url": "https://api.github.com/users/Wakabaya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Wakabaya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

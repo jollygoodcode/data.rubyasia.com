@@ -1,0 +1,20 @@
+{
+  "login": "nogayama",
+  "id": 11750755,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11750755?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nogayama",
+  "html_url": "https://github.com/nogayama",
+  "followers_url": "https://api.github.com/users/nogayama/followers",
+  "following_url": "https://api.github.com/users/nogayama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nogayama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nogayama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nogayama/subscriptions",
+  "organizations_url": "https://api.github.com/users/nogayama/orgs",
+  "repos_url": "https://api.github.com/users/nogayama/repos",
+  "events_url": "https://api.github.com/users/nogayama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nogayama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

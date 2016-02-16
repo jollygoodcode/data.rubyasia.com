@@ -1,0 +1,20 @@
+{
+  "login": "SinisterLight",
+  "id": 1770079,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1770079?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SinisterLight",
+  "html_url": "https://github.com/SinisterLight",
+  "followers_url": "https://api.github.com/users/SinisterLight/followers",
+  "following_url": "https://api.github.com/users/SinisterLight/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SinisterLight/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SinisterLight/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SinisterLight/subscriptions",
+  "organizations_url": "https://api.github.com/users/SinisterLight/orgs",
+  "repos_url": "https://api.github.com/users/SinisterLight/repos",
+  "events_url": "https://api.github.com/users/SinisterLight/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SinisterLight/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

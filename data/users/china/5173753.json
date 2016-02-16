@@ -1,0 +1,20 @@
+{
+  "login": "dujuwen",
+  "id": 5173753,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5173753?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dujuwen",
+  "html_url": "https://github.com/dujuwen",
+  "followers_url": "https://api.github.com/users/dujuwen/followers",
+  "following_url": "https://api.github.com/users/dujuwen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dujuwen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dujuwen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dujuwen/subscriptions",
+  "organizations_url": "https://api.github.com/users/dujuwen/orgs",
+  "repos_url": "https://api.github.com/users/dujuwen/repos",
+  "events_url": "https://api.github.com/users/dujuwen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dujuwen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

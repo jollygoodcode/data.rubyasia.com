@@ -1,0 +1,20 @@
+{
+  "login": "AmbiLabs",
+  "id": 7971437,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7971437?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AmbiLabs",
+  "html_url": "https://github.com/AmbiLabs",
+  "followers_url": "https://api.github.com/users/AmbiLabs/followers",
+  "following_url": "https://api.github.com/users/AmbiLabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AmbiLabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AmbiLabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AmbiLabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/AmbiLabs/orgs",
+  "repos_url": "https://api.github.com/users/AmbiLabs/repos",
+  "events_url": "https://api.github.com/users/AmbiLabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AmbiLabs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "says",
+  "id": 147612,
+  "avatar_url": "https://avatars.githubusercontent.com/u/147612?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/says",
+  "html_url": "https://github.com/says",
+  "followers_url": "https://api.github.com/users/says/followers",
+  "following_url": "https://api.github.com/users/says/following{/other_user}",
+  "gists_url": "https://api.github.com/users/says/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/says/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/says/subscriptions",
+  "organizations_url": "https://api.github.com/users/says/orgs",
+  "repos_url": "https://api.github.com/users/says/repos",
+  "events_url": "https://api.github.com/users/says/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/says/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

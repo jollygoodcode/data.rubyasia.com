@@ -1,0 +1,20 @@
+{
+  "login": "victorwkm",
+  "id": 565910,
+  "avatar_url": "https://avatars.githubusercontent.com/u/565910?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/victorwkm",
+  "html_url": "https://github.com/victorwkm",
+  "followers_url": "https://api.github.com/users/victorwkm/followers",
+  "following_url": "https://api.github.com/users/victorwkm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/victorwkm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/victorwkm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/victorwkm/subscriptions",
+  "organizations_url": "https://api.github.com/users/victorwkm/orgs",
+  "repos_url": "https://api.github.com/users/victorwkm/repos",
+  "events_url": "https://api.github.com/users/victorwkm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/victorwkm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

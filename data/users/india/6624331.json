@@ -1,0 +1,20 @@
+{
+  "login": "mynksngh",
+  "id": 6624331,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6624331?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mynksngh",
+  "html_url": "https://github.com/mynksngh",
+  "followers_url": "https://api.github.com/users/mynksngh/followers",
+  "following_url": "https://api.github.com/users/mynksngh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mynksngh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mynksngh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mynksngh/subscriptions",
+  "organizations_url": "https://api.github.com/users/mynksngh/orgs",
+  "repos_url": "https://api.github.com/users/mynksngh/repos",
+  "events_url": "https://api.github.com/users/mynksngh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mynksngh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

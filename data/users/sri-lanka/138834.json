@@ -1,0 +1,20 @@
+{
+  "login": "Maxsy",
+  "id": 138834,
+  "avatar_url": "https://avatars.githubusercontent.com/u/138834?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Maxsy",
+  "html_url": "https://github.com/Maxsy",
+  "followers_url": "https://api.github.com/users/Maxsy/followers",
+  "following_url": "https://api.github.com/users/Maxsy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Maxsy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Maxsy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Maxsy/subscriptions",
+  "organizations_url": "https://api.github.com/users/Maxsy/orgs",
+  "repos_url": "https://api.github.com/users/Maxsy/repos",
+  "events_url": "https://api.github.com/users/Maxsy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Maxsy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

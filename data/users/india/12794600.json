@@ -1,0 +1,20 @@
+{
+  "login": "Treeni",
+  "id": 12794600,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12794600?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Treeni",
+  "html_url": "https://github.com/Treeni",
+  "followers_url": "https://api.github.com/users/Treeni/followers",
+  "following_url": "https://api.github.com/users/Treeni/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Treeni/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Treeni/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Treeni/subscriptions",
+  "organizations_url": "https://api.github.com/users/Treeni/orgs",
+  "repos_url": "https://api.github.com/users/Treeni/repos",
+  "events_url": "https://api.github.com/users/Treeni/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Treeni/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

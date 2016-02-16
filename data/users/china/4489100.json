@@ -1,0 +1,20 @@
+{
+  "login": "pengcui",
+  "id": 4489100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4489100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pengcui",
+  "html_url": "https://github.com/pengcui",
+  "followers_url": "https://api.github.com/users/pengcui/followers",
+  "following_url": "https://api.github.com/users/pengcui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pengcui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pengcui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pengcui/subscriptions",
+  "organizations_url": "https://api.github.com/users/pengcui/orgs",
+  "repos_url": "https://api.github.com/users/pengcui/repos",
+  "events_url": "https://api.github.com/users/pengcui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pengcui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

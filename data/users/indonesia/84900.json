@@ -1,0 +1,20 @@
+{
+  "login": "linoxs",
+  "id": 84900,
+  "avatar_url": "https://avatars.githubusercontent.com/u/84900?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/linoxs",
+  "html_url": "https://github.com/linoxs",
+  "followers_url": "https://api.github.com/users/linoxs/followers",
+  "following_url": "https://api.github.com/users/linoxs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/linoxs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/linoxs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/linoxs/subscriptions",
+  "organizations_url": "https://api.github.com/users/linoxs/orgs",
+  "repos_url": "https://api.github.com/users/linoxs/repos",
+  "events_url": "https://api.github.com/users/linoxs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/linoxs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

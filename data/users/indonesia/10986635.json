@@ -1,0 +1,20 @@
+{
+  "login": "alpenhalim",
+  "id": 10986635,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10986635?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alpenhalim",
+  "html_url": "https://github.com/alpenhalim",
+  "followers_url": "https://api.github.com/users/alpenhalim/followers",
+  "following_url": "https://api.github.com/users/alpenhalim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alpenhalim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alpenhalim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alpenhalim/subscriptions",
+  "organizations_url": "https://api.github.com/users/alpenhalim/orgs",
+  "repos_url": "https://api.github.com/users/alpenhalim/repos",
+  "events_url": "https://api.github.com/users/alpenhalim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alpenhalim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

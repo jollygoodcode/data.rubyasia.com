@@ -1,0 +1,20 @@
+{
+  "login": "nhayato",
+  "id": 7675903,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7675903?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nhayato",
+  "html_url": "https://github.com/nhayato",
+  "followers_url": "https://api.github.com/users/nhayato/followers",
+  "following_url": "https://api.github.com/users/nhayato/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nhayato/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nhayato/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nhayato/subscriptions",
+  "organizations_url": "https://api.github.com/users/nhayato/orgs",
+  "repos_url": "https://api.github.com/users/nhayato/repos",
+  "events_url": "https://api.github.com/users/nhayato/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nhayato/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

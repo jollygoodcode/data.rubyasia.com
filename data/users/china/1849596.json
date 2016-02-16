@@ -1,0 +1,20 @@
+{
+  "login": "zhangxun",
+  "id": 1849596,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1849596?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhangxun",
+  "html_url": "https://github.com/zhangxun",
+  "followers_url": "https://api.github.com/users/zhangxun/followers",
+  "following_url": "https://api.github.com/users/zhangxun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhangxun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhangxun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhangxun/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhangxun/orgs",
+  "repos_url": "https://api.github.com/users/zhangxun/repos",
+  "events_url": "https://api.github.com/users/zhangxun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhangxun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

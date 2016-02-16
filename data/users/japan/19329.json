@@ -1,0 +1,20 @@
+{
+  "login": "snaka",
+  "id": 19329,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19329?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/snaka",
+  "html_url": "https://github.com/snaka",
+  "followers_url": "https://api.github.com/users/snaka/followers",
+  "following_url": "https://api.github.com/users/snaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/snaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/snaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/snaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/snaka/orgs",
+  "repos_url": "https://api.github.com/users/snaka/repos",
+  "events_url": "https://api.github.com/users/snaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/snaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kidoman",
+  "id": 206677,
+  "avatar_url": "https://avatars.githubusercontent.com/u/206677?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kidoman",
+  "html_url": "https://github.com/kidoman",
+  "followers_url": "https://api.github.com/users/kidoman/followers",
+  "following_url": "https://api.github.com/users/kidoman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kidoman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kidoman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kidoman/subscriptions",
+  "organizations_url": "https://api.github.com/users/kidoman/orgs",
+  "repos_url": "https://api.github.com/users/kidoman/repos",
+  "events_url": "https://api.github.com/users/kidoman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kidoman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

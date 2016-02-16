@@ -1,0 +1,20 @@
+{
+  "login": "tanaka51",
+  "id": 836662,
+  "avatar_url": "https://avatars.githubusercontent.com/u/836662?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tanaka51",
+  "html_url": "https://github.com/tanaka51",
+  "followers_url": "https://api.github.com/users/tanaka51/followers",
+  "following_url": "https://api.github.com/users/tanaka51/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tanaka51/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tanaka51/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tanaka51/subscriptions",
+  "organizations_url": "https://api.github.com/users/tanaka51/orgs",
+  "repos_url": "https://api.github.com/users/tanaka51/repos",
+  "events_url": "https://api.github.com/users/tanaka51/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tanaka51/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

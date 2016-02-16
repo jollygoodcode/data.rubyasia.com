@@ -1,0 +1,20 @@
+{
+  "login": "agileway",
+  "id": 94250,
+  "avatar_url": "https://avatars.githubusercontent.com/u/94250?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/agileway",
+  "html_url": "https://github.com/agileway",
+  "followers_url": "https://api.github.com/users/agileway/followers",
+  "following_url": "https://api.github.com/users/agileway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/agileway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/agileway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/agileway/subscriptions",
+  "organizations_url": "https://api.github.com/users/agileway/orgs",
+  "repos_url": "https://api.github.com/users/agileway/repos",
+  "events_url": "https://api.github.com/users/agileway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/agileway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

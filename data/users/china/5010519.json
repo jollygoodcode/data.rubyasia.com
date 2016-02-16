@@ -1,0 +1,20 @@
+{
+  "login": "FongRay",
+  "id": 5010519,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5010519?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FongRay",
+  "html_url": "https://github.com/FongRay",
+  "followers_url": "https://api.github.com/users/FongRay/followers",
+  "following_url": "https://api.github.com/users/FongRay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FongRay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FongRay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FongRay/subscriptions",
+  "organizations_url": "https://api.github.com/users/FongRay/orgs",
+  "repos_url": "https://api.github.com/users/FongRay/repos",
+  "events_url": "https://api.github.com/users/FongRay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FongRay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "higuma",
+  "id": 2908937,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2908937?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/higuma",
+  "html_url": "https://github.com/higuma",
+  "followers_url": "https://api.github.com/users/higuma/followers",
+  "following_url": "https://api.github.com/users/higuma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/higuma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/higuma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/higuma/subscriptions",
+  "organizations_url": "https://api.github.com/users/higuma/orgs",
+  "repos_url": "https://api.github.com/users/higuma/repos",
+  "events_url": "https://api.github.com/users/higuma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/higuma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jiyi",
+  "id": 1861467,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1861467?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jiyi",
+  "html_url": "https://github.com/jiyi",
+  "followers_url": "https://api.github.com/users/jiyi/followers",
+  "following_url": "https://api.github.com/users/jiyi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jiyi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jiyi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jiyi/subscriptions",
+  "organizations_url": "https://api.github.com/users/jiyi/orgs",
+  "repos_url": "https://api.github.com/users/jiyi/repos",
+  "events_url": "https://api.github.com/users/jiyi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jiyi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

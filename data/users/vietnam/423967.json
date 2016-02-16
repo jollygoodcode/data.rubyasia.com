@@ -1,0 +1,20 @@
+{
+  "login": "adam84luong",
+  "id": 423967,
+  "avatar_url": "https://avatars.githubusercontent.com/u/423967?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adam84luong",
+  "html_url": "https://github.com/adam84luong",
+  "followers_url": "https://api.github.com/users/adam84luong/followers",
+  "following_url": "https://api.github.com/users/adam84luong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adam84luong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adam84luong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adam84luong/subscriptions",
+  "organizations_url": "https://api.github.com/users/adam84luong/orgs",
+  "repos_url": "https://api.github.com/users/adam84luong/repos",
+  "events_url": "https://api.github.com/users/adam84luong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adam84luong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

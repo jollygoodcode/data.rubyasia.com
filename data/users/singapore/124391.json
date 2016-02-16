@@ -1,0 +1,20 @@
+{
+  "login": "gamov",
+  "id": 124391,
+  "avatar_url": "https://avatars.githubusercontent.com/u/124391?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gamov",
+  "html_url": "https://github.com/gamov",
+  "followers_url": "https://api.github.com/users/gamov/followers",
+  "following_url": "https://api.github.com/users/gamov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gamov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gamov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gamov/subscriptions",
+  "organizations_url": "https://api.github.com/users/gamov/orgs",
+  "repos_url": "https://api.github.com/users/gamov/repos",
+  "events_url": "https://api.github.com/users/gamov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gamov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

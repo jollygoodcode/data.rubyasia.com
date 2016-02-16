@@ -1,0 +1,20 @@
+{
+  "login": "sgirabin",
+  "id": 2585892,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2585892?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sgirabin",
+  "html_url": "https://github.com/sgirabin",
+  "followers_url": "https://api.github.com/users/sgirabin/followers",
+  "following_url": "https://api.github.com/users/sgirabin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sgirabin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sgirabin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sgirabin/subscriptions",
+  "organizations_url": "https://api.github.com/users/sgirabin/orgs",
+  "repos_url": "https://api.github.com/users/sgirabin/repos",
+  "events_url": "https://api.github.com/users/sgirabin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sgirabin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

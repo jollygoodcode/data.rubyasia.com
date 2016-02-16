@@ -1,0 +1,20 @@
+{
+  "login": "aurthconan",
+  "id": 1531176,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1531176?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aurthconan",
+  "html_url": "https://github.com/aurthconan",
+  "followers_url": "https://api.github.com/users/aurthconan/followers",
+  "following_url": "https://api.github.com/users/aurthconan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aurthconan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aurthconan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aurthconan/subscriptions",
+  "organizations_url": "https://api.github.com/users/aurthconan/orgs",
+  "repos_url": "https://api.github.com/users/aurthconan/repos",
+  "events_url": "https://api.github.com/users/aurthconan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aurthconan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

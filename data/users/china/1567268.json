@@ -1,0 +1,20 @@
+{
+  "login": "xydang",
+  "id": 1567268,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1567268?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xydang",
+  "html_url": "https://github.com/xydang",
+  "followers_url": "https://api.github.com/users/xydang/followers",
+  "following_url": "https://api.github.com/users/xydang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xydang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xydang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xydang/subscriptions",
+  "organizations_url": "https://api.github.com/users/xydang/orgs",
+  "repos_url": "https://api.github.com/users/xydang/repos",
+  "events_url": "https://api.github.com/users/xydang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xydang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

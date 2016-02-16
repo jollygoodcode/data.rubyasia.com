@@ -1,0 +1,20 @@
+{
+  "login": "champierre",
+  "id": 10215,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10215?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/champierre",
+  "html_url": "https://github.com/champierre",
+  "followers_url": "https://api.github.com/users/champierre/followers",
+  "following_url": "https://api.github.com/users/champierre/following{/other_user}",
+  "gists_url": "https://api.github.com/users/champierre/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/champierre/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/champierre/subscriptions",
+  "organizations_url": "https://api.github.com/users/champierre/orgs",
+  "repos_url": "https://api.github.com/users/champierre/repos",
+  "events_url": "https://api.github.com/users/champierre/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/champierre/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

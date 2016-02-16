@@ -1,0 +1,20 @@
+{
+  "login": "SongKai",
+  "id": 43095,
+  "avatar_url": "https://avatars.githubusercontent.com/u/43095?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SongKai",
+  "html_url": "https://github.com/SongKai",
+  "followers_url": "https://api.github.com/users/SongKai/followers",
+  "following_url": "https://api.github.com/users/SongKai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SongKai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SongKai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SongKai/subscriptions",
+  "organizations_url": "https://api.github.com/users/SongKai/orgs",
+  "repos_url": "https://api.github.com/users/SongKai/repos",
+  "events_url": "https://api.github.com/users/SongKai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SongKai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

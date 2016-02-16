@@ -1,0 +1,20 @@
+{
+  "login": "norobust",
+  "id": 2009432,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2009432?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/norobust",
+  "html_url": "https://github.com/norobust",
+  "followers_url": "https://api.github.com/users/norobust/followers",
+  "following_url": "https://api.github.com/users/norobust/following{/other_user}",
+  "gists_url": "https://api.github.com/users/norobust/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/norobust/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/norobust/subscriptions",
+  "organizations_url": "https://api.github.com/users/norobust/orgs",
+  "repos_url": "https://api.github.com/users/norobust/repos",
+  "events_url": "https://api.github.com/users/norobust/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/norobust/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

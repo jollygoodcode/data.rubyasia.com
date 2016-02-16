@@ -1,0 +1,20 @@
+{
+  "login": "kaorimatz",
+  "id": 1951519,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1951519?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaorimatz",
+  "html_url": "https://github.com/kaorimatz",
+  "followers_url": "https://api.github.com/users/kaorimatz/followers",
+  "following_url": "https://api.github.com/users/kaorimatz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaorimatz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaorimatz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaorimatz/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaorimatz/orgs",
+  "repos_url": "https://api.github.com/users/kaorimatz/repos",
+  "events_url": "https://api.github.com/users/kaorimatz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaorimatz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

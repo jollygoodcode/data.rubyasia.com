@@ -1,0 +1,20 @@
+{
+  "login": "wazuma-circle",
+  "id": 3383503,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3383503?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wazuma-circle",
+  "html_url": "https://github.com/wazuma-circle",
+  "followers_url": "https://api.github.com/users/wazuma-circle/followers",
+  "following_url": "https://api.github.com/users/wazuma-circle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wazuma-circle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wazuma-circle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wazuma-circle/subscriptions",
+  "organizations_url": "https://api.github.com/users/wazuma-circle/orgs",
+  "repos_url": "https://api.github.com/users/wazuma-circle/repos",
+  "events_url": "https://api.github.com/users/wazuma-circle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wazuma-circle/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

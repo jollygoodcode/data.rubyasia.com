@@ -1,0 +1,20 @@
+{
+  "login": "shamweel",
+  "id": 3695340,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3695340?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shamweel",
+  "html_url": "https://github.com/shamweel",
+  "followers_url": "https://api.github.com/users/shamweel/followers",
+  "following_url": "https://api.github.com/users/shamweel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shamweel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shamweel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shamweel/subscriptions",
+  "organizations_url": "https://api.github.com/users/shamweel/orgs",
+  "repos_url": "https://api.github.com/users/shamweel/repos",
+  "events_url": "https://api.github.com/users/shamweel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shamweel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

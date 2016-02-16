@@ -1,0 +1,20 @@
+{
+  "login": "flystax",
+  "id": 532131,
+  "avatar_url": "https://avatars.githubusercontent.com/u/532131?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flystax",
+  "html_url": "https://github.com/flystax",
+  "followers_url": "https://api.github.com/users/flystax/followers",
+  "following_url": "https://api.github.com/users/flystax/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flystax/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flystax/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flystax/subscriptions",
+  "organizations_url": "https://api.github.com/users/flystax/orgs",
+  "repos_url": "https://api.github.com/users/flystax/repos",
+  "events_url": "https://api.github.com/users/flystax/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flystax/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

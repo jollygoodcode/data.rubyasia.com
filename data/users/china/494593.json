@@ -1,0 +1,20 @@
+{
+  "login": "everbox",
+  "id": 494593,
+  "avatar_url": "https://avatars.githubusercontent.com/u/494593?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/everbox",
+  "html_url": "https://github.com/everbox",
+  "followers_url": "https://api.github.com/users/everbox/followers",
+  "following_url": "https://api.github.com/users/everbox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/everbox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/everbox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/everbox/subscriptions",
+  "organizations_url": "https://api.github.com/users/everbox/orgs",
+  "repos_url": "https://api.github.com/users/everbox/repos",
+  "events_url": "https://api.github.com/users/everbox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/everbox/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

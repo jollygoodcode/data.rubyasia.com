@@ -1,0 +1,20 @@
+{
+  "login": "rebhu",
+  "id": 3469894,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3469894?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rebhu",
+  "html_url": "https://github.com/rebhu",
+  "followers_url": "https://api.github.com/users/rebhu/followers",
+  "following_url": "https://api.github.com/users/rebhu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rebhu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rebhu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rebhu/subscriptions",
+  "organizations_url": "https://api.github.com/users/rebhu/orgs",
+  "repos_url": "https://api.github.com/users/rebhu/repos",
+  "events_url": "https://api.github.com/users/rebhu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rebhu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

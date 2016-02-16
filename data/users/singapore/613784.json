@@ -1,0 +1,20 @@
+{
+  "login": "rmascarenhas",
+  "id": 613784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/613784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rmascarenhas",
+  "html_url": "https://github.com/rmascarenhas",
+  "followers_url": "https://api.github.com/users/rmascarenhas/followers",
+  "following_url": "https://api.github.com/users/rmascarenhas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rmascarenhas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rmascarenhas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rmascarenhas/subscriptions",
+  "organizations_url": "https://api.github.com/users/rmascarenhas/orgs",
+  "repos_url": "https://api.github.com/users/rmascarenhas/repos",
+  "events_url": "https://api.github.com/users/rmascarenhas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rmascarenhas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

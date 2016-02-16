@@ -1,0 +1,20 @@
+{
+  "login": "marcrobinsone",
+  "id": 70081,
+  "avatar_url": "https://avatars.githubusercontent.com/u/70081?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marcrobinsone",
+  "html_url": "https://github.com/marcrobinsone",
+  "followers_url": "https://api.github.com/users/marcrobinsone/followers",
+  "following_url": "https://api.github.com/users/marcrobinsone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marcrobinsone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marcrobinsone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marcrobinsone/subscriptions",
+  "organizations_url": "https://api.github.com/users/marcrobinsone/orgs",
+  "repos_url": "https://api.github.com/users/marcrobinsone/repos",
+  "events_url": "https://api.github.com/users/marcrobinsone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marcrobinsone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

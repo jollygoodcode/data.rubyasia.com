@@ -1,0 +1,20 @@
+{
+  "login": "valentine",
+  "id": 676061,
+  "avatar_url": "https://avatars.githubusercontent.com/u/676061?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/valentine",
+  "html_url": "https://github.com/valentine",
+  "followers_url": "https://api.github.com/users/valentine/followers",
+  "following_url": "https://api.github.com/users/valentine/following{/other_user}",
+  "gists_url": "https://api.github.com/users/valentine/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/valentine/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/valentine/subscriptions",
+  "organizations_url": "https://api.github.com/users/valentine/orgs",
+  "repos_url": "https://api.github.com/users/valentine/repos",
+  "events_url": "https://api.github.com/users/valentine/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/valentine/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

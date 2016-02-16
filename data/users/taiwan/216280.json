@@ -1,0 +1,20 @@
+{
+  "login": "itrs",
+  "id": 216280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/216280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/itrs",
+  "html_url": "https://github.com/itrs",
+  "followers_url": "https://api.github.com/users/itrs/followers",
+  "following_url": "https://api.github.com/users/itrs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/itrs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/itrs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/itrs/subscriptions",
+  "organizations_url": "https://api.github.com/users/itrs/orgs",
+  "repos_url": "https://api.github.com/users/itrs/repos",
+  "events_url": "https://api.github.com/users/itrs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/itrs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

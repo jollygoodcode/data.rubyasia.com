@@ -1,0 +1,20 @@
+{
+  "login": "mitto",
+  "id": 837134,
+  "avatar_url": "https://avatars.githubusercontent.com/u/837134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mitto",
+  "html_url": "https://github.com/mitto",
+  "followers_url": "https://api.github.com/users/mitto/followers",
+  "following_url": "https://api.github.com/users/mitto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mitto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mitto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mitto/subscriptions",
+  "organizations_url": "https://api.github.com/users/mitto/orgs",
+  "repos_url": "https://api.github.com/users/mitto/repos",
+  "events_url": "https://api.github.com/users/mitto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mitto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

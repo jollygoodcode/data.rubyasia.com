@@ -1,0 +1,20 @@
+{
+  "login": "MegaBlackLabel",
+  "id": 1260621,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1260621?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MegaBlackLabel",
+  "html_url": "https://github.com/MegaBlackLabel",
+  "followers_url": "https://api.github.com/users/MegaBlackLabel/followers",
+  "following_url": "https://api.github.com/users/MegaBlackLabel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MegaBlackLabel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MegaBlackLabel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MegaBlackLabel/subscriptions",
+  "organizations_url": "https://api.github.com/users/MegaBlackLabel/orgs",
+  "repos_url": "https://api.github.com/users/MegaBlackLabel/repos",
+  "events_url": "https://api.github.com/users/MegaBlackLabel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MegaBlackLabel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

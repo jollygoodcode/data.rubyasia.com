@@ -1,0 +1,20 @@
+{
+  "login": "getperx",
+  "id": 1842533,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1842533?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/getperx",
+  "html_url": "https://github.com/getperx",
+  "followers_url": "https://api.github.com/users/getperx/followers",
+  "following_url": "https://api.github.com/users/getperx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/getperx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/getperx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/getperx/subscriptions",
+  "organizations_url": "https://api.github.com/users/getperx/orgs",
+  "repos_url": "https://api.github.com/users/getperx/repos",
+  "events_url": "https://api.github.com/users/getperx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/getperx/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rutwick",
+  "id": 578819,
+  "avatar_url": "https://avatars.githubusercontent.com/u/578819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rutwick",
+  "html_url": "https://github.com/rutwick",
+  "followers_url": "https://api.github.com/users/rutwick/followers",
+  "following_url": "https://api.github.com/users/rutwick/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rutwick/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rutwick/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rutwick/subscriptions",
+  "organizations_url": "https://api.github.com/users/rutwick/orgs",
+  "repos_url": "https://api.github.com/users/rutwick/repos",
+  "events_url": "https://api.github.com/users/rutwick/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rutwick/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

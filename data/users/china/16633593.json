@@ -1,0 +1,20 @@
+{
+  "login": "cladril",
+  "id": 16633593,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16633593?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cladril",
+  "html_url": "https://github.com/cladril",
+  "followers_url": "https://api.github.com/users/cladril/followers",
+  "following_url": "https://api.github.com/users/cladril/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cladril/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cladril/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cladril/subscriptions",
+  "organizations_url": "https://api.github.com/users/cladril/orgs",
+  "repos_url": "https://api.github.com/users/cladril/repos",
+  "events_url": "https://api.github.com/users/cladril/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cladril/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

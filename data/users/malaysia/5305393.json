@@ -1,0 +1,20 @@
+{
+  "login": "duriana",
+  "id": 5305393,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5305393?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/duriana",
+  "html_url": "https://github.com/duriana",
+  "followers_url": "https://api.github.com/users/duriana/followers",
+  "following_url": "https://api.github.com/users/duriana/following{/other_user}",
+  "gists_url": "https://api.github.com/users/duriana/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/duriana/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/duriana/subscriptions",
+  "organizations_url": "https://api.github.com/users/duriana/orgs",
+  "repos_url": "https://api.github.com/users/duriana/repos",
+  "events_url": "https://api.github.com/users/duriana/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/duriana/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

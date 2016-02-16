@@ -1,0 +1,20 @@
+{
+  "login": "albertchan",
+  "id": 1435462,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1435462?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/albertchan",
+  "html_url": "https://github.com/albertchan",
+  "followers_url": "https://api.github.com/users/albertchan/followers",
+  "following_url": "https://api.github.com/users/albertchan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/albertchan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/albertchan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/albertchan/subscriptions",
+  "organizations_url": "https://api.github.com/users/albertchan/orgs",
+  "repos_url": "https://api.github.com/users/albertchan/repos",
+  "events_url": "https://api.github.com/users/albertchan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/albertchan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "otukutun",
+  "id": 1199643,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1199643?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/otukutun",
+  "html_url": "https://github.com/otukutun",
+  "followers_url": "https://api.github.com/users/otukutun/followers",
+  "following_url": "https://api.github.com/users/otukutun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/otukutun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/otukutun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/otukutun/subscriptions",
+  "organizations_url": "https://api.github.com/users/otukutun/orgs",
+  "repos_url": "https://api.github.com/users/otukutun/repos",
+  "events_url": "https://api.github.com/users/otukutun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/otukutun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

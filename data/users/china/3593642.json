@@ -1,0 +1,20 @@
+{
+  "login": "jcshan",
+  "id": 3593642,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3593642?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jcshan",
+  "html_url": "https://github.com/jcshan",
+  "followers_url": "https://api.github.com/users/jcshan/followers",
+  "following_url": "https://api.github.com/users/jcshan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jcshan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jcshan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jcshan/subscriptions",
+  "organizations_url": "https://api.github.com/users/jcshan/orgs",
+  "repos_url": "https://api.github.com/users/jcshan/repos",
+  "events_url": "https://api.github.com/users/jcshan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jcshan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

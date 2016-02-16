@@ -1,0 +1,20 @@
+{
+  "login": "eji",
+  "id": 200968,
+  "avatar_url": "https://avatars.githubusercontent.com/u/200968?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eji",
+  "html_url": "https://github.com/eji",
+  "followers_url": "https://api.github.com/users/eji/followers",
+  "following_url": "https://api.github.com/users/eji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eji/subscriptions",
+  "organizations_url": "https://api.github.com/users/eji/orgs",
+  "repos_url": "https://api.github.com/users/eji/repos",
+  "events_url": "https://api.github.com/users/eji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

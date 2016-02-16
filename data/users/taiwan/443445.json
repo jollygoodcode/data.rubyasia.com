@@ -1,0 +1,20 @@
+{
+  "login": "rexx",
+  "id": 443445,
+  "avatar_url": "https://avatars.githubusercontent.com/u/443445?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rexx",
+  "html_url": "https://github.com/rexx",
+  "followers_url": "https://api.github.com/users/rexx/followers",
+  "following_url": "https://api.github.com/users/rexx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rexx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rexx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rexx/subscriptions",
+  "organizations_url": "https://api.github.com/users/rexx/orgs",
+  "repos_url": "https://api.github.com/users/rexx/repos",
+  "events_url": "https://api.github.com/users/rexx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rexx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

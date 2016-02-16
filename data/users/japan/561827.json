@@ -1,0 +1,20 @@
+{
+  "login": "shioyama",
+  "id": 561827,
+  "avatar_url": "https://avatars.githubusercontent.com/u/561827?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shioyama",
+  "html_url": "https://github.com/shioyama",
+  "followers_url": "https://api.github.com/users/shioyama/followers",
+  "following_url": "https://api.github.com/users/shioyama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shioyama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shioyama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shioyama/subscriptions",
+  "organizations_url": "https://api.github.com/users/shioyama/orgs",
+  "repos_url": "https://api.github.com/users/shioyama/repos",
+  "events_url": "https://api.github.com/users/shioyama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shioyama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

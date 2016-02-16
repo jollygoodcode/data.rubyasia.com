@@ -1,0 +1,20 @@
+{
+  "login": "ucho",
+  "id": 23427,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23427?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ucho",
+  "html_url": "https://github.com/ucho",
+  "followers_url": "https://api.github.com/users/ucho/followers",
+  "following_url": "https://api.github.com/users/ucho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ucho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ucho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ucho/subscriptions",
+  "organizations_url": "https://api.github.com/users/ucho/orgs",
+  "repos_url": "https://api.github.com/users/ucho/repos",
+  "events_url": "https://api.github.com/users/ucho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ucho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

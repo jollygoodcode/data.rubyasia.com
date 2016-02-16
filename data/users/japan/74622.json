@@ -1,0 +1,20 @@
+{
+  "login": "suchi",
+  "id": 74622,
+  "avatar_url": "https://avatars.githubusercontent.com/u/74622?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suchi",
+  "html_url": "https://github.com/suchi",
+  "followers_url": "https://api.github.com/users/suchi/followers",
+  "following_url": "https://api.github.com/users/suchi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suchi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suchi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suchi/subscriptions",
+  "organizations_url": "https://api.github.com/users/suchi/orgs",
+  "repos_url": "https://api.github.com/users/suchi/repos",
+  "events_url": "https://api.github.com/users/suchi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suchi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

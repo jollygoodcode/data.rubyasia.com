@@ -1,0 +1,20 @@
+{
+  "login": "aldidas",
+  "id": 2884417,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2884417?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aldidas",
+  "html_url": "https://github.com/aldidas",
+  "followers_url": "https://api.github.com/users/aldidas/followers",
+  "following_url": "https://api.github.com/users/aldidas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aldidas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aldidas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aldidas/subscriptions",
+  "organizations_url": "https://api.github.com/users/aldidas/orgs",
+  "repos_url": "https://api.github.com/users/aldidas/repos",
+  "events_url": "https://api.github.com/users/aldidas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aldidas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

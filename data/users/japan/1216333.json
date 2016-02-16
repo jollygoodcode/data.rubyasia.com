@@ -1,0 +1,20 @@
+{
+  "login": "hocnx",
+  "id": 1216333,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1216333?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hocnx",
+  "html_url": "https://github.com/hocnx",
+  "followers_url": "https://api.github.com/users/hocnx/followers",
+  "following_url": "https://api.github.com/users/hocnx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hocnx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hocnx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hocnx/subscriptions",
+  "organizations_url": "https://api.github.com/users/hocnx/orgs",
+  "repos_url": "https://api.github.com/users/hocnx/repos",
+  "events_url": "https://api.github.com/users/hocnx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hocnx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gosyujin",
+  "id": 588166,
+  "avatar_url": "https://avatars.githubusercontent.com/u/588166?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gosyujin",
+  "html_url": "https://github.com/gosyujin",
+  "followers_url": "https://api.github.com/users/gosyujin/followers",
+  "following_url": "https://api.github.com/users/gosyujin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gosyujin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gosyujin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gosyujin/subscriptions",
+  "organizations_url": "https://api.github.com/users/gosyujin/orgs",
+  "repos_url": "https://api.github.com/users/gosyujin/repos",
+  "events_url": "https://api.github.com/users/gosyujin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gosyujin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

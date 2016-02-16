@@ -1,0 +1,20 @@
+{
+  "login": "Ritx",
+  "id": 3252737,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3252737?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ritx",
+  "html_url": "https://github.com/Ritx",
+  "followers_url": "https://api.github.com/users/Ritx/followers",
+  "following_url": "https://api.github.com/users/Ritx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ritx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ritx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ritx/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ritx/orgs",
+  "repos_url": "https://api.github.com/users/Ritx/repos",
+  "events_url": "https://api.github.com/users/Ritx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ritx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

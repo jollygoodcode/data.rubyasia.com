@@ -1,0 +1,20 @@
+{
+  "login": "hodo1080",
+  "id": 524603,
+  "avatar_url": "https://avatars.githubusercontent.com/u/524603?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hodo1080",
+  "html_url": "https://github.com/hodo1080",
+  "followers_url": "https://api.github.com/users/hodo1080/followers",
+  "following_url": "https://api.github.com/users/hodo1080/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hodo1080/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hodo1080/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hodo1080/subscriptions",
+  "organizations_url": "https://api.github.com/users/hodo1080/orgs",
+  "repos_url": "https://api.github.com/users/hodo1080/repos",
+  "events_url": "https://api.github.com/users/hodo1080/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hodo1080/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

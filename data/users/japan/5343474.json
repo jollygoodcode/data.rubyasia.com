@@ -1,0 +1,20 @@
+{
+  "login": "kbonnin",
+  "id": 5343474,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5343474?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kbonnin",
+  "html_url": "https://github.com/kbonnin",
+  "followers_url": "https://api.github.com/users/kbonnin/followers",
+  "following_url": "https://api.github.com/users/kbonnin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kbonnin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kbonnin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kbonnin/subscriptions",
+  "organizations_url": "https://api.github.com/users/kbonnin/orgs",
+  "repos_url": "https://api.github.com/users/kbonnin/repos",
+  "events_url": "https://api.github.com/users/kbonnin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kbonnin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "galerina",
+  "id": 598197,
+  "avatar_url": "https://avatars.githubusercontent.com/u/598197?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/galerina",
+  "html_url": "https://github.com/galerina",
+  "followers_url": "https://api.github.com/users/galerina/followers",
+  "following_url": "https://api.github.com/users/galerina/following{/other_user}",
+  "gists_url": "https://api.github.com/users/galerina/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/galerina/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/galerina/subscriptions",
+  "organizations_url": "https://api.github.com/users/galerina/orgs",
+  "repos_url": "https://api.github.com/users/galerina/repos",
+  "events_url": "https://api.github.com/users/galerina/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/galerina/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

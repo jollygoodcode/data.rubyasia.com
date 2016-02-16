@@ -1,0 +1,20 @@
+{
+  "login": "akoesnan",
+  "id": 473700,
+  "avatar_url": "https://avatars.githubusercontent.com/u/473700?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akoesnan",
+  "html_url": "https://github.com/akoesnan",
+  "followers_url": "https://api.github.com/users/akoesnan/followers",
+  "following_url": "https://api.github.com/users/akoesnan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akoesnan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akoesnan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akoesnan/subscriptions",
+  "organizations_url": "https://api.github.com/users/akoesnan/orgs",
+  "repos_url": "https://api.github.com/users/akoesnan/repos",
+  "events_url": "https://api.github.com/users/akoesnan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akoesnan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

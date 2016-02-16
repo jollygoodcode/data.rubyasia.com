@@ -1,0 +1,20 @@
+{
+  "login": "camsong",
+  "id": 948896,
+  "avatar_url": "https://avatars.githubusercontent.com/u/948896?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/camsong",
+  "html_url": "https://github.com/camsong",
+  "followers_url": "https://api.github.com/users/camsong/followers",
+  "following_url": "https://api.github.com/users/camsong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/camsong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/camsong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/camsong/subscriptions",
+  "organizations_url": "https://api.github.com/users/camsong/orgs",
+  "repos_url": "https://api.github.com/users/camsong/repos",
+  "events_url": "https://api.github.com/users/camsong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/camsong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

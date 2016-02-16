@@ -1,0 +1,20 @@
+{
+  "login": "kazukitash",
+  "id": 3203117,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3203117?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kazukitash",
+  "html_url": "https://github.com/kazukitash",
+  "followers_url": "https://api.github.com/users/kazukitash/followers",
+  "following_url": "https://api.github.com/users/kazukitash/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kazukitash/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kazukitash/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kazukitash/subscriptions",
+  "organizations_url": "https://api.github.com/users/kazukitash/orgs",
+  "repos_url": "https://api.github.com/users/kazukitash/repos",
+  "events_url": "https://api.github.com/users/kazukitash/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kazukitash/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

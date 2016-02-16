@@ -1,0 +1,20 @@
+{
+  "login": "shikil",
+  "id": 467116,
+  "avatar_url": "https://avatars.githubusercontent.com/u/467116?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shikil",
+  "html_url": "https://github.com/shikil",
+  "followers_url": "https://api.github.com/users/shikil/followers",
+  "following_url": "https://api.github.com/users/shikil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shikil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shikil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shikil/subscriptions",
+  "organizations_url": "https://api.github.com/users/shikil/orgs",
+  "repos_url": "https://api.github.com/users/shikil/repos",
+  "events_url": "https://api.github.com/users/shikil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shikil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

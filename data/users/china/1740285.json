@@ -1,0 +1,20 @@
+{
+  "login": "oxoxoxox",
+  "id": 1740285,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1740285?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oxoxoxox",
+  "html_url": "https://github.com/oxoxoxox",
+  "followers_url": "https://api.github.com/users/oxoxoxox/followers",
+  "following_url": "https://api.github.com/users/oxoxoxox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oxoxoxox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oxoxoxox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oxoxoxox/subscriptions",
+  "organizations_url": "https://api.github.com/users/oxoxoxox/orgs",
+  "repos_url": "https://api.github.com/users/oxoxoxox/repos",
+  "events_url": "https://api.github.com/users/oxoxoxox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oxoxoxox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

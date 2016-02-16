@@ -1,0 +1,20 @@
+{
+  "login": "youaoi",
+  "id": 5134083,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5134083?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/youaoi",
+  "html_url": "https://github.com/youaoi",
+  "followers_url": "https://api.github.com/users/youaoi/followers",
+  "following_url": "https://api.github.com/users/youaoi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/youaoi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/youaoi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/youaoi/subscriptions",
+  "organizations_url": "https://api.github.com/users/youaoi/orgs",
+  "repos_url": "https://api.github.com/users/youaoi/repos",
+  "events_url": "https://api.github.com/users/youaoi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/youaoi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

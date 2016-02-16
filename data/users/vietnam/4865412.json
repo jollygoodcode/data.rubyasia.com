@@ -1,0 +1,20 @@
+{
+  "login": "minhdanh",
+  "id": 4865412,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4865412?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/minhdanh",
+  "html_url": "https://github.com/minhdanh",
+  "followers_url": "https://api.github.com/users/minhdanh/followers",
+  "following_url": "https://api.github.com/users/minhdanh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/minhdanh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/minhdanh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/minhdanh/subscriptions",
+  "organizations_url": "https://api.github.com/users/minhdanh/orgs",
+  "repos_url": "https://api.github.com/users/minhdanh/repos",
+  "events_url": "https://api.github.com/users/minhdanh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/minhdanh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

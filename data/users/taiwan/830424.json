@@ -1,0 +1,20 @@
+{
+  "login": "jspaper",
+  "id": 830424,
+  "avatar_url": "https://avatars.githubusercontent.com/u/830424?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jspaper",
+  "html_url": "https://github.com/jspaper",
+  "followers_url": "https://api.github.com/users/jspaper/followers",
+  "following_url": "https://api.github.com/users/jspaper/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jspaper/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jspaper/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jspaper/subscriptions",
+  "organizations_url": "https://api.github.com/users/jspaper/orgs",
+  "repos_url": "https://api.github.com/users/jspaper/repos",
+  "events_url": "https://api.github.com/users/jspaper/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jspaper/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

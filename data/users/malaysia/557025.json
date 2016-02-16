@@ -1,0 +1,20 @@
+{
+  "login": "tfaruq",
+  "id": 557025,
+  "avatar_url": "https://avatars.githubusercontent.com/u/557025?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tfaruq",
+  "html_url": "https://github.com/tfaruq",
+  "followers_url": "https://api.github.com/users/tfaruq/followers",
+  "following_url": "https://api.github.com/users/tfaruq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tfaruq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tfaruq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tfaruq/subscriptions",
+  "organizations_url": "https://api.github.com/users/tfaruq/orgs",
+  "repos_url": "https://api.github.com/users/tfaruq/repos",
+  "events_url": "https://api.github.com/users/tfaruq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tfaruq/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

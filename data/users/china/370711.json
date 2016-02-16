@@ -1,0 +1,20 @@
+{
+  "login": "arcway",
+  "id": 370711,
+  "avatar_url": "https://avatars.githubusercontent.com/u/370711?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arcway",
+  "html_url": "https://github.com/arcway",
+  "followers_url": "https://api.github.com/users/arcway/followers",
+  "following_url": "https://api.github.com/users/arcway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arcway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arcway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arcway/subscriptions",
+  "organizations_url": "https://api.github.com/users/arcway/orgs",
+  "repos_url": "https://api.github.com/users/arcway/repos",
+  "events_url": "https://api.github.com/users/arcway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arcway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

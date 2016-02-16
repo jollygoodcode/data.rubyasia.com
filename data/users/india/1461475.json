@@ -1,0 +1,20 @@
+{
+  "login": "anaray",
+  "id": 1461475,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1461475?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anaray",
+  "html_url": "https://github.com/anaray",
+  "followers_url": "https://api.github.com/users/anaray/followers",
+  "following_url": "https://api.github.com/users/anaray/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anaray/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anaray/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anaray/subscriptions",
+  "organizations_url": "https://api.github.com/users/anaray/orgs",
+  "repos_url": "https://api.github.com/users/anaray/repos",
+  "events_url": "https://api.github.com/users/anaray/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anaray/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

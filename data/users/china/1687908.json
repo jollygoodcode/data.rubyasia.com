@@ -1,0 +1,20 @@
+{
+  "login": "jmknoll",
+  "id": 1687908,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1687908?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jmknoll",
+  "html_url": "https://github.com/jmknoll",
+  "followers_url": "https://api.github.com/users/jmknoll/followers",
+  "following_url": "https://api.github.com/users/jmknoll/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jmknoll/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jmknoll/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jmknoll/subscriptions",
+  "organizations_url": "https://api.github.com/users/jmknoll/orgs",
+  "repos_url": "https://api.github.com/users/jmknoll/repos",
+  "events_url": "https://api.github.com/users/jmknoll/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jmknoll/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

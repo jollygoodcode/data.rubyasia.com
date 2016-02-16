@@ -1,0 +1,20 @@
+{
+  "login": "onodes",
+  "id": 118279,
+  "avatar_url": "https://avatars.githubusercontent.com/u/118279?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/onodes",
+  "html_url": "https://github.com/onodes",
+  "followers_url": "https://api.github.com/users/onodes/followers",
+  "following_url": "https://api.github.com/users/onodes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/onodes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/onodes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/onodes/subscriptions",
+  "organizations_url": "https://api.github.com/users/onodes/orgs",
+  "repos_url": "https://api.github.com/users/onodes/repos",
+  "events_url": "https://api.github.com/users/onodes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/onodes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

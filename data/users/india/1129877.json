@@ -1,0 +1,20 @@
+{
+  "login": "VeeRAdroit",
+  "id": 1129877,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1129877?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/VeeRAdroit",
+  "html_url": "https://github.com/VeeRAdroit",
+  "followers_url": "https://api.github.com/users/VeeRAdroit/followers",
+  "following_url": "https://api.github.com/users/VeeRAdroit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/VeeRAdroit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/VeeRAdroit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/VeeRAdroit/subscriptions",
+  "organizations_url": "https://api.github.com/users/VeeRAdroit/orgs",
+  "repos_url": "https://api.github.com/users/VeeRAdroit/repos",
+  "events_url": "https://api.github.com/users/VeeRAdroit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/VeeRAdroit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

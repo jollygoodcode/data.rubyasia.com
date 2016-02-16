@@ -1,0 +1,20 @@
+{
+  "login": "tunwinn",
+  "id": 13195975,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13195975?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tunwinn",
+  "html_url": "https://github.com/tunwinn",
+  "followers_url": "https://api.github.com/users/tunwinn/followers",
+  "following_url": "https://api.github.com/users/tunwinn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tunwinn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tunwinn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tunwinn/subscriptions",
+  "organizations_url": "https://api.github.com/users/tunwinn/orgs",
+  "repos_url": "https://api.github.com/users/tunwinn/repos",
+  "events_url": "https://api.github.com/users/tunwinn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tunwinn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

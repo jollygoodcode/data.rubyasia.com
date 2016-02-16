@@ -1,0 +1,20 @@
+{
+  "login": "pozitive",
+  "id": 4198535,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4198535?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pozitive",
+  "html_url": "https://github.com/pozitive",
+  "followers_url": "https://api.github.com/users/pozitive/followers",
+  "following_url": "https://api.github.com/users/pozitive/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pozitive/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pozitive/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pozitive/subscriptions",
+  "organizations_url": "https://api.github.com/users/pozitive/orgs",
+  "repos_url": "https://api.github.com/users/pozitive/repos",
+  "events_url": "https://api.github.com/users/pozitive/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pozitive/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

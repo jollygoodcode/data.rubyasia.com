@@ -1,0 +1,20 @@
+{
+  "login": "browntiger",
+  "id": 497624,
+  "avatar_url": "https://avatars.githubusercontent.com/u/497624?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/browntiger",
+  "html_url": "https://github.com/browntiger",
+  "followers_url": "https://api.github.com/users/browntiger/followers",
+  "following_url": "https://api.github.com/users/browntiger/following{/other_user}",
+  "gists_url": "https://api.github.com/users/browntiger/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/browntiger/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/browntiger/subscriptions",
+  "organizations_url": "https://api.github.com/users/browntiger/orgs",
+  "repos_url": "https://api.github.com/users/browntiger/repos",
+  "events_url": "https://api.github.com/users/browntiger/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/browntiger/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

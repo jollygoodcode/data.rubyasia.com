@@ -1,0 +1,20 @@
+{
+  "login": "master-of-sugar",
+  "id": 865716,
+  "avatar_url": "https://avatars.githubusercontent.com/u/865716?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/master-of-sugar",
+  "html_url": "https://github.com/master-of-sugar",
+  "followers_url": "https://api.github.com/users/master-of-sugar/followers",
+  "following_url": "https://api.github.com/users/master-of-sugar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/master-of-sugar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/master-of-sugar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/master-of-sugar/subscriptions",
+  "organizations_url": "https://api.github.com/users/master-of-sugar/orgs",
+  "repos_url": "https://api.github.com/users/master-of-sugar/repos",
+  "events_url": "https://api.github.com/users/master-of-sugar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/master-of-sugar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

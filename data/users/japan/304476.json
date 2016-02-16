@@ -1,0 +1,20 @@
+{
+  "login": "yppp",
+  "id": 304476,
+  "avatar_url": "https://avatars.githubusercontent.com/u/304476?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yppp",
+  "html_url": "https://github.com/yppp",
+  "followers_url": "https://api.github.com/users/yppp/followers",
+  "following_url": "https://api.github.com/users/yppp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yppp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yppp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yppp/subscriptions",
+  "organizations_url": "https://api.github.com/users/yppp/orgs",
+  "repos_url": "https://api.github.com/users/yppp/repos",
+  "events_url": "https://api.github.com/users/yppp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yppp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

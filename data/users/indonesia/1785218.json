@@ -1,0 +1,20 @@
+{
+  "login": "irff",
+  "id": 1785218,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1785218?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/irff",
+  "html_url": "https://github.com/irff",
+  "followers_url": "https://api.github.com/users/irff/followers",
+  "following_url": "https://api.github.com/users/irff/following{/other_user}",
+  "gists_url": "https://api.github.com/users/irff/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/irff/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/irff/subscriptions",
+  "organizations_url": "https://api.github.com/users/irff/orgs",
+  "repos_url": "https://api.github.com/users/irff/repos",
+  "events_url": "https://api.github.com/users/irff/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/irff/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

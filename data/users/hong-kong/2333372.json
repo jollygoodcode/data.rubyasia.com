@@ -1,0 +1,20 @@
+{
+  "login": "OpenDataHK",
+  "id": 2333372,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2333372?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/OpenDataHK",
+  "html_url": "https://github.com/OpenDataHK",
+  "followers_url": "https://api.github.com/users/OpenDataHK/followers",
+  "following_url": "https://api.github.com/users/OpenDataHK/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OpenDataHK/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/OpenDataHK/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OpenDataHK/subscriptions",
+  "organizations_url": "https://api.github.com/users/OpenDataHK/orgs",
+  "repos_url": "https://api.github.com/users/OpenDataHK/repos",
+  "events_url": "https://api.github.com/users/OpenDataHK/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/OpenDataHK/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

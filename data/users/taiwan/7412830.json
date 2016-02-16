@@ -1,0 +1,20 @@
+{
+  "login": "SzuZebra",
+  "id": 7412830,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7412830?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SzuZebra",
+  "html_url": "https://github.com/SzuZebra",
+  "followers_url": "https://api.github.com/users/SzuZebra/followers",
+  "following_url": "https://api.github.com/users/SzuZebra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SzuZebra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SzuZebra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SzuZebra/subscriptions",
+  "organizations_url": "https://api.github.com/users/SzuZebra/orgs",
+  "repos_url": "https://api.github.com/users/SzuZebra/repos",
+  "events_url": "https://api.github.com/users/SzuZebra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SzuZebra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

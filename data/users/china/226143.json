@@ -1,0 +1,20 @@
+{
+  "login": "tjcjc",
+  "id": 226143,
+  "avatar_url": "https://avatars.githubusercontent.com/u/226143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tjcjc",
+  "html_url": "https://github.com/tjcjc",
+  "followers_url": "https://api.github.com/users/tjcjc/followers",
+  "following_url": "https://api.github.com/users/tjcjc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tjcjc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tjcjc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tjcjc/subscriptions",
+  "organizations_url": "https://api.github.com/users/tjcjc/orgs",
+  "repos_url": "https://api.github.com/users/tjcjc/repos",
+  "events_url": "https://api.github.com/users/tjcjc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tjcjc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

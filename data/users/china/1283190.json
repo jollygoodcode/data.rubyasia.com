@@ -1,0 +1,20 @@
+{
+  "login": "happycasts",
+  "id": 1283190,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1283190?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/happycasts",
+  "html_url": "https://github.com/happycasts",
+  "followers_url": "https://api.github.com/users/happycasts/followers",
+  "following_url": "https://api.github.com/users/happycasts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/happycasts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/happycasts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/happycasts/subscriptions",
+  "organizations_url": "https://api.github.com/users/happycasts/orgs",
+  "repos_url": "https://api.github.com/users/happycasts/repos",
+  "events_url": "https://api.github.com/users/happycasts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/happycasts/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

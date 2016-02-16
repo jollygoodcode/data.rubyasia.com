@@ -1,0 +1,20 @@
+{
+  "login": "greycode",
+  "id": 3759819,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3759819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/greycode",
+  "html_url": "https://github.com/greycode",
+  "followers_url": "https://api.github.com/users/greycode/followers",
+  "following_url": "https://api.github.com/users/greycode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/greycode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/greycode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/greycode/subscriptions",
+  "organizations_url": "https://api.github.com/users/greycode/orgs",
+  "repos_url": "https://api.github.com/users/greycode/repos",
+  "events_url": "https://api.github.com/users/greycode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/greycode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

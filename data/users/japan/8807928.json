@@ -1,0 +1,20 @@
+{
+  "login": "smartnews",
+  "id": 8807928,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8807928?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smartnews",
+  "html_url": "https://github.com/smartnews",
+  "followers_url": "https://api.github.com/users/smartnews/followers",
+  "following_url": "https://api.github.com/users/smartnews/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smartnews/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smartnews/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smartnews/subscriptions",
+  "organizations_url": "https://api.github.com/users/smartnews/orgs",
+  "repos_url": "https://api.github.com/users/smartnews/repos",
+  "events_url": "https://api.github.com/users/smartnews/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smartnews/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

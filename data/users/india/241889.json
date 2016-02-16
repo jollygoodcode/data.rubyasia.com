@@ -1,0 +1,20 @@
+{
+  "login": "chiku",
+  "id": 241889,
+  "avatar_url": "https://avatars.githubusercontent.com/u/241889?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chiku",
+  "html_url": "https://github.com/chiku",
+  "followers_url": "https://api.github.com/users/chiku/followers",
+  "following_url": "https://api.github.com/users/chiku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chiku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chiku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chiku/subscriptions",
+  "organizations_url": "https://api.github.com/users/chiku/orgs",
+  "repos_url": "https://api.github.com/users/chiku/repos",
+  "events_url": "https://api.github.com/users/chiku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chiku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

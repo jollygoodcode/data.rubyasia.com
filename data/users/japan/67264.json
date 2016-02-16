@@ -1,0 +1,20 @@
+{
+  "login": "cohakim",
+  "id": 67264,
+  "avatar_url": "https://avatars.githubusercontent.com/u/67264?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cohakim",
+  "html_url": "https://github.com/cohakim",
+  "followers_url": "https://api.github.com/users/cohakim/followers",
+  "following_url": "https://api.github.com/users/cohakim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cohakim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cohakim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cohakim/subscriptions",
+  "organizations_url": "https://api.github.com/users/cohakim/orgs",
+  "repos_url": "https://api.github.com/users/cohakim/repos",
+  "events_url": "https://api.github.com/users/cohakim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cohakim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

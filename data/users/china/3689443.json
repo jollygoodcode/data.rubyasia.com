@@ -1,0 +1,20 @@
+{
+  "login": "Julienedies",
+  "id": 3689443,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3689443?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Julienedies",
+  "html_url": "https://github.com/Julienedies",
+  "followers_url": "https://api.github.com/users/Julienedies/followers",
+  "following_url": "https://api.github.com/users/Julienedies/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Julienedies/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Julienedies/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Julienedies/subscriptions",
+  "organizations_url": "https://api.github.com/users/Julienedies/orgs",
+  "repos_url": "https://api.github.com/users/Julienedies/repos",
+  "events_url": "https://api.github.com/users/Julienedies/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Julienedies/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

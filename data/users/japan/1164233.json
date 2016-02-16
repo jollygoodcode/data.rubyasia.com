@@ -1,0 +1,20 @@
+{
+  "login": "nildex",
+  "id": 1164233,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1164233?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nildex",
+  "html_url": "https://github.com/nildex",
+  "followers_url": "https://api.github.com/users/nildex/followers",
+  "following_url": "https://api.github.com/users/nildex/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nildex/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nildex/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nildex/subscriptions",
+  "organizations_url": "https://api.github.com/users/nildex/orgs",
+  "repos_url": "https://api.github.com/users/nildex/repos",
+  "events_url": "https://api.github.com/users/nildex/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nildex/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hien",
+  "id": 496779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/496779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hien",
+  "html_url": "https://github.com/hien",
+  "followers_url": "https://api.github.com/users/hien/followers",
+  "following_url": "https://api.github.com/users/hien/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hien/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hien/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hien/subscriptions",
+  "organizations_url": "https://api.github.com/users/hien/orgs",
+  "repos_url": "https://api.github.com/users/hien/repos",
+  "events_url": "https://api.github.com/users/hien/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hien/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

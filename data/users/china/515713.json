@@ -1,0 +1,20 @@
+{
+  "login": "JoanWang",
+  "id": 515713,
+  "avatar_url": "https://avatars.githubusercontent.com/u/515713?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JoanWang",
+  "html_url": "https://github.com/JoanWang",
+  "followers_url": "https://api.github.com/users/JoanWang/followers",
+  "following_url": "https://api.github.com/users/JoanWang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JoanWang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JoanWang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JoanWang/subscriptions",
+  "organizations_url": "https://api.github.com/users/JoanWang/orgs",
+  "repos_url": "https://api.github.com/users/JoanWang/repos",
+  "events_url": "https://api.github.com/users/JoanWang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JoanWang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

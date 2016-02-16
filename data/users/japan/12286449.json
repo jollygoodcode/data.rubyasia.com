@@ -1,0 +1,20 @@
+{
+  "login": "kazumitaya",
+  "id": 12286449,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12286449?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kazumitaya",
+  "html_url": "https://github.com/kazumitaya",
+  "followers_url": "https://api.github.com/users/kazumitaya/followers",
+  "following_url": "https://api.github.com/users/kazumitaya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kazumitaya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kazumitaya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kazumitaya/subscriptions",
+  "organizations_url": "https://api.github.com/users/kazumitaya/orgs",
+  "repos_url": "https://api.github.com/users/kazumitaya/repos",
+  "events_url": "https://api.github.com/users/kazumitaya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kazumitaya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

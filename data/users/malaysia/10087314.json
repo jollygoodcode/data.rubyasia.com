@@ -1,0 +1,20 @@
+{
+  "login": "Iqlaas",
+  "id": 10087314,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10087314?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Iqlaas",
+  "html_url": "https://github.com/Iqlaas",
+  "followers_url": "https://api.github.com/users/Iqlaas/followers",
+  "following_url": "https://api.github.com/users/Iqlaas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Iqlaas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Iqlaas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Iqlaas/subscriptions",
+  "organizations_url": "https://api.github.com/users/Iqlaas/orgs",
+  "repos_url": "https://api.github.com/users/Iqlaas/repos",
+  "events_url": "https://api.github.com/users/Iqlaas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Iqlaas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

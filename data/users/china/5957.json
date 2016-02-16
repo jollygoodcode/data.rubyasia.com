@@ -1,0 +1,20 @@
+{
+  "login": "zhangxue",
+  "id": 5957,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5957?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhangxue",
+  "html_url": "https://github.com/zhangxue",
+  "followers_url": "https://api.github.com/users/zhangxue/followers",
+  "following_url": "https://api.github.com/users/zhangxue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhangxue/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhangxue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhangxue/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhangxue/orgs",
+  "repos_url": "https://api.github.com/users/zhangxue/repos",
+  "events_url": "https://api.github.com/users/zhangxue/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhangxue/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

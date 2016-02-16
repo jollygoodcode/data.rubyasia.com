@@ -1,0 +1,20 @@
+{
+  "login": "hallazie",
+  "id": 6963635,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6963635?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hallazie",
+  "html_url": "https://github.com/hallazie",
+  "followers_url": "https://api.github.com/users/hallazie/followers",
+  "following_url": "https://api.github.com/users/hallazie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hallazie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hallazie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hallazie/subscriptions",
+  "organizations_url": "https://api.github.com/users/hallazie/orgs",
+  "repos_url": "https://api.github.com/users/hallazie/repos",
+  "events_url": "https://api.github.com/users/hallazie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hallazie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

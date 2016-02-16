@@ -1,0 +1,20 @@
+{
+  "login": "d2verb",
+  "id": 4963613,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4963613?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/d2verb",
+  "html_url": "https://github.com/d2verb",
+  "followers_url": "https://api.github.com/users/d2verb/followers",
+  "following_url": "https://api.github.com/users/d2verb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/d2verb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/d2verb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/d2verb/subscriptions",
+  "organizations_url": "https://api.github.com/users/d2verb/orgs",
+  "repos_url": "https://api.github.com/users/d2verb/repos",
+  "events_url": "https://api.github.com/users/d2verb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/d2verb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

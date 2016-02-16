@@ -1,0 +1,20 @@
+{
+  "login": "DekDoi",
+  "id": 537033,
+  "avatar_url": "https://avatars.githubusercontent.com/u/537033?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DekDoi",
+  "html_url": "https://github.com/DekDoi",
+  "followers_url": "https://api.github.com/users/DekDoi/followers",
+  "following_url": "https://api.github.com/users/DekDoi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DekDoi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DekDoi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DekDoi/subscriptions",
+  "organizations_url": "https://api.github.com/users/DekDoi/orgs",
+  "repos_url": "https://api.github.com/users/DekDoi/repos",
+  "events_url": "https://api.github.com/users/DekDoi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DekDoi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

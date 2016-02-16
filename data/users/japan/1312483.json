@@ -1,0 +1,20 @@
+{
+  "login": "xenbase",
+  "id": 1312483,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1312483?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xenbase",
+  "html_url": "https://github.com/xenbase",
+  "followers_url": "https://api.github.com/users/xenbase/followers",
+  "following_url": "https://api.github.com/users/xenbase/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xenbase/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xenbase/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xenbase/subscriptions",
+  "organizations_url": "https://api.github.com/users/xenbase/orgs",
+  "repos_url": "https://api.github.com/users/xenbase/repos",
+  "events_url": "https://api.github.com/users/xenbase/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xenbase/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

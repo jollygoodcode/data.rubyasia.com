@@ -1,0 +1,20 @@
+{
+  "login": "OopsData",
+  "id": 1617602,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1617602?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/OopsData",
+  "html_url": "https://github.com/OopsData",
+  "followers_url": "https://api.github.com/users/OopsData/followers",
+  "following_url": "https://api.github.com/users/OopsData/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OopsData/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/OopsData/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OopsData/subscriptions",
+  "organizations_url": "https://api.github.com/users/OopsData/orgs",
+  "repos_url": "https://api.github.com/users/OopsData/repos",
+  "events_url": "https://api.github.com/users/OopsData/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/OopsData/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

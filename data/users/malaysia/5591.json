@@ -1,0 +1,20 @@
+{
+  "login": "pamalite",
+  "id": 5591,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5591?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pamalite",
+  "html_url": "https://github.com/pamalite",
+  "followers_url": "https://api.github.com/users/pamalite/followers",
+  "following_url": "https://api.github.com/users/pamalite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pamalite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pamalite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pamalite/subscriptions",
+  "organizations_url": "https://api.github.com/users/pamalite/orgs",
+  "repos_url": "https://api.github.com/users/pamalite/repos",
+  "events_url": "https://api.github.com/users/pamalite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pamalite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

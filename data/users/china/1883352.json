@@ -1,0 +1,20 @@
+{
+  "login": "usingnow",
+  "id": 1883352,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1883352?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/usingnow",
+  "html_url": "https://github.com/usingnow",
+  "followers_url": "https://api.github.com/users/usingnow/followers",
+  "following_url": "https://api.github.com/users/usingnow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/usingnow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/usingnow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/usingnow/subscriptions",
+  "organizations_url": "https://api.github.com/users/usingnow/orgs",
+  "repos_url": "https://api.github.com/users/usingnow/repos",
+  "events_url": "https://api.github.com/users/usingnow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/usingnow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

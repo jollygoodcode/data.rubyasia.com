@@ -1,0 +1,20 @@
+{
+  "login": "codeout",
+  "id": 921696,
+  "avatar_url": "https://avatars.githubusercontent.com/u/921696?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codeout",
+  "html_url": "https://github.com/codeout",
+  "followers_url": "https://api.github.com/users/codeout/followers",
+  "following_url": "https://api.github.com/users/codeout/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codeout/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codeout/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codeout/subscriptions",
+  "organizations_url": "https://api.github.com/users/codeout/orgs",
+  "repos_url": "https://api.github.com/users/codeout/repos",
+  "events_url": "https://api.github.com/users/codeout/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codeout/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

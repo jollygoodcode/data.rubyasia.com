@@ -1,0 +1,20 @@
+{
+  "login": "hamufood",
+  "id": 72150,
+  "avatar_url": "https://avatars.githubusercontent.com/u/72150?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hamufood",
+  "html_url": "https://github.com/hamufood",
+  "followers_url": "https://api.github.com/users/hamufood/followers",
+  "following_url": "https://api.github.com/users/hamufood/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hamufood/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hamufood/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hamufood/subscriptions",
+  "organizations_url": "https://api.github.com/users/hamufood/orgs",
+  "repos_url": "https://api.github.com/users/hamufood/repos",
+  "events_url": "https://api.github.com/users/hamufood/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hamufood/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

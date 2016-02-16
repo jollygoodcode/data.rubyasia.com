@@ -1,0 +1,20 @@
+{
+  "login": "ynose",
+  "id": 1910829,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1910829?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ynose",
+  "html_url": "https://github.com/ynose",
+  "followers_url": "https://api.github.com/users/ynose/followers",
+  "following_url": "https://api.github.com/users/ynose/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ynose/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ynose/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ynose/subscriptions",
+  "organizations_url": "https://api.github.com/users/ynose/orgs",
+  "repos_url": "https://api.github.com/users/ynose/repos",
+  "events_url": "https://api.github.com/users/ynose/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ynose/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

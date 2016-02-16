@@ -1,0 +1,20 @@
+{
+  "login": "darch",
+  "id": 81518,
+  "avatar_url": "https://avatars.githubusercontent.com/u/81518?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/darch",
+  "html_url": "https://github.com/darch",
+  "followers_url": "https://api.github.com/users/darch/followers",
+  "following_url": "https://api.github.com/users/darch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/darch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/darch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/darch/subscriptions",
+  "organizations_url": "https://api.github.com/users/darch/orgs",
+  "repos_url": "https://api.github.com/users/darch/repos",
+  "events_url": "https://api.github.com/users/darch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/darch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tnmt",
+  "id": 56112,
+  "avatar_url": "https://avatars.githubusercontent.com/u/56112?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tnmt",
+  "html_url": "https://github.com/tnmt",
+  "followers_url": "https://api.github.com/users/tnmt/followers",
+  "following_url": "https://api.github.com/users/tnmt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tnmt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tnmt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tnmt/subscriptions",
+  "organizations_url": "https://api.github.com/users/tnmt/orgs",
+  "repos_url": "https://api.github.com/users/tnmt/repos",
+  "events_url": "https://api.github.com/users/tnmt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tnmt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Jake3000",
+  "id": 16148760,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16148760?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Jake3000",
+  "html_url": "https://github.com/Jake3000",
+  "followers_url": "https://api.github.com/users/Jake3000/followers",
+  "following_url": "https://api.github.com/users/Jake3000/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Jake3000/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Jake3000/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Jake3000/subscriptions",
+  "organizations_url": "https://api.github.com/users/Jake3000/orgs",
+  "repos_url": "https://api.github.com/users/Jake3000/repos",
+  "events_url": "https://api.github.com/users/Jake3000/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Jake3000/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

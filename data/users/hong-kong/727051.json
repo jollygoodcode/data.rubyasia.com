@@ -1,0 +1,20 @@
+{
+  "login": "jamesjdeng",
+  "id": 727051,
+  "avatar_url": "https://avatars.githubusercontent.com/u/727051?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamesjdeng",
+  "html_url": "https://github.com/jamesjdeng",
+  "followers_url": "https://api.github.com/users/jamesjdeng/followers",
+  "following_url": "https://api.github.com/users/jamesjdeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamesjdeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamesjdeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamesjdeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamesjdeng/orgs",
+  "repos_url": "https://api.github.com/users/jamesjdeng/repos",
+  "events_url": "https://api.github.com/users/jamesjdeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamesjdeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "chocnut",
+  "id": 291424,
+  "avatar_url": "https://avatars.githubusercontent.com/u/291424?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chocnut",
+  "html_url": "https://github.com/chocnut",
+  "followers_url": "https://api.github.com/users/chocnut/followers",
+  "following_url": "https://api.github.com/users/chocnut/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chocnut/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chocnut/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chocnut/subscriptions",
+  "organizations_url": "https://api.github.com/users/chocnut/orgs",
+  "repos_url": "https://api.github.com/users/chocnut/repos",
+  "events_url": "https://api.github.com/users/chocnut/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chocnut/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

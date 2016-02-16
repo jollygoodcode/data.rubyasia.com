@@ -1,0 +1,20 @@
+{
+  "login": "maruguu",
+  "id": 78553,
+  "avatar_url": "https://avatars.githubusercontent.com/u/78553?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maruguu",
+  "html_url": "https://github.com/maruguu",
+  "followers_url": "https://api.github.com/users/maruguu/followers",
+  "following_url": "https://api.github.com/users/maruguu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maruguu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maruguu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maruguu/subscriptions",
+  "organizations_url": "https://api.github.com/users/maruguu/orgs",
+  "repos_url": "https://api.github.com/users/maruguu/repos",
+  "events_url": "https://api.github.com/users/maruguu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maruguu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

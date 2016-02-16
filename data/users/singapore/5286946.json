@@ -1,0 +1,20 @@
+{
+  "login": "ks-wong",
+  "id": 5286946,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5286946?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ks-wong",
+  "html_url": "https://github.com/ks-wong",
+  "followers_url": "https://api.github.com/users/ks-wong/followers",
+  "following_url": "https://api.github.com/users/ks-wong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ks-wong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ks-wong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ks-wong/subscriptions",
+  "organizations_url": "https://api.github.com/users/ks-wong/orgs",
+  "repos_url": "https://api.github.com/users/ks-wong/repos",
+  "events_url": "https://api.github.com/users/ks-wong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ks-wong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

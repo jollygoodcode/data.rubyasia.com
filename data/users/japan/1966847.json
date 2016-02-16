@@ -1,0 +1,20 @@
+{
+  "login": "nekoline",
+  "id": 1966847,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1966847?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nekoline",
+  "html_url": "https://github.com/nekoline",
+  "followers_url": "https://api.github.com/users/nekoline/followers",
+  "following_url": "https://api.github.com/users/nekoline/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nekoline/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nekoline/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nekoline/subscriptions",
+  "organizations_url": "https://api.github.com/users/nekoline/orgs",
+  "repos_url": "https://api.github.com/users/nekoline/repos",
+  "events_url": "https://api.github.com/users/nekoline/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nekoline/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

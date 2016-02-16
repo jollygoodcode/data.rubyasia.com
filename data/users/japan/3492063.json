@@ -1,0 +1,20 @@
+{
+  "login": "0tofu",
+  "id": 3492063,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3492063?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/0tofu",
+  "html_url": "https://github.com/0tofu",
+  "followers_url": "https://api.github.com/users/0tofu/followers",
+  "following_url": "https://api.github.com/users/0tofu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/0tofu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/0tofu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/0tofu/subscriptions",
+  "organizations_url": "https://api.github.com/users/0tofu/orgs",
+  "repos_url": "https://api.github.com/users/0tofu/repos",
+  "events_url": "https://api.github.com/users/0tofu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/0tofu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

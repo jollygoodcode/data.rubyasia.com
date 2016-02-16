@@ -1,0 +1,20 @@
+{
+  "login": "idnet",
+  "id": 1656239,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1656239?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idnet",
+  "html_url": "https://github.com/idnet",
+  "followers_url": "https://api.github.com/users/idnet/followers",
+  "following_url": "https://api.github.com/users/idnet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idnet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idnet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idnet/subscriptions",
+  "organizations_url": "https://api.github.com/users/idnet/orgs",
+  "repos_url": "https://api.github.com/users/idnet/repos",
+  "events_url": "https://api.github.com/users/idnet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idnet/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

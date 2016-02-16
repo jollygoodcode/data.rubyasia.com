@@ -1,0 +1,20 @@
+{
+  "login": "chucklin",
+  "id": 156649,
+  "avatar_url": "https://avatars.githubusercontent.com/u/156649?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chucklin",
+  "html_url": "https://github.com/chucklin",
+  "followers_url": "https://api.github.com/users/chucklin/followers",
+  "following_url": "https://api.github.com/users/chucklin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chucklin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chucklin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chucklin/subscriptions",
+  "organizations_url": "https://api.github.com/users/chucklin/orgs",
+  "repos_url": "https://api.github.com/users/chucklin/repos",
+  "events_url": "https://api.github.com/users/chucklin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chucklin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shimbaco",
+  "id": 56767,
+  "avatar_url": "https://avatars.githubusercontent.com/u/56767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shimbaco",
+  "html_url": "https://github.com/shimbaco",
+  "followers_url": "https://api.github.com/users/shimbaco/followers",
+  "following_url": "https://api.github.com/users/shimbaco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shimbaco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shimbaco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shimbaco/subscriptions",
+  "organizations_url": "https://api.github.com/users/shimbaco/orgs",
+  "repos_url": "https://api.github.com/users/shimbaco/repos",
+  "events_url": "https://api.github.com/users/shimbaco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shimbaco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

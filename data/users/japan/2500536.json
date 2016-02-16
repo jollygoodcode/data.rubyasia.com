@@ -1,0 +1,20 @@
+{
+  "login": "kanhigh",
+  "id": 2500536,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2500536?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kanhigh",
+  "html_url": "https://github.com/kanhigh",
+  "followers_url": "https://api.github.com/users/kanhigh/followers",
+  "following_url": "https://api.github.com/users/kanhigh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kanhigh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kanhigh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kanhigh/subscriptions",
+  "organizations_url": "https://api.github.com/users/kanhigh/orgs",
+  "repos_url": "https://api.github.com/users/kanhigh/repos",
+  "events_url": "https://api.github.com/users/kanhigh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kanhigh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

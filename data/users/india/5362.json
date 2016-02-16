@@ -1,0 +1,20 @@
+{
+  "login": "railsfactory",
+  "id": 5362,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5362?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/railsfactory",
+  "html_url": "https://github.com/railsfactory",
+  "followers_url": "https://api.github.com/users/railsfactory/followers",
+  "following_url": "https://api.github.com/users/railsfactory/following{/other_user}",
+  "gists_url": "https://api.github.com/users/railsfactory/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/railsfactory/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/railsfactory/subscriptions",
+  "organizations_url": "https://api.github.com/users/railsfactory/orgs",
+  "repos_url": "https://api.github.com/users/railsfactory/repos",
+  "events_url": "https://api.github.com/users/railsfactory/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/railsfactory/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

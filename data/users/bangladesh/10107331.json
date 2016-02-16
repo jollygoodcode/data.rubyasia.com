@@ -1,0 +1,20 @@
+{
+  "login": "omental",
+  "id": 10107331,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10107331?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/omental",
+  "html_url": "https://github.com/omental",
+  "followers_url": "https://api.github.com/users/omental/followers",
+  "following_url": "https://api.github.com/users/omental/following{/other_user}",
+  "gists_url": "https://api.github.com/users/omental/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/omental/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/omental/subscriptions",
+  "organizations_url": "https://api.github.com/users/omental/orgs",
+  "repos_url": "https://api.github.com/users/omental/repos",
+  "events_url": "https://api.github.com/users/omental/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/omental/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

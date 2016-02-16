@@ -1,0 +1,20 @@
+{
+  "login": "ishikawa",
+  "id": 18448,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18448?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ishikawa",
+  "html_url": "https://github.com/ishikawa",
+  "followers_url": "https://api.github.com/users/ishikawa/followers",
+  "following_url": "https://api.github.com/users/ishikawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ishikawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ishikawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ishikawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/ishikawa/orgs",
+  "repos_url": "https://api.github.com/users/ishikawa/repos",
+  "events_url": "https://api.github.com/users/ishikawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ishikawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

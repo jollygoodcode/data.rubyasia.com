@@ -1,0 +1,20 @@
+{
+  "login": "Darsein",
+  "id": 2177394,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2177394?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Darsein",
+  "html_url": "https://github.com/Darsein",
+  "followers_url": "https://api.github.com/users/Darsein/followers",
+  "following_url": "https://api.github.com/users/Darsein/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Darsein/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Darsein/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Darsein/subscriptions",
+  "organizations_url": "https://api.github.com/users/Darsein/orgs",
+  "repos_url": "https://api.github.com/users/Darsein/repos",
+  "events_url": "https://api.github.com/users/Darsein/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Darsein/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "thpham",
+  "id": 224674,
+  "avatar_url": "https://avatars.githubusercontent.com/u/224674?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thpham",
+  "html_url": "https://github.com/thpham",
+  "followers_url": "https://api.github.com/users/thpham/followers",
+  "following_url": "https://api.github.com/users/thpham/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thpham/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thpham/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thpham/subscriptions",
+  "organizations_url": "https://api.github.com/users/thpham/orgs",
+  "repos_url": "https://api.github.com/users/thpham/repos",
+  "events_url": "https://api.github.com/users/thpham/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thpham/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

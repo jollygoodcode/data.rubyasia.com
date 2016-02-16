@@ -1,0 +1,20 @@
+{
+  "login": "thxph",
+  "id": 121854,
+  "avatar_url": "https://avatars.githubusercontent.com/u/121854?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thxph",
+  "html_url": "https://github.com/thxph",
+  "followers_url": "https://api.github.com/users/thxph/followers",
+  "following_url": "https://api.github.com/users/thxph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thxph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thxph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thxph/subscriptions",
+  "organizations_url": "https://api.github.com/users/thxph/orgs",
+  "repos_url": "https://api.github.com/users/thxph/repos",
+  "events_url": "https://api.github.com/users/thxph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thxph/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

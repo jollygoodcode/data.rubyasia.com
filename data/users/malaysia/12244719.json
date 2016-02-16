@@ -1,0 +1,20 @@
+{
+  "login": "jeremyongws",
+  "id": 12244719,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12244719?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeremyongws",
+  "html_url": "https://github.com/jeremyongws",
+  "followers_url": "https://api.github.com/users/jeremyongws/followers",
+  "following_url": "https://api.github.com/users/jeremyongws/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeremyongws/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeremyongws/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeremyongws/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeremyongws/orgs",
+  "repos_url": "https://api.github.com/users/jeremyongws/repos",
+  "events_url": "https://api.github.com/users/jeremyongws/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeremyongws/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

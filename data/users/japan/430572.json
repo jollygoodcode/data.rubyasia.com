@@ -1,0 +1,20 @@
+{
+  "login": "tnoda",
+  "id": 430572,
+  "avatar_url": "https://avatars.githubusercontent.com/u/430572?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tnoda",
+  "html_url": "https://github.com/tnoda",
+  "followers_url": "https://api.github.com/users/tnoda/followers",
+  "following_url": "https://api.github.com/users/tnoda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tnoda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tnoda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tnoda/subscriptions",
+  "organizations_url": "https://api.github.com/users/tnoda/orgs",
+  "repos_url": "https://api.github.com/users/tnoda/repos",
+  "events_url": "https://api.github.com/users/tnoda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tnoda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

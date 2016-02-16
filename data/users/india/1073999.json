@@ -1,0 +1,20 @@
+{
+  "login": "sharkminds",
+  "id": 1073999,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1073999?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sharkminds",
+  "html_url": "https://github.com/sharkminds",
+  "followers_url": "https://api.github.com/users/sharkminds/followers",
+  "following_url": "https://api.github.com/users/sharkminds/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sharkminds/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sharkminds/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sharkminds/subscriptions",
+  "organizations_url": "https://api.github.com/users/sharkminds/orgs",
+  "repos_url": "https://api.github.com/users/sharkminds/repos",
+  "events_url": "https://api.github.com/users/sharkminds/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sharkminds/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

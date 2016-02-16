@@ -1,0 +1,20 @@
+{
+  "login": "mururu",
+  "id": 978649,
+  "avatar_url": "https://avatars.githubusercontent.com/u/978649?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mururu",
+  "html_url": "https://github.com/mururu",
+  "followers_url": "https://api.github.com/users/mururu/followers",
+  "following_url": "https://api.github.com/users/mururu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mururu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mururu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mururu/subscriptions",
+  "organizations_url": "https://api.github.com/users/mururu/orgs",
+  "repos_url": "https://api.github.com/users/mururu/repos",
+  "events_url": "https://api.github.com/users/mururu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mururu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

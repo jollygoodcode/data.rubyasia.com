@@ -1,0 +1,20 @@
+{
+  "login": "decazuk",
+  "id": 2127779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2127779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/decazuk",
+  "html_url": "https://github.com/decazuk",
+  "followers_url": "https://api.github.com/users/decazuk/followers",
+  "following_url": "https://api.github.com/users/decazuk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/decazuk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/decazuk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/decazuk/subscriptions",
+  "organizations_url": "https://api.github.com/users/decazuk/orgs",
+  "repos_url": "https://api.github.com/users/decazuk/repos",
+  "events_url": "https://api.github.com/users/decazuk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/decazuk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

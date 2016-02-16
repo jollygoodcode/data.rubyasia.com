@@ -1,0 +1,20 @@
+{
+  "login": "Tomohiro",
+  "id": 54254,
+  "avatar_url": "https://avatars.githubusercontent.com/u/54254?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Tomohiro",
+  "html_url": "https://github.com/Tomohiro",
+  "followers_url": "https://api.github.com/users/Tomohiro/followers",
+  "following_url": "https://api.github.com/users/Tomohiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Tomohiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Tomohiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Tomohiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/Tomohiro/orgs",
+  "repos_url": "https://api.github.com/users/Tomohiro/repos",
+  "events_url": "https://api.github.com/users/Tomohiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Tomohiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

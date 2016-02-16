@@ -1,0 +1,20 @@
+{
+  "login": "tdduong",
+  "id": 2003948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2003948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tdduong",
+  "html_url": "https://github.com/tdduong",
+  "followers_url": "https://api.github.com/users/tdduong/followers",
+  "following_url": "https://api.github.com/users/tdduong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tdduong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tdduong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tdduong/subscriptions",
+  "organizations_url": "https://api.github.com/users/tdduong/orgs",
+  "repos_url": "https://api.github.com/users/tdduong/repos",
+  "events_url": "https://api.github.com/users/tdduong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tdduong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

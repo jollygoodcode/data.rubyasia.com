@@ -1,0 +1,20 @@
+{
+  "login": "takkaw",
+  "id": 10617,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10617?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takkaw",
+  "html_url": "https://github.com/takkaw",
+  "followers_url": "https://api.github.com/users/takkaw/followers",
+  "following_url": "https://api.github.com/users/takkaw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takkaw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takkaw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takkaw/subscriptions",
+  "organizations_url": "https://api.github.com/users/takkaw/orgs",
+  "repos_url": "https://api.github.com/users/takkaw/repos",
+  "events_url": "https://api.github.com/users/takkaw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takkaw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

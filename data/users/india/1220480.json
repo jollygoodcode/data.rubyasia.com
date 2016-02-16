@@ -1,0 +1,20 @@
+{
+  "login": "steverob",
+  "id": 1220480,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1220480?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/steverob",
+  "html_url": "https://github.com/steverob",
+  "followers_url": "https://api.github.com/users/steverob/followers",
+  "following_url": "https://api.github.com/users/steverob/following{/other_user}",
+  "gists_url": "https://api.github.com/users/steverob/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/steverob/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/steverob/subscriptions",
+  "organizations_url": "https://api.github.com/users/steverob/orgs",
+  "repos_url": "https://api.github.com/users/steverob/repos",
+  "events_url": "https://api.github.com/users/steverob/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/steverob/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

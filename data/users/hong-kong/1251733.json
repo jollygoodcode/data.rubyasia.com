@@ -1,0 +1,20 @@
+{
+  "login": "charisrooda",
+  "id": 1251733,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1251733?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/charisrooda",
+  "html_url": "https://github.com/charisrooda",
+  "followers_url": "https://api.github.com/users/charisrooda/followers",
+  "following_url": "https://api.github.com/users/charisrooda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/charisrooda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/charisrooda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/charisrooda/subscriptions",
+  "organizations_url": "https://api.github.com/users/charisrooda/orgs",
+  "repos_url": "https://api.github.com/users/charisrooda/repos",
+  "events_url": "https://api.github.com/users/charisrooda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/charisrooda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

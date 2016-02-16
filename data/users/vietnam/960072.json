@@ -1,0 +1,20 @@
+{
+  "login": "quyetdc",
+  "id": 960072,
+  "avatar_url": "https://avatars.githubusercontent.com/u/960072?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/quyetdc",
+  "html_url": "https://github.com/quyetdc",
+  "followers_url": "https://api.github.com/users/quyetdc/followers",
+  "following_url": "https://api.github.com/users/quyetdc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/quyetdc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/quyetdc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/quyetdc/subscriptions",
+  "organizations_url": "https://api.github.com/users/quyetdc/orgs",
+  "repos_url": "https://api.github.com/users/quyetdc/repos",
+  "events_url": "https://api.github.com/users/quyetdc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/quyetdc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

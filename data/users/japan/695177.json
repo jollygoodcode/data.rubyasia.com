@@ -1,0 +1,20 @@
+{
+  "login": "tetuyoko",
+  "id": 695177,
+  "avatar_url": "https://avatars.githubusercontent.com/u/695177?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tetuyoko",
+  "html_url": "https://github.com/tetuyoko",
+  "followers_url": "https://api.github.com/users/tetuyoko/followers",
+  "following_url": "https://api.github.com/users/tetuyoko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tetuyoko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tetuyoko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tetuyoko/subscriptions",
+  "organizations_url": "https://api.github.com/users/tetuyoko/orgs",
+  "repos_url": "https://api.github.com/users/tetuyoko/repos",
+  "events_url": "https://api.github.com/users/tetuyoko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tetuyoko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

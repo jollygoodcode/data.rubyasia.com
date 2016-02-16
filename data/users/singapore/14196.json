@@ -1,0 +1,20 @@
+{
+  "login": "coffeeworks",
+  "id": 14196,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14196?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coffeeworks",
+  "html_url": "https://github.com/coffeeworks",
+  "followers_url": "https://api.github.com/users/coffeeworks/followers",
+  "following_url": "https://api.github.com/users/coffeeworks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coffeeworks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coffeeworks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coffeeworks/subscriptions",
+  "organizations_url": "https://api.github.com/users/coffeeworks/orgs",
+  "repos_url": "https://api.github.com/users/coffeeworks/repos",
+  "events_url": "https://api.github.com/users/coffeeworks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coffeeworks/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

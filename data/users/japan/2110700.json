@@ -1,0 +1,20 @@
+{
+  "login": "pocake",
+  "id": 2110700,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2110700?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pocake",
+  "html_url": "https://github.com/pocake",
+  "followers_url": "https://api.github.com/users/pocake/followers",
+  "following_url": "https://api.github.com/users/pocake/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pocake/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pocake/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pocake/subscriptions",
+  "organizations_url": "https://api.github.com/users/pocake/orgs",
+  "repos_url": "https://api.github.com/users/pocake/repos",
+  "events_url": "https://api.github.com/users/pocake/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pocake/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

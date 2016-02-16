@@ -1,0 +1,20 @@
+{
+  "login": "vesta",
+  "id": 41577,
+  "avatar_url": "https://avatars.githubusercontent.com/u/41577?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vesta",
+  "html_url": "https://github.com/vesta",
+  "followers_url": "https://api.github.com/users/vesta/followers",
+  "following_url": "https://api.github.com/users/vesta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vesta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vesta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vesta/subscriptions",
+  "organizations_url": "https://api.github.com/users/vesta/orgs",
+  "repos_url": "https://api.github.com/users/vesta/repos",
+  "events_url": "https://api.github.com/users/vesta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vesta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "talvinder",
+  "id": 6104304,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6104304?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/talvinder",
+  "html_url": "https://github.com/talvinder",
+  "followers_url": "https://api.github.com/users/talvinder/followers",
+  "following_url": "https://api.github.com/users/talvinder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/talvinder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/talvinder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/talvinder/subscriptions",
+  "organizations_url": "https://api.github.com/users/talvinder/orgs",
+  "repos_url": "https://api.github.com/users/talvinder/repos",
+  "events_url": "https://api.github.com/users/talvinder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/talvinder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "SpaceComby",
+  "id": 5591671,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5591671?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SpaceComby",
+  "html_url": "https://github.com/SpaceComby",
+  "followers_url": "https://api.github.com/users/SpaceComby/followers",
+  "following_url": "https://api.github.com/users/SpaceComby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SpaceComby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SpaceComby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SpaceComby/subscriptions",
+  "organizations_url": "https://api.github.com/users/SpaceComby/orgs",
+  "repos_url": "https://api.github.com/users/SpaceComby/repos",
+  "events_url": "https://api.github.com/users/SpaceComby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SpaceComby/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yaowuping",
+  "id": 2929009,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2929009?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yaowuping",
+  "html_url": "https://github.com/yaowuping",
+  "followers_url": "https://api.github.com/users/yaowuping/followers",
+  "following_url": "https://api.github.com/users/yaowuping/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yaowuping/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yaowuping/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yaowuping/subscriptions",
+  "organizations_url": "https://api.github.com/users/yaowuping/orgs",
+  "repos_url": "https://api.github.com/users/yaowuping/repos",
+  "events_url": "https://api.github.com/users/yaowuping/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yaowuping/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

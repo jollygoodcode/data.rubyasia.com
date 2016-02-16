@@ -1,0 +1,20 @@
+{
+  "login": "gssk",
+  "id": 1187754,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1187754?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gssk",
+  "html_url": "https://github.com/gssk",
+  "followers_url": "https://api.github.com/users/gssk/followers",
+  "following_url": "https://api.github.com/users/gssk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gssk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gssk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gssk/subscriptions",
+  "organizations_url": "https://api.github.com/users/gssk/orgs",
+  "repos_url": "https://api.github.com/users/gssk/repos",
+  "events_url": "https://api.github.com/users/gssk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gssk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

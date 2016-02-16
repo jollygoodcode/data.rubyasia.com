@@ -1,0 +1,20 @@
+{
+  "login": "kcheart",
+  "id": 3488640,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3488640?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kcheart",
+  "html_url": "https://github.com/kcheart",
+  "followers_url": "https://api.github.com/users/kcheart/followers",
+  "following_url": "https://api.github.com/users/kcheart/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kcheart/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kcheart/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kcheart/subscriptions",
+  "organizations_url": "https://api.github.com/users/kcheart/orgs",
+  "repos_url": "https://api.github.com/users/kcheart/repos",
+  "events_url": "https://api.github.com/users/kcheart/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kcheart/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

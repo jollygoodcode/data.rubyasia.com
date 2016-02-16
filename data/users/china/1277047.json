@@ -1,0 +1,20 @@
+{
+  "login": "dfang",
+  "id": 1277047,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1277047?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dfang",
+  "html_url": "https://github.com/dfang",
+  "followers_url": "https://api.github.com/users/dfang/followers",
+  "following_url": "https://api.github.com/users/dfang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dfang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dfang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dfang/subscriptions",
+  "organizations_url": "https://api.github.com/users/dfang/orgs",
+  "repos_url": "https://api.github.com/users/dfang/repos",
+  "events_url": "https://api.github.com/users/dfang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dfang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

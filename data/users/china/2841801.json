@@ -1,0 +1,20 @@
+{
+  "login": "kim4apple",
+  "id": 2841801,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2841801?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kim4apple",
+  "html_url": "https://github.com/kim4apple",
+  "followers_url": "https://api.github.com/users/kim4apple/followers",
+  "following_url": "https://api.github.com/users/kim4apple/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kim4apple/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kim4apple/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kim4apple/subscriptions",
+  "organizations_url": "https://api.github.com/users/kim4apple/orgs",
+  "repos_url": "https://api.github.com/users/kim4apple/repos",
+  "events_url": "https://api.github.com/users/kim4apple/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kim4apple/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wari",
+  "id": 525422,
+  "avatar_url": "https://avatars.githubusercontent.com/u/525422?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wari",
+  "html_url": "https://github.com/wari",
+  "followers_url": "https://api.github.com/users/wari/followers",
+  "following_url": "https://api.github.com/users/wari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wari/subscriptions",
+  "organizations_url": "https://api.github.com/users/wari/orgs",
+  "repos_url": "https://api.github.com/users/wari/repos",
+  "events_url": "https://api.github.com/users/wari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

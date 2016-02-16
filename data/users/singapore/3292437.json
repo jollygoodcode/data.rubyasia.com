@@ -1,0 +1,20 @@
+{
+  "login": "Duckchief",
+  "id": 3292437,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3292437?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Duckchief",
+  "html_url": "https://github.com/Duckchief",
+  "followers_url": "https://api.github.com/users/Duckchief/followers",
+  "following_url": "https://api.github.com/users/Duckchief/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Duckchief/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Duckchief/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Duckchief/subscriptions",
+  "organizations_url": "https://api.github.com/users/Duckchief/orgs",
+  "repos_url": "https://api.github.com/users/Duckchief/repos",
+  "events_url": "https://api.github.com/users/Duckchief/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Duckchief/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

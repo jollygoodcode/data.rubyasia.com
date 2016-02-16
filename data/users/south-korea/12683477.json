@@ -1,0 +1,20 @@
+{
+  "login": "machinahub",
+  "id": 12683477,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12683477?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/machinahub",
+  "html_url": "https://github.com/machinahub",
+  "followers_url": "https://api.github.com/users/machinahub/followers",
+  "following_url": "https://api.github.com/users/machinahub/following{/other_user}",
+  "gists_url": "https://api.github.com/users/machinahub/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/machinahub/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/machinahub/subscriptions",
+  "organizations_url": "https://api.github.com/users/machinahub/orgs",
+  "repos_url": "https://api.github.com/users/machinahub/repos",
+  "events_url": "https://api.github.com/users/machinahub/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/machinahub/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

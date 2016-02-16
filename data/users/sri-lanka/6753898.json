@@ -1,0 +1,20 @@
+{
+  "login": "helmlogic",
+  "id": 6753898,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6753898?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/helmlogic",
+  "html_url": "https://github.com/helmlogic",
+  "followers_url": "https://api.github.com/users/helmlogic/followers",
+  "following_url": "https://api.github.com/users/helmlogic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/helmlogic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/helmlogic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/helmlogic/subscriptions",
+  "organizations_url": "https://api.github.com/users/helmlogic/orgs",
+  "repos_url": "https://api.github.com/users/helmlogic/repos",
+  "events_url": "https://api.github.com/users/helmlogic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/helmlogic/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

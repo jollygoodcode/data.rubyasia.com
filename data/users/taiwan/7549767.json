@@ -1,0 +1,20 @@
+{
+  "login": "tfliao",
+  "id": 7549767,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7549767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tfliao",
+  "html_url": "https://github.com/tfliao",
+  "followers_url": "https://api.github.com/users/tfliao/followers",
+  "following_url": "https://api.github.com/users/tfliao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tfliao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tfliao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tfliao/subscriptions",
+  "organizations_url": "https://api.github.com/users/tfliao/orgs",
+  "repos_url": "https://api.github.com/users/tfliao/repos",
+  "events_url": "https://api.github.com/users/tfliao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tfliao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

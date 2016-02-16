@@ -1,0 +1,20 @@
+{
+  "login": "yorzi",
+  "id": 38976,
+  "avatar_url": "https://avatars.githubusercontent.com/u/38976?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yorzi",
+  "html_url": "https://github.com/yorzi",
+  "followers_url": "https://api.github.com/users/yorzi/followers",
+  "following_url": "https://api.github.com/users/yorzi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yorzi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yorzi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yorzi/subscriptions",
+  "organizations_url": "https://api.github.com/users/yorzi/orgs",
+  "repos_url": "https://api.github.com/users/yorzi/repos",
+  "events_url": "https://api.github.com/users/yorzi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yorzi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

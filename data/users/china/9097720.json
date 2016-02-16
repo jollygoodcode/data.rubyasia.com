@@ -1,0 +1,20 @@
+{
+  "login": "Newstrife",
+  "id": 9097720,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9097720?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Newstrife",
+  "html_url": "https://github.com/Newstrife",
+  "followers_url": "https://api.github.com/users/Newstrife/followers",
+  "following_url": "https://api.github.com/users/Newstrife/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Newstrife/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Newstrife/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Newstrife/subscriptions",
+  "organizations_url": "https://api.github.com/users/Newstrife/orgs",
+  "repos_url": "https://api.github.com/users/Newstrife/repos",
+  "events_url": "https://api.github.com/users/Newstrife/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Newstrife/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

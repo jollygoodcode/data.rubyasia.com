@@ -1,0 +1,20 @@
+{
+  "login": "zlood",
+  "id": 4172290,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4172290?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zlood",
+  "html_url": "https://github.com/zlood",
+  "followers_url": "https://api.github.com/users/zlood/followers",
+  "following_url": "https://api.github.com/users/zlood/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zlood/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zlood/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zlood/subscriptions",
+  "organizations_url": "https://api.github.com/users/zlood/orgs",
+  "repos_url": "https://api.github.com/users/zlood/repos",
+  "events_url": "https://api.github.com/users/zlood/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zlood/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

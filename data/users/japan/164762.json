@@ -1,0 +1,20 @@
+{
+  "login": "kenic",
+  "id": 164762,
+  "avatar_url": "https://avatars.githubusercontent.com/u/164762?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kenic",
+  "html_url": "https://github.com/kenic",
+  "followers_url": "https://api.github.com/users/kenic/followers",
+  "following_url": "https://api.github.com/users/kenic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kenic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kenic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kenic/subscriptions",
+  "organizations_url": "https://api.github.com/users/kenic/orgs",
+  "repos_url": "https://api.github.com/users/kenic/repos",
+  "events_url": "https://api.github.com/users/kenic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kenic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

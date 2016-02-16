@@ -1,0 +1,20 @@
+{
+  "login": "kewin",
+  "id": 84502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/84502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kewin",
+  "html_url": "https://github.com/kewin",
+  "followers_url": "https://api.github.com/users/kewin/followers",
+  "following_url": "https://api.github.com/users/kewin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kewin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kewin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kewin/subscriptions",
+  "organizations_url": "https://api.github.com/users/kewin/orgs",
+  "repos_url": "https://api.github.com/users/kewin/repos",
+  "events_url": "https://api.github.com/users/kewin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kewin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

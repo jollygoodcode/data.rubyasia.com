@@ -1,0 +1,20 @@
+{
+  "login": "lefkorkoro",
+  "id": 1422309,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1422309?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lefkorkoro",
+  "html_url": "https://github.com/lefkorkoro",
+  "followers_url": "https://api.github.com/users/lefkorkoro/followers",
+  "following_url": "https://api.github.com/users/lefkorkoro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lefkorkoro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lefkorkoro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lefkorkoro/subscriptions",
+  "organizations_url": "https://api.github.com/users/lefkorkoro/orgs",
+  "repos_url": "https://api.github.com/users/lefkorkoro/repos",
+  "events_url": "https://api.github.com/users/lefkorkoro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lefkorkoro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

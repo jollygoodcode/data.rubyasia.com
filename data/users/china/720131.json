@@ -1,0 +1,20 @@
+{
+  "login": "Lingling",
+  "id": 720131,
+  "avatar_url": "https://avatars.githubusercontent.com/u/720131?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Lingling",
+  "html_url": "https://github.com/Lingling",
+  "followers_url": "https://api.github.com/users/Lingling/followers",
+  "following_url": "https://api.github.com/users/Lingling/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Lingling/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Lingling/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Lingling/subscriptions",
+  "organizations_url": "https://api.github.com/users/Lingling/orgs",
+  "repos_url": "https://api.github.com/users/Lingling/repos",
+  "events_url": "https://api.github.com/users/Lingling/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Lingling/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

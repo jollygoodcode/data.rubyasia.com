@@ -1,0 +1,20 @@
+{
+  "login": "anoopl",
+  "id": 88874,
+  "avatar_url": "https://avatars.githubusercontent.com/u/88874?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anoopl",
+  "html_url": "https://github.com/anoopl",
+  "followers_url": "https://api.github.com/users/anoopl/followers",
+  "following_url": "https://api.github.com/users/anoopl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anoopl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anoopl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anoopl/subscriptions",
+  "organizations_url": "https://api.github.com/users/anoopl/orgs",
+  "repos_url": "https://api.github.com/users/anoopl/repos",
+  "events_url": "https://api.github.com/users/anoopl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anoopl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

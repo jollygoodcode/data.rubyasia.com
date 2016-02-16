@@ -1,0 +1,20 @@
+{
+  "login": "ckrad",
+  "id": 4309830,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4309830?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ckrad",
+  "html_url": "https://github.com/ckrad",
+  "followers_url": "https://api.github.com/users/ckrad/followers",
+  "following_url": "https://api.github.com/users/ckrad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ckrad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ckrad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ckrad/subscriptions",
+  "organizations_url": "https://api.github.com/users/ckrad/orgs",
+  "repos_url": "https://api.github.com/users/ckrad/repos",
+  "events_url": "https://api.github.com/users/ckrad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ckrad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

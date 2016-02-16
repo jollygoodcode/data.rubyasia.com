@@ -1,0 +1,20 @@
+{
+  "login": "kathe-jing",
+  "id": 7789201,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7789201?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kathe-jing",
+  "html_url": "https://github.com/kathe-jing",
+  "followers_url": "https://api.github.com/users/kathe-jing/followers",
+  "following_url": "https://api.github.com/users/kathe-jing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kathe-jing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kathe-jing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kathe-jing/subscriptions",
+  "organizations_url": "https://api.github.com/users/kathe-jing/orgs",
+  "repos_url": "https://api.github.com/users/kathe-jing/repos",
+  "events_url": "https://api.github.com/users/kathe-jing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kathe-jing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

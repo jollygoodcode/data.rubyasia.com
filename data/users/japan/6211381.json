@@ -1,0 +1,20 @@
+{
+  "login": "tabikobo",
+  "id": 6211381,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6211381?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tabikobo",
+  "html_url": "https://github.com/tabikobo",
+  "followers_url": "https://api.github.com/users/tabikobo/followers",
+  "following_url": "https://api.github.com/users/tabikobo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tabikobo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tabikobo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tabikobo/subscriptions",
+  "organizations_url": "https://api.github.com/users/tabikobo/orgs",
+  "repos_url": "https://api.github.com/users/tabikobo/repos",
+  "events_url": "https://api.github.com/users/tabikobo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tabikobo/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

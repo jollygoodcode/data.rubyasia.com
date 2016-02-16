@@ -1,0 +1,20 @@
+{
+  "login": "jeromep",
+  "id": 705872,
+  "avatar_url": "https://avatars.githubusercontent.com/u/705872?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeromep",
+  "html_url": "https://github.com/jeromep",
+  "followers_url": "https://api.github.com/users/jeromep/followers",
+  "following_url": "https://api.github.com/users/jeromep/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeromep/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeromep/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeromep/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeromep/orgs",
+  "repos_url": "https://api.github.com/users/jeromep/repos",
+  "events_url": "https://api.github.com/users/jeromep/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeromep/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "JeskTop",
+  "id": 1229979,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1229979?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JeskTop",
+  "html_url": "https://github.com/JeskTop",
+  "followers_url": "https://api.github.com/users/JeskTop/followers",
+  "following_url": "https://api.github.com/users/JeskTop/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JeskTop/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JeskTop/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JeskTop/subscriptions",
+  "organizations_url": "https://api.github.com/users/JeskTop/orgs",
+  "repos_url": "https://api.github.com/users/JeskTop/repos",
+  "events_url": "https://api.github.com/users/JeskTop/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JeskTop/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

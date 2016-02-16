@@ -1,0 +1,20 @@
+{
+  "login": "makemymails",
+  "id": 6205731,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6205731?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/makemymails",
+  "html_url": "https://github.com/makemymails",
+  "followers_url": "https://api.github.com/users/makemymails/followers",
+  "following_url": "https://api.github.com/users/makemymails/following{/other_user}",
+  "gists_url": "https://api.github.com/users/makemymails/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/makemymails/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/makemymails/subscriptions",
+  "organizations_url": "https://api.github.com/users/makemymails/orgs",
+  "repos_url": "https://api.github.com/users/makemymails/repos",
+  "events_url": "https://api.github.com/users/makemymails/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/makemymails/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

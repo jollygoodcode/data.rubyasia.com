@@ -1,0 +1,20 @@
+{
+  "login": "nabeta",
+  "id": 11428,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11428?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nabeta",
+  "html_url": "https://github.com/nabeta",
+  "followers_url": "https://api.github.com/users/nabeta/followers",
+  "following_url": "https://api.github.com/users/nabeta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nabeta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nabeta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nabeta/subscriptions",
+  "organizations_url": "https://api.github.com/users/nabeta/orgs",
+  "repos_url": "https://api.github.com/users/nabeta/repos",
+  "events_url": "https://api.github.com/users/nabeta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nabeta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

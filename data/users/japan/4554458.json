@@ -1,0 +1,20 @@
+{
+  "login": "hshimo",
+  "id": 4554458,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4554458?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hshimo",
+  "html_url": "https://github.com/hshimo",
+  "followers_url": "https://api.github.com/users/hshimo/followers",
+  "following_url": "https://api.github.com/users/hshimo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hshimo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hshimo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hshimo/subscriptions",
+  "organizations_url": "https://api.github.com/users/hshimo/orgs",
+  "repos_url": "https://api.github.com/users/hshimo/repos",
+  "events_url": "https://api.github.com/users/hshimo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hshimo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

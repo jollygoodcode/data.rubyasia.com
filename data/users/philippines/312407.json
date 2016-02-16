@@ -1,0 +1,20 @@
+{
+  "login": "sbalani",
+  "id": 312407,
+  "avatar_url": "https://avatars.githubusercontent.com/u/312407?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sbalani",
+  "html_url": "https://github.com/sbalani",
+  "followers_url": "https://api.github.com/users/sbalani/followers",
+  "following_url": "https://api.github.com/users/sbalani/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sbalani/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sbalani/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sbalani/subscriptions",
+  "organizations_url": "https://api.github.com/users/sbalani/orgs",
+  "repos_url": "https://api.github.com/users/sbalani/repos",
+  "events_url": "https://api.github.com/users/sbalani/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sbalani/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "syhan",
+  "id": 82010,
+  "avatar_url": "https://avatars.githubusercontent.com/u/82010?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/syhan",
+  "html_url": "https://github.com/syhan",
+  "followers_url": "https://api.github.com/users/syhan/followers",
+  "following_url": "https://api.github.com/users/syhan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/syhan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/syhan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/syhan/subscriptions",
+  "organizations_url": "https://api.github.com/users/syhan/orgs",
+  "repos_url": "https://api.github.com/users/syhan/repos",
+  "events_url": "https://api.github.com/users/syhan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/syhan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

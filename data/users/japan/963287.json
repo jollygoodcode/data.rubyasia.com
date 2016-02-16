@@ -1,0 +1,20 @@
+{
+  "login": "daigorowhite",
+  "id": 963287,
+  "avatar_url": "https://avatars.githubusercontent.com/u/963287?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daigorowhite",
+  "html_url": "https://github.com/daigorowhite",
+  "followers_url": "https://api.github.com/users/daigorowhite/followers",
+  "following_url": "https://api.github.com/users/daigorowhite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daigorowhite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daigorowhite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daigorowhite/subscriptions",
+  "organizations_url": "https://api.github.com/users/daigorowhite/orgs",
+  "repos_url": "https://api.github.com/users/daigorowhite/repos",
+  "events_url": "https://api.github.com/users/daigorowhite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daigorowhite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

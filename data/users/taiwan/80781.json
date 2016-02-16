@@ -1,0 +1,20 @@
+{
+  "login": "dannvix",
+  "id": 80781,
+  "avatar_url": "https://avatars.githubusercontent.com/u/80781?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dannvix",
+  "html_url": "https://github.com/dannvix",
+  "followers_url": "https://api.github.com/users/dannvix/followers",
+  "following_url": "https://api.github.com/users/dannvix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dannvix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dannvix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dannvix/subscriptions",
+  "organizations_url": "https://api.github.com/users/dannvix/orgs",
+  "repos_url": "https://api.github.com/users/dannvix/repos",
+  "events_url": "https://api.github.com/users/dannvix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dannvix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

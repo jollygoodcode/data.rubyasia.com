@@ -1,0 +1,20 @@
+{
+  "login": "daolm",
+  "id": 5584809,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5584809?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daolm",
+  "html_url": "https://github.com/daolm",
+  "followers_url": "https://api.github.com/users/daolm/followers",
+  "following_url": "https://api.github.com/users/daolm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daolm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daolm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daolm/subscriptions",
+  "organizations_url": "https://api.github.com/users/daolm/orgs",
+  "repos_url": "https://api.github.com/users/daolm/repos",
+  "events_url": "https://api.github.com/users/daolm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daolm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

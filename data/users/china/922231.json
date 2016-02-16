@@ -1,0 +1,20 @@
+{
+  "login": "flyfire",
+  "id": 922231,
+  "avatar_url": "https://avatars.githubusercontent.com/u/922231?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flyfire",
+  "html_url": "https://github.com/flyfire",
+  "followers_url": "https://api.github.com/users/flyfire/followers",
+  "following_url": "https://api.github.com/users/flyfire/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flyfire/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flyfire/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flyfire/subscriptions",
+  "organizations_url": "https://api.github.com/users/flyfire/orgs",
+  "repos_url": "https://api.github.com/users/flyfire/repos",
+  "events_url": "https://api.github.com/users/flyfire/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flyfire/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

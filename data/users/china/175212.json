@@ -1,0 +1,20 @@
+{
+  "login": "dohkoos",
+  "id": 175212,
+  "avatar_url": "https://avatars.githubusercontent.com/u/175212?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dohkoos",
+  "html_url": "https://github.com/dohkoos",
+  "followers_url": "https://api.github.com/users/dohkoos/followers",
+  "following_url": "https://api.github.com/users/dohkoos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dohkoos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dohkoos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dohkoos/subscriptions",
+  "organizations_url": "https://api.github.com/users/dohkoos/orgs",
+  "repos_url": "https://api.github.com/users/dohkoos/repos",
+  "events_url": "https://api.github.com/users/dohkoos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dohkoos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

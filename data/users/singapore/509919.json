@@ -1,0 +1,20 @@
+{
+  "login": "basvodde",
+  "id": 509919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/509919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/basvodde",
+  "html_url": "https://github.com/basvodde",
+  "followers_url": "https://api.github.com/users/basvodde/followers",
+  "following_url": "https://api.github.com/users/basvodde/following{/other_user}",
+  "gists_url": "https://api.github.com/users/basvodde/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/basvodde/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/basvodde/subscriptions",
+  "organizations_url": "https://api.github.com/users/basvodde/orgs",
+  "repos_url": "https://api.github.com/users/basvodde/repos",
+  "events_url": "https://api.github.com/users/basvodde/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/basvodde/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

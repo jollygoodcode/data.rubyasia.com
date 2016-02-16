@@ -1,0 +1,20 @@
+{
+  "login": "hirataya",
+  "id": 1040578,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1040578?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hirataya",
+  "html_url": "https://github.com/hirataya",
+  "followers_url": "https://api.github.com/users/hirataya/followers",
+  "following_url": "https://api.github.com/users/hirataya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hirataya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hirataya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hirataya/subscriptions",
+  "organizations_url": "https://api.github.com/users/hirataya/orgs",
+  "repos_url": "https://api.github.com/users/hirataya/repos",
+  "events_url": "https://api.github.com/users/hirataya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hirataya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

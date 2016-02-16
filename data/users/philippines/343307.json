@@ -1,0 +1,20 @@
+{
+  "login": "chrisolido",
+  "id": 343307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/343307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chrisolido",
+  "html_url": "https://github.com/chrisolido",
+  "followers_url": "https://api.github.com/users/chrisolido/followers",
+  "following_url": "https://api.github.com/users/chrisolido/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chrisolido/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chrisolido/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chrisolido/subscriptions",
+  "organizations_url": "https://api.github.com/users/chrisolido/orgs",
+  "repos_url": "https://api.github.com/users/chrisolido/repos",
+  "events_url": "https://api.github.com/users/chrisolido/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chrisolido/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

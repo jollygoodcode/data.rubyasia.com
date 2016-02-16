@@ -1,0 +1,20 @@
+{
+  "login": "ntkm",
+  "id": 12553419,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12553419?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ntkm",
+  "html_url": "https://github.com/ntkm",
+  "followers_url": "https://api.github.com/users/ntkm/followers",
+  "following_url": "https://api.github.com/users/ntkm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ntkm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ntkm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ntkm/subscriptions",
+  "organizations_url": "https://api.github.com/users/ntkm/orgs",
+  "repos_url": "https://api.github.com/users/ntkm/repos",
+  "events_url": "https://api.github.com/users/ntkm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ntkm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

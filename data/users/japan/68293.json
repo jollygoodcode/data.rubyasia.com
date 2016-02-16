@@ -1,0 +1,20 @@
+{
+  "login": "hirokazu",
+  "id": 68293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hirokazu",
+  "html_url": "https://github.com/hirokazu",
+  "followers_url": "https://api.github.com/users/hirokazu/followers",
+  "following_url": "https://api.github.com/users/hirokazu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hirokazu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hirokazu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hirokazu/subscriptions",
+  "organizations_url": "https://api.github.com/users/hirokazu/orgs",
+  "repos_url": "https://api.github.com/users/hirokazu/repos",
+  "events_url": "https://api.github.com/users/hirokazu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hirokazu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

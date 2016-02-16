@@ -1,0 +1,20 @@
+{
+  "login": "zillou",
+  "id": 1198528,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1198528?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zillou",
+  "html_url": "https://github.com/zillou",
+  "followers_url": "https://api.github.com/users/zillou/followers",
+  "following_url": "https://api.github.com/users/zillou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zillou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zillou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zillou/subscriptions",
+  "organizations_url": "https://api.github.com/users/zillou/orgs",
+  "repos_url": "https://api.github.com/users/zillou/repos",
+  "events_url": "https://api.github.com/users/zillou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zillou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

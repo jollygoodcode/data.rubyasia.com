@@ -1,0 +1,20 @@
+{
+  "login": "5fpro",
+  "id": 1500106,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1500106?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/5fpro",
+  "html_url": "https://github.com/5fpro",
+  "followers_url": "https://api.github.com/users/5fpro/followers",
+  "following_url": "https://api.github.com/users/5fpro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/5fpro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/5fpro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/5fpro/subscriptions",
+  "organizations_url": "https://api.github.com/users/5fpro/orgs",
+  "repos_url": "https://api.github.com/users/5fpro/repos",
+  "events_url": "https://api.github.com/users/5fpro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/5fpro/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

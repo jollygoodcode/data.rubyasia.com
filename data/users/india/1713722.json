@@ -1,0 +1,20 @@
+{
+  "login": "enygmatic",
+  "id": 1713722,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1713722?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/enygmatic",
+  "html_url": "https://github.com/enygmatic",
+  "followers_url": "https://api.github.com/users/enygmatic/followers",
+  "following_url": "https://api.github.com/users/enygmatic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/enygmatic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/enygmatic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/enygmatic/subscriptions",
+  "organizations_url": "https://api.github.com/users/enygmatic/orgs",
+  "repos_url": "https://api.github.com/users/enygmatic/repos",
+  "events_url": "https://api.github.com/users/enygmatic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/enygmatic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

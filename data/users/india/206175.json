@@ -1,0 +1,20 @@
+{
+  "login": "mindaslab",
+  "id": 206175,
+  "avatar_url": "https://avatars.githubusercontent.com/u/206175?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mindaslab",
+  "html_url": "https://github.com/mindaslab",
+  "followers_url": "https://api.github.com/users/mindaslab/followers",
+  "following_url": "https://api.github.com/users/mindaslab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mindaslab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mindaslab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mindaslab/subscriptions",
+  "organizations_url": "https://api.github.com/users/mindaslab/orgs",
+  "repos_url": "https://api.github.com/users/mindaslab/repos",
+  "events_url": "https://api.github.com/users/mindaslab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mindaslab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

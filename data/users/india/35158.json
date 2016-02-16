@@ -1,0 +1,20 @@
+{
+  "login": "vagmi",
+  "id": 35158,
+  "avatar_url": "https://avatars.githubusercontent.com/u/35158?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vagmi",
+  "html_url": "https://github.com/vagmi",
+  "followers_url": "https://api.github.com/users/vagmi/followers",
+  "following_url": "https://api.github.com/users/vagmi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vagmi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vagmi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vagmi/subscriptions",
+  "organizations_url": "https://api.github.com/users/vagmi/orgs",
+  "repos_url": "https://api.github.com/users/vagmi/repos",
+  "events_url": "https://api.github.com/users/vagmi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vagmi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

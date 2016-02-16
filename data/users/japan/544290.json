@@ -1,0 +1,20 @@
+{
+  "login": "kaznum",
+  "id": 544290,
+  "avatar_url": "https://avatars.githubusercontent.com/u/544290?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaznum",
+  "html_url": "https://github.com/kaznum",
+  "followers_url": "https://api.github.com/users/kaznum/followers",
+  "following_url": "https://api.github.com/users/kaznum/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaznum/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaznum/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaznum/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaznum/orgs",
+  "repos_url": "https://api.github.com/users/kaznum/repos",
+  "events_url": "https://api.github.com/users/kaznum/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaznum/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

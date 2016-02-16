@@ -1,0 +1,20 @@
+{
+  "login": "frtts",
+  "id": 888653,
+  "avatar_url": "https://avatars.githubusercontent.com/u/888653?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/frtts",
+  "html_url": "https://github.com/frtts",
+  "followers_url": "https://api.github.com/users/frtts/followers",
+  "following_url": "https://api.github.com/users/frtts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/frtts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/frtts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/frtts/subscriptions",
+  "organizations_url": "https://api.github.com/users/frtts/orgs",
+  "repos_url": "https://api.github.com/users/frtts/repos",
+  "events_url": "https://api.github.com/users/frtts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/frtts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

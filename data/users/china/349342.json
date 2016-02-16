@@ -1,0 +1,20 @@
+{
+  "login": "seansay",
+  "id": 349342,
+  "avatar_url": "https://avatars.githubusercontent.com/u/349342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seansay",
+  "html_url": "https://github.com/seansay",
+  "followers_url": "https://api.github.com/users/seansay/followers",
+  "following_url": "https://api.github.com/users/seansay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seansay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seansay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seansay/subscriptions",
+  "organizations_url": "https://api.github.com/users/seansay/orgs",
+  "repos_url": "https://api.github.com/users/seansay/repos",
+  "events_url": "https://api.github.com/users/seansay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seansay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jihao",
+  "id": 322532,
+  "avatar_url": "https://avatars.githubusercontent.com/u/322532?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jihao",
+  "html_url": "https://github.com/jihao",
+  "followers_url": "https://api.github.com/users/jihao/followers",
+  "following_url": "https://api.github.com/users/jihao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jihao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jihao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jihao/subscriptions",
+  "organizations_url": "https://api.github.com/users/jihao/orgs",
+  "repos_url": "https://api.github.com/users/jihao/repos",
+  "events_url": "https://api.github.com/users/jihao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jihao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

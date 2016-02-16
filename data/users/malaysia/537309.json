@@ -1,0 +1,20 @@
+{
+  "login": "zulcomp",
+  "id": 537309,
+  "avatar_url": "https://avatars.githubusercontent.com/u/537309?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zulcomp",
+  "html_url": "https://github.com/zulcomp",
+  "followers_url": "https://api.github.com/users/zulcomp/followers",
+  "following_url": "https://api.github.com/users/zulcomp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zulcomp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zulcomp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zulcomp/subscriptions",
+  "organizations_url": "https://api.github.com/users/zulcomp/orgs",
+  "repos_url": "https://api.github.com/users/zulcomp/repos",
+  "events_url": "https://api.github.com/users/zulcomp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zulcomp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "damienkeating",
+  "id": 3681983,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3681983?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/damienkeating",
+  "html_url": "https://github.com/damienkeating",
+  "followers_url": "https://api.github.com/users/damienkeating/followers",
+  "following_url": "https://api.github.com/users/damienkeating/following{/other_user}",
+  "gists_url": "https://api.github.com/users/damienkeating/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/damienkeating/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/damienkeating/subscriptions",
+  "organizations_url": "https://api.github.com/users/damienkeating/orgs",
+  "repos_url": "https://api.github.com/users/damienkeating/repos",
+  "events_url": "https://api.github.com/users/damienkeating/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/damienkeating/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

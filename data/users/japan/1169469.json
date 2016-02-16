@@ -1,0 +1,20 @@
+{
+  "login": "n-kashi",
+  "id": 1169469,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1169469?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/n-kashi",
+  "html_url": "https://github.com/n-kashi",
+  "followers_url": "https://api.github.com/users/n-kashi/followers",
+  "following_url": "https://api.github.com/users/n-kashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/n-kashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/n-kashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/n-kashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/n-kashi/orgs",
+  "repos_url": "https://api.github.com/users/n-kashi/repos",
+  "events_url": "https://api.github.com/users/n-kashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/n-kashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

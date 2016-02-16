@@ -1,0 +1,20 @@
+{
+  "login": "potimarimo",
+  "id": 1764914,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1764914?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/potimarimo",
+  "html_url": "https://github.com/potimarimo",
+  "followers_url": "https://api.github.com/users/potimarimo/followers",
+  "following_url": "https://api.github.com/users/potimarimo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/potimarimo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/potimarimo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/potimarimo/subscriptions",
+  "organizations_url": "https://api.github.com/users/potimarimo/orgs",
+  "repos_url": "https://api.github.com/users/potimarimo/repos",
+  "events_url": "https://api.github.com/users/potimarimo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/potimarimo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

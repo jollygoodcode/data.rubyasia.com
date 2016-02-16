@@ -1,0 +1,20 @@
+{
+  "login": "SearchDream",
+  "id": 72898,
+  "avatar_url": "https://avatars.githubusercontent.com/u/72898?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SearchDream",
+  "html_url": "https://github.com/SearchDream",
+  "followers_url": "https://api.github.com/users/SearchDream/followers",
+  "following_url": "https://api.github.com/users/SearchDream/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SearchDream/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SearchDream/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SearchDream/subscriptions",
+  "organizations_url": "https://api.github.com/users/SearchDream/orgs",
+  "repos_url": "https://api.github.com/users/SearchDream/repos",
+  "events_url": "https://api.github.com/users/SearchDream/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SearchDream/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

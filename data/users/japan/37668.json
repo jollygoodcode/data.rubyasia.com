@@ -1,0 +1,20 @@
+{
+  "login": "kzak",
+  "id": 37668,
+  "avatar_url": "https://avatars.githubusercontent.com/u/37668?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kzak",
+  "html_url": "https://github.com/kzak",
+  "followers_url": "https://api.github.com/users/kzak/followers",
+  "following_url": "https://api.github.com/users/kzak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kzak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kzak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kzak/subscriptions",
+  "organizations_url": "https://api.github.com/users/kzak/orgs",
+  "repos_url": "https://api.github.com/users/kzak/repos",
+  "events_url": "https://api.github.com/users/kzak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kzak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

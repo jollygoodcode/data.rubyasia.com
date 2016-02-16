@@ -1,0 +1,20 @@
+{
+  "login": "masonzou",
+  "id": 841296,
+  "avatar_url": "https://avatars.githubusercontent.com/u/841296?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masonzou",
+  "html_url": "https://github.com/masonzou",
+  "followers_url": "https://api.github.com/users/masonzou/followers",
+  "following_url": "https://api.github.com/users/masonzou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masonzou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masonzou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masonzou/subscriptions",
+  "organizations_url": "https://api.github.com/users/masonzou/orgs",
+  "repos_url": "https://api.github.com/users/masonzou/repos",
+  "events_url": "https://api.github.com/users/masonzou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masonzou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

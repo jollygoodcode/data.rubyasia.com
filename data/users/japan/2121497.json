@@ -1,0 +1,20 @@
+{
+  "login": "tsukaman",
+  "id": 2121497,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2121497?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsukaman",
+  "html_url": "https://github.com/tsukaman",
+  "followers_url": "https://api.github.com/users/tsukaman/followers",
+  "following_url": "https://api.github.com/users/tsukaman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsukaman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsukaman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsukaman/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsukaman/orgs",
+  "repos_url": "https://api.github.com/users/tsukaman/repos",
+  "events_url": "https://api.github.com/users/tsukaman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsukaman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

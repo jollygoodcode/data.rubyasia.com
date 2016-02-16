@@ -1,0 +1,20 @@
+{
+  "login": "StudioCherry",
+  "id": 754798,
+  "avatar_url": "https://avatars.githubusercontent.com/u/754798?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/StudioCherry",
+  "html_url": "https://github.com/StudioCherry",
+  "followers_url": "https://api.github.com/users/StudioCherry/followers",
+  "following_url": "https://api.github.com/users/StudioCherry/following{/other_user}",
+  "gists_url": "https://api.github.com/users/StudioCherry/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/StudioCherry/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/StudioCherry/subscriptions",
+  "organizations_url": "https://api.github.com/users/StudioCherry/orgs",
+  "repos_url": "https://api.github.com/users/StudioCherry/repos",
+  "events_url": "https://api.github.com/users/StudioCherry/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/StudioCherry/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hsuyh",
+  "id": 5622631,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5622631?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hsuyh",
+  "html_url": "https://github.com/hsuyh",
+  "followers_url": "https://api.github.com/users/hsuyh/followers",
+  "following_url": "https://api.github.com/users/hsuyh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hsuyh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hsuyh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hsuyh/subscriptions",
+  "organizations_url": "https://api.github.com/users/hsuyh/orgs",
+  "repos_url": "https://api.github.com/users/hsuyh/repos",
+  "events_url": "https://api.github.com/users/hsuyh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hsuyh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

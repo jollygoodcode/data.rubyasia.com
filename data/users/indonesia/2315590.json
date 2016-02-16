@@ -1,0 +1,20 @@
+{
+  "login": "reydi",
+  "id": 2315590,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2315590?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/reydi",
+  "html_url": "https://github.com/reydi",
+  "followers_url": "https://api.github.com/users/reydi/followers",
+  "following_url": "https://api.github.com/users/reydi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/reydi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/reydi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/reydi/subscriptions",
+  "organizations_url": "https://api.github.com/users/reydi/orgs",
+  "repos_url": "https://api.github.com/users/reydi/repos",
+  "events_url": "https://api.github.com/users/reydi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/reydi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

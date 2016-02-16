@@ -1,0 +1,20 @@
+{
+  "login": "fuliang",
+  "id": 58584,
+  "avatar_url": "https://avatars.githubusercontent.com/u/58584?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fuliang",
+  "html_url": "https://github.com/fuliang",
+  "followers_url": "https://api.github.com/users/fuliang/followers",
+  "following_url": "https://api.github.com/users/fuliang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fuliang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fuliang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fuliang/subscriptions",
+  "organizations_url": "https://api.github.com/users/fuliang/orgs",
+  "repos_url": "https://api.github.com/users/fuliang/repos",
+  "events_url": "https://api.github.com/users/fuliang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fuliang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

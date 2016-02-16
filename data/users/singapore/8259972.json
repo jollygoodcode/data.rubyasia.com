@@ -1,0 +1,20 @@
+{
+  "login": "BeanStack",
+  "id": 8259972,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8259972?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BeanStack",
+  "html_url": "https://github.com/BeanStack",
+  "followers_url": "https://api.github.com/users/BeanStack/followers",
+  "following_url": "https://api.github.com/users/BeanStack/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BeanStack/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BeanStack/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BeanStack/subscriptions",
+  "organizations_url": "https://api.github.com/users/BeanStack/orgs",
+  "repos_url": "https://api.github.com/users/BeanStack/repos",
+  "events_url": "https://api.github.com/users/BeanStack/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BeanStack/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

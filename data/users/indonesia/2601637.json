@@ -1,0 +1,20 @@
+{
+  "login": "torotero",
+  "id": 2601637,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2601637?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/torotero",
+  "html_url": "https://github.com/torotero",
+  "followers_url": "https://api.github.com/users/torotero/followers",
+  "following_url": "https://api.github.com/users/torotero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/torotero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/torotero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/torotero/subscriptions",
+  "organizations_url": "https://api.github.com/users/torotero/orgs",
+  "repos_url": "https://api.github.com/users/torotero/repos",
+  "events_url": "https://api.github.com/users/torotero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/torotero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

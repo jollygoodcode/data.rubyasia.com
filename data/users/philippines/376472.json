@@ -1,0 +1,20 @@
+{
+  "login": "terenceponce",
+  "id": 376472,
+  "avatar_url": "https://avatars.githubusercontent.com/u/376472?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/terenceponce",
+  "html_url": "https://github.com/terenceponce",
+  "followers_url": "https://api.github.com/users/terenceponce/followers",
+  "following_url": "https://api.github.com/users/terenceponce/following{/other_user}",
+  "gists_url": "https://api.github.com/users/terenceponce/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/terenceponce/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/terenceponce/subscriptions",
+  "organizations_url": "https://api.github.com/users/terenceponce/orgs",
+  "repos_url": "https://api.github.com/users/terenceponce/repos",
+  "events_url": "https://api.github.com/users/terenceponce/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/terenceponce/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

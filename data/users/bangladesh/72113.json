@@ -1,0 +1,20 @@
+{
+  "login": "amuntasim",
+  "id": 72113,
+  "avatar_url": "https://avatars.githubusercontent.com/u/72113?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amuntasim",
+  "html_url": "https://github.com/amuntasim",
+  "followers_url": "https://api.github.com/users/amuntasim/followers",
+  "following_url": "https://api.github.com/users/amuntasim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amuntasim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amuntasim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amuntasim/subscriptions",
+  "organizations_url": "https://api.github.com/users/amuntasim/orgs",
+  "repos_url": "https://api.github.com/users/amuntasim/repos",
+  "events_url": "https://api.github.com/users/amuntasim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amuntasim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

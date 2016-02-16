@@ -1,0 +1,20 @@
+{
+  "login": "superneo",
+  "id": 958109,
+  "avatar_url": "https://avatars.githubusercontent.com/u/958109?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/superneo",
+  "html_url": "https://github.com/superneo",
+  "followers_url": "https://api.github.com/users/superneo/followers",
+  "following_url": "https://api.github.com/users/superneo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/superneo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/superneo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/superneo/subscriptions",
+  "organizations_url": "https://api.github.com/users/superneo/orgs",
+  "repos_url": "https://api.github.com/users/superneo/repos",
+  "events_url": "https://api.github.com/users/superneo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/superneo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

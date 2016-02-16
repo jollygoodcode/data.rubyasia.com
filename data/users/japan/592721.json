@@ -1,0 +1,20 @@
+{
+  "login": "makotof",
+  "id": 592721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/592721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/makotof",
+  "html_url": "https://github.com/makotof",
+  "followers_url": "https://api.github.com/users/makotof/followers",
+  "following_url": "https://api.github.com/users/makotof/following{/other_user}",
+  "gists_url": "https://api.github.com/users/makotof/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/makotof/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/makotof/subscriptions",
+  "organizations_url": "https://api.github.com/users/makotof/orgs",
+  "repos_url": "https://api.github.com/users/makotof/repos",
+  "events_url": "https://api.github.com/users/makotof/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/makotof/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

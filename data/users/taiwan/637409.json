@@ -1,0 +1,20 @@
+{
+  "login": "algiz",
+  "id": 637409,
+  "avatar_url": "https://avatars.githubusercontent.com/u/637409?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/algiz",
+  "html_url": "https://github.com/algiz",
+  "followers_url": "https://api.github.com/users/algiz/followers",
+  "following_url": "https://api.github.com/users/algiz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/algiz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/algiz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/algiz/subscriptions",
+  "organizations_url": "https://api.github.com/users/algiz/orgs",
+  "repos_url": "https://api.github.com/users/algiz/repos",
+  "events_url": "https://api.github.com/users/algiz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/algiz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

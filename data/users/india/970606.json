@@ -1,0 +1,20 @@
+{
+  "login": "deadwait",
+  "id": 970606,
+  "avatar_url": "https://avatars.githubusercontent.com/u/970606?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deadwait",
+  "html_url": "https://github.com/deadwait",
+  "followers_url": "https://api.github.com/users/deadwait/followers",
+  "following_url": "https://api.github.com/users/deadwait/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deadwait/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deadwait/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deadwait/subscriptions",
+  "organizations_url": "https://api.github.com/users/deadwait/orgs",
+  "repos_url": "https://api.github.com/users/deadwait/repos",
+  "events_url": "https://api.github.com/users/deadwait/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deadwait/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

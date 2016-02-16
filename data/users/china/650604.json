@@ -1,0 +1,20 @@
+{
+  "login": "fallenman",
+  "id": 650604,
+  "avatar_url": "https://avatars.githubusercontent.com/u/650604?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fallenman",
+  "html_url": "https://github.com/fallenman",
+  "followers_url": "https://api.github.com/users/fallenman/followers",
+  "following_url": "https://api.github.com/users/fallenman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fallenman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fallenman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fallenman/subscriptions",
+  "organizations_url": "https://api.github.com/users/fallenman/orgs",
+  "repos_url": "https://api.github.com/users/fallenman/repos",
+  "events_url": "https://api.github.com/users/fallenman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fallenman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

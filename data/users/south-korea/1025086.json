@@ -1,0 +1,20 @@
+{
+  "login": "JiniKim",
+  "id": 1025086,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1025086?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JiniKim",
+  "html_url": "https://github.com/JiniKim",
+  "followers_url": "https://api.github.com/users/JiniKim/followers",
+  "following_url": "https://api.github.com/users/JiniKim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JiniKim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JiniKim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JiniKim/subscriptions",
+  "organizations_url": "https://api.github.com/users/JiniKim/orgs",
+  "repos_url": "https://api.github.com/users/JiniKim/repos",
+  "events_url": "https://api.github.com/users/JiniKim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JiniKim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

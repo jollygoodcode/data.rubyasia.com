@@ -1,0 +1,20 @@
+{
+  "login": "lettas",
+  "id": 187391,
+  "avatar_url": "https://avatars.githubusercontent.com/u/187391?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lettas",
+  "html_url": "https://github.com/lettas",
+  "followers_url": "https://api.github.com/users/lettas/followers",
+  "following_url": "https://api.github.com/users/lettas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lettas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lettas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lettas/subscriptions",
+  "organizations_url": "https://api.github.com/users/lettas/orgs",
+  "repos_url": "https://api.github.com/users/lettas/repos",
+  "events_url": "https://api.github.com/users/lettas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lettas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

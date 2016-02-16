@@ -1,0 +1,20 @@
+{
+  "login": "tiroc",
+  "id": 330443,
+  "avatar_url": "https://avatars.githubusercontent.com/u/330443?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tiroc",
+  "html_url": "https://github.com/tiroc",
+  "followers_url": "https://api.github.com/users/tiroc/followers",
+  "following_url": "https://api.github.com/users/tiroc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tiroc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tiroc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tiroc/subscriptions",
+  "organizations_url": "https://api.github.com/users/tiroc/orgs",
+  "repos_url": "https://api.github.com/users/tiroc/repos",
+  "events_url": "https://api.github.com/users/tiroc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tiroc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

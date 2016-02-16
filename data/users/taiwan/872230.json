@@ -1,0 +1,20 @@
+{
+  "login": "SammyLin",
+  "id": 872230,
+  "avatar_url": "https://avatars.githubusercontent.com/u/872230?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SammyLin",
+  "html_url": "https://github.com/SammyLin",
+  "followers_url": "https://api.github.com/users/SammyLin/followers",
+  "following_url": "https://api.github.com/users/SammyLin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SammyLin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SammyLin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SammyLin/subscriptions",
+  "organizations_url": "https://api.github.com/users/SammyLin/orgs",
+  "repos_url": "https://api.github.com/users/SammyLin/repos",
+  "events_url": "https://api.github.com/users/SammyLin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SammyLin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

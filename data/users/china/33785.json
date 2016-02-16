@@ -1,0 +1,20 @@
+{
+  "login": "mechiland",
+  "id": 33785,
+  "avatar_url": "https://avatars.githubusercontent.com/u/33785?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mechiland",
+  "html_url": "https://github.com/mechiland",
+  "followers_url": "https://api.github.com/users/mechiland/followers",
+  "following_url": "https://api.github.com/users/mechiland/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mechiland/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mechiland/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mechiland/subscriptions",
+  "organizations_url": "https://api.github.com/users/mechiland/orgs",
+  "repos_url": "https://api.github.com/users/mechiland/repos",
+  "events_url": "https://api.github.com/users/mechiland/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mechiland/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

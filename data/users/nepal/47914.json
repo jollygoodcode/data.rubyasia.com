@@ -1,0 +1,20 @@
+{
+  "login": "millisami",
+  "id": 47914,
+  "avatar_url": "https://avatars.githubusercontent.com/u/47914?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/millisami",
+  "html_url": "https://github.com/millisami",
+  "followers_url": "https://api.github.com/users/millisami/followers",
+  "following_url": "https://api.github.com/users/millisami/following{/other_user}",
+  "gists_url": "https://api.github.com/users/millisami/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/millisami/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/millisami/subscriptions",
+  "organizations_url": "https://api.github.com/users/millisami/orgs",
+  "repos_url": "https://api.github.com/users/millisami/repos",
+  "events_url": "https://api.github.com/users/millisami/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/millisami/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

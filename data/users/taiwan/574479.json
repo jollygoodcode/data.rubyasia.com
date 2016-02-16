@@ -1,0 +1,20 @@
+{
+  "login": "twbcs",
+  "id": 574479,
+  "avatar_url": "https://avatars.githubusercontent.com/u/574479?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/twbcs",
+  "html_url": "https://github.com/twbcs",
+  "followers_url": "https://api.github.com/users/twbcs/followers",
+  "following_url": "https://api.github.com/users/twbcs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/twbcs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/twbcs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/twbcs/subscriptions",
+  "organizations_url": "https://api.github.com/users/twbcs/orgs",
+  "repos_url": "https://api.github.com/users/twbcs/repos",
+  "events_url": "https://api.github.com/users/twbcs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/twbcs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "irrigator",
+  "id": 9542232,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9542232?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/irrigator",
+  "html_url": "https://github.com/irrigator",
+  "followers_url": "https://api.github.com/users/irrigator/followers",
+  "following_url": "https://api.github.com/users/irrigator/following{/other_user}",
+  "gists_url": "https://api.github.com/users/irrigator/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/irrigator/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/irrigator/subscriptions",
+  "organizations_url": "https://api.github.com/users/irrigator/orgs",
+  "repos_url": "https://api.github.com/users/irrigator/repos",
+  "events_url": "https://api.github.com/users/irrigator/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/irrigator/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

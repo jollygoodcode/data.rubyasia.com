@@ -1,0 +1,20 @@
+{
+  "login": "rahuling",
+  "id": 3864795,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3864795?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rahuling",
+  "html_url": "https://github.com/rahuling",
+  "followers_url": "https://api.github.com/users/rahuling/followers",
+  "following_url": "https://api.github.com/users/rahuling/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rahuling/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rahuling/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rahuling/subscriptions",
+  "organizations_url": "https://api.github.com/users/rahuling/orgs",
+  "repos_url": "https://api.github.com/users/rahuling/repos",
+  "events_url": "https://api.github.com/users/rahuling/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rahuling/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "myrealtrip",
+  "id": 7445484,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7445484?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/myrealtrip",
+  "html_url": "https://github.com/myrealtrip",
+  "followers_url": "https://api.github.com/users/myrealtrip/followers",
+  "following_url": "https://api.github.com/users/myrealtrip/following{/other_user}",
+  "gists_url": "https://api.github.com/users/myrealtrip/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/myrealtrip/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/myrealtrip/subscriptions",
+  "organizations_url": "https://api.github.com/users/myrealtrip/orgs",
+  "repos_url": "https://api.github.com/users/myrealtrip/repos",
+  "events_url": "https://api.github.com/users/myrealtrip/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/myrealtrip/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

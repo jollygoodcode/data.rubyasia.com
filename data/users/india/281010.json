@@ -1,0 +1,20 @@
+{
+  "login": "askmeaks",
+  "id": 281010,
+  "avatar_url": "https://avatars.githubusercontent.com/u/281010?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/askmeaks",
+  "html_url": "https://github.com/askmeaks",
+  "followers_url": "https://api.github.com/users/askmeaks/followers",
+  "following_url": "https://api.github.com/users/askmeaks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/askmeaks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/askmeaks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/askmeaks/subscriptions",
+  "organizations_url": "https://api.github.com/users/askmeaks/orgs",
+  "repos_url": "https://api.github.com/users/askmeaks/repos",
+  "events_url": "https://api.github.com/users/askmeaks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/askmeaks/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

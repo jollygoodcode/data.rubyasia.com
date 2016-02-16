@@ -1,0 +1,20 @@
+{
+  "login": "arkfriends",
+  "id": 41590,
+  "avatar_url": "https://avatars.githubusercontent.com/u/41590?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arkfriends",
+  "html_url": "https://github.com/arkfriends",
+  "followers_url": "https://api.github.com/users/arkfriends/followers",
+  "following_url": "https://api.github.com/users/arkfriends/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arkfriends/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arkfriends/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arkfriends/subscriptions",
+  "organizations_url": "https://api.github.com/users/arkfriends/orgs",
+  "repos_url": "https://api.github.com/users/arkfriends/repos",
+  "events_url": "https://api.github.com/users/arkfriends/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arkfriends/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

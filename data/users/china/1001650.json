@@ -1,0 +1,20 @@
+{
+  "login": "skycoder",
+  "id": 1001650,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1001650?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skycoder",
+  "html_url": "https://github.com/skycoder",
+  "followers_url": "https://api.github.com/users/skycoder/followers",
+  "following_url": "https://api.github.com/users/skycoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skycoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skycoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skycoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/skycoder/orgs",
+  "repos_url": "https://api.github.com/users/skycoder/repos",
+  "events_url": "https://api.github.com/users/skycoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skycoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

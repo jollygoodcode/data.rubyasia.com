@@ -1,0 +1,20 @@
+{
+  "login": "degica",
+  "id": 1285497,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1285497?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/degica",
+  "html_url": "https://github.com/degica",
+  "followers_url": "https://api.github.com/users/degica/followers",
+  "following_url": "https://api.github.com/users/degica/following{/other_user}",
+  "gists_url": "https://api.github.com/users/degica/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/degica/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/degica/subscriptions",
+  "organizations_url": "https://api.github.com/users/degica/orgs",
+  "repos_url": "https://api.github.com/users/degica/repos",
+  "events_url": "https://api.github.com/users/degica/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/degica/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

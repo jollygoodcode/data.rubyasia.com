@@ -1,0 +1,20 @@
+{
+  "login": "tkeiji",
+  "id": 1615588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1615588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tkeiji",
+  "html_url": "https://github.com/tkeiji",
+  "followers_url": "https://api.github.com/users/tkeiji/followers",
+  "following_url": "https://api.github.com/users/tkeiji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tkeiji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tkeiji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tkeiji/subscriptions",
+  "organizations_url": "https://api.github.com/users/tkeiji/orgs",
+  "repos_url": "https://api.github.com/users/tkeiji/repos",
+  "events_url": "https://api.github.com/users/tkeiji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tkeiji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "akashsoti",
+  "id": 6245215,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6245215?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akashsoti",
+  "html_url": "https://github.com/akashsoti",
+  "followers_url": "https://api.github.com/users/akashsoti/followers",
+  "following_url": "https://api.github.com/users/akashsoti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akashsoti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akashsoti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akashsoti/subscriptions",
+  "organizations_url": "https://api.github.com/users/akashsoti/orgs",
+  "repos_url": "https://api.github.com/users/akashsoti/repos",
+  "events_url": "https://api.github.com/users/akashsoti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akashsoti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

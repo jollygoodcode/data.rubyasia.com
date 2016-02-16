@@ -1,0 +1,20 @@
+{
+  "login": "Learnemy",
+  "id": 1047456,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1047456?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Learnemy",
+  "html_url": "https://github.com/Learnemy",
+  "followers_url": "https://api.github.com/users/Learnemy/followers",
+  "following_url": "https://api.github.com/users/Learnemy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Learnemy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Learnemy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Learnemy/subscriptions",
+  "organizations_url": "https://api.github.com/users/Learnemy/orgs",
+  "repos_url": "https://api.github.com/users/Learnemy/repos",
+  "events_url": "https://api.github.com/users/Learnemy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Learnemy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

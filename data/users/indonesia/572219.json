@@ -1,0 +1,20 @@
+{
+  "login": "sigitsaptari",
+  "id": 572219,
+  "avatar_url": "https://avatars.githubusercontent.com/u/572219?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sigitsaptari",
+  "html_url": "https://github.com/sigitsaptari",
+  "followers_url": "https://api.github.com/users/sigitsaptari/followers",
+  "following_url": "https://api.github.com/users/sigitsaptari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sigitsaptari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sigitsaptari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sigitsaptari/subscriptions",
+  "organizations_url": "https://api.github.com/users/sigitsaptari/orgs",
+  "repos_url": "https://api.github.com/users/sigitsaptari/repos",
+  "events_url": "https://api.github.com/users/sigitsaptari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sigitsaptari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

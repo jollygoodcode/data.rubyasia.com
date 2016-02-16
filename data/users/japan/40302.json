@@ -1,0 +1,20 @@
+{
+  "login": "mlhshino",
+  "id": 40302,
+  "avatar_url": "https://avatars.githubusercontent.com/u/40302?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mlhshino",
+  "html_url": "https://github.com/mlhshino",
+  "followers_url": "https://api.github.com/users/mlhshino/followers",
+  "following_url": "https://api.github.com/users/mlhshino/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mlhshino/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mlhshino/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mlhshino/subscriptions",
+  "organizations_url": "https://api.github.com/users/mlhshino/orgs",
+  "repos_url": "https://api.github.com/users/mlhshino/repos",
+  "events_url": "https://api.github.com/users/mlhshino/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mlhshino/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "edwincheese",
+  "id": 800071,
+  "avatar_url": "https://avatars.githubusercontent.com/u/800071?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/edwincheese",
+  "html_url": "https://github.com/edwincheese",
+  "followers_url": "https://api.github.com/users/edwincheese/followers",
+  "following_url": "https://api.github.com/users/edwincheese/following{/other_user}",
+  "gists_url": "https://api.github.com/users/edwincheese/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/edwincheese/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/edwincheese/subscriptions",
+  "organizations_url": "https://api.github.com/users/edwincheese/orgs",
+  "repos_url": "https://api.github.com/users/edwincheese/repos",
+  "events_url": "https://api.github.com/users/edwincheese/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/edwincheese/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

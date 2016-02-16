@@ -1,0 +1,20 @@
+{
+  "login": "Rakoth",
+  "id": 34753,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34753?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Rakoth",
+  "html_url": "https://github.com/Rakoth",
+  "followers_url": "https://api.github.com/users/Rakoth/followers",
+  "following_url": "https://api.github.com/users/Rakoth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Rakoth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Rakoth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Rakoth/subscriptions",
+  "organizations_url": "https://api.github.com/users/Rakoth/orgs",
+  "repos_url": "https://api.github.com/users/Rakoth/repos",
+  "events_url": "https://api.github.com/users/Rakoth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Rakoth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "nsengupta",
+  "id": 4028124,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4028124?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nsengupta",
+  "html_url": "https://github.com/nsengupta",
+  "followers_url": "https://api.github.com/users/nsengupta/followers",
+  "following_url": "https://api.github.com/users/nsengupta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nsengupta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nsengupta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nsengupta/subscriptions",
+  "organizations_url": "https://api.github.com/users/nsengupta/orgs",
+  "repos_url": "https://api.github.com/users/nsengupta/repos",
+  "events_url": "https://api.github.com/users/nsengupta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nsengupta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ichuot",
+  "id": 1240906,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1240906?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ichuot",
+  "html_url": "https://github.com/ichuot",
+  "followers_url": "https://api.github.com/users/ichuot/followers",
+  "following_url": "https://api.github.com/users/ichuot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ichuot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ichuot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ichuot/subscriptions",
+  "organizations_url": "https://api.github.com/users/ichuot/orgs",
+  "repos_url": "https://api.github.com/users/ichuot/repos",
+  "events_url": "https://api.github.com/users/ichuot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ichuot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lps-162",
+  "id": 810407,
+  "avatar_url": "https://avatars.githubusercontent.com/u/810407?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lps-162",
+  "html_url": "https://github.com/lps-162",
+  "followers_url": "https://api.github.com/users/lps-162/followers",
+  "following_url": "https://api.github.com/users/lps-162/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lps-162/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lps-162/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lps-162/subscriptions",
+  "organizations_url": "https://api.github.com/users/lps-162/orgs",
+  "repos_url": "https://api.github.com/users/lps-162/repos",
+  "events_url": "https://api.github.com/users/lps-162/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lps-162/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

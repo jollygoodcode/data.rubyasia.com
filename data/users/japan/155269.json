@@ -1,0 +1,20 @@
+{
+  "login": "sakama",
+  "id": 155269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/155269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sakama",
+  "html_url": "https://github.com/sakama",
+  "followers_url": "https://api.github.com/users/sakama/followers",
+  "following_url": "https://api.github.com/users/sakama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sakama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sakama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sakama/subscriptions",
+  "organizations_url": "https://api.github.com/users/sakama/orgs",
+  "repos_url": "https://api.github.com/users/sakama/repos",
+  "events_url": "https://api.github.com/users/sakama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sakama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

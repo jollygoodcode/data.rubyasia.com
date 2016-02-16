@@ -1,0 +1,20 @@
+{
+  "login": "straightdave",
+  "id": 5617748,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5617748?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/straightdave",
+  "html_url": "https://github.com/straightdave",
+  "followers_url": "https://api.github.com/users/straightdave/followers",
+  "following_url": "https://api.github.com/users/straightdave/following{/other_user}",
+  "gists_url": "https://api.github.com/users/straightdave/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/straightdave/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/straightdave/subscriptions",
+  "organizations_url": "https://api.github.com/users/straightdave/orgs",
+  "repos_url": "https://api.github.com/users/straightdave/repos",
+  "events_url": "https://api.github.com/users/straightdave/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/straightdave/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

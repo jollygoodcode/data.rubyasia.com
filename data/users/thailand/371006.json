@@ -1,0 +1,20 @@
+{
+  "login": "peyrone",
+  "id": 371006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/371006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/peyrone",
+  "html_url": "https://github.com/peyrone",
+  "followers_url": "https://api.github.com/users/peyrone/followers",
+  "following_url": "https://api.github.com/users/peyrone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/peyrone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/peyrone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/peyrone/subscriptions",
+  "organizations_url": "https://api.github.com/users/peyrone/orgs",
+  "repos_url": "https://api.github.com/users/peyrone/repos",
+  "events_url": "https://api.github.com/users/peyrone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/peyrone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dotnand",
+  "id": 1055137,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1055137?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dotnand",
+  "html_url": "https://github.com/dotnand",
+  "followers_url": "https://api.github.com/users/dotnand/followers",
+  "following_url": "https://api.github.com/users/dotnand/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dotnand/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dotnand/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dotnand/subscriptions",
+  "organizations_url": "https://api.github.com/users/dotnand/orgs",
+  "repos_url": "https://api.github.com/users/dotnand/repos",
+  "events_url": "https://api.github.com/users/dotnand/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dotnand/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

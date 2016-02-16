@@ -1,0 +1,20 @@
+{
+  "login": "vamsi",
+  "id": 6312587,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6312587?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vamsi",
+  "html_url": "https://github.com/vamsi",
+  "followers_url": "https://api.github.com/users/vamsi/followers",
+  "following_url": "https://api.github.com/users/vamsi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vamsi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vamsi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vamsi/subscriptions",
+  "organizations_url": "https://api.github.com/users/vamsi/orgs",
+  "repos_url": "https://api.github.com/users/vamsi/repos",
+  "events_url": "https://api.github.com/users/vamsi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vamsi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

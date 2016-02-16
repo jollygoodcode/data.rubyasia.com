@@ -1,0 +1,20 @@
+{
+  "login": "playts",
+  "id": 212353,
+  "avatar_url": "https://avatars.githubusercontent.com/u/212353?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/playts",
+  "html_url": "https://github.com/playts",
+  "followers_url": "https://api.github.com/users/playts/followers",
+  "following_url": "https://api.github.com/users/playts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/playts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/playts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/playts/subscriptions",
+  "organizations_url": "https://api.github.com/users/playts/orgs",
+  "repos_url": "https://api.github.com/users/playts/repos",
+  "events_url": "https://api.github.com/users/playts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/playts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

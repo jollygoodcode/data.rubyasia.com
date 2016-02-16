@@ -1,0 +1,20 @@
+{
+  "login": "suteerth",
+  "id": 523462,
+  "avatar_url": "https://avatars.githubusercontent.com/u/523462?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suteerth",
+  "html_url": "https://github.com/suteerth",
+  "followers_url": "https://api.github.com/users/suteerth/followers",
+  "following_url": "https://api.github.com/users/suteerth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suteerth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suteerth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suteerth/subscriptions",
+  "organizations_url": "https://api.github.com/users/suteerth/orgs",
+  "repos_url": "https://api.github.com/users/suteerth/repos",
+  "events_url": "https://api.github.com/users/suteerth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suteerth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

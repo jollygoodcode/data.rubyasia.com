@@ -1,0 +1,20 @@
+{
+  "login": "tianyao",
+  "id": 1212118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1212118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tianyao",
+  "html_url": "https://github.com/tianyao",
+  "followers_url": "https://api.github.com/users/tianyao/followers",
+  "following_url": "https://api.github.com/users/tianyao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tianyao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tianyao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tianyao/subscriptions",
+  "organizations_url": "https://api.github.com/users/tianyao/orgs",
+  "repos_url": "https://api.github.com/users/tianyao/repos",
+  "events_url": "https://api.github.com/users/tianyao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tianyao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

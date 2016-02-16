@@ -1,0 +1,20 @@
+{
+  "login": "juhomi",
+  "id": 763364,
+  "avatar_url": "https://avatars.githubusercontent.com/u/763364?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/juhomi",
+  "html_url": "https://github.com/juhomi",
+  "followers_url": "https://api.github.com/users/juhomi/followers",
+  "following_url": "https://api.github.com/users/juhomi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/juhomi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/juhomi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/juhomi/subscriptions",
+  "organizations_url": "https://api.github.com/users/juhomi/orgs",
+  "repos_url": "https://api.github.com/users/juhomi/repos",
+  "events_url": "https://api.github.com/users/juhomi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/juhomi/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

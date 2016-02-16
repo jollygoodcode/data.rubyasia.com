@@ -1,0 +1,20 @@
+{
+  "login": "trusterd",
+  "id": 10615956,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10615956?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/trusterd",
+  "html_url": "https://github.com/trusterd",
+  "followers_url": "https://api.github.com/users/trusterd/followers",
+  "following_url": "https://api.github.com/users/trusterd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/trusterd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/trusterd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/trusterd/subscriptions",
+  "organizations_url": "https://api.github.com/users/trusterd/orgs",
+  "repos_url": "https://api.github.com/users/trusterd/repos",
+  "events_url": "https://api.github.com/users/trusterd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/trusterd/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

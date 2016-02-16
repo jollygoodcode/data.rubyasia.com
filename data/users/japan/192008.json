@@ -1,0 +1,20 @@
+{
+  "login": "ryopeko",
+  "id": 192008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/192008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryopeko",
+  "html_url": "https://github.com/ryopeko",
+  "followers_url": "https://api.github.com/users/ryopeko/followers",
+  "following_url": "https://api.github.com/users/ryopeko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryopeko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryopeko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryopeko/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryopeko/orgs",
+  "repos_url": "https://api.github.com/users/ryopeko/repos",
+  "events_url": "https://api.github.com/users/ryopeko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryopeko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

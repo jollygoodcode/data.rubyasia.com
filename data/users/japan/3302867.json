@@ -1,0 +1,20 @@
+{
+  "login": "skk-users-jp",
+  "id": 3302867,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3302867?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skk-users-jp",
+  "html_url": "https://github.com/skk-users-jp",
+  "followers_url": "https://api.github.com/users/skk-users-jp/followers",
+  "following_url": "https://api.github.com/users/skk-users-jp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skk-users-jp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skk-users-jp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skk-users-jp/subscriptions",
+  "organizations_url": "https://api.github.com/users/skk-users-jp/orgs",
+  "repos_url": "https://api.github.com/users/skk-users-jp/repos",
+  "events_url": "https://api.github.com/users/skk-users-jp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skk-users-jp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

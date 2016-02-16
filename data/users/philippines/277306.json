@@ -1,0 +1,20 @@
+{
+  "login": "adamcrown",
+  "id": 277306,
+  "avatar_url": "https://avatars.githubusercontent.com/u/277306?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adamcrown",
+  "html_url": "https://github.com/adamcrown",
+  "followers_url": "https://api.github.com/users/adamcrown/followers",
+  "following_url": "https://api.github.com/users/adamcrown/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adamcrown/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adamcrown/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adamcrown/subscriptions",
+  "organizations_url": "https://api.github.com/users/adamcrown/orgs",
+  "repos_url": "https://api.github.com/users/adamcrown/repos",
+  "events_url": "https://api.github.com/users/adamcrown/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adamcrown/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

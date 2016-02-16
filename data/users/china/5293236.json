@@ -1,0 +1,20 @@
+{
+  "login": "hurongliang",
+  "id": 5293236,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5293236?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hurongliang",
+  "html_url": "https://github.com/hurongliang",
+  "followers_url": "https://api.github.com/users/hurongliang/followers",
+  "following_url": "https://api.github.com/users/hurongliang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hurongliang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hurongliang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hurongliang/subscriptions",
+  "organizations_url": "https://api.github.com/users/hurongliang/orgs",
+  "repos_url": "https://api.github.com/users/hurongliang/repos",
+  "events_url": "https://api.github.com/users/hurongliang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hurongliang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

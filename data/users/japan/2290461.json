@@ -1,0 +1,20 @@
+{
+  "login": "sonots",
+  "id": 2290461,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2290461?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sonots",
+  "html_url": "https://github.com/sonots",
+  "followers_url": "https://api.github.com/users/sonots/followers",
+  "following_url": "https://api.github.com/users/sonots/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sonots/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sonots/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sonots/subscriptions",
+  "organizations_url": "https://api.github.com/users/sonots/orgs",
+  "repos_url": "https://api.github.com/users/sonots/repos",
+  "events_url": "https://api.github.com/users/sonots/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sonots/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

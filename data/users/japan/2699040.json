@@ -1,0 +1,20 @@
+{
+  "login": "kusatsugu",
+  "id": 2699040,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2699040?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kusatsugu",
+  "html_url": "https://github.com/kusatsugu",
+  "followers_url": "https://api.github.com/users/kusatsugu/followers",
+  "following_url": "https://api.github.com/users/kusatsugu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kusatsugu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kusatsugu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kusatsugu/subscriptions",
+  "organizations_url": "https://api.github.com/users/kusatsugu/orgs",
+  "repos_url": "https://api.github.com/users/kusatsugu/repos",
+  "events_url": "https://api.github.com/users/kusatsugu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kusatsugu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

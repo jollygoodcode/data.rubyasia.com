@@ -1,0 +1,20 @@
+{
+  "login": "Aqutras",
+  "id": 10428758,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10428758?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Aqutras",
+  "html_url": "https://github.com/Aqutras",
+  "followers_url": "https://api.github.com/users/Aqutras/followers",
+  "following_url": "https://api.github.com/users/Aqutras/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Aqutras/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Aqutras/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Aqutras/subscriptions",
+  "organizations_url": "https://api.github.com/users/Aqutras/orgs",
+  "repos_url": "https://api.github.com/users/Aqutras/repos",
+  "events_url": "https://api.github.com/users/Aqutras/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Aqutras/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

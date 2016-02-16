@@ -1,0 +1,20 @@
+{
+  "login": "yozloy",
+  "id": 345464,
+  "avatar_url": "https://avatars.githubusercontent.com/u/345464?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yozloy",
+  "html_url": "https://github.com/yozloy",
+  "followers_url": "https://api.github.com/users/yozloy/followers",
+  "following_url": "https://api.github.com/users/yozloy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yozloy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yozloy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yozloy/subscriptions",
+  "organizations_url": "https://api.github.com/users/yozloy/orgs",
+  "repos_url": "https://api.github.com/users/yozloy/repos",
+  "events_url": "https://api.github.com/users/yozloy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yozloy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

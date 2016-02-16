@@ -1,0 +1,20 @@
+{
+  "login": "daqing",
+  "id": 8126,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8126?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daqing",
+  "html_url": "https://github.com/daqing",
+  "followers_url": "https://api.github.com/users/daqing/followers",
+  "following_url": "https://api.github.com/users/daqing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daqing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daqing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daqing/subscriptions",
+  "organizations_url": "https://api.github.com/users/daqing/orgs",
+  "repos_url": "https://api.github.com/users/daqing/repos",
+  "events_url": "https://api.github.com/users/daqing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daqing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

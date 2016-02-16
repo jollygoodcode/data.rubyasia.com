@@ -1,0 +1,20 @@
+{
+  "login": "bluealert",
+  "id": 2254200,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2254200?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bluealert",
+  "html_url": "https://github.com/bluealert",
+  "followers_url": "https://api.github.com/users/bluealert/followers",
+  "following_url": "https://api.github.com/users/bluealert/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bluealert/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bluealert/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bluealert/subscriptions",
+  "organizations_url": "https://api.github.com/users/bluealert/orgs",
+  "repos_url": "https://api.github.com/users/bluealert/repos",
+  "events_url": "https://api.github.com/users/bluealert/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bluealert/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

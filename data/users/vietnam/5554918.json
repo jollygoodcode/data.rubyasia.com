@@ -1,0 +1,20 @@
+{
+  "login": "lambao",
+  "id": 5554918,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5554918?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lambao",
+  "html_url": "https://github.com/lambao",
+  "followers_url": "https://api.github.com/users/lambao/followers",
+  "following_url": "https://api.github.com/users/lambao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lambao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lambao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lambao/subscriptions",
+  "organizations_url": "https://api.github.com/users/lambao/orgs",
+  "repos_url": "https://api.github.com/users/lambao/repos",
+  "events_url": "https://api.github.com/users/lambao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lambao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

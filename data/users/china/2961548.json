@@ -1,0 +1,20 @@
+{
+  "login": "springwq",
+  "id": 2961548,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2961548?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/springwq",
+  "html_url": "https://github.com/springwq",
+  "followers_url": "https://api.github.com/users/springwq/followers",
+  "following_url": "https://api.github.com/users/springwq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/springwq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/springwq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/springwq/subscriptions",
+  "organizations_url": "https://api.github.com/users/springwq/orgs",
+  "repos_url": "https://api.github.com/users/springwq/repos",
+  "events_url": "https://api.github.com/users/springwq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/springwq/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

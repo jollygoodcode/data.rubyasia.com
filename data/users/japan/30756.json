@@ -1,0 +1,20 @@
+{
+  "login": "pwim",
+  "id": 30756,
+  "avatar_url": "https://avatars.githubusercontent.com/u/30756?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pwim",
+  "html_url": "https://github.com/pwim",
+  "followers_url": "https://api.github.com/users/pwim/followers",
+  "following_url": "https://api.github.com/users/pwim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pwim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pwim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pwim/subscriptions",
+  "organizations_url": "https://api.github.com/users/pwim/orgs",
+  "repos_url": "https://api.github.com/users/pwim/repos",
+  "events_url": "https://api.github.com/users/pwim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pwim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

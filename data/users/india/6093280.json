@@ -1,0 +1,20 @@
+{
+  "login": "xvidun",
+  "id": 6093280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6093280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xvidun",
+  "html_url": "https://github.com/xvidun",
+  "followers_url": "https://api.github.com/users/xvidun/followers",
+  "following_url": "https://api.github.com/users/xvidun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xvidun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xvidun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xvidun/subscriptions",
+  "organizations_url": "https://api.github.com/users/xvidun/orgs",
+  "repos_url": "https://api.github.com/users/xvidun/repos",
+  "events_url": "https://api.github.com/users/xvidun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xvidun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

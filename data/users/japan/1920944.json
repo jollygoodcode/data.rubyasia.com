@@ -1,0 +1,20 @@
+{
+  "login": "ochtea",
+  "id": 1920944,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1920944?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ochtea",
+  "html_url": "https://github.com/ochtea",
+  "followers_url": "https://api.github.com/users/ochtea/followers",
+  "following_url": "https://api.github.com/users/ochtea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ochtea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ochtea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ochtea/subscriptions",
+  "organizations_url": "https://api.github.com/users/ochtea/orgs",
+  "repos_url": "https://api.github.com/users/ochtea/repos",
+  "events_url": "https://api.github.com/users/ochtea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ochtea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

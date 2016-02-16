@@ -1,0 +1,20 @@
+{
+  "login": "masquaremo",
+  "id": 1023930,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1023930?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masquaremo",
+  "html_url": "https://github.com/masquaremo",
+  "followers_url": "https://api.github.com/users/masquaremo/followers",
+  "following_url": "https://api.github.com/users/masquaremo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masquaremo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masquaremo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masquaremo/subscriptions",
+  "organizations_url": "https://api.github.com/users/masquaremo/orgs",
+  "repos_url": "https://api.github.com/users/masquaremo/repos",
+  "events_url": "https://api.github.com/users/masquaremo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masquaremo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

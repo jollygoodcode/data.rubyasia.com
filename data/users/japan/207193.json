@@ -1,0 +1,20 @@
+{
+  "login": "fumi",
+  "id": 207193,
+  "avatar_url": "https://avatars.githubusercontent.com/u/207193?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fumi",
+  "html_url": "https://github.com/fumi",
+  "followers_url": "https://api.github.com/users/fumi/followers",
+  "following_url": "https://api.github.com/users/fumi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fumi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fumi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fumi/subscriptions",
+  "organizations_url": "https://api.github.com/users/fumi/orgs",
+  "repos_url": "https://api.github.com/users/fumi/repos",
+  "events_url": "https://api.github.com/users/fumi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fumi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

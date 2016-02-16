@@ -1,0 +1,20 @@
+{
+  "login": "ksujan",
+  "id": 3434700,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3434700?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ksujan",
+  "html_url": "https://github.com/ksujan",
+  "followers_url": "https://api.github.com/users/ksujan/followers",
+  "following_url": "https://api.github.com/users/ksujan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ksujan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ksujan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ksujan/subscriptions",
+  "organizations_url": "https://api.github.com/users/ksujan/orgs",
+  "repos_url": "https://api.github.com/users/ksujan/repos",
+  "events_url": "https://api.github.com/users/ksujan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ksujan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

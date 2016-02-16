@@ -1,0 +1,20 @@
+{
+  "login": "arnkorty",
+  "id": 2126904,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2126904?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arnkorty",
+  "html_url": "https://github.com/arnkorty",
+  "followers_url": "https://api.github.com/users/arnkorty/followers",
+  "following_url": "https://api.github.com/users/arnkorty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arnkorty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arnkorty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arnkorty/subscriptions",
+  "organizations_url": "https://api.github.com/users/arnkorty/orgs",
+  "repos_url": "https://api.github.com/users/arnkorty/repos",
+  "events_url": "https://api.github.com/users/arnkorty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arnkorty/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

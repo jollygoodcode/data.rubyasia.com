@@ -1,0 +1,20 @@
+{
+  "login": "railshouse",
+  "id": 240350,
+  "avatar_url": "https://avatars.githubusercontent.com/u/240350?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/railshouse",
+  "html_url": "https://github.com/railshouse",
+  "followers_url": "https://api.github.com/users/railshouse/followers",
+  "following_url": "https://api.github.com/users/railshouse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/railshouse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/railshouse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/railshouse/subscriptions",
+  "organizations_url": "https://api.github.com/users/railshouse/orgs",
+  "repos_url": "https://api.github.com/users/railshouse/repos",
+  "events_url": "https://api.github.com/users/railshouse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/railshouse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

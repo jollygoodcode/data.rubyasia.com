@@ -1,0 +1,20 @@
+{
+  "login": "huy-viki",
+  "id": 2076770,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2076770?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huy-viki",
+  "html_url": "https://github.com/huy-viki",
+  "followers_url": "https://api.github.com/users/huy-viki/followers",
+  "following_url": "https://api.github.com/users/huy-viki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huy-viki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huy-viki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huy-viki/subscriptions",
+  "organizations_url": "https://api.github.com/users/huy-viki/orgs",
+  "repos_url": "https://api.github.com/users/huy-viki/repos",
+  "events_url": "https://api.github.com/users/huy-viki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huy-viki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

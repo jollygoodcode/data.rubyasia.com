@@ -1,0 +1,20 @@
+{
+  "login": "rubyinhell",
+  "id": 1865978,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1865978?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubyinhell",
+  "html_url": "https://github.com/rubyinhell",
+  "followers_url": "https://api.github.com/users/rubyinhell/followers",
+  "following_url": "https://api.github.com/users/rubyinhell/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubyinhell/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubyinhell/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubyinhell/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubyinhell/orgs",
+  "repos_url": "https://api.github.com/users/rubyinhell/repos",
+  "events_url": "https://api.github.com/users/rubyinhell/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubyinhell/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

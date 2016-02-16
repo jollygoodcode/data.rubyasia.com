@@ -1,0 +1,20 @@
+{
+  "login": "Perish",
+  "id": 1891924,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1891924?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Perish",
+  "html_url": "https://github.com/Perish",
+  "followers_url": "https://api.github.com/users/Perish/followers",
+  "following_url": "https://api.github.com/users/Perish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Perish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Perish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Perish/subscriptions",
+  "organizations_url": "https://api.github.com/users/Perish/orgs",
+  "repos_url": "https://api.github.com/users/Perish/repos",
+  "events_url": "https://api.github.com/users/Perish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Perish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

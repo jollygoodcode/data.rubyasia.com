@@ -1,0 +1,20 @@
+{
+  "login": "kiranatama",
+  "id": 1121368,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1121368?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kiranatama",
+  "html_url": "https://github.com/kiranatama",
+  "followers_url": "https://api.github.com/users/kiranatama/followers",
+  "following_url": "https://api.github.com/users/kiranatama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kiranatama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kiranatama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kiranatama/subscriptions",
+  "organizations_url": "https://api.github.com/users/kiranatama/orgs",
+  "repos_url": "https://api.github.com/users/kiranatama/repos",
+  "events_url": "https://api.github.com/users/kiranatama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kiranatama/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

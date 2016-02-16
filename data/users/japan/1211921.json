@@ -1,0 +1,20 @@
+{
+  "login": "chonan",
+  "id": 1211921,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1211921?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chonan",
+  "html_url": "https://github.com/chonan",
+  "followers_url": "https://api.github.com/users/chonan/followers",
+  "following_url": "https://api.github.com/users/chonan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chonan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chonan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chonan/subscriptions",
+  "organizations_url": "https://api.github.com/users/chonan/orgs",
+  "repos_url": "https://api.github.com/users/chonan/repos",
+  "events_url": "https://api.github.com/users/chonan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chonan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

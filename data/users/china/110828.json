@@ -1,0 +1,20 @@
+{
+  "login": "sandyxu",
+  "id": 110828,
+  "avatar_url": "https://avatars.githubusercontent.com/u/110828?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sandyxu",
+  "html_url": "https://github.com/sandyxu",
+  "followers_url": "https://api.github.com/users/sandyxu/followers",
+  "following_url": "https://api.github.com/users/sandyxu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sandyxu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sandyxu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sandyxu/subscriptions",
+  "organizations_url": "https://api.github.com/users/sandyxu/orgs",
+  "repos_url": "https://api.github.com/users/sandyxu/repos",
+  "events_url": "https://api.github.com/users/sandyxu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sandyxu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

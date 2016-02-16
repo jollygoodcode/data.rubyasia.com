@@ -1,0 +1,20 @@
+{
+  "login": "hubud",
+  "id": 8011821,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8011821?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hubud",
+  "html_url": "https://github.com/hubud",
+  "followers_url": "https://api.github.com/users/hubud/followers",
+  "following_url": "https://api.github.com/users/hubud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hubud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hubud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hubud/subscriptions",
+  "organizations_url": "https://api.github.com/users/hubud/orgs",
+  "repos_url": "https://api.github.com/users/hubud/repos",
+  "events_url": "https://api.github.com/users/hubud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hubud/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

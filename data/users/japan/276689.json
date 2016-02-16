@@ -1,0 +1,20 @@
+{
+  "login": "tmiyai",
+  "id": 276689,
+  "avatar_url": "https://avatars.githubusercontent.com/u/276689?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tmiyai",
+  "html_url": "https://github.com/tmiyai",
+  "followers_url": "https://api.github.com/users/tmiyai/followers",
+  "following_url": "https://api.github.com/users/tmiyai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tmiyai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tmiyai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tmiyai/subscriptions",
+  "organizations_url": "https://api.github.com/users/tmiyai/orgs",
+  "repos_url": "https://api.github.com/users/tmiyai/repos",
+  "events_url": "https://api.github.com/users/tmiyai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tmiyai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

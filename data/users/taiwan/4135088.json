@@ -1,0 +1,20 @@
+{
+  "login": "odin1in",
+  "id": 4135088,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4135088?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/odin1in",
+  "html_url": "https://github.com/odin1in",
+  "followers_url": "https://api.github.com/users/odin1in/followers",
+  "following_url": "https://api.github.com/users/odin1in/following{/other_user}",
+  "gists_url": "https://api.github.com/users/odin1in/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/odin1in/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/odin1in/subscriptions",
+  "organizations_url": "https://api.github.com/users/odin1in/orgs",
+  "repos_url": "https://api.github.com/users/odin1in/repos",
+  "events_url": "https://api.github.com/users/odin1in/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/odin1in/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

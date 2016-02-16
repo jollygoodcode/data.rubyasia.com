@@ -1,0 +1,20 @@
+{
+  "login": "giraffi",
+  "id": 1038111,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1038111?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/giraffi",
+  "html_url": "https://github.com/giraffi",
+  "followers_url": "https://api.github.com/users/giraffi/followers",
+  "following_url": "https://api.github.com/users/giraffi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/giraffi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/giraffi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/giraffi/subscriptions",
+  "organizations_url": "https://api.github.com/users/giraffi/orgs",
+  "repos_url": "https://api.github.com/users/giraffi/repos",
+  "events_url": "https://api.github.com/users/giraffi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/giraffi/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

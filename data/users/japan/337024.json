@@ -1,0 +1,20 @@
+{
+  "login": "nabetama",
+  "id": 337024,
+  "avatar_url": "https://avatars.githubusercontent.com/u/337024?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nabetama",
+  "html_url": "https://github.com/nabetama",
+  "followers_url": "https://api.github.com/users/nabetama/followers",
+  "following_url": "https://api.github.com/users/nabetama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nabetama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nabetama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nabetama/subscriptions",
+  "organizations_url": "https://api.github.com/users/nabetama/orgs",
+  "repos_url": "https://api.github.com/users/nabetama/repos",
+  "events_url": "https://api.github.com/users/nabetama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nabetama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

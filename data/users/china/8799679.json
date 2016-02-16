@@ -1,0 +1,20 @@
+{
+  "login": "HIT-Pinboard",
+  "id": 8799679,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8799679?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HIT-Pinboard",
+  "html_url": "https://github.com/HIT-Pinboard",
+  "followers_url": "https://api.github.com/users/HIT-Pinboard/followers",
+  "following_url": "https://api.github.com/users/HIT-Pinboard/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HIT-Pinboard/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HIT-Pinboard/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HIT-Pinboard/subscriptions",
+  "organizations_url": "https://api.github.com/users/HIT-Pinboard/orgs",
+  "repos_url": "https://api.github.com/users/HIT-Pinboard/repos",
+  "events_url": "https://api.github.com/users/HIT-Pinboard/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HIT-Pinboard/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

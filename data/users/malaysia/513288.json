@@ -1,0 +1,20 @@
+{
+  "login": "AriusLee",
+  "id": 513288,
+  "avatar_url": "https://avatars.githubusercontent.com/u/513288?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AriusLee",
+  "html_url": "https://github.com/AriusLee",
+  "followers_url": "https://api.github.com/users/AriusLee/followers",
+  "following_url": "https://api.github.com/users/AriusLee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AriusLee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AriusLee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AriusLee/subscriptions",
+  "organizations_url": "https://api.github.com/users/AriusLee/orgs",
+  "repos_url": "https://api.github.com/users/AriusLee/repos",
+  "events_url": "https://api.github.com/users/AriusLee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AriusLee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

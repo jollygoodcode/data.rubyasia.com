@@ -1,0 +1,20 @@
+{
+  "login": "palam",
+  "id": 193395,
+  "avatar_url": "https://avatars.githubusercontent.com/u/193395?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/palam",
+  "html_url": "https://github.com/palam",
+  "followers_url": "https://api.github.com/users/palam/followers",
+  "following_url": "https://api.github.com/users/palam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/palam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/palam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/palam/subscriptions",
+  "organizations_url": "https://api.github.com/users/palam/orgs",
+  "repos_url": "https://api.github.com/users/palam/repos",
+  "events_url": "https://api.github.com/users/palam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/palam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

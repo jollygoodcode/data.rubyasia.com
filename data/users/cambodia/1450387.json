@@ -1,0 +1,20 @@
+{
+  "login": "srenghong",
+  "id": 1450387,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1450387?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/srenghong",
+  "html_url": "https://github.com/srenghong",
+  "followers_url": "https://api.github.com/users/srenghong/followers",
+  "following_url": "https://api.github.com/users/srenghong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/srenghong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/srenghong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/srenghong/subscriptions",
+  "organizations_url": "https://api.github.com/users/srenghong/orgs",
+  "repos_url": "https://api.github.com/users/srenghong/repos",
+  "events_url": "https://api.github.com/users/srenghong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/srenghong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

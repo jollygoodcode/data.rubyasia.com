@@ -1,0 +1,20 @@
+{
+  "login": "ageng",
+  "id": 2739992,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2739992?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ageng",
+  "html_url": "https://github.com/ageng",
+  "followers_url": "https://api.github.com/users/ageng/followers",
+  "following_url": "https://api.github.com/users/ageng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ageng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ageng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ageng/subscriptions",
+  "organizations_url": "https://api.github.com/users/ageng/orgs",
+  "repos_url": "https://api.github.com/users/ageng/repos",
+  "events_url": "https://api.github.com/users/ageng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ageng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

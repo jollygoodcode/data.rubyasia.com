@@ -1,0 +1,20 @@
+{
+  "login": "ejisan",
+  "id": 5208509,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5208509?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ejisan",
+  "html_url": "https://github.com/ejisan",
+  "followers_url": "https://api.github.com/users/ejisan/followers",
+  "following_url": "https://api.github.com/users/ejisan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ejisan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ejisan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ejisan/subscriptions",
+  "organizations_url": "https://api.github.com/users/ejisan/orgs",
+  "repos_url": "https://api.github.com/users/ejisan/repos",
+  "events_url": "https://api.github.com/users/ejisan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ejisan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

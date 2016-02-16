@@ -1,0 +1,20 @@
+{
+  "login": "hiclick",
+  "id": 11658115,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11658115?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiclick",
+  "html_url": "https://github.com/hiclick",
+  "followers_url": "https://api.github.com/users/hiclick/followers",
+  "following_url": "https://api.github.com/users/hiclick/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiclick/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiclick/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiclick/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiclick/orgs",
+  "repos_url": "https://api.github.com/users/hiclick/repos",
+  "events_url": "https://api.github.com/users/hiclick/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiclick/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

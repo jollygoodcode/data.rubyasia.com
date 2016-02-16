@@ -1,0 +1,20 @@
+{
+  "login": "ashugit",
+  "id": 783497,
+  "avatar_url": "https://avatars.githubusercontent.com/u/783497?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ashugit",
+  "html_url": "https://github.com/ashugit",
+  "followers_url": "https://api.github.com/users/ashugit/followers",
+  "following_url": "https://api.github.com/users/ashugit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ashugit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ashugit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ashugit/subscriptions",
+  "organizations_url": "https://api.github.com/users/ashugit/orgs",
+  "repos_url": "https://api.github.com/users/ashugit/repos",
+  "events_url": "https://api.github.com/users/ashugit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ashugit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

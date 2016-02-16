@@ -1,0 +1,20 @@
+{
+  "login": "handae",
+  "id": 2058928,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2058928?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/handae",
+  "html_url": "https://github.com/handae",
+  "followers_url": "https://api.github.com/users/handae/followers",
+  "following_url": "https://api.github.com/users/handae/following{/other_user}",
+  "gists_url": "https://api.github.com/users/handae/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/handae/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/handae/subscriptions",
+  "organizations_url": "https://api.github.com/users/handae/orgs",
+  "repos_url": "https://api.github.com/users/handae/repos",
+  "events_url": "https://api.github.com/users/handae/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/handae/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

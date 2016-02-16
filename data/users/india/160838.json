@@ -1,0 +1,20 @@
+{
+  "login": "ryandemelo",
+  "id": 160838,
+  "avatar_url": "https://avatars.githubusercontent.com/u/160838?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryandemelo",
+  "html_url": "https://github.com/ryandemelo",
+  "followers_url": "https://api.github.com/users/ryandemelo/followers",
+  "following_url": "https://api.github.com/users/ryandemelo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryandemelo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryandemelo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryandemelo/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryandemelo/orgs",
+  "repos_url": "https://api.github.com/users/ryandemelo/repos",
+  "events_url": "https://api.github.com/users/ryandemelo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryandemelo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

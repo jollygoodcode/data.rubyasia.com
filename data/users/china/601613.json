@@ -1,0 +1,20 @@
+{
+  "login": "kobeld",
+  "id": 601613,
+  "avatar_url": "https://avatars.githubusercontent.com/u/601613?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kobeld",
+  "html_url": "https://github.com/kobeld",
+  "followers_url": "https://api.github.com/users/kobeld/followers",
+  "following_url": "https://api.github.com/users/kobeld/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kobeld/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kobeld/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kobeld/subscriptions",
+  "organizations_url": "https://api.github.com/users/kobeld/orgs",
+  "repos_url": "https://api.github.com/users/kobeld/repos",
+  "events_url": "https://api.github.com/users/kobeld/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kobeld/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

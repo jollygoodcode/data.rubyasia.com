@@ -1,0 +1,20 @@
+{
+  "login": "jeremydavis",
+  "id": 841591,
+  "avatar_url": "https://avatars.githubusercontent.com/u/841591?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeremydavis",
+  "html_url": "https://github.com/jeremydavis",
+  "followers_url": "https://api.github.com/users/jeremydavis/followers",
+  "following_url": "https://api.github.com/users/jeremydavis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeremydavis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeremydavis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeremydavis/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeremydavis/orgs",
+  "repos_url": "https://api.github.com/users/jeremydavis/repos",
+  "events_url": "https://api.github.com/users/jeremydavis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeremydavis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

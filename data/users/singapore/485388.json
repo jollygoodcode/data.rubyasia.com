@@ -1,0 +1,20 @@
+{
+  "login": "artminister",
+  "id": 485388,
+  "avatar_url": "https://avatars.githubusercontent.com/u/485388?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/artminister",
+  "html_url": "https://github.com/artminister",
+  "followers_url": "https://api.github.com/users/artminister/followers",
+  "following_url": "https://api.github.com/users/artminister/following{/other_user}",
+  "gists_url": "https://api.github.com/users/artminister/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/artminister/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/artminister/subscriptions",
+  "organizations_url": "https://api.github.com/users/artminister/orgs",
+  "repos_url": "https://api.github.com/users/artminister/repos",
+  "events_url": "https://api.github.com/users/artminister/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/artminister/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ddbj",
+  "id": 6467138,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6467138?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ddbj",
+  "html_url": "https://github.com/ddbj",
+  "followers_url": "https://api.github.com/users/ddbj/followers",
+  "following_url": "https://api.github.com/users/ddbj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ddbj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ddbj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ddbj/subscriptions",
+  "organizations_url": "https://api.github.com/users/ddbj/orgs",
+  "repos_url": "https://api.github.com/users/ddbj/repos",
+  "events_url": "https://api.github.com/users/ddbj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ddbj/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

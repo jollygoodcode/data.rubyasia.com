@@ -1,0 +1,20 @@
+{
+  "login": "oshow",
+  "id": 36882,
+  "avatar_url": "https://avatars.githubusercontent.com/u/36882?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oshow",
+  "html_url": "https://github.com/oshow",
+  "followers_url": "https://api.github.com/users/oshow/followers",
+  "following_url": "https://api.github.com/users/oshow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oshow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oshow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oshow/subscriptions",
+  "organizations_url": "https://api.github.com/users/oshow/orgs",
+  "repos_url": "https://api.github.com/users/oshow/repos",
+  "events_url": "https://api.github.com/users/oshow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oshow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

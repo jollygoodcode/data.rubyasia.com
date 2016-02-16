@@ -1,0 +1,20 @@
+{
+  "login": "FloatGate",
+  "id": 460894,
+  "avatar_url": "https://avatars.githubusercontent.com/u/460894?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FloatGate",
+  "html_url": "https://github.com/FloatGate",
+  "followers_url": "https://api.github.com/users/FloatGate/followers",
+  "following_url": "https://api.github.com/users/FloatGate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FloatGate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FloatGate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FloatGate/subscriptions",
+  "organizations_url": "https://api.github.com/users/FloatGate/orgs",
+  "repos_url": "https://api.github.com/users/FloatGate/repos",
+  "events_url": "https://api.github.com/users/FloatGate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FloatGate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

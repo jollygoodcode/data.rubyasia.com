@@ -1,0 +1,20 @@
+{
+  "login": "wanm",
+  "id": 951006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/951006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wanm",
+  "html_url": "https://github.com/wanm",
+  "followers_url": "https://api.github.com/users/wanm/followers",
+  "following_url": "https://api.github.com/users/wanm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wanm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wanm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wanm/subscriptions",
+  "organizations_url": "https://api.github.com/users/wanm/orgs",
+  "repos_url": "https://api.github.com/users/wanm/repos",
+  "events_url": "https://api.github.com/users/wanm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wanm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

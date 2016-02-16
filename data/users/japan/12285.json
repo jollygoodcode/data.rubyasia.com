@@ -1,0 +1,20 @@
+{
+  "login": "yhara",
+  "id": 12285,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12285?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yhara",
+  "html_url": "https://github.com/yhara",
+  "followers_url": "https://api.github.com/users/yhara/followers",
+  "following_url": "https://api.github.com/users/yhara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yhara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yhara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yhara/subscriptions",
+  "organizations_url": "https://api.github.com/users/yhara/orgs",
+  "repos_url": "https://api.github.com/users/yhara/repos",
+  "events_url": "https://api.github.com/users/yhara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yhara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

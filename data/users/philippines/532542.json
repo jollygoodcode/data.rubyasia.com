@@ -1,0 +1,20 @@
+{
+  "login": "jessane",
+  "id": 532542,
+  "avatar_url": "https://avatars.githubusercontent.com/u/532542?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jessane",
+  "html_url": "https://github.com/jessane",
+  "followers_url": "https://api.github.com/users/jessane/followers",
+  "following_url": "https://api.github.com/users/jessane/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jessane/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jessane/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jessane/subscriptions",
+  "organizations_url": "https://api.github.com/users/jessane/orgs",
+  "repos_url": "https://api.github.com/users/jessane/repos",
+  "events_url": "https://api.github.com/users/jessane/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jessane/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sakaimo",
+  "id": 2832520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2832520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sakaimo",
+  "html_url": "https://github.com/sakaimo",
+  "followers_url": "https://api.github.com/users/sakaimo/followers",
+  "following_url": "https://api.github.com/users/sakaimo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sakaimo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sakaimo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sakaimo/subscriptions",
+  "organizations_url": "https://api.github.com/users/sakaimo/orgs",
+  "repos_url": "https://api.github.com/users/sakaimo/repos",
+  "events_url": "https://api.github.com/users/sakaimo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sakaimo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

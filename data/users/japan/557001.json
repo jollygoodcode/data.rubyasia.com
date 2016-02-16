@@ -1,0 +1,20 @@
+{
+  "login": "meltedice",
+  "id": 557001,
+  "avatar_url": "https://avatars.githubusercontent.com/u/557001?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/meltedice",
+  "html_url": "https://github.com/meltedice",
+  "followers_url": "https://api.github.com/users/meltedice/followers",
+  "following_url": "https://api.github.com/users/meltedice/following{/other_user}",
+  "gists_url": "https://api.github.com/users/meltedice/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/meltedice/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/meltedice/subscriptions",
+  "organizations_url": "https://api.github.com/users/meltedice/orgs",
+  "repos_url": "https://api.github.com/users/meltedice/repos",
+  "events_url": "https://api.github.com/users/meltedice/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/meltedice/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

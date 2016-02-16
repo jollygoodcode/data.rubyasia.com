@@ -1,0 +1,20 @@
+{
+  "login": "shanghaichris",
+  "id": 10986,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10986?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shanghaichris",
+  "html_url": "https://github.com/shanghaichris",
+  "followers_url": "https://api.github.com/users/shanghaichris/followers",
+  "following_url": "https://api.github.com/users/shanghaichris/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shanghaichris/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shanghaichris/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shanghaichris/subscriptions",
+  "organizations_url": "https://api.github.com/users/shanghaichris/orgs",
+  "repos_url": "https://api.github.com/users/shanghaichris/repos",
+  "events_url": "https://api.github.com/users/shanghaichris/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shanghaichris/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

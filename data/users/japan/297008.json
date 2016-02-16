@@ -1,0 +1,20 @@
+{
+  "login": "iori",
+  "id": 297008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/297008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iori",
+  "html_url": "https://github.com/iori",
+  "followers_url": "https://api.github.com/users/iori/followers",
+  "following_url": "https://api.github.com/users/iori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iori/subscriptions",
+  "organizations_url": "https://api.github.com/users/iori/orgs",
+  "repos_url": "https://api.github.com/users/iori/repos",
+  "events_url": "https://api.github.com/users/iori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

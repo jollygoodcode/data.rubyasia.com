@@ -1,0 +1,20 @@
+{
+  "login": "pancraschow",
+  "id": 1997177,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1997177?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pancraschow",
+  "html_url": "https://github.com/pancraschow",
+  "followers_url": "https://api.github.com/users/pancraschow/followers",
+  "following_url": "https://api.github.com/users/pancraschow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pancraschow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pancraschow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pancraschow/subscriptions",
+  "organizations_url": "https://api.github.com/users/pancraschow/orgs",
+  "repos_url": "https://api.github.com/users/pancraschow/repos",
+  "events_url": "https://api.github.com/users/pancraschow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pancraschow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

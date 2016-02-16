@@ -1,0 +1,20 @@
+{
+  "login": "spirospero",
+  "id": 3691856,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3691856?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spirospero",
+  "html_url": "https://github.com/spirospero",
+  "followers_url": "https://api.github.com/users/spirospero/followers",
+  "following_url": "https://api.github.com/users/spirospero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spirospero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spirospero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spirospero/subscriptions",
+  "organizations_url": "https://api.github.com/users/spirospero/orgs",
+  "repos_url": "https://api.github.com/users/spirospero/repos",
+  "events_url": "https://api.github.com/users/spirospero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spirospero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

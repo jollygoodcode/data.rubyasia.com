@@ -1,0 +1,20 @@
+{
+  "login": "GreenNerd",
+  "id": 7984231,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7984231?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GreenNerd",
+  "html_url": "https://github.com/GreenNerd",
+  "followers_url": "https://api.github.com/users/GreenNerd/followers",
+  "following_url": "https://api.github.com/users/GreenNerd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GreenNerd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GreenNerd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GreenNerd/subscriptions",
+  "organizations_url": "https://api.github.com/users/GreenNerd/orgs",
+  "repos_url": "https://api.github.com/users/GreenNerd/repos",
+  "events_url": "https://api.github.com/users/GreenNerd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GreenNerd/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

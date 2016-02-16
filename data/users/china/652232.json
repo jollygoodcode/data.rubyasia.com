@@ -1,0 +1,20 @@
+{
+  "login": "shanhua",
+  "id": 652232,
+  "avatar_url": "https://avatars.githubusercontent.com/u/652232?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shanhua",
+  "html_url": "https://github.com/shanhua",
+  "followers_url": "https://api.github.com/users/shanhua/followers",
+  "following_url": "https://api.github.com/users/shanhua/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shanhua/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shanhua/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shanhua/subscriptions",
+  "organizations_url": "https://api.github.com/users/shanhua/orgs",
+  "repos_url": "https://api.github.com/users/shanhua/repos",
+  "events_url": "https://api.github.com/users/shanhua/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shanhua/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

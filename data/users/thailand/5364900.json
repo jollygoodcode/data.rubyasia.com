@@ -1,0 +1,20 @@
+{
+  "login": "sikajs",
+  "id": 5364900,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5364900?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sikajs",
+  "html_url": "https://github.com/sikajs",
+  "followers_url": "https://api.github.com/users/sikajs/followers",
+  "following_url": "https://api.github.com/users/sikajs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sikajs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sikajs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sikajs/subscriptions",
+  "organizations_url": "https://api.github.com/users/sikajs/orgs",
+  "repos_url": "https://api.github.com/users/sikajs/repos",
+  "events_url": "https://api.github.com/users/sikajs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sikajs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

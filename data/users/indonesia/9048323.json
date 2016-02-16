@@ -1,0 +1,20 @@
+{
+  "login": "MagLoft",
+  "id": 9048323,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9048323?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MagLoft",
+  "html_url": "https://github.com/MagLoft",
+  "followers_url": "https://api.github.com/users/MagLoft/followers",
+  "following_url": "https://api.github.com/users/MagLoft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MagLoft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MagLoft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MagLoft/subscriptions",
+  "organizations_url": "https://api.github.com/users/MagLoft/orgs",
+  "repos_url": "https://api.github.com/users/MagLoft/repos",
+  "events_url": "https://api.github.com/users/MagLoft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MagLoft/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

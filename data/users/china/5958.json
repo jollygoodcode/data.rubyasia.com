@@ -1,0 +1,20 @@
+{
+  "login": "janx",
+  "id": 5958,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5958?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/janx",
+  "html_url": "https://github.com/janx",
+  "followers_url": "https://api.github.com/users/janx/followers",
+  "following_url": "https://api.github.com/users/janx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/janx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/janx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/janx/subscriptions",
+  "organizations_url": "https://api.github.com/users/janx/orgs",
+  "repos_url": "https://api.github.com/users/janx/repos",
+  "events_url": "https://api.github.com/users/janx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/janx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

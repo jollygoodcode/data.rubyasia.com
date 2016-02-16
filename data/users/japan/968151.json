@@ -1,0 +1,20 @@
+{
+  "login": "kengos",
+  "id": 968151,
+  "avatar_url": "https://avatars.githubusercontent.com/u/968151?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kengos",
+  "html_url": "https://github.com/kengos",
+  "followers_url": "https://api.github.com/users/kengos/followers",
+  "following_url": "https://api.github.com/users/kengos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kengos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kengos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kengos/subscriptions",
+  "organizations_url": "https://api.github.com/users/kengos/orgs",
+  "repos_url": "https://api.github.com/users/kengos/repos",
+  "events_url": "https://api.github.com/users/kengos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kengos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "linxin",
+  "id": 68113,
+  "avatar_url": "https://avatars.githubusercontent.com/u/68113?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/linxin",
+  "html_url": "https://github.com/linxin",
+  "followers_url": "https://api.github.com/users/linxin/followers",
+  "following_url": "https://api.github.com/users/linxin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/linxin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/linxin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/linxin/subscriptions",
+  "organizations_url": "https://api.github.com/users/linxin/orgs",
+  "repos_url": "https://api.github.com/users/linxin/repos",
+  "events_url": "https://api.github.com/users/linxin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/linxin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

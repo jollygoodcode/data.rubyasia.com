@@ -1,0 +1,20 @@
+{
+  "login": "cnlojure",
+  "id": 939513,
+  "avatar_url": "https://avatars.githubusercontent.com/u/939513?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cnlojure",
+  "html_url": "https://github.com/cnlojure",
+  "followers_url": "https://api.github.com/users/cnlojure/followers",
+  "following_url": "https://api.github.com/users/cnlojure/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cnlojure/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cnlojure/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cnlojure/subscriptions",
+  "organizations_url": "https://api.github.com/users/cnlojure/orgs",
+  "repos_url": "https://api.github.com/users/cnlojure/repos",
+  "events_url": "https://api.github.com/users/cnlojure/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cnlojure/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

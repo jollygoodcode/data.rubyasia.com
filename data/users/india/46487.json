@@ -1,0 +1,20 @@
+{
+  "login": "rapbhan",
+  "id": 46487,
+  "avatar_url": "https://avatars.githubusercontent.com/u/46487?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rapbhan",
+  "html_url": "https://github.com/rapbhan",
+  "followers_url": "https://api.github.com/users/rapbhan/followers",
+  "following_url": "https://api.github.com/users/rapbhan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rapbhan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rapbhan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rapbhan/subscriptions",
+  "organizations_url": "https://api.github.com/users/rapbhan/orgs",
+  "repos_url": "https://api.github.com/users/rapbhan/repos",
+  "events_url": "https://api.github.com/users/rapbhan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rapbhan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

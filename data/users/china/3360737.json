@@ -1,0 +1,20 @@
+{
+  "login": "wmzhai",
+  "id": 3360737,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3360737?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wmzhai",
+  "html_url": "https://github.com/wmzhai",
+  "followers_url": "https://api.github.com/users/wmzhai/followers",
+  "following_url": "https://api.github.com/users/wmzhai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wmzhai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wmzhai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wmzhai/subscriptions",
+  "organizations_url": "https://api.github.com/users/wmzhai/orgs",
+  "repos_url": "https://api.github.com/users/wmzhai/repos",
+  "events_url": "https://api.github.com/users/wmzhai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wmzhai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

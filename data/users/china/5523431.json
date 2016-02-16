@@ -1,0 +1,20 @@
+{
+  "login": "kimim",
+  "id": 5523431,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5523431?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimim",
+  "html_url": "https://github.com/kimim",
+  "followers_url": "https://api.github.com/users/kimim/followers",
+  "following_url": "https://api.github.com/users/kimim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimim/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimim/orgs",
+  "repos_url": "https://api.github.com/users/kimim/repos",
+  "events_url": "https://api.github.com/users/kimim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

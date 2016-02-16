@@ -1,0 +1,20 @@
+{
+  "login": "joloudov",
+  "id": 320018,
+  "avatar_url": "https://avatars.githubusercontent.com/u/320018?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joloudov",
+  "html_url": "https://github.com/joloudov",
+  "followers_url": "https://api.github.com/users/joloudov/followers",
+  "following_url": "https://api.github.com/users/joloudov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joloudov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joloudov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joloudov/subscriptions",
+  "organizations_url": "https://api.github.com/users/joloudov/orgs",
+  "repos_url": "https://api.github.com/users/joloudov/repos",
+  "events_url": "https://api.github.com/users/joloudov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joloudov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

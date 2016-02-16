@@ -1,0 +1,20 @@
+{
+  "login": "ishikuro",
+  "id": 1240754,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1240754?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ishikuro",
+  "html_url": "https://github.com/ishikuro",
+  "followers_url": "https://api.github.com/users/ishikuro/followers",
+  "following_url": "https://api.github.com/users/ishikuro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ishikuro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ishikuro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ishikuro/subscriptions",
+  "organizations_url": "https://api.github.com/users/ishikuro/orgs",
+  "repos_url": "https://api.github.com/users/ishikuro/repos",
+  "events_url": "https://api.github.com/users/ishikuro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ishikuro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

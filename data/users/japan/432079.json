@@ -1,0 +1,20 @@
+{
+  "login": "kinofumi",
+  "id": 432079,
+  "avatar_url": "https://avatars.githubusercontent.com/u/432079?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kinofumi",
+  "html_url": "https://github.com/kinofumi",
+  "followers_url": "https://api.github.com/users/kinofumi/followers",
+  "following_url": "https://api.github.com/users/kinofumi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kinofumi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kinofumi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kinofumi/subscriptions",
+  "organizations_url": "https://api.github.com/users/kinofumi/orgs",
+  "repos_url": "https://api.github.com/users/kinofumi/repos",
+  "events_url": "https://api.github.com/users/kinofumi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kinofumi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

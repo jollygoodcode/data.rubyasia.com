@@ -1,0 +1,20 @@
+{
+  "login": "thinkerou",
+  "id": 4488261,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4488261?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thinkerou",
+  "html_url": "https://github.com/thinkerou",
+  "followers_url": "https://api.github.com/users/thinkerou/followers",
+  "following_url": "https://api.github.com/users/thinkerou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thinkerou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thinkerou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thinkerou/subscriptions",
+  "organizations_url": "https://api.github.com/users/thinkerou/orgs",
+  "repos_url": "https://api.github.com/users/thinkerou/repos",
+  "events_url": "https://api.github.com/users/thinkerou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thinkerou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

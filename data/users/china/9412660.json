@@ -1,0 +1,20 @@
+{
+  "login": "Prnyself",
+  "id": 9412660,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9412660?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Prnyself",
+  "html_url": "https://github.com/Prnyself",
+  "followers_url": "https://api.github.com/users/Prnyself/followers",
+  "following_url": "https://api.github.com/users/Prnyself/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Prnyself/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Prnyself/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Prnyself/subscriptions",
+  "organizations_url": "https://api.github.com/users/Prnyself/orgs",
+  "repos_url": "https://api.github.com/users/Prnyself/repos",
+  "events_url": "https://api.github.com/users/Prnyself/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Prnyself/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

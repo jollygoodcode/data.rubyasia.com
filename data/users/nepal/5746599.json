@@ -1,0 +1,20 @@
+{
+  "login": "BlackRabbitt",
+  "id": 5746599,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5746599?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BlackRabbitt",
+  "html_url": "https://github.com/BlackRabbitt",
+  "followers_url": "https://api.github.com/users/BlackRabbitt/followers",
+  "following_url": "https://api.github.com/users/BlackRabbitt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BlackRabbitt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BlackRabbitt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BlackRabbitt/subscriptions",
+  "organizations_url": "https://api.github.com/users/BlackRabbitt/orgs",
+  "repos_url": "https://api.github.com/users/BlackRabbitt/repos",
+  "events_url": "https://api.github.com/users/BlackRabbitt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BlackRabbitt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

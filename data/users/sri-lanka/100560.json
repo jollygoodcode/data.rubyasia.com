@@ -1,0 +1,20 @@
+{
+  "login": "aslamnd",
+  "id": 100560,
+  "avatar_url": "https://avatars.githubusercontent.com/u/100560?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aslamnd",
+  "html_url": "https://github.com/aslamnd",
+  "followers_url": "https://api.github.com/users/aslamnd/followers",
+  "following_url": "https://api.github.com/users/aslamnd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aslamnd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aslamnd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aslamnd/subscriptions",
+  "organizations_url": "https://api.github.com/users/aslamnd/orgs",
+  "repos_url": "https://api.github.com/users/aslamnd/repos",
+  "events_url": "https://api.github.com/users/aslamnd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aslamnd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

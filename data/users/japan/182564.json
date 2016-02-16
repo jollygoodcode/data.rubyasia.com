@@ -1,0 +1,20 @@
+{
+  "login": "milkcocoa",
+  "id": 182564,
+  "avatar_url": "https://avatars.githubusercontent.com/u/182564?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/milkcocoa",
+  "html_url": "https://github.com/milkcocoa",
+  "followers_url": "https://api.github.com/users/milkcocoa/followers",
+  "following_url": "https://api.github.com/users/milkcocoa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/milkcocoa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/milkcocoa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/milkcocoa/subscriptions",
+  "organizations_url": "https://api.github.com/users/milkcocoa/orgs",
+  "repos_url": "https://api.github.com/users/milkcocoa/repos",
+  "events_url": "https://api.github.com/users/milkcocoa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/milkcocoa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

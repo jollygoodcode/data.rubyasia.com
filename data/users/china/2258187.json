@@ -1,0 +1,20 @@
+{
+  "login": "archieyang",
+  "id": 2258187,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2258187?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/archieyang",
+  "html_url": "https://github.com/archieyang",
+  "followers_url": "https://api.github.com/users/archieyang/followers",
+  "following_url": "https://api.github.com/users/archieyang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/archieyang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/archieyang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/archieyang/subscriptions",
+  "organizations_url": "https://api.github.com/users/archieyang/orgs",
+  "repos_url": "https://api.github.com/users/archieyang/repos",
+  "events_url": "https://api.github.com/users/archieyang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/archieyang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

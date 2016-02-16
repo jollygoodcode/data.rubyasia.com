@@ -1,0 +1,20 @@
+{
+  "login": "amitgude",
+  "id": 10381505,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10381505?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amitgude",
+  "html_url": "https://github.com/amitgude",
+  "followers_url": "https://api.github.com/users/amitgude/followers",
+  "following_url": "https://api.github.com/users/amitgude/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amitgude/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amitgude/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amitgude/subscriptions",
+  "organizations_url": "https://api.github.com/users/amitgude/orgs",
+  "repos_url": "https://api.github.com/users/amitgude/repos",
+  "events_url": "https://api.github.com/users/amitgude/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amitgude/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

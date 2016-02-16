@@ -1,0 +1,20 @@
+{
+  "login": "qivtech",
+  "id": 5717696,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5717696?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qivtech",
+  "html_url": "https://github.com/qivtech",
+  "followers_url": "https://api.github.com/users/qivtech/followers",
+  "following_url": "https://api.github.com/users/qivtech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qivtech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qivtech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qivtech/subscriptions",
+  "organizations_url": "https://api.github.com/users/qivtech/orgs",
+  "repos_url": "https://api.github.com/users/qivtech/repos",
+  "events_url": "https://api.github.com/users/qivtech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qivtech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

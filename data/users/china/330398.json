@@ -1,0 +1,20 @@
+{
+  "login": "brian-bai",
+  "id": 330398,
+  "avatar_url": "https://avatars.githubusercontent.com/u/330398?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brian-bai",
+  "html_url": "https://github.com/brian-bai",
+  "followers_url": "https://api.github.com/users/brian-bai/followers",
+  "following_url": "https://api.github.com/users/brian-bai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brian-bai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brian-bai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brian-bai/subscriptions",
+  "organizations_url": "https://api.github.com/users/brian-bai/orgs",
+  "repos_url": "https://api.github.com/users/brian-bai/repos",
+  "events_url": "https://api.github.com/users/brian-bai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brian-bai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

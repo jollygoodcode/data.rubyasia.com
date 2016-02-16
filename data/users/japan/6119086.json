@@ -1,0 +1,20 @@
+{
+  "login": "mmyoji",
+  "id": 6119086,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6119086?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mmyoji",
+  "html_url": "https://github.com/mmyoji",
+  "followers_url": "https://api.github.com/users/mmyoji/followers",
+  "following_url": "https://api.github.com/users/mmyoji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mmyoji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mmyoji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mmyoji/subscriptions",
+  "organizations_url": "https://api.github.com/users/mmyoji/orgs",
+  "repos_url": "https://api.github.com/users/mmyoji/repos",
+  "events_url": "https://api.github.com/users/mmyoji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mmyoji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "chaos-studio",
+  "id": 1829908,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1829908?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chaos-studio",
+  "html_url": "https://github.com/chaos-studio",
+  "followers_url": "https://api.github.com/users/chaos-studio/followers",
+  "following_url": "https://api.github.com/users/chaos-studio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chaos-studio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chaos-studio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chaos-studio/subscriptions",
+  "organizations_url": "https://api.github.com/users/chaos-studio/orgs",
+  "repos_url": "https://api.github.com/users/chaos-studio/repos",
+  "events_url": "https://api.github.com/users/chaos-studio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chaos-studio/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

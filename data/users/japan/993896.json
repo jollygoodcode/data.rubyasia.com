@@ -1,0 +1,20 @@
+{
+  "login": "mhamano",
+  "id": 993896,
+  "avatar_url": "https://avatars.githubusercontent.com/u/993896?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mhamano",
+  "html_url": "https://github.com/mhamano",
+  "followers_url": "https://api.github.com/users/mhamano/followers",
+  "following_url": "https://api.github.com/users/mhamano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mhamano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mhamano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mhamano/subscriptions",
+  "organizations_url": "https://api.github.com/users/mhamano/orgs",
+  "repos_url": "https://api.github.com/users/mhamano/repos",
+  "events_url": "https://api.github.com/users/mhamano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mhamano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

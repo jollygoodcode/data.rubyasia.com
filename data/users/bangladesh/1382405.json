@@ -1,0 +1,20 @@
+{
+  "login": "codedefine",
+  "id": 1382405,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1382405?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codedefine",
+  "html_url": "https://github.com/codedefine",
+  "followers_url": "https://api.github.com/users/codedefine/followers",
+  "following_url": "https://api.github.com/users/codedefine/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codedefine/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codedefine/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codedefine/subscriptions",
+  "organizations_url": "https://api.github.com/users/codedefine/orgs",
+  "repos_url": "https://api.github.com/users/codedefine/repos",
+  "events_url": "https://api.github.com/users/codedefine/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codedefine/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

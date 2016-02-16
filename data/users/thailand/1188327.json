@@ -1,0 +1,20 @@
+{
+  "login": "znut",
+  "id": 1188327,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1188327?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/znut",
+  "html_url": "https://github.com/znut",
+  "followers_url": "https://api.github.com/users/znut/followers",
+  "following_url": "https://api.github.com/users/znut/following{/other_user}",
+  "gists_url": "https://api.github.com/users/znut/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/znut/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/znut/subscriptions",
+  "organizations_url": "https://api.github.com/users/znut/orgs",
+  "repos_url": "https://api.github.com/users/znut/repos",
+  "events_url": "https://api.github.com/users/znut/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/znut/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

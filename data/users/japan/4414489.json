@@ -1,0 +1,20 @@
+{
+  "login": "tfull",
+  "id": 4414489,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4414489?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tfull",
+  "html_url": "https://github.com/tfull",
+  "followers_url": "https://api.github.com/users/tfull/followers",
+  "following_url": "https://api.github.com/users/tfull/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tfull/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tfull/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tfull/subscriptions",
+  "organizations_url": "https://api.github.com/users/tfull/orgs",
+  "repos_url": "https://api.github.com/users/tfull/repos",
+  "events_url": "https://api.github.com/users/tfull/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tfull/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

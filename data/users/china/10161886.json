@@ -1,0 +1,20 @@
+{
+  "login": "DKChan",
+  "id": 10161886,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10161886?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DKChan",
+  "html_url": "https://github.com/DKChan",
+  "followers_url": "https://api.github.com/users/DKChan/followers",
+  "following_url": "https://api.github.com/users/DKChan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DKChan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DKChan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DKChan/subscriptions",
+  "organizations_url": "https://api.github.com/users/DKChan/orgs",
+  "repos_url": "https://api.github.com/users/DKChan/repos",
+  "events_url": "https://api.github.com/users/DKChan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DKChan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

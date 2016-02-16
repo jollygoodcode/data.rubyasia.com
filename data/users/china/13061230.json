@@ -1,0 +1,20 @@
+{
+  "login": "zhulux",
+  "id": 13061230,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13061230?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhulux",
+  "html_url": "https://github.com/zhulux",
+  "followers_url": "https://api.github.com/users/zhulux/followers",
+  "following_url": "https://api.github.com/users/zhulux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhulux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhulux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhulux/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhulux/orgs",
+  "repos_url": "https://api.github.com/users/zhulux/repos",
+  "events_url": "https://api.github.com/users/zhulux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhulux/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

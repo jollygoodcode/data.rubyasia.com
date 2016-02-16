@@ -1,0 +1,20 @@
+{
+  "login": "justqyx",
+  "id": 1448539,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1448539?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/justqyx",
+  "html_url": "https://github.com/justqyx",
+  "followers_url": "https://api.github.com/users/justqyx/followers",
+  "following_url": "https://api.github.com/users/justqyx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/justqyx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/justqyx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/justqyx/subscriptions",
+  "organizations_url": "https://api.github.com/users/justqyx/orgs",
+  "repos_url": "https://api.github.com/users/justqyx/repos",
+  "events_url": "https://api.github.com/users/justqyx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/justqyx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

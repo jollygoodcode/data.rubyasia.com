@@ -1,0 +1,20 @@
+{
+  "login": "langrich",
+  "id": 2114688,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2114688?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/langrich",
+  "html_url": "https://github.com/langrich",
+  "followers_url": "https://api.github.com/users/langrich/followers",
+  "following_url": "https://api.github.com/users/langrich/following{/other_user}",
+  "gists_url": "https://api.github.com/users/langrich/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/langrich/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/langrich/subscriptions",
+  "organizations_url": "https://api.github.com/users/langrich/orgs",
+  "repos_url": "https://api.github.com/users/langrich/repos",
+  "events_url": "https://api.github.com/users/langrich/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/langrich/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "john7ric",
+  "id": 5922060,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5922060?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/john7ric",
+  "html_url": "https://github.com/john7ric",
+  "followers_url": "https://api.github.com/users/john7ric/followers",
+  "following_url": "https://api.github.com/users/john7ric/following{/other_user}",
+  "gists_url": "https://api.github.com/users/john7ric/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/john7ric/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/john7ric/subscriptions",
+  "organizations_url": "https://api.github.com/users/john7ric/orgs",
+  "repos_url": "https://api.github.com/users/john7ric/repos",
+  "events_url": "https://api.github.com/users/john7ric/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/john7ric/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mikeljyms",
+  "id": 6115293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6115293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mikeljyms",
+  "html_url": "https://github.com/mikeljyms",
+  "followers_url": "https://api.github.com/users/mikeljyms/followers",
+  "following_url": "https://api.github.com/users/mikeljyms/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mikeljyms/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mikeljyms/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mikeljyms/subscriptions",
+  "organizations_url": "https://api.github.com/users/mikeljyms/orgs",
+  "repos_url": "https://api.github.com/users/mikeljyms/repos",
+  "events_url": "https://api.github.com/users/mikeljyms/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mikeljyms/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

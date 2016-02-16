@@ -1,0 +1,20 @@
+{
+  "login": "amonmoce",
+  "id": 7223550,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7223550?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amonmoce",
+  "html_url": "https://github.com/amonmoce",
+  "followers_url": "https://api.github.com/users/amonmoce/followers",
+  "following_url": "https://api.github.com/users/amonmoce/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amonmoce/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amonmoce/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amonmoce/subscriptions",
+  "organizations_url": "https://api.github.com/users/amonmoce/orgs",
+  "repos_url": "https://api.github.com/users/amonmoce/repos",
+  "events_url": "https://api.github.com/users/amonmoce/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amonmoce/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

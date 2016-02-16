@@ -1,0 +1,20 @@
+{
+  "login": "akicho8",
+  "id": 808955,
+  "avatar_url": "https://avatars.githubusercontent.com/u/808955?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akicho8",
+  "html_url": "https://github.com/akicho8",
+  "followers_url": "https://api.github.com/users/akicho8/followers",
+  "following_url": "https://api.github.com/users/akicho8/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akicho8/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akicho8/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akicho8/subscriptions",
+  "organizations_url": "https://api.github.com/users/akicho8/orgs",
+  "repos_url": "https://api.github.com/users/akicho8/repos",
+  "events_url": "https://api.github.com/users/akicho8/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akicho8/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "TakaoN",
+  "id": 1592729,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1592729?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TakaoN",
+  "html_url": "https://github.com/TakaoN",
+  "followers_url": "https://api.github.com/users/TakaoN/followers",
+  "following_url": "https://api.github.com/users/TakaoN/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TakaoN/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TakaoN/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TakaoN/subscriptions",
+  "organizations_url": "https://api.github.com/users/TakaoN/orgs",
+  "repos_url": "https://api.github.com/users/TakaoN/repos",
+  "events_url": "https://api.github.com/users/TakaoN/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TakaoN/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

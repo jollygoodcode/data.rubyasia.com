@@ -1,0 +1,20 @@
+{
+  "login": "JustinTW",
+  "id": 1881088,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1881088?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JustinTW",
+  "html_url": "https://github.com/JustinTW",
+  "followers_url": "https://api.github.com/users/JustinTW/followers",
+  "following_url": "https://api.github.com/users/JustinTW/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JustinTW/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JustinTW/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JustinTW/subscriptions",
+  "organizations_url": "https://api.github.com/users/JustinTW/orgs",
+  "repos_url": "https://api.github.com/users/JustinTW/repos",
+  "events_url": "https://api.github.com/users/JustinTW/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JustinTW/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

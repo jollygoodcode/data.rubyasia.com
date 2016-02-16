@@ -1,0 +1,20 @@
+{
+  "login": "blogsit",
+  "id": 5063033,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5063033?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/blogsit",
+  "html_url": "https://github.com/blogsit",
+  "followers_url": "https://api.github.com/users/blogsit/followers",
+  "following_url": "https://api.github.com/users/blogsit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/blogsit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/blogsit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/blogsit/subscriptions",
+  "organizations_url": "https://api.github.com/users/blogsit/orgs",
+  "repos_url": "https://api.github.com/users/blogsit/repos",
+  "events_url": "https://api.github.com/users/blogsit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/blogsit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

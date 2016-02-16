@@ -1,0 +1,20 @@
+{
+  "login": "akokubo",
+  "id": 309145,
+  "avatar_url": "https://avatars.githubusercontent.com/u/309145?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akokubo",
+  "html_url": "https://github.com/akokubo",
+  "followers_url": "https://api.github.com/users/akokubo/followers",
+  "following_url": "https://api.github.com/users/akokubo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akokubo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akokubo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akokubo/subscriptions",
+  "organizations_url": "https://api.github.com/users/akokubo/orgs",
+  "repos_url": "https://api.github.com/users/akokubo/repos",
+  "events_url": "https://api.github.com/users/akokubo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akokubo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

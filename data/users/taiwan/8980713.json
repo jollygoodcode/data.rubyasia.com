@@ -1,0 +1,20 @@
+{
+  "login": "mrjumpy",
+  "id": 8980713,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8980713?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrjumpy",
+  "html_url": "https://github.com/mrjumpy",
+  "followers_url": "https://api.github.com/users/mrjumpy/followers",
+  "following_url": "https://api.github.com/users/mrjumpy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrjumpy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrjumpy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrjumpy/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrjumpy/orgs",
+  "repos_url": "https://api.github.com/users/mrjumpy/repos",
+  "events_url": "https://api.github.com/users/mrjumpy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrjumpy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

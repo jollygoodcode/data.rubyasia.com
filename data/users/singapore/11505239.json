@@ -1,0 +1,20 @@
+{
+  "login": "nusskylab",
+  "id": 11505239,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11505239?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nusskylab",
+  "html_url": "https://github.com/nusskylab",
+  "followers_url": "https://api.github.com/users/nusskylab/followers",
+  "following_url": "https://api.github.com/users/nusskylab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nusskylab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nusskylab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nusskylab/subscriptions",
+  "organizations_url": "https://api.github.com/users/nusskylab/orgs",
+  "repos_url": "https://api.github.com/users/nusskylab/repos",
+  "events_url": "https://api.github.com/users/nusskylab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nusskylab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shankuo",
+  "id": 10167315,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10167315?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shankuo",
+  "html_url": "https://github.com/shankuo",
+  "followers_url": "https://api.github.com/users/shankuo/followers",
+  "following_url": "https://api.github.com/users/shankuo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shankuo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shankuo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shankuo/subscriptions",
+  "organizations_url": "https://api.github.com/users/shankuo/orgs",
+  "repos_url": "https://api.github.com/users/shankuo/repos",
+  "events_url": "https://api.github.com/users/shankuo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shankuo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

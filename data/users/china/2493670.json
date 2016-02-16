@@ -1,0 +1,20 @@
+{
+  "login": "johnnian",
+  "id": 2493670,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2493670?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/johnnian",
+  "html_url": "https://github.com/johnnian",
+  "followers_url": "https://api.github.com/users/johnnian/followers",
+  "following_url": "https://api.github.com/users/johnnian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/johnnian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/johnnian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/johnnian/subscriptions",
+  "organizations_url": "https://api.github.com/users/johnnian/orgs",
+  "repos_url": "https://api.github.com/users/johnnian/repos",
+  "events_url": "https://api.github.com/users/johnnian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/johnnian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

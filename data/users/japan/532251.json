@@ -1,0 +1,20 @@
+{
+  "login": "orangain",
+  "id": 532251,
+  "avatar_url": "https://avatars.githubusercontent.com/u/532251?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/orangain",
+  "html_url": "https://github.com/orangain",
+  "followers_url": "https://api.github.com/users/orangain/followers",
+  "following_url": "https://api.github.com/users/orangain/following{/other_user}",
+  "gists_url": "https://api.github.com/users/orangain/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/orangain/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/orangain/subscriptions",
+  "organizations_url": "https://api.github.com/users/orangain/orgs",
+  "repos_url": "https://api.github.com/users/orangain/repos",
+  "events_url": "https://api.github.com/users/orangain/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/orangain/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

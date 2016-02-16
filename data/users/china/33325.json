@@ -1,0 +1,20 @@
+{
+  "login": "dazuiba",
+  "id": 33325,
+  "avatar_url": "https://avatars.githubusercontent.com/u/33325?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dazuiba",
+  "html_url": "https://github.com/dazuiba",
+  "followers_url": "https://api.github.com/users/dazuiba/followers",
+  "following_url": "https://api.github.com/users/dazuiba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dazuiba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dazuiba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dazuiba/subscriptions",
+  "organizations_url": "https://api.github.com/users/dazuiba/orgs",
+  "repos_url": "https://api.github.com/users/dazuiba/repos",
+  "events_url": "https://api.github.com/users/dazuiba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dazuiba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

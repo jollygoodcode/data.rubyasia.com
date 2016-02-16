@@ -1,0 +1,20 @@
+{
+  "login": "harasou",
+  "id": 2699810,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2699810?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harasou",
+  "html_url": "https://github.com/harasou",
+  "followers_url": "https://api.github.com/users/harasou/followers",
+  "following_url": "https://api.github.com/users/harasou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harasou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harasou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harasou/subscriptions",
+  "organizations_url": "https://api.github.com/users/harasou/orgs",
+  "repos_url": "https://api.github.com/users/harasou/repos",
+  "events_url": "https://api.github.com/users/harasou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harasou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

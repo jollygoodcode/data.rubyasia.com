@@ -1,0 +1,20 @@
+{
+  "login": "andypig",
+  "id": 7068036,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7068036?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andypig",
+  "html_url": "https://github.com/andypig",
+  "followers_url": "https://api.github.com/users/andypig/followers",
+  "following_url": "https://api.github.com/users/andypig/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andypig/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andypig/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andypig/subscriptions",
+  "organizations_url": "https://api.github.com/users/andypig/orgs",
+  "repos_url": "https://api.github.com/users/andypig/repos",
+  "events_url": "https://api.github.com/users/andypig/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andypig/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

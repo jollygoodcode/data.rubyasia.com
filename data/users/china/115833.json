@@ -1,0 +1,20 @@
+{
+  "login": "op-sdo-com",
+  "id": 115833,
+  "avatar_url": "https://avatars.githubusercontent.com/u/115833?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/op-sdo-com",
+  "html_url": "https://github.com/op-sdo-com",
+  "followers_url": "https://api.github.com/users/op-sdo-com/followers",
+  "following_url": "https://api.github.com/users/op-sdo-com/following{/other_user}",
+  "gists_url": "https://api.github.com/users/op-sdo-com/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/op-sdo-com/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/op-sdo-com/subscriptions",
+  "organizations_url": "https://api.github.com/users/op-sdo-com/orgs",
+  "repos_url": "https://api.github.com/users/op-sdo-com/repos",
+  "events_url": "https://api.github.com/users/op-sdo-com/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/op-sdo-com/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

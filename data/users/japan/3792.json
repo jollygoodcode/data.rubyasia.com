@@ -1,0 +1,20 @@
+{
+  "login": "gueorgui",
+  "id": 3792,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3792?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gueorgui",
+  "html_url": "https://github.com/gueorgui",
+  "followers_url": "https://api.github.com/users/gueorgui/followers",
+  "following_url": "https://api.github.com/users/gueorgui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gueorgui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gueorgui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gueorgui/subscriptions",
+  "organizations_url": "https://api.github.com/users/gueorgui/orgs",
+  "repos_url": "https://api.github.com/users/gueorgui/repos",
+  "events_url": "https://api.github.com/users/gueorgui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gueorgui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

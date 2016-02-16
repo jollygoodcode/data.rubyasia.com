@@ -1,0 +1,20 @@
+{
+  "login": "ma-aizawa",
+  "id": 733110,
+  "avatar_url": "https://avatars.githubusercontent.com/u/733110?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ma-aizawa",
+  "html_url": "https://github.com/ma-aizawa",
+  "followers_url": "https://api.github.com/users/ma-aizawa/followers",
+  "following_url": "https://api.github.com/users/ma-aizawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ma-aizawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ma-aizawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ma-aizawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/ma-aizawa/orgs",
+  "repos_url": "https://api.github.com/users/ma-aizawa/repos",
+  "events_url": "https://api.github.com/users/ma-aizawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ma-aizawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

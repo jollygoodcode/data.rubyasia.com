@@ -1,0 +1,20 @@
+{
+  "login": "tkwong",
+  "id": 287515,
+  "avatar_url": "https://avatars.githubusercontent.com/u/287515?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tkwong",
+  "html_url": "https://github.com/tkwong",
+  "followers_url": "https://api.github.com/users/tkwong/followers",
+  "following_url": "https://api.github.com/users/tkwong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tkwong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tkwong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tkwong/subscriptions",
+  "organizations_url": "https://api.github.com/users/tkwong/orgs",
+  "repos_url": "https://api.github.com/users/tkwong/repos",
+  "events_url": "https://api.github.com/users/tkwong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tkwong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

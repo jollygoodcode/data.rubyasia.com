@@ -1,0 +1,20 @@
+{
+  "login": "appartisan",
+  "id": 597188,
+  "avatar_url": "https://avatars.githubusercontent.com/u/597188?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/appartisan",
+  "html_url": "https://github.com/appartisan",
+  "followers_url": "https://api.github.com/users/appartisan/followers",
+  "following_url": "https://api.github.com/users/appartisan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/appartisan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/appartisan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/appartisan/subscriptions",
+  "organizations_url": "https://api.github.com/users/appartisan/orgs",
+  "repos_url": "https://api.github.com/users/appartisan/repos",
+  "events_url": "https://api.github.com/users/appartisan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/appartisan/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

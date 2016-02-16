@@ -1,0 +1,20 @@
+{
+  "login": "svkanoria",
+  "id": 922812,
+  "avatar_url": "https://avatars.githubusercontent.com/u/922812?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/svkanoria",
+  "html_url": "https://github.com/svkanoria",
+  "followers_url": "https://api.github.com/users/svkanoria/followers",
+  "following_url": "https://api.github.com/users/svkanoria/following{/other_user}",
+  "gists_url": "https://api.github.com/users/svkanoria/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/svkanoria/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/svkanoria/subscriptions",
+  "organizations_url": "https://api.github.com/users/svkanoria/orgs",
+  "repos_url": "https://api.github.com/users/svkanoria/repos",
+  "events_url": "https://api.github.com/users/svkanoria/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/svkanoria/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

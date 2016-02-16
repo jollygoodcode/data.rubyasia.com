@@ -1,0 +1,20 @@
+{
+  "login": "mmasaki",
+  "id": 315008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/315008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mmasaki",
+  "html_url": "https://github.com/mmasaki",
+  "followers_url": "https://api.github.com/users/mmasaki/followers",
+  "following_url": "https://api.github.com/users/mmasaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mmasaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mmasaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mmasaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/mmasaki/orgs",
+  "repos_url": "https://api.github.com/users/mmasaki/repos",
+  "events_url": "https://api.github.com/users/mmasaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mmasaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

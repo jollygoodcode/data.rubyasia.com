@@ -1,0 +1,20 @@
+{
+  "login": "shaunrobot",
+  "id": 2130895,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2130895?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shaunrobot",
+  "html_url": "https://github.com/shaunrobot",
+  "followers_url": "https://api.github.com/users/shaunrobot/followers",
+  "following_url": "https://api.github.com/users/shaunrobot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shaunrobot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shaunrobot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shaunrobot/subscriptions",
+  "organizations_url": "https://api.github.com/users/shaunrobot/orgs",
+  "repos_url": "https://api.github.com/users/shaunrobot/repos",
+  "events_url": "https://api.github.com/users/shaunrobot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shaunrobot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

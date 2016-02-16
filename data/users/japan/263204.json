@@ -1,0 +1,20 @@
+{
+  "login": "waco",
+  "id": 263204,
+  "avatar_url": "https://avatars.githubusercontent.com/u/263204?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/waco",
+  "html_url": "https://github.com/waco",
+  "followers_url": "https://api.github.com/users/waco/followers",
+  "following_url": "https://api.github.com/users/waco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/waco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/waco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/waco/subscriptions",
+  "organizations_url": "https://api.github.com/users/waco/orgs",
+  "repos_url": "https://api.github.com/users/waco/repos",
+  "events_url": "https://api.github.com/users/waco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/waco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

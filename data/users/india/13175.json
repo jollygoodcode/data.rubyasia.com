@@ -1,0 +1,20 @@
+{
+  "login": "jitendra",
+  "id": 13175,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13175?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jitendra",
+  "html_url": "https://github.com/jitendra",
+  "followers_url": "https://api.github.com/users/jitendra/followers",
+  "following_url": "https://api.github.com/users/jitendra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jitendra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jitendra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jitendra/subscriptions",
+  "organizations_url": "https://api.github.com/users/jitendra/orgs",
+  "repos_url": "https://api.github.com/users/jitendra/repos",
+  "events_url": "https://api.github.com/users/jitendra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jitendra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

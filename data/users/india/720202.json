@@ -1,0 +1,20 @@
+{
+  "login": "suhasg",
+  "id": 720202,
+  "avatar_url": "https://avatars.githubusercontent.com/u/720202?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suhasg",
+  "html_url": "https://github.com/suhasg",
+  "followers_url": "https://api.github.com/users/suhasg/followers",
+  "following_url": "https://api.github.com/users/suhasg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suhasg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suhasg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suhasg/subscriptions",
+  "organizations_url": "https://api.github.com/users/suhasg/orgs",
+  "repos_url": "https://api.github.com/users/suhasg/repos",
+  "events_url": "https://api.github.com/users/suhasg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suhasg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

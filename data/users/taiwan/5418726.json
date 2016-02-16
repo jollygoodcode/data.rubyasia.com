@@ -1,0 +1,20 @@
+{
+  "login": "commandp",
+  "id": 5418726,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5418726?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/commandp",
+  "html_url": "https://github.com/commandp",
+  "followers_url": "https://api.github.com/users/commandp/followers",
+  "following_url": "https://api.github.com/users/commandp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/commandp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/commandp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/commandp/subscriptions",
+  "organizations_url": "https://api.github.com/users/commandp/orgs",
+  "repos_url": "https://api.github.com/users/commandp/repos",
+  "events_url": "https://api.github.com/users/commandp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/commandp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

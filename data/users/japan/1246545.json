@@ -1,0 +1,20 @@
+{
+  "login": "nihonjon",
+  "id": 1246545,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1246545?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nihonjon",
+  "html_url": "https://github.com/nihonjon",
+  "followers_url": "https://api.github.com/users/nihonjon/followers",
+  "following_url": "https://api.github.com/users/nihonjon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nihonjon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nihonjon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nihonjon/subscriptions",
+  "organizations_url": "https://api.github.com/users/nihonjon/orgs",
+  "repos_url": "https://api.github.com/users/nihonjon/repos",
+  "events_url": "https://api.github.com/users/nihonjon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nihonjon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

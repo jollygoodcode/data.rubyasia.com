@@ -1,0 +1,20 @@
+{
+  "login": "haonature",
+  "id": 9409870,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9409870?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haonature",
+  "html_url": "https://github.com/haonature",
+  "followers_url": "https://api.github.com/users/haonature/followers",
+  "following_url": "https://api.github.com/users/haonature/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haonature/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haonature/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haonature/subscriptions",
+  "organizations_url": "https://api.github.com/users/haonature/orgs",
+  "repos_url": "https://api.github.com/users/haonature/repos",
+  "events_url": "https://api.github.com/users/haonature/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haonature/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

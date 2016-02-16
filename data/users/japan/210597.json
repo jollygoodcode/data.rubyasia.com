@@ -1,0 +1,20 @@
+{
+  "login": "takuma7",
+  "id": 210597,
+  "avatar_url": "https://avatars.githubusercontent.com/u/210597?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takuma7",
+  "html_url": "https://github.com/takuma7",
+  "followers_url": "https://api.github.com/users/takuma7/followers",
+  "following_url": "https://api.github.com/users/takuma7/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takuma7/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takuma7/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takuma7/subscriptions",
+  "organizations_url": "https://api.github.com/users/takuma7/orgs",
+  "repos_url": "https://api.github.com/users/takuma7/repos",
+  "events_url": "https://api.github.com/users/takuma7/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takuma7/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "AlphaHinex",
+  "id": 968283,
+  "avatar_url": "https://avatars.githubusercontent.com/u/968283?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AlphaHinex",
+  "html_url": "https://github.com/AlphaHinex",
+  "followers_url": "https://api.github.com/users/AlphaHinex/followers",
+  "following_url": "https://api.github.com/users/AlphaHinex/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AlphaHinex/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AlphaHinex/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AlphaHinex/subscriptions",
+  "organizations_url": "https://api.github.com/users/AlphaHinex/orgs",
+  "repos_url": "https://api.github.com/users/AlphaHinex/repos",
+  "events_url": "https://api.github.com/users/AlphaHinex/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AlphaHinex/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

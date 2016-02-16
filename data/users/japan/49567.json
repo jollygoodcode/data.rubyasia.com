@@ -1,0 +1,20 @@
+{
+  "login": "takahirohatanaka",
+  "id": 49567,
+  "avatar_url": "https://avatars.githubusercontent.com/u/49567?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takahirohatanaka",
+  "html_url": "https://github.com/takahirohatanaka",
+  "followers_url": "https://api.github.com/users/takahirohatanaka/followers",
+  "following_url": "https://api.github.com/users/takahirohatanaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takahirohatanaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takahirohatanaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takahirohatanaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/takahirohatanaka/orgs",
+  "repos_url": "https://api.github.com/users/takahirohatanaka/repos",
+  "events_url": "https://api.github.com/users/takahirohatanaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takahirohatanaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

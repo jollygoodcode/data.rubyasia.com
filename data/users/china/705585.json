@@ -1,0 +1,20 @@
+{
+  "login": "gabpaquin",
+  "id": 705585,
+  "avatar_url": "https://avatars.githubusercontent.com/u/705585?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gabpaquin",
+  "html_url": "https://github.com/gabpaquin",
+  "followers_url": "https://api.github.com/users/gabpaquin/followers",
+  "following_url": "https://api.github.com/users/gabpaquin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gabpaquin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gabpaquin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gabpaquin/subscriptions",
+  "organizations_url": "https://api.github.com/users/gabpaquin/orgs",
+  "repos_url": "https://api.github.com/users/gabpaquin/repos",
+  "events_url": "https://api.github.com/users/gabpaquin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gabpaquin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

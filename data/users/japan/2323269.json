@@ -1,0 +1,20 @@
+{
+  "login": "momo28th",
+  "id": 2323269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2323269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/momo28th",
+  "html_url": "https://github.com/momo28th",
+  "followers_url": "https://api.github.com/users/momo28th/followers",
+  "following_url": "https://api.github.com/users/momo28th/following{/other_user}",
+  "gists_url": "https://api.github.com/users/momo28th/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/momo28th/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/momo28th/subscriptions",
+  "organizations_url": "https://api.github.com/users/momo28th/orgs",
+  "repos_url": "https://api.github.com/users/momo28th/repos",
+  "events_url": "https://api.github.com/users/momo28th/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/momo28th/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "davidpan",
+  "id": 12668,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12668?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/davidpan",
+  "html_url": "https://github.com/davidpan",
+  "followers_url": "https://api.github.com/users/davidpan/followers",
+  "following_url": "https://api.github.com/users/davidpan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/davidpan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/davidpan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/davidpan/subscriptions",
+  "organizations_url": "https://api.github.com/users/davidpan/orgs",
+  "repos_url": "https://api.github.com/users/davidpan/repos",
+  "events_url": "https://api.github.com/users/davidpan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/davidpan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "geekcode",
+  "id": 504251,
+  "avatar_url": "https://avatars.githubusercontent.com/u/504251?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/geekcode",
+  "html_url": "https://github.com/geekcode",
+  "followers_url": "https://api.github.com/users/geekcode/followers",
+  "following_url": "https://api.github.com/users/geekcode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/geekcode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/geekcode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/geekcode/subscriptions",
+  "organizations_url": "https://api.github.com/users/geekcode/orgs",
+  "repos_url": "https://api.github.com/users/geekcode/repos",
+  "events_url": "https://api.github.com/users/geekcode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/geekcode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

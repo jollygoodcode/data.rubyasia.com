@@ -1,0 +1,20 @@
+{
+  "login": "ketan",
+  "id": 10598,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10598?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ketan",
+  "html_url": "https://github.com/ketan",
+  "followers_url": "https://api.github.com/users/ketan/followers",
+  "following_url": "https://api.github.com/users/ketan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ketan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ketan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ketan/subscriptions",
+  "organizations_url": "https://api.github.com/users/ketan/orgs",
+  "repos_url": "https://api.github.com/users/ketan/repos",
+  "events_url": "https://api.github.com/users/ketan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ketan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

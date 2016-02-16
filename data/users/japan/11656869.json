@@ -1,0 +1,20 @@
+{
+  "login": "ugiy",
+  "id": 11656869,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11656869?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ugiy",
+  "html_url": "https://github.com/ugiy",
+  "followers_url": "https://api.github.com/users/ugiy/followers",
+  "following_url": "https://api.github.com/users/ugiy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ugiy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ugiy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ugiy/subscriptions",
+  "organizations_url": "https://api.github.com/users/ugiy/orgs",
+  "repos_url": "https://api.github.com/users/ugiy/repos",
+  "events_url": "https://api.github.com/users/ugiy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ugiy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hi-nakamura",
+  "id": 7960105,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7960105?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hi-nakamura",
+  "html_url": "https://github.com/hi-nakamura",
+  "followers_url": "https://api.github.com/users/hi-nakamura/followers",
+  "following_url": "https://api.github.com/users/hi-nakamura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hi-nakamura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hi-nakamura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hi-nakamura/subscriptions",
+  "organizations_url": "https://api.github.com/users/hi-nakamura/orgs",
+  "repos_url": "https://api.github.com/users/hi-nakamura/repos",
+  "events_url": "https://api.github.com/users/hi-nakamura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hi-nakamura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

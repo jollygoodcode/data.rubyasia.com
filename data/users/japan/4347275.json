@@ -1,0 +1,20 @@
+{
+  "login": "mx3m",
+  "id": 4347275,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4347275?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mx3m",
+  "html_url": "https://github.com/mx3m",
+  "followers_url": "https://api.github.com/users/mx3m/followers",
+  "following_url": "https://api.github.com/users/mx3m/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mx3m/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mx3m/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mx3m/subscriptions",
+  "organizations_url": "https://api.github.com/users/mx3m/orgs",
+  "repos_url": "https://api.github.com/users/mx3m/repos",
+  "events_url": "https://api.github.com/users/mx3m/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mx3m/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "paolord",
+  "id": 1720393,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1720393?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paolord",
+  "html_url": "https://github.com/paolord",
+  "followers_url": "https://api.github.com/users/paolord/followers",
+  "following_url": "https://api.github.com/users/paolord/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paolord/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paolord/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paolord/subscriptions",
+  "organizations_url": "https://api.github.com/users/paolord/orgs",
+  "repos_url": "https://api.github.com/users/paolord/repos",
+  "events_url": "https://api.github.com/users/paolord/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paolord/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

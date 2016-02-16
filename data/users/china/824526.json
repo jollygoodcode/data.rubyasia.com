@@ -1,0 +1,20 @@
+{
+  "login": "stcatz",
+  "id": 824526,
+  "avatar_url": "https://avatars.githubusercontent.com/u/824526?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stcatz",
+  "html_url": "https://github.com/stcatz",
+  "followers_url": "https://api.github.com/users/stcatz/followers",
+  "following_url": "https://api.github.com/users/stcatz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stcatz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stcatz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stcatz/subscriptions",
+  "organizations_url": "https://api.github.com/users/stcatz/orgs",
+  "repos_url": "https://api.github.com/users/stcatz/repos",
+  "events_url": "https://api.github.com/users/stcatz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stcatz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

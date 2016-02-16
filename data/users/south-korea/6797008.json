@@ -1,0 +1,20 @@
+{
+  "login": "PJRuiz",
+  "id": 6797008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6797008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PJRuiz",
+  "html_url": "https://github.com/PJRuiz",
+  "followers_url": "https://api.github.com/users/PJRuiz/followers",
+  "following_url": "https://api.github.com/users/PJRuiz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PJRuiz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PJRuiz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PJRuiz/subscriptions",
+  "organizations_url": "https://api.github.com/users/PJRuiz/orgs",
+  "repos_url": "https://api.github.com/users/PJRuiz/repos",
+  "events_url": "https://api.github.com/users/PJRuiz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PJRuiz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "JazzJackrabbit",
+  "id": 1091118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1091118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JazzJackrabbit",
+  "html_url": "https://github.com/JazzJackrabbit",
+  "followers_url": "https://api.github.com/users/JazzJackrabbit/followers",
+  "following_url": "https://api.github.com/users/JazzJackrabbit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JazzJackrabbit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JazzJackrabbit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JazzJackrabbit/subscriptions",
+  "organizations_url": "https://api.github.com/users/JazzJackrabbit/orgs",
+  "repos_url": "https://api.github.com/users/JazzJackrabbit/repos",
+  "events_url": "https://api.github.com/users/JazzJackrabbit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JazzJackrabbit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

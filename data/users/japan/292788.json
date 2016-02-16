@@ -1,0 +1,20 @@
+{
+  "login": "t1732",
+  "id": 292788,
+  "avatar_url": "https://avatars.githubusercontent.com/u/292788?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/t1732",
+  "html_url": "https://github.com/t1732",
+  "followers_url": "https://api.github.com/users/t1732/followers",
+  "following_url": "https://api.github.com/users/t1732/following{/other_user}",
+  "gists_url": "https://api.github.com/users/t1732/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/t1732/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/t1732/subscriptions",
+  "organizations_url": "https://api.github.com/users/t1732/orgs",
+  "repos_url": "https://api.github.com/users/t1732/repos",
+  "events_url": "https://api.github.com/users/t1732/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/t1732/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

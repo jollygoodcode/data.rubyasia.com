@@ -1,0 +1,20 @@
+{
+  "login": "dictav",
+  "id": 126048,
+  "avatar_url": "https://avatars.githubusercontent.com/u/126048?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dictav",
+  "html_url": "https://github.com/dictav",
+  "followers_url": "https://api.github.com/users/dictav/followers",
+  "following_url": "https://api.github.com/users/dictav/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dictav/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dictav/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dictav/subscriptions",
+  "organizations_url": "https://api.github.com/users/dictav/orgs",
+  "repos_url": "https://api.github.com/users/dictav/repos",
+  "events_url": "https://api.github.com/users/dictav/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dictav/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

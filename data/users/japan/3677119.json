@@ -1,0 +1,20 @@
+{
+  "login": "yoshi-taka",
+  "id": 3677119,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3677119?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoshi-taka",
+  "html_url": "https://github.com/yoshi-taka",
+  "followers_url": "https://api.github.com/users/yoshi-taka/followers",
+  "following_url": "https://api.github.com/users/yoshi-taka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoshi-taka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoshi-taka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoshi-taka/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoshi-taka/orgs",
+  "repos_url": "https://api.github.com/users/yoshi-taka/repos",
+  "events_url": "https://api.github.com/users/yoshi-taka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoshi-taka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

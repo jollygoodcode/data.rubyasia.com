@@ -1,0 +1,20 @@
+{
+  "login": "lkafle",
+  "id": 2968030,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2968030?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lkafle",
+  "html_url": "https://github.com/lkafle",
+  "followers_url": "https://api.github.com/users/lkafle/followers",
+  "following_url": "https://api.github.com/users/lkafle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lkafle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lkafle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lkafle/subscriptions",
+  "organizations_url": "https://api.github.com/users/lkafle/orgs",
+  "repos_url": "https://api.github.com/users/lkafle/repos",
+  "events_url": "https://api.github.com/users/lkafle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lkafle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

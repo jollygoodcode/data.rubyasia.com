@@ -1,0 +1,20 @@
+{
+  "login": "Deanish",
+  "id": 3670725,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3670725?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Deanish",
+  "html_url": "https://github.com/Deanish",
+  "followers_url": "https://api.github.com/users/Deanish/followers",
+  "following_url": "https://api.github.com/users/Deanish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Deanish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Deanish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Deanish/subscriptions",
+  "organizations_url": "https://api.github.com/users/Deanish/orgs",
+  "repos_url": "https://api.github.com/users/Deanish/repos",
+  "events_url": "https://api.github.com/users/Deanish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Deanish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

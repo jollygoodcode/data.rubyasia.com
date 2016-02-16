@@ -1,0 +1,20 @@
+{
+  "login": "nims-library",
+  "id": 2585322,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2585322?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nims-library",
+  "html_url": "https://github.com/nims-library",
+  "followers_url": "https://api.github.com/users/nims-library/followers",
+  "following_url": "https://api.github.com/users/nims-library/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nims-library/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nims-library/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nims-library/subscriptions",
+  "organizations_url": "https://api.github.com/users/nims-library/orgs",
+  "repos_url": "https://api.github.com/users/nims-library/repos",
+  "events_url": "https://api.github.com/users/nims-library/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nims-library/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

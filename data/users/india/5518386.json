@@ -1,0 +1,20 @@
+{
+  "login": "techvision",
+  "id": 5518386,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5518386?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/techvision",
+  "html_url": "https://github.com/techvision",
+  "followers_url": "https://api.github.com/users/techvision/followers",
+  "following_url": "https://api.github.com/users/techvision/following{/other_user}",
+  "gists_url": "https://api.github.com/users/techvision/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/techvision/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/techvision/subscriptions",
+  "organizations_url": "https://api.github.com/users/techvision/orgs",
+  "repos_url": "https://api.github.com/users/techvision/repos",
+  "events_url": "https://api.github.com/users/techvision/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/techvision/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wataori",
+  "id": 6727837,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6727837?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wataori",
+  "html_url": "https://github.com/wataori",
+  "followers_url": "https://api.github.com/users/wataori/followers",
+  "following_url": "https://api.github.com/users/wataori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wataori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wataori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wataori/subscriptions",
+  "organizations_url": "https://api.github.com/users/wataori/orgs",
+  "repos_url": "https://api.github.com/users/wataori/repos",
+  "events_url": "https://api.github.com/users/wataori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wataori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

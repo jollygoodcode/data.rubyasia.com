@@ -1,0 +1,20 @@
+{
+  "login": "simongu",
+  "id": 3352704,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3352704?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simongu",
+  "html_url": "https://github.com/simongu",
+  "followers_url": "https://api.github.com/users/simongu/followers",
+  "following_url": "https://api.github.com/users/simongu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simongu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simongu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simongu/subscriptions",
+  "organizations_url": "https://api.github.com/users/simongu/orgs",
+  "repos_url": "https://api.github.com/users/simongu/repos",
+  "events_url": "https://api.github.com/users/simongu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simongu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "idrisakmal",
+  "id": 11605884,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11605884?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idrisakmal",
+  "html_url": "https://github.com/idrisakmal",
+  "followers_url": "https://api.github.com/users/idrisakmal/followers",
+  "following_url": "https://api.github.com/users/idrisakmal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idrisakmal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idrisakmal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idrisakmal/subscriptions",
+  "organizations_url": "https://api.github.com/users/idrisakmal/orgs",
+  "repos_url": "https://api.github.com/users/idrisakmal/repos",
+  "events_url": "https://api.github.com/users/idrisakmal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idrisakmal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

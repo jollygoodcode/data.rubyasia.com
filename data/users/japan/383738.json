@@ -1,0 +1,20 @@
+{
+  "login": "fjt",
+  "id": 383738,
+  "avatar_url": "https://avatars.githubusercontent.com/u/383738?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fjt",
+  "html_url": "https://github.com/fjt",
+  "followers_url": "https://api.github.com/users/fjt/followers",
+  "following_url": "https://api.github.com/users/fjt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fjt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fjt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fjt/subscriptions",
+  "organizations_url": "https://api.github.com/users/fjt/orgs",
+  "repos_url": "https://api.github.com/users/fjt/repos",
+  "events_url": "https://api.github.com/users/fjt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fjt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

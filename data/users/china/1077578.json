@@ -1,0 +1,20 @@
+{
+  "login": "nioteam",
+  "id": 1077578,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1077578?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nioteam",
+  "html_url": "https://github.com/nioteam",
+  "followers_url": "https://api.github.com/users/nioteam/followers",
+  "following_url": "https://api.github.com/users/nioteam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nioteam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nioteam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nioteam/subscriptions",
+  "organizations_url": "https://api.github.com/users/nioteam/orgs",
+  "repos_url": "https://api.github.com/users/nioteam/repos",
+  "events_url": "https://api.github.com/users/nioteam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nioteam/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

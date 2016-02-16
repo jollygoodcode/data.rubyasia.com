@@ -1,0 +1,20 @@
+{
+  "login": "marvs",
+  "id": 87418,
+  "avatar_url": "https://avatars.githubusercontent.com/u/87418?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marvs",
+  "html_url": "https://github.com/marvs",
+  "followers_url": "https://api.github.com/users/marvs/followers",
+  "following_url": "https://api.github.com/users/marvs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marvs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marvs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marvs/subscriptions",
+  "organizations_url": "https://api.github.com/users/marvs/orgs",
+  "repos_url": "https://api.github.com/users/marvs/repos",
+  "events_url": "https://api.github.com/users/marvs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marvs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

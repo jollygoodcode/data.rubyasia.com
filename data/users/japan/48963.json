@@ -1,0 +1,20 @@
+{
+  "login": "yudoufu",
+  "id": 48963,
+  "avatar_url": "https://avatars.githubusercontent.com/u/48963?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yudoufu",
+  "html_url": "https://github.com/yudoufu",
+  "followers_url": "https://api.github.com/users/yudoufu/followers",
+  "following_url": "https://api.github.com/users/yudoufu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yudoufu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yudoufu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yudoufu/subscriptions",
+  "organizations_url": "https://api.github.com/users/yudoufu/orgs",
+  "repos_url": "https://api.github.com/users/yudoufu/repos",
+  "events_url": "https://api.github.com/users/yudoufu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yudoufu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

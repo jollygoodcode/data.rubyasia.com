@@ -1,0 +1,20 @@
+{
+  "login": "lite",
+  "id": 27912,
+  "avatar_url": "https://avatars.githubusercontent.com/u/27912?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lite",
+  "html_url": "https://github.com/lite",
+  "followers_url": "https://api.github.com/users/lite/followers",
+  "following_url": "https://api.github.com/users/lite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lite/subscriptions",
+  "organizations_url": "https://api.github.com/users/lite/orgs",
+  "repos_url": "https://api.github.com/users/lite/repos",
+  "events_url": "https://api.github.com/users/lite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

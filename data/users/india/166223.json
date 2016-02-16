@@ -1,0 +1,20 @@
+{
+  "login": "techslam",
+  "id": 166223,
+  "avatar_url": "https://avatars.githubusercontent.com/u/166223?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/techslam",
+  "html_url": "https://github.com/techslam",
+  "followers_url": "https://api.github.com/users/techslam/followers",
+  "following_url": "https://api.github.com/users/techslam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/techslam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/techslam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/techslam/subscriptions",
+  "organizations_url": "https://api.github.com/users/techslam/orgs",
+  "repos_url": "https://api.github.com/users/techslam/repos",
+  "events_url": "https://api.github.com/users/techslam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/techslam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

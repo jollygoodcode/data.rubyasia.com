@@ -1,0 +1,20 @@
+{
+  "login": "rajuniit",
+  "id": 253013,
+  "avatar_url": "https://avatars.githubusercontent.com/u/253013?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rajuniit",
+  "html_url": "https://github.com/rajuniit",
+  "followers_url": "https://api.github.com/users/rajuniit/followers",
+  "following_url": "https://api.github.com/users/rajuniit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rajuniit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rajuniit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rajuniit/subscriptions",
+  "organizations_url": "https://api.github.com/users/rajuniit/orgs",
+  "repos_url": "https://api.github.com/users/rajuniit/repos",
+  "events_url": "https://api.github.com/users/rajuniit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rajuniit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "flyingscott",
+  "id": 5660606,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5660606?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flyingscott",
+  "html_url": "https://github.com/flyingscott",
+  "followers_url": "https://api.github.com/users/flyingscott/followers",
+  "following_url": "https://api.github.com/users/flyingscott/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flyingscott/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flyingscott/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flyingscott/subscriptions",
+  "organizations_url": "https://api.github.com/users/flyingscott/orgs",
+  "repos_url": "https://api.github.com/users/flyingscott/repos",
+  "events_url": "https://api.github.com/users/flyingscott/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flyingscott/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

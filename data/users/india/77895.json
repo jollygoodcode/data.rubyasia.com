@@ -1,0 +1,20 @@
+{
+  "login": "mechanicles",
+  "id": 77895,
+  "avatar_url": "https://avatars.githubusercontent.com/u/77895?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mechanicles",
+  "html_url": "https://github.com/mechanicles",
+  "followers_url": "https://api.github.com/users/mechanicles/followers",
+  "following_url": "https://api.github.com/users/mechanicles/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mechanicles/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mechanicles/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mechanicles/subscriptions",
+  "organizations_url": "https://api.github.com/users/mechanicles/orgs",
+  "repos_url": "https://api.github.com/users/mechanicles/repos",
+  "events_url": "https://api.github.com/users/mechanicles/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mechanicles/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

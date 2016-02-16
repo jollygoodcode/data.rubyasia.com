@@ -1,0 +1,20 @@
+{
+  "login": "jewfee",
+  "id": 9512280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9512280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jewfee",
+  "html_url": "https://github.com/jewfee",
+  "followers_url": "https://api.github.com/users/jewfee/followers",
+  "following_url": "https://api.github.com/users/jewfee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jewfee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jewfee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jewfee/subscriptions",
+  "organizations_url": "https://api.github.com/users/jewfee/orgs",
+  "repos_url": "https://api.github.com/users/jewfee/repos",
+  "events_url": "https://api.github.com/users/jewfee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jewfee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

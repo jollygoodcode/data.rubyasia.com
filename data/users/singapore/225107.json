@@ -1,0 +1,20 @@
+{
+  "login": "albertojg",
+  "id": 225107,
+  "avatar_url": "https://avatars.githubusercontent.com/u/225107?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/albertojg",
+  "html_url": "https://github.com/albertojg",
+  "followers_url": "https://api.github.com/users/albertojg/followers",
+  "following_url": "https://api.github.com/users/albertojg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/albertojg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/albertojg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/albertojg/subscriptions",
+  "organizations_url": "https://api.github.com/users/albertojg/orgs",
+  "repos_url": "https://api.github.com/users/albertojg/repos",
+  "events_url": "https://api.github.com/users/albertojg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/albertojg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

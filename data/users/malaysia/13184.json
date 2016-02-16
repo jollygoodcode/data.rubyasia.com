@@ -1,0 +1,20 @@
+{
+  "login": "tslim",
+  "id": 13184,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13184?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tslim",
+  "html_url": "https://github.com/tslim",
+  "followers_url": "https://api.github.com/users/tslim/followers",
+  "following_url": "https://api.github.com/users/tslim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tslim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tslim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tslim/subscriptions",
+  "organizations_url": "https://api.github.com/users/tslim/orgs",
+  "repos_url": "https://api.github.com/users/tslim/repos",
+  "events_url": "https://api.github.com/users/tslim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tslim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

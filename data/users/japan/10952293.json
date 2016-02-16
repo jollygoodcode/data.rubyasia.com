@@ -1,0 +1,20 @@
+{
+  "login": "nocotan",
+  "id": 10952293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10952293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nocotan",
+  "html_url": "https://github.com/nocotan",
+  "followers_url": "https://api.github.com/users/nocotan/followers",
+  "following_url": "https://api.github.com/users/nocotan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nocotan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nocotan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nocotan/subscriptions",
+  "organizations_url": "https://api.github.com/users/nocotan/orgs",
+  "repos_url": "https://api.github.com/users/nocotan/repos",
+  "events_url": "https://api.github.com/users/nocotan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nocotan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

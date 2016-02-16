@@ -1,0 +1,20 @@
+{
+  "login": "timescro",
+  "id": 74706,
+  "avatar_url": "https://avatars.githubusercontent.com/u/74706?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/timescro",
+  "html_url": "https://github.com/timescro",
+  "followers_url": "https://api.github.com/users/timescro/followers",
+  "following_url": "https://api.github.com/users/timescro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/timescro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/timescro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/timescro/subscriptions",
+  "organizations_url": "https://api.github.com/users/timescro/orgs",
+  "repos_url": "https://api.github.com/users/timescro/repos",
+  "events_url": "https://api.github.com/users/timescro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/timescro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Fluencie",
+  "id": 5113150,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5113150?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Fluencie",
+  "html_url": "https://github.com/Fluencie",
+  "followers_url": "https://api.github.com/users/Fluencie/followers",
+  "following_url": "https://api.github.com/users/Fluencie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Fluencie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Fluencie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Fluencie/subscriptions",
+  "organizations_url": "https://api.github.com/users/Fluencie/orgs",
+  "repos_url": "https://api.github.com/users/Fluencie/repos",
+  "events_url": "https://api.github.com/users/Fluencie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Fluencie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "benjaminfauchald",
+  "id": 8008370,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8008370?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/benjaminfauchald",
+  "html_url": "https://github.com/benjaminfauchald",
+  "followers_url": "https://api.github.com/users/benjaminfauchald/followers",
+  "following_url": "https://api.github.com/users/benjaminfauchald/following{/other_user}",
+  "gists_url": "https://api.github.com/users/benjaminfauchald/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/benjaminfauchald/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/benjaminfauchald/subscriptions",
+  "organizations_url": "https://api.github.com/users/benjaminfauchald/orgs",
+  "repos_url": "https://api.github.com/users/benjaminfauchald/repos",
+  "events_url": "https://api.github.com/users/benjaminfauchald/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/benjaminfauchald/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "BrookeSons",
+  "id": 1509915,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1509915?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BrookeSons",
+  "html_url": "https://github.com/BrookeSons",
+  "followers_url": "https://api.github.com/users/BrookeSons/followers",
+  "following_url": "https://api.github.com/users/BrookeSons/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BrookeSons/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BrookeSons/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BrookeSons/subscriptions",
+  "organizations_url": "https://api.github.com/users/BrookeSons/orgs",
+  "repos_url": "https://api.github.com/users/BrookeSons/repos",
+  "events_url": "https://api.github.com/users/BrookeSons/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BrookeSons/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

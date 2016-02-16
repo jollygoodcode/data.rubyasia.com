@@ -1,0 +1,20 @@
+{
+  "login": "kevinpalis",
+  "id": 863296,
+  "avatar_url": "https://avatars.githubusercontent.com/u/863296?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kevinpalis",
+  "html_url": "https://github.com/kevinpalis",
+  "followers_url": "https://api.github.com/users/kevinpalis/followers",
+  "following_url": "https://api.github.com/users/kevinpalis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kevinpalis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kevinpalis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kevinpalis/subscriptions",
+  "organizations_url": "https://api.github.com/users/kevinpalis/orgs",
+  "repos_url": "https://api.github.com/users/kevinpalis/repos",
+  "events_url": "https://api.github.com/users/kevinpalis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kevinpalis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

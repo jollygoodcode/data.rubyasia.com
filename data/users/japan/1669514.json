@@ -1,0 +1,20 @@
+{
+  "login": "seventhsense",
+  "id": 1669514,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1669514?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seventhsense",
+  "html_url": "https://github.com/seventhsense",
+  "followers_url": "https://api.github.com/users/seventhsense/followers",
+  "following_url": "https://api.github.com/users/seventhsense/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seventhsense/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seventhsense/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seventhsense/subscriptions",
+  "organizations_url": "https://api.github.com/users/seventhsense/orgs",
+  "repos_url": "https://api.github.com/users/seventhsense/repos",
+  "events_url": "https://api.github.com/users/seventhsense/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seventhsense/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "vincenttone",
+  "id": 1179536,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1179536?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vincenttone",
+  "html_url": "https://github.com/vincenttone",
+  "followers_url": "https://api.github.com/users/vincenttone/followers",
+  "following_url": "https://api.github.com/users/vincenttone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vincenttone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vincenttone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vincenttone/subscriptions",
+  "organizations_url": "https://api.github.com/users/vincenttone/orgs",
+  "repos_url": "https://api.github.com/users/vincenttone/repos",
+  "events_url": "https://api.github.com/users/vincenttone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vincenttone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

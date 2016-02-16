@@ -1,0 +1,20 @@
+{
+  "login": "vishalmene",
+  "id": 3592914,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3592914?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vishalmene",
+  "html_url": "https://github.com/vishalmene",
+  "followers_url": "https://api.github.com/users/vishalmene/followers",
+  "following_url": "https://api.github.com/users/vishalmene/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vishalmene/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vishalmene/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vishalmene/subscriptions",
+  "organizations_url": "https://api.github.com/users/vishalmene/orgs",
+  "repos_url": "https://api.github.com/users/vishalmene/repos",
+  "events_url": "https://api.github.com/users/vishalmene/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vishalmene/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

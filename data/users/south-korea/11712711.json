@@ -1,0 +1,20 @@
+{
+  "login": "HanCharles",
+  "id": 11712711,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11712711?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HanCharles",
+  "html_url": "https://github.com/HanCharles",
+  "followers_url": "https://api.github.com/users/HanCharles/followers",
+  "following_url": "https://api.github.com/users/HanCharles/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HanCharles/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HanCharles/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HanCharles/subscriptions",
+  "organizations_url": "https://api.github.com/users/HanCharles/orgs",
+  "repos_url": "https://api.github.com/users/HanCharles/repos",
+  "events_url": "https://api.github.com/users/HanCharles/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HanCharles/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

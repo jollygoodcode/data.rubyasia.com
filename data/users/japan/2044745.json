@@ -1,0 +1,20 @@
+{
+  "login": "vlumi",
+  "id": 2044745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2044745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vlumi",
+  "html_url": "https://github.com/vlumi",
+  "followers_url": "https://api.github.com/users/vlumi/followers",
+  "following_url": "https://api.github.com/users/vlumi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vlumi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vlumi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vlumi/subscriptions",
+  "organizations_url": "https://api.github.com/users/vlumi/orgs",
+  "repos_url": "https://api.github.com/users/vlumi/repos",
+  "events_url": "https://api.github.com/users/vlumi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vlumi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

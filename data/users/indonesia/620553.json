@@ -1,0 +1,20 @@
+{
+  "login": "aprimadi",
+  "id": 620553,
+  "avatar_url": "https://avatars.githubusercontent.com/u/620553?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aprimadi",
+  "html_url": "https://github.com/aprimadi",
+  "followers_url": "https://api.github.com/users/aprimadi/followers",
+  "following_url": "https://api.github.com/users/aprimadi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aprimadi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aprimadi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aprimadi/subscriptions",
+  "organizations_url": "https://api.github.com/users/aprimadi/orgs",
+  "repos_url": "https://api.github.com/users/aprimadi/repos",
+  "events_url": "https://api.github.com/users/aprimadi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aprimadi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

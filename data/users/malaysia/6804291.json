@@ -1,0 +1,20 @@
+{
+  "login": "tideee",
+  "id": 6804291,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6804291?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tideee",
+  "html_url": "https://github.com/tideee",
+  "followers_url": "https://api.github.com/users/tideee/followers",
+  "following_url": "https://api.github.com/users/tideee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tideee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tideee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tideee/subscriptions",
+  "organizations_url": "https://api.github.com/users/tideee/orgs",
+  "repos_url": "https://api.github.com/users/tideee/repos",
+  "events_url": "https://api.github.com/users/tideee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tideee/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "aakn",
+  "id": 3117133,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3117133?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aakn",
+  "html_url": "https://github.com/aakn",
+  "followers_url": "https://api.github.com/users/aakn/followers",
+  "following_url": "https://api.github.com/users/aakn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aakn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aakn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aakn/subscriptions",
+  "organizations_url": "https://api.github.com/users/aakn/orgs",
+  "repos_url": "https://api.github.com/users/aakn/repos",
+  "events_url": "https://api.github.com/users/aakn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aakn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

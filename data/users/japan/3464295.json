@@ -1,0 +1,20 @@
+{
+  "login": "nekova",
+  "id": 3464295,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3464295?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nekova",
+  "html_url": "https://github.com/nekova",
+  "followers_url": "https://api.github.com/users/nekova/followers",
+  "following_url": "https://api.github.com/users/nekova/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nekova/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nekova/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nekova/subscriptions",
+  "organizations_url": "https://api.github.com/users/nekova/orgs",
+  "repos_url": "https://api.github.com/users/nekova/repos",
+  "events_url": "https://api.github.com/users/nekova/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nekova/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

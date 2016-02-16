@@ -1,0 +1,20 @@
+{
+  "login": "alecguintu",
+  "id": 790055,
+  "avatar_url": "https://avatars.githubusercontent.com/u/790055?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alecguintu",
+  "html_url": "https://github.com/alecguintu",
+  "followers_url": "https://api.github.com/users/alecguintu/followers",
+  "following_url": "https://api.github.com/users/alecguintu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alecguintu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alecguintu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alecguintu/subscriptions",
+  "organizations_url": "https://api.github.com/users/alecguintu/orgs",
+  "repos_url": "https://api.github.com/users/alecguintu/repos",
+  "events_url": "https://api.github.com/users/alecguintu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alecguintu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

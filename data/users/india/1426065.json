@@ -1,0 +1,20 @@
+{
+  "login": "fshaikh",
+  "id": 1426065,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1426065?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fshaikh",
+  "html_url": "https://github.com/fshaikh",
+  "followers_url": "https://api.github.com/users/fshaikh/followers",
+  "following_url": "https://api.github.com/users/fshaikh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fshaikh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fshaikh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fshaikh/subscriptions",
+  "organizations_url": "https://api.github.com/users/fshaikh/orgs",
+  "repos_url": "https://api.github.com/users/fshaikh/repos",
+  "events_url": "https://api.github.com/users/fshaikh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fshaikh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

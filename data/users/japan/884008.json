@@ -1,0 +1,20 @@
+{
+  "login": "k1fukumoto",
+  "id": 884008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/884008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k1fukumoto",
+  "html_url": "https://github.com/k1fukumoto",
+  "followers_url": "https://api.github.com/users/k1fukumoto/followers",
+  "following_url": "https://api.github.com/users/k1fukumoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k1fukumoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k1fukumoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k1fukumoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/k1fukumoto/orgs",
+  "repos_url": "https://api.github.com/users/k1fukumoto/repos",
+  "events_url": "https://api.github.com/users/k1fukumoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k1fukumoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

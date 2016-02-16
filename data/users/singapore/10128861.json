@@ -1,0 +1,20 @@
+{
+  "login": "britskit",
+  "id": 10128861,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10128861?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/britskit",
+  "html_url": "https://github.com/britskit",
+  "followers_url": "https://api.github.com/users/britskit/followers",
+  "following_url": "https://api.github.com/users/britskit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/britskit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/britskit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/britskit/subscriptions",
+  "organizations_url": "https://api.github.com/users/britskit/orgs",
+  "repos_url": "https://api.github.com/users/britskit/repos",
+  "events_url": "https://api.github.com/users/britskit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/britskit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

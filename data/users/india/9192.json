@@ -1,0 +1,20 @@
+{
+  "login": "deepak",
+  "id": 9192,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9192?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deepak",
+  "html_url": "https://github.com/deepak",
+  "followers_url": "https://api.github.com/users/deepak/followers",
+  "following_url": "https://api.github.com/users/deepak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deepak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deepak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deepak/subscriptions",
+  "organizations_url": "https://api.github.com/users/deepak/orgs",
+  "repos_url": "https://api.github.com/users/deepak/repos",
+  "events_url": "https://api.github.com/users/deepak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deepak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

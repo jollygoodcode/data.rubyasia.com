@@ -1,0 +1,20 @@
+{
+  "login": "ealden",
+  "id": 7974,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7974?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ealden",
+  "html_url": "https://github.com/ealden",
+  "followers_url": "https://api.github.com/users/ealden/followers",
+  "following_url": "https://api.github.com/users/ealden/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ealden/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ealden/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ealden/subscriptions",
+  "organizations_url": "https://api.github.com/users/ealden/orgs",
+  "repos_url": "https://api.github.com/users/ealden/repos",
+  "events_url": "https://api.github.com/users/ealden/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ealden/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

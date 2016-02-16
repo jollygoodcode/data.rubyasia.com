@@ -1,0 +1,20 @@
+{
+  "login": "jyugoya",
+  "id": 1430895,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1430895?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jyugoya",
+  "html_url": "https://github.com/jyugoya",
+  "followers_url": "https://api.github.com/users/jyugoya/followers",
+  "following_url": "https://api.github.com/users/jyugoya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jyugoya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jyugoya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jyugoya/subscriptions",
+  "organizations_url": "https://api.github.com/users/jyugoya/orgs",
+  "repos_url": "https://api.github.com/users/jyugoya/repos",
+  "events_url": "https://api.github.com/users/jyugoya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jyugoya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

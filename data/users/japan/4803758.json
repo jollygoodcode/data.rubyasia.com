@@ -1,0 +1,20 @@
+{
+  "login": "repserc",
+  "id": 4803758,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4803758?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/repserc",
+  "html_url": "https://github.com/repserc",
+  "followers_url": "https://api.github.com/users/repserc/followers",
+  "following_url": "https://api.github.com/users/repserc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/repserc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/repserc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/repserc/subscriptions",
+  "organizations_url": "https://api.github.com/users/repserc/orgs",
+  "repos_url": "https://api.github.com/users/repserc/repos",
+  "events_url": "https://api.github.com/users/repserc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/repserc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

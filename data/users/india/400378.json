@@ -1,0 +1,20 @@
+{
+  "login": "udayakiran",
+  "id": 400378,
+  "avatar_url": "https://avatars.githubusercontent.com/u/400378?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/udayakiran",
+  "html_url": "https://github.com/udayakiran",
+  "followers_url": "https://api.github.com/users/udayakiran/followers",
+  "following_url": "https://api.github.com/users/udayakiran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/udayakiran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/udayakiran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/udayakiran/subscriptions",
+  "organizations_url": "https://api.github.com/users/udayakiran/orgs",
+  "repos_url": "https://api.github.com/users/udayakiran/repos",
+  "events_url": "https://api.github.com/users/udayakiran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/udayakiran/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

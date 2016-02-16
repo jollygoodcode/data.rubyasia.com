@@ -1,0 +1,20 @@
+{
+  "login": "sutonea",
+  "id": 748411,
+  "avatar_url": "https://avatars.githubusercontent.com/u/748411?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sutonea",
+  "html_url": "https://github.com/sutonea",
+  "followers_url": "https://api.github.com/users/sutonea/followers",
+  "following_url": "https://api.github.com/users/sutonea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sutonea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sutonea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sutonea/subscriptions",
+  "organizations_url": "https://api.github.com/users/sutonea/orgs",
+  "repos_url": "https://api.github.com/users/sutonea/repos",
+  "events_url": "https://api.github.com/users/sutonea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sutonea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

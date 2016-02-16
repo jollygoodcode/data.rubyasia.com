@@ -1,0 +1,20 @@
+{
+  "login": "weixin-side",
+  "id": 12405787,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12405787?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/weixin-side",
+  "html_url": "https://github.com/weixin-side",
+  "followers_url": "https://api.github.com/users/weixin-side/followers",
+  "following_url": "https://api.github.com/users/weixin-side/following{/other_user}",
+  "gists_url": "https://api.github.com/users/weixin-side/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/weixin-side/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/weixin-side/subscriptions",
+  "organizations_url": "https://api.github.com/users/weixin-side/orgs",
+  "repos_url": "https://api.github.com/users/weixin-side/repos",
+  "events_url": "https://api.github.com/users/weixin-side/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/weixin-side/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

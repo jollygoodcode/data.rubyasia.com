@@ -1,0 +1,20 @@
+{
+  "login": "unshiu",
+  "id": 90403,
+  "avatar_url": "https://avatars.githubusercontent.com/u/90403?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unshiu",
+  "html_url": "https://github.com/unshiu",
+  "followers_url": "https://api.github.com/users/unshiu/followers",
+  "following_url": "https://api.github.com/users/unshiu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unshiu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unshiu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unshiu/subscriptions",
+  "organizations_url": "https://api.github.com/users/unshiu/orgs",
+  "repos_url": "https://api.github.com/users/unshiu/repos",
+  "events_url": "https://api.github.com/users/unshiu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unshiu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

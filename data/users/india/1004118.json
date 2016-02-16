@@ -1,0 +1,20 @@
+{
+  "login": "ridsagrawal",
+  "id": 1004118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1004118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ridsagrawal",
+  "html_url": "https://github.com/ridsagrawal",
+  "followers_url": "https://api.github.com/users/ridsagrawal/followers",
+  "following_url": "https://api.github.com/users/ridsagrawal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ridsagrawal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ridsagrawal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ridsagrawal/subscriptions",
+  "organizations_url": "https://api.github.com/users/ridsagrawal/orgs",
+  "repos_url": "https://api.github.com/users/ridsagrawal/repos",
+  "events_url": "https://api.github.com/users/ridsagrawal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ridsagrawal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shmoulana",
+  "id": 2368211,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2368211?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shmoulana",
+  "html_url": "https://github.com/shmoulana",
+  "followers_url": "https://api.github.com/users/shmoulana/followers",
+  "following_url": "https://api.github.com/users/shmoulana/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shmoulana/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shmoulana/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shmoulana/subscriptions",
+  "organizations_url": "https://api.github.com/users/shmoulana/orgs",
+  "repos_url": "https://api.github.com/users/shmoulana/repos",
+  "events_url": "https://api.github.com/users/shmoulana/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shmoulana/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

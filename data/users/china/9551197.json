@@ -1,0 +1,20 @@
+{
+  "login": "hyacz",
+  "id": 9551197,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9551197?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hyacz",
+  "html_url": "https://github.com/hyacz",
+  "followers_url": "https://api.github.com/users/hyacz/followers",
+  "following_url": "https://api.github.com/users/hyacz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hyacz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hyacz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hyacz/subscriptions",
+  "organizations_url": "https://api.github.com/users/hyacz/orgs",
+  "repos_url": "https://api.github.com/users/hyacz/repos",
+  "events_url": "https://api.github.com/users/hyacz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hyacz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

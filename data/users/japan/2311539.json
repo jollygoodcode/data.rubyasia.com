@@ -1,0 +1,20 @@
+{
+  "login": "kyuden",
+  "id": 2311539,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2311539?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kyuden",
+  "html_url": "https://github.com/kyuden",
+  "followers_url": "https://api.github.com/users/kyuden/followers",
+  "following_url": "https://api.github.com/users/kyuden/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kyuden/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kyuden/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kyuden/subscriptions",
+  "organizations_url": "https://api.github.com/users/kyuden/orgs",
+  "repos_url": "https://api.github.com/users/kyuden/repos",
+  "events_url": "https://api.github.com/users/kyuden/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kyuden/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

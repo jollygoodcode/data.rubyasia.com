@@ -1,0 +1,20 @@
+{
+  "login": "LunchBox",
+  "id": 37430,
+  "avatar_url": "https://avatars.githubusercontent.com/u/37430?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LunchBox",
+  "html_url": "https://github.com/LunchBox",
+  "followers_url": "https://api.github.com/users/LunchBox/followers",
+  "following_url": "https://api.github.com/users/LunchBox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LunchBox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LunchBox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LunchBox/subscriptions",
+  "organizations_url": "https://api.github.com/users/LunchBox/orgs",
+  "repos_url": "https://api.github.com/users/LunchBox/repos",
+  "events_url": "https://api.github.com/users/LunchBox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LunchBox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

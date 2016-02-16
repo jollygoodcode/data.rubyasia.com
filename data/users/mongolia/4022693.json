@@ -1,0 +1,20 @@
+{
+  "login": "Altantur",
+  "id": 4022693,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4022693?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Altantur",
+  "html_url": "https://github.com/Altantur",
+  "followers_url": "https://api.github.com/users/Altantur/followers",
+  "following_url": "https://api.github.com/users/Altantur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Altantur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Altantur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Altantur/subscriptions",
+  "organizations_url": "https://api.github.com/users/Altantur/orgs",
+  "repos_url": "https://api.github.com/users/Altantur/repos",
+  "events_url": "https://api.github.com/users/Altantur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Altantur/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

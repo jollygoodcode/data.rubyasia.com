@@ -1,0 +1,20 @@
+{
+  "login": "azitabh",
+  "id": 2002310,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2002310?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/azitabh",
+  "html_url": "https://github.com/azitabh",
+  "followers_url": "https://api.github.com/users/azitabh/followers",
+  "following_url": "https://api.github.com/users/azitabh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/azitabh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/azitabh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/azitabh/subscriptions",
+  "organizations_url": "https://api.github.com/users/azitabh/orgs",
+  "repos_url": "https://api.github.com/users/azitabh/repos",
+  "events_url": "https://api.github.com/users/azitabh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/azitabh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kgcd",
+  "id": 1632714,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1632714?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kgcd",
+  "html_url": "https://github.com/kgcd",
+  "followers_url": "https://api.github.com/users/kgcd/followers",
+  "following_url": "https://api.github.com/users/kgcd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kgcd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kgcd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kgcd/subscriptions",
+  "organizations_url": "https://api.github.com/users/kgcd/orgs",
+  "repos_url": "https://api.github.com/users/kgcd/repos",
+  "events_url": "https://api.github.com/users/kgcd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kgcd/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wushuyi",
+  "id": 3785131,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3785131?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wushuyi",
+  "html_url": "https://github.com/wushuyi",
+  "followers_url": "https://api.github.com/users/wushuyi/followers",
+  "following_url": "https://api.github.com/users/wushuyi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wushuyi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wushuyi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wushuyi/subscriptions",
+  "organizations_url": "https://api.github.com/users/wushuyi/orgs",
+  "repos_url": "https://api.github.com/users/wushuyi/repos",
+  "events_url": "https://api.github.com/users/wushuyi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wushuyi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

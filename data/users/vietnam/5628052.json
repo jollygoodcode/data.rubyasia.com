@@ -1,0 +1,20 @@
+{
+  "login": "hungdn",
+  "id": 5628052,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5628052?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hungdn",
+  "html_url": "https://github.com/hungdn",
+  "followers_url": "https://api.github.com/users/hungdn/followers",
+  "following_url": "https://api.github.com/users/hungdn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hungdn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hungdn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hungdn/subscriptions",
+  "organizations_url": "https://api.github.com/users/hungdn/orgs",
+  "repos_url": "https://api.github.com/users/hungdn/repos",
+  "events_url": "https://api.github.com/users/hungdn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hungdn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

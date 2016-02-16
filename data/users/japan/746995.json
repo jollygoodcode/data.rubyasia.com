@@ -1,0 +1,20 @@
+{
+  "login": "quwahiro",
+  "id": 746995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/746995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/quwahiro",
+  "html_url": "https://github.com/quwahiro",
+  "followers_url": "https://api.github.com/users/quwahiro/followers",
+  "following_url": "https://api.github.com/users/quwahiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/quwahiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/quwahiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/quwahiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/quwahiro/orgs",
+  "repos_url": "https://api.github.com/users/quwahiro/repos",
+  "events_url": "https://api.github.com/users/quwahiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/quwahiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

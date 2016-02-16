@@ -1,0 +1,20 @@
+{
+  "login": "alpha-netzilla",
+  "id": 12320038,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12320038?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alpha-netzilla",
+  "html_url": "https://github.com/alpha-netzilla",
+  "followers_url": "https://api.github.com/users/alpha-netzilla/followers",
+  "following_url": "https://api.github.com/users/alpha-netzilla/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alpha-netzilla/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alpha-netzilla/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alpha-netzilla/subscriptions",
+  "organizations_url": "https://api.github.com/users/alpha-netzilla/orgs",
+  "repos_url": "https://api.github.com/users/alpha-netzilla/repos",
+  "events_url": "https://api.github.com/users/alpha-netzilla/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alpha-netzilla/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

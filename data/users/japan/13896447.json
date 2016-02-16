@@ -1,0 +1,20 @@
+{
+  "login": "freee",
+  "id": 13896447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13896447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/freee",
+  "html_url": "https://github.com/freee",
+  "followers_url": "https://api.github.com/users/freee/followers",
+  "following_url": "https://api.github.com/users/freee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/freee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/freee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/freee/subscriptions",
+  "organizations_url": "https://api.github.com/users/freee/orgs",
+  "repos_url": "https://api.github.com/users/freee/repos",
+  "events_url": "https://api.github.com/users/freee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/freee/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

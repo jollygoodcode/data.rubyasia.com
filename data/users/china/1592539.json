@@ -1,0 +1,20 @@
+{
+  "login": "yisuren",
+  "id": 1592539,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1592539?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yisuren",
+  "html_url": "https://github.com/yisuren",
+  "followers_url": "https://api.github.com/users/yisuren/followers",
+  "following_url": "https://api.github.com/users/yisuren/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yisuren/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yisuren/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yisuren/subscriptions",
+  "organizations_url": "https://api.github.com/users/yisuren/orgs",
+  "repos_url": "https://api.github.com/users/yisuren/repos",
+  "events_url": "https://api.github.com/users/yisuren/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yisuren/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

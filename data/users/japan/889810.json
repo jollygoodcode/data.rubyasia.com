@@ -1,0 +1,20 @@
+{
+  "login": "asamix",
+  "id": 889810,
+  "avatar_url": "https://avatars.githubusercontent.com/u/889810?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asamix",
+  "html_url": "https://github.com/asamix",
+  "followers_url": "https://api.github.com/users/asamix/followers",
+  "following_url": "https://api.github.com/users/asamix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asamix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asamix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asamix/subscriptions",
+  "organizations_url": "https://api.github.com/users/asamix/orgs",
+  "repos_url": "https://api.github.com/users/asamix/repos",
+  "events_url": "https://api.github.com/users/asamix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asamix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

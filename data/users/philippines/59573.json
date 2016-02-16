@@ -1,0 +1,20 @@
+{
+  "login": "mindless",
+  "id": 59573,
+  "avatar_url": "https://avatars.githubusercontent.com/u/59573?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mindless",
+  "html_url": "https://github.com/mindless",
+  "followers_url": "https://api.github.com/users/mindless/followers",
+  "following_url": "https://api.github.com/users/mindless/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mindless/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mindless/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mindless/subscriptions",
+  "organizations_url": "https://api.github.com/users/mindless/orgs",
+  "repos_url": "https://api.github.com/users/mindless/repos",
+  "events_url": "https://api.github.com/users/mindless/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mindless/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

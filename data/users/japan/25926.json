@@ -1,0 +1,20 @@
+{
+  "login": "doches",
+  "id": 25926,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25926?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/doches",
+  "html_url": "https://github.com/doches",
+  "followers_url": "https://api.github.com/users/doches/followers",
+  "following_url": "https://api.github.com/users/doches/following{/other_user}",
+  "gists_url": "https://api.github.com/users/doches/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/doches/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/doches/subscriptions",
+  "organizations_url": "https://api.github.com/users/doches/orgs",
+  "repos_url": "https://api.github.com/users/doches/repos",
+  "events_url": "https://api.github.com/users/doches/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/doches/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

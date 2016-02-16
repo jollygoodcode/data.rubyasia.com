@@ -1,0 +1,20 @@
+{
+  "login": "lmvecino",
+  "id": 15132608,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15132608?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lmvecino",
+  "html_url": "https://github.com/lmvecino",
+  "followers_url": "https://api.github.com/users/lmvecino/followers",
+  "following_url": "https://api.github.com/users/lmvecino/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lmvecino/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lmvecino/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lmvecino/subscriptions",
+  "organizations_url": "https://api.github.com/users/lmvecino/orgs",
+  "repos_url": "https://api.github.com/users/lmvecino/repos",
+  "events_url": "https://api.github.com/users/lmvecino/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lmvecino/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

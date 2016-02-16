@@ -1,0 +1,20 @@
+{
+  "login": "richard-fisher",
+  "id": 1536028,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1536028?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/richard-fisher",
+  "html_url": "https://github.com/richard-fisher",
+  "followers_url": "https://api.github.com/users/richard-fisher/followers",
+  "following_url": "https://api.github.com/users/richard-fisher/following{/other_user}",
+  "gists_url": "https://api.github.com/users/richard-fisher/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/richard-fisher/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/richard-fisher/subscriptions",
+  "organizations_url": "https://api.github.com/users/richard-fisher/orgs",
+  "repos_url": "https://api.github.com/users/richard-fisher/repos",
+  "events_url": "https://api.github.com/users/richard-fisher/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/richard-fisher/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

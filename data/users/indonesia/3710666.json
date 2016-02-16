@@ -1,0 +1,20 @@
+{
+  "login": "eufat",
+  "id": 3710666,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3710666?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eufat",
+  "html_url": "https://github.com/eufat",
+  "followers_url": "https://api.github.com/users/eufat/followers",
+  "following_url": "https://api.github.com/users/eufat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eufat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eufat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eufat/subscriptions",
+  "organizations_url": "https://api.github.com/users/eufat/orgs",
+  "repos_url": "https://api.github.com/users/eufat/repos",
+  "events_url": "https://api.github.com/users/eufat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eufat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

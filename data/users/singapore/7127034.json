@@ -1,0 +1,20 @@
+{
+  "login": "wsgit",
+  "id": 7127034,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7127034?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wsgit",
+  "html_url": "https://github.com/wsgit",
+  "followers_url": "https://api.github.com/users/wsgit/followers",
+  "following_url": "https://api.github.com/users/wsgit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wsgit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wsgit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wsgit/subscriptions",
+  "organizations_url": "https://api.github.com/users/wsgit/orgs",
+  "repos_url": "https://api.github.com/users/wsgit/repos",
+  "events_url": "https://api.github.com/users/wsgit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wsgit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

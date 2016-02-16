@@ -1,0 +1,20 @@
+{
+  "login": "zyusou",
+  "id": 2852242,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2852242?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zyusou",
+  "html_url": "https://github.com/zyusou",
+  "followers_url": "https://api.github.com/users/zyusou/followers",
+  "following_url": "https://api.github.com/users/zyusou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zyusou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zyusou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zyusou/subscriptions",
+  "organizations_url": "https://api.github.com/users/zyusou/orgs",
+  "repos_url": "https://api.github.com/users/zyusou/repos",
+  "events_url": "https://api.github.com/users/zyusou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zyusou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

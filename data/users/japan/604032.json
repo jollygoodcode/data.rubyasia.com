@@ -1,0 +1,20 @@
+{
+  "login": "airs",
+  "id": 604032,
+  "avatar_url": "https://avatars.githubusercontent.com/u/604032?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/airs",
+  "html_url": "https://github.com/airs",
+  "followers_url": "https://api.github.com/users/airs/followers",
+  "following_url": "https://api.github.com/users/airs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/airs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/airs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/airs/subscriptions",
+  "organizations_url": "https://api.github.com/users/airs/orgs",
+  "repos_url": "https://api.github.com/users/airs/repos",
+  "events_url": "https://api.github.com/users/airs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/airs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

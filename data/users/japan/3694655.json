@@ -1,0 +1,20 @@
+{
+  "login": "incheon",
+  "id": 3694655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3694655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/incheon",
+  "html_url": "https://github.com/incheon",
+  "followers_url": "https://api.github.com/users/incheon/followers",
+  "following_url": "https://api.github.com/users/incheon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/incheon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/incheon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/incheon/subscriptions",
+  "organizations_url": "https://api.github.com/users/incheon/orgs",
+  "repos_url": "https://api.github.com/users/incheon/repos",
+  "events_url": "https://api.github.com/users/incheon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/incheon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

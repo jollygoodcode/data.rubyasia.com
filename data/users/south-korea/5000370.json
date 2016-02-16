@@ -1,0 +1,20 @@
+{
+  "login": "nixgon",
+  "id": 5000370,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5000370?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nixgon",
+  "html_url": "https://github.com/nixgon",
+  "followers_url": "https://api.github.com/users/nixgon/followers",
+  "following_url": "https://api.github.com/users/nixgon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nixgon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nixgon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nixgon/subscriptions",
+  "organizations_url": "https://api.github.com/users/nixgon/orgs",
+  "repos_url": "https://api.github.com/users/nixgon/repos",
+  "events_url": "https://api.github.com/users/nixgon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nixgon/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

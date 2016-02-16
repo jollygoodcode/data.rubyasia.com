@@ -1,0 +1,20 @@
+{
+  "login": "jvnill",
+  "id": 151060,
+  "avatar_url": "https://avatars.githubusercontent.com/u/151060?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jvnill",
+  "html_url": "https://github.com/jvnill",
+  "followers_url": "https://api.github.com/users/jvnill/followers",
+  "following_url": "https://api.github.com/users/jvnill/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jvnill/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jvnill/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jvnill/subscriptions",
+  "organizations_url": "https://api.github.com/users/jvnill/orgs",
+  "repos_url": "https://api.github.com/users/jvnill/repos",
+  "events_url": "https://api.github.com/users/jvnill/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jvnill/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

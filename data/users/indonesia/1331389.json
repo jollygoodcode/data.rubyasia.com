@@ -1,0 +1,20 @@
+{
+  "login": "rilut",
+  "id": 1331389,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1331389?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rilut",
+  "html_url": "https://github.com/rilut",
+  "followers_url": "https://api.github.com/users/rilut/followers",
+  "following_url": "https://api.github.com/users/rilut/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rilut/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rilut/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rilut/subscriptions",
+  "organizations_url": "https://api.github.com/users/rilut/orgs",
+  "repos_url": "https://api.github.com/users/rilut/repos",
+  "events_url": "https://api.github.com/users/rilut/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rilut/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

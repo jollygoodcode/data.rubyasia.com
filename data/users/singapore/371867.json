@@ -1,0 +1,20 @@
+{
+  "login": "xib",
+  "id": 371867,
+  "avatar_url": "https://avatars.githubusercontent.com/u/371867?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xib",
+  "html_url": "https://github.com/xib",
+  "followers_url": "https://api.github.com/users/xib/followers",
+  "following_url": "https://api.github.com/users/xib/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xib/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xib/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xib/subscriptions",
+  "organizations_url": "https://api.github.com/users/xib/orgs",
+  "repos_url": "https://api.github.com/users/xib/repos",
+  "events_url": "https://api.github.com/users/xib/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xib/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

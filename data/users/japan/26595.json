@@ -1,0 +1,20 @@
+{
+  "login": "kitaura",
+  "id": 26595,
+  "avatar_url": "https://avatars.githubusercontent.com/u/26595?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kitaura",
+  "html_url": "https://github.com/kitaura",
+  "followers_url": "https://api.github.com/users/kitaura/followers",
+  "following_url": "https://api.github.com/users/kitaura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kitaura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kitaura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kitaura/subscriptions",
+  "organizations_url": "https://api.github.com/users/kitaura/orgs",
+  "repos_url": "https://api.github.com/users/kitaura/repos",
+  "events_url": "https://api.github.com/users/kitaura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kitaura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

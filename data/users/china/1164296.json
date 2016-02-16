@@ -1,0 +1,20 @@
+{
+  "login": "congteng",
+  "id": 1164296,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1164296?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/congteng",
+  "html_url": "https://github.com/congteng",
+  "followers_url": "https://api.github.com/users/congteng/followers",
+  "following_url": "https://api.github.com/users/congteng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/congteng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/congteng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/congteng/subscriptions",
+  "organizations_url": "https://api.github.com/users/congteng/orgs",
+  "repos_url": "https://api.github.com/users/congteng/repos",
+  "events_url": "https://api.github.com/users/congteng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/congteng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

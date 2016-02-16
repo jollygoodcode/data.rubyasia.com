@@ -1,0 +1,20 @@
+{
+  "login": "Creedsama",
+  "id": 1708566,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1708566?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Creedsama",
+  "html_url": "https://github.com/Creedsama",
+  "followers_url": "https://api.github.com/users/Creedsama/followers",
+  "following_url": "https://api.github.com/users/Creedsama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Creedsama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Creedsama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Creedsama/subscriptions",
+  "organizations_url": "https://api.github.com/users/Creedsama/orgs",
+  "repos_url": "https://api.github.com/users/Creedsama/repos",
+  "events_url": "https://api.github.com/users/Creedsama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Creedsama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "harekumar",
+  "id": 4570062,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4570062?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harekumar",
+  "html_url": "https://github.com/harekumar",
+  "followers_url": "https://api.github.com/users/harekumar/followers",
+  "following_url": "https://api.github.com/users/harekumar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harekumar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harekumar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harekumar/subscriptions",
+  "organizations_url": "https://api.github.com/users/harekumar/orgs",
+  "repos_url": "https://api.github.com/users/harekumar/repos",
+  "events_url": "https://api.github.com/users/harekumar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harekumar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

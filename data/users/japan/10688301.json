@@ -1,0 +1,20 @@
+{
+  "login": "plageoj",
+  "id": 10688301,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10688301?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plageoj",
+  "html_url": "https://github.com/plageoj",
+  "followers_url": "https://api.github.com/users/plageoj/followers",
+  "following_url": "https://api.github.com/users/plageoj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plageoj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plageoj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plageoj/subscriptions",
+  "organizations_url": "https://api.github.com/users/plageoj/orgs",
+  "repos_url": "https://api.github.com/users/plageoj/repos",
+  "events_url": "https://api.github.com/users/plageoj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plageoj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

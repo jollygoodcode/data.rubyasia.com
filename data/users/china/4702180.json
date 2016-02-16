@@ -1,0 +1,20 @@
+{
+  "login": "zhoujiafei",
+  "id": 4702180,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4702180?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhoujiafei",
+  "html_url": "https://github.com/zhoujiafei",
+  "followers_url": "https://api.github.com/users/zhoujiafei/followers",
+  "following_url": "https://api.github.com/users/zhoujiafei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhoujiafei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhoujiafei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhoujiafei/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhoujiafei/orgs",
+  "repos_url": "https://api.github.com/users/zhoujiafei/repos",
+  "events_url": "https://api.github.com/users/zhoujiafei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhoujiafei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gapo",
+  "id": 441864,
+  "avatar_url": "https://avatars.githubusercontent.com/u/441864?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gapo",
+  "html_url": "https://github.com/gapo",
+  "followers_url": "https://api.github.com/users/gapo/followers",
+  "following_url": "https://api.github.com/users/gapo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gapo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gapo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gapo/subscriptions",
+  "organizations_url": "https://api.github.com/users/gapo/orgs",
+  "repos_url": "https://api.github.com/users/gapo/repos",
+  "events_url": "https://api.github.com/users/gapo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gapo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

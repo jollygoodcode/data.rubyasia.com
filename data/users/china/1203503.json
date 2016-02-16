@@ -1,0 +1,20 @@
+{
+  "login": "huaruwang",
+  "id": 1203503,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1203503?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huaruwang",
+  "html_url": "https://github.com/huaruwang",
+  "followers_url": "https://api.github.com/users/huaruwang/followers",
+  "following_url": "https://api.github.com/users/huaruwang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huaruwang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huaruwang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huaruwang/subscriptions",
+  "organizations_url": "https://api.github.com/users/huaruwang/orgs",
+  "repos_url": "https://api.github.com/users/huaruwang/repos",
+  "events_url": "https://api.github.com/users/huaruwang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huaruwang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

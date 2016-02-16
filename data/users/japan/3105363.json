@@ -1,0 +1,20 @@
+{
+  "login": "goldrush",
+  "id": 3105363,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3105363?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/goldrush",
+  "html_url": "https://github.com/goldrush",
+  "followers_url": "https://api.github.com/users/goldrush/followers",
+  "following_url": "https://api.github.com/users/goldrush/following{/other_user}",
+  "gists_url": "https://api.github.com/users/goldrush/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/goldrush/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/goldrush/subscriptions",
+  "organizations_url": "https://api.github.com/users/goldrush/orgs",
+  "repos_url": "https://api.github.com/users/goldrush/repos",
+  "events_url": "https://api.github.com/users/goldrush/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/goldrush/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

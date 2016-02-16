@@ -1,0 +1,20 @@
+{
+  "login": "aquajach",
+  "id": 146160,
+  "avatar_url": "https://avatars.githubusercontent.com/u/146160?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aquajach",
+  "html_url": "https://github.com/aquajach",
+  "followers_url": "https://api.github.com/users/aquajach/followers",
+  "following_url": "https://api.github.com/users/aquajach/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aquajach/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aquajach/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aquajach/subscriptions",
+  "organizations_url": "https://api.github.com/users/aquajach/orgs",
+  "repos_url": "https://api.github.com/users/aquajach/repos",
+  "events_url": "https://api.github.com/users/aquajach/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aquajach/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wego",
+  "id": 69198,
+  "avatar_url": "https://avatars.githubusercontent.com/u/69198?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wego",
+  "html_url": "https://github.com/wego",
+  "followers_url": "https://api.github.com/users/wego/followers",
+  "following_url": "https://api.github.com/users/wego/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wego/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wego/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wego/subscriptions",
+  "organizations_url": "https://api.github.com/users/wego/orgs",
+  "repos_url": "https://api.github.com/users/wego/repos",
+  "events_url": "https://api.github.com/users/wego/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wego/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

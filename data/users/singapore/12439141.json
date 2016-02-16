@@ -1,0 +1,20 @@
+{
+  "login": "idagds",
+  "id": 12439141,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12439141?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idagds",
+  "html_url": "https://github.com/idagds",
+  "followers_url": "https://api.github.com/users/idagds/followers",
+  "following_url": "https://api.github.com/users/idagds/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idagds/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idagds/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idagds/subscriptions",
+  "organizations_url": "https://api.github.com/users/idagds/orgs",
+  "repos_url": "https://api.github.com/users/idagds/repos",
+  "events_url": "https://api.github.com/users/idagds/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idagds/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

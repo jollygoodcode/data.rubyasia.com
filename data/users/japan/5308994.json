@@ -1,0 +1,20 @@
+{
+  "login": "gentlawk",
+  "id": 5308994,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5308994?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gentlawk",
+  "html_url": "https://github.com/gentlawk",
+  "followers_url": "https://api.github.com/users/gentlawk/followers",
+  "following_url": "https://api.github.com/users/gentlawk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gentlawk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gentlawk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gentlawk/subscriptions",
+  "organizations_url": "https://api.github.com/users/gentlawk/orgs",
+  "repos_url": "https://api.github.com/users/gentlawk/repos",
+  "events_url": "https://api.github.com/users/gentlawk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gentlawk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

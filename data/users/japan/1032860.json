@@ -1,0 +1,20 @@
+{
+  "login": "ojiman",
+  "id": 1032860,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1032860?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ojiman",
+  "html_url": "https://github.com/ojiman",
+  "followers_url": "https://api.github.com/users/ojiman/followers",
+  "following_url": "https://api.github.com/users/ojiman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ojiman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ojiman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ojiman/subscriptions",
+  "organizations_url": "https://api.github.com/users/ojiman/orgs",
+  "repos_url": "https://api.github.com/users/ojiman/repos",
+  "events_url": "https://api.github.com/users/ojiman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ojiman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

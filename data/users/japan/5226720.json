@@ -1,0 +1,20 @@
+{
+  "login": "mossaky",
+  "id": 5226720,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5226720?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mossaky",
+  "html_url": "https://github.com/mossaky",
+  "followers_url": "https://api.github.com/users/mossaky/followers",
+  "following_url": "https://api.github.com/users/mossaky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mossaky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mossaky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mossaky/subscriptions",
+  "organizations_url": "https://api.github.com/users/mossaky/orgs",
+  "repos_url": "https://api.github.com/users/mossaky/repos",
+  "events_url": "https://api.github.com/users/mossaky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mossaky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

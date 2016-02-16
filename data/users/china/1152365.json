@@ -1,0 +1,20 @@
+{
+  "login": "boostbob",
+  "id": 1152365,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1152365?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/boostbob",
+  "html_url": "https://github.com/boostbob",
+  "followers_url": "https://api.github.com/users/boostbob/followers",
+  "following_url": "https://api.github.com/users/boostbob/following{/other_user}",
+  "gists_url": "https://api.github.com/users/boostbob/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/boostbob/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/boostbob/subscriptions",
+  "organizations_url": "https://api.github.com/users/boostbob/orgs",
+  "repos_url": "https://api.github.com/users/boostbob/repos",
+  "events_url": "https://api.github.com/users/boostbob/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/boostbob/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

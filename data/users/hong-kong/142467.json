@@ -1,0 +1,20 @@
+{
+  "login": "mattgow",
+  "id": 142467,
+  "avatar_url": "https://avatars.githubusercontent.com/u/142467?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mattgow",
+  "html_url": "https://github.com/mattgow",
+  "followers_url": "https://api.github.com/users/mattgow/followers",
+  "following_url": "https://api.github.com/users/mattgow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mattgow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mattgow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mattgow/subscriptions",
+  "organizations_url": "https://api.github.com/users/mattgow/orgs",
+  "repos_url": "https://api.github.com/users/mattgow/repos",
+  "events_url": "https://api.github.com/users/mattgow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mattgow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

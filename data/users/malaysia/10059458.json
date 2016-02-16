@@ -1,0 +1,20 @@
+{
+  "login": "wengjeff",
+  "id": 10059458,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10059458?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wengjeff",
+  "html_url": "https://github.com/wengjeff",
+  "followers_url": "https://api.github.com/users/wengjeff/followers",
+  "following_url": "https://api.github.com/users/wengjeff/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wengjeff/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wengjeff/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wengjeff/subscriptions",
+  "organizations_url": "https://api.github.com/users/wengjeff/orgs",
+  "repos_url": "https://api.github.com/users/wengjeff/repos",
+  "events_url": "https://api.github.com/users/wengjeff/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wengjeff/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

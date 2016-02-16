@@ -1,0 +1,20 @@
+{
+  "login": "pominx",
+  "id": 974365,
+  "avatar_url": "https://avatars.githubusercontent.com/u/974365?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pominx",
+  "html_url": "https://github.com/pominx",
+  "followers_url": "https://api.github.com/users/pominx/followers",
+  "following_url": "https://api.github.com/users/pominx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pominx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pominx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pominx/subscriptions",
+  "organizations_url": "https://api.github.com/users/pominx/orgs",
+  "repos_url": "https://api.github.com/users/pominx/repos",
+  "events_url": "https://api.github.com/users/pominx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pominx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

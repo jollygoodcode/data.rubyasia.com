@@ -1,0 +1,20 @@
+{
+  "login": "yanjh",
+  "id": 2252177,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2252177?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yanjh",
+  "html_url": "https://github.com/yanjh",
+  "followers_url": "https://api.github.com/users/yanjh/followers",
+  "following_url": "https://api.github.com/users/yanjh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yanjh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yanjh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yanjh/subscriptions",
+  "organizations_url": "https://api.github.com/users/yanjh/orgs",
+  "repos_url": "https://api.github.com/users/yanjh/repos",
+  "events_url": "https://api.github.com/users/yanjh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yanjh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

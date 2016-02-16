@@ -1,0 +1,20 @@
+{
+  "login": "wykeith",
+  "id": 13540132,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13540132?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wykeith",
+  "html_url": "https://github.com/wykeith",
+  "followers_url": "https://api.github.com/users/wykeith/followers",
+  "following_url": "https://api.github.com/users/wykeith/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wykeith/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wykeith/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wykeith/subscriptions",
+  "organizations_url": "https://api.github.com/users/wykeith/orgs",
+  "repos_url": "https://api.github.com/users/wykeith/repos",
+  "events_url": "https://api.github.com/users/wykeith/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wykeith/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

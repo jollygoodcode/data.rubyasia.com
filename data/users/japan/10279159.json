@@ -1,0 +1,20 @@
+{
+  "login": "TaichiHirano",
+  "id": 10279159,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10279159?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TaichiHirano",
+  "html_url": "https://github.com/TaichiHirano",
+  "followers_url": "https://api.github.com/users/TaichiHirano/followers",
+  "following_url": "https://api.github.com/users/TaichiHirano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TaichiHirano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TaichiHirano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TaichiHirano/subscriptions",
+  "organizations_url": "https://api.github.com/users/TaichiHirano/orgs",
+  "repos_url": "https://api.github.com/users/TaichiHirano/repos",
+  "events_url": "https://api.github.com/users/TaichiHirano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TaichiHirano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

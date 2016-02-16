@@ -1,0 +1,20 @@
+{
+  "login": "aptx4869",
+  "id": 1173599,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1173599?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aptx4869",
+  "html_url": "https://github.com/aptx4869",
+  "followers_url": "https://api.github.com/users/aptx4869/followers",
+  "following_url": "https://api.github.com/users/aptx4869/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aptx4869/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aptx4869/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aptx4869/subscriptions",
+  "organizations_url": "https://api.github.com/users/aptx4869/orgs",
+  "repos_url": "https://api.github.com/users/aptx4869/repos",
+  "events_url": "https://api.github.com/users/aptx4869/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aptx4869/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

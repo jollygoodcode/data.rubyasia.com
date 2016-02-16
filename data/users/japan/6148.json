@@ -1,0 +1,20 @@
+{
+  "login": "valda",
+  "id": 6148,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6148?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/valda",
+  "html_url": "https://github.com/valda",
+  "followers_url": "https://api.github.com/users/valda/followers",
+  "following_url": "https://api.github.com/users/valda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/valda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/valda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/valda/subscriptions",
+  "organizations_url": "https://api.github.com/users/valda/orgs",
+  "repos_url": "https://api.github.com/users/valda/repos",
+  "events_url": "https://api.github.com/users/valda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/valda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

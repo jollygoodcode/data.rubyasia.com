@@ -1,0 +1,20 @@
+{
+  "login": "holistics",
+  "id": 12168382,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12168382?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/holistics",
+  "html_url": "https://github.com/holistics",
+  "followers_url": "https://api.github.com/users/holistics/followers",
+  "following_url": "https://api.github.com/users/holistics/following{/other_user}",
+  "gists_url": "https://api.github.com/users/holistics/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/holistics/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/holistics/subscriptions",
+  "organizations_url": "https://api.github.com/users/holistics/orgs",
+  "repos_url": "https://api.github.com/users/holistics/repos",
+  "events_url": "https://api.github.com/users/holistics/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/holistics/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

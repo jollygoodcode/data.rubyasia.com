@@ -1,0 +1,20 @@
+{
+  "login": "dylandamsma",
+  "id": 5804574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5804574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dylandamsma",
+  "html_url": "https://github.com/dylandamsma",
+  "followers_url": "https://api.github.com/users/dylandamsma/followers",
+  "following_url": "https://api.github.com/users/dylandamsma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dylandamsma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dylandamsma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dylandamsma/subscriptions",
+  "organizations_url": "https://api.github.com/users/dylandamsma/orgs",
+  "repos_url": "https://api.github.com/users/dylandamsma/repos",
+  "events_url": "https://api.github.com/users/dylandamsma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dylandamsma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

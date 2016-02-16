@@ -1,0 +1,20 @@
+{
+  "login": "ihower",
+  "id": 4557,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4557?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ihower",
+  "html_url": "https://github.com/ihower",
+  "followers_url": "https://api.github.com/users/ihower/followers",
+  "following_url": "https://api.github.com/users/ihower/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ihower/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ihower/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ihower/subscriptions",
+  "organizations_url": "https://api.github.com/users/ihower/orgs",
+  "repos_url": "https://api.github.com/users/ihower/repos",
+  "events_url": "https://api.github.com/users/ihower/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ihower/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

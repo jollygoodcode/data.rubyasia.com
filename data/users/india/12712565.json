@@ -1,0 +1,20 @@
+{
+  "login": "montygoldy",
+  "id": 12712565,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12712565?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/montygoldy",
+  "html_url": "https://github.com/montygoldy",
+  "followers_url": "https://api.github.com/users/montygoldy/followers",
+  "following_url": "https://api.github.com/users/montygoldy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/montygoldy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/montygoldy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/montygoldy/subscriptions",
+  "organizations_url": "https://api.github.com/users/montygoldy/orgs",
+  "repos_url": "https://api.github.com/users/montygoldy/repos",
+  "events_url": "https://api.github.com/users/montygoldy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/montygoldy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

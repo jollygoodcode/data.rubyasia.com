@@ -1,0 +1,20 @@
+{
+  "login": "bccks",
+  "id": 9252769,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9252769?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bccks",
+  "html_url": "https://github.com/bccks",
+  "followers_url": "https://api.github.com/users/bccks/followers",
+  "following_url": "https://api.github.com/users/bccks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bccks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bccks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bccks/subscriptions",
+  "organizations_url": "https://api.github.com/users/bccks/orgs",
+  "repos_url": "https://api.github.com/users/bccks/repos",
+  "events_url": "https://api.github.com/users/bccks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bccks/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

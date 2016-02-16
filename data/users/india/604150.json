@@ -1,0 +1,20 @@
+{
+  "login": "niyas",
+  "id": 604150,
+  "avatar_url": "https://avatars.githubusercontent.com/u/604150?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/niyas",
+  "html_url": "https://github.com/niyas",
+  "followers_url": "https://api.github.com/users/niyas/followers",
+  "following_url": "https://api.github.com/users/niyas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/niyas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/niyas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/niyas/subscriptions",
+  "organizations_url": "https://api.github.com/users/niyas/orgs",
+  "repos_url": "https://api.github.com/users/niyas/repos",
+  "events_url": "https://api.github.com/users/niyas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/niyas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

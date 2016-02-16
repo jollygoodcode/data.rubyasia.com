@@ -1,0 +1,20 @@
+{
+  "login": "bluestella",
+  "id": 31395,
+  "avatar_url": "https://avatars.githubusercontent.com/u/31395?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bluestella",
+  "html_url": "https://github.com/bluestella",
+  "followers_url": "https://api.github.com/users/bluestella/followers",
+  "following_url": "https://api.github.com/users/bluestella/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bluestella/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bluestella/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bluestella/subscriptions",
+  "organizations_url": "https://api.github.com/users/bluestella/orgs",
+  "repos_url": "https://api.github.com/users/bluestella/repos",
+  "events_url": "https://api.github.com/users/bluestella/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bluestella/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

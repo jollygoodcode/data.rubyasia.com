@@ -1,0 +1,20 @@
+{
+  "login": "konjing",
+  "id": 16680066,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16680066?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/konjing",
+  "html_url": "https://github.com/konjing",
+  "followers_url": "https://api.github.com/users/konjing/followers",
+  "following_url": "https://api.github.com/users/konjing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/konjing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/konjing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/konjing/subscriptions",
+  "organizations_url": "https://api.github.com/users/konjing/orgs",
+  "repos_url": "https://api.github.com/users/konjing/repos",
+  "events_url": "https://api.github.com/users/konjing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/konjing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "xuf",
+  "id": 2723734,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2723734?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xuf",
+  "html_url": "https://github.com/xuf",
+  "followers_url": "https://api.github.com/users/xuf/followers",
+  "following_url": "https://api.github.com/users/xuf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xuf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xuf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xuf/subscriptions",
+  "organizations_url": "https://api.github.com/users/xuf/orgs",
+  "repos_url": "https://api.github.com/users/xuf/repos",
+  "events_url": "https://api.github.com/users/xuf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xuf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

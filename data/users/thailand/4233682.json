@@ -1,0 +1,20 @@
+{
+  "login": "xenatt",
+  "id": 4233682,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4233682?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xenatt",
+  "html_url": "https://github.com/xenatt",
+  "followers_url": "https://api.github.com/users/xenatt/followers",
+  "following_url": "https://api.github.com/users/xenatt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xenatt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xenatt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xenatt/subscriptions",
+  "organizations_url": "https://api.github.com/users/xenatt/orgs",
+  "repos_url": "https://api.github.com/users/xenatt/repos",
+  "events_url": "https://api.github.com/users/xenatt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xenatt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

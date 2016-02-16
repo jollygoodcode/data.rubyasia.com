@@ -1,0 +1,20 @@
+{
+  "login": "zonoise",
+  "id": 165095,
+  "avatar_url": "https://avatars.githubusercontent.com/u/165095?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zonoise",
+  "html_url": "https://github.com/zonoise",
+  "followers_url": "https://api.github.com/users/zonoise/followers",
+  "following_url": "https://api.github.com/users/zonoise/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zonoise/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zonoise/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zonoise/subscriptions",
+  "organizations_url": "https://api.github.com/users/zonoise/orgs",
+  "repos_url": "https://api.github.com/users/zonoise/repos",
+  "events_url": "https://api.github.com/users/zonoise/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zonoise/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

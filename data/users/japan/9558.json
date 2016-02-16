@@ -1,0 +1,20 @@
+{
+  "login": "ko1",
+  "id": 9558,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9558?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ko1",
+  "html_url": "https://github.com/ko1",
+  "followers_url": "https://api.github.com/users/ko1/followers",
+  "following_url": "https://api.github.com/users/ko1/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ko1/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ko1/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ko1/subscriptions",
+  "organizations_url": "https://api.github.com/users/ko1/orgs",
+  "repos_url": "https://api.github.com/users/ko1/repos",
+  "events_url": "https://api.github.com/users/ko1/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ko1/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

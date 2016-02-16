@@ -1,0 +1,20 @@
+{
+  "login": "esminc",
+  "id": 66374,
+  "avatar_url": "https://avatars.githubusercontent.com/u/66374?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/esminc",
+  "html_url": "https://github.com/esminc",
+  "followers_url": "https://api.github.com/users/esminc/followers",
+  "following_url": "https://api.github.com/users/esminc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/esminc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/esminc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/esminc/subscriptions",
+  "organizations_url": "https://api.github.com/users/esminc/orgs",
+  "repos_url": "https://api.github.com/users/esminc/repos",
+  "events_url": "https://api.github.com/users/esminc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/esminc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

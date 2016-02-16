@@ -1,0 +1,20 @@
+{
+  "login": "beemer",
+  "id": 948251,
+  "avatar_url": "https://avatars.githubusercontent.com/u/948251?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/beemer",
+  "html_url": "https://github.com/beemer",
+  "followers_url": "https://api.github.com/users/beemer/followers",
+  "following_url": "https://api.github.com/users/beemer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/beemer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/beemer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/beemer/subscriptions",
+  "organizations_url": "https://api.github.com/users/beemer/orgs",
+  "repos_url": "https://api.github.com/users/beemer/repos",
+  "events_url": "https://api.github.com/users/beemer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/beemer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

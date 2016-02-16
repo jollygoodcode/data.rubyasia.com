@@ -1,0 +1,20 @@
+{
+  "login": "tianyilai",
+  "id": 1233383,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1233383?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tianyilai",
+  "html_url": "https://github.com/tianyilai",
+  "followers_url": "https://api.github.com/users/tianyilai/followers",
+  "following_url": "https://api.github.com/users/tianyilai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tianyilai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tianyilai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tianyilai/subscriptions",
+  "organizations_url": "https://api.github.com/users/tianyilai/orgs",
+  "repos_url": "https://api.github.com/users/tianyilai/repos",
+  "events_url": "https://api.github.com/users/tianyilai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tianyilai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

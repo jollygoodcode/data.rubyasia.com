@@ -1,0 +1,20 @@
+{
+  "login": "Maysora",
+  "id": 249522,
+  "avatar_url": "https://avatars.githubusercontent.com/u/249522?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Maysora",
+  "html_url": "https://github.com/Maysora",
+  "followers_url": "https://api.github.com/users/Maysora/followers",
+  "following_url": "https://api.github.com/users/Maysora/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Maysora/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Maysora/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Maysora/subscriptions",
+  "organizations_url": "https://api.github.com/users/Maysora/orgs",
+  "repos_url": "https://api.github.com/users/Maysora/repos",
+  "events_url": "https://api.github.com/users/Maysora/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Maysora/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

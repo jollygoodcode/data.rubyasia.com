@@ -1,0 +1,20 @@
+{
+  "login": "z-caterpillar",
+  "id": 80578,
+  "avatar_url": "https://avatars.githubusercontent.com/u/80578?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/z-caterpillar",
+  "html_url": "https://github.com/z-caterpillar",
+  "followers_url": "https://api.github.com/users/z-caterpillar/followers",
+  "following_url": "https://api.github.com/users/z-caterpillar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/z-caterpillar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/z-caterpillar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/z-caterpillar/subscriptions",
+  "organizations_url": "https://api.github.com/users/z-caterpillar/orgs",
+  "repos_url": "https://api.github.com/users/z-caterpillar/repos",
+  "events_url": "https://api.github.com/users/z-caterpillar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/z-caterpillar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

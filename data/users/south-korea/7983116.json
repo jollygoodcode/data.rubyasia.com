@@ -1,0 +1,20 @@
+{
+  "login": "n8finch",
+  "id": 7983116,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7983116?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/n8finch",
+  "html_url": "https://github.com/n8finch",
+  "followers_url": "https://api.github.com/users/n8finch/followers",
+  "following_url": "https://api.github.com/users/n8finch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/n8finch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/n8finch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/n8finch/subscriptions",
+  "organizations_url": "https://api.github.com/users/n8finch/orgs",
+  "repos_url": "https://api.github.com/users/n8finch/repos",
+  "events_url": "https://api.github.com/users/n8finch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/n8finch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "pickles",
+  "id": 190726,
+  "avatar_url": "https://avatars.githubusercontent.com/u/190726?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pickles",
+  "html_url": "https://github.com/pickles",
+  "followers_url": "https://api.github.com/users/pickles/followers",
+  "following_url": "https://api.github.com/users/pickles/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pickles/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pickles/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pickles/subscriptions",
+  "organizations_url": "https://api.github.com/users/pickles/orgs",
+  "repos_url": "https://api.github.com/users/pickles/repos",
+  "events_url": "https://api.github.com/users/pickles/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pickles/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

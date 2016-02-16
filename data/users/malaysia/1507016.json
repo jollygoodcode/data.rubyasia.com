@@ -1,0 +1,20 @@
+{
+  "login": "josephting",
+  "id": 1507016,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1507016?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/josephting",
+  "html_url": "https://github.com/josephting",
+  "followers_url": "https://api.github.com/users/josephting/followers",
+  "following_url": "https://api.github.com/users/josephting/following{/other_user}",
+  "gists_url": "https://api.github.com/users/josephting/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/josephting/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/josephting/subscriptions",
+  "organizations_url": "https://api.github.com/users/josephting/orgs",
+  "repos_url": "https://api.github.com/users/josephting/repos",
+  "events_url": "https://api.github.com/users/josephting/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/josephting/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "biangle",
+  "id": 364103,
+  "avatar_url": "https://avatars.githubusercontent.com/u/364103?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/biangle",
+  "html_url": "https://github.com/biangle",
+  "followers_url": "https://api.github.com/users/biangle/followers",
+  "following_url": "https://api.github.com/users/biangle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/biangle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/biangle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/biangle/subscriptions",
+  "organizations_url": "https://api.github.com/users/biangle/orgs",
+  "repos_url": "https://api.github.com/users/biangle/repos",
+  "events_url": "https://api.github.com/users/biangle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/biangle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

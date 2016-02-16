@@ -1,0 +1,20 @@
+{
+  "login": "KenjiBane",
+  "id": 13458384,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13458384?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KenjiBane",
+  "html_url": "https://github.com/KenjiBane",
+  "followers_url": "https://api.github.com/users/KenjiBane/followers",
+  "following_url": "https://api.github.com/users/KenjiBane/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KenjiBane/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KenjiBane/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KenjiBane/subscriptions",
+  "organizations_url": "https://api.github.com/users/KenjiBane/orgs",
+  "repos_url": "https://api.github.com/users/KenjiBane/repos",
+  "events_url": "https://api.github.com/users/KenjiBane/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KenjiBane/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

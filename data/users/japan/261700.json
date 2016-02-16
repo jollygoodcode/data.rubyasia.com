@@ -1,0 +1,20 @@
+{
+  "login": "spesnova",
+  "id": 261700,
+  "avatar_url": "https://avatars.githubusercontent.com/u/261700?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spesnova",
+  "html_url": "https://github.com/spesnova",
+  "followers_url": "https://api.github.com/users/spesnova/followers",
+  "following_url": "https://api.github.com/users/spesnova/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spesnova/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spesnova/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spesnova/subscriptions",
+  "organizations_url": "https://api.github.com/users/spesnova/orgs",
+  "repos_url": "https://api.github.com/users/spesnova/repos",
+  "events_url": "https://api.github.com/users/spesnova/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spesnova/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

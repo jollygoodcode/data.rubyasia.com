@@ -1,0 +1,20 @@
+{
+  "login": "ryo0508",
+  "id": 1239071,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1239071?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryo0508",
+  "html_url": "https://github.com/ryo0508",
+  "followers_url": "https://api.github.com/users/ryo0508/followers",
+  "following_url": "https://api.github.com/users/ryo0508/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryo0508/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryo0508/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryo0508/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryo0508/orgs",
+  "repos_url": "https://api.github.com/users/ryo0508/repos",
+  "events_url": "https://api.github.com/users/ryo0508/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryo0508/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

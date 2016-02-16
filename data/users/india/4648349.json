@@ -1,0 +1,20 @@
+{
+  "login": "krish4",
+  "id": 4648349,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4648349?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/krish4",
+  "html_url": "https://github.com/krish4",
+  "followers_url": "https://api.github.com/users/krish4/followers",
+  "following_url": "https://api.github.com/users/krish4/following{/other_user}",
+  "gists_url": "https://api.github.com/users/krish4/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/krish4/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/krish4/subscriptions",
+  "organizations_url": "https://api.github.com/users/krish4/orgs",
+  "repos_url": "https://api.github.com/users/krish4/repos",
+  "events_url": "https://api.github.com/users/krish4/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/krish4/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

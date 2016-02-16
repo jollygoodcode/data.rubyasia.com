@@ -1,0 +1,20 @@
+{
+  "login": "twifno",
+  "id": 2708693,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2708693?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/twifno",
+  "html_url": "https://github.com/twifno",
+  "followers_url": "https://api.github.com/users/twifno/followers",
+  "following_url": "https://api.github.com/users/twifno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/twifno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/twifno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/twifno/subscriptions",
+  "organizations_url": "https://api.github.com/users/twifno/orgs",
+  "repos_url": "https://api.github.com/users/twifno/repos",
+  "events_url": "https://api.github.com/users/twifno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/twifno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

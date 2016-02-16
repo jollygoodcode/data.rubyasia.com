@@ -1,0 +1,20 @@
+{
+  "login": "csjaba",
+  "id": 2398264,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2398264?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/csjaba",
+  "html_url": "https://github.com/csjaba",
+  "followers_url": "https://api.github.com/users/csjaba/followers",
+  "following_url": "https://api.github.com/users/csjaba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/csjaba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/csjaba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/csjaba/subscriptions",
+  "organizations_url": "https://api.github.com/users/csjaba/orgs",
+  "repos_url": "https://api.github.com/users/csjaba/repos",
+  "events_url": "https://api.github.com/users/csjaba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/csjaba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

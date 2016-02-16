@@ -1,0 +1,20 @@
+{
+  "login": "amratab",
+  "id": 8576917,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8576917?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amratab",
+  "html_url": "https://github.com/amratab",
+  "followers_url": "https://api.github.com/users/amratab/followers",
+  "following_url": "https://api.github.com/users/amratab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amratab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amratab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amratab/subscriptions",
+  "organizations_url": "https://api.github.com/users/amratab/orgs",
+  "repos_url": "https://api.github.com/users/amratab/repos",
+  "events_url": "https://api.github.com/users/amratab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amratab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

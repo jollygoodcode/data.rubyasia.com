@@ -1,0 +1,20 @@
+{
+  "login": "pinyushaw",
+  "id": 6188520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6188520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pinyushaw",
+  "html_url": "https://github.com/pinyushaw",
+  "followers_url": "https://api.github.com/users/pinyushaw/followers",
+  "following_url": "https://api.github.com/users/pinyushaw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pinyushaw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pinyushaw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pinyushaw/subscriptions",
+  "organizations_url": "https://api.github.com/users/pinyushaw/orgs",
+  "repos_url": "https://api.github.com/users/pinyushaw/repos",
+  "events_url": "https://api.github.com/users/pinyushaw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pinyushaw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

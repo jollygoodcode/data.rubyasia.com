@@ -1,0 +1,20 @@
+{
+  "login": "tbly",
+  "id": 20784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tbly",
+  "html_url": "https://github.com/tbly",
+  "followers_url": "https://api.github.com/users/tbly/followers",
+  "following_url": "https://api.github.com/users/tbly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tbly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tbly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tbly/subscriptions",
+  "organizations_url": "https://api.github.com/users/tbly/orgs",
+  "repos_url": "https://api.github.com/users/tbly/repos",
+  "events_url": "https://api.github.com/users/tbly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tbly/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rociiu",
+  "id": 23930,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23930?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rociiu",
+  "html_url": "https://github.com/rociiu",
+  "followers_url": "https://api.github.com/users/rociiu/followers",
+  "following_url": "https://api.github.com/users/rociiu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rociiu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rociiu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rociiu/subscriptions",
+  "organizations_url": "https://api.github.com/users/rociiu/orgs",
+  "repos_url": "https://api.github.com/users/rociiu/repos",
+  "events_url": "https://api.github.com/users/rociiu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rociiu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

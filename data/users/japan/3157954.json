@@ -1,0 +1,20 @@
+{
+  "login": "sirasyou",
+  "id": 3157954,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3157954?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sirasyou",
+  "html_url": "https://github.com/sirasyou",
+  "followers_url": "https://api.github.com/users/sirasyou/followers",
+  "following_url": "https://api.github.com/users/sirasyou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sirasyou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sirasyou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sirasyou/subscriptions",
+  "organizations_url": "https://api.github.com/users/sirasyou/orgs",
+  "repos_url": "https://api.github.com/users/sirasyou/repos",
+  "events_url": "https://api.github.com/users/sirasyou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sirasyou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

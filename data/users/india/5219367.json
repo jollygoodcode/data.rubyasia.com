@@ -1,0 +1,20 @@
+{
+  "login": "mrug",
+  "id": 5219367,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5219367?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrug",
+  "html_url": "https://github.com/mrug",
+  "followers_url": "https://api.github.com/users/mrug/followers",
+  "following_url": "https://api.github.com/users/mrug/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrug/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrug/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrug/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrug/orgs",
+  "repos_url": "https://api.github.com/users/mrug/repos",
+  "events_url": "https://api.github.com/users/mrug/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrug/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

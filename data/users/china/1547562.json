@@ -1,0 +1,20 @@
+{
+  "login": "robinhwang",
+  "id": 1547562,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1547562?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robinhwang",
+  "html_url": "https://github.com/robinhwang",
+  "followers_url": "https://api.github.com/users/robinhwang/followers",
+  "following_url": "https://api.github.com/users/robinhwang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robinhwang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robinhwang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robinhwang/subscriptions",
+  "organizations_url": "https://api.github.com/users/robinhwang/orgs",
+  "repos_url": "https://api.github.com/users/robinhwang/repos",
+  "events_url": "https://api.github.com/users/robinhwang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robinhwang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

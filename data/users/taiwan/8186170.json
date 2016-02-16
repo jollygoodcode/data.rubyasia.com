@@ -1,0 +1,20 @@
+{
+  "login": "samtptw",
+  "id": 8186170,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8186170?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/samtptw",
+  "html_url": "https://github.com/samtptw",
+  "followers_url": "https://api.github.com/users/samtptw/followers",
+  "following_url": "https://api.github.com/users/samtptw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/samtptw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/samtptw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/samtptw/subscriptions",
+  "organizations_url": "https://api.github.com/users/samtptw/orgs",
+  "repos_url": "https://api.github.com/users/samtptw/repos",
+  "events_url": "https://api.github.com/users/samtptw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/samtptw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

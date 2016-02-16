@@ -1,0 +1,20 @@
+{
+  "login": "dbit",
+  "id": 19586,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19586?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dbit",
+  "html_url": "https://github.com/dbit",
+  "followers_url": "https://api.github.com/users/dbit/followers",
+  "following_url": "https://api.github.com/users/dbit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dbit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dbit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dbit/subscriptions",
+  "organizations_url": "https://api.github.com/users/dbit/orgs",
+  "repos_url": "https://api.github.com/users/dbit/repos",
+  "events_url": "https://api.github.com/users/dbit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dbit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

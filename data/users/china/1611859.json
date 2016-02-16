@@ -1,0 +1,20 @@
+{
+  "login": "Neuxtus",
+  "id": 1611859,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1611859?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Neuxtus",
+  "html_url": "https://github.com/Neuxtus",
+  "followers_url": "https://api.github.com/users/Neuxtus/followers",
+  "following_url": "https://api.github.com/users/Neuxtus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Neuxtus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Neuxtus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Neuxtus/subscriptions",
+  "organizations_url": "https://api.github.com/users/Neuxtus/orgs",
+  "repos_url": "https://api.github.com/users/Neuxtus/repos",
+  "events_url": "https://api.github.com/users/Neuxtus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Neuxtus/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

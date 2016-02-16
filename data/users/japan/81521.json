@@ -1,0 +1,20 @@
+{
+  "login": "sandinist",
+  "id": 81521,
+  "avatar_url": "https://avatars.githubusercontent.com/u/81521?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sandinist",
+  "html_url": "https://github.com/sandinist",
+  "followers_url": "https://api.github.com/users/sandinist/followers",
+  "following_url": "https://api.github.com/users/sandinist/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sandinist/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sandinist/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sandinist/subscriptions",
+  "organizations_url": "https://api.github.com/users/sandinist/orgs",
+  "repos_url": "https://api.github.com/users/sandinist/repos",
+  "events_url": "https://api.github.com/users/sandinist/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sandinist/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

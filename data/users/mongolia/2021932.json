@@ -1,0 +1,20 @@
+{
+  "login": "gtulga",
+  "id": 2021932,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2021932?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gtulga",
+  "html_url": "https://github.com/gtulga",
+  "followers_url": "https://api.github.com/users/gtulga/followers",
+  "following_url": "https://api.github.com/users/gtulga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gtulga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gtulga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gtulga/subscriptions",
+  "organizations_url": "https://api.github.com/users/gtulga/orgs",
+  "repos_url": "https://api.github.com/users/gtulga/repos",
+  "events_url": "https://api.github.com/users/gtulga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gtulga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

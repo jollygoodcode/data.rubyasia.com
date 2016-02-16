@@ -1,0 +1,20 @@
+{
+  "login": "astronoka",
+  "id": 772503,
+  "avatar_url": "https://avatars.githubusercontent.com/u/772503?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/astronoka",
+  "html_url": "https://github.com/astronoka",
+  "followers_url": "https://api.github.com/users/astronoka/followers",
+  "following_url": "https://api.github.com/users/astronoka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/astronoka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/astronoka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/astronoka/subscriptions",
+  "organizations_url": "https://api.github.com/users/astronoka/orgs",
+  "repos_url": "https://api.github.com/users/astronoka/repos",
+  "events_url": "https://api.github.com/users/astronoka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/astronoka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

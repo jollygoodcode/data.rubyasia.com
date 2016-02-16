@@ -1,0 +1,20 @@
+{
+  "login": "otkzh",
+  "id": 6561100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6561100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/otkzh",
+  "html_url": "https://github.com/otkzh",
+  "followers_url": "https://api.github.com/users/otkzh/followers",
+  "following_url": "https://api.github.com/users/otkzh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/otkzh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/otkzh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/otkzh/subscriptions",
+  "organizations_url": "https://api.github.com/users/otkzh/orgs",
+  "repos_url": "https://api.github.com/users/otkzh/repos",
+  "events_url": "https://api.github.com/users/otkzh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/otkzh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

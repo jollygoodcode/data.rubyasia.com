@@ -1,0 +1,20 @@
+{
+  "login": "Atrae",
+  "id": 3508788,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3508788?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Atrae",
+  "html_url": "https://github.com/Atrae",
+  "followers_url": "https://api.github.com/users/Atrae/followers",
+  "following_url": "https://api.github.com/users/Atrae/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Atrae/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Atrae/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Atrae/subscriptions",
+  "organizations_url": "https://api.github.com/users/Atrae/orgs",
+  "repos_url": "https://api.github.com/users/Atrae/repos",
+  "events_url": "https://api.github.com/users/Atrae/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Atrae/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

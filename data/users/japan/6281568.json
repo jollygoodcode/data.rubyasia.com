@@ -1,0 +1,20 @@
+{
+  "login": "slepcat",
+  "id": 6281568,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6281568?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/slepcat",
+  "html_url": "https://github.com/slepcat",
+  "followers_url": "https://api.github.com/users/slepcat/followers",
+  "following_url": "https://api.github.com/users/slepcat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/slepcat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/slepcat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/slepcat/subscriptions",
+  "organizations_url": "https://api.github.com/users/slepcat/orgs",
+  "repos_url": "https://api.github.com/users/slepcat/repos",
+  "events_url": "https://api.github.com/users/slepcat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/slepcat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

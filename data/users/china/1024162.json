@@ -1,0 +1,20 @@
+{
+  "login": "jasl",
+  "id": 1024162,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1024162?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasl",
+  "html_url": "https://github.com/jasl",
+  "followers_url": "https://api.github.com/users/jasl/followers",
+  "following_url": "https://api.github.com/users/jasl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasl/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasl/orgs",
+  "repos_url": "https://api.github.com/users/jasl/repos",
+  "events_url": "https://api.github.com/users/jasl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

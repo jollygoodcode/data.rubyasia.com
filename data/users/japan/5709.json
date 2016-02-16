@@ -1,0 +1,20 @@
+{
+  "login": "moongift",
+  "id": 5709,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5709?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moongift",
+  "html_url": "https://github.com/moongift",
+  "followers_url": "https://api.github.com/users/moongift/followers",
+  "following_url": "https://api.github.com/users/moongift/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moongift/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moongift/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moongift/subscriptions",
+  "organizations_url": "https://api.github.com/users/moongift/orgs",
+  "repos_url": "https://api.github.com/users/moongift/repos",
+  "events_url": "https://api.github.com/users/moongift/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moongift/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

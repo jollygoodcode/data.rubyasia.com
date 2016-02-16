@@ -1,0 +1,20 @@
+{
+  "login": "camdez",
+  "id": 141447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/141447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/camdez",
+  "html_url": "https://github.com/camdez",
+  "followers_url": "https://api.github.com/users/camdez/followers",
+  "following_url": "https://api.github.com/users/camdez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/camdez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/camdez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/camdez/subscriptions",
+  "organizations_url": "https://api.github.com/users/camdez/orgs",
+  "repos_url": "https://api.github.com/users/camdez/repos",
+  "events_url": "https://api.github.com/users/camdez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/camdez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "s-shahid",
+  "id": 3282919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3282919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/s-shahid",
+  "html_url": "https://github.com/s-shahid",
+  "followers_url": "https://api.github.com/users/s-shahid/followers",
+  "following_url": "https://api.github.com/users/s-shahid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/s-shahid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/s-shahid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/s-shahid/subscriptions",
+  "organizations_url": "https://api.github.com/users/s-shahid/orgs",
+  "repos_url": "https://api.github.com/users/s-shahid/repos",
+  "events_url": "https://api.github.com/users/s-shahid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/s-shahid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

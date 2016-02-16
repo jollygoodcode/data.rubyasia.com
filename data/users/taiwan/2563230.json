@@ -1,0 +1,20 @@
+{
+  "login": "yfxie",
+  "id": 2563230,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2563230?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yfxie",
+  "html_url": "https://github.com/yfxie",
+  "followers_url": "https://api.github.com/users/yfxie/followers",
+  "following_url": "https://api.github.com/users/yfxie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yfxie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yfxie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yfxie/subscriptions",
+  "organizations_url": "https://api.github.com/users/yfxie/orgs",
+  "repos_url": "https://api.github.com/users/yfxie/repos",
+  "events_url": "https://api.github.com/users/yfxie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yfxie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

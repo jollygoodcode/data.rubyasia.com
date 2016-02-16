@@ -1,0 +1,20 @@
+{
+  "login": "darkhucx",
+  "id": 200908,
+  "avatar_url": "https://avatars.githubusercontent.com/u/200908?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/darkhucx",
+  "html_url": "https://github.com/darkhucx",
+  "followers_url": "https://api.github.com/users/darkhucx/followers",
+  "following_url": "https://api.github.com/users/darkhucx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/darkhucx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/darkhucx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/darkhucx/subscriptions",
+  "organizations_url": "https://api.github.com/users/darkhucx/orgs",
+  "repos_url": "https://api.github.com/users/darkhucx/repos",
+  "events_url": "https://api.github.com/users/darkhucx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/darkhucx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

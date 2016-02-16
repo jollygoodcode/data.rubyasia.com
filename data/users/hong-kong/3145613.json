@@ -1,0 +1,20 @@
+{
+  "login": "heika",
+  "id": 3145613,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3145613?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/heika",
+  "html_url": "https://github.com/heika",
+  "followers_url": "https://api.github.com/users/heika/followers",
+  "following_url": "https://api.github.com/users/heika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/heika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/heika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/heika/subscriptions",
+  "organizations_url": "https://api.github.com/users/heika/orgs",
+  "repos_url": "https://api.github.com/users/heika/repos",
+  "events_url": "https://api.github.com/users/heika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/heika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

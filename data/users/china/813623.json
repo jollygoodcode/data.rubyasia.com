@@ -1,0 +1,20 @@
+{
+  "login": "zhenning",
+  "id": 813623,
+  "avatar_url": "https://avatars.githubusercontent.com/u/813623?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhenning",
+  "html_url": "https://github.com/zhenning",
+  "followers_url": "https://api.github.com/users/zhenning/followers",
+  "following_url": "https://api.github.com/users/zhenning/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhenning/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhenning/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhenning/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhenning/orgs",
+  "repos_url": "https://api.github.com/users/zhenning/repos",
+  "events_url": "https://api.github.com/users/zhenning/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhenning/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

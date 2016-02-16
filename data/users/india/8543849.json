@@ -1,0 +1,20 @@
+{
+  "login": "saibaldey",
+  "id": 8543849,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8543849?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saibaldey",
+  "html_url": "https://github.com/saibaldey",
+  "followers_url": "https://api.github.com/users/saibaldey/followers",
+  "following_url": "https://api.github.com/users/saibaldey/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saibaldey/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saibaldey/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saibaldey/subscriptions",
+  "organizations_url": "https://api.github.com/users/saibaldey/orgs",
+  "repos_url": "https://api.github.com/users/saibaldey/repos",
+  "events_url": "https://api.github.com/users/saibaldey/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saibaldey/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

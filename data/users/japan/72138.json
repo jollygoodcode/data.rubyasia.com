@@ -1,0 +1,20 @@
+{
+  "login": "hiroponz",
+  "id": 72138,
+  "avatar_url": "https://avatars.githubusercontent.com/u/72138?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiroponz",
+  "html_url": "https://github.com/hiroponz",
+  "followers_url": "https://api.github.com/users/hiroponz/followers",
+  "following_url": "https://api.github.com/users/hiroponz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiroponz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiroponz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiroponz/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiroponz/orgs",
+  "repos_url": "https://api.github.com/users/hiroponz/repos",
+  "events_url": "https://api.github.com/users/hiroponz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiroponz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

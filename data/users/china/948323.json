@@ -1,0 +1,20 @@
+{
+  "login": "geekontheway",
+  "id": 948323,
+  "avatar_url": "https://avatars.githubusercontent.com/u/948323?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/geekontheway",
+  "html_url": "https://github.com/geekontheway",
+  "followers_url": "https://api.github.com/users/geekontheway/followers",
+  "following_url": "https://api.github.com/users/geekontheway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/geekontheway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/geekontheway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/geekontheway/subscriptions",
+  "organizations_url": "https://api.github.com/users/geekontheway/orgs",
+  "repos_url": "https://api.github.com/users/geekontheway/repos",
+  "events_url": "https://api.github.com/users/geekontheway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/geekontheway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

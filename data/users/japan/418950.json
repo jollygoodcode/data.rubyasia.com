@@ -1,0 +1,20 @@
+{
+  "login": "mecp",
+  "id": 418950,
+  "avatar_url": "https://avatars.githubusercontent.com/u/418950?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mecp",
+  "html_url": "https://github.com/mecp",
+  "followers_url": "https://api.github.com/users/mecp/followers",
+  "following_url": "https://api.github.com/users/mecp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mecp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mecp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mecp/subscriptions",
+  "organizations_url": "https://api.github.com/users/mecp/orgs",
+  "repos_url": "https://api.github.com/users/mecp/repos",
+  "events_url": "https://api.github.com/users/mecp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mecp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

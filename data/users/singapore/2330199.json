@@ -1,0 +1,20 @@
+{
+  "login": "jasonrosas",
+  "id": 2330199,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2330199?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasonrosas",
+  "html_url": "https://github.com/jasonrosas",
+  "followers_url": "https://api.github.com/users/jasonrosas/followers",
+  "following_url": "https://api.github.com/users/jasonrosas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasonrosas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasonrosas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasonrosas/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasonrosas/orgs",
+  "repos_url": "https://api.github.com/users/jasonrosas/repos",
+  "events_url": "https://api.github.com/users/jasonrosas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasonrosas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

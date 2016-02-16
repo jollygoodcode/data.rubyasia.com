@@ -1,0 +1,20 @@
+{
+  "login": "kuanding",
+  "id": 2605339,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2605339?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kuanding",
+  "html_url": "https://github.com/kuanding",
+  "followers_url": "https://api.github.com/users/kuanding/followers",
+  "following_url": "https://api.github.com/users/kuanding/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kuanding/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kuanding/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kuanding/subscriptions",
+  "organizations_url": "https://api.github.com/users/kuanding/orgs",
+  "repos_url": "https://api.github.com/users/kuanding/repos",
+  "events_url": "https://api.github.com/users/kuanding/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kuanding/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

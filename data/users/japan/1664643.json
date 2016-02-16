@@ -1,0 +1,20 @@
+{
+  "login": "hnkw",
+  "id": 1664643,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1664643?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hnkw",
+  "html_url": "https://github.com/hnkw",
+  "followers_url": "https://api.github.com/users/hnkw/followers",
+  "following_url": "https://api.github.com/users/hnkw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hnkw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hnkw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hnkw/subscriptions",
+  "organizations_url": "https://api.github.com/users/hnkw/orgs",
+  "repos_url": "https://api.github.com/users/hnkw/repos",
+  "events_url": "https://api.github.com/users/hnkw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hnkw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

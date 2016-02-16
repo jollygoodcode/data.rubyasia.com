@@ -1,0 +1,20 @@
+{
+  "login": "Chaerul",
+  "id": 2681995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2681995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Chaerul",
+  "html_url": "https://github.com/Chaerul",
+  "followers_url": "https://api.github.com/users/Chaerul/followers",
+  "following_url": "https://api.github.com/users/Chaerul/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Chaerul/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Chaerul/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Chaerul/subscriptions",
+  "organizations_url": "https://api.github.com/users/Chaerul/orgs",
+  "repos_url": "https://api.github.com/users/Chaerul/repos",
+  "events_url": "https://api.github.com/users/Chaerul/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Chaerul/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

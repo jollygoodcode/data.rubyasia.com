@@ -1,0 +1,20 @@
+{
+  "login": "werrett",
+  "id": 335226,
+  "avatar_url": "https://avatars.githubusercontent.com/u/335226?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/werrett",
+  "html_url": "https://github.com/werrett",
+  "followers_url": "https://api.github.com/users/werrett/followers",
+  "following_url": "https://api.github.com/users/werrett/following{/other_user}",
+  "gists_url": "https://api.github.com/users/werrett/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/werrett/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/werrett/subscriptions",
+  "organizations_url": "https://api.github.com/users/werrett/orgs",
+  "repos_url": "https://api.github.com/users/werrett/repos",
+  "events_url": "https://api.github.com/users/werrett/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/werrett/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kumatronik",
+  "id": 380343,
+  "avatar_url": "https://avatars.githubusercontent.com/u/380343?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kumatronik",
+  "html_url": "https://github.com/kumatronik",
+  "followers_url": "https://api.github.com/users/kumatronik/followers",
+  "following_url": "https://api.github.com/users/kumatronik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kumatronik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kumatronik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kumatronik/subscriptions",
+  "organizations_url": "https://api.github.com/users/kumatronik/orgs",
+  "repos_url": "https://api.github.com/users/kumatronik/repos",
+  "events_url": "https://api.github.com/users/kumatronik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kumatronik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

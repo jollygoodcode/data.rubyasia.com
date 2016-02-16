@@ -1,0 +1,20 @@
+{
+  "login": "resouer",
+  "id": 1701782,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1701782?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/resouer",
+  "html_url": "https://github.com/resouer",
+  "followers_url": "https://api.github.com/users/resouer/followers",
+  "following_url": "https://api.github.com/users/resouer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/resouer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/resouer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/resouer/subscriptions",
+  "organizations_url": "https://api.github.com/users/resouer/orgs",
+  "repos_url": "https://api.github.com/users/resouer/repos",
+  "events_url": "https://api.github.com/users/resouer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/resouer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

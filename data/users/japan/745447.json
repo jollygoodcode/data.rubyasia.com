@@ -1,0 +1,20 @@
+{
+  "login": "ytkt",
+  "id": 745447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/745447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ytkt",
+  "html_url": "https://github.com/ytkt",
+  "followers_url": "https://api.github.com/users/ytkt/followers",
+  "following_url": "https://api.github.com/users/ytkt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ytkt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ytkt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ytkt/subscriptions",
+  "organizations_url": "https://api.github.com/users/ytkt/orgs",
+  "repos_url": "https://api.github.com/users/ytkt/repos",
+  "events_url": "https://api.github.com/users/ytkt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ytkt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "k0kubun",
+  "id": 3138447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3138447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k0kubun",
+  "html_url": "https://github.com/k0kubun",
+  "followers_url": "https://api.github.com/users/k0kubun/followers",
+  "following_url": "https://api.github.com/users/k0kubun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k0kubun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k0kubun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k0kubun/subscriptions",
+  "organizations_url": "https://api.github.com/users/k0kubun/orgs",
+  "repos_url": "https://api.github.com/users/k0kubun/repos",
+  "events_url": "https://api.github.com/users/k0kubun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k0kubun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

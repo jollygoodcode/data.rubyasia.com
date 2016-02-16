@@ -1,0 +1,20 @@
+{
+  "login": "andystu",
+  "id": 6337900,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6337900?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andystu",
+  "html_url": "https://github.com/andystu",
+  "followers_url": "https://api.github.com/users/andystu/followers",
+  "following_url": "https://api.github.com/users/andystu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andystu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andystu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andystu/subscriptions",
+  "organizations_url": "https://api.github.com/users/andystu/orgs",
+  "repos_url": "https://api.github.com/users/andystu/repos",
+  "events_url": "https://api.github.com/users/andystu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andystu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

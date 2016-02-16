@@ -1,0 +1,20 @@
+{
+  "login": "nullcoder",
+  "id": 95660,
+  "avatar_url": "https://avatars.githubusercontent.com/u/95660?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nullcoder",
+  "html_url": "https://github.com/nullcoder",
+  "followers_url": "https://api.github.com/users/nullcoder/followers",
+  "following_url": "https://api.github.com/users/nullcoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nullcoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nullcoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nullcoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/nullcoder/orgs",
+  "repos_url": "https://api.github.com/users/nullcoder/repos",
+  "events_url": "https://api.github.com/users/nullcoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nullcoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

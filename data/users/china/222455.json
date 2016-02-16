@@ -1,0 +1,20 @@
+{
+  "login": "guange2015",
+  "id": 222455,
+  "avatar_url": "https://avatars.githubusercontent.com/u/222455?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/guange2015",
+  "html_url": "https://github.com/guange2015",
+  "followers_url": "https://api.github.com/users/guange2015/followers",
+  "following_url": "https://api.github.com/users/guange2015/following{/other_user}",
+  "gists_url": "https://api.github.com/users/guange2015/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/guange2015/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/guange2015/subscriptions",
+  "organizations_url": "https://api.github.com/users/guange2015/orgs",
+  "repos_url": "https://api.github.com/users/guange2015/repos",
+  "events_url": "https://api.github.com/users/guange2015/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/guange2015/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

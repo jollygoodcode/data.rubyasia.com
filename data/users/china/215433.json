@@ -1,0 +1,20 @@
+{
+  "login": "zfben",
+  "id": 215433,
+  "avatar_url": "https://avatars.githubusercontent.com/u/215433?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zfben",
+  "html_url": "https://github.com/zfben",
+  "followers_url": "https://api.github.com/users/zfben/followers",
+  "following_url": "https://api.github.com/users/zfben/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zfben/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zfben/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zfben/subscriptions",
+  "organizations_url": "https://api.github.com/users/zfben/orgs",
+  "repos_url": "https://api.github.com/users/zfben/repos",
+  "events_url": "https://api.github.com/users/zfben/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zfben/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "golfiti",
+  "id": 916799,
+  "avatar_url": "https://avatars.githubusercontent.com/u/916799?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/golfiti",
+  "html_url": "https://github.com/golfiti",
+  "followers_url": "https://api.github.com/users/golfiti/followers",
+  "following_url": "https://api.github.com/users/golfiti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/golfiti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/golfiti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/golfiti/subscriptions",
+  "organizations_url": "https://api.github.com/users/golfiti/orgs",
+  "repos_url": "https://api.github.com/users/golfiti/repos",
+  "events_url": "https://api.github.com/users/golfiti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/golfiti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

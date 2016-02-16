@@ -1,0 +1,20 @@
+{
+  "login": "wahack",
+  "id": 5065065,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5065065?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wahack",
+  "html_url": "https://github.com/wahack",
+  "followers_url": "https://api.github.com/users/wahack/followers",
+  "following_url": "https://api.github.com/users/wahack/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wahack/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wahack/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wahack/subscriptions",
+  "organizations_url": "https://api.github.com/users/wahack/orgs",
+  "repos_url": "https://api.github.com/users/wahack/repos",
+  "events_url": "https://api.github.com/users/wahack/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wahack/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

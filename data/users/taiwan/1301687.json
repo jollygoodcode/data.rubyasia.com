@@ -1,0 +1,20 @@
+{
+  "login": "michael-huang",
+  "id": 1301687,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1301687?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/michael-huang",
+  "html_url": "https://github.com/michael-huang",
+  "followers_url": "https://api.github.com/users/michael-huang/followers",
+  "following_url": "https://api.github.com/users/michael-huang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/michael-huang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/michael-huang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/michael-huang/subscriptions",
+  "organizations_url": "https://api.github.com/users/michael-huang/orgs",
+  "repos_url": "https://api.github.com/users/michael-huang/repos",
+  "events_url": "https://api.github.com/users/michael-huang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/michael-huang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

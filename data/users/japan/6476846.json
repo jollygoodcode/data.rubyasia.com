@@ -1,0 +1,20 @@
+{
+  "login": "navsite",
+  "id": 6476846,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6476846?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/navsite",
+  "html_url": "https://github.com/navsite",
+  "followers_url": "https://api.github.com/users/navsite/followers",
+  "following_url": "https://api.github.com/users/navsite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/navsite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/navsite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/navsite/subscriptions",
+  "organizations_url": "https://api.github.com/users/navsite/orgs",
+  "repos_url": "https://api.github.com/users/navsite/repos",
+  "events_url": "https://api.github.com/users/navsite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/navsite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

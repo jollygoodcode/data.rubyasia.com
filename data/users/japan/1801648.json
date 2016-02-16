@@ -1,0 +1,20 @@
+{
+  "login": "Bamboorian",
+  "id": 1801648,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1801648?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Bamboorian",
+  "html_url": "https://github.com/Bamboorian",
+  "followers_url": "https://api.github.com/users/Bamboorian/followers",
+  "following_url": "https://api.github.com/users/Bamboorian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Bamboorian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Bamboorian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Bamboorian/subscriptions",
+  "organizations_url": "https://api.github.com/users/Bamboorian/orgs",
+  "repos_url": "https://api.github.com/users/Bamboorian/repos",
+  "events_url": "https://api.github.com/users/Bamboorian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Bamboorian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "elsennov",
+  "id": 7565601,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7565601?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elsennov",
+  "html_url": "https://github.com/elsennov",
+  "followers_url": "https://api.github.com/users/elsennov/followers",
+  "following_url": "https://api.github.com/users/elsennov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elsennov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elsennov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elsennov/subscriptions",
+  "organizations_url": "https://api.github.com/users/elsennov/orgs",
+  "repos_url": "https://api.github.com/users/elsennov/repos",
+  "events_url": "https://api.github.com/users/elsennov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elsennov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

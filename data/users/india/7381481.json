@@ -1,0 +1,20 @@
+{
+  "login": "parult",
+  "id": 7381481,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7381481?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/parult",
+  "html_url": "https://github.com/parult",
+  "followers_url": "https://api.github.com/users/parult/followers",
+  "following_url": "https://api.github.com/users/parult/following{/other_user}",
+  "gists_url": "https://api.github.com/users/parult/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/parult/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/parult/subscriptions",
+  "organizations_url": "https://api.github.com/users/parult/orgs",
+  "repos_url": "https://api.github.com/users/parult/repos",
+  "events_url": "https://api.github.com/users/parult/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/parult/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

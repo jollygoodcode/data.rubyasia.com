@@ -1,0 +1,20 @@
+{
+  "login": "kissrobber",
+  "id": 792873,
+  "avatar_url": "https://avatars.githubusercontent.com/u/792873?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kissrobber",
+  "html_url": "https://github.com/kissrobber",
+  "followers_url": "https://api.github.com/users/kissrobber/followers",
+  "following_url": "https://api.github.com/users/kissrobber/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kissrobber/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kissrobber/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kissrobber/subscriptions",
+  "organizations_url": "https://api.github.com/users/kissrobber/orgs",
+  "repos_url": "https://api.github.com/users/kissrobber/repos",
+  "events_url": "https://api.github.com/users/kissrobber/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kissrobber/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

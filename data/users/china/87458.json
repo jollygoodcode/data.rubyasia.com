@@ -1,0 +1,20 @@
+{
+  "login": "loushizan",
+  "id": 87458,
+  "avatar_url": "https://avatars.githubusercontent.com/u/87458?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/loushizan",
+  "html_url": "https://github.com/loushizan",
+  "followers_url": "https://api.github.com/users/loushizan/followers",
+  "following_url": "https://api.github.com/users/loushizan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/loushizan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/loushizan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/loushizan/subscriptions",
+  "organizations_url": "https://api.github.com/users/loushizan/orgs",
+  "repos_url": "https://api.github.com/users/loushizan/repos",
+  "events_url": "https://api.github.com/users/loushizan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/loushizan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

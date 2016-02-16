@@ -1,0 +1,20 @@
+{
+  "login": "hyde2able",
+  "id": 11733664,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11733664?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hyde2able",
+  "html_url": "https://github.com/hyde2able",
+  "followers_url": "https://api.github.com/users/hyde2able/followers",
+  "following_url": "https://api.github.com/users/hyde2able/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hyde2able/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hyde2able/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hyde2able/subscriptions",
+  "organizations_url": "https://api.github.com/users/hyde2able/orgs",
+  "repos_url": "https://api.github.com/users/hyde2able/repos",
+  "events_url": "https://api.github.com/users/hyde2able/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hyde2able/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

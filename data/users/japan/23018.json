@@ -1,0 +1,20 @@
+{
+  "login": "iwazer",
+  "id": 23018,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23018?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iwazer",
+  "html_url": "https://github.com/iwazer",
+  "followers_url": "https://api.github.com/users/iwazer/followers",
+  "following_url": "https://api.github.com/users/iwazer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iwazer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iwazer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iwazer/subscriptions",
+  "organizations_url": "https://api.github.com/users/iwazer/orgs",
+  "repos_url": "https://api.github.com/users/iwazer/repos",
+  "events_url": "https://api.github.com/users/iwazer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iwazer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

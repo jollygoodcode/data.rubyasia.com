@@ -1,0 +1,20 @@
+{
+  "login": "syutran",
+  "id": 908990,
+  "avatar_url": "https://avatars.githubusercontent.com/u/908990?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/syutran",
+  "html_url": "https://github.com/syutran",
+  "followers_url": "https://api.github.com/users/syutran/followers",
+  "following_url": "https://api.github.com/users/syutran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/syutran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/syutran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/syutran/subscriptions",
+  "organizations_url": "https://api.github.com/users/syutran/orgs",
+  "repos_url": "https://api.github.com/users/syutran/repos",
+  "events_url": "https://api.github.com/users/syutran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/syutran/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

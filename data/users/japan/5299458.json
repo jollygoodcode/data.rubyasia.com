@@ -1,0 +1,20 @@
+{
+  "login": "suthio",
+  "id": 5299458,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5299458?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suthio",
+  "html_url": "https://github.com/suthio",
+  "followers_url": "https://api.github.com/users/suthio/followers",
+  "following_url": "https://api.github.com/users/suthio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suthio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suthio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suthio/subscriptions",
+  "organizations_url": "https://api.github.com/users/suthio/orgs",
+  "repos_url": "https://api.github.com/users/suthio/repos",
+  "events_url": "https://api.github.com/users/suthio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suthio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

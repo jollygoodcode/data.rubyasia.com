@@ -1,0 +1,20 @@
+{
+  "login": "JerelynCo",
+  "id": 8834612,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8834612?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JerelynCo",
+  "html_url": "https://github.com/JerelynCo",
+  "followers_url": "https://api.github.com/users/JerelynCo/followers",
+  "following_url": "https://api.github.com/users/JerelynCo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JerelynCo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JerelynCo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JerelynCo/subscriptions",
+  "organizations_url": "https://api.github.com/users/JerelynCo/orgs",
+  "repos_url": "https://api.github.com/users/JerelynCo/repos",
+  "events_url": "https://api.github.com/users/JerelynCo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JerelynCo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

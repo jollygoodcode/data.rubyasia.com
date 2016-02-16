@@ -1,0 +1,20 @@
+{
+  "login": "uec-comp",
+  "id": 11591221,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11591221?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uec-comp",
+  "html_url": "https://github.com/uec-comp",
+  "followers_url": "https://api.github.com/users/uec-comp/followers",
+  "following_url": "https://api.github.com/users/uec-comp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uec-comp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uec-comp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uec-comp/subscriptions",
+  "organizations_url": "https://api.github.com/users/uec-comp/orgs",
+  "repos_url": "https://api.github.com/users/uec-comp/repos",
+  "events_url": "https://api.github.com/users/uec-comp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uec-comp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kithokit",
+  "id": 920483,
+  "avatar_url": "https://avatars.githubusercontent.com/u/920483?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kithokit",
+  "html_url": "https://github.com/kithokit",
+  "followers_url": "https://api.github.com/users/kithokit/followers",
+  "following_url": "https://api.github.com/users/kithokit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kithokit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kithokit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kithokit/subscriptions",
+  "organizations_url": "https://api.github.com/users/kithokit/orgs",
+  "repos_url": "https://api.github.com/users/kithokit/repos",
+  "events_url": "https://api.github.com/users/kithokit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kithokit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

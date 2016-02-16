@@ -1,0 +1,20 @@
+{
+  "login": "kinda",
+  "id": 6949,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6949?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kinda",
+  "html_url": "https://github.com/kinda",
+  "followers_url": "https://api.github.com/users/kinda/followers",
+  "following_url": "https://api.github.com/users/kinda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kinda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kinda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kinda/subscriptions",
+  "organizations_url": "https://api.github.com/users/kinda/orgs",
+  "repos_url": "https://api.github.com/users/kinda/repos",
+  "events_url": "https://api.github.com/users/kinda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kinda/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

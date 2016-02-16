@@ -1,0 +1,20 @@
+{
+  "login": "penmanglewood",
+  "id": 1224356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1224356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/penmanglewood",
+  "html_url": "https://github.com/penmanglewood",
+  "followers_url": "https://api.github.com/users/penmanglewood/followers",
+  "following_url": "https://api.github.com/users/penmanglewood/following{/other_user}",
+  "gists_url": "https://api.github.com/users/penmanglewood/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/penmanglewood/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/penmanglewood/subscriptions",
+  "organizations_url": "https://api.github.com/users/penmanglewood/orgs",
+  "repos_url": "https://api.github.com/users/penmanglewood/repos",
+  "events_url": "https://api.github.com/users/penmanglewood/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/penmanglewood/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bighan",
+  "id": 489759,
+  "avatar_url": "https://avatars.githubusercontent.com/u/489759?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bighan",
+  "html_url": "https://github.com/bighan",
+  "followers_url": "https://api.github.com/users/bighan/followers",
+  "following_url": "https://api.github.com/users/bighan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bighan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bighan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bighan/subscriptions",
+  "organizations_url": "https://api.github.com/users/bighan/orgs",
+  "repos_url": "https://api.github.com/users/bighan/repos",
+  "events_url": "https://api.github.com/users/bighan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bighan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

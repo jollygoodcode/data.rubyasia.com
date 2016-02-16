@@ -1,0 +1,20 @@
+{
+  "login": "anthonyhan",
+  "id": 3324952,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3324952?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anthonyhan",
+  "html_url": "https://github.com/anthonyhan",
+  "followers_url": "https://api.github.com/users/anthonyhan/followers",
+  "following_url": "https://api.github.com/users/anthonyhan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anthonyhan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anthonyhan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anthonyhan/subscriptions",
+  "organizations_url": "https://api.github.com/users/anthonyhan/orgs",
+  "repos_url": "https://api.github.com/users/anthonyhan/repos",
+  "events_url": "https://api.github.com/users/anthonyhan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anthonyhan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

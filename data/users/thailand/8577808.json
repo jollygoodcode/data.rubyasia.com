@@ -1,0 +1,20 @@
+{
+  "login": "birdybrainy",
+  "id": 8577808,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8577808?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/birdybrainy",
+  "html_url": "https://github.com/birdybrainy",
+  "followers_url": "https://api.github.com/users/birdybrainy/followers",
+  "following_url": "https://api.github.com/users/birdybrainy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/birdybrainy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/birdybrainy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/birdybrainy/subscriptions",
+  "organizations_url": "https://api.github.com/users/birdybrainy/orgs",
+  "repos_url": "https://api.github.com/users/birdybrainy/repos",
+  "events_url": "https://api.github.com/users/birdybrainy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/birdybrainy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

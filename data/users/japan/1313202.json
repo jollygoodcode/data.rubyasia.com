@@ -1,0 +1,20 @@
+{
+  "login": "dai-vdr",
+  "id": 1313202,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1313202?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dai-vdr",
+  "html_url": "https://github.com/dai-vdr",
+  "followers_url": "https://api.github.com/users/dai-vdr/followers",
+  "following_url": "https://api.github.com/users/dai-vdr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dai-vdr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dai-vdr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dai-vdr/subscriptions",
+  "organizations_url": "https://api.github.com/users/dai-vdr/orgs",
+  "repos_url": "https://api.github.com/users/dai-vdr/repos",
+  "events_url": "https://api.github.com/users/dai-vdr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dai-vdr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

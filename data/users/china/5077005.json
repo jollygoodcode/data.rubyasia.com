@@ -1,0 +1,20 @@
+{
+  "login": "LongQi",
+  "id": 5077005,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5077005?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LongQi",
+  "html_url": "https://github.com/LongQi",
+  "followers_url": "https://api.github.com/users/LongQi/followers",
+  "following_url": "https://api.github.com/users/LongQi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LongQi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LongQi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LongQi/subscriptions",
+  "organizations_url": "https://api.github.com/users/LongQi/orgs",
+  "repos_url": "https://api.github.com/users/LongQi/repos",
+  "events_url": "https://api.github.com/users/LongQi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LongQi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

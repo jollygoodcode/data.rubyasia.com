@@ -1,0 +1,20 @@
+{
+  "login": "suakx",
+  "id": 62299,
+  "avatar_url": "https://avatars.githubusercontent.com/u/62299?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suakx",
+  "html_url": "https://github.com/suakx",
+  "followers_url": "https://api.github.com/users/suakx/followers",
+  "following_url": "https://api.github.com/users/suakx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suakx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suakx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suakx/subscriptions",
+  "organizations_url": "https://api.github.com/users/suakx/orgs",
+  "repos_url": "https://api.github.com/users/suakx/repos",
+  "events_url": "https://api.github.com/users/suakx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suakx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

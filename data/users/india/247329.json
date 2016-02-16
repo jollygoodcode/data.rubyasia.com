@@ -1,0 +1,20 @@
+{
+  "login": "atulkhot",
+  "id": 247329,
+  "avatar_url": "https://avatars.githubusercontent.com/u/247329?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atulkhot",
+  "html_url": "https://github.com/atulkhot",
+  "followers_url": "https://api.github.com/users/atulkhot/followers",
+  "following_url": "https://api.github.com/users/atulkhot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atulkhot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atulkhot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atulkhot/subscriptions",
+  "organizations_url": "https://api.github.com/users/atulkhot/orgs",
+  "repos_url": "https://api.github.com/users/atulkhot/repos",
+  "events_url": "https://api.github.com/users/atulkhot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atulkhot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

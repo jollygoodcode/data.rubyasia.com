@@ -1,0 +1,20 @@
+{
+  "login": "chocolatina",
+  "id": 726349,
+  "avatar_url": "https://avatars.githubusercontent.com/u/726349?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chocolatina",
+  "html_url": "https://github.com/chocolatina",
+  "followers_url": "https://api.github.com/users/chocolatina/followers",
+  "following_url": "https://api.github.com/users/chocolatina/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chocolatina/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chocolatina/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chocolatina/subscriptions",
+  "organizations_url": "https://api.github.com/users/chocolatina/orgs",
+  "repos_url": "https://api.github.com/users/chocolatina/repos",
+  "events_url": "https://api.github.com/users/chocolatina/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chocolatina/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

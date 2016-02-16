@@ -1,0 +1,20 @@
+{
+  "login": "tosik",
+  "id": 145410,
+  "avatar_url": "https://avatars.githubusercontent.com/u/145410?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tosik",
+  "html_url": "https://github.com/tosik",
+  "followers_url": "https://api.github.com/users/tosik/followers",
+  "following_url": "https://api.github.com/users/tosik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tosik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tosik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tosik/subscriptions",
+  "organizations_url": "https://api.github.com/users/tosik/orgs",
+  "repos_url": "https://api.github.com/users/tosik/repos",
+  "events_url": "https://api.github.com/users/tosik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tosik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

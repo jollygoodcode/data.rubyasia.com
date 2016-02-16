@@ -1,0 +1,20 @@
+{
+  "login": "nyoro",
+  "id": 1198400,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1198400?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nyoro",
+  "html_url": "https://github.com/nyoro",
+  "followers_url": "https://api.github.com/users/nyoro/followers",
+  "following_url": "https://api.github.com/users/nyoro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nyoro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nyoro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nyoro/subscriptions",
+  "organizations_url": "https://api.github.com/users/nyoro/orgs",
+  "repos_url": "https://api.github.com/users/nyoro/repos",
+  "events_url": "https://api.github.com/users/nyoro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nyoro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

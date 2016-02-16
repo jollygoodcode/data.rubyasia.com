@@ -1,0 +1,20 @@
+{
+  "login": "atulveer",
+  "id": 60529,
+  "avatar_url": "https://avatars.githubusercontent.com/u/60529?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atulveer",
+  "html_url": "https://github.com/atulveer",
+  "followers_url": "https://api.github.com/users/atulveer/followers",
+  "following_url": "https://api.github.com/users/atulveer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atulveer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atulveer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atulveer/subscriptions",
+  "organizations_url": "https://api.github.com/users/atulveer/orgs",
+  "repos_url": "https://api.github.com/users/atulveer/repos",
+  "events_url": "https://api.github.com/users/atulveer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atulveer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

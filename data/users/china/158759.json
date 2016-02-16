@@ -1,0 +1,20 @@
+{
+  "login": "zhuzhe",
+  "id": 158759,
+  "avatar_url": "https://avatars.githubusercontent.com/u/158759?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhuzhe",
+  "html_url": "https://github.com/zhuzhe",
+  "followers_url": "https://api.github.com/users/zhuzhe/followers",
+  "following_url": "https://api.github.com/users/zhuzhe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhuzhe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhuzhe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhuzhe/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhuzhe/orgs",
+  "repos_url": "https://api.github.com/users/zhuzhe/repos",
+  "events_url": "https://api.github.com/users/zhuzhe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhuzhe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "aptinio",
+  "id": 18344,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18344?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aptinio",
+  "html_url": "https://github.com/aptinio",
+  "followers_url": "https://api.github.com/users/aptinio/followers",
+  "following_url": "https://api.github.com/users/aptinio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aptinio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aptinio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aptinio/subscriptions",
+  "organizations_url": "https://api.github.com/users/aptinio/orgs",
+  "repos_url": "https://api.github.com/users/aptinio/repos",
+  "events_url": "https://api.github.com/users/aptinio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aptinio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

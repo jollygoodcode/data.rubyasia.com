@@ -1,0 +1,20 @@
+{
+  "login": "Altech",
+  "id": 1248994,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1248994?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Altech",
+  "html_url": "https://github.com/Altech",
+  "followers_url": "https://api.github.com/users/Altech/followers",
+  "following_url": "https://api.github.com/users/Altech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Altech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Altech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Altech/subscriptions",
+  "organizations_url": "https://api.github.com/users/Altech/orgs",
+  "repos_url": "https://api.github.com/users/Altech/repos",
+  "events_url": "https://api.github.com/users/Altech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Altech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

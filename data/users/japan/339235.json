@@ -1,0 +1,20 @@
+{
+  "login": "deprode",
+  "id": 339235,
+  "avatar_url": "https://avatars.githubusercontent.com/u/339235?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deprode",
+  "html_url": "https://github.com/deprode",
+  "followers_url": "https://api.github.com/users/deprode/followers",
+  "following_url": "https://api.github.com/users/deprode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deprode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deprode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deprode/subscriptions",
+  "organizations_url": "https://api.github.com/users/deprode/orgs",
+  "repos_url": "https://api.github.com/users/deprode/repos",
+  "events_url": "https://api.github.com/users/deprode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deprode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

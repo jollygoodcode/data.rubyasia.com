@@ -1,0 +1,20 @@
+{
+  "login": "chemanth",
+  "id": 4380406,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4380406?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chemanth",
+  "html_url": "https://github.com/chemanth",
+  "followers_url": "https://api.github.com/users/chemanth/followers",
+  "following_url": "https://api.github.com/users/chemanth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chemanth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chemanth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chemanth/subscriptions",
+  "organizations_url": "https://api.github.com/users/chemanth/orgs",
+  "repos_url": "https://api.github.com/users/chemanth/repos",
+  "events_url": "https://api.github.com/users/chemanth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chemanth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

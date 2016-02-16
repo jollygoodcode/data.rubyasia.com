@@ -1,0 +1,20 @@
+{
+  "login": "biti",
+  "id": 58581,
+  "avatar_url": "https://avatars.githubusercontent.com/u/58581?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/biti",
+  "html_url": "https://github.com/biti",
+  "followers_url": "https://api.github.com/users/biti/followers",
+  "following_url": "https://api.github.com/users/biti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/biti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/biti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/biti/subscriptions",
+  "organizations_url": "https://api.github.com/users/biti/orgs",
+  "repos_url": "https://api.github.com/users/biti/repos",
+  "events_url": "https://api.github.com/users/biti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/biti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

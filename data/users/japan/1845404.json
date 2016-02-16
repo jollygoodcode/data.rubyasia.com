@@ -1,0 +1,20 @@
+{
+  "login": "shoopoon",
+  "id": 1845404,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1845404?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shoopoon",
+  "html_url": "https://github.com/shoopoon",
+  "followers_url": "https://api.github.com/users/shoopoon/followers",
+  "following_url": "https://api.github.com/users/shoopoon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shoopoon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shoopoon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shoopoon/subscriptions",
+  "organizations_url": "https://api.github.com/users/shoopoon/orgs",
+  "repos_url": "https://api.github.com/users/shoopoon/repos",
+  "events_url": "https://api.github.com/users/shoopoon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shoopoon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "harrisonlim",
+  "id": 15891492,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15891492?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harrisonlim",
+  "html_url": "https://github.com/harrisonlim",
+  "followers_url": "https://api.github.com/users/harrisonlim/followers",
+  "following_url": "https://api.github.com/users/harrisonlim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harrisonlim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harrisonlim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harrisonlim/subscriptions",
+  "organizations_url": "https://api.github.com/users/harrisonlim/orgs",
+  "repos_url": "https://api.github.com/users/harrisonlim/repos",
+  "events_url": "https://api.github.com/users/harrisonlim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harrisonlim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

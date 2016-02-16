@@ -1,0 +1,20 @@
+{
+  "login": "ephemeral972",
+  "id": 1699739,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1699739?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ephemeral972",
+  "html_url": "https://github.com/ephemeral972",
+  "followers_url": "https://api.github.com/users/ephemeral972/followers",
+  "following_url": "https://api.github.com/users/ephemeral972/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ephemeral972/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ephemeral972/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ephemeral972/subscriptions",
+  "organizations_url": "https://api.github.com/users/ephemeral972/orgs",
+  "repos_url": "https://api.github.com/users/ephemeral972/repos",
+  "events_url": "https://api.github.com/users/ephemeral972/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ephemeral972/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

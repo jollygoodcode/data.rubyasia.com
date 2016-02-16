@@ -1,0 +1,20 @@
+{
+  "login": "halsk",
+  "id": 16509,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16509?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/halsk",
+  "html_url": "https://github.com/halsk",
+  "followers_url": "https://api.github.com/users/halsk/followers",
+  "following_url": "https://api.github.com/users/halsk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/halsk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/halsk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/halsk/subscriptions",
+  "organizations_url": "https://api.github.com/users/halsk/orgs",
+  "repos_url": "https://api.github.com/users/halsk/repos",
+  "events_url": "https://api.github.com/users/halsk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/halsk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ksaka",
+  "id": 1183707,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1183707?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ksaka",
+  "html_url": "https://github.com/ksaka",
+  "followers_url": "https://api.github.com/users/ksaka/followers",
+  "following_url": "https://api.github.com/users/ksaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ksaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ksaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ksaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/ksaka/orgs",
+  "repos_url": "https://api.github.com/users/ksaka/repos",
+  "events_url": "https://api.github.com/users/ksaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ksaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

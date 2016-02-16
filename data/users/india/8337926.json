@@ -1,0 +1,20 @@
+{
+  "login": "rjalfa",
+  "id": 8337926,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8337926?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rjalfa",
+  "html_url": "https://github.com/rjalfa",
+  "followers_url": "https://api.github.com/users/rjalfa/followers",
+  "following_url": "https://api.github.com/users/rjalfa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rjalfa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rjalfa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rjalfa/subscriptions",
+  "organizations_url": "https://api.github.com/users/rjalfa/orgs",
+  "repos_url": "https://api.github.com/users/rjalfa/repos",
+  "events_url": "https://api.github.com/users/rjalfa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rjalfa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

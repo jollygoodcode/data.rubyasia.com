@@ -1,0 +1,20 @@
+{
+  "login": "akirambo",
+  "id": 4094556,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4094556?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akirambo",
+  "html_url": "https://github.com/akirambo",
+  "followers_url": "https://api.github.com/users/akirambo/followers",
+  "following_url": "https://api.github.com/users/akirambo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akirambo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akirambo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akirambo/subscriptions",
+  "organizations_url": "https://api.github.com/users/akirambo/orgs",
+  "repos_url": "https://api.github.com/users/akirambo/repos",
+  "events_url": "https://api.github.com/users/akirambo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akirambo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

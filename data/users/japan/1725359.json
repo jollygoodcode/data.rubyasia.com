@@ -1,0 +1,20 @@
+{
+  "login": "wakitani",
+  "id": 1725359,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1725359?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wakitani",
+  "html_url": "https://github.com/wakitani",
+  "followers_url": "https://api.github.com/users/wakitani/followers",
+  "following_url": "https://api.github.com/users/wakitani/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wakitani/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wakitani/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wakitani/subscriptions",
+  "organizations_url": "https://api.github.com/users/wakitani/orgs",
+  "repos_url": "https://api.github.com/users/wakitani/repos",
+  "events_url": "https://api.github.com/users/wakitani/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wakitani/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

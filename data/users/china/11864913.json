@@ -1,0 +1,20 @@
+{
+  "login": "macdeng",
+  "id": 11864913,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11864913?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macdeng",
+  "html_url": "https://github.com/macdeng",
+  "followers_url": "https://api.github.com/users/macdeng/followers",
+  "following_url": "https://api.github.com/users/macdeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macdeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macdeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macdeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/macdeng/orgs",
+  "repos_url": "https://api.github.com/users/macdeng/repos",
+  "events_url": "https://api.github.com/users/macdeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macdeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

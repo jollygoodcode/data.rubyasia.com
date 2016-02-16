@@ -1,0 +1,20 @@
+{
+  "login": "nagarjun",
+  "id": 600480,
+  "avatar_url": "https://avatars.githubusercontent.com/u/600480?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nagarjun",
+  "html_url": "https://github.com/nagarjun",
+  "followers_url": "https://api.github.com/users/nagarjun/followers",
+  "following_url": "https://api.github.com/users/nagarjun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nagarjun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nagarjun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nagarjun/subscriptions",
+  "organizations_url": "https://api.github.com/users/nagarjun/orgs",
+  "repos_url": "https://api.github.com/users/nagarjun/repos",
+  "events_url": "https://api.github.com/users/nagarjun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nagarjun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

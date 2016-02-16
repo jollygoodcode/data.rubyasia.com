@@ -1,0 +1,20 @@
+{
+  "login": "sgyk",
+  "id": 27875,
+  "avatar_url": "https://avatars.githubusercontent.com/u/27875?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sgyk",
+  "html_url": "https://github.com/sgyk",
+  "followers_url": "https://api.github.com/users/sgyk/followers",
+  "following_url": "https://api.github.com/users/sgyk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sgyk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sgyk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sgyk/subscriptions",
+  "organizations_url": "https://api.github.com/users/sgyk/orgs",
+  "repos_url": "https://api.github.com/users/sgyk/repos",
+  "events_url": "https://api.github.com/users/sgyk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sgyk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

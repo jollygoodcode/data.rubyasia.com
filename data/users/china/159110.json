@@ -1,0 +1,20 @@
+{
+  "login": "diryboy",
+  "id": 159110,
+  "avatar_url": "https://avatars.githubusercontent.com/u/159110?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/diryboy",
+  "html_url": "https://github.com/diryboy",
+  "followers_url": "https://api.github.com/users/diryboy/followers",
+  "following_url": "https://api.github.com/users/diryboy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/diryboy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/diryboy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/diryboy/subscriptions",
+  "organizations_url": "https://api.github.com/users/diryboy/orgs",
+  "repos_url": "https://api.github.com/users/diryboy/repos",
+  "events_url": "https://api.github.com/users/diryboy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/diryboy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

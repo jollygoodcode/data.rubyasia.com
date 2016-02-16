@@ -1,0 +1,20 @@
+{
+  "login": "li-gong",
+  "id": 743238,
+  "avatar_url": "https://avatars.githubusercontent.com/u/743238?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/li-gong",
+  "html_url": "https://github.com/li-gong",
+  "followers_url": "https://api.github.com/users/li-gong/followers",
+  "following_url": "https://api.github.com/users/li-gong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/li-gong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/li-gong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/li-gong/subscriptions",
+  "organizations_url": "https://api.github.com/users/li-gong/orgs",
+  "repos_url": "https://api.github.com/users/li-gong/repos",
+  "events_url": "https://api.github.com/users/li-gong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/li-gong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

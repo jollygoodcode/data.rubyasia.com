@@ -1,0 +1,20 @@
+{
+  "login": "ArkAung",
+  "id": 1751331,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1751331?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ArkAung",
+  "html_url": "https://github.com/ArkAung",
+  "followers_url": "https://api.github.com/users/ArkAung/followers",
+  "following_url": "https://api.github.com/users/ArkAung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ArkAung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ArkAung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ArkAung/subscriptions",
+  "organizations_url": "https://api.github.com/users/ArkAung/orgs",
+  "repos_url": "https://api.github.com/users/ArkAung/repos",
+  "events_url": "https://api.github.com/users/ArkAung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ArkAung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

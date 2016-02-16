@@ -1,0 +1,20 @@
+{
+  "login": "amittayade",
+  "id": 10498940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10498940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amittayade",
+  "html_url": "https://github.com/amittayade",
+  "followers_url": "https://api.github.com/users/amittayade/followers",
+  "following_url": "https://api.github.com/users/amittayade/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amittayade/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amittayade/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amittayade/subscriptions",
+  "organizations_url": "https://api.github.com/users/amittayade/orgs",
+  "repos_url": "https://api.github.com/users/amittayade/repos",
+  "events_url": "https://api.github.com/users/amittayade/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amittayade/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

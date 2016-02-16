@@ -1,0 +1,20 @@
+{
+  "login": "andoy",
+  "id": 18388,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18388?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andoy",
+  "html_url": "https://github.com/andoy",
+  "followers_url": "https://api.github.com/users/andoy/followers",
+  "following_url": "https://api.github.com/users/andoy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andoy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andoy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andoy/subscriptions",
+  "organizations_url": "https://api.github.com/users/andoy/orgs",
+  "repos_url": "https://api.github.com/users/andoy/repos",
+  "events_url": "https://api.github.com/users/andoy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andoy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

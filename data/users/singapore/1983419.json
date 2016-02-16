@@ -1,0 +1,20 @@
+{
+  "login": "JTLX",
+  "id": 1983419,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1983419?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JTLX",
+  "html_url": "https://github.com/JTLX",
+  "followers_url": "https://api.github.com/users/JTLX/followers",
+  "following_url": "https://api.github.com/users/JTLX/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JTLX/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JTLX/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JTLX/subscriptions",
+  "organizations_url": "https://api.github.com/users/JTLX/orgs",
+  "repos_url": "https://api.github.com/users/JTLX/repos",
+  "events_url": "https://api.github.com/users/JTLX/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JTLX/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

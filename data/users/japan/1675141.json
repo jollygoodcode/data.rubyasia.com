@@ -1,0 +1,20 @@
+{
+  "login": "tennana",
+  "id": 1675141,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1675141?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tennana",
+  "html_url": "https://github.com/tennana",
+  "followers_url": "https://api.github.com/users/tennana/followers",
+  "following_url": "https://api.github.com/users/tennana/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tennana/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tennana/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tennana/subscriptions",
+  "organizations_url": "https://api.github.com/users/tennana/orgs",
+  "repos_url": "https://api.github.com/users/tennana/repos",
+  "events_url": "https://api.github.com/users/tennana/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tennana/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

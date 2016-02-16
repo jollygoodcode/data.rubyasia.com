@@ -1,0 +1,20 @@
+{
+  "login": "hunterWang",
+  "id": 11884502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11884502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hunterWang",
+  "html_url": "https://github.com/hunterWang",
+  "followers_url": "https://api.github.com/users/hunterWang/followers",
+  "following_url": "https://api.github.com/users/hunterWang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hunterWang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hunterWang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hunterWang/subscriptions",
+  "organizations_url": "https://api.github.com/users/hunterWang/orgs",
+  "repos_url": "https://api.github.com/users/hunterWang/repos",
+  "events_url": "https://api.github.com/users/hunterWang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hunterWang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

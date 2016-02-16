@@ -1,0 +1,20 @@
+{
+  "login": "xanagi",
+  "id": 47307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/47307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xanagi",
+  "html_url": "https://github.com/xanagi",
+  "followers_url": "https://api.github.com/users/xanagi/followers",
+  "following_url": "https://api.github.com/users/xanagi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xanagi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xanagi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xanagi/subscriptions",
+  "organizations_url": "https://api.github.com/users/xanagi/orgs",
+  "repos_url": "https://api.github.com/users/xanagi/repos",
+  "events_url": "https://api.github.com/users/xanagi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xanagi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "erikonishimoto",
+  "id": 533041,
+  "avatar_url": "https://avatars.githubusercontent.com/u/533041?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/erikonishimoto",
+  "html_url": "https://github.com/erikonishimoto",
+  "followers_url": "https://api.github.com/users/erikonishimoto/followers",
+  "following_url": "https://api.github.com/users/erikonishimoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/erikonishimoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/erikonishimoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/erikonishimoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/erikonishimoto/orgs",
+  "repos_url": "https://api.github.com/users/erikonishimoto/repos",
+  "events_url": "https://api.github.com/users/erikonishimoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/erikonishimoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

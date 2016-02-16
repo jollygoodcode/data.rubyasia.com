@@ -1,0 +1,20 @@
+{
+  "login": "irixjp",
+  "id": 1367355,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1367355?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/irixjp",
+  "html_url": "https://github.com/irixjp",
+  "followers_url": "https://api.github.com/users/irixjp/followers",
+  "following_url": "https://api.github.com/users/irixjp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/irixjp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/irixjp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/irixjp/subscriptions",
+  "organizations_url": "https://api.github.com/users/irixjp/orgs",
+  "repos_url": "https://api.github.com/users/irixjp/repos",
+  "events_url": "https://api.github.com/users/irixjp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/irixjp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

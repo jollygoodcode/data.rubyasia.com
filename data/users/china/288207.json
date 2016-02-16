@@ -1,0 +1,20 @@
+{
+  "login": "brookhong",
+  "id": 288207,
+  "avatar_url": "https://avatars.githubusercontent.com/u/288207?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brookhong",
+  "html_url": "https://github.com/brookhong",
+  "followers_url": "https://api.github.com/users/brookhong/followers",
+  "following_url": "https://api.github.com/users/brookhong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brookhong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brookhong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brookhong/subscriptions",
+  "organizations_url": "https://api.github.com/users/brookhong/orgs",
+  "repos_url": "https://api.github.com/users/brookhong/repos",
+  "events_url": "https://api.github.com/users/brookhong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brookhong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

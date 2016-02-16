@@ -1,0 +1,20 @@
+{
+  "login": "pbatorre",
+  "id": 863300,
+  "avatar_url": "https://avatars.githubusercontent.com/u/863300?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pbatorre",
+  "html_url": "https://github.com/pbatorre",
+  "followers_url": "https://api.github.com/users/pbatorre/followers",
+  "following_url": "https://api.github.com/users/pbatorre/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pbatorre/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pbatorre/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pbatorre/subscriptions",
+  "organizations_url": "https://api.github.com/users/pbatorre/orgs",
+  "repos_url": "https://api.github.com/users/pbatorre/repos",
+  "events_url": "https://api.github.com/users/pbatorre/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pbatorre/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

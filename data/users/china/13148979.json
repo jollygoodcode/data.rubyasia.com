@@ -1,0 +1,20 @@
+{
+  "login": "JackPipper",
+  "id": 13148979,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13148979?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JackPipper",
+  "html_url": "https://github.com/JackPipper",
+  "followers_url": "https://api.github.com/users/JackPipper/followers",
+  "following_url": "https://api.github.com/users/JackPipper/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JackPipper/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JackPipper/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JackPipper/subscriptions",
+  "organizations_url": "https://api.github.com/users/JackPipper/orgs",
+  "repos_url": "https://api.github.com/users/JackPipper/repos",
+  "events_url": "https://api.github.com/users/JackPipper/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JackPipper/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "thaichor",
+  "id": 2088038,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2088038?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thaichor",
+  "html_url": "https://github.com/thaichor",
+  "followers_url": "https://api.github.com/users/thaichor/followers",
+  "following_url": "https://api.github.com/users/thaichor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thaichor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thaichor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thaichor/subscriptions",
+  "organizations_url": "https://api.github.com/users/thaichor/orgs",
+  "repos_url": "https://api.github.com/users/thaichor/repos",
+  "events_url": "https://api.github.com/users/thaichor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thaichor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

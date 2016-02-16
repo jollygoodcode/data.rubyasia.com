@@ -1,0 +1,20 @@
+{
+  "login": "jaozafra",
+  "id": 535097,
+  "avatar_url": "https://avatars.githubusercontent.com/u/535097?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jaozafra",
+  "html_url": "https://github.com/jaozafra",
+  "followers_url": "https://api.github.com/users/jaozafra/followers",
+  "following_url": "https://api.github.com/users/jaozafra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jaozafra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jaozafra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jaozafra/subscriptions",
+  "organizations_url": "https://api.github.com/users/jaozafra/orgs",
+  "repos_url": "https://api.github.com/users/jaozafra/repos",
+  "events_url": "https://api.github.com/users/jaozafra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jaozafra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

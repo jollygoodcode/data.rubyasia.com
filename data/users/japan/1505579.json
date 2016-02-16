@@ -1,0 +1,20 @@
+{
+  "login": "imadamizuho",
+  "id": 1505579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1505579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imadamizuho",
+  "html_url": "https://github.com/imadamizuho",
+  "followers_url": "https://api.github.com/users/imadamizuho/followers",
+  "following_url": "https://api.github.com/users/imadamizuho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imadamizuho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imadamizuho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imadamizuho/subscriptions",
+  "organizations_url": "https://api.github.com/users/imadamizuho/orgs",
+  "repos_url": "https://api.github.com/users/imadamizuho/repos",
+  "events_url": "https://api.github.com/users/imadamizuho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imadamizuho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

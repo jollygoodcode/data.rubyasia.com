@@ -1,0 +1,20 @@
+{
+  "login": "ericjansen",
+  "id": 1023335,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1023335?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ericjansen",
+  "html_url": "https://github.com/ericjansen",
+  "followers_url": "https://api.github.com/users/ericjansen/followers",
+  "following_url": "https://api.github.com/users/ericjansen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ericjansen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ericjansen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ericjansen/subscriptions",
+  "organizations_url": "https://api.github.com/users/ericjansen/orgs",
+  "repos_url": "https://api.github.com/users/ericjansen/repos",
+  "events_url": "https://api.github.com/users/ericjansen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ericjansen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

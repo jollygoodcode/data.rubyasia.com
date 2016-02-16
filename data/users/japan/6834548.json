@@ -1,0 +1,20 @@
+{
+  "login": "nashik",
+  "id": 6834548,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6834548?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nashik",
+  "html_url": "https://github.com/nashik",
+  "followers_url": "https://api.github.com/users/nashik/followers",
+  "following_url": "https://api.github.com/users/nashik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nashik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nashik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nashik/subscriptions",
+  "organizations_url": "https://api.github.com/users/nashik/orgs",
+  "repos_url": "https://api.github.com/users/nashik/repos",
+  "events_url": "https://api.github.com/users/nashik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nashik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

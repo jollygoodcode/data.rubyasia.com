@@ -1,0 +1,20 @@
+{
+  "login": "ruhaitsia",
+  "id": 1185314,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1185314?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ruhaitsia",
+  "html_url": "https://github.com/ruhaitsia",
+  "followers_url": "https://api.github.com/users/ruhaitsia/followers",
+  "following_url": "https://api.github.com/users/ruhaitsia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ruhaitsia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ruhaitsia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ruhaitsia/subscriptions",
+  "organizations_url": "https://api.github.com/users/ruhaitsia/orgs",
+  "repos_url": "https://api.github.com/users/ruhaitsia/repos",
+  "events_url": "https://api.github.com/users/ruhaitsia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ruhaitsia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hitomi",
+  "id": 5309343,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5309343?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hitomi",
+  "html_url": "https://github.com/hitomi",
+  "followers_url": "https://api.github.com/users/hitomi/followers",
+  "following_url": "https://api.github.com/users/hitomi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hitomi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hitomi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hitomi/subscriptions",
+  "organizations_url": "https://api.github.com/users/hitomi/orgs",
+  "repos_url": "https://api.github.com/users/hitomi/repos",
+  "events_url": "https://api.github.com/users/hitomi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hitomi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

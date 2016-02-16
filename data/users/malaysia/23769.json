@@ -1,0 +1,20 @@
+{
+  "login": "alexlam",
+  "id": 23769,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23769?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexlam",
+  "html_url": "https://github.com/alexlam",
+  "followers_url": "https://api.github.com/users/alexlam/followers",
+  "following_url": "https://api.github.com/users/alexlam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexlam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexlam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexlam/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexlam/orgs",
+  "repos_url": "https://api.github.com/users/alexlam/repos",
+  "events_url": "https://api.github.com/users/alexlam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexlam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "innotway",
+  "id": 1254353,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1254353?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/innotway",
+  "html_url": "https://github.com/innotway",
+  "followers_url": "https://api.github.com/users/innotway/followers",
+  "following_url": "https://api.github.com/users/innotway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/innotway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/innotway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/innotway/subscriptions",
+  "organizations_url": "https://api.github.com/users/innotway/orgs",
+  "repos_url": "https://api.github.com/users/innotway/repos",
+  "events_url": "https://api.github.com/users/innotway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/innotway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

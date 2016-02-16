@@ -1,0 +1,20 @@
+{
+  "login": "den",
+  "id": 40344,
+  "avatar_url": "https://avatars.githubusercontent.com/u/40344?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/den",
+  "html_url": "https://github.com/den",
+  "followers_url": "https://api.github.com/users/den/followers",
+  "following_url": "https://api.github.com/users/den/following{/other_user}",
+  "gists_url": "https://api.github.com/users/den/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/den/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/den/subscriptions",
+  "organizations_url": "https://api.github.com/users/den/orgs",
+  "repos_url": "https://api.github.com/users/den/repos",
+  "events_url": "https://api.github.com/users/den/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/den/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

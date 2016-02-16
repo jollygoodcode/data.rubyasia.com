@@ -1,0 +1,20 @@
+{
+  "login": "shiroming",
+  "id": 3378984,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3378984?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shiroming",
+  "html_url": "https://github.com/shiroming",
+  "followers_url": "https://api.github.com/users/shiroming/followers",
+  "following_url": "https://api.github.com/users/shiroming/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shiroming/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shiroming/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shiroming/subscriptions",
+  "organizations_url": "https://api.github.com/users/shiroming/orgs",
+  "repos_url": "https://api.github.com/users/shiroming/repos",
+  "events_url": "https://api.github.com/users/shiroming/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shiroming/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

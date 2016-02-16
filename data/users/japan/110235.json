@@ -1,0 +1,20 @@
+{
+  "login": "emiddleton",
+  "id": 110235,
+  "avatar_url": "https://avatars.githubusercontent.com/u/110235?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emiddleton",
+  "html_url": "https://github.com/emiddleton",
+  "followers_url": "https://api.github.com/users/emiddleton/followers",
+  "following_url": "https://api.github.com/users/emiddleton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emiddleton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emiddleton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emiddleton/subscriptions",
+  "organizations_url": "https://api.github.com/users/emiddleton/orgs",
+  "repos_url": "https://api.github.com/users/emiddleton/repos",
+  "events_url": "https://api.github.com/users/emiddleton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emiddleton/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dexcodeinc",
+  "id": 3661172,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3661172?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dexcodeinc",
+  "html_url": "https://github.com/dexcodeinc",
+  "followers_url": "https://api.github.com/users/dexcodeinc/followers",
+  "following_url": "https://api.github.com/users/dexcodeinc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dexcodeinc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dexcodeinc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dexcodeinc/subscriptions",
+  "organizations_url": "https://api.github.com/users/dexcodeinc/orgs",
+  "repos_url": "https://api.github.com/users/dexcodeinc/repos",
+  "events_url": "https://api.github.com/users/dexcodeinc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dexcodeinc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

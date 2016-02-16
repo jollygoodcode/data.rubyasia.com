@@ -1,0 +1,20 @@
+{
+  "login": "ma1210",
+  "id": 5305829,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5305829?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ma1210",
+  "html_url": "https://github.com/ma1210",
+  "followers_url": "https://api.github.com/users/ma1210/followers",
+  "following_url": "https://api.github.com/users/ma1210/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ma1210/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ma1210/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ma1210/subscriptions",
+  "organizations_url": "https://api.github.com/users/ma1210/orgs",
+  "repos_url": "https://api.github.com/users/ma1210/repos",
+  "events_url": "https://api.github.com/users/ma1210/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ma1210/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

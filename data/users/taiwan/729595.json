@@ -1,0 +1,20 @@
+{
+  "login": "sinorga",
+  "id": 729595,
+  "avatar_url": "https://avatars.githubusercontent.com/u/729595?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sinorga",
+  "html_url": "https://github.com/sinorga",
+  "followers_url": "https://api.github.com/users/sinorga/followers",
+  "following_url": "https://api.github.com/users/sinorga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sinorga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sinorga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sinorga/subscriptions",
+  "organizations_url": "https://api.github.com/users/sinorga/orgs",
+  "repos_url": "https://api.github.com/users/sinorga/repos",
+  "events_url": "https://api.github.com/users/sinorga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sinorga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

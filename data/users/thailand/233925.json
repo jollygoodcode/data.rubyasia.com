@@ -1,0 +1,20 @@
+{
+  "login": "ppattern",
+  "id": 233925,
+  "avatar_url": "https://avatars.githubusercontent.com/u/233925?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ppattern",
+  "html_url": "https://github.com/ppattern",
+  "followers_url": "https://api.github.com/users/ppattern/followers",
+  "following_url": "https://api.github.com/users/ppattern/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ppattern/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ppattern/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ppattern/subscriptions",
+  "organizations_url": "https://api.github.com/users/ppattern/orgs",
+  "repos_url": "https://api.github.com/users/ppattern/repos",
+  "events_url": "https://api.github.com/users/ppattern/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ppattern/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

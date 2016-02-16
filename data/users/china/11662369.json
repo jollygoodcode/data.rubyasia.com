@@ -1,0 +1,20 @@
+{
+  "login": "Huibean",
+  "id": 11662369,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11662369?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Huibean",
+  "html_url": "https://github.com/Huibean",
+  "followers_url": "https://api.github.com/users/Huibean/followers",
+  "following_url": "https://api.github.com/users/Huibean/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Huibean/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Huibean/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Huibean/subscriptions",
+  "organizations_url": "https://api.github.com/users/Huibean/orgs",
+  "repos_url": "https://api.github.com/users/Huibean/repos",
+  "events_url": "https://api.github.com/users/Huibean/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Huibean/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

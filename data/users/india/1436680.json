@@ -1,0 +1,20 @@
+{
+  "login": "jugchennai",
+  "id": 1436680,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1436680?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jugchennai",
+  "html_url": "https://github.com/jugchennai",
+  "followers_url": "https://api.github.com/users/jugchennai/followers",
+  "following_url": "https://api.github.com/users/jugchennai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jugchennai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jugchennai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jugchennai/subscriptions",
+  "organizations_url": "https://api.github.com/users/jugchennai/orgs",
+  "repos_url": "https://api.github.com/users/jugchennai/repos",
+  "events_url": "https://api.github.com/users/jugchennai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jugchennai/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

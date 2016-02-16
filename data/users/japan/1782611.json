@@ -1,0 +1,20 @@
+{
+  "login": "yo-itz",
+  "id": 1782611,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1782611?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yo-itz",
+  "html_url": "https://github.com/yo-itz",
+  "followers_url": "https://api.github.com/users/yo-itz/followers",
+  "following_url": "https://api.github.com/users/yo-itz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yo-itz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yo-itz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yo-itz/subscriptions",
+  "organizations_url": "https://api.github.com/users/yo-itz/orgs",
+  "repos_url": "https://api.github.com/users/yo-itz/repos",
+  "events_url": "https://api.github.com/users/yo-itz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yo-itz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

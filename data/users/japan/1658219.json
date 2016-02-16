@@ -1,0 +1,20 @@
+{
+  "login": "ilunari",
+  "id": 1658219,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1658219?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ilunari",
+  "html_url": "https://github.com/ilunari",
+  "followers_url": "https://api.github.com/users/ilunari/followers",
+  "following_url": "https://api.github.com/users/ilunari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ilunari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ilunari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ilunari/subscriptions",
+  "organizations_url": "https://api.github.com/users/ilunari/orgs",
+  "repos_url": "https://api.github.com/users/ilunari/repos",
+  "events_url": "https://api.github.com/users/ilunari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ilunari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

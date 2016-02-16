@@ -1,0 +1,20 @@
+{
+  "login": "andekend",
+  "id": 14245738,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14245738?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andekend",
+  "html_url": "https://github.com/andekend",
+  "followers_url": "https://api.github.com/users/andekend/followers",
+  "following_url": "https://api.github.com/users/andekend/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andekend/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andekend/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andekend/subscriptions",
+  "organizations_url": "https://api.github.com/users/andekend/orgs",
+  "repos_url": "https://api.github.com/users/andekend/repos",
+  "events_url": "https://api.github.com/users/andekend/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andekend/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

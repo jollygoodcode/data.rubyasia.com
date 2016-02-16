@@ -1,0 +1,20 @@
+{
+  "login": "alokamme",
+  "id": 7764994,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7764994?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alokamme",
+  "html_url": "https://github.com/alokamme",
+  "followers_url": "https://api.github.com/users/alokamme/followers",
+  "following_url": "https://api.github.com/users/alokamme/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alokamme/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alokamme/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alokamme/subscriptions",
+  "organizations_url": "https://api.github.com/users/alokamme/orgs",
+  "repos_url": "https://api.github.com/users/alokamme/repos",
+  "events_url": "https://api.github.com/users/alokamme/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alokamme/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

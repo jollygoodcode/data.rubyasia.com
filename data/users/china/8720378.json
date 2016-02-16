@@ -1,0 +1,20 @@
+{
+  "login": "JC-Hu",
+  "id": 8720378,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8720378?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JC-Hu",
+  "html_url": "https://github.com/JC-Hu",
+  "followers_url": "https://api.github.com/users/JC-Hu/followers",
+  "following_url": "https://api.github.com/users/JC-Hu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JC-Hu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JC-Hu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JC-Hu/subscriptions",
+  "organizations_url": "https://api.github.com/users/JC-Hu/orgs",
+  "repos_url": "https://api.github.com/users/JC-Hu/repos",
+  "events_url": "https://api.github.com/users/JC-Hu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JC-Hu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

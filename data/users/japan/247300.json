@@ -1,0 +1,20 @@
+{
+  "login": "dadachi",
+  "id": 247300,
+  "avatar_url": "https://avatars.githubusercontent.com/u/247300?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dadachi",
+  "html_url": "https://github.com/dadachi",
+  "followers_url": "https://api.github.com/users/dadachi/followers",
+  "following_url": "https://api.github.com/users/dadachi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dadachi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dadachi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dadachi/subscriptions",
+  "organizations_url": "https://api.github.com/users/dadachi/orgs",
+  "repos_url": "https://api.github.com/users/dadachi/repos",
+  "events_url": "https://api.github.com/users/dadachi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dadachi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

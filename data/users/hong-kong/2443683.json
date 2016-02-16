@@ -1,0 +1,20 @@
+{
+  "login": "BallerIndustries",
+  "id": 2443683,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2443683?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BallerIndustries",
+  "html_url": "https://github.com/BallerIndustries",
+  "followers_url": "https://api.github.com/users/BallerIndustries/followers",
+  "following_url": "https://api.github.com/users/BallerIndustries/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BallerIndustries/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BallerIndustries/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BallerIndustries/subscriptions",
+  "organizations_url": "https://api.github.com/users/BallerIndustries/orgs",
+  "repos_url": "https://api.github.com/users/BallerIndustries/repos",
+  "events_url": "https://api.github.com/users/BallerIndustries/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BallerIndustries/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

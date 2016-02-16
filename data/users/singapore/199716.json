@@ -1,0 +1,20 @@
+{
+  "login": "ccoryell",
+  "id": 199716,
+  "avatar_url": "https://avatars.githubusercontent.com/u/199716?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ccoryell",
+  "html_url": "https://github.com/ccoryell",
+  "followers_url": "https://api.github.com/users/ccoryell/followers",
+  "following_url": "https://api.github.com/users/ccoryell/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ccoryell/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ccoryell/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ccoryell/subscriptions",
+  "organizations_url": "https://api.github.com/users/ccoryell/orgs",
+  "repos_url": "https://api.github.com/users/ccoryell/repos",
+  "events_url": "https://api.github.com/users/ccoryell/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ccoryell/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

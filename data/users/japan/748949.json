@@ -1,0 +1,20 @@
+{
+  "login": "ainame",
+  "id": 748949,
+  "avatar_url": "https://avatars.githubusercontent.com/u/748949?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ainame",
+  "html_url": "https://github.com/ainame",
+  "followers_url": "https://api.github.com/users/ainame/followers",
+  "following_url": "https://api.github.com/users/ainame/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ainame/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ainame/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ainame/subscriptions",
+  "organizations_url": "https://api.github.com/users/ainame/orgs",
+  "repos_url": "https://api.github.com/users/ainame/repos",
+  "events_url": "https://api.github.com/users/ainame/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ainame/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "arekt",
+  "id": 114493,
+  "avatar_url": "https://avatars.githubusercontent.com/u/114493?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arekt",
+  "html_url": "https://github.com/arekt",
+  "followers_url": "https://api.github.com/users/arekt/followers",
+  "following_url": "https://api.github.com/users/arekt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arekt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arekt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arekt/subscriptions",
+  "organizations_url": "https://api.github.com/users/arekt/orgs",
+  "repos_url": "https://api.github.com/users/arekt/repos",
+  "events_url": "https://api.github.com/users/arekt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arekt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

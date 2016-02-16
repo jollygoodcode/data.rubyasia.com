@@ -1,0 +1,20 @@
+{
+  "login": "xmou",
+  "id": 1960131,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1960131?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xmou",
+  "html_url": "https://github.com/xmou",
+  "followers_url": "https://api.github.com/users/xmou/followers",
+  "following_url": "https://api.github.com/users/xmou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xmou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xmou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xmou/subscriptions",
+  "organizations_url": "https://api.github.com/users/xmou/orgs",
+  "repos_url": "https://api.github.com/users/xmou/repos",
+  "events_url": "https://api.github.com/users/xmou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xmou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

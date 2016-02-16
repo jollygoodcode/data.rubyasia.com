@@ -1,0 +1,20 @@
+{
+  "login": "ansoncat",
+  "id": 65158,
+  "avatar_url": "https://avatars.githubusercontent.com/u/65158?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ansoncat",
+  "html_url": "https://github.com/ansoncat",
+  "followers_url": "https://api.github.com/users/ansoncat/followers",
+  "following_url": "https://api.github.com/users/ansoncat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ansoncat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ansoncat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ansoncat/subscriptions",
+  "organizations_url": "https://api.github.com/users/ansoncat/orgs",
+  "repos_url": "https://api.github.com/users/ansoncat/repos",
+  "events_url": "https://api.github.com/users/ansoncat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ansoncat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

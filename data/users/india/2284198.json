@@ -1,0 +1,20 @@
+{
+  "login": "archit2u",
+  "id": 2284198,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2284198?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/archit2u",
+  "html_url": "https://github.com/archit2u",
+  "followers_url": "https://api.github.com/users/archit2u/followers",
+  "following_url": "https://api.github.com/users/archit2u/following{/other_user}",
+  "gists_url": "https://api.github.com/users/archit2u/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/archit2u/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/archit2u/subscriptions",
+  "organizations_url": "https://api.github.com/users/archit2u/orgs",
+  "repos_url": "https://api.github.com/users/archit2u/repos",
+  "events_url": "https://api.github.com/users/archit2u/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/archit2u/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

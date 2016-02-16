@@ -1,0 +1,20 @@
+{
+  "login": "condor",
+  "id": 114204,
+  "avatar_url": "https://avatars.githubusercontent.com/u/114204?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/condor",
+  "html_url": "https://github.com/condor",
+  "followers_url": "https://api.github.com/users/condor/followers",
+  "following_url": "https://api.github.com/users/condor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/condor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/condor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/condor/subscriptions",
+  "organizations_url": "https://api.github.com/users/condor/orgs",
+  "repos_url": "https://api.github.com/users/condor/repos",
+  "events_url": "https://api.github.com/users/condor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/condor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

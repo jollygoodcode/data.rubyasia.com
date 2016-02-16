@@ -1,0 +1,20 @@
+{
+  "login": "jonexy",
+  "id": 3860581,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3860581?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jonexy",
+  "html_url": "https://github.com/jonexy",
+  "followers_url": "https://api.github.com/users/jonexy/followers",
+  "following_url": "https://api.github.com/users/jonexy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jonexy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jonexy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jonexy/subscriptions",
+  "organizations_url": "https://api.github.com/users/jonexy/orgs",
+  "repos_url": "https://api.github.com/users/jonexy/repos",
+  "events_url": "https://api.github.com/users/jonexy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jonexy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

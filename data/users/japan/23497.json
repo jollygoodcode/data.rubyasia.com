@@ -1,0 +1,20 @@
+{
+  "login": "mahata",
+  "id": 23497,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23497?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mahata",
+  "html_url": "https://github.com/mahata",
+  "followers_url": "https://api.github.com/users/mahata/followers",
+  "following_url": "https://api.github.com/users/mahata/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mahata/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mahata/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mahata/subscriptions",
+  "organizations_url": "https://api.github.com/users/mahata/orgs",
+  "repos_url": "https://api.github.com/users/mahata/repos",
+  "events_url": "https://api.github.com/users/mahata/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mahata/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

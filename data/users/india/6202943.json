@@ -1,0 +1,20 @@
+{
+  "login": "sunarth",
+  "id": 6202943,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6202943?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sunarth",
+  "html_url": "https://github.com/sunarth",
+  "followers_url": "https://api.github.com/users/sunarth/followers",
+  "following_url": "https://api.github.com/users/sunarth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sunarth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sunarth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sunarth/subscriptions",
+  "organizations_url": "https://api.github.com/users/sunarth/orgs",
+  "repos_url": "https://api.github.com/users/sunarth/repos",
+  "events_url": "https://api.github.com/users/sunarth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sunarth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

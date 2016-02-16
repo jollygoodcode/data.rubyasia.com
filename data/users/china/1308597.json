@@ -1,0 +1,20 @@
+{
+  "login": "WhiteCrow",
+  "id": 1308597,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1308597?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/WhiteCrow",
+  "html_url": "https://github.com/WhiteCrow",
+  "followers_url": "https://api.github.com/users/WhiteCrow/followers",
+  "following_url": "https://api.github.com/users/WhiteCrow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/WhiteCrow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/WhiteCrow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/WhiteCrow/subscriptions",
+  "organizations_url": "https://api.github.com/users/WhiteCrow/orgs",
+  "repos_url": "https://api.github.com/users/WhiteCrow/repos",
+  "events_url": "https://api.github.com/users/WhiteCrow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/WhiteCrow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hsekiya",
+  "id": 1152700,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1152700?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hsekiya",
+  "html_url": "https://github.com/hsekiya",
+  "followers_url": "https://api.github.com/users/hsekiya/followers",
+  "following_url": "https://api.github.com/users/hsekiya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hsekiya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hsekiya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hsekiya/subscriptions",
+  "organizations_url": "https://api.github.com/users/hsekiya/orgs",
+  "repos_url": "https://api.github.com/users/hsekiya/repos",
+  "events_url": "https://api.github.com/users/hsekiya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hsekiya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

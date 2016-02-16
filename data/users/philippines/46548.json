@@ -1,0 +1,20 @@
+{
+  "login": "corroded",
+  "id": 46548,
+  "avatar_url": "https://avatars.githubusercontent.com/u/46548?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/corroded",
+  "html_url": "https://github.com/corroded",
+  "followers_url": "https://api.github.com/users/corroded/followers",
+  "following_url": "https://api.github.com/users/corroded/following{/other_user}",
+  "gists_url": "https://api.github.com/users/corroded/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/corroded/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/corroded/subscriptions",
+  "organizations_url": "https://api.github.com/users/corroded/orgs",
+  "repos_url": "https://api.github.com/users/corroded/repos",
+  "events_url": "https://api.github.com/users/corroded/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/corroded/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

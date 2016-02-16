@@ -1,0 +1,20 @@
+{
+  "login": "flyever",
+  "id": 786426,
+  "avatar_url": "https://avatars.githubusercontent.com/u/786426?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flyever",
+  "html_url": "https://github.com/flyever",
+  "followers_url": "https://api.github.com/users/flyever/followers",
+  "following_url": "https://api.github.com/users/flyever/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flyever/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flyever/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flyever/subscriptions",
+  "organizations_url": "https://api.github.com/users/flyever/orgs",
+  "repos_url": "https://api.github.com/users/flyever/repos",
+  "events_url": "https://api.github.com/users/flyever/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flyever/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "chinyong",
+  "id": 1433727,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1433727?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chinyong",
+  "html_url": "https://github.com/chinyong",
+  "followers_url": "https://api.github.com/users/chinyong/followers",
+  "following_url": "https://api.github.com/users/chinyong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chinyong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chinyong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chinyong/subscriptions",
+  "organizations_url": "https://api.github.com/users/chinyong/orgs",
+  "repos_url": "https://api.github.com/users/chinyong/repos",
+  "events_url": "https://api.github.com/users/chinyong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chinyong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "app2technologies",
+  "id": 499775,
+  "avatar_url": "https://avatars.githubusercontent.com/u/499775?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/app2technologies",
+  "html_url": "https://github.com/app2technologies",
+  "followers_url": "https://api.github.com/users/app2technologies/followers",
+  "following_url": "https://api.github.com/users/app2technologies/following{/other_user}",
+  "gists_url": "https://api.github.com/users/app2technologies/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/app2technologies/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/app2technologies/subscriptions",
+  "organizations_url": "https://api.github.com/users/app2technologies/orgs",
+  "repos_url": "https://api.github.com/users/app2technologies/repos",
+  "events_url": "https://api.github.com/users/app2technologies/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/app2technologies/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

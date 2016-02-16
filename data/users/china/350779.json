@@ -1,0 +1,20 @@
+{
+  "login": "mouse-lin",
+  "id": 350779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/350779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mouse-lin",
+  "html_url": "https://github.com/mouse-lin",
+  "followers_url": "https://api.github.com/users/mouse-lin/followers",
+  "following_url": "https://api.github.com/users/mouse-lin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mouse-lin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mouse-lin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mouse-lin/subscriptions",
+  "organizations_url": "https://api.github.com/users/mouse-lin/orgs",
+  "repos_url": "https://api.github.com/users/mouse-lin/repos",
+  "events_url": "https://api.github.com/users/mouse-lin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mouse-lin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

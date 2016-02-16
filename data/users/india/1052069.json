@@ -1,0 +1,20 @@
+{
+  "login": "smtalim",
+  "id": 1052069,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1052069?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smtalim",
+  "html_url": "https://github.com/smtalim",
+  "followers_url": "https://api.github.com/users/smtalim/followers",
+  "following_url": "https://api.github.com/users/smtalim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smtalim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smtalim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smtalim/subscriptions",
+  "organizations_url": "https://api.github.com/users/smtalim/orgs",
+  "repos_url": "https://api.github.com/users/smtalim/repos",
+  "events_url": "https://api.github.com/users/smtalim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smtalim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

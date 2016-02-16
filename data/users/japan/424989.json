@@ -1,0 +1,20 @@
+{
+  "login": "masayoshi",
+  "id": 424989,
+  "avatar_url": "https://avatars.githubusercontent.com/u/424989?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masayoshi",
+  "html_url": "https://github.com/masayoshi",
+  "followers_url": "https://api.github.com/users/masayoshi/followers",
+  "following_url": "https://api.github.com/users/masayoshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masayoshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masayoshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masayoshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/masayoshi/orgs",
+  "repos_url": "https://api.github.com/users/masayoshi/repos",
+  "events_url": "https://api.github.com/users/masayoshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masayoshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

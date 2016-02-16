@@ -1,0 +1,20 @@
+{
+  "login": "cyross",
+  "id": 34980,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34980?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cyross",
+  "html_url": "https://github.com/cyross",
+  "followers_url": "https://api.github.com/users/cyross/followers",
+  "following_url": "https://api.github.com/users/cyross/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cyross/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cyross/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cyross/subscriptions",
+  "organizations_url": "https://api.github.com/users/cyross/orgs",
+  "repos_url": "https://api.github.com/users/cyross/repos",
+  "events_url": "https://api.github.com/users/cyross/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cyross/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

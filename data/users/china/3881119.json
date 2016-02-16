@@ -1,0 +1,20 @@
+{
+  "login": "morisunshine",
+  "id": 3881119,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3881119?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/morisunshine",
+  "html_url": "https://github.com/morisunshine",
+  "followers_url": "https://api.github.com/users/morisunshine/followers",
+  "following_url": "https://api.github.com/users/morisunshine/following{/other_user}",
+  "gists_url": "https://api.github.com/users/morisunshine/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/morisunshine/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/morisunshine/subscriptions",
+  "organizations_url": "https://api.github.com/users/morisunshine/orgs",
+  "repos_url": "https://api.github.com/users/morisunshine/repos",
+  "events_url": "https://api.github.com/users/morisunshine/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/morisunshine/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

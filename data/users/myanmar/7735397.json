@@ -1,0 +1,20 @@
+{
+  "login": "thethtutoo",
+  "id": 7735397,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7735397?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thethtutoo",
+  "html_url": "https://github.com/thethtutoo",
+  "followers_url": "https://api.github.com/users/thethtutoo/followers",
+  "following_url": "https://api.github.com/users/thethtutoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thethtutoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thethtutoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thethtutoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/thethtutoo/orgs",
+  "repos_url": "https://api.github.com/users/thethtutoo/repos",
+  "events_url": "https://api.github.com/users/thethtutoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thethtutoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

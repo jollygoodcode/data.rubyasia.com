@@ -1,0 +1,20 @@
+{
+  "login": "ylovesy",
+  "id": 1564100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1564100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ylovesy",
+  "html_url": "https://github.com/ylovesy",
+  "followers_url": "https://api.github.com/users/ylovesy/followers",
+  "following_url": "https://api.github.com/users/ylovesy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ylovesy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ylovesy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ylovesy/subscriptions",
+  "organizations_url": "https://api.github.com/users/ylovesy/orgs",
+  "repos_url": "https://api.github.com/users/ylovesy/repos",
+  "events_url": "https://api.github.com/users/ylovesy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ylovesy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

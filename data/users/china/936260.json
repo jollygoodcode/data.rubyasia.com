@@ -1,0 +1,20 @@
+{
+  "login": "carl-robinson",
+  "id": 936260,
+  "avatar_url": "https://avatars.githubusercontent.com/u/936260?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/carl-robinson",
+  "html_url": "https://github.com/carl-robinson",
+  "followers_url": "https://api.github.com/users/carl-robinson/followers",
+  "following_url": "https://api.github.com/users/carl-robinson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/carl-robinson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/carl-robinson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/carl-robinson/subscriptions",
+  "organizations_url": "https://api.github.com/users/carl-robinson/orgs",
+  "repos_url": "https://api.github.com/users/carl-robinson/repos",
+  "events_url": "https://api.github.com/users/carl-robinson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/carl-robinson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

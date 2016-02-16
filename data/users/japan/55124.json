@@ -1,0 +1,20 @@
+{
+  "login": "kisoku",
+  "id": 55124,
+  "avatar_url": "https://avatars.githubusercontent.com/u/55124?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kisoku",
+  "html_url": "https://github.com/kisoku",
+  "followers_url": "https://api.github.com/users/kisoku/followers",
+  "following_url": "https://api.github.com/users/kisoku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kisoku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kisoku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kisoku/subscriptions",
+  "organizations_url": "https://api.github.com/users/kisoku/orgs",
+  "repos_url": "https://api.github.com/users/kisoku/repos",
+  "events_url": "https://api.github.com/users/kisoku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kisoku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

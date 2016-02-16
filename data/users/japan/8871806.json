@@ -1,0 +1,20 @@
+{
+  "login": "owlcamp",
+  "id": 8871806,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8871806?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/owlcamp",
+  "html_url": "https://github.com/owlcamp",
+  "followers_url": "https://api.github.com/users/owlcamp/followers",
+  "following_url": "https://api.github.com/users/owlcamp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/owlcamp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/owlcamp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/owlcamp/subscriptions",
+  "organizations_url": "https://api.github.com/users/owlcamp/orgs",
+  "repos_url": "https://api.github.com/users/owlcamp/repos",
+  "events_url": "https://api.github.com/users/owlcamp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/owlcamp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

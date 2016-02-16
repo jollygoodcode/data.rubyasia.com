@@ -1,0 +1,20 @@
+{
+  "login": "chliu",
+  "id": 318429,
+  "avatar_url": "https://avatars.githubusercontent.com/u/318429?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chliu",
+  "html_url": "https://github.com/chliu",
+  "followers_url": "https://api.github.com/users/chliu/followers",
+  "following_url": "https://api.github.com/users/chliu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chliu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chliu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chliu/subscriptions",
+  "organizations_url": "https://api.github.com/users/chliu/orgs",
+  "repos_url": "https://api.github.com/users/chliu/repos",
+  "events_url": "https://api.github.com/users/chliu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chliu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

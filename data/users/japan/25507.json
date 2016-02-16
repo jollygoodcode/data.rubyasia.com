@@ -1,0 +1,20 @@
+{
+  "login": "yuiseki",
+  "id": 25507,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25507?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuiseki",
+  "html_url": "https://github.com/yuiseki",
+  "followers_url": "https://api.github.com/users/yuiseki/followers",
+  "following_url": "https://api.github.com/users/yuiseki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuiseki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuiseki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuiseki/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuiseki/orgs",
+  "repos_url": "https://api.github.com/users/yuiseki/repos",
+  "events_url": "https://api.github.com/users/yuiseki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuiseki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

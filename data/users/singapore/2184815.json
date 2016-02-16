@@ -1,0 +1,20 @@
+{
+  "login": "fwcontact",
+  "id": 2184815,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2184815?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fwcontact",
+  "html_url": "https://github.com/fwcontact",
+  "followers_url": "https://api.github.com/users/fwcontact/followers",
+  "following_url": "https://api.github.com/users/fwcontact/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fwcontact/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fwcontact/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fwcontact/subscriptions",
+  "organizations_url": "https://api.github.com/users/fwcontact/orgs",
+  "repos_url": "https://api.github.com/users/fwcontact/repos",
+  "events_url": "https://api.github.com/users/fwcontact/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fwcontact/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

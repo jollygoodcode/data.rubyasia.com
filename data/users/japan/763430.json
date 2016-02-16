@@ -1,0 +1,20 @@
+{
+  "login": "tohae",
+  "id": 763430,
+  "avatar_url": "https://avatars.githubusercontent.com/u/763430?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tohae",
+  "html_url": "https://github.com/tohae",
+  "followers_url": "https://api.github.com/users/tohae/followers",
+  "following_url": "https://api.github.com/users/tohae/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tohae/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tohae/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tohae/subscriptions",
+  "organizations_url": "https://api.github.com/users/tohae/orgs",
+  "repos_url": "https://api.github.com/users/tohae/repos",
+  "events_url": "https://api.github.com/users/tohae/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tohae/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

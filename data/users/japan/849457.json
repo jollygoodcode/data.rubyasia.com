@@ -1,0 +1,20 @@
+{
+  "login": "tymat",
+  "id": 849457,
+  "avatar_url": "https://avatars.githubusercontent.com/u/849457?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tymat",
+  "html_url": "https://github.com/tymat",
+  "followers_url": "https://api.github.com/users/tymat/followers",
+  "following_url": "https://api.github.com/users/tymat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tymat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tymat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tymat/subscriptions",
+  "organizations_url": "https://api.github.com/users/tymat/orgs",
+  "repos_url": "https://api.github.com/users/tymat/repos",
+  "events_url": "https://api.github.com/users/tymat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tymat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

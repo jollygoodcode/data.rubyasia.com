@@ -1,0 +1,20 @@
+{
+  "login": "MDBox",
+  "id": 3600625,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3600625?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MDBox",
+  "html_url": "https://github.com/MDBox",
+  "followers_url": "https://api.github.com/users/MDBox/followers",
+  "following_url": "https://api.github.com/users/MDBox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MDBox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MDBox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MDBox/subscriptions",
+  "organizations_url": "https://api.github.com/users/MDBox/orgs",
+  "repos_url": "https://api.github.com/users/MDBox/repos",
+  "events_url": "https://api.github.com/users/MDBox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MDBox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "klern",
+  "id": 341655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/341655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/klern",
+  "html_url": "https://github.com/klern",
+  "followers_url": "https://api.github.com/users/klern/followers",
+  "following_url": "https://api.github.com/users/klern/following{/other_user}",
+  "gists_url": "https://api.github.com/users/klern/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/klern/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/klern/subscriptions",
+  "organizations_url": "https://api.github.com/users/klern/orgs",
+  "repos_url": "https://api.github.com/users/klern/repos",
+  "events_url": "https://api.github.com/users/klern/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/klern/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

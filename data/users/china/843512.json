@@ -1,0 +1,20 @@
+{
+  "login": "celadevra",
+  "id": 843512,
+  "avatar_url": "https://avatars.githubusercontent.com/u/843512?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/celadevra",
+  "html_url": "https://github.com/celadevra",
+  "followers_url": "https://api.github.com/users/celadevra/followers",
+  "following_url": "https://api.github.com/users/celadevra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/celadevra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/celadevra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/celadevra/subscriptions",
+  "organizations_url": "https://api.github.com/users/celadevra/orgs",
+  "repos_url": "https://api.github.com/users/celadevra/repos",
+  "events_url": "https://api.github.com/users/celadevra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/celadevra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

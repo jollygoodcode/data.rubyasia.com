@@ -1,0 +1,20 @@
+{
+  "login": "shunsakai",
+  "id": 8718096,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8718096?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shunsakai",
+  "html_url": "https://github.com/shunsakai",
+  "followers_url": "https://api.github.com/users/shunsakai/followers",
+  "following_url": "https://api.github.com/users/shunsakai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shunsakai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shunsakai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shunsakai/subscriptions",
+  "organizations_url": "https://api.github.com/users/shunsakai/orgs",
+  "repos_url": "https://api.github.com/users/shunsakai/repos",
+  "events_url": "https://api.github.com/users/shunsakai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shunsakai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

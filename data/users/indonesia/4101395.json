@@ -1,0 +1,20 @@
+{
+  "login": "ptwgs",
+  "id": 4101395,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4101395?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ptwgs",
+  "html_url": "https://github.com/ptwgs",
+  "followers_url": "https://api.github.com/users/ptwgs/followers",
+  "following_url": "https://api.github.com/users/ptwgs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ptwgs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ptwgs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ptwgs/subscriptions",
+  "organizations_url": "https://api.github.com/users/ptwgs/orgs",
+  "repos_url": "https://api.github.com/users/ptwgs/repos",
+  "events_url": "https://api.github.com/users/ptwgs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ptwgs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

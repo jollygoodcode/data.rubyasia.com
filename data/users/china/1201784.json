@@ -1,0 +1,20 @@
+{
+  "login": "herrkaefer",
+  "id": 1201784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1201784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/herrkaefer",
+  "html_url": "https://github.com/herrkaefer",
+  "followers_url": "https://api.github.com/users/herrkaefer/followers",
+  "following_url": "https://api.github.com/users/herrkaefer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/herrkaefer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/herrkaefer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/herrkaefer/subscriptions",
+  "organizations_url": "https://api.github.com/users/herrkaefer/orgs",
+  "repos_url": "https://api.github.com/users/herrkaefer/repos",
+  "events_url": "https://api.github.com/users/herrkaefer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/herrkaefer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

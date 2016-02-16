@@ -1,0 +1,20 @@
+{
+  "login": "dmxyor",
+  "id": 4660013,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4660013?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dmxyor",
+  "html_url": "https://github.com/dmxyor",
+  "followers_url": "https://api.github.com/users/dmxyor/followers",
+  "following_url": "https://api.github.com/users/dmxyor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dmxyor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dmxyor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dmxyor/subscriptions",
+  "organizations_url": "https://api.github.com/users/dmxyor/orgs",
+  "repos_url": "https://api.github.com/users/dmxyor/repos",
+  "events_url": "https://api.github.com/users/dmxyor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dmxyor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

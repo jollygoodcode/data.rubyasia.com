@@ -1,0 +1,20 @@
+{
+  "login": "bdesmero",
+  "id": 909502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/909502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bdesmero",
+  "html_url": "https://github.com/bdesmero",
+  "followers_url": "https://api.github.com/users/bdesmero/followers",
+  "following_url": "https://api.github.com/users/bdesmero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bdesmero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bdesmero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bdesmero/subscriptions",
+  "organizations_url": "https://api.github.com/users/bdesmero/orgs",
+  "repos_url": "https://api.github.com/users/bdesmero/repos",
+  "events_url": "https://api.github.com/users/bdesmero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bdesmero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

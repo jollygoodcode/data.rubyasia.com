@@ -1,0 +1,20 @@
+{
+  "login": "ksauzz",
+  "id": 451586,
+  "avatar_url": "https://avatars.githubusercontent.com/u/451586?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ksauzz",
+  "html_url": "https://github.com/ksauzz",
+  "followers_url": "https://api.github.com/users/ksauzz/followers",
+  "following_url": "https://api.github.com/users/ksauzz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ksauzz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ksauzz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ksauzz/subscriptions",
+  "organizations_url": "https://api.github.com/users/ksauzz/orgs",
+  "repos_url": "https://api.github.com/users/ksauzz/repos",
+  "events_url": "https://api.github.com/users/ksauzz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ksauzz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

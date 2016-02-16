@@ -1,0 +1,20 @@
+{
+  "login": "SmallComfort",
+  "id": 8806899,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8806899?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SmallComfort",
+  "html_url": "https://github.com/SmallComfort",
+  "followers_url": "https://api.github.com/users/SmallComfort/followers",
+  "following_url": "https://api.github.com/users/SmallComfort/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SmallComfort/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SmallComfort/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SmallComfort/subscriptions",
+  "organizations_url": "https://api.github.com/users/SmallComfort/orgs",
+  "repos_url": "https://api.github.com/users/SmallComfort/repos",
+  "events_url": "https://api.github.com/users/SmallComfort/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SmallComfort/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

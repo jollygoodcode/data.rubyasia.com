@@ -1,0 +1,20 @@
+{
+  "login": "colorgy",
+  "id": 9701622,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9701622?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/colorgy",
+  "html_url": "https://github.com/colorgy",
+  "followers_url": "https://api.github.com/users/colorgy/followers",
+  "following_url": "https://api.github.com/users/colorgy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/colorgy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/colorgy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/colorgy/subscriptions",
+  "organizations_url": "https://api.github.com/users/colorgy/orgs",
+  "repos_url": "https://api.github.com/users/colorgy/repos",
+  "events_url": "https://api.github.com/users/colorgy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/colorgy/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

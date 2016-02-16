@@ -1,0 +1,20 @@
+{
+  "login": "syotaro",
+  "id": 442467,
+  "avatar_url": "https://avatars.githubusercontent.com/u/442467?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/syotaro",
+  "html_url": "https://github.com/syotaro",
+  "followers_url": "https://api.github.com/users/syotaro/followers",
+  "following_url": "https://api.github.com/users/syotaro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/syotaro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/syotaro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/syotaro/subscriptions",
+  "organizations_url": "https://api.github.com/users/syotaro/orgs",
+  "repos_url": "https://api.github.com/users/syotaro/repos",
+  "events_url": "https://api.github.com/users/syotaro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/syotaro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

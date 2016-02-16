@@ -1,0 +1,20 @@
+{
+  "login": "Draveness",
+  "id": 6493255,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6493255?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Draveness",
+  "html_url": "https://github.com/Draveness",
+  "followers_url": "https://api.github.com/users/Draveness/followers",
+  "following_url": "https://api.github.com/users/Draveness/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Draveness/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Draveness/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Draveness/subscriptions",
+  "organizations_url": "https://api.github.com/users/Draveness/orgs",
+  "repos_url": "https://api.github.com/users/Draveness/repos",
+  "events_url": "https://api.github.com/users/Draveness/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Draveness/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mtoutai",
+  "id": 11884186,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11884186?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mtoutai",
+  "html_url": "https://github.com/mtoutai",
+  "followers_url": "https://api.github.com/users/mtoutai/followers",
+  "following_url": "https://api.github.com/users/mtoutai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mtoutai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mtoutai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mtoutai/subscriptions",
+  "organizations_url": "https://api.github.com/users/mtoutai/orgs",
+  "repos_url": "https://api.github.com/users/mtoutai/repos",
+  "events_url": "https://api.github.com/users/mtoutai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mtoutai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

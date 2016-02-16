@@ -1,0 +1,20 @@
+{
+  "login": "hoshi-sano",
+  "id": 1905688,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1905688?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoshi-sano",
+  "html_url": "https://github.com/hoshi-sano",
+  "followers_url": "https://api.github.com/users/hoshi-sano/followers",
+  "following_url": "https://api.github.com/users/hoshi-sano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoshi-sano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoshi-sano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoshi-sano/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoshi-sano/orgs",
+  "repos_url": "https://api.github.com/users/hoshi-sano/repos",
+  "events_url": "https://api.github.com/users/hoshi-sano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoshi-sano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

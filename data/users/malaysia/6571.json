@@ -1,0 +1,20 @@
+{
+  "login": "kematzy",
+  "id": 6571,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6571?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kematzy",
+  "html_url": "https://github.com/kematzy",
+  "followers_url": "https://api.github.com/users/kematzy/followers",
+  "following_url": "https://api.github.com/users/kematzy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kematzy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kematzy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kematzy/subscriptions",
+  "organizations_url": "https://api.github.com/users/kematzy/orgs",
+  "repos_url": "https://api.github.com/users/kematzy/repos",
+  "events_url": "https://api.github.com/users/kematzy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kematzy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

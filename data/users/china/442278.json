@@ -1,0 +1,20 @@
+{
+  "login": "larryzhao",
+  "id": 442278,
+  "avatar_url": "https://avatars.githubusercontent.com/u/442278?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/larryzhao",
+  "html_url": "https://github.com/larryzhao",
+  "followers_url": "https://api.github.com/users/larryzhao/followers",
+  "following_url": "https://api.github.com/users/larryzhao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/larryzhao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/larryzhao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/larryzhao/subscriptions",
+  "organizations_url": "https://api.github.com/users/larryzhao/orgs",
+  "repos_url": "https://api.github.com/users/larryzhao/repos",
+  "events_url": "https://api.github.com/users/larryzhao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/larryzhao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

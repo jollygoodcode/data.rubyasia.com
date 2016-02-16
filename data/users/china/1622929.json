@@ -1,0 +1,20 @@
+{
+  "login": "mingloo",
+  "id": 1622929,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1622929?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mingloo",
+  "html_url": "https://github.com/mingloo",
+  "followers_url": "https://api.github.com/users/mingloo/followers",
+  "following_url": "https://api.github.com/users/mingloo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mingloo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mingloo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mingloo/subscriptions",
+  "organizations_url": "https://api.github.com/users/mingloo/orgs",
+  "repos_url": "https://api.github.com/users/mingloo/repos",
+  "events_url": "https://api.github.com/users/mingloo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mingloo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

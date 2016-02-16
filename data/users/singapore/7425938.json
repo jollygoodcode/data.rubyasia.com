@@ -1,0 +1,20 @@
+{
+  "login": "minnovations",
+  "id": 7425938,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7425938?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/minnovations",
+  "html_url": "https://github.com/minnovations",
+  "followers_url": "https://api.github.com/users/minnovations/followers",
+  "following_url": "https://api.github.com/users/minnovations/following{/other_user}",
+  "gists_url": "https://api.github.com/users/minnovations/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/minnovations/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/minnovations/subscriptions",
+  "organizations_url": "https://api.github.com/users/minnovations/orgs",
+  "repos_url": "https://api.github.com/users/minnovations/repos",
+  "events_url": "https://api.github.com/users/minnovations/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/minnovations/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

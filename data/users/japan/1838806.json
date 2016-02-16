@@ -1,0 +1,20 @@
+{
+  "login": "khikita",
+  "id": 1838806,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1838806?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khikita",
+  "html_url": "https://github.com/khikita",
+  "followers_url": "https://api.github.com/users/khikita/followers",
+  "following_url": "https://api.github.com/users/khikita/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khikita/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khikita/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khikita/subscriptions",
+  "organizations_url": "https://api.github.com/users/khikita/orgs",
+  "repos_url": "https://api.github.com/users/khikita/repos",
+  "events_url": "https://api.github.com/users/khikita/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khikita/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

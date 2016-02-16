@@ -1,0 +1,20 @@
+{
+  "login": "roamlog",
+  "id": 18213,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18213?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/roamlog",
+  "html_url": "https://github.com/roamlog",
+  "followers_url": "https://api.github.com/users/roamlog/followers",
+  "following_url": "https://api.github.com/users/roamlog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/roamlog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/roamlog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/roamlog/subscriptions",
+  "organizations_url": "https://api.github.com/users/roamlog/orgs",
+  "repos_url": "https://api.github.com/users/roamlog/repos",
+  "events_url": "https://api.github.com/users/roamlog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/roamlog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

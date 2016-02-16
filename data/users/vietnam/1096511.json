@@ -1,0 +1,20 @@
+{
+  "login": "hajimezhao",
+  "id": 1096511,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1096511?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hajimezhao",
+  "html_url": "https://github.com/hajimezhao",
+  "followers_url": "https://api.github.com/users/hajimezhao/followers",
+  "following_url": "https://api.github.com/users/hajimezhao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hajimezhao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hajimezhao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hajimezhao/subscriptions",
+  "organizations_url": "https://api.github.com/users/hajimezhao/orgs",
+  "repos_url": "https://api.github.com/users/hajimezhao/repos",
+  "events_url": "https://api.github.com/users/hajimezhao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hajimezhao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

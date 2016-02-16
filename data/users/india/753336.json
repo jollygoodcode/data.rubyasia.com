@@ -1,0 +1,20 @@
+{
+  "login": "hackings",
+  "id": 753336,
+  "avatar_url": "https://avatars.githubusercontent.com/u/753336?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hackings",
+  "html_url": "https://github.com/hackings",
+  "followers_url": "https://api.github.com/users/hackings/followers",
+  "following_url": "https://api.github.com/users/hackings/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hackings/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hackings/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hackings/subscriptions",
+  "organizations_url": "https://api.github.com/users/hackings/orgs",
+  "repos_url": "https://api.github.com/users/hackings/repos",
+  "events_url": "https://api.github.com/users/hackings/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hackings/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

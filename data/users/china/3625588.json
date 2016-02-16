@@ -1,0 +1,20 @@
+{
+  "login": "Igrub",
+  "id": 3625588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3625588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Igrub",
+  "html_url": "https://github.com/Igrub",
+  "followers_url": "https://api.github.com/users/Igrub/followers",
+  "following_url": "https://api.github.com/users/Igrub/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Igrub/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Igrub/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Igrub/subscriptions",
+  "organizations_url": "https://api.github.com/users/Igrub/orgs",
+  "repos_url": "https://api.github.com/users/Igrub/repos",
+  "events_url": "https://api.github.com/users/Igrub/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Igrub/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

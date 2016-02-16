@@ -1,0 +1,20 @@
+{
+  "login": "bytesource",
+  "id": 610307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/610307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bytesource",
+  "html_url": "https://github.com/bytesource",
+  "followers_url": "https://api.github.com/users/bytesource/followers",
+  "following_url": "https://api.github.com/users/bytesource/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bytesource/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bytesource/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bytesource/subscriptions",
+  "organizations_url": "https://api.github.com/users/bytesource/orgs",
+  "repos_url": "https://api.github.com/users/bytesource/repos",
+  "events_url": "https://api.github.com/users/bytesource/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bytesource/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mio-mio",
+  "id": 10204890,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10204890?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mio-mio",
+  "html_url": "https://github.com/mio-mio",
+  "followers_url": "https://api.github.com/users/mio-mio/followers",
+  "following_url": "https://api.github.com/users/mio-mio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mio-mio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mio-mio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mio-mio/subscriptions",
+  "organizations_url": "https://api.github.com/users/mio-mio/orgs",
+  "repos_url": "https://api.github.com/users/mio-mio/repos",
+  "events_url": "https://api.github.com/users/mio-mio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mio-mio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

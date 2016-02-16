@@ -1,0 +1,20 @@
+{
+  "login": "aaron-zhang",
+  "id": 71716,
+  "avatar_url": "https://avatars.githubusercontent.com/u/71716?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aaron-zhang",
+  "html_url": "https://github.com/aaron-zhang",
+  "followers_url": "https://api.github.com/users/aaron-zhang/followers",
+  "following_url": "https://api.github.com/users/aaron-zhang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aaron-zhang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aaron-zhang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aaron-zhang/subscriptions",
+  "organizations_url": "https://api.github.com/users/aaron-zhang/orgs",
+  "repos_url": "https://api.github.com/users/aaron-zhang/repos",
+  "events_url": "https://api.github.com/users/aaron-zhang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aaron-zhang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

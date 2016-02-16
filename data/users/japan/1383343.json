@@ -1,0 +1,20 @@
+{
+  "login": "mrdaniel",
+  "id": 1383343,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1383343?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrdaniel",
+  "html_url": "https://github.com/mrdaniel",
+  "followers_url": "https://api.github.com/users/mrdaniel/followers",
+  "following_url": "https://api.github.com/users/mrdaniel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrdaniel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrdaniel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrdaniel/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrdaniel/orgs",
+  "repos_url": "https://api.github.com/users/mrdaniel/repos",
+  "events_url": "https://api.github.com/users/mrdaniel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrdaniel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "pfu-cho",
+  "id": 1825277,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1825277?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pfu-cho",
+  "html_url": "https://github.com/pfu-cho",
+  "followers_url": "https://api.github.com/users/pfu-cho/followers",
+  "following_url": "https://api.github.com/users/pfu-cho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pfu-cho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pfu-cho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pfu-cho/subscriptions",
+  "organizations_url": "https://api.github.com/users/pfu-cho/orgs",
+  "repos_url": "https://api.github.com/users/pfu-cho/repos",
+  "events_url": "https://api.github.com/users/pfu-cho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pfu-cho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

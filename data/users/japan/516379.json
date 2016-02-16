@@ -1,0 +1,20 @@
+{
+  "login": "teenst",
+  "id": 516379,
+  "avatar_url": "https://avatars.githubusercontent.com/u/516379?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/teenst",
+  "html_url": "https://github.com/teenst",
+  "followers_url": "https://api.github.com/users/teenst/followers",
+  "following_url": "https://api.github.com/users/teenst/following{/other_user}",
+  "gists_url": "https://api.github.com/users/teenst/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/teenst/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/teenst/subscriptions",
+  "organizations_url": "https://api.github.com/users/teenst/orgs",
+  "repos_url": "https://api.github.com/users/teenst/repos",
+  "events_url": "https://api.github.com/users/teenst/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/teenst/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

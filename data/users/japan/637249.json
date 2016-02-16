@@ -1,0 +1,20 @@
+{
+  "login": "oredi",
+  "id": 637249,
+  "avatar_url": "https://avatars.githubusercontent.com/u/637249?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oredi",
+  "html_url": "https://github.com/oredi",
+  "followers_url": "https://api.github.com/users/oredi/followers",
+  "following_url": "https://api.github.com/users/oredi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oredi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oredi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oredi/subscriptions",
+  "organizations_url": "https://api.github.com/users/oredi/orgs",
+  "repos_url": "https://api.github.com/users/oredi/repos",
+  "events_url": "https://api.github.com/users/oredi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oredi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

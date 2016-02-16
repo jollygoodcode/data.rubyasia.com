@@ -1,0 +1,20 @@
+{
+  "login": "samspired",
+  "id": 6761342,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6761342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/samspired",
+  "html_url": "https://github.com/samspired",
+  "followers_url": "https://api.github.com/users/samspired/followers",
+  "following_url": "https://api.github.com/users/samspired/following{/other_user}",
+  "gists_url": "https://api.github.com/users/samspired/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/samspired/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/samspired/subscriptions",
+  "organizations_url": "https://api.github.com/users/samspired/orgs",
+  "repos_url": "https://api.github.com/users/samspired/repos",
+  "events_url": "https://api.github.com/users/samspired/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/samspired/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Pavliko",
+  "id": 449619,
+  "avatar_url": "https://avatars.githubusercontent.com/u/449619?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Pavliko",
+  "html_url": "https://github.com/Pavliko",
+  "followers_url": "https://api.github.com/users/Pavliko/followers",
+  "following_url": "https://api.github.com/users/Pavliko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Pavliko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Pavliko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Pavliko/subscriptions",
+  "organizations_url": "https://api.github.com/users/Pavliko/orgs",
+  "repos_url": "https://api.github.com/users/Pavliko/repos",
+  "events_url": "https://api.github.com/users/Pavliko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Pavliko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "nbinfotech",
+  "id": 3009712,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3009712?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nbinfotech",
+  "html_url": "https://github.com/nbinfotech",
+  "followers_url": "https://api.github.com/users/nbinfotech/followers",
+  "following_url": "https://api.github.com/users/nbinfotech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nbinfotech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nbinfotech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nbinfotech/subscriptions",
+  "organizations_url": "https://api.github.com/users/nbinfotech/orgs",
+  "repos_url": "https://api.github.com/users/nbinfotech/repos",
+  "events_url": "https://api.github.com/users/nbinfotech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nbinfotech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

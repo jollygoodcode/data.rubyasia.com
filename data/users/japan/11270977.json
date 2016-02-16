@@ -1,0 +1,20 @@
+{
+  "login": "aokihide",
+  "id": 11270977,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11270977?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aokihide",
+  "html_url": "https://github.com/aokihide",
+  "followers_url": "https://api.github.com/users/aokihide/followers",
+  "following_url": "https://api.github.com/users/aokihide/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aokihide/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aokihide/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aokihide/subscriptions",
+  "organizations_url": "https://api.github.com/users/aokihide/orgs",
+  "repos_url": "https://api.github.com/users/aokihide/repos",
+  "events_url": "https://api.github.com/users/aokihide/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aokihide/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

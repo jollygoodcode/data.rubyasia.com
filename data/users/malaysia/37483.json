@@ -1,0 +1,20 @@
+{
+  "login": "zacaaron",
+  "id": 37483,
+  "avatar_url": "https://avatars.githubusercontent.com/u/37483?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zacaaron",
+  "html_url": "https://github.com/zacaaron",
+  "followers_url": "https://api.github.com/users/zacaaron/followers",
+  "following_url": "https://api.github.com/users/zacaaron/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zacaaron/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zacaaron/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zacaaron/subscriptions",
+  "organizations_url": "https://api.github.com/users/zacaaron/orgs",
+  "repos_url": "https://api.github.com/users/zacaaron/repos",
+  "events_url": "https://api.github.com/users/zacaaron/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zacaaron/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

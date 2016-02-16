@@ -1,0 +1,20 @@
+{
+  "login": "peterhoeg",
+  "id": 722550,
+  "avatar_url": "https://avatars.githubusercontent.com/u/722550?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/peterhoeg",
+  "html_url": "https://github.com/peterhoeg",
+  "followers_url": "https://api.github.com/users/peterhoeg/followers",
+  "following_url": "https://api.github.com/users/peterhoeg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/peterhoeg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/peterhoeg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/peterhoeg/subscriptions",
+  "organizations_url": "https://api.github.com/users/peterhoeg/orgs",
+  "repos_url": "https://api.github.com/users/peterhoeg/repos",
+  "events_url": "https://api.github.com/users/peterhoeg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/peterhoeg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

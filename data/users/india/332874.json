@@ -1,0 +1,20 @@
+{
+  "login": "webonise",
+  "id": 332874,
+  "avatar_url": "https://avatars.githubusercontent.com/u/332874?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/webonise",
+  "html_url": "https://github.com/webonise",
+  "followers_url": "https://api.github.com/users/webonise/followers",
+  "following_url": "https://api.github.com/users/webonise/following{/other_user}",
+  "gists_url": "https://api.github.com/users/webonise/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/webonise/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/webonise/subscriptions",
+  "organizations_url": "https://api.github.com/users/webonise/orgs",
+  "repos_url": "https://api.github.com/users/webonise/repos",
+  "events_url": "https://api.github.com/users/webonise/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/webonise/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

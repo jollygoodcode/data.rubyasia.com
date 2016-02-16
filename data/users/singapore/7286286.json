@@ -1,0 +1,20 @@
+{
+  "login": "rorykoehler",
+  "id": 7286286,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7286286?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rorykoehler",
+  "html_url": "https://github.com/rorykoehler",
+  "followers_url": "https://api.github.com/users/rorykoehler/followers",
+  "following_url": "https://api.github.com/users/rorykoehler/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rorykoehler/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rorykoehler/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rorykoehler/subscriptions",
+  "organizations_url": "https://api.github.com/users/rorykoehler/orgs",
+  "repos_url": "https://api.github.com/users/rorykoehler/repos",
+  "events_url": "https://api.github.com/users/rorykoehler/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rorykoehler/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

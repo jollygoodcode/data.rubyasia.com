@@ -1,0 +1,20 @@
+{
+  "login": "stephentan",
+  "id": 146626,
+  "avatar_url": "https://avatars.githubusercontent.com/u/146626?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stephentan",
+  "html_url": "https://github.com/stephentan",
+  "followers_url": "https://api.github.com/users/stephentan/followers",
+  "following_url": "https://api.github.com/users/stephentan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stephentan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stephentan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stephentan/subscriptions",
+  "organizations_url": "https://api.github.com/users/stephentan/orgs",
+  "repos_url": "https://api.github.com/users/stephentan/repos",
+  "events_url": "https://api.github.com/users/stephentan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stephentan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

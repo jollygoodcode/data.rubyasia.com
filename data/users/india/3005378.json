@@ -1,0 +1,20 @@
+{
+  "login": "mrudult",
+  "id": 3005378,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3005378?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrudult",
+  "html_url": "https://github.com/mrudult",
+  "followers_url": "https://api.github.com/users/mrudult/followers",
+  "following_url": "https://api.github.com/users/mrudult/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrudult/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrudult/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrudult/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrudult/orgs",
+  "repos_url": "https://api.github.com/users/mrudult/repos",
+  "events_url": "https://api.github.com/users/mrudult/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrudult/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

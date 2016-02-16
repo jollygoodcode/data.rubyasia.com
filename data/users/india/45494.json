@@ -1,0 +1,20 @@
+{
+  "login": "rishav",
+  "id": 45494,
+  "avatar_url": "https://avatars.githubusercontent.com/u/45494?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rishav",
+  "html_url": "https://github.com/rishav",
+  "followers_url": "https://api.github.com/users/rishav/followers",
+  "following_url": "https://api.github.com/users/rishav/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rishav/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rishav/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rishav/subscriptions",
+  "organizations_url": "https://api.github.com/users/rishav/orgs",
+  "repos_url": "https://api.github.com/users/rishav/repos",
+  "events_url": "https://api.github.com/users/rishav/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rishav/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sodos",
+  "id": 8589237,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8589237?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sodos",
+  "html_url": "https://github.com/sodos",
+  "followers_url": "https://api.github.com/users/sodos/followers",
+  "following_url": "https://api.github.com/users/sodos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sodos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sodos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sodos/subscriptions",
+  "organizations_url": "https://api.github.com/users/sodos/orgs",
+  "repos_url": "https://api.github.com/users/sodos/repos",
+  "events_url": "https://api.github.com/users/sodos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sodos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ryosuke",
+  "id": 134067,
+  "avatar_url": "https://avatars.githubusercontent.com/u/134067?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryosuke",
+  "html_url": "https://github.com/ryosuke",
+  "followers_url": "https://api.github.com/users/ryosuke/followers",
+  "following_url": "https://api.github.com/users/ryosuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryosuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryosuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryosuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryosuke/orgs",
+  "repos_url": "https://api.github.com/users/ryosuke/repos",
+  "events_url": "https://api.github.com/users/ryosuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryosuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

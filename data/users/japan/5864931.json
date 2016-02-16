@@ -1,0 +1,20 @@
+{
+  "login": "go50",
+  "id": 5864931,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5864931?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/go50",
+  "html_url": "https://github.com/go50",
+  "followers_url": "https://api.github.com/users/go50/followers",
+  "following_url": "https://api.github.com/users/go50/following{/other_user}",
+  "gists_url": "https://api.github.com/users/go50/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/go50/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/go50/subscriptions",
+  "organizations_url": "https://api.github.com/users/go50/orgs",
+  "repos_url": "https://api.github.com/users/go50/repos",
+  "events_url": "https://api.github.com/users/go50/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/go50/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "naoki-watanabe",
+  "id": 16483373,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16483373?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/naoki-watanabe",
+  "html_url": "https://github.com/naoki-watanabe",
+  "followers_url": "https://api.github.com/users/naoki-watanabe/followers",
+  "following_url": "https://api.github.com/users/naoki-watanabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/naoki-watanabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/naoki-watanabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/naoki-watanabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/naoki-watanabe/orgs",
+  "repos_url": "https://api.github.com/users/naoki-watanabe/repos",
+  "events_url": "https://api.github.com/users/naoki-watanabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/naoki-watanabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

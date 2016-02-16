@@ -1,0 +1,20 @@
+{
+  "login": "starryforest",
+  "id": 13801,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13801?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/starryforest",
+  "html_url": "https://github.com/starryforest",
+  "followers_url": "https://api.github.com/users/starryforest/followers",
+  "following_url": "https://api.github.com/users/starryforest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/starryforest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/starryforest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/starryforest/subscriptions",
+  "organizations_url": "https://api.github.com/users/starryforest/orgs",
+  "repos_url": "https://api.github.com/users/starryforest/repos",
+  "events_url": "https://api.github.com/users/starryforest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/starryforest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

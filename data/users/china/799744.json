@@ -1,0 +1,20 @@
+{
+  "login": "weidewang",
+  "id": 799744,
+  "avatar_url": "https://avatars.githubusercontent.com/u/799744?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/weidewang",
+  "html_url": "https://github.com/weidewang",
+  "followers_url": "https://api.github.com/users/weidewang/followers",
+  "following_url": "https://api.github.com/users/weidewang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/weidewang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/weidewang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/weidewang/subscriptions",
+  "organizations_url": "https://api.github.com/users/weidewang/orgs",
+  "repos_url": "https://api.github.com/users/weidewang/repos",
+  "events_url": "https://api.github.com/users/weidewang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/weidewang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

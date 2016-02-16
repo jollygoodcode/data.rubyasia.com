@@ -1,0 +1,20 @@
+{
+  "login": "nickleu",
+  "id": 6045311,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6045311?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nickleu",
+  "html_url": "https://github.com/nickleu",
+  "followers_url": "https://api.github.com/users/nickleu/followers",
+  "following_url": "https://api.github.com/users/nickleu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nickleu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nickleu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nickleu/subscriptions",
+  "organizations_url": "https://api.github.com/users/nickleu/orgs",
+  "repos_url": "https://api.github.com/users/nickleu/repos",
+  "events_url": "https://api.github.com/users/nickleu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nickleu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "johnpipi",
+  "id": 14940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/johnpipi",
+  "html_url": "https://github.com/johnpipi",
+  "followers_url": "https://api.github.com/users/johnpipi/followers",
+  "following_url": "https://api.github.com/users/johnpipi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/johnpipi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/johnpipi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/johnpipi/subscriptions",
+  "organizations_url": "https://api.github.com/users/johnpipi/orgs",
+  "repos_url": "https://api.github.com/users/johnpipi/repos",
+  "events_url": "https://api.github.com/users/johnpipi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/johnpipi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

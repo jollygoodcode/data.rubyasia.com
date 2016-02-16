@@ -1,0 +1,20 @@
+{
+  "login": "arun-jis",
+  "id": 2952625,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2952625?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arun-jis",
+  "html_url": "https://github.com/arun-jis",
+  "followers_url": "https://api.github.com/users/arun-jis/followers",
+  "following_url": "https://api.github.com/users/arun-jis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arun-jis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arun-jis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arun-jis/subscriptions",
+  "organizations_url": "https://api.github.com/users/arun-jis/orgs",
+  "repos_url": "https://api.github.com/users/arun-jis/repos",
+  "events_url": "https://api.github.com/users/arun-jis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arun-jis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

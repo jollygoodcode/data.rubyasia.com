@@ -1,0 +1,20 @@
+{
+  "login": "isiri",
+  "id": 13198,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13198?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/isiri",
+  "html_url": "https://github.com/isiri",
+  "followers_url": "https://api.github.com/users/isiri/followers",
+  "following_url": "https://api.github.com/users/isiri/following{/other_user}",
+  "gists_url": "https://api.github.com/users/isiri/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/isiri/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/isiri/subscriptions",
+  "organizations_url": "https://api.github.com/users/isiri/orgs",
+  "repos_url": "https://api.github.com/users/isiri/repos",
+  "events_url": "https://api.github.com/users/isiri/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/isiri/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

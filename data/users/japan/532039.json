@@ -1,0 +1,20 @@
+{
+  "login": "vimg",
+  "id": 532039,
+  "avatar_url": "https://avatars.githubusercontent.com/u/532039?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vimg",
+  "html_url": "https://github.com/vimg",
+  "followers_url": "https://api.github.com/users/vimg/followers",
+  "following_url": "https://api.github.com/users/vimg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vimg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vimg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vimg/subscriptions",
+  "organizations_url": "https://api.github.com/users/vimg/orgs",
+  "repos_url": "https://api.github.com/users/vimg/repos",
+  "events_url": "https://api.github.com/users/vimg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vimg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

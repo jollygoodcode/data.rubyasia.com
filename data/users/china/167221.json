@@ -1,0 +1,20 @@
+{
+  "login": "ufologist",
+  "id": 167221,
+  "avatar_url": "https://avatars.githubusercontent.com/u/167221?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ufologist",
+  "html_url": "https://github.com/ufologist",
+  "followers_url": "https://api.github.com/users/ufologist/followers",
+  "following_url": "https://api.github.com/users/ufologist/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ufologist/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ufologist/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ufologist/subscriptions",
+  "organizations_url": "https://api.github.com/users/ufologist/orgs",
+  "repos_url": "https://api.github.com/users/ufologist/repos",
+  "events_url": "https://api.github.com/users/ufologist/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ufologist/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

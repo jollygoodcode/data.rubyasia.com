@@ -1,0 +1,20 @@
+{
+  "login": "abcreddy",
+  "id": 1880833,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1880833?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abcreddy",
+  "html_url": "https://github.com/abcreddy",
+  "followers_url": "https://api.github.com/users/abcreddy/followers",
+  "following_url": "https://api.github.com/users/abcreddy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abcreddy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abcreddy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abcreddy/subscriptions",
+  "organizations_url": "https://api.github.com/users/abcreddy/orgs",
+  "repos_url": "https://api.github.com/users/abcreddy/repos",
+  "events_url": "https://api.github.com/users/abcreddy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abcreddy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

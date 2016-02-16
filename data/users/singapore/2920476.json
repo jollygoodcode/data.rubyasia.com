@@ -1,0 +1,20 @@
+{
+  "login": "chrisjensen",
+  "id": 2920476,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2920476?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chrisjensen",
+  "html_url": "https://github.com/chrisjensen",
+  "followers_url": "https://api.github.com/users/chrisjensen/followers",
+  "following_url": "https://api.github.com/users/chrisjensen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chrisjensen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chrisjensen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chrisjensen/subscriptions",
+  "organizations_url": "https://api.github.com/users/chrisjensen/orgs",
+  "repos_url": "https://api.github.com/users/chrisjensen/repos",
+  "events_url": "https://api.github.com/users/chrisjensen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chrisjensen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

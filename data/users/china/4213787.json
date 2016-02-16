@@ -1,0 +1,20 @@
+{
+  "login": "chinasio",
+  "id": 4213787,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4213787?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chinasio",
+  "html_url": "https://github.com/chinasio",
+  "followers_url": "https://api.github.com/users/chinasio/followers",
+  "following_url": "https://api.github.com/users/chinasio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chinasio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chinasio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chinasio/subscriptions",
+  "organizations_url": "https://api.github.com/users/chinasio/orgs",
+  "repos_url": "https://api.github.com/users/chinasio/repos",
+  "events_url": "https://api.github.com/users/chinasio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chinasio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

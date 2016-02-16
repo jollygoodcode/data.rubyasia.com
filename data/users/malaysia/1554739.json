@@ -1,0 +1,20 @@
+{
+  "login": "cmeon",
+  "id": 1554739,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1554739?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cmeon",
+  "html_url": "https://github.com/cmeon",
+  "followers_url": "https://api.github.com/users/cmeon/followers",
+  "following_url": "https://api.github.com/users/cmeon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cmeon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cmeon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cmeon/subscriptions",
+  "organizations_url": "https://api.github.com/users/cmeon/orgs",
+  "repos_url": "https://api.github.com/users/cmeon/repos",
+  "events_url": "https://api.github.com/users/cmeon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cmeon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

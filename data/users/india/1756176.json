@@ -1,0 +1,20 @@
+{
+  "login": "cyberkid",
+  "id": 1756176,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1756176?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cyberkid",
+  "html_url": "https://github.com/cyberkid",
+  "followers_url": "https://api.github.com/users/cyberkid/followers",
+  "following_url": "https://api.github.com/users/cyberkid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cyberkid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cyberkid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cyberkid/subscriptions",
+  "organizations_url": "https://api.github.com/users/cyberkid/orgs",
+  "repos_url": "https://api.github.com/users/cyberkid/repos",
+  "events_url": "https://api.github.com/users/cyberkid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cyberkid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

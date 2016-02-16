@@ -1,0 +1,20 @@
+{
+  "login": "coolsea",
+  "id": 4925989,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4925989?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coolsea",
+  "html_url": "https://github.com/coolsea",
+  "followers_url": "https://api.github.com/users/coolsea/followers",
+  "following_url": "https://api.github.com/users/coolsea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coolsea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coolsea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coolsea/subscriptions",
+  "organizations_url": "https://api.github.com/users/coolsea/orgs",
+  "repos_url": "https://api.github.com/users/coolsea/repos",
+  "events_url": "https://api.github.com/users/coolsea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coolsea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Dezawa",
+  "id": 841077,
+  "avatar_url": "https://avatars.githubusercontent.com/u/841077?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Dezawa",
+  "html_url": "https://github.com/Dezawa",
+  "followers_url": "https://api.github.com/users/Dezawa/followers",
+  "following_url": "https://api.github.com/users/Dezawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Dezawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Dezawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Dezawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/Dezawa/orgs",
+  "repos_url": "https://api.github.com/users/Dezawa/repos",
+  "events_url": "https://api.github.com/users/Dezawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Dezawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

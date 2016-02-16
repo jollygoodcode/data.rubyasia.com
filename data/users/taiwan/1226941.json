@@ -1,0 +1,20 @@
+{
+  "login": "HumbleLivlyBear",
+  "id": 1226941,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1226941?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HumbleLivlyBear",
+  "html_url": "https://github.com/HumbleLivlyBear",
+  "followers_url": "https://api.github.com/users/HumbleLivlyBear/followers",
+  "following_url": "https://api.github.com/users/HumbleLivlyBear/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HumbleLivlyBear/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HumbleLivlyBear/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HumbleLivlyBear/subscriptions",
+  "organizations_url": "https://api.github.com/users/HumbleLivlyBear/orgs",
+  "repos_url": "https://api.github.com/users/HumbleLivlyBear/repos",
+  "events_url": "https://api.github.com/users/HumbleLivlyBear/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HumbleLivlyBear/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

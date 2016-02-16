@@ -1,0 +1,20 @@
+{
+  "login": "moaistone",
+  "id": 5113197,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5113197?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moaistone",
+  "html_url": "https://github.com/moaistone",
+  "followers_url": "https://api.github.com/users/moaistone/followers",
+  "following_url": "https://api.github.com/users/moaistone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moaistone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moaistone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moaistone/subscriptions",
+  "organizations_url": "https://api.github.com/users/moaistone/orgs",
+  "repos_url": "https://api.github.com/users/moaistone/repos",
+  "events_url": "https://api.github.com/users/moaistone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moaistone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

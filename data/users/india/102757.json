@@ -1,0 +1,20 @@
+{
+  "login": "Arania",
+  "id": 102757,
+  "avatar_url": "https://avatars.githubusercontent.com/u/102757?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Arania",
+  "html_url": "https://github.com/Arania",
+  "followers_url": "https://api.github.com/users/Arania/followers",
+  "following_url": "https://api.github.com/users/Arania/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Arania/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Arania/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Arania/subscriptions",
+  "organizations_url": "https://api.github.com/users/Arania/orgs",
+  "repos_url": "https://api.github.com/users/Arania/repos",
+  "events_url": "https://api.github.com/users/Arania/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Arania/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

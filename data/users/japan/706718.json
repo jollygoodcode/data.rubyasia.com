@@ -1,0 +1,20 @@
+{
+  "login": "hatanakay",
+  "id": 706718,
+  "avatar_url": "https://avatars.githubusercontent.com/u/706718?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hatanakay",
+  "html_url": "https://github.com/hatanakay",
+  "followers_url": "https://api.github.com/users/hatanakay/followers",
+  "following_url": "https://api.github.com/users/hatanakay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hatanakay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hatanakay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hatanakay/subscriptions",
+  "organizations_url": "https://api.github.com/users/hatanakay/orgs",
+  "repos_url": "https://api.github.com/users/hatanakay/repos",
+  "events_url": "https://api.github.com/users/hatanakay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hatanakay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

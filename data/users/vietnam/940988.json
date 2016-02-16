@@ -1,0 +1,20 @@
+{
+  "login": "vantt",
+  "id": 940988,
+  "avatar_url": "https://avatars.githubusercontent.com/u/940988?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vantt",
+  "html_url": "https://github.com/vantt",
+  "followers_url": "https://api.github.com/users/vantt/followers",
+  "following_url": "https://api.github.com/users/vantt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vantt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vantt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vantt/subscriptions",
+  "organizations_url": "https://api.github.com/users/vantt/orgs",
+  "repos_url": "https://api.github.com/users/vantt/repos",
+  "events_url": "https://api.github.com/users/vantt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vantt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

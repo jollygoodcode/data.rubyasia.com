@@ -1,0 +1,20 @@
+{
+  "login": "ankoder",
+  "id": 114022,
+  "avatar_url": "https://avatars.githubusercontent.com/u/114022?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ankoder",
+  "html_url": "https://github.com/ankoder",
+  "followers_url": "https://api.github.com/users/ankoder/followers",
+  "following_url": "https://api.github.com/users/ankoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ankoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ankoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ankoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/ankoder/orgs",
+  "repos_url": "https://api.github.com/users/ankoder/repos",
+  "events_url": "https://api.github.com/users/ankoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ankoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

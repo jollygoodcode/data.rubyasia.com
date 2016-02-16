@@ -1,0 +1,20 @@
+{
+  "login": "rohan-paul",
+  "id": 12703975,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12703975?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rohan-paul",
+  "html_url": "https://github.com/rohan-paul",
+  "followers_url": "https://api.github.com/users/rohan-paul/followers",
+  "following_url": "https://api.github.com/users/rohan-paul/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rohan-paul/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rohan-paul/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rohan-paul/subscriptions",
+  "organizations_url": "https://api.github.com/users/rohan-paul/orgs",
+  "repos_url": "https://api.github.com/users/rohan-paul/repos",
+  "events_url": "https://api.github.com/users/rohan-paul/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rohan-paul/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

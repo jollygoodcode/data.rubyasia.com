@@ -1,0 +1,20 @@
+{
+  "login": "kyamaguchi",
+  "id": 275284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/275284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kyamaguchi",
+  "html_url": "https://github.com/kyamaguchi",
+  "followers_url": "https://api.github.com/users/kyamaguchi/followers",
+  "following_url": "https://api.github.com/users/kyamaguchi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kyamaguchi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kyamaguchi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kyamaguchi/subscriptions",
+  "organizations_url": "https://api.github.com/users/kyamaguchi/orgs",
+  "repos_url": "https://api.github.com/users/kyamaguchi/repos",
+  "events_url": "https://api.github.com/users/kyamaguchi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kyamaguchi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

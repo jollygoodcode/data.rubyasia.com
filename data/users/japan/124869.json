@@ -1,0 +1,20 @@
+{
+  "login": "synclover",
+  "id": 124869,
+  "avatar_url": "https://avatars.githubusercontent.com/u/124869?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/synclover",
+  "html_url": "https://github.com/synclover",
+  "followers_url": "https://api.github.com/users/synclover/followers",
+  "following_url": "https://api.github.com/users/synclover/following{/other_user}",
+  "gists_url": "https://api.github.com/users/synclover/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/synclover/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/synclover/subscriptions",
+  "organizations_url": "https://api.github.com/users/synclover/orgs",
+  "repos_url": "https://api.github.com/users/synclover/repos",
+  "events_url": "https://api.github.com/users/synclover/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/synclover/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

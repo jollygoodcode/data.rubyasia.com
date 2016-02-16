@@ -1,0 +1,20 @@
+{
+  "login": "plusor",
+  "id": 659346,
+  "avatar_url": "https://avatars.githubusercontent.com/u/659346?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plusor",
+  "html_url": "https://github.com/plusor",
+  "followers_url": "https://api.github.com/users/plusor/followers",
+  "following_url": "https://api.github.com/users/plusor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plusor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plusor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plusor/subscriptions",
+  "organizations_url": "https://api.github.com/users/plusor/orgs",
+  "repos_url": "https://api.github.com/users/plusor/repos",
+  "events_url": "https://api.github.com/users/plusor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plusor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

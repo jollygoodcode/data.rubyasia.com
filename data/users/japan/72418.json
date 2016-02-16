@@ -1,0 +1,20 @@
+{
+  "login": "takuyan",
+  "id": 72418,
+  "avatar_url": "https://avatars.githubusercontent.com/u/72418?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takuyan",
+  "html_url": "https://github.com/takuyan",
+  "followers_url": "https://api.github.com/users/takuyan/followers",
+  "following_url": "https://api.github.com/users/takuyan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takuyan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takuyan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takuyan/subscriptions",
+  "organizations_url": "https://api.github.com/users/takuyan/orgs",
+  "repos_url": "https://api.github.com/users/takuyan/repos",
+  "events_url": "https://api.github.com/users/takuyan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takuyan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "enfk",
+  "id": 4049173,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4049173?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/enfk",
+  "html_url": "https://github.com/enfk",
+  "followers_url": "https://api.github.com/users/enfk/followers",
+  "following_url": "https://api.github.com/users/enfk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/enfk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/enfk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/enfk/subscriptions",
+  "organizations_url": "https://api.github.com/users/enfk/orgs",
+  "repos_url": "https://api.github.com/users/enfk/repos",
+  "events_url": "https://api.github.com/users/enfk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/enfk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

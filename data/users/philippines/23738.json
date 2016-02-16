@@ -1,0 +1,20 @@
+{
+  "login": "amdg",
+  "id": 23738,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23738?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amdg",
+  "html_url": "https://github.com/amdg",
+  "followers_url": "https://api.github.com/users/amdg/followers",
+  "following_url": "https://api.github.com/users/amdg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amdg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amdg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amdg/subscriptions",
+  "organizations_url": "https://api.github.com/users/amdg/orgs",
+  "repos_url": "https://api.github.com/users/amdg/repos",
+  "events_url": "https://api.github.com/users/amdg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amdg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

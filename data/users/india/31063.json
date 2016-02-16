@@ -1,0 +1,20 @@
+{
+  "login": "vikhyat",
+  "id": 31063,
+  "avatar_url": "https://avatars.githubusercontent.com/u/31063?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vikhyat",
+  "html_url": "https://github.com/vikhyat",
+  "followers_url": "https://api.github.com/users/vikhyat/followers",
+  "following_url": "https://api.github.com/users/vikhyat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vikhyat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vikhyat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vikhyat/subscriptions",
+  "organizations_url": "https://api.github.com/users/vikhyat/orgs",
+  "repos_url": "https://api.github.com/users/vikhyat/repos",
+  "events_url": "https://api.github.com/users/vikhyat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vikhyat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

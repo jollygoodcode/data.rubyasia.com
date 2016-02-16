@@ -1,0 +1,20 @@
+{
+  "login": "two-pack",
+  "id": 378981,
+  "avatar_url": "https://avatars.githubusercontent.com/u/378981?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/two-pack",
+  "html_url": "https://github.com/two-pack",
+  "followers_url": "https://api.github.com/users/two-pack/followers",
+  "following_url": "https://api.github.com/users/two-pack/following{/other_user}",
+  "gists_url": "https://api.github.com/users/two-pack/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/two-pack/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/two-pack/subscriptions",
+  "organizations_url": "https://api.github.com/users/two-pack/orgs",
+  "repos_url": "https://api.github.com/users/two-pack/repos",
+  "events_url": "https://api.github.com/users/two-pack/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/two-pack/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

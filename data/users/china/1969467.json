@@ -1,0 +1,20 @@
+{
+  "login": "zhangziran",
+  "id": 1969467,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1969467?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhangziran",
+  "html_url": "https://github.com/zhangziran",
+  "followers_url": "https://api.github.com/users/zhangziran/followers",
+  "following_url": "https://api.github.com/users/zhangziran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhangziran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhangziran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhangziran/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhangziran/orgs",
+  "repos_url": "https://api.github.com/users/zhangziran/repos",
+  "events_url": "https://api.github.com/users/zhangziran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhangziran/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

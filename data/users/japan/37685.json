@@ -1,0 +1,20 @@
+{
+  "login": "tmtysk",
+  "id": 37685,
+  "avatar_url": "https://avatars.githubusercontent.com/u/37685?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tmtysk",
+  "html_url": "https://github.com/tmtysk",
+  "followers_url": "https://api.github.com/users/tmtysk/followers",
+  "following_url": "https://api.github.com/users/tmtysk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tmtysk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tmtysk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tmtysk/subscriptions",
+  "organizations_url": "https://api.github.com/users/tmtysk/orgs",
+  "repos_url": "https://api.github.com/users/tmtysk/repos",
+  "events_url": "https://api.github.com/users/tmtysk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tmtysk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

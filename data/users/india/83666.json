@@ -1,0 +1,20 @@
+{
+  "login": "pykih",
+  "id": 83666,
+  "avatar_url": "https://avatars.githubusercontent.com/u/83666?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pykih",
+  "html_url": "https://github.com/pykih",
+  "followers_url": "https://api.github.com/users/pykih/followers",
+  "following_url": "https://api.github.com/users/pykih/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pykih/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pykih/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pykih/subscriptions",
+  "organizations_url": "https://api.github.com/users/pykih/orgs",
+  "repos_url": "https://api.github.com/users/pykih/repos",
+  "events_url": "https://api.github.com/users/pykih/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pykih/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

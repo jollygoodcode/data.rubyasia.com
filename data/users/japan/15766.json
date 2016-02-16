@@ -1,0 +1,20 @@
+{
+  "login": "yasuyuki",
+  "id": 15766,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15766?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yasuyuki",
+  "html_url": "https://github.com/yasuyuki",
+  "followers_url": "https://api.github.com/users/yasuyuki/followers",
+  "following_url": "https://api.github.com/users/yasuyuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yasuyuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yasuyuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yasuyuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/yasuyuki/orgs",
+  "repos_url": "https://api.github.com/users/yasuyuki/repos",
+  "events_url": "https://api.github.com/users/yasuyuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yasuyuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "objc-ja",
+  "id": 6760299,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6760299?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/objc-ja",
+  "html_url": "https://github.com/objc-ja",
+  "followers_url": "https://api.github.com/users/objc-ja/followers",
+  "following_url": "https://api.github.com/users/objc-ja/following{/other_user}",
+  "gists_url": "https://api.github.com/users/objc-ja/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/objc-ja/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/objc-ja/subscriptions",
+  "organizations_url": "https://api.github.com/users/objc-ja/orgs",
+  "repos_url": "https://api.github.com/users/objc-ja/repos",
+  "events_url": "https://api.github.com/users/objc-ja/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/objc-ja/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

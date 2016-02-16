@@ -1,0 +1,20 @@
+{
+  "login": "ootbdev",
+  "id": 2290114,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2290114?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ootbdev",
+  "html_url": "https://github.com/ootbdev",
+  "followers_url": "https://api.github.com/users/ootbdev/followers",
+  "following_url": "https://api.github.com/users/ootbdev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ootbdev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ootbdev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ootbdev/subscriptions",
+  "organizations_url": "https://api.github.com/users/ootbdev/orgs",
+  "repos_url": "https://api.github.com/users/ootbdev/repos",
+  "events_url": "https://api.github.com/users/ootbdev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ootbdev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

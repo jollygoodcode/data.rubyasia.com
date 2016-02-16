@@ -1,0 +1,20 @@
+{
+  "login": "SaitoWu",
+  "id": 348915,
+  "avatar_url": "https://avatars.githubusercontent.com/u/348915?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SaitoWu",
+  "html_url": "https://github.com/SaitoWu",
+  "followers_url": "https://api.github.com/users/SaitoWu/followers",
+  "following_url": "https://api.github.com/users/SaitoWu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SaitoWu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SaitoWu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SaitoWu/subscriptions",
+  "organizations_url": "https://api.github.com/users/SaitoWu/orgs",
+  "repos_url": "https://api.github.com/users/SaitoWu/repos",
+  "events_url": "https://api.github.com/users/SaitoWu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SaitoWu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

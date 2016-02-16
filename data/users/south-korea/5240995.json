@@ -1,0 +1,20 @@
+{
+  "login": "SungwooNam",
+  "id": 5240995,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5240995?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SungwooNam",
+  "html_url": "https://github.com/SungwooNam",
+  "followers_url": "https://api.github.com/users/SungwooNam/followers",
+  "following_url": "https://api.github.com/users/SungwooNam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SungwooNam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SungwooNam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SungwooNam/subscriptions",
+  "organizations_url": "https://api.github.com/users/SungwooNam/orgs",
+  "repos_url": "https://api.github.com/users/SungwooNam/repos",
+  "events_url": "https://api.github.com/users/SungwooNam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SungwooNam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

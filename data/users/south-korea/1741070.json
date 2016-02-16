@@ -1,0 +1,20 @@
+{
+  "login": "daesu",
+  "id": 1741070,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1741070?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daesu",
+  "html_url": "https://github.com/daesu",
+  "followers_url": "https://api.github.com/users/daesu/followers",
+  "following_url": "https://api.github.com/users/daesu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daesu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daesu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daesu/subscriptions",
+  "organizations_url": "https://api.github.com/users/daesu/orgs",
+  "repos_url": "https://api.github.com/users/daesu/repos",
+  "events_url": "https://api.github.com/users/daesu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daesu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

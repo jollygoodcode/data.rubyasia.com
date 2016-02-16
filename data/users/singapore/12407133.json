@@ -1,0 +1,20 @@
+{
+  "login": "sherrylwm",
+  "id": 12407133,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12407133?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sherrylwm",
+  "html_url": "https://github.com/sherrylwm",
+  "followers_url": "https://api.github.com/users/sherrylwm/followers",
+  "following_url": "https://api.github.com/users/sherrylwm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sherrylwm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sherrylwm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sherrylwm/subscriptions",
+  "organizations_url": "https://api.github.com/users/sherrylwm/orgs",
+  "repos_url": "https://api.github.com/users/sherrylwm/repos",
+  "events_url": "https://api.github.com/users/sherrylwm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sherrylwm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

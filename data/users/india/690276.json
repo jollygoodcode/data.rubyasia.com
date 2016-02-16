@@ -1,0 +1,20 @@
+{
+  "login": "codepodu",
+  "id": 690276,
+  "avatar_url": "https://avatars.githubusercontent.com/u/690276?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codepodu",
+  "html_url": "https://github.com/codepodu",
+  "followers_url": "https://api.github.com/users/codepodu/followers",
+  "following_url": "https://api.github.com/users/codepodu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codepodu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codepodu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codepodu/subscriptions",
+  "organizations_url": "https://api.github.com/users/codepodu/orgs",
+  "repos_url": "https://api.github.com/users/codepodu/repos",
+  "events_url": "https://api.github.com/users/codepodu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codepodu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

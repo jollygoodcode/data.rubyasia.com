@@ -1,0 +1,20 @@
+{
+  "login": "jmjlopez",
+  "id": 13337651,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13337651?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jmjlopez",
+  "html_url": "https://github.com/jmjlopez",
+  "followers_url": "https://api.github.com/users/jmjlopez/followers",
+  "following_url": "https://api.github.com/users/jmjlopez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jmjlopez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jmjlopez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jmjlopez/subscriptions",
+  "organizations_url": "https://api.github.com/users/jmjlopez/orgs",
+  "repos_url": "https://api.github.com/users/jmjlopez/repos",
+  "events_url": "https://api.github.com/users/jmjlopez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jmjlopez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

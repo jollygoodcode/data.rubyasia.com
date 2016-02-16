@@ -1,0 +1,20 @@
+{
+  "login": "helloHaifei",
+  "id": 3701263,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3701263?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/helloHaifei",
+  "html_url": "https://github.com/helloHaifei",
+  "followers_url": "https://api.github.com/users/helloHaifei/followers",
+  "following_url": "https://api.github.com/users/helloHaifei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/helloHaifei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/helloHaifei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/helloHaifei/subscriptions",
+  "organizations_url": "https://api.github.com/users/helloHaifei/orgs",
+  "repos_url": "https://api.github.com/users/helloHaifei/repos",
+  "events_url": "https://api.github.com/users/helloHaifei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/helloHaifei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

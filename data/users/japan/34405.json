@@ -1,0 +1,20 @@
+{
+  "login": "dan5",
+  "id": 34405,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34405?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dan5",
+  "html_url": "https://github.com/dan5",
+  "followers_url": "https://api.github.com/users/dan5/followers",
+  "following_url": "https://api.github.com/users/dan5/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dan5/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dan5/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dan5/subscriptions",
+  "organizations_url": "https://api.github.com/users/dan5/orgs",
+  "repos_url": "https://api.github.com/users/dan5/repos",
+  "events_url": "https://api.github.com/users/dan5/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dan5/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "NewBloggerTips",
+  "id": 3807082,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3807082?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NewBloggerTips",
+  "html_url": "https://github.com/NewBloggerTips",
+  "followers_url": "https://api.github.com/users/NewBloggerTips/followers",
+  "following_url": "https://api.github.com/users/NewBloggerTips/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NewBloggerTips/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NewBloggerTips/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NewBloggerTips/subscriptions",
+  "organizations_url": "https://api.github.com/users/NewBloggerTips/orgs",
+  "repos_url": "https://api.github.com/users/NewBloggerTips/repos",
+  "events_url": "https://api.github.com/users/NewBloggerTips/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NewBloggerTips/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

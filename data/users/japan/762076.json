@@ -1,0 +1,20 @@
+{
+  "login": "nihitok",
+  "id": 762076,
+  "avatar_url": "https://avatars.githubusercontent.com/u/762076?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nihitok",
+  "html_url": "https://github.com/nihitok",
+  "followers_url": "https://api.github.com/users/nihitok/followers",
+  "following_url": "https://api.github.com/users/nihitok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nihitok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nihitok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nihitok/subscriptions",
+  "organizations_url": "https://api.github.com/users/nihitok/orgs",
+  "repos_url": "https://api.github.com/users/nihitok/repos",
+  "events_url": "https://api.github.com/users/nihitok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nihitok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

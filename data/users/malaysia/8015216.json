@@ -1,0 +1,20 @@
+{
+  "login": "mrseed",
+  "id": 8015216,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8015216?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrseed",
+  "html_url": "https://github.com/mrseed",
+  "followers_url": "https://api.github.com/users/mrseed/followers",
+  "following_url": "https://api.github.com/users/mrseed/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrseed/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrseed/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrseed/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrseed/orgs",
+  "repos_url": "https://api.github.com/users/mrseed/repos",
+  "events_url": "https://api.github.com/users/mrseed/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrseed/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

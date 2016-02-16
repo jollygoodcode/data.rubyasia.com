@@ -1,0 +1,20 @@
+{
+  "login": "phuriku",
+  "id": 4954056,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4954056?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/phuriku",
+  "html_url": "https://github.com/phuriku",
+  "followers_url": "https://api.github.com/users/phuriku/followers",
+  "following_url": "https://api.github.com/users/phuriku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/phuriku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/phuriku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/phuriku/subscriptions",
+  "organizations_url": "https://api.github.com/users/phuriku/orgs",
+  "repos_url": "https://api.github.com/users/phuriku/repos",
+  "events_url": "https://api.github.com/users/phuriku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/phuriku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

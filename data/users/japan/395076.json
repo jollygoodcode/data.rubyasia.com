@@ -1,0 +1,20 @@
+{
+  "login": "axeofgood",
+  "id": 395076,
+  "avatar_url": "https://avatars.githubusercontent.com/u/395076?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/axeofgood",
+  "html_url": "https://github.com/axeofgood",
+  "followers_url": "https://api.github.com/users/axeofgood/followers",
+  "following_url": "https://api.github.com/users/axeofgood/following{/other_user}",
+  "gists_url": "https://api.github.com/users/axeofgood/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/axeofgood/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/axeofgood/subscriptions",
+  "organizations_url": "https://api.github.com/users/axeofgood/orgs",
+  "repos_url": "https://api.github.com/users/axeofgood/repos",
+  "events_url": "https://api.github.com/users/axeofgood/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/axeofgood/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "amidaku",
+  "id": 772004,
+  "avatar_url": "https://avatars.githubusercontent.com/u/772004?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amidaku",
+  "html_url": "https://github.com/amidaku",
+  "followers_url": "https://api.github.com/users/amidaku/followers",
+  "following_url": "https://api.github.com/users/amidaku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amidaku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amidaku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amidaku/subscriptions",
+  "organizations_url": "https://api.github.com/users/amidaku/orgs",
+  "repos_url": "https://api.github.com/users/amidaku/repos",
+  "events_url": "https://api.github.com/users/amidaku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amidaku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

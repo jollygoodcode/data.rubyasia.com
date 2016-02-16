@@ -1,0 +1,20 @@
+{
+  "login": "koksin",
+  "id": 6040780,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6040780?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/koksin",
+  "html_url": "https://github.com/koksin",
+  "followers_url": "https://api.github.com/users/koksin/followers",
+  "following_url": "https://api.github.com/users/koksin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/koksin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/koksin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/koksin/subscriptions",
+  "organizations_url": "https://api.github.com/users/koksin/orgs",
+  "repos_url": "https://api.github.com/users/koksin/repos",
+  "events_url": "https://api.github.com/users/koksin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/koksin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

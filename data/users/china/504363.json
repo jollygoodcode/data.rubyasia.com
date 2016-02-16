@@ -1,0 +1,20 @@
+{
+  "login": "ceciwang",
+  "id": 504363,
+  "avatar_url": "https://avatars.githubusercontent.com/u/504363?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ceciwang",
+  "html_url": "https://github.com/ceciwang",
+  "followers_url": "https://api.github.com/users/ceciwang/followers",
+  "following_url": "https://api.github.com/users/ceciwang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ceciwang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ceciwang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ceciwang/subscriptions",
+  "organizations_url": "https://api.github.com/users/ceciwang/orgs",
+  "repos_url": "https://api.github.com/users/ceciwang/repos",
+  "events_url": "https://api.github.com/users/ceciwang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ceciwang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

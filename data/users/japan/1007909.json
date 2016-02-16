@@ -1,0 +1,20 @@
+{
+  "login": "logicarythm",
+  "id": 1007909,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1007909?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/logicarythm",
+  "html_url": "https://github.com/logicarythm",
+  "followers_url": "https://api.github.com/users/logicarythm/followers",
+  "following_url": "https://api.github.com/users/logicarythm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/logicarythm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/logicarythm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/logicarythm/subscriptions",
+  "organizations_url": "https://api.github.com/users/logicarythm/orgs",
+  "repos_url": "https://api.github.com/users/logicarythm/repos",
+  "events_url": "https://api.github.com/users/logicarythm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/logicarythm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

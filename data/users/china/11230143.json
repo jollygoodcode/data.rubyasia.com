@@ -1,0 +1,20 @@
+{
+  "login": "oneforgit",
+  "id": 11230143,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11230143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oneforgit",
+  "html_url": "https://github.com/oneforgit",
+  "followers_url": "https://api.github.com/users/oneforgit/followers",
+  "following_url": "https://api.github.com/users/oneforgit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oneforgit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oneforgit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oneforgit/subscriptions",
+  "organizations_url": "https://api.github.com/users/oneforgit/orgs",
+  "repos_url": "https://api.github.com/users/oneforgit/repos",
+  "events_url": "https://api.github.com/users/oneforgit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oneforgit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

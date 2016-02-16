@@ -1,0 +1,20 @@
+{
+  "login": "oyster",
+  "id": 116719,
+  "avatar_url": "https://avatars.githubusercontent.com/u/116719?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oyster",
+  "html_url": "https://github.com/oyster",
+  "followers_url": "https://api.github.com/users/oyster/followers",
+  "following_url": "https://api.github.com/users/oyster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oyster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oyster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oyster/subscriptions",
+  "organizations_url": "https://api.github.com/users/oyster/orgs",
+  "repos_url": "https://api.github.com/users/oyster/repos",
+  "events_url": "https://api.github.com/users/oyster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oyster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

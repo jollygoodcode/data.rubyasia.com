@@ -1,0 +1,20 @@
+{
+  "login": "shameed",
+  "id": 1008068,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1008068?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shameed",
+  "html_url": "https://github.com/shameed",
+  "followers_url": "https://api.github.com/users/shameed/followers",
+  "following_url": "https://api.github.com/users/shameed/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shameed/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shameed/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shameed/subscriptions",
+  "organizations_url": "https://api.github.com/users/shameed/orgs",
+  "repos_url": "https://api.github.com/users/shameed/repos",
+  "events_url": "https://api.github.com/users/shameed/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shameed/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

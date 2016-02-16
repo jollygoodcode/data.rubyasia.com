@@ -1,0 +1,20 @@
+{
+  "login": "cookpad",
+  "id": 119195,
+  "avatar_url": "https://avatars.githubusercontent.com/u/119195?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cookpad",
+  "html_url": "https://github.com/cookpad",
+  "followers_url": "https://api.github.com/users/cookpad/followers",
+  "following_url": "https://api.github.com/users/cookpad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cookpad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cookpad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cookpad/subscriptions",
+  "organizations_url": "https://api.github.com/users/cookpad/orgs",
+  "repos_url": "https://api.github.com/users/cookpad/repos",
+  "events_url": "https://api.github.com/users/cookpad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cookpad/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

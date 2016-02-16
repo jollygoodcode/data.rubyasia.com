@@ -1,0 +1,20 @@
+{
+  "login": "footo",
+  "id": 3157336,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3157336?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/footo",
+  "html_url": "https://github.com/footo",
+  "followers_url": "https://api.github.com/users/footo/followers",
+  "following_url": "https://api.github.com/users/footo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/footo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/footo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/footo/subscriptions",
+  "organizations_url": "https://api.github.com/users/footo/orgs",
+  "repos_url": "https://api.github.com/users/footo/repos",
+  "events_url": "https://api.github.com/users/footo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/footo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

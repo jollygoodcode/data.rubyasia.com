@@ -1,0 +1,20 @@
+{
+  "login": "vicbui",
+  "id": 2470183,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2470183?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vicbui",
+  "html_url": "https://github.com/vicbui",
+  "followers_url": "https://api.github.com/users/vicbui/followers",
+  "following_url": "https://api.github.com/users/vicbui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vicbui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vicbui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vicbui/subscriptions",
+  "organizations_url": "https://api.github.com/users/vicbui/orgs",
+  "repos_url": "https://api.github.com/users/vicbui/repos",
+  "events_url": "https://api.github.com/users/vicbui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vicbui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

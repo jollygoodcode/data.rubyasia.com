@@ -1,0 +1,20 @@
+{
+  "login": "gokure",
+  "id": 88591,
+  "avatar_url": "https://avatars.githubusercontent.com/u/88591?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gokure",
+  "html_url": "https://github.com/gokure",
+  "followers_url": "https://api.github.com/users/gokure/followers",
+  "following_url": "https://api.github.com/users/gokure/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gokure/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gokure/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gokure/subscriptions",
+  "organizations_url": "https://api.github.com/users/gokure/orgs",
+  "repos_url": "https://api.github.com/users/gokure/repos",
+  "events_url": "https://api.github.com/users/gokure/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gokure/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

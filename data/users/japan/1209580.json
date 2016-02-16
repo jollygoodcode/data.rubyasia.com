@@ -1,0 +1,20 @@
+{
+  "login": "euledge",
+  "id": 1209580,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1209580?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/euledge",
+  "html_url": "https://github.com/euledge",
+  "followers_url": "https://api.github.com/users/euledge/followers",
+  "following_url": "https://api.github.com/users/euledge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/euledge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/euledge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/euledge/subscriptions",
+  "organizations_url": "https://api.github.com/users/euledge/orgs",
+  "repos_url": "https://api.github.com/users/euledge/repos",
+  "events_url": "https://api.github.com/users/euledge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/euledge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

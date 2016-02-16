@@ -1,0 +1,20 @@
+{
+  "login": "gfolo",
+  "id": 6870778,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6870778?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gfolo",
+  "html_url": "https://github.com/gfolo",
+  "followers_url": "https://api.github.com/users/gfolo/followers",
+  "following_url": "https://api.github.com/users/gfolo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gfolo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gfolo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gfolo/subscriptions",
+  "organizations_url": "https://api.github.com/users/gfolo/orgs",
+  "repos_url": "https://api.github.com/users/gfolo/repos",
+  "events_url": "https://api.github.com/users/gfolo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gfolo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

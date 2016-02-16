@@ -1,0 +1,20 @@
+{
+  "login": "straypacket",
+  "id": 848384,
+  "avatar_url": "https://avatars.githubusercontent.com/u/848384?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/straypacket",
+  "html_url": "https://github.com/straypacket",
+  "followers_url": "https://api.github.com/users/straypacket/followers",
+  "following_url": "https://api.github.com/users/straypacket/following{/other_user}",
+  "gists_url": "https://api.github.com/users/straypacket/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/straypacket/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/straypacket/subscriptions",
+  "organizations_url": "https://api.github.com/users/straypacket/orgs",
+  "repos_url": "https://api.github.com/users/straypacket/repos",
+  "events_url": "https://api.github.com/users/straypacket/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/straypacket/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

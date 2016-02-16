@@ -1,0 +1,20 @@
+{
+  "login": "biwakonbu",
+  "id": 1105736,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1105736?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/biwakonbu",
+  "html_url": "https://github.com/biwakonbu",
+  "followers_url": "https://api.github.com/users/biwakonbu/followers",
+  "following_url": "https://api.github.com/users/biwakonbu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/biwakonbu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/biwakonbu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/biwakonbu/subscriptions",
+  "organizations_url": "https://api.github.com/users/biwakonbu/orgs",
+  "repos_url": "https://api.github.com/users/biwakonbu/repos",
+  "events_url": "https://api.github.com/users/biwakonbu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/biwakonbu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

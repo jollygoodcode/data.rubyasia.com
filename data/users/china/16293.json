@@ -1,0 +1,20 @@
+{
+  "login": "zhong",
+  "id": 16293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhong",
+  "html_url": "https://github.com/zhong",
+  "followers_url": "https://api.github.com/users/zhong/followers",
+  "following_url": "https://api.github.com/users/zhong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhong/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhong/orgs",
+  "repos_url": "https://api.github.com/users/zhong/repos",
+  "events_url": "https://api.github.com/users/zhong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

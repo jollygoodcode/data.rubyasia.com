@@ -1,0 +1,20 @@
+{
+  "login": "tors",
+  "id": 106770,
+  "avatar_url": "https://avatars.githubusercontent.com/u/106770?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tors",
+  "html_url": "https://github.com/tors",
+  "followers_url": "https://api.github.com/users/tors/followers",
+  "following_url": "https://api.github.com/users/tors/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tors/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tors/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tors/subscriptions",
+  "organizations_url": "https://api.github.com/users/tors/orgs",
+  "repos_url": "https://api.github.com/users/tors/repos",
+  "events_url": "https://api.github.com/users/tors/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tors/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

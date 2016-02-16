@@ -1,0 +1,20 @@
+{
+  "login": "chagel",
+  "id": 90943,
+  "avatar_url": "https://avatars.githubusercontent.com/u/90943?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chagel",
+  "html_url": "https://github.com/chagel",
+  "followers_url": "https://api.github.com/users/chagel/followers",
+  "following_url": "https://api.github.com/users/chagel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chagel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chagel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chagel/subscriptions",
+  "organizations_url": "https://api.github.com/users/chagel/orgs",
+  "repos_url": "https://api.github.com/users/chagel/repos",
+  "events_url": "https://api.github.com/users/chagel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chagel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

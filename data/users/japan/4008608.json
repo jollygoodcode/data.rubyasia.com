@@ -1,0 +1,20 @@
+{
+  "login": "Morred",
+  "id": 4008608,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4008608?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Morred",
+  "html_url": "https://github.com/Morred",
+  "followers_url": "https://api.github.com/users/Morred/followers",
+  "following_url": "https://api.github.com/users/Morred/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Morred/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Morred/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Morred/subscriptions",
+  "organizations_url": "https://api.github.com/users/Morred/orgs",
+  "repos_url": "https://api.github.com/users/Morred/repos",
+  "events_url": "https://api.github.com/users/Morred/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Morred/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

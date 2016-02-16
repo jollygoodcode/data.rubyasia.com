@@ -1,0 +1,20 @@
+{
+  "login": "samnang",
+  "id": 131172,
+  "avatar_url": "https://avatars.githubusercontent.com/u/131172?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/samnang",
+  "html_url": "https://github.com/samnang",
+  "followers_url": "https://api.github.com/users/samnang/followers",
+  "following_url": "https://api.github.com/users/samnang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/samnang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/samnang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/samnang/subscriptions",
+  "organizations_url": "https://api.github.com/users/samnang/orgs",
+  "repos_url": "https://api.github.com/users/samnang/repos",
+  "events_url": "https://api.github.com/users/samnang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/samnang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

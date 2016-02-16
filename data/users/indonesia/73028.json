@@ -1,0 +1,20 @@
+{
+  "login": "subosito",
+  "id": 73028,
+  "avatar_url": "https://avatars.githubusercontent.com/u/73028?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/subosito",
+  "html_url": "https://github.com/subosito",
+  "followers_url": "https://api.github.com/users/subosito/followers",
+  "following_url": "https://api.github.com/users/subosito/following{/other_user}",
+  "gists_url": "https://api.github.com/users/subosito/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/subosito/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/subosito/subscriptions",
+  "organizations_url": "https://api.github.com/users/subosito/orgs",
+  "repos_url": "https://api.github.com/users/subosito/repos",
+  "events_url": "https://api.github.com/users/subosito/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/subosito/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

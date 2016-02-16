@@ -1,0 +1,20 @@
+{
+  "login": "asagin",
+  "id": 7472041,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7472041?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asagin",
+  "html_url": "https://github.com/asagin",
+  "followers_url": "https://api.github.com/users/asagin/followers",
+  "following_url": "https://api.github.com/users/asagin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asagin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asagin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asagin/subscriptions",
+  "organizations_url": "https://api.github.com/users/asagin/orgs",
+  "repos_url": "https://api.github.com/users/asagin/repos",
+  "events_url": "https://api.github.com/users/asagin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asagin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "cbrunnkvist",
+  "id": 34006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cbrunnkvist",
+  "html_url": "https://github.com/cbrunnkvist",
+  "followers_url": "https://api.github.com/users/cbrunnkvist/followers",
+  "following_url": "https://api.github.com/users/cbrunnkvist/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cbrunnkvist/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cbrunnkvist/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cbrunnkvist/subscriptions",
+  "organizations_url": "https://api.github.com/users/cbrunnkvist/orgs",
+  "repos_url": "https://api.github.com/users/cbrunnkvist/repos",
+  "events_url": "https://api.github.com/users/cbrunnkvist/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cbrunnkvist/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

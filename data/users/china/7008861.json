@@ -1,0 +1,20 @@
+{
+  "login": "lungothrin",
+  "id": 7008861,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7008861?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lungothrin",
+  "html_url": "https://github.com/lungothrin",
+  "followers_url": "https://api.github.com/users/lungothrin/followers",
+  "following_url": "https://api.github.com/users/lungothrin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lungothrin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lungothrin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lungothrin/subscriptions",
+  "organizations_url": "https://api.github.com/users/lungothrin/orgs",
+  "repos_url": "https://api.github.com/users/lungothrin/repos",
+  "events_url": "https://api.github.com/users/lungothrin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lungothrin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

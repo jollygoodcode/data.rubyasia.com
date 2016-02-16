@@ -1,0 +1,20 @@
+{
+  "login": "calebprashant",
+  "id": 411267,
+  "avatar_url": "https://avatars.githubusercontent.com/u/411267?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/calebprashant",
+  "html_url": "https://github.com/calebprashant",
+  "followers_url": "https://api.github.com/users/calebprashant/followers",
+  "following_url": "https://api.github.com/users/calebprashant/following{/other_user}",
+  "gists_url": "https://api.github.com/users/calebprashant/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/calebprashant/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/calebprashant/subscriptions",
+  "organizations_url": "https://api.github.com/users/calebprashant/orgs",
+  "repos_url": "https://api.github.com/users/calebprashant/repos",
+  "events_url": "https://api.github.com/users/calebprashant/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/calebprashant/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

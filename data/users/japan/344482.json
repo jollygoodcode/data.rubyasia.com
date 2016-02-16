@@ -1,0 +1,20 @@
+{
+  "login": "coffeecoa",
+  "id": 344482,
+  "avatar_url": "https://avatars.githubusercontent.com/u/344482?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coffeecoa",
+  "html_url": "https://github.com/coffeecoa",
+  "followers_url": "https://api.github.com/users/coffeecoa/followers",
+  "following_url": "https://api.github.com/users/coffeecoa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coffeecoa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coffeecoa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coffeecoa/subscriptions",
+  "organizations_url": "https://api.github.com/users/coffeecoa/orgs",
+  "repos_url": "https://api.github.com/users/coffeecoa/repos",
+  "events_url": "https://api.github.com/users/coffeecoa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coffeecoa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

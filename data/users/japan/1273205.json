@@ -1,0 +1,20 @@
+{
+  "login": "yoshizow",
+  "id": 1273205,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1273205?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoshizow",
+  "html_url": "https://github.com/yoshizow",
+  "followers_url": "https://api.github.com/users/yoshizow/followers",
+  "following_url": "https://api.github.com/users/yoshizow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoshizow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoshizow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoshizow/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoshizow/orgs",
+  "repos_url": "https://api.github.com/users/yoshizow/repos",
+  "events_url": "https://api.github.com/users/yoshizow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoshizow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lingochamp",
+  "id": 7429349,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7429349?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lingochamp",
+  "html_url": "https://github.com/lingochamp",
+  "followers_url": "https://api.github.com/users/lingochamp/followers",
+  "following_url": "https://api.github.com/users/lingochamp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lingochamp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lingochamp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lingochamp/subscriptions",
+  "organizations_url": "https://api.github.com/users/lingochamp/orgs",
+  "repos_url": "https://api.github.com/users/lingochamp/repos",
+  "events_url": "https://api.github.com/users/lingochamp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lingochamp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

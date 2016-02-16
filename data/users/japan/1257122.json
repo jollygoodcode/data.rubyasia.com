@@ -1,0 +1,20 @@
+{
+  "login": "snowsunny",
+  "id": 1257122,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1257122?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/snowsunny",
+  "html_url": "https://github.com/snowsunny",
+  "followers_url": "https://api.github.com/users/snowsunny/followers",
+  "following_url": "https://api.github.com/users/snowsunny/following{/other_user}",
+  "gists_url": "https://api.github.com/users/snowsunny/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/snowsunny/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/snowsunny/subscriptions",
+  "organizations_url": "https://api.github.com/users/snowsunny/orgs",
+  "repos_url": "https://api.github.com/users/snowsunny/repos",
+  "events_url": "https://api.github.com/users/snowsunny/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/snowsunny/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "LeeXun",
+  "id": 12629194,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12629194?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LeeXun",
+  "html_url": "https://github.com/LeeXun",
+  "followers_url": "https://api.github.com/users/LeeXun/followers",
+  "following_url": "https://api.github.com/users/LeeXun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LeeXun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LeeXun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LeeXun/subscriptions",
+  "organizations_url": "https://api.github.com/users/LeeXun/orgs",
+  "repos_url": "https://api.github.com/users/LeeXun/repos",
+  "events_url": "https://api.github.com/users/LeeXun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LeeXun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

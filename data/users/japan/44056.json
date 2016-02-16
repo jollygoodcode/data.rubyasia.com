@@ -1,0 +1,20 @@
+{
+  "login": "tokida",
+  "id": 44056,
+  "avatar_url": "https://avatars.githubusercontent.com/u/44056?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tokida",
+  "html_url": "https://github.com/tokida",
+  "followers_url": "https://api.github.com/users/tokida/followers",
+  "following_url": "https://api.github.com/users/tokida/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tokida/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tokida/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tokida/subscriptions",
+  "organizations_url": "https://api.github.com/users/tokida/orgs",
+  "repos_url": "https://api.github.com/users/tokida/repos",
+  "events_url": "https://api.github.com/users/tokida/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tokida/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tkmr",
+  "id": 8937,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8937?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tkmr",
+  "html_url": "https://github.com/tkmr",
+  "followers_url": "https://api.github.com/users/tkmr/followers",
+  "following_url": "https://api.github.com/users/tkmr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tkmr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tkmr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tkmr/subscriptions",
+  "organizations_url": "https://api.github.com/users/tkmr/orgs",
+  "repos_url": "https://api.github.com/users/tkmr/repos",
+  "events_url": "https://api.github.com/users/tkmr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tkmr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

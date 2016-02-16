@@ -1,0 +1,20 @@
+{
+  "login": "rantan",
+  "id": 134133,
+  "avatar_url": "https://avatars.githubusercontent.com/u/134133?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rantan",
+  "html_url": "https://github.com/rantan",
+  "followers_url": "https://api.github.com/users/rantan/followers",
+  "following_url": "https://api.github.com/users/rantan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rantan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rantan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rantan/subscriptions",
+  "organizations_url": "https://api.github.com/users/rantan/orgs",
+  "repos_url": "https://api.github.com/users/rantan/repos",
+  "events_url": "https://api.github.com/users/rantan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rantan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

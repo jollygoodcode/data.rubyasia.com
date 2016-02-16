@@ -1,0 +1,20 @@
+{
+  "login": "asang",
+  "id": 421907,
+  "avatar_url": "https://avatars.githubusercontent.com/u/421907?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asang",
+  "html_url": "https://github.com/asang",
+  "followers_url": "https://api.github.com/users/asang/followers",
+  "following_url": "https://api.github.com/users/asang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asang/subscriptions",
+  "organizations_url": "https://api.github.com/users/asang/orgs",
+  "repos_url": "https://api.github.com/users/asang/repos",
+  "events_url": "https://api.github.com/users/asang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "urbanladder",
+  "id": 4828844,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4828844?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/urbanladder",
+  "html_url": "https://github.com/urbanladder",
+  "followers_url": "https://api.github.com/users/urbanladder/followers",
+  "following_url": "https://api.github.com/users/urbanladder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/urbanladder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/urbanladder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/urbanladder/subscriptions",
+  "organizations_url": "https://api.github.com/users/urbanladder/orgs",
+  "repos_url": "https://api.github.com/users/urbanladder/repos",
+  "events_url": "https://api.github.com/users/urbanladder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/urbanladder/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

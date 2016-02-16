@@ -1,0 +1,20 @@
+{
+  "login": "fudan10u",
+  "id": 670909,
+  "avatar_url": "https://avatars.githubusercontent.com/u/670909?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fudan10u",
+  "html_url": "https://github.com/fudan10u",
+  "followers_url": "https://api.github.com/users/fudan10u/followers",
+  "following_url": "https://api.github.com/users/fudan10u/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fudan10u/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fudan10u/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fudan10u/subscriptions",
+  "organizations_url": "https://api.github.com/users/fudan10u/orgs",
+  "repos_url": "https://api.github.com/users/fudan10u/repos",
+  "events_url": "https://api.github.com/users/fudan10u/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fudan10u/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

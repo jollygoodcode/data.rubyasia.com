@@ -1,0 +1,20 @@
+{
+  "login": "marcolinux",
+  "id": 1226730,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1226730?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marcolinux",
+  "html_url": "https://github.com/marcolinux",
+  "followers_url": "https://api.github.com/users/marcolinux/followers",
+  "following_url": "https://api.github.com/users/marcolinux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marcolinux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marcolinux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marcolinux/subscriptions",
+  "organizations_url": "https://api.github.com/users/marcolinux/orgs",
+  "repos_url": "https://api.github.com/users/marcolinux/repos",
+  "events_url": "https://api.github.com/users/marcolinux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marcolinux/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

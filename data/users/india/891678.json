@@ -1,0 +1,20 @@
+{
+  "login": "filvo",
+  "id": 891678,
+  "avatar_url": "https://avatars.githubusercontent.com/u/891678?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/filvo",
+  "html_url": "https://github.com/filvo",
+  "followers_url": "https://api.github.com/users/filvo/followers",
+  "following_url": "https://api.github.com/users/filvo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/filvo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/filvo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/filvo/subscriptions",
+  "organizations_url": "https://api.github.com/users/filvo/orgs",
+  "repos_url": "https://api.github.com/users/filvo/repos",
+  "events_url": "https://api.github.com/users/filvo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/filvo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

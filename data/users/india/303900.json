@@ -1,0 +1,20 @@
+{
+  "login": "rcanand",
+  "id": 303900,
+  "avatar_url": "https://avatars.githubusercontent.com/u/303900?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rcanand",
+  "html_url": "https://github.com/rcanand",
+  "followers_url": "https://api.github.com/users/rcanand/followers",
+  "following_url": "https://api.github.com/users/rcanand/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rcanand/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rcanand/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rcanand/subscriptions",
+  "organizations_url": "https://api.github.com/users/rcanand/orgs",
+  "repos_url": "https://api.github.com/users/rcanand/repos",
+  "events_url": "https://api.github.com/users/rcanand/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rcanand/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

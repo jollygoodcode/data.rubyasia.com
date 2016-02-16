@@ -1,0 +1,20 @@
+{
+  "login": "CoreMark",
+  "id": 1180543,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1180543?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CoreMark",
+  "html_url": "https://github.com/CoreMark",
+  "followers_url": "https://api.github.com/users/CoreMark/followers",
+  "following_url": "https://api.github.com/users/CoreMark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CoreMark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CoreMark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CoreMark/subscriptions",
+  "organizations_url": "https://api.github.com/users/CoreMark/orgs",
+  "repos_url": "https://api.github.com/users/CoreMark/repos",
+  "events_url": "https://api.github.com/users/CoreMark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CoreMark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

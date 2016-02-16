@@ -1,0 +1,20 @@
+{
+  "login": "bluefishers",
+  "id": 10721841,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10721841?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bluefishers",
+  "html_url": "https://github.com/bluefishers",
+  "followers_url": "https://api.github.com/users/bluefishers/followers",
+  "following_url": "https://api.github.com/users/bluefishers/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bluefishers/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bluefishers/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bluefishers/subscriptions",
+  "organizations_url": "https://api.github.com/users/bluefishers/orgs",
+  "repos_url": "https://api.github.com/users/bluefishers/repos",
+  "events_url": "https://api.github.com/users/bluefishers/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bluefishers/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

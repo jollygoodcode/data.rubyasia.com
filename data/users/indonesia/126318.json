@@ -1,0 +1,20 @@
+{
+  "login": "jaycode",
+  "id": 126318,
+  "avatar_url": "https://avatars.githubusercontent.com/u/126318?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jaycode",
+  "html_url": "https://github.com/jaycode",
+  "followers_url": "https://api.github.com/users/jaycode/followers",
+  "following_url": "https://api.github.com/users/jaycode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jaycode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jaycode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jaycode/subscriptions",
+  "organizations_url": "https://api.github.com/users/jaycode/orgs",
+  "repos_url": "https://api.github.com/users/jaycode/repos",
+  "events_url": "https://api.github.com/users/jaycode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jaycode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

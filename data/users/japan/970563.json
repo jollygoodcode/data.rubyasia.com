@@ -1,0 +1,20 @@
+{
+  "login": "hazymoon",
+  "id": 970563,
+  "avatar_url": "https://avatars.githubusercontent.com/u/970563?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hazymoon",
+  "html_url": "https://github.com/hazymoon",
+  "followers_url": "https://api.github.com/users/hazymoon/followers",
+  "following_url": "https://api.github.com/users/hazymoon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hazymoon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hazymoon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hazymoon/subscriptions",
+  "organizations_url": "https://api.github.com/users/hazymoon/orgs",
+  "repos_url": "https://api.github.com/users/hazymoon/repos",
+  "events_url": "https://api.github.com/users/hazymoon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hazymoon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "simonpang",
+  "id": 221950,
+  "avatar_url": "https://avatars.githubusercontent.com/u/221950?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simonpang",
+  "html_url": "https://github.com/simonpang",
+  "followers_url": "https://api.github.com/users/simonpang/followers",
+  "following_url": "https://api.github.com/users/simonpang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simonpang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simonpang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simonpang/subscriptions",
+  "organizations_url": "https://api.github.com/users/simonpang/orgs",
+  "repos_url": "https://api.github.com/users/simonpang/repos",
+  "events_url": "https://api.github.com/users/simonpang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simonpang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "anjanhatuwal",
+  "id": 4646676,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4646676?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anjanhatuwal",
+  "html_url": "https://github.com/anjanhatuwal",
+  "followers_url": "https://api.github.com/users/anjanhatuwal/followers",
+  "following_url": "https://api.github.com/users/anjanhatuwal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anjanhatuwal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anjanhatuwal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anjanhatuwal/subscriptions",
+  "organizations_url": "https://api.github.com/users/anjanhatuwal/orgs",
+  "repos_url": "https://api.github.com/users/anjanhatuwal/repos",
+  "events_url": "https://api.github.com/users/anjanhatuwal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anjanhatuwal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

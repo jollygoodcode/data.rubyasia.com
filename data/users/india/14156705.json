@@ -1,0 +1,20 @@
+{
+  "login": "verlegen",
+  "id": 14156705,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14156705?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/verlegen",
+  "html_url": "https://github.com/verlegen",
+  "followers_url": "https://api.github.com/users/verlegen/followers",
+  "following_url": "https://api.github.com/users/verlegen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/verlegen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/verlegen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/verlegen/subscriptions",
+  "organizations_url": "https://api.github.com/users/verlegen/orgs",
+  "repos_url": "https://api.github.com/users/verlegen/repos",
+  "events_url": "https://api.github.com/users/verlegen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/verlegen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

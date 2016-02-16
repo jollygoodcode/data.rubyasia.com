@@ -1,0 +1,20 @@
+{
+  "login": "yurakawa",
+  "id": 2818271,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2818271?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yurakawa",
+  "html_url": "https://github.com/yurakawa",
+  "followers_url": "https://api.github.com/users/yurakawa/followers",
+  "following_url": "https://api.github.com/users/yurakawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yurakawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yurakawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yurakawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/yurakawa/orgs",
+  "repos_url": "https://api.github.com/users/yurakawa/repos",
+  "events_url": "https://api.github.com/users/yurakawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yurakawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

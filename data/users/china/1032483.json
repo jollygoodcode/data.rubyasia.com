@@ -1,0 +1,20 @@
+{
+  "login": "williamherry",
+  "id": 1032483,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1032483?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/williamherry",
+  "html_url": "https://github.com/williamherry",
+  "followers_url": "https://api.github.com/users/williamherry/followers",
+  "following_url": "https://api.github.com/users/williamherry/following{/other_user}",
+  "gists_url": "https://api.github.com/users/williamherry/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/williamherry/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/williamherry/subscriptions",
+  "organizations_url": "https://api.github.com/users/williamherry/orgs",
+  "repos_url": "https://api.github.com/users/williamherry/repos",
+  "events_url": "https://api.github.com/users/williamherry/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/williamherry/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

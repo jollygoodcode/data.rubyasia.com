@@ -1,0 +1,20 @@
+{
+  "login": "jvsomething",
+  "id": 4724073,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4724073?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jvsomething",
+  "html_url": "https://github.com/jvsomething",
+  "followers_url": "https://api.github.com/users/jvsomething/followers",
+  "following_url": "https://api.github.com/users/jvsomething/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jvsomething/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jvsomething/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jvsomething/subscriptions",
+  "organizations_url": "https://api.github.com/users/jvsomething/orgs",
+  "repos_url": "https://api.github.com/users/jvsomething/repos",
+  "events_url": "https://api.github.com/users/jvsomething/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jvsomething/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "aulia",
+  "id": 157453,
+  "avatar_url": "https://avatars.githubusercontent.com/u/157453?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aulia",
+  "html_url": "https://github.com/aulia",
+  "followers_url": "https://api.github.com/users/aulia/followers",
+  "following_url": "https://api.github.com/users/aulia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aulia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aulia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aulia/subscriptions",
+  "organizations_url": "https://api.github.com/users/aulia/orgs",
+  "repos_url": "https://api.github.com/users/aulia/repos",
+  "events_url": "https://api.github.com/users/aulia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aulia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

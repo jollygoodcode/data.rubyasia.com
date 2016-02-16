@@ -1,0 +1,20 @@
+{
+  "login": "zeya",
+  "id": 224350,
+  "avatar_url": "https://avatars.githubusercontent.com/u/224350?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zeya",
+  "html_url": "https://github.com/zeya",
+  "followers_url": "https://api.github.com/users/zeya/followers",
+  "following_url": "https://api.github.com/users/zeya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zeya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zeya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zeya/subscriptions",
+  "organizations_url": "https://api.github.com/users/zeya/orgs",
+  "repos_url": "https://api.github.com/users/zeya/repos",
+  "events_url": "https://api.github.com/users/zeya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zeya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

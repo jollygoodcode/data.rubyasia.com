@@ -1,0 +1,20 @@
+{
+  "login": "futonaka",
+  "id": 194360,
+  "avatar_url": "https://avatars.githubusercontent.com/u/194360?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/futonaka",
+  "html_url": "https://github.com/futonaka",
+  "followers_url": "https://api.github.com/users/futonaka/followers",
+  "following_url": "https://api.github.com/users/futonaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/futonaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/futonaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/futonaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/futonaka/orgs",
+  "repos_url": "https://api.github.com/users/futonaka/repos",
+  "events_url": "https://api.github.com/users/futonaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/futonaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

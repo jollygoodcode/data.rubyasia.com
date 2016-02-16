@@ -1,0 +1,20 @@
+{
+  "login": "wangwang",
+  "id": 1217798,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1217798?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wangwang",
+  "html_url": "https://github.com/wangwang",
+  "followers_url": "https://api.github.com/users/wangwang/followers",
+  "following_url": "https://api.github.com/users/wangwang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wangwang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wangwang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wangwang/subscriptions",
+  "organizations_url": "https://api.github.com/users/wangwang/orgs",
+  "repos_url": "https://api.github.com/users/wangwang/repos",
+  "events_url": "https://api.github.com/users/wangwang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wangwang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

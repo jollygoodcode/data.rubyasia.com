@@ -1,0 +1,20 @@
+{
+  "login": "mitsut",
+  "id": 2193540,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2193540?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mitsut",
+  "html_url": "https://github.com/mitsut",
+  "followers_url": "https://api.github.com/users/mitsut/followers",
+  "following_url": "https://api.github.com/users/mitsut/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mitsut/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mitsut/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mitsut/subscriptions",
+  "organizations_url": "https://api.github.com/users/mitsut/orgs",
+  "repos_url": "https://api.github.com/users/mitsut/repos",
+  "events_url": "https://api.github.com/users/mitsut/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mitsut/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sgibbons",
+  "id": 426006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/426006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sgibbons",
+  "html_url": "https://github.com/sgibbons",
+  "followers_url": "https://api.github.com/users/sgibbons/followers",
+  "following_url": "https://api.github.com/users/sgibbons/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sgibbons/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sgibbons/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sgibbons/subscriptions",
+  "organizations_url": "https://api.github.com/users/sgibbons/orgs",
+  "repos_url": "https://api.github.com/users/sgibbons/repos",
+  "events_url": "https://api.github.com/users/sgibbons/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sgibbons/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hunkshi",
+  "id": 1635367,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1635367?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hunkshi",
+  "html_url": "https://github.com/hunkshi",
+  "followers_url": "https://api.github.com/users/hunkshi/followers",
+  "following_url": "https://api.github.com/users/hunkshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hunkshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hunkshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hunkshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/hunkshi/orgs",
+  "repos_url": "https://api.github.com/users/hunkshi/repos",
+  "events_url": "https://api.github.com/users/hunkshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hunkshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

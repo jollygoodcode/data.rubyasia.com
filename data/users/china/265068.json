@@ -1,0 +1,20 @@
+{
+  "login": "heymanchen",
+  "id": 265068,
+  "avatar_url": "https://avatars.githubusercontent.com/u/265068?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/heymanchen",
+  "html_url": "https://github.com/heymanchen",
+  "followers_url": "https://api.github.com/users/heymanchen/followers",
+  "following_url": "https://api.github.com/users/heymanchen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/heymanchen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/heymanchen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/heymanchen/subscriptions",
+  "organizations_url": "https://api.github.com/users/heymanchen/orgs",
+  "repos_url": "https://api.github.com/users/heymanchen/repos",
+  "events_url": "https://api.github.com/users/heymanchen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/heymanchen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

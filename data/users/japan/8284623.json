@@ -1,0 +1,20 @@
+{
+  "login": "eiichi-worker",
+  "id": 8284623,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8284623?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eiichi-worker",
+  "html_url": "https://github.com/eiichi-worker",
+  "followers_url": "https://api.github.com/users/eiichi-worker/followers",
+  "following_url": "https://api.github.com/users/eiichi-worker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eiichi-worker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eiichi-worker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eiichi-worker/subscriptions",
+  "organizations_url": "https://api.github.com/users/eiichi-worker/orgs",
+  "repos_url": "https://api.github.com/users/eiichi-worker/repos",
+  "events_url": "https://api.github.com/users/eiichi-worker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eiichi-worker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

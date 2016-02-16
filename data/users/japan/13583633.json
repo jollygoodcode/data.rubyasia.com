@@ -1,0 +1,20 @@
+{
+  "login": "SKYRPA",
+  "id": 13583633,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13583633?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SKYRPA",
+  "html_url": "https://github.com/SKYRPA",
+  "followers_url": "https://api.github.com/users/SKYRPA/followers",
+  "following_url": "https://api.github.com/users/SKYRPA/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SKYRPA/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SKYRPA/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SKYRPA/subscriptions",
+  "organizations_url": "https://api.github.com/users/SKYRPA/orgs",
+  "repos_url": "https://api.github.com/users/SKYRPA/repos",
+  "events_url": "https://api.github.com/users/SKYRPA/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SKYRPA/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "konagayoshi",
+  "id": 12650710,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12650710?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/konagayoshi",
+  "html_url": "https://github.com/konagayoshi",
+  "followers_url": "https://api.github.com/users/konagayoshi/followers",
+  "following_url": "https://api.github.com/users/konagayoshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/konagayoshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/konagayoshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/konagayoshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/konagayoshi/orgs",
+  "repos_url": "https://api.github.com/users/konagayoshi/repos",
+  "events_url": "https://api.github.com/users/konagayoshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/konagayoshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

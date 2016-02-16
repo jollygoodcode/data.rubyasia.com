@@ -1,0 +1,20 @@
+{
+  "login": "smachida",
+  "id": 1142650,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1142650?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smachida",
+  "html_url": "https://github.com/smachida",
+  "followers_url": "https://api.github.com/users/smachida/followers",
+  "following_url": "https://api.github.com/users/smachida/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smachida/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smachida/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smachida/subscriptions",
+  "organizations_url": "https://api.github.com/users/smachida/orgs",
+  "repos_url": "https://api.github.com/users/smachida/repos",
+  "events_url": "https://api.github.com/users/smachida/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smachida/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

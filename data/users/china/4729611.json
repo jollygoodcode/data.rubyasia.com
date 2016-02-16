@@ -1,0 +1,20 @@
+{
+  "login": "yehangjun",
+  "id": 4729611,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4729611?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yehangjun",
+  "html_url": "https://github.com/yehangjun",
+  "followers_url": "https://api.github.com/users/yehangjun/followers",
+  "following_url": "https://api.github.com/users/yehangjun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yehangjun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yehangjun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yehangjun/subscriptions",
+  "organizations_url": "https://api.github.com/users/yehangjun/orgs",
+  "repos_url": "https://api.github.com/users/yehangjun/repos",
+  "events_url": "https://api.github.com/users/yehangjun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yehangjun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

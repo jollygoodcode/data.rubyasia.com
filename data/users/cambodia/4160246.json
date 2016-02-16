@@ -1,0 +1,20 @@
+{
+  "login": "HeroSony",
+  "id": 4160246,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4160246?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HeroSony",
+  "html_url": "https://github.com/HeroSony",
+  "followers_url": "https://api.github.com/users/HeroSony/followers",
+  "following_url": "https://api.github.com/users/HeroSony/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HeroSony/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HeroSony/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HeroSony/subscriptions",
+  "organizations_url": "https://api.github.com/users/HeroSony/orgs",
+  "repos_url": "https://api.github.com/users/HeroSony/repos",
+  "events_url": "https://api.github.com/users/HeroSony/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HeroSony/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

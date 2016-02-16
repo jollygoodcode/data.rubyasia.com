@@ -1,0 +1,20 @@
+{
+  "login": "plhwin",
+  "id": 1219345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1219345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plhwin",
+  "html_url": "https://github.com/plhwin",
+  "followers_url": "https://api.github.com/users/plhwin/followers",
+  "following_url": "https://api.github.com/users/plhwin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plhwin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plhwin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plhwin/subscriptions",
+  "organizations_url": "https://api.github.com/users/plhwin/orgs",
+  "repos_url": "https://api.github.com/users/plhwin/repos",
+  "events_url": "https://api.github.com/users/plhwin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plhwin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

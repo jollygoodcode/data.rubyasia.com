@@ -1,0 +1,20 @@
+{
+  "login": "bounscale",
+  "id": 4829001,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4829001?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bounscale",
+  "html_url": "https://github.com/bounscale",
+  "followers_url": "https://api.github.com/users/bounscale/followers",
+  "following_url": "https://api.github.com/users/bounscale/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bounscale/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bounscale/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bounscale/subscriptions",
+  "organizations_url": "https://api.github.com/users/bounscale/orgs",
+  "repos_url": "https://api.github.com/users/bounscale/repos",
+  "events_url": "https://api.github.com/users/bounscale/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bounscale/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

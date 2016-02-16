@@ -1,0 +1,20 @@
+{
+  "login": "RichOrElse",
+  "id": 1252039,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1252039?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/RichOrElse",
+  "html_url": "https://github.com/RichOrElse",
+  "followers_url": "https://api.github.com/users/RichOrElse/followers",
+  "following_url": "https://api.github.com/users/RichOrElse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/RichOrElse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/RichOrElse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/RichOrElse/subscriptions",
+  "organizations_url": "https://api.github.com/users/RichOrElse/orgs",
+  "repos_url": "https://api.github.com/users/RichOrElse/repos",
+  "events_url": "https://api.github.com/users/RichOrElse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/RichOrElse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

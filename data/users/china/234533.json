@@ -1,0 +1,20 @@
+{
+  "login": "sg552",
+  "id": 234533,
+  "avatar_url": "https://avatars.githubusercontent.com/u/234533?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sg552",
+  "html_url": "https://github.com/sg552",
+  "followers_url": "https://api.github.com/users/sg552/followers",
+  "following_url": "https://api.github.com/users/sg552/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sg552/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sg552/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sg552/subscriptions",
+  "organizations_url": "https://api.github.com/users/sg552/orgs",
+  "repos_url": "https://api.github.com/users/sg552/repos",
+  "events_url": "https://api.github.com/users/sg552/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sg552/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rindyns",
+  "id": 6780011,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6780011?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rindyns",
+  "html_url": "https://github.com/rindyns",
+  "followers_url": "https://api.github.com/users/rindyns/followers",
+  "following_url": "https://api.github.com/users/rindyns/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rindyns/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rindyns/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rindyns/subscriptions",
+  "organizations_url": "https://api.github.com/users/rindyns/orgs",
+  "repos_url": "https://api.github.com/users/rindyns/repos",
+  "events_url": "https://api.github.com/users/rindyns/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rindyns/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lxconan",
+  "id": 4626143,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4626143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lxconan",
+  "html_url": "https://github.com/lxconan",
+  "followers_url": "https://api.github.com/users/lxconan/followers",
+  "following_url": "https://api.github.com/users/lxconan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lxconan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lxconan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lxconan/subscriptions",
+  "organizations_url": "https://api.github.com/users/lxconan/orgs",
+  "repos_url": "https://api.github.com/users/lxconan/repos",
+  "events_url": "https://api.github.com/users/lxconan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lxconan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

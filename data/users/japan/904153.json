@@ -1,0 +1,20 @@
+{
+  "login": "miyamiya",
+  "id": 904153,
+  "avatar_url": "https://avatars.githubusercontent.com/u/904153?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miyamiya",
+  "html_url": "https://github.com/miyamiya",
+  "followers_url": "https://api.github.com/users/miyamiya/followers",
+  "following_url": "https://api.github.com/users/miyamiya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miyamiya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miyamiya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miyamiya/subscriptions",
+  "organizations_url": "https://api.github.com/users/miyamiya/orgs",
+  "repos_url": "https://api.github.com/users/miyamiya/repos",
+  "events_url": "https://api.github.com/users/miyamiya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miyamiya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

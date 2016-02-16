@@ -1,0 +1,20 @@
+{
+  "login": "misopeso",
+  "id": 614339,
+  "avatar_url": "https://avatars.githubusercontent.com/u/614339?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/misopeso",
+  "html_url": "https://github.com/misopeso",
+  "followers_url": "https://api.github.com/users/misopeso/followers",
+  "following_url": "https://api.github.com/users/misopeso/following{/other_user}",
+  "gists_url": "https://api.github.com/users/misopeso/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/misopeso/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/misopeso/subscriptions",
+  "organizations_url": "https://api.github.com/users/misopeso/orgs",
+  "repos_url": "https://api.github.com/users/misopeso/repos",
+  "events_url": "https://api.github.com/users/misopeso/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/misopeso/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

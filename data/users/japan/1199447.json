@@ -1,0 +1,20 @@
+{
+  "login": "leandrouti",
+  "id": 1199447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1199447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leandrouti",
+  "html_url": "https://github.com/leandrouti",
+  "followers_url": "https://api.github.com/users/leandrouti/followers",
+  "following_url": "https://api.github.com/users/leandrouti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leandrouti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leandrouti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leandrouti/subscriptions",
+  "organizations_url": "https://api.github.com/users/leandrouti/orgs",
+  "repos_url": "https://api.github.com/users/leandrouti/repos",
+  "events_url": "https://api.github.com/users/leandrouti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leandrouti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

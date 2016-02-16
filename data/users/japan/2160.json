@@ -1,0 +1,20 @@
+{
+  "login": "kakutani",
+  "id": 2160,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2160?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kakutani",
+  "html_url": "https://github.com/kakutani",
+  "followers_url": "https://api.github.com/users/kakutani/followers",
+  "following_url": "https://api.github.com/users/kakutani/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kakutani/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kakutani/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kakutani/subscriptions",
+  "organizations_url": "https://api.github.com/users/kakutani/orgs",
+  "repos_url": "https://api.github.com/users/kakutani/repos",
+  "events_url": "https://api.github.com/users/kakutani/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kakutani/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

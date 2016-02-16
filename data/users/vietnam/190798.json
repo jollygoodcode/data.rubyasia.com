@@ -1,0 +1,20 @@
+{
+  "login": "tienle",
+  "id": 190798,
+  "avatar_url": "https://avatars.githubusercontent.com/u/190798?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tienle",
+  "html_url": "https://github.com/tienle",
+  "followers_url": "https://api.github.com/users/tienle/followers",
+  "following_url": "https://api.github.com/users/tienle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tienle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tienle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tienle/subscriptions",
+  "organizations_url": "https://api.github.com/users/tienle/orgs",
+  "repos_url": "https://api.github.com/users/tienle/repos",
+  "events_url": "https://api.github.com/users/tienle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tienle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

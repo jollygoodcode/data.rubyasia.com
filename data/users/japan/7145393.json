@@ -1,0 +1,20 @@
+{
+  "login": "m-ezaki",
+  "id": 7145393,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7145393?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/m-ezaki",
+  "html_url": "https://github.com/m-ezaki",
+  "followers_url": "https://api.github.com/users/m-ezaki/followers",
+  "following_url": "https://api.github.com/users/m-ezaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/m-ezaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/m-ezaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/m-ezaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/m-ezaki/orgs",
+  "repos_url": "https://api.github.com/users/m-ezaki/repos",
+  "events_url": "https://api.github.com/users/m-ezaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/m-ezaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hiroyoshinari",
+  "id": 2909866,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2909866?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiroyoshinari",
+  "html_url": "https://github.com/hiroyoshinari",
+  "followers_url": "https://api.github.com/users/hiroyoshinari/followers",
+  "following_url": "https://api.github.com/users/hiroyoshinari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiroyoshinari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiroyoshinari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiroyoshinari/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiroyoshinari/orgs",
+  "repos_url": "https://api.github.com/users/hiroyoshinari/repos",
+  "events_url": "https://api.github.com/users/hiroyoshinari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiroyoshinari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

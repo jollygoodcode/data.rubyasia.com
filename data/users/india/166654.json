@@ -1,0 +1,20 @@
+{
+  "login": "ajeygore",
+  "id": 166654,
+  "avatar_url": "https://avatars.githubusercontent.com/u/166654?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ajeygore",
+  "html_url": "https://github.com/ajeygore",
+  "followers_url": "https://api.github.com/users/ajeygore/followers",
+  "following_url": "https://api.github.com/users/ajeygore/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ajeygore/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ajeygore/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ajeygore/subscriptions",
+  "organizations_url": "https://api.github.com/users/ajeygore/orgs",
+  "repos_url": "https://api.github.com/users/ajeygore/repos",
+  "events_url": "https://api.github.com/users/ajeygore/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ajeygore/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

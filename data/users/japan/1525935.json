@@ -1,0 +1,20 @@
+{
+  "login": "saiwaki",
+  "id": 1525935,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1525935?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saiwaki",
+  "html_url": "https://github.com/saiwaki",
+  "followers_url": "https://api.github.com/users/saiwaki/followers",
+  "following_url": "https://api.github.com/users/saiwaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saiwaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saiwaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saiwaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/saiwaki/orgs",
+  "repos_url": "https://api.github.com/users/saiwaki/repos",
+  "events_url": "https://api.github.com/users/saiwaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saiwaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

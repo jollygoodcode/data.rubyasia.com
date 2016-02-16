@@ -1,0 +1,20 @@
+{
+  "login": "juntk",
+  "id": 567987,
+  "avatar_url": "https://avatars.githubusercontent.com/u/567987?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/juntk",
+  "html_url": "https://github.com/juntk",
+  "followers_url": "https://api.github.com/users/juntk/followers",
+  "following_url": "https://api.github.com/users/juntk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/juntk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/juntk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/juntk/subscriptions",
+  "organizations_url": "https://api.github.com/users/juntk/orgs",
+  "repos_url": "https://api.github.com/users/juntk/repos",
+  "events_url": "https://api.github.com/users/juntk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/juntk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

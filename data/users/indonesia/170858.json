@@ -1,0 +1,20 @@
+{
+  "login": "kuntoaji",
+  "id": 170858,
+  "avatar_url": "https://avatars.githubusercontent.com/u/170858?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kuntoaji",
+  "html_url": "https://github.com/kuntoaji",
+  "followers_url": "https://api.github.com/users/kuntoaji/followers",
+  "following_url": "https://api.github.com/users/kuntoaji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kuntoaji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kuntoaji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kuntoaji/subscriptions",
+  "organizations_url": "https://api.github.com/users/kuntoaji/orgs",
+  "repos_url": "https://api.github.com/users/kuntoaji/repos",
+  "events_url": "https://api.github.com/users/kuntoaji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kuntoaji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

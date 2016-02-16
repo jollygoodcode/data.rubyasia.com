@@ -1,0 +1,20 @@
+{
+  "login": "caldia-apps",
+  "id": 2595798,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2595798?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/caldia-apps",
+  "html_url": "https://github.com/caldia-apps",
+  "followers_url": "https://api.github.com/users/caldia-apps/followers",
+  "following_url": "https://api.github.com/users/caldia-apps/following{/other_user}",
+  "gists_url": "https://api.github.com/users/caldia-apps/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/caldia-apps/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/caldia-apps/subscriptions",
+  "organizations_url": "https://api.github.com/users/caldia-apps/orgs",
+  "repos_url": "https://api.github.com/users/caldia-apps/repos",
+  "events_url": "https://api.github.com/users/caldia-apps/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/caldia-apps/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

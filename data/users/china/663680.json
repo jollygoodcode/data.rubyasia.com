@@ -1,0 +1,20 @@
+{
+  "login": "hotspring",
+  "id": 663680,
+  "avatar_url": "https://avatars.githubusercontent.com/u/663680?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hotspring",
+  "html_url": "https://github.com/hotspring",
+  "followers_url": "https://api.github.com/users/hotspring/followers",
+  "following_url": "https://api.github.com/users/hotspring/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hotspring/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hotspring/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hotspring/subscriptions",
+  "organizations_url": "https://api.github.com/users/hotspring/orgs",
+  "repos_url": "https://api.github.com/users/hotspring/repos",
+  "events_url": "https://api.github.com/users/hotspring/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hotspring/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

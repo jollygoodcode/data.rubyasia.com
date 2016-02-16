@@ -1,0 +1,20 @@
+{
+  "login": "poymode",
+  "id": 596463,
+  "avatar_url": "https://avatars.githubusercontent.com/u/596463?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/poymode",
+  "html_url": "https://github.com/poymode",
+  "followers_url": "https://api.github.com/users/poymode/followers",
+  "following_url": "https://api.github.com/users/poymode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/poymode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/poymode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/poymode/subscriptions",
+  "organizations_url": "https://api.github.com/users/poymode/orgs",
+  "repos_url": "https://api.github.com/users/poymode/repos",
+  "events_url": "https://api.github.com/users/poymode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/poymode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

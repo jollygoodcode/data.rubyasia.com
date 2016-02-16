@@ -1,0 +1,20 @@
+{
+  "login": "plonk",
+  "id": 1680210,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1680210?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plonk",
+  "html_url": "https://github.com/plonk",
+  "followers_url": "https://api.github.com/users/plonk/followers",
+  "following_url": "https://api.github.com/users/plonk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plonk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plonk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plonk/subscriptions",
+  "organizations_url": "https://api.github.com/users/plonk/orgs",
+  "repos_url": "https://api.github.com/users/plonk/repos",
+  "events_url": "https://api.github.com/users/plonk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plonk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

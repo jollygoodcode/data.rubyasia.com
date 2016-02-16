@@ -1,0 +1,20 @@
+{
+  "login": "anct",
+  "id": 5330502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5330502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anct",
+  "html_url": "https://github.com/anct",
+  "followers_url": "https://api.github.com/users/anct/followers",
+  "following_url": "https://api.github.com/users/anct/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anct/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anct/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anct/subscriptions",
+  "organizations_url": "https://api.github.com/users/anct/orgs",
+  "repos_url": "https://api.github.com/users/anct/repos",
+  "events_url": "https://api.github.com/users/anct/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anct/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

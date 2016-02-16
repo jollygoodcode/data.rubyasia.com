@@ -1,0 +1,20 @@
+{
+  "login": "shaokun",
+  "id": 22824,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22824?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shaokun",
+  "html_url": "https://github.com/shaokun",
+  "followers_url": "https://api.github.com/users/shaokun/followers",
+  "following_url": "https://api.github.com/users/shaokun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shaokun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shaokun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shaokun/subscriptions",
+  "organizations_url": "https://api.github.com/users/shaokun/orgs",
+  "repos_url": "https://api.github.com/users/shaokun/repos",
+  "events_url": "https://api.github.com/users/shaokun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shaokun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

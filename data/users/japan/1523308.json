@@ -1,0 +1,20 @@
+{
+  "login": "maeharin",
+  "id": 1523308,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1523308?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maeharin",
+  "html_url": "https://github.com/maeharin",
+  "followers_url": "https://api.github.com/users/maeharin/followers",
+  "following_url": "https://api.github.com/users/maeharin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maeharin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maeharin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maeharin/subscriptions",
+  "organizations_url": "https://api.github.com/users/maeharin/orgs",
+  "repos_url": "https://api.github.com/users/maeharin/repos",
+  "events_url": "https://api.github.com/users/maeharin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maeharin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

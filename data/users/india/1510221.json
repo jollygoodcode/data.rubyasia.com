@@ -1,0 +1,20 @@
+{
+  "login": "ovia",
+  "id": 1510221,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1510221?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ovia",
+  "html_url": "https://github.com/ovia",
+  "followers_url": "https://api.github.com/users/ovia/followers",
+  "following_url": "https://api.github.com/users/ovia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ovia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ovia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ovia/subscriptions",
+  "organizations_url": "https://api.github.com/users/ovia/orgs",
+  "repos_url": "https://api.github.com/users/ovia/repos",
+  "events_url": "https://api.github.com/users/ovia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ovia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

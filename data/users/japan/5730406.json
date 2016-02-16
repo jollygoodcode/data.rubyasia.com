@@ -1,0 +1,20 @@
+{
+  "login": "stkay",
+  "id": 5730406,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5730406?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stkay",
+  "html_url": "https://github.com/stkay",
+  "followers_url": "https://api.github.com/users/stkay/followers",
+  "following_url": "https://api.github.com/users/stkay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stkay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stkay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stkay/subscriptions",
+  "organizations_url": "https://api.github.com/users/stkay/orgs",
+  "repos_url": "https://api.github.com/users/stkay/repos",
+  "events_url": "https://api.github.com/users/stkay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stkay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

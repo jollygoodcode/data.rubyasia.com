@@ -1,0 +1,20 @@
+{
+  "login": "nitrous-io",
+  "id": 1598433,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1598433?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nitrous-io",
+  "html_url": "https://github.com/nitrous-io",
+  "followers_url": "https://api.github.com/users/nitrous-io/followers",
+  "following_url": "https://api.github.com/users/nitrous-io/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nitrous-io/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nitrous-io/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nitrous-io/subscriptions",
+  "organizations_url": "https://api.github.com/users/nitrous-io/orgs",
+  "repos_url": "https://api.github.com/users/nitrous-io/repos",
+  "events_url": "https://api.github.com/users/nitrous-io/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nitrous-io/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

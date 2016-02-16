@@ -1,0 +1,20 @@
+{
+  "login": "yazo",
+  "id": 980579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/980579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yazo",
+  "html_url": "https://github.com/yazo",
+  "followers_url": "https://api.github.com/users/yazo/followers",
+  "following_url": "https://api.github.com/users/yazo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yazo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yazo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yazo/subscriptions",
+  "organizations_url": "https://api.github.com/users/yazo/orgs",
+  "repos_url": "https://api.github.com/users/yazo/repos",
+  "events_url": "https://api.github.com/users/yazo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yazo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "frizbee",
+  "id": 645636,
+  "avatar_url": "https://avatars.githubusercontent.com/u/645636?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/frizbee",
+  "html_url": "https://github.com/frizbee",
+  "followers_url": "https://api.github.com/users/frizbee/followers",
+  "following_url": "https://api.github.com/users/frizbee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/frizbee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/frizbee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/frizbee/subscriptions",
+  "organizations_url": "https://api.github.com/users/frizbee/orgs",
+  "repos_url": "https://api.github.com/users/frizbee/repos",
+  "events_url": "https://api.github.com/users/frizbee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/frizbee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

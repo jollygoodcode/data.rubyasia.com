@@ -1,0 +1,20 @@
+{
+  "login": "dewli",
+  "id": 6678574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6678574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dewli",
+  "html_url": "https://github.com/dewli",
+  "followers_url": "https://api.github.com/users/dewli/followers",
+  "following_url": "https://api.github.com/users/dewli/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dewli/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dewli/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dewli/subscriptions",
+  "organizations_url": "https://api.github.com/users/dewli/orgs",
+  "repos_url": "https://api.github.com/users/dewli/repos",
+  "events_url": "https://api.github.com/users/dewli/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dewli/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

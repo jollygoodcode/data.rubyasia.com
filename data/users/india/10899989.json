@@ -1,0 +1,20 @@
+{
+  "login": "LA1Studios",
+  "id": 10899989,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10899989?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LA1Studios",
+  "html_url": "https://github.com/LA1Studios",
+  "followers_url": "https://api.github.com/users/LA1Studios/followers",
+  "following_url": "https://api.github.com/users/LA1Studios/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LA1Studios/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LA1Studios/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LA1Studios/subscriptions",
+  "organizations_url": "https://api.github.com/users/LA1Studios/orgs",
+  "repos_url": "https://api.github.com/users/LA1Studios/repos",
+  "events_url": "https://api.github.com/users/LA1Studios/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LA1Studios/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

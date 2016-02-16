@@ -1,0 +1,20 @@
+{
+  "login": "dhane",
+  "id": 2719690,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2719690?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dhane",
+  "html_url": "https://github.com/dhane",
+  "followers_url": "https://api.github.com/users/dhane/followers",
+  "following_url": "https://api.github.com/users/dhane/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dhane/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dhane/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dhane/subscriptions",
+  "organizations_url": "https://api.github.com/users/dhane/orgs",
+  "repos_url": "https://api.github.com/users/dhane/repos",
+  "events_url": "https://api.github.com/users/dhane/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dhane/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

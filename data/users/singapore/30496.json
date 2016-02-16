@@ -1,0 +1,20 @@
+{
+  "login": "yongfook",
+  "id": 30496,
+  "avatar_url": "https://avatars.githubusercontent.com/u/30496?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yongfook",
+  "html_url": "https://github.com/yongfook",
+  "followers_url": "https://api.github.com/users/yongfook/followers",
+  "following_url": "https://api.github.com/users/yongfook/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yongfook/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yongfook/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yongfook/subscriptions",
+  "organizations_url": "https://api.github.com/users/yongfook/orgs",
+  "repos_url": "https://api.github.com/users/yongfook/repos",
+  "events_url": "https://api.github.com/users/yongfook/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yongfook/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

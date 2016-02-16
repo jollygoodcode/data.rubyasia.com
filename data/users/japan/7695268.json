@@ -1,0 +1,20 @@
+{
+  "login": "foodison",
+  "id": 7695268,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7695268?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/foodison",
+  "html_url": "https://github.com/foodison",
+  "followers_url": "https://api.github.com/users/foodison/followers",
+  "following_url": "https://api.github.com/users/foodison/following{/other_user}",
+  "gists_url": "https://api.github.com/users/foodison/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/foodison/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/foodison/subscriptions",
+  "organizations_url": "https://api.github.com/users/foodison/orgs",
+  "repos_url": "https://api.github.com/users/foodison/repos",
+  "events_url": "https://api.github.com/users/foodison/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/foodison/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

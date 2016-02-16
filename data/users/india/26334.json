@@ -1,0 +1,20 @@
+{
+  "login": "rajib",
+  "id": 26334,
+  "avatar_url": "https://avatars.githubusercontent.com/u/26334?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rajib",
+  "html_url": "https://github.com/rajib",
+  "followers_url": "https://api.github.com/users/rajib/followers",
+  "following_url": "https://api.github.com/users/rajib/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rajib/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rajib/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rajib/subscriptions",
+  "organizations_url": "https://api.github.com/users/rajib/orgs",
+  "repos_url": "https://api.github.com/users/rajib/repos",
+  "events_url": "https://api.github.com/users/rajib/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rajib/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

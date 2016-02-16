@@ -1,0 +1,20 @@
+{
+  "login": "davischung",
+  "id": 7698019,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7698019?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/davischung",
+  "html_url": "https://github.com/davischung",
+  "followers_url": "https://api.github.com/users/davischung/followers",
+  "following_url": "https://api.github.com/users/davischung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/davischung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/davischung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/davischung/subscriptions",
+  "organizations_url": "https://api.github.com/users/davischung/orgs",
+  "repos_url": "https://api.github.com/users/davischung/repos",
+  "events_url": "https://api.github.com/users/davischung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/davischung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

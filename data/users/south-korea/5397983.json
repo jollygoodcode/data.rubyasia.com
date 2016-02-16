@@ -1,0 +1,20 @@
+{
+  "login": "astroryan",
+  "id": 5397983,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5397983?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/astroryan",
+  "html_url": "https://github.com/astroryan",
+  "followers_url": "https://api.github.com/users/astroryan/followers",
+  "following_url": "https://api.github.com/users/astroryan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/astroryan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/astroryan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/astroryan/subscriptions",
+  "organizations_url": "https://api.github.com/users/astroryan/orgs",
+  "repos_url": "https://api.github.com/users/astroryan/repos",
+  "events_url": "https://api.github.com/users/astroryan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/astroryan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

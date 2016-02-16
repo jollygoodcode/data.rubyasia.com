@@ -1,0 +1,20 @@
+{
+  "login": "billuyadav",
+  "id": 1540482,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1540482?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/billuyadav",
+  "html_url": "https://github.com/billuyadav",
+  "followers_url": "https://api.github.com/users/billuyadav/followers",
+  "following_url": "https://api.github.com/users/billuyadav/following{/other_user}",
+  "gists_url": "https://api.github.com/users/billuyadav/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/billuyadav/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/billuyadav/subscriptions",
+  "organizations_url": "https://api.github.com/users/billuyadav/orgs",
+  "repos_url": "https://api.github.com/users/billuyadav/repos",
+  "events_url": "https://api.github.com/users/billuyadav/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/billuyadav/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

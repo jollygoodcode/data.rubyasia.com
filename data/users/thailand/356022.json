@@ -1,0 +1,20 @@
+{
+  "login": "notsu",
+  "id": 356022,
+  "avatar_url": "https://avatars.githubusercontent.com/u/356022?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/notsu",
+  "html_url": "https://github.com/notsu",
+  "followers_url": "https://api.github.com/users/notsu/followers",
+  "following_url": "https://api.github.com/users/notsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/notsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/notsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/notsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/notsu/orgs",
+  "repos_url": "https://api.github.com/users/notsu/repos",
+  "events_url": "https://api.github.com/users/notsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/notsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

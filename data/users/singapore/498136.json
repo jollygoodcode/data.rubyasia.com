@@ -1,0 +1,20 @@
+{
+  "login": "idl3",
+  "id": 498136,
+  "avatar_url": "https://avatars.githubusercontent.com/u/498136?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idl3",
+  "html_url": "https://github.com/idl3",
+  "followers_url": "https://api.github.com/users/idl3/followers",
+  "following_url": "https://api.github.com/users/idl3/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idl3/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idl3/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idl3/subscriptions",
+  "organizations_url": "https://api.github.com/users/idl3/orgs",
+  "repos_url": "https://api.github.com/users/idl3/repos",
+  "events_url": "https://api.github.com/users/idl3/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idl3/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

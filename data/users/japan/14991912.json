@@ -1,0 +1,20 @@
+{
+  "login": "kohei-kimura",
+  "id": 14991912,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14991912?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kohei-kimura",
+  "html_url": "https://github.com/kohei-kimura",
+  "followers_url": "https://api.github.com/users/kohei-kimura/followers",
+  "following_url": "https://api.github.com/users/kohei-kimura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kohei-kimura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kohei-kimura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kohei-kimura/subscriptions",
+  "organizations_url": "https://api.github.com/users/kohei-kimura/orgs",
+  "repos_url": "https://api.github.com/users/kohei-kimura/repos",
+  "events_url": "https://api.github.com/users/kohei-kimura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kohei-kimura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "exblopz",
+  "id": 954500,
+  "avatar_url": "https://avatars.githubusercontent.com/u/954500?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/exblopz",
+  "html_url": "https://github.com/exblopz",
+  "followers_url": "https://api.github.com/users/exblopz/followers",
+  "following_url": "https://api.github.com/users/exblopz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/exblopz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/exblopz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/exblopz/subscriptions",
+  "organizations_url": "https://api.github.com/users/exblopz/orgs",
+  "repos_url": "https://api.github.com/users/exblopz/repos",
+  "events_url": "https://api.github.com/users/exblopz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/exblopz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

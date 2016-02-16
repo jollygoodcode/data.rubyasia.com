@@ -1,0 +1,20 @@
+{
+  "login": "ricnr",
+  "id": 2681080,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2681080?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ricnr",
+  "html_url": "https://github.com/ricnr",
+  "followers_url": "https://api.github.com/users/ricnr/followers",
+  "following_url": "https://api.github.com/users/ricnr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ricnr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ricnr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ricnr/subscriptions",
+  "organizations_url": "https://api.github.com/users/ricnr/orgs",
+  "repos_url": "https://api.github.com/users/ricnr/repos",
+  "events_url": "https://api.github.com/users/ricnr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ricnr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

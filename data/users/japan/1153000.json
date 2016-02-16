@@ -1,0 +1,20 @@
+{
+  "login": "kazubu",
+  "id": 1153000,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1153000?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kazubu",
+  "html_url": "https://github.com/kazubu",
+  "followers_url": "https://api.github.com/users/kazubu/followers",
+  "following_url": "https://api.github.com/users/kazubu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kazubu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kazubu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kazubu/subscriptions",
+  "organizations_url": "https://api.github.com/users/kazubu/orgs",
+  "repos_url": "https://api.github.com/users/kazubu/repos",
+  "events_url": "https://api.github.com/users/kazubu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kazubu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

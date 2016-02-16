@@ -1,0 +1,20 @@
+{
+  "login": "k2works",
+  "id": 3236312,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3236312?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k2works",
+  "html_url": "https://github.com/k2works",
+  "followers_url": "https://api.github.com/users/k2works/followers",
+  "following_url": "https://api.github.com/users/k2works/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k2works/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k2works/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k2works/subscriptions",
+  "organizations_url": "https://api.github.com/users/k2works/orgs",
+  "repos_url": "https://api.github.com/users/k2works/repos",
+  "events_url": "https://api.github.com/users/k2works/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k2works/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "drvo",
+  "id": 733542,
+  "avatar_url": "https://avatars.githubusercontent.com/u/733542?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/drvo",
+  "html_url": "https://github.com/drvo",
+  "followers_url": "https://api.github.com/users/drvo/followers",
+  "following_url": "https://api.github.com/users/drvo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/drvo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/drvo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/drvo/subscriptions",
+  "organizations_url": "https://api.github.com/users/drvo/orgs",
+  "repos_url": "https://api.github.com/users/drvo/repos",
+  "events_url": "https://api.github.com/users/drvo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/drvo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

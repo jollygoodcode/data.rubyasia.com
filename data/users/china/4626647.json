@@ -1,0 +1,20 @@
+{
+  "login": "paul-cheung",
+  "id": 4626647,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4626647?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paul-cheung",
+  "html_url": "https://github.com/paul-cheung",
+  "followers_url": "https://api.github.com/users/paul-cheung/followers",
+  "following_url": "https://api.github.com/users/paul-cheung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paul-cheung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paul-cheung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paul-cheung/subscriptions",
+  "organizations_url": "https://api.github.com/users/paul-cheung/orgs",
+  "repos_url": "https://api.github.com/users/paul-cheung/repos",
+  "events_url": "https://api.github.com/users/paul-cheung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paul-cheung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kwappa",
+  "id": 109314,
+  "avatar_url": "https://avatars.githubusercontent.com/u/109314?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kwappa",
+  "html_url": "https://github.com/kwappa",
+  "followers_url": "https://api.github.com/users/kwappa/followers",
+  "following_url": "https://api.github.com/users/kwappa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kwappa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kwappa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kwappa/subscriptions",
+  "organizations_url": "https://api.github.com/users/kwappa/orgs",
+  "repos_url": "https://api.github.com/users/kwappa/repos",
+  "events_url": "https://api.github.com/users/kwappa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kwappa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

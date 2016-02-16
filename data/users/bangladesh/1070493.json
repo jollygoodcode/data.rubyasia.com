@@ -1,0 +1,20 @@
+{
+  "login": "tayeed",
+  "id": 1070493,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1070493?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tayeed",
+  "html_url": "https://github.com/tayeed",
+  "followers_url": "https://api.github.com/users/tayeed/followers",
+  "following_url": "https://api.github.com/users/tayeed/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tayeed/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tayeed/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tayeed/subscriptions",
+  "organizations_url": "https://api.github.com/users/tayeed/orgs",
+  "repos_url": "https://api.github.com/users/tayeed/repos",
+  "events_url": "https://api.github.com/users/tayeed/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tayeed/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

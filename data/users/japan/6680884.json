@@ -1,0 +1,20 @@
+{
+  "login": "ctmk",
+  "id": 6680884,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6680884?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ctmk",
+  "html_url": "https://github.com/ctmk",
+  "followers_url": "https://api.github.com/users/ctmk/followers",
+  "following_url": "https://api.github.com/users/ctmk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ctmk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ctmk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ctmk/subscriptions",
+  "organizations_url": "https://api.github.com/users/ctmk/orgs",
+  "repos_url": "https://api.github.com/users/ctmk/repos",
+  "events_url": "https://api.github.com/users/ctmk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ctmk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

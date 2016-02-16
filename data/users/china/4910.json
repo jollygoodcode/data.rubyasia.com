@@ -1,0 +1,20 @@
+{
+  "login": "raecoo",
+  "id": 4910,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4910?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raecoo",
+  "html_url": "https://github.com/raecoo",
+  "followers_url": "https://api.github.com/users/raecoo/followers",
+  "following_url": "https://api.github.com/users/raecoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raecoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raecoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raecoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/raecoo/orgs",
+  "repos_url": "https://api.github.com/users/raecoo/repos",
+  "events_url": "https://api.github.com/users/raecoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raecoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

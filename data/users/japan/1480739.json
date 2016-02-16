@@ -1,0 +1,20 @@
+{
+  "login": "zerobase",
+  "id": 1480739,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1480739?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zerobase",
+  "html_url": "https://github.com/zerobase",
+  "followers_url": "https://api.github.com/users/zerobase/followers",
+  "following_url": "https://api.github.com/users/zerobase/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zerobase/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zerobase/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zerobase/subscriptions",
+  "organizations_url": "https://api.github.com/users/zerobase/orgs",
+  "repos_url": "https://api.github.com/users/zerobase/repos",
+  "events_url": "https://api.github.com/users/zerobase/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zerobase/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

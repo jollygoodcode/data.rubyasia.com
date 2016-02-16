@@ -1,0 +1,20 @@
+{
+  "login": "toshi-kawanishi",
+  "id": 38711,
+  "avatar_url": "https://avatars.githubusercontent.com/u/38711?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toshi-kawanishi",
+  "html_url": "https://github.com/toshi-kawanishi",
+  "followers_url": "https://api.github.com/users/toshi-kawanishi/followers",
+  "following_url": "https://api.github.com/users/toshi-kawanishi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toshi-kawanishi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toshi-kawanishi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toshi-kawanishi/subscriptions",
+  "organizations_url": "https://api.github.com/users/toshi-kawanishi/orgs",
+  "repos_url": "https://api.github.com/users/toshi-kawanishi/repos",
+  "events_url": "https://api.github.com/users/toshi-kawanishi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toshi-kawanishi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

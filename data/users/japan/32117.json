@@ -1,0 +1,20 @@
+{
+  "login": "k-tsj",
+  "id": 32117,
+  "avatar_url": "https://avatars.githubusercontent.com/u/32117?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k-tsj",
+  "html_url": "https://github.com/k-tsj",
+  "followers_url": "https://api.github.com/users/k-tsj/followers",
+  "following_url": "https://api.github.com/users/k-tsj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k-tsj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k-tsj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k-tsj/subscriptions",
+  "organizations_url": "https://api.github.com/users/k-tsj/orgs",
+  "repos_url": "https://api.github.com/users/k-tsj/repos",
+  "events_url": "https://api.github.com/users/k-tsj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k-tsj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

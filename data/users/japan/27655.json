@@ -1,0 +1,20 @@
+{
+  "login": "johnnyshields",
+  "id": 27655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/27655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/johnnyshields",
+  "html_url": "https://github.com/johnnyshields",
+  "followers_url": "https://api.github.com/users/johnnyshields/followers",
+  "following_url": "https://api.github.com/users/johnnyshields/following{/other_user}",
+  "gists_url": "https://api.github.com/users/johnnyshields/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/johnnyshields/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/johnnyshields/subscriptions",
+  "organizations_url": "https://api.github.com/users/johnnyshields/orgs",
+  "repos_url": "https://api.github.com/users/johnnyshields/repos",
+  "events_url": "https://api.github.com/users/johnnyshields/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/johnnyshields/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

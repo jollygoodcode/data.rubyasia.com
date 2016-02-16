@@ -1,0 +1,20 @@
+{
+  "login": "guiltry",
+  "id": 1484308,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1484308?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/guiltry",
+  "html_url": "https://github.com/guiltry",
+  "followers_url": "https://api.github.com/users/guiltry/followers",
+  "following_url": "https://api.github.com/users/guiltry/following{/other_user}",
+  "gists_url": "https://api.github.com/users/guiltry/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/guiltry/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/guiltry/subscriptions",
+  "organizations_url": "https://api.github.com/users/guiltry/orgs",
+  "repos_url": "https://api.github.com/users/guiltry/repos",
+  "events_url": "https://api.github.com/users/guiltry/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/guiltry/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

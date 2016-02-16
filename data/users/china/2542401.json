@@ -1,0 +1,20 @@
+{
+  "login": "imjoey",
+  "id": 2542401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2542401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imjoey",
+  "html_url": "https://github.com/imjoey",
+  "followers_url": "https://api.github.com/users/imjoey/followers",
+  "following_url": "https://api.github.com/users/imjoey/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imjoey/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imjoey/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imjoey/subscriptions",
+  "organizations_url": "https://api.github.com/users/imjoey/orgs",
+  "repos_url": "https://api.github.com/users/imjoey/repos",
+  "events_url": "https://api.github.com/users/imjoey/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imjoey/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

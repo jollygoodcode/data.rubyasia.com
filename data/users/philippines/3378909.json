@@ -1,0 +1,20 @@
+{
+  "login": "dotph",
+  "id": 3378909,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3378909?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dotph",
+  "html_url": "https://github.com/dotph",
+  "followers_url": "https://api.github.com/users/dotph/followers",
+  "following_url": "https://api.github.com/users/dotph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dotph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dotph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dotph/subscriptions",
+  "organizations_url": "https://api.github.com/users/dotph/orgs",
+  "repos_url": "https://api.github.com/users/dotph/repos",
+  "events_url": "https://api.github.com/users/dotph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dotph/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

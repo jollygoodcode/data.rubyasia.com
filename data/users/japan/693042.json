@@ -1,0 +1,20 @@
+{
+  "login": "dikshie",
+  "id": 693042,
+  "avatar_url": "https://avatars.githubusercontent.com/u/693042?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dikshie",
+  "html_url": "https://github.com/dikshie",
+  "followers_url": "https://api.github.com/users/dikshie/followers",
+  "following_url": "https://api.github.com/users/dikshie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dikshie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dikshie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dikshie/subscriptions",
+  "organizations_url": "https://api.github.com/users/dikshie/orgs",
+  "repos_url": "https://api.github.com/users/dikshie/repos",
+  "events_url": "https://api.github.com/users/dikshie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dikshie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

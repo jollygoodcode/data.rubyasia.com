@@ -1,0 +1,20 @@
+{
+  "login": "sakomoko",
+  "id": 912248,
+  "avatar_url": "https://avatars.githubusercontent.com/u/912248?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sakomoko",
+  "html_url": "https://github.com/sakomoko",
+  "followers_url": "https://api.github.com/users/sakomoko/followers",
+  "following_url": "https://api.github.com/users/sakomoko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sakomoko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sakomoko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sakomoko/subscriptions",
+  "organizations_url": "https://api.github.com/users/sakomoko/orgs",
+  "repos_url": "https://api.github.com/users/sakomoko/repos",
+  "events_url": "https://api.github.com/users/sakomoko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sakomoko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

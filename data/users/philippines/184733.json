@@ -1,0 +1,20 @@
+{
+  "login": "rumz",
+  "id": 184733,
+  "avatar_url": "https://avatars.githubusercontent.com/u/184733?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rumz",
+  "html_url": "https://github.com/rumz",
+  "followers_url": "https://api.github.com/users/rumz/followers",
+  "following_url": "https://api.github.com/users/rumz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rumz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rumz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rumz/subscriptions",
+  "organizations_url": "https://api.github.com/users/rumz/orgs",
+  "repos_url": "https://api.github.com/users/rumz/repos",
+  "events_url": "https://api.github.com/users/rumz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rumz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

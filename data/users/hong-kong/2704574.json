@@ -1,0 +1,20 @@
+{
+  "login": "cnhx",
+  "id": 2704574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2704574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cnhx",
+  "html_url": "https://github.com/cnhx",
+  "followers_url": "https://api.github.com/users/cnhx/followers",
+  "following_url": "https://api.github.com/users/cnhx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cnhx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cnhx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cnhx/subscriptions",
+  "organizations_url": "https://api.github.com/users/cnhx/orgs",
+  "repos_url": "https://api.github.com/users/cnhx/repos",
+  "events_url": "https://api.github.com/users/cnhx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cnhx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

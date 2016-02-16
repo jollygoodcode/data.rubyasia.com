@@ -1,0 +1,20 @@
+{
+  "login": "webstream-io",
+  "id": 3797239,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3797239?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/webstream-io",
+  "html_url": "https://github.com/webstream-io",
+  "followers_url": "https://api.github.com/users/webstream-io/followers",
+  "following_url": "https://api.github.com/users/webstream-io/following{/other_user}",
+  "gists_url": "https://api.github.com/users/webstream-io/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/webstream-io/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/webstream-io/subscriptions",
+  "organizations_url": "https://api.github.com/users/webstream-io/orgs",
+  "repos_url": "https://api.github.com/users/webstream-io/repos",
+  "events_url": "https://api.github.com/users/webstream-io/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/webstream-io/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

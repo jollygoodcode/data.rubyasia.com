@@ -1,0 +1,20 @@
+{
+  "login": "ktns",
+  "id": 1302759,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1302759?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ktns",
+  "html_url": "https://github.com/ktns",
+  "followers_url": "https://api.github.com/users/ktns/followers",
+  "following_url": "https://api.github.com/users/ktns/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ktns/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ktns/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ktns/subscriptions",
+  "organizations_url": "https://api.github.com/users/ktns/orgs",
+  "repos_url": "https://api.github.com/users/ktns/repos",
+  "events_url": "https://api.github.com/users/ktns/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ktns/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

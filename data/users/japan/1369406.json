@@ -1,0 +1,20 @@
+{
+  "login": "palon7",
+  "id": 1369406,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1369406?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/palon7",
+  "html_url": "https://github.com/palon7",
+  "followers_url": "https://api.github.com/users/palon7/followers",
+  "following_url": "https://api.github.com/users/palon7/following{/other_user}",
+  "gists_url": "https://api.github.com/users/palon7/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/palon7/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/palon7/subscriptions",
+  "organizations_url": "https://api.github.com/users/palon7/orgs",
+  "repos_url": "https://api.github.com/users/palon7/repos",
+  "events_url": "https://api.github.com/users/palon7/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/palon7/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

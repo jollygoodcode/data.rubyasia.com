@@ -1,0 +1,20 @@
+{
+  "login": "tsuboi",
+  "id": 106482,
+  "avatar_url": "https://avatars.githubusercontent.com/u/106482?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsuboi",
+  "html_url": "https://github.com/tsuboi",
+  "followers_url": "https://api.github.com/users/tsuboi/followers",
+  "following_url": "https://api.github.com/users/tsuboi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsuboi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsuboi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsuboi/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsuboi/orgs",
+  "repos_url": "https://api.github.com/users/tsuboi/repos",
+  "events_url": "https://api.github.com/users/tsuboi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsuboi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

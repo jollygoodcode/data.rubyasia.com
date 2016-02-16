@@ -1,0 +1,20 @@
+{
+  "login": "myagita",
+  "id": 2760213,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2760213?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/myagita",
+  "html_url": "https://github.com/myagita",
+  "followers_url": "https://api.github.com/users/myagita/followers",
+  "following_url": "https://api.github.com/users/myagita/following{/other_user}",
+  "gists_url": "https://api.github.com/users/myagita/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/myagita/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/myagita/subscriptions",
+  "organizations_url": "https://api.github.com/users/myagita/orgs",
+  "repos_url": "https://api.github.com/users/myagita/repos",
+  "events_url": "https://api.github.com/users/myagita/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/myagita/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

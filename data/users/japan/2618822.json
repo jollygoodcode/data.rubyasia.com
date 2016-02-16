@@ -1,0 +1,20 @@
+{
+  "login": "aquahika",
+  "id": 2618822,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2618822?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aquahika",
+  "html_url": "https://github.com/aquahika",
+  "followers_url": "https://api.github.com/users/aquahika/followers",
+  "following_url": "https://api.github.com/users/aquahika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aquahika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aquahika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aquahika/subscriptions",
+  "organizations_url": "https://api.github.com/users/aquahika/orgs",
+  "repos_url": "https://api.github.com/users/aquahika/repos",
+  "events_url": "https://api.github.com/users/aquahika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aquahika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

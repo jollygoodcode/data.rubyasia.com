@@ -1,0 +1,20 @@
+{
+  "login": "iyou",
+  "id": 1833291,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1833291?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iyou",
+  "html_url": "https://github.com/iyou",
+  "followers_url": "https://api.github.com/users/iyou/followers",
+  "following_url": "https://api.github.com/users/iyou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iyou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iyou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iyou/subscriptions",
+  "organizations_url": "https://api.github.com/users/iyou/orgs",
+  "repos_url": "https://api.github.com/users/iyou/repos",
+  "events_url": "https://api.github.com/users/iyou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iyou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

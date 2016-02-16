@@ -1,0 +1,20 @@
+{
+  "login": "Lancezh",
+  "id": 5071776,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5071776?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Lancezh",
+  "html_url": "https://github.com/Lancezh",
+  "followers_url": "https://api.github.com/users/Lancezh/followers",
+  "following_url": "https://api.github.com/users/Lancezh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Lancezh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Lancezh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Lancezh/subscriptions",
+  "organizations_url": "https://api.github.com/users/Lancezh/orgs",
+  "repos_url": "https://api.github.com/users/Lancezh/repos",
+  "events_url": "https://api.github.com/users/Lancezh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Lancezh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

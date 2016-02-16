@@ -1,0 +1,20 @@
+{
+  "login": "m-takagi",
+  "id": 10872,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10872?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/m-takagi",
+  "html_url": "https://github.com/m-takagi",
+  "followers_url": "https://api.github.com/users/m-takagi/followers",
+  "following_url": "https://api.github.com/users/m-takagi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/m-takagi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/m-takagi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/m-takagi/subscriptions",
+  "organizations_url": "https://api.github.com/users/m-takagi/orgs",
+  "repos_url": "https://api.github.com/users/m-takagi/repos",
+  "events_url": "https://api.github.com/users/m-takagi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/m-takagi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

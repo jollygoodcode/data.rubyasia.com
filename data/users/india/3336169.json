@@ -1,0 +1,20 @@
+{
+  "login": "firosit",
+  "id": 3336169,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3336169?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/firosit",
+  "html_url": "https://github.com/firosit",
+  "followers_url": "https://api.github.com/users/firosit/followers",
+  "following_url": "https://api.github.com/users/firosit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/firosit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/firosit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/firosit/subscriptions",
+  "organizations_url": "https://api.github.com/users/firosit/orgs",
+  "repos_url": "https://api.github.com/users/firosit/repos",
+  "events_url": "https://api.github.com/users/firosit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/firosit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

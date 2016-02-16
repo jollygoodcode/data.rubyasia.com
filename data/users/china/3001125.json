@@ -1,0 +1,20 @@
+{
+  "login": "19wu",
+  "id": 3001125,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3001125?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/19wu",
+  "html_url": "https://github.com/19wu",
+  "followers_url": "https://api.github.com/users/19wu/followers",
+  "following_url": "https://api.github.com/users/19wu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/19wu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/19wu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/19wu/subscriptions",
+  "organizations_url": "https://api.github.com/users/19wu/orgs",
+  "repos_url": "https://api.github.com/users/19wu/repos",
+  "events_url": "https://api.github.com/users/19wu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/19wu/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

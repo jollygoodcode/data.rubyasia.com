@@ -1,0 +1,20 @@
+{
+  "login": "kangarie",
+  "id": 4359219,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4359219?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kangarie",
+  "html_url": "https://github.com/kangarie",
+  "followers_url": "https://api.github.com/users/kangarie/followers",
+  "following_url": "https://api.github.com/users/kangarie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kangarie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kangarie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kangarie/subscriptions",
+  "organizations_url": "https://api.github.com/users/kangarie/orgs",
+  "repos_url": "https://api.github.com/users/kangarie/repos",
+  "events_url": "https://api.github.com/users/kangarie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kangarie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tnedlacer",
+  "id": 77330,
+  "avatar_url": "https://avatars.githubusercontent.com/u/77330?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tnedlacer",
+  "html_url": "https://github.com/tnedlacer",
+  "followers_url": "https://api.github.com/users/tnedlacer/followers",
+  "following_url": "https://api.github.com/users/tnedlacer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tnedlacer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tnedlacer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tnedlacer/subscriptions",
+  "organizations_url": "https://api.github.com/users/tnedlacer/orgs",
+  "repos_url": "https://api.github.com/users/tnedlacer/repos",
+  "events_url": "https://api.github.com/users/tnedlacer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tnedlacer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

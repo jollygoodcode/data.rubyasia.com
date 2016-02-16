@@ -1,0 +1,20 @@
+{
+  "login": "zimmermael",
+  "id": 7167223,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7167223?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zimmermael",
+  "html_url": "https://github.com/zimmermael",
+  "followers_url": "https://api.github.com/users/zimmermael/followers",
+  "following_url": "https://api.github.com/users/zimmermael/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zimmermael/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zimmermael/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zimmermael/subscriptions",
+  "organizations_url": "https://api.github.com/users/zimmermael/orgs",
+  "repos_url": "https://api.github.com/users/zimmermael/repos",
+  "events_url": "https://api.github.com/users/zimmermael/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zimmermael/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dangluan",
+  "id": 2897536,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2897536?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dangluan",
+  "html_url": "https://github.com/dangluan",
+  "followers_url": "https://api.github.com/users/dangluan/followers",
+  "following_url": "https://api.github.com/users/dangluan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dangluan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dangluan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dangluan/subscriptions",
+  "organizations_url": "https://api.github.com/users/dangluan/orgs",
+  "repos_url": "https://api.github.com/users/dangluan/repos",
+  "events_url": "https://api.github.com/users/dangluan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dangluan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

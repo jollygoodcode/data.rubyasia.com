@@ -1,0 +1,20 @@
+{
+  "login": "takedakn",
+  "id": 338248,
+  "avatar_url": "https://avatars.githubusercontent.com/u/338248?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takedakn",
+  "html_url": "https://github.com/takedakn",
+  "followers_url": "https://api.github.com/users/takedakn/followers",
+  "following_url": "https://api.github.com/users/takedakn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takedakn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takedakn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takedakn/subscriptions",
+  "organizations_url": "https://api.github.com/users/takedakn/orgs",
+  "repos_url": "https://api.github.com/users/takedakn/repos",
+  "events_url": "https://api.github.com/users/takedakn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takedakn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

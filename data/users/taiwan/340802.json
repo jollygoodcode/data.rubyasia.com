@@ -1,0 +1,20 @@
+{
+  "login": "frogcoder",
+  "id": 340802,
+  "avatar_url": "https://avatars.githubusercontent.com/u/340802?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/frogcoder",
+  "html_url": "https://github.com/frogcoder",
+  "followers_url": "https://api.github.com/users/frogcoder/followers",
+  "following_url": "https://api.github.com/users/frogcoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/frogcoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/frogcoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/frogcoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/frogcoder/orgs",
+  "repos_url": "https://api.github.com/users/frogcoder/repos",
+  "events_url": "https://api.github.com/users/frogcoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/frogcoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

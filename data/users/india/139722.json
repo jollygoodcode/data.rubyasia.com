@@ -1,0 +1,20 @@
+{
+  "login": "Pradeek",
+  "id": 139722,
+  "avatar_url": "https://avatars.githubusercontent.com/u/139722?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Pradeek",
+  "html_url": "https://github.com/Pradeek",
+  "followers_url": "https://api.github.com/users/Pradeek/followers",
+  "following_url": "https://api.github.com/users/Pradeek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Pradeek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Pradeek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Pradeek/subscriptions",
+  "organizations_url": "https://api.github.com/users/Pradeek/orgs",
+  "repos_url": "https://api.github.com/users/Pradeek/repos",
+  "events_url": "https://api.github.com/users/Pradeek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Pradeek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

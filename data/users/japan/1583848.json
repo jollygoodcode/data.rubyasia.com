@@ -1,0 +1,20 @@
+{
+  "login": "hiroara",
+  "id": 1583848,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1583848?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiroara",
+  "html_url": "https://github.com/hiroara",
+  "followers_url": "https://api.github.com/users/hiroara/followers",
+  "following_url": "https://api.github.com/users/hiroara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiroara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiroara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiroara/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiroara/orgs",
+  "repos_url": "https://api.github.com/users/hiroara/repos",
+  "events_url": "https://api.github.com/users/hiroara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiroara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

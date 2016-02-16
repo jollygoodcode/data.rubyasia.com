@@ -1,0 +1,20 @@
+{
+  "login": "jarrold",
+  "id": 164167,
+  "avatar_url": "https://avatars.githubusercontent.com/u/164167?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jarrold",
+  "html_url": "https://github.com/jarrold",
+  "followers_url": "https://api.github.com/users/jarrold/followers",
+  "following_url": "https://api.github.com/users/jarrold/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jarrold/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jarrold/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jarrold/subscriptions",
+  "organizations_url": "https://api.github.com/users/jarrold/orgs",
+  "repos_url": "https://api.github.com/users/jarrold/repos",
+  "events_url": "https://api.github.com/users/jarrold/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jarrold/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

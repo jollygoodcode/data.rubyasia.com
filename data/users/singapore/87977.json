@@ -1,0 +1,20 @@
+{
+  "login": "fry1026",
+  "id": 87977,
+  "avatar_url": "https://avatars.githubusercontent.com/u/87977?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fry1026",
+  "html_url": "https://github.com/fry1026",
+  "followers_url": "https://api.github.com/users/fry1026/followers",
+  "following_url": "https://api.github.com/users/fry1026/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fry1026/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fry1026/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fry1026/subscriptions",
+  "organizations_url": "https://api.github.com/users/fry1026/orgs",
+  "repos_url": "https://api.github.com/users/fry1026/repos",
+  "events_url": "https://api.github.com/users/fry1026/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fry1026/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

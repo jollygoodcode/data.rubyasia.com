@@ -1,0 +1,20 @@
+{
+  "login": "domofactor",
+  "id": 3372884,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3372884?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/domofactor",
+  "html_url": "https://github.com/domofactor",
+  "followers_url": "https://api.github.com/users/domofactor/followers",
+  "following_url": "https://api.github.com/users/domofactor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/domofactor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/domofactor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/domofactor/subscriptions",
+  "organizations_url": "https://api.github.com/users/domofactor/orgs",
+  "repos_url": "https://api.github.com/users/domofactor/repos",
+  "events_url": "https://api.github.com/users/domofactor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/domofactor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

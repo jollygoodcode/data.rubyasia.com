@@ -1,0 +1,20 @@
+{
+  "login": "sparkou",
+  "id": 8383521,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8383521?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sparkou",
+  "html_url": "https://github.com/sparkou",
+  "followers_url": "https://api.github.com/users/sparkou/followers",
+  "following_url": "https://api.github.com/users/sparkou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sparkou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sparkou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sparkou/subscriptions",
+  "organizations_url": "https://api.github.com/users/sparkou/orgs",
+  "repos_url": "https://api.github.com/users/sparkou/repos",
+  "events_url": "https://api.github.com/users/sparkou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sparkou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

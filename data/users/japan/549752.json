@@ -1,0 +1,20 @@
+{
+  "login": "kourin",
+  "id": 549752,
+  "avatar_url": "https://avatars.githubusercontent.com/u/549752?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kourin",
+  "html_url": "https://github.com/kourin",
+  "followers_url": "https://api.github.com/users/kourin/followers",
+  "following_url": "https://api.github.com/users/kourin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kourin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kourin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kourin/subscriptions",
+  "organizations_url": "https://api.github.com/users/kourin/orgs",
+  "repos_url": "https://api.github.com/users/kourin/repos",
+  "events_url": "https://api.github.com/users/kourin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kourin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

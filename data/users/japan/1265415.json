@@ -1,0 +1,20 @@
+{
+  "login": "Has-key-Inc",
+  "id": 1265415,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1265415?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Has-key-Inc",
+  "html_url": "https://github.com/Has-key-Inc",
+  "followers_url": "https://api.github.com/users/Has-key-Inc/followers",
+  "following_url": "https://api.github.com/users/Has-key-Inc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Has-key-Inc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Has-key-Inc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Has-key-Inc/subscriptions",
+  "organizations_url": "https://api.github.com/users/Has-key-Inc/orgs",
+  "repos_url": "https://api.github.com/users/Has-key-Inc/repos",
+  "events_url": "https://api.github.com/users/Has-key-Inc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Has-key-Inc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

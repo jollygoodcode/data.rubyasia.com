@@ -1,0 +1,20 @@
+{
+  "login": "kimitaka",
+  "id": 167225,
+  "avatar_url": "https://avatars.githubusercontent.com/u/167225?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimitaka",
+  "html_url": "https://github.com/kimitaka",
+  "followers_url": "https://api.github.com/users/kimitaka/followers",
+  "following_url": "https://api.github.com/users/kimitaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimitaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimitaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimitaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimitaka/orgs",
+  "repos_url": "https://api.github.com/users/kimitaka/repos",
+  "events_url": "https://api.github.com/users/kimitaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimitaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

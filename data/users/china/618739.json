@@ -1,0 +1,20 @@
+{
+  "login": "oppih",
+  "id": 618739,
+  "avatar_url": "https://avatars.githubusercontent.com/u/618739?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oppih",
+  "html_url": "https://github.com/oppih",
+  "followers_url": "https://api.github.com/users/oppih/followers",
+  "following_url": "https://api.github.com/users/oppih/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oppih/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oppih/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oppih/subscriptions",
+  "organizations_url": "https://api.github.com/users/oppih/orgs",
+  "repos_url": "https://api.github.com/users/oppih/repos",
+  "events_url": "https://api.github.com/users/oppih/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oppih/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

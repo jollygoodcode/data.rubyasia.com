@@ -1,0 +1,20 @@
+{
+  "login": "abexsoft",
+  "id": 832616,
+  "avatar_url": "https://avatars.githubusercontent.com/u/832616?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abexsoft",
+  "html_url": "https://github.com/abexsoft",
+  "followers_url": "https://api.github.com/users/abexsoft/followers",
+  "following_url": "https://api.github.com/users/abexsoft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abexsoft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abexsoft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abexsoft/subscriptions",
+  "organizations_url": "https://api.github.com/users/abexsoft/orgs",
+  "repos_url": "https://api.github.com/users/abexsoft/repos",
+  "events_url": "https://api.github.com/users/abexsoft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abexsoft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

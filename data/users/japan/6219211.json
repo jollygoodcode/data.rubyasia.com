@@ -1,0 +1,20 @@
+{
+  "login": "ykog",
+  "id": 6219211,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6219211?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ykog",
+  "html_url": "https://github.com/ykog",
+  "followers_url": "https://api.github.com/users/ykog/followers",
+  "following_url": "https://api.github.com/users/ykog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ykog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ykog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ykog/subscriptions",
+  "organizations_url": "https://api.github.com/users/ykog/orgs",
+  "repos_url": "https://api.github.com/users/ykog/repos",
+  "events_url": "https://api.github.com/users/ykog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ykog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

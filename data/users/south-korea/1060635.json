@@ -1,0 +1,20 @@
+{
+  "login": "devleoper",
+  "id": 1060635,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1060635?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devleoper",
+  "html_url": "https://github.com/devleoper",
+  "followers_url": "https://api.github.com/users/devleoper/followers",
+  "following_url": "https://api.github.com/users/devleoper/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devleoper/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devleoper/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devleoper/subscriptions",
+  "organizations_url": "https://api.github.com/users/devleoper/orgs",
+  "repos_url": "https://api.github.com/users/devleoper/repos",
+  "events_url": "https://api.github.com/users/devleoper/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devleoper/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

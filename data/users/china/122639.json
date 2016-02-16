@@ -1,0 +1,20 @@
+{
+  "login": "kumat",
+  "id": 122639,
+  "avatar_url": "https://avatars.githubusercontent.com/u/122639?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kumat",
+  "html_url": "https://github.com/kumat",
+  "followers_url": "https://api.github.com/users/kumat/followers",
+  "following_url": "https://api.github.com/users/kumat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kumat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kumat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kumat/subscriptions",
+  "organizations_url": "https://api.github.com/users/kumat/orgs",
+  "repos_url": "https://api.github.com/users/kumat/repos",
+  "events_url": "https://api.github.com/users/kumat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kumat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

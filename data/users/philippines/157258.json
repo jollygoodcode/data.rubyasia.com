@@ -1,0 +1,20 @@
+{
+  "login": "radamanthus",
+  "id": 157258,
+  "avatar_url": "https://avatars.githubusercontent.com/u/157258?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/radamanthus",
+  "html_url": "https://github.com/radamanthus",
+  "followers_url": "https://api.github.com/users/radamanthus/followers",
+  "following_url": "https://api.github.com/users/radamanthus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/radamanthus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/radamanthus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/radamanthus/subscriptions",
+  "organizations_url": "https://api.github.com/users/radamanthus/orgs",
+  "repos_url": "https://api.github.com/users/radamanthus/repos",
+  "events_url": "https://api.github.com/users/radamanthus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/radamanthus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

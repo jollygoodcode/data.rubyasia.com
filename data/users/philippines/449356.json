@@ -1,0 +1,20 @@
+{
+  "login": "akosiniko",
+  "id": 449356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/449356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akosiniko",
+  "html_url": "https://github.com/akosiniko",
+  "followers_url": "https://api.github.com/users/akosiniko/followers",
+  "following_url": "https://api.github.com/users/akosiniko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akosiniko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akosiniko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akosiniko/subscriptions",
+  "organizations_url": "https://api.github.com/users/akosiniko/orgs",
+  "repos_url": "https://api.github.com/users/akosiniko/repos",
+  "events_url": "https://api.github.com/users/akosiniko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akosiniko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

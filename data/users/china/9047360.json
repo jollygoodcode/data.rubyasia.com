@@ -1,0 +1,20 @@
+{
+  "login": "wanghuifeng",
+  "id": 9047360,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9047360?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wanghuifeng",
+  "html_url": "https://github.com/wanghuifeng",
+  "followers_url": "https://api.github.com/users/wanghuifeng/followers",
+  "following_url": "https://api.github.com/users/wanghuifeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wanghuifeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wanghuifeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wanghuifeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/wanghuifeng/orgs",
+  "repos_url": "https://api.github.com/users/wanghuifeng/repos",
+  "events_url": "https://api.github.com/users/wanghuifeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wanghuifeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

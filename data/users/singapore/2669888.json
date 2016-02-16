@@ -1,0 +1,20 @@
+{
+  "login": "simontoh",
+  "id": 2669888,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2669888?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simontoh",
+  "html_url": "https://github.com/simontoh",
+  "followers_url": "https://api.github.com/users/simontoh/followers",
+  "following_url": "https://api.github.com/users/simontoh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simontoh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simontoh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simontoh/subscriptions",
+  "organizations_url": "https://api.github.com/users/simontoh/orgs",
+  "repos_url": "https://api.github.com/users/simontoh/repos",
+  "events_url": "https://api.github.com/users/simontoh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simontoh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

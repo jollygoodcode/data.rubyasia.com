@@ -1,0 +1,20 @@
+{
+  "login": "adaikal",
+  "id": 9711936,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9711936?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adaikal",
+  "html_url": "https://github.com/adaikal",
+  "followers_url": "https://api.github.com/users/adaikal/followers",
+  "following_url": "https://api.github.com/users/adaikal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adaikal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adaikal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adaikal/subscriptions",
+  "organizations_url": "https://api.github.com/users/adaikal/orgs",
+  "repos_url": "https://api.github.com/users/adaikal/repos",
+  "events_url": "https://api.github.com/users/adaikal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adaikal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hoiqz",
+  "id": 2108098,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2108098?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoiqz",
+  "html_url": "https://github.com/hoiqz",
+  "followers_url": "https://api.github.com/users/hoiqz/followers",
+  "following_url": "https://api.github.com/users/hoiqz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoiqz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoiqz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoiqz/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoiqz/orgs",
+  "repos_url": "https://api.github.com/users/hoiqz/repos",
+  "events_url": "https://api.github.com/users/hoiqz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoiqz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "devkato",
+  "id": 231487,
+  "avatar_url": "https://avatars.githubusercontent.com/u/231487?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devkato",
+  "html_url": "https://github.com/devkato",
+  "followers_url": "https://api.github.com/users/devkato/followers",
+  "following_url": "https://api.github.com/users/devkato/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devkato/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devkato/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devkato/subscriptions",
+  "organizations_url": "https://api.github.com/users/devkato/orgs",
+  "repos_url": "https://api.github.com/users/devkato/repos",
+  "events_url": "https://api.github.com/users/devkato/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devkato/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

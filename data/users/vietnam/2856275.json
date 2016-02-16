@@ -1,0 +1,20 @@
+{
+  "login": "benxao",
+  "id": 2856275,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2856275?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/benxao",
+  "html_url": "https://github.com/benxao",
+  "followers_url": "https://api.github.com/users/benxao/followers",
+  "following_url": "https://api.github.com/users/benxao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/benxao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/benxao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/benxao/subscriptions",
+  "organizations_url": "https://api.github.com/users/benxao/orgs",
+  "repos_url": "https://api.github.com/users/benxao/repos",
+  "events_url": "https://api.github.com/users/benxao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/benxao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

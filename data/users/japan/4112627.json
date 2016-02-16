@@ -1,0 +1,20 @@
+{
+  "login": "kansaichris",
+  "id": 4112627,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4112627?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kansaichris",
+  "html_url": "https://github.com/kansaichris",
+  "followers_url": "https://api.github.com/users/kansaichris/followers",
+  "following_url": "https://api.github.com/users/kansaichris/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kansaichris/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kansaichris/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kansaichris/subscriptions",
+  "organizations_url": "https://api.github.com/users/kansaichris/orgs",
+  "repos_url": "https://api.github.com/users/kansaichris/repos",
+  "events_url": "https://api.github.com/users/kansaichris/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kansaichris/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

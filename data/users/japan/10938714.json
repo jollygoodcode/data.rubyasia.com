@@ -1,0 +1,20 @@
+{
+  "login": "codeLabInsider",
+  "id": 10938714,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10938714?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codeLabInsider",
+  "html_url": "https://github.com/codeLabInsider",
+  "followers_url": "https://api.github.com/users/codeLabInsider/followers",
+  "following_url": "https://api.github.com/users/codeLabInsider/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codeLabInsider/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codeLabInsider/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codeLabInsider/subscriptions",
+  "organizations_url": "https://api.github.com/users/codeLabInsider/orgs",
+  "repos_url": "https://api.github.com/users/codeLabInsider/repos",
+  "events_url": "https://api.github.com/users/codeLabInsider/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codeLabInsider/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

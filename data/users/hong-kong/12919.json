@@ -1,0 +1,20 @@
+{
+  "login": "farra",
+  "id": 12919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/farra",
+  "html_url": "https://github.com/farra",
+  "followers_url": "https://api.github.com/users/farra/followers",
+  "following_url": "https://api.github.com/users/farra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/farra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/farra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/farra/subscriptions",
+  "organizations_url": "https://api.github.com/users/farra/orgs",
+  "repos_url": "https://api.github.com/users/farra/repos",
+  "events_url": "https://api.github.com/users/farra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/farra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

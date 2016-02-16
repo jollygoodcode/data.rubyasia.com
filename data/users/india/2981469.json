@@ -1,0 +1,20 @@
+{
+  "login": "achalbi",
+  "id": 2981469,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2981469?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/achalbi",
+  "html_url": "https://github.com/achalbi",
+  "followers_url": "https://api.github.com/users/achalbi/followers",
+  "following_url": "https://api.github.com/users/achalbi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/achalbi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/achalbi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/achalbi/subscriptions",
+  "organizations_url": "https://api.github.com/users/achalbi/orgs",
+  "repos_url": "https://api.github.com/users/achalbi/repos",
+  "events_url": "https://api.github.com/users/achalbi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/achalbi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

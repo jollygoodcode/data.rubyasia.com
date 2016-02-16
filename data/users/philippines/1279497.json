@@ -1,0 +1,20 @@
+{
+  "login": "akosipc",
+  "id": 1279497,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1279497?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akosipc",
+  "html_url": "https://github.com/akosipc",
+  "followers_url": "https://api.github.com/users/akosipc/followers",
+  "following_url": "https://api.github.com/users/akosipc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akosipc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akosipc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akosipc/subscriptions",
+  "organizations_url": "https://api.github.com/users/akosipc/orgs",
+  "repos_url": "https://api.github.com/users/akosipc/repos",
+  "events_url": "https://api.github.com/users/akosipc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akosipc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "alaboszhang",
+  "id": 999159,
+  "avatar_url": "https://avatars.githubusercontent.com/u/999159?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alaboszhang",
+  "html_url": "https://github.com/alaboszhang",
+  "followers_url": "https://api.github.com/users/alaboszhang/followers",
+  "following_url": "https://api.github.com/users/alaboszhang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alaboszhang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alaboszhang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alaboszhang/subscriptions",
+  "organizations_url": "https://api.github.com/users/alaboszhang/orgs",
+  "repos_url": "https://api.github.com/users/alaboszhang/repos",
+  "events_url": "https://api.github.com/users/alaboszhang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alaboszhang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

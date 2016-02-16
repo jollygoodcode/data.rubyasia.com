@@ -1,0 +1,20 @@
+{
+  "login": "marsz",
+  "id": 169716,
+  "avatar_url": "https://avatars.githubusercontent.com/u/169716?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marsz",
+  "html_url": "https://github.com/marsz",
+  "followers_url": "https://api.github.com/users/marsz/followers",
+  "following_url": "https://api.github.com/users/marsz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marsz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marsz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marsz/subscriptions",
+  "organizations_url": "https://api.github.com/users/marsz/orgs",
+  "repos_url": "https://api.github.com/users/marsz/repos",
+  "events_url": "https://api.github.com/users/marsz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marsz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

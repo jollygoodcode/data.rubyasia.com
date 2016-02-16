@@ -1,0 +1,20 @@
+{
+  "login": "global-step",
+  "id": 8747921,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8747921?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/global-step",
+  "html_url": "https://github.com/global-step",
+  "followers_url": "https://api.github.com/users/global-step/followers",
+  "following_url": "https://api.github.com/users/global-step/following{/other_user}",
+  "gists_url": "https://api.github.com/users/global-step/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/global-step/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/global-step/subscriptions",
+  "organizations_url": "https://api.github.com/users/global-step/orgs",
+  "repos_url": "https://api.github.com/users/global-step/repos",
+  "events_url": "https://api.github.com/users/global-step/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/global-step/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

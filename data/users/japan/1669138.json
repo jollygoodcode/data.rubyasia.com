@@ -1,0 +1,20 @@
+{
+  "login": "daishiro",
+  "id": 1669138,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1669138?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daishiro",
+  "html_url": "https://github.com/daishiro",
+  "followers_url": "https://api.github.com/users/daishiro/followers",
+  "following_url": "https://api.github.com/users/daishiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daishiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daishiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daishiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/daishiro/orgs",
+  "repos_url": "https://api.github.com/users/daishiro/repos",
+  "events_url": "https://api.github.com/users/daishiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daishiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

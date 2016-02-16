@@ -1,0 +1,20 @@
+{
+  "login": "arwasil",
+  "id": 5238448,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5238448?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arwasil",
+  "html_url": "https://github.com/arwasil",
+  "followers_url": "https://api.github.com/users/arwasil/followers",
+  "following_url": "https://api.github.com/users/arwasil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arwasil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arwasil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arwasil/subscriptions",
+  "organizations_url": "https://api.github.com/users/arwasil/orgs",
+  "repos_url": "https://api.github.com/users/arwasil/repos",
+  "events_url": "https://api.github.com/users/arwasil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arwasil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

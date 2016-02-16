@@ -1,0 +1,20 @@
+{
+  "login": "Charlesjean",
+  "id": 2622241,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2622241?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Charlesjean",
+  "html_url": "https://github.com/Charlesjean",
+  "followers_url": "https://api.github.com/users/Charlesjean/followers",
+  "following_url": "https://api.github.com/users/Charlesjean/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Charlesjean/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Charlesjean/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Charlesjean/subscriptions",
+  "organizations_url": "https://api.github.com/users/Charlesjean/orgs",
+  "repos_url": "https://api.github.com/users/Charlesjean/repos",
+  "events_url": "https://api.github.com/users/Charlesjean/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Charlesjean/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

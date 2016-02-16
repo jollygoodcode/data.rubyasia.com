@@ -1,0 +1,20 @@
+{
+  "login": "wangaguo",
+  "id": 129443,
+  "avatar_url": "https://avatars.githubusercontent.com/u/129443?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wangaguo",
+  "html_url": "https://github.com/wangaguo",
+  "followers_url": "https://api.github.com/users/wangaguo/followers",
+  "following_url": "https://api.github.com/users/wangaguo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wangaguo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wangaguo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wangaguo/subscriptions",
+  "organizations_url": "https://api.github.com/users/wangaguo/orgs",
+  "repos_url": "https://api.github.com/users/wangaguo/repos",
+  "events_url": "https://api.github.com/users/wangaguo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wangaguo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

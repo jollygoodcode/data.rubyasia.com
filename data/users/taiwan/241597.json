@@ -1,0 +1,20 @@
+{
+  "login": "taiansu",
+  "id": 241597,
+  "avatar_url": "https://avatars.githubusercontent.com/u/241597?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taiansu",
+  "html_url": "https://github.com/taiansu",
+  "followers_url": "https://api.github.com/users/taiansu/followers",
+  "following_url": "https://api.github.com/users/taiansu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taiansu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taiansu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taiansu/subscriptions",
+  "organizations_url": "https://api.github.com/users/taiansu/orgs",
+  "repos_url": "https://api.github.com/users/taiansu/repos",
+  "events_url": "https://api.github.com/users/taiansu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taiansu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

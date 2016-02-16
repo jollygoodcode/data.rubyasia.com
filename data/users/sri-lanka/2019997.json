@@ -1,0 +1,20 @@
+{
+  "login": "hmdmph",
+  "id": 2019997,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2019997?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hmdmph",
+  "html_url": "https://github.com/hmdmph",
+  "followers_url": "https://api.github.com/users/hmdmph/followers",
+  "following_url": "https://api.github.com/users/hmdmph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hmdmph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hmdmph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hmdmph/subscriptions",
+  "organizations_url": "https://api.github.com/users/hmdmph/orgs",
+  "repos_url": "https://api.github.com/users/hmdmph/repos",
+  "events_url": "https://api.github.com/users/hmdmph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hmdmph/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

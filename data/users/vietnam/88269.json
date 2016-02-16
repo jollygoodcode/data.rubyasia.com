@@ -1,0 +1,20 @@
+{
+  "login": "TinNT",
+  "id": 88269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/88269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TinNT",
+  "html_url": "https://github.com/TinNT",
+  "followers_url": "https://api.github.com/users/TinNT/followers",
+  "following_url": "https://api.github.com/users/TinNT/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TinNT/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TinNT/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TinNT/subscriptions",
+  "organizations_url": "https://api.github.com/users/TinNT/orgs",
+  "repos_url": "https://api.github.com/users/TinNT/repos",
+  "events_url": "https://api.github.com/users/TinNT/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TinNT/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

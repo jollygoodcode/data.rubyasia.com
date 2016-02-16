@@ -1,0 +1,20 @@
+{
+  "login": "vitei",
+  "id": 1657571,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1657571?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vitei",
+  "html_url": "https://github.com/vitei",
+  "followers_url": "https://api.github.com/users/vitei/followers",
+  "following_url": "https://api.github.com/users/vitei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vitei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vitei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vitei/subscriptions",
+  "organizations_url": "https://api.github.com/users/vitei/orgs",
+  "repos_url": "https://api.github.com/users/vitei/repos",
+  "events_url": "https://api.github.com/users/vitei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vitei/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

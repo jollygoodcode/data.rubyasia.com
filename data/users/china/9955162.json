@@ -1,0 +1,20 @@
+{
+  "login": "GenaJo",
+  "id": 9955162,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9955162?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GenaJo",
+  "html_url": "https://github.com/GenaJo",
+  "followers_url": "https://api.github.com/users/GenaJo/followers",
+  "following_url": "https://api.github.com/users/GenaJo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GenaJo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GenaJo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GenaJo/subscriptions",
+  "organizations_url": "https://api.github.com/users/GenaJo/orgs",
+  "repos_url": "https://api.github.com/users/GenaJo/repos",
+  "events_url": "https://api.github.com/users/GenaJo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GenaJo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

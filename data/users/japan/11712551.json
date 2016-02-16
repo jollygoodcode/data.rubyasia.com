@@ -1,0 +1,20 @@
+{
+  "login": "leonis",
+  "id": 11712551,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11712551?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leonis",
+  "html_url": "https://github.com/leonis",
+  "followers_url": "https://api.github.com/users/leonis/followers",
+  "following_url": "https://api.github.com/users/leonis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leonis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leonis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leonis/subscriptions",
+  "organizations_url": "https://api.github.com/users/leonis/orgs",
+  "repos_url": "https://api.github.com/users/leonis/repos",
+  "events_url": "https://api.github.com/users/leonis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leonis/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

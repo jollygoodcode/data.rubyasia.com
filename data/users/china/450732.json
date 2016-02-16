@@ -1,0 +1,20 @@
+{
+  "login": "kols",
+  "id": 450732,
+  "avatar_url": "https://avatars.githubusercontent.com/u/450732?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kols",
+  "html_url": "https://github.com/kols",
+  "followers_url": "https://api.github.com/users/kols/followers",
+  "following_url": "https://api.github.com/users/kols/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kols/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kols/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kols/subscriptions",
+  "organizations_url": "https://api.github.com/users/kols/orgs",
+  "repos_url": "https://api.github.com/users/kols/repos",
+  "events_url": "https://api.github.com/users/kols/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kols/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

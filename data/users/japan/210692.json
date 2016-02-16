@@ -1,0 +1,20 @@
+{
+  "login": "Mahito",
+  "id": 210692,
+  "avatar_url": "https://avatars.githubusercontent.com/u/210692?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Mahito",
+  "html_url": "https://github.com/Mahito",
+  "followers_url": "https://api.github.com/users/Mahito/followers",
+  "following_url": "https://api.github.com/users/Mahito/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Mahito/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Mahito/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Mahito/subscriptions",
+  "organizations_url": "https://api.github.com/users/Mahito/orgs",
+  "repos_url": "https://api.github.com/users/Mahito/repos",
+  "events_url": "https://api.github.com/users/Mahito/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Mahito/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

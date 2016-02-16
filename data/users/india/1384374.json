@@ -1,0 +1,20 @@
+{
+  "login": "AppYantra",
+  "id": 1384374,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1384374?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AppYantra",
+  "html_url": "https://github.com/AppYantra",
+  "followers_url": "https://api.github.com/users/AppYantra/followers",
+  "following_url": "https://api.github.com/users/AppYantra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AppYantra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AppYantra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AppYantra/subscriptions",
+  "organizations_url": "https://api.github.com/users/AppYantra/orgs",
+  "repos_url": "https://api.github.com/users/AppYantra/repos",
+  "events_url": "https://api.github.com/users/AppYantra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AppYantra/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

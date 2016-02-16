@@ -1,0 +1,20 @@
+{
+  "login": "dodoinblue",
+  "id": 3479048,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3479048?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dodoinblue",
+  "html_url": "https://github.com/dodoinblue",
+  "followers_url": "https://api.github.com/users/dodoinblue/followers",
+  "following_url": "https://api.github.com/users/dodoinblue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dodoinblue/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dodoinblue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dodoinblue/subscriptions",
+  "organizations_url": "https://api.github.com/users/dodoinblue/orgs",
+  "repos_url": "https://api.github.com/users/dodoinblue/repos",
+  "events_url": "https://api.github.com/users/dodoinblue/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dodoinblue/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

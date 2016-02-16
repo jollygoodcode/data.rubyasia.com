@@ -1,0 +1,20 @@
+{
+  "login": "giosakti",
+  "id": 524078,
+  "avatar_url": "https://avatars.githubusercontent.com/u/524078?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/giosakti",
+  "html_url": "https://github.com/giosakti",
+  "followers_url": "https://api.github.com/users/giosakti/followers",
+  "following_url": "https://api.github.com/users/giosakti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/giosakti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/giosakti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/giosakti/subscriptions",
+  "organizations_url": "https://api.github.com/users/giosakti/orgs",
+  "repos_url": "https://api.github.com/users/giosakti/repos",
+  "events_url": "https://api.github.com/users/giosakti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/giosakti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

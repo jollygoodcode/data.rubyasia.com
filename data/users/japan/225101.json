@@ -1,0 +1,20 @@
+{
+  "login": "ukyooo",
+  "id": 225101,
+  "avatar_url": "https://avatars.githubusercontent.com/u/225101?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ukyooo",
+  "html_url": "https://github.com/ukyooo",
+  "followers_url": "https://api.github.com/users/ukyooo/followers",
+  "following_url": "https://api.github.com/users/ukyooo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ukyooo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ukyooo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ukyooo/subscriptions",
+  "organizations_url": "https://api.github.com/users/ukyooo/orgs",
+  "repos_url": "https://api.github.com/users/ukyooo/repos",
+  "events_url": "https://api.github.com/users/ukyooo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ukyooo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

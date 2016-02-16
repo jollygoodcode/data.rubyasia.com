@@ -1,0 +1,20 @@
+{
+  "login": "osamingo",
+  "id": 1390409,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1390409?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/osamingo",
+  "html_url": "https://github.com/osamingo",
+  "followers_url": "https://api.github.com/users/osamingo/followers",
+  "following_url": "https://api.github.com/users/osamingo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/osamingo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/osamingo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/osamingo/subscriptions",
+  "organizations_url": "https://api.github.com/users/osamingo/orgs",
+  "repos_url": "https://api.github.com/users/osamingo/repos",
+  "events_url": "https://api.github.com/users/osamingo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/osamingo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

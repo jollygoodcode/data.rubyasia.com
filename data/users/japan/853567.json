@@ -1,0 +1,20 @@
+{
+  "login": "takuti",
+  "id": 853567,
+  "avatar_url": "https://avatars.githubusercontent.com/u/853567?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takuti",
+  "html_url": "https://github.com/takuti",
+  "followers_url": "https://api.github.com/users/takuti/followers",
+  "following_url": "https://api.github.com/users/takuti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takuti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takuti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takuti/subscriptions",
+  "organizations_url": "https://api.github.com/users/takuti/orgs",
+  "repos_url": "https://api.github.com/users/takuti/repos",
+  "events_url": "https://api.github.com/users/takuti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takuti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

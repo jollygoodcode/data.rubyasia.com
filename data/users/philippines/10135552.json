@@ -1,0 +1,20 @@
+{
+  "login": "Globe",
+  "id": 10135552,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10135552?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Globe",
+  "html_url": "https://github.com/Globe",
+  "followers_url": "https://api.github.com/users/Globe/followers",
+  "following_url": "https://api.github.com/users/Globe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Globe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Globe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Globe/subscriptions",
+  "organizations_url": "https://api.github.com/users/Globe/orgs",
+  "repos_url": "https://api.github.com/users/Globe/repos",
+  "events_url": "https://api.github.com/users/Globe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Globe/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

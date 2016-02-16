@@ -1,0 +1,20 @@
+{
+  "login": "namihitoo",
+  "id": 6828726,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6828726?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/namihitoo",
+  "html_url": "https://github.com/namihitoo",
+  "followers_url": "https://api.github.com/users/namihitoo/followers",
+  "following_url": "https://api.github.com/users/namihitoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/namihitoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/namihitoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/namihitoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/namihitoo/orgs",
+  "repos_url": "https://api.github.com/users/namihitoo/repos",
+  "events_url": "https://api.github.com/users/namihitoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/namihitoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

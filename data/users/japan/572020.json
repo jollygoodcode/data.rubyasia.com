@@ -1,0 +1,20 @@
+{
+  "login": "fakestarbaby",
+  "id": 572020,
+  "avatar_url": "https://avatars.githubusercontent.com/u/572020?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fakestarbaby",
+  "html_url": "https://github.com/fakestarbaby",
+  "followers_url": "https://api.github.com/users/fakestarbaby/followers",
+  "following_url": "https://api.github.com/users/fakestarbaby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fakestarbaby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fakestarbaby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fakestarbaby/subscriptions",
+  "organizations_url": "https://api.github.com/users/fakestarbaby/orgs",
+  "repos_url": "https://api.github.com/users/fakestarbaby/repos",
+  "events_url": "https://api.github.com/users/fakestarbaby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fakestarbaby/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

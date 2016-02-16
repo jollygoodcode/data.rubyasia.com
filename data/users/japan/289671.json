@@ -1,0 +1,20 @@
+{
+  "login": "ruedap",
+  "id": 289671,
+  "avatar_url": "https://avatars.githubusercontent.com/u/289671?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ruedap",
+  "html_url": "https://github.com/ruedap",
+  "followers_url": "https://api.github.com/users/ruedap/followers",
+  "following_url": "https://api.github.com/users/ruedap/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ruedap/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ruedap/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ruedap/subscriptions",
+  "organizations_url": "https://api.github.com/users/ruedap/orgs",
+  "repos_url": "https://api.github.com/users/ruedap/repos",
+  "events_url": "https://api.github.com/users/ruedap/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ruedap/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

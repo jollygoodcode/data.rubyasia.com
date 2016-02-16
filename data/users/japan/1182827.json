@@ -1,0 +1,20 @@
+{
+  "login": "tnaoto",
+  "id": 1182827,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1182827?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tnaoto",
+  "html_url": "https://github.com/tnaoto",
+  "followers_url": "https://api.github.com/users/tnaoto/followers",
+  "following_url": "https://api.github.com/users/tnaoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tnaoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tnaoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tnaoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/tnaoto/orgs",
+  "repos_url": "https://api.github.com/users/tnaoto/repos",
+  "events_url": "https://api.github.com/users/tnaoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tnaoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

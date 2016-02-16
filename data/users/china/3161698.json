@@ -1,0 +1,20 @@
+{
+  "login": "yeeon",
+  "id": 3161698,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3161698?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yeeon",
+  "html_url": "https://github.com/yeeon",
+  "followers_url": "https://api.github.com/users/yeeon/followers",
+  "following_url": "https://api.github.com/users/yeeon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yeeon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yeeon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yeeon/subscriptions",
+  "organizations_url": "https://api.github.com/users/yeeon/orgs",
+  "repos_url": "https://api.github.com/users/yeeon/repos",
+  "events_url": "https://api.github.com/users/yeeon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yeeon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

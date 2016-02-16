@@ -1,0 +1,20 @@
+{
+  "login": "vertizone",
+  "id": 2853919,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2853919?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vertizone",
+  "html_url": "https://github.com/vertizone",
+  "followers_url": "https://api.github.com/users/vertizone/followers",
+  "following_url": "https://api.github.com/users/vertizone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vertizone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vertizone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vertizone/subscriptions",
+  "organizations_url": "https://api.github.com/users/vertizone/orgs",
+  "repos_url": "https://api.github.com/users/vertizone/repos",
+  "events_url": "https://api.github.com/users/vertizone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vertizone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "droxer",
+  "id": 587723,
+  "avatar_url": "https://avatars.githubusercontent.com/u/587723?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/droxer",
+  "html_url": "https://github.com/droxer",
+  "followers_url": "https://api.github.com/users/droxer/followers",
+  "following_url": "https://api.github.com/users/droxer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/droxer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/droxer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/droxer/subscriptions",
+  "organizations_url": "https://api.github.com/users/droxer/orgs",
+  "repos_url": "https://api.github.com/users/droxer/repos",
+  "events_url": "https://api.github.com/users/droxer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/droxer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

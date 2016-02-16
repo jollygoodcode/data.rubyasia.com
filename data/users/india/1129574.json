@@ -1,0 +1,20 @@
+{
+  "login": "Parteek",
+  "id": 1129574,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1129574?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Parteek",
+  "html_url": "https://github.com/Parteek",
+  "followers_url": "https://api.github.com/users/Parteek/followers",
+  "following_url": "https://api.github.com/users/Parteek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Parteek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Parteek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Parteek/subscriptions",
+  "organizations_url": "https://api.github.com/users/Parteek/orgs",
+  "repos_url": "https://api.github.com/users/Parteek/repos",
+  "events_url": "https://api.github.com/users/Parteek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Parteek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

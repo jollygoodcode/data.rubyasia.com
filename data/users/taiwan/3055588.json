@@ -1,0 +1,20 @@
+{
+  "login": "kengyulin",
+  "id": 3055588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3055588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kengyulin",
+  "html_url": "https://github.com/kengyulin",
+  "followers_url": "https://api.github.com/users/kengyulin/followers",
+  "following_url": "https://api.github.com/users/kengyulin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kengyulin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kengyulin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kengyulin/subscriptions",
+  "organizations_url": "https://api.github.com/users/kengyulin/orgs",
+  "repos_url": "https://api.github.com/users/kengyulin/repos",
+  "events_url": "https://api.github.com/users/kengyulin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kengyulin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

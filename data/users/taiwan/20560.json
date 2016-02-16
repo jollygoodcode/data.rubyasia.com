@@ -1,0 +1,20 @@
+{
+  "login": "ddmanlin",
+  "id": 20560,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20560?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ddmanlin",
+  "html_url": "https://github.com/ddmanlin",
+  "followers_url": "https://api.github.com/users/ddmanlin/followers",
+  "following_url": "https://api.github.com/users/ddmanlin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ddmanlin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ddmanlin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ddmanlin/subscriptions",
+  "organizations_url": "https://api.github.com/users/ddmanlin/orgs",
+  "repos_url": "https://api.github.com/users/ddmanlin/repos",
+  "events_url": "https://api.github.com/users/ddmanlin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ddmanlin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

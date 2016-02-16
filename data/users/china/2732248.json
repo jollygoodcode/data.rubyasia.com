@@ -1,0 +1,20 @@
+{
+  "login": "schejin",
+  "id": 2732248,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2732248?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/schejin",
+  "html_url": "https://github.com/schejin",
+  "followers_url": "https://api.github.com/users/schejin/followers",
+  "following_url": "https://api.github.com/users/schejin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/schejin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/schejin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/schejin/subscriptions",
+  "organizations_url": "https://api.github.com/users/schejin/orgs",
+  "repos_url": "https://api.github.com/users/schejin/repos",
+  "events_url": "https://api.github.com/users/schejin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/schejin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

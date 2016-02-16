@@ -1,0 +1,20 @@
+{
+  "login": "timhtheos",
+  "id": 700789,
+  "avatar_url": "https://avatars.githubusercontent.com/u/700789?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/timhtheos",
+  "html_url": "https://github.com/timhtheos",
+  "followers_url": "https://api.github.com/users/timhtheos/followers",
+  "following_url": "https://api.github.com/users/timhtheos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/timhtheos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/timhtheos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/timhtheos/subscriptions",
+  "organizations_url": "https://api.github.com/users/timhtheos/orgs",
+  "repos_url": "https://api.github.com/users/timhtheos/repos",
+  "events_url": "https://api.github.com/users/timhtheos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/timhtheos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

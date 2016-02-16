@@ -1,0 +1,20 @@
+{
+  "login": "armaniacs",
+  "id": 103550,
+  "avatar_url": "https://avatars.githubusercontent.com/u/103550?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/armaniacs",
+  "html_url": "https://github.com/armaniacs",
+  "followers_url": "https://api.github.com/users/armaniacs/followers",
+  "following_url": "https://api.github.com/users/armaniacs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/armaniacs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/armaniacs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/armaniacs/subscriptions",
+  "organizations_url": "https://api.github.com/users/armaniacs/orgs",
+  "repos_url": "https://api.github.com/users/armaniacs/repos",
+  "events_url": "https://api.github.com/users/armaniacs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/armaniacs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "leepupu",
+  "id": 2727579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2727579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leepupu",
+  "html_url": "https://github.com/leepupu",
+  "followers_url": "https://api.github.com/users/leepupu/followers",
+  "following_url": "https://api.github.com/users/leepupu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leepupu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leepupu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leepupu/subscriptions",
+  "organizations_url": "https://api.github.com/users/leepupu/orgs",
+  "repos_url": "https://api.github.com/users/leepupu/repos",
+  "events_url": "https://api.github.com/users/leepupu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leepupu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

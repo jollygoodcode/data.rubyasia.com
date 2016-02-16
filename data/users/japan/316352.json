@@ -1,0 +1,20 @@
+{
+  "login": "zerohistory",
+  "id": 316352,
+  "avatar_url": "https://avatars.githubusercontent.com/u/316352?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zerohistory",
+  "html_url": "https://github.com/zerohistory",
+  "followers_url": "https://api.github.com/users/zerohistory/followers",
+  "following_url": "https://api.github.com/users/zerohistory/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zerohistory/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zerohistory/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zerohistory/subscriptions",
+  "organizations_url": "https://api.github.com/users/zerohistory/orgs",
+  "repos_url": "https://api.github.com/users/zerohistory/repos",
+  "events_url": "https://api.github.com/users/zerohistory/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zerohistory/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

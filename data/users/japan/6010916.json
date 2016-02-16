@@ -1,0 +1,20 @@
+{
+  "login": "John-Fod",
+  "id": 6010916,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6010916?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/John-Fod",
+  "html_url": "https://github.com/John-Fod",
+  "followers_url": "https://api.github.com/users/John-Fod/followers",
+  "following_url": "https://api.github.com/users/John-Fod/following{/other_user}",
+  "gists_url": "https://api.github.com/users/John-Fod/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/John-Fod/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/John-Fod/subscriptions",
+  "organizations_url": "https://api.github.com/users/John-Fod/orgs",
+  "repos_url": "https://api.github.com/users/John-Fod/repos",
+  "events_url": "https://api.github.com/users/John-Fod/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/John-Fod/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

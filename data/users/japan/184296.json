@@ -1,0 +1,20 @@
+{
+  "login": "knb",
+  "id": 184296,
+  "avatar_url": "https://avatars.githubusercontent.com/u/184296?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/knb",
+  "html_url": "https://github.com/knb",
+  "followers_url": "https://api.github.com/users/knb/followers",
+  "following_url": "https://api.github.com/users/knb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/knb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/knb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/knb/subscriptions",
+  "organizations_url": "https://api.github.com/users/knb/orgs",
+  "repos_url": "https://api.github.com/users/knb/repos",
+  "events_url": "https://api.github.com/users/knb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/knb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

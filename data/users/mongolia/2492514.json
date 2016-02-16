@@ -1,0 +1,20 @@
+{
+  "login": "THE-Beck",
+  "id": 2492514,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2492514?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/THE-Beck",
+  "html_url": "https://github.com/THE-Beck",
+  "followers_url": "https://api.github.com/users/THE-Beck/followers",
+  "following_url": "https://api.github.com/users/THE-Beck/following{/other_user}",
+  "gists_url": "https://api.github.com/users/THE-Beck/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/THE-Beck/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/THE-Beck/subscriptions",
+  "organizations_url": "https://api.github.com/users/THE-Beck/orgs",
+  "repos_url": "https://api.github.com/users/THE-Beck/repos",
+  "events_url": "https://api.github.com/users/THE-Beck/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/THE-Beck/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

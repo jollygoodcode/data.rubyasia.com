@@ -1,0 +1,20 @@
+{
+  "login": "enocom",
+  "id": 1175430,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1175430?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/enocom",
+  "html_url": "https://github.com/enocom",
+  "followers_url": "https://api.github.com/users/enocom/followers",
+  "following_url": "https://api.github.com/users/enocom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/enocom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/enocom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/enocom/subscriptions",
+  "organizations_url": "https://api.github.com/users/enocom/orgs",
+  "repos_url": "https://api.github.com/users/enocom/repos",
+  "events_url": "https://api.github.com/users/enocom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/enocom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

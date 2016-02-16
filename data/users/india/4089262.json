@@ -1,0 +1,20 @@
+{
+  "login": "dezineapps",
+  "id": 4089262,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4089262?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dezineapps",
+  "html_url": "https://github.com/dezineapps",
+  "followers_url": "https://api.github.com/users/dezineapps/followers",
+  "following_url": "https://api.github.com/users/dezineapps/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dezineapps/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dezineapps/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dezineapps/subscriptions",
+  "organizations_url": "https://api.github.com/users/dezineapps/orgs",
+  "repos_url": "https://api.github.com/users/dezineapps/repos",
+  "events_url": "https://api.github.com/users/dezineapps/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dezineapps/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

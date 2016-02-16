@@ -1,0 +1,20 @@
+{
+  "login": "lookping",
+  "id": 4343944,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4343944?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lookping",
+  "html_url": "https://github.com/lookping",
+  "followers_url": "https://api.github.com/users/lookping/followers",
+  "following_url": "https://api.github.com/users/lookping/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lookping/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lookping/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lookping/subscriptions",
+  "organizations_url": "https://api.github.com/users/lookping/orgs",
+  "repos_url": "https://api.github.com/users/lookping/repos",
+  "events_url": "https://api.github.com/users/lookping/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lookping/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

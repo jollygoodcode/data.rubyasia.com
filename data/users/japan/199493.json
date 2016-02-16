@@ -1,0 +1,20 @@
+{
+  "login": "1syo",
+  "id": 199493,
+  "avatar_url": "https://avatars.githubusercontent.com/u/199493?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/1syo",
+  "html_url": "https://github.com/1syo",
+  "followers_url": "https://api.github.com/users/1syo/followers",
+  "following_url": "https://api.github.com/users/1syo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/1syo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/1syo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/1syo/subscriptions",
+  "organizations_url": "https://api.github.com/users/1syo/orgs",
+  "repos_url": "https://api.github.com/users/1syo/repos",
+  "events_url": "https://api.github.com/users/1syo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/1syo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

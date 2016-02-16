@@ -1,0 +1,20 @@
+{
+  "login": "ichiban",
+  "id": 29017,
+  "avatar_url": "https://avatars.githubusercontent.com/u/29017?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ichiban",
+  "html_url": "https://github.com/ichiban",
+  "followers_url": "https://api.github.com/users/ichiban/followers",
+  "following_url": "https://api.github.com/users/ichiban/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ichiban/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ichiban/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ichiban/subscriptions",
+  "organizations_url": "https://api.github.com/users/ichiban/orgs",
+  "repos_url": "https://api.github.com/users/ichiban/repos",
+  "events_url": "https://api.github.com/users/ichiban/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ichiban/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

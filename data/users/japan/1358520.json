@@ -1,0 +1,20 @@
+{
+  "login": "originalpeople",
+  "id": 1358520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1358520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/originalpeople",
+  "html_url": "https://github.com/originalpeople",
+  "followers_url": "https://api.github.com/users/originalpeople/followers",
+  "following_url": "https://api.github.com/users/originalpeople/following{/other_user}",
+  "gists_url": "https://api.github.com/users/originalpeople/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/originalpeople/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/originalpeople/subscriptions",
+  "organizations_url": "https://api.github.com/users/originalpeople/orgs",
+  "repos_url": "https://api.github.com/users/originalpeople/repos",
+  "events_url": "https://api.github.com/users/originalpeople/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/originalpeople/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

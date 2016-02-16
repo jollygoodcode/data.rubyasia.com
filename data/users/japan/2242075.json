@@ -1,0 +1,20 @@
+{
+  "login": "matsuiyuki",
+  "id": 2242075,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2242075?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matsuiyuki",
+  "html_url": "https://github.com/matsuiyuki",
+  "followers_url": "https://api.github.com/users/matsuiyuki/followers",
+  "following_url": "https://api.github.com/users/matsuiyuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matsuiyuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matsuiyuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matsuiyuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/matsuiyuki/orgs",
+  "repos_url": "https://api.github.com/users/matsuiyuki/repos",
+  "events_url": "https://api.github.com/users/matsuiyuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matsuiyuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

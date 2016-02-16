@@ -1,0 +1,20 @@
+{
+  "login": "ayushv",
+  "id": 10773473,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10773473?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayushv",
+  "html_url": "https://github.com/ayushv",
+  "followers_url": "https://api.github.com/users/ayushv/followers",
+  "following_url": "https://api.github.com/users/ayushv/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayushv/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayushv/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayushv/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayushv/orgs",
+  "repos_url": "https://api.github.com/users/ayushv/repos",
+  "events_url": "https://api.github.com/users/ayushv/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayushv/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

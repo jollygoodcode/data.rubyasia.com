@@ -1,0 +1,20 @@
+{
+  "login": "shunsuk",
+  "id": 69760,
+  "avatar_url": "https://avatars.githubusercontent.com/u/69760?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shunsuk",
+  "html_url": "https://github.com/shunsuk",
+  "followers_url": "https://api.github.com/users/shunsuk/followers",
+  "following_url": "https://api.github.com/users/shunsuk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shunsuk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shunsuk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shunsuk/subscriptions",
+  "organizations_url": "https://api.github.com/users/shunsuk/orgs",
+  "repos_url": "https://api.github.com/users/shunsuk/repos",
+  "events_url": "https://api.github.com/users/shunsuk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shunsuk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

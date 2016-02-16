@@ -1,0 +1,20 @@
+{
+  "login": "agileware-jp",
+  "id": 4129864,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4129864?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/agileware-jp",
+  "html_url": "https://github.com/agileware-jp",
+  "followers_url": "https://api.github.com/users/agileware-jp/followers",
+  "following_url": "https://api.github.com/users/agileware-jp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/agileware-jp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/agileware-jp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/agileware-jp/subscriptions",
+  "organizations_url": "https://api.github.com/users/agileware-jp/orgs",
+  "repos_url": "https://api.github.com/users/agileware-jp/repos",
+  "events_url": "https://api.github.com/users/agileware-jp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/agileware-jp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

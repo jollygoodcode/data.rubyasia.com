@@ -1,0 +1,20 @@
+{
+  "login": "Doppp",
+  "id": 627410,
+  "avatar_url": "https://avatars.githubusercontent.com/u/627410?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Doppp",
+  "html_url": "https://github.com/Doppp",
+  "followers_url": "https://api.github.com/users/Doppp/followers",
+  "following_url": "https://api.github.com/users/Doppp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Doppp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Doppp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Doppp/subscriptions",
+  "organizations_url": "https://api.github.com/users/Doppp/orgs",
+  "repos_url": "https://api.github.com/users/Doppp/repos",
+  "events_url": "https://api.github.com/users/Doppp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Doppp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

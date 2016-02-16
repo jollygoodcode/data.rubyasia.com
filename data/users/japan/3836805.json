@@ -1,0 +1,20 @@
+{
+  "login": "unycone",
+  "id": 3836805,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3836805?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unycone",
+  "html_url": "https://github.com/unycone",
+  "followers_url": "https://api.github.com/users/unycone/followers",
+  "following_url": "https://api.github.com/users/unycone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unycone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unycone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unycone/subscriptions",
+  "organizations_url": "https://api.github.com/users/unycone/orgs",
+  "repos_url": "https://api.github.com/users/unycone/repos",
+  "events_url": "https://api.github.com/users/unycone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unycone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "fatcactus",
+  "id": 1418167,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1418167?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fatcactus",
+  "html_url": "https://github.com/fatcactus",
+  "followers_url": "https://api.github.com/users/fatcactus/followers",
+  "following_url": "https://api.github.com/users/fatcactus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fatcactus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fatcactus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fatcactus/subscriptions",
+  "organizations_url": "https://api.github.com/users/fatcactus/orgs",
+  "repos_url": "https://api.github.com/users/fatcactus/repos",
+  "events_url": "https://api.github.com/users/fatcactus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fatcactus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

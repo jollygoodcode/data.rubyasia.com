@@ -1,0 +1,20 @@
+{
+  "login": "Aufree",
+  "id": 5310542,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5310542?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Aufree",
+  "html_url": "https://github.com/Aufree",
+  "followers_url": "https://api.github.com/users/Aufree/followers",
+  "following_url": "https://api.github.com/users/Aufree/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Aufree/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Aufree/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Aufree/subscriptions",
+  "organizations_url": "https://api.github.com/users/Aufree/orgs",
+  "repos_url": "https://api.github.com/users/Aufree/repos",
+  "events_url": "https://api.github.com/users/Aufree/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Aufree/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

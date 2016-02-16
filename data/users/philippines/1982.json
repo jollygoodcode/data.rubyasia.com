@@ -1,0 +1,20 @@
+{
+  "login": "markjeee",
+  "id": 1982,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1982?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/markjeee",
+  "html_url": "https://github.com/markjeee",
+  "followers_url": "https://api.github.com/users/markjeee/followers",
+  "following_url": "https://api.github.com/users/markjeee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/markjeee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/markjeee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/markjeee/subscriptions",
+  "organizations_url": "https://api.github.com/users/markjeee/orgs",
+  "repos_url": "https://api.github.com/users/markjeee/repos",
+  "events_url": "https://api.github.com/users/markjeee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/markjeee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

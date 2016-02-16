@@ -1,0 +1,20 @@
+{
+  "login": "inbravo",
+  "id": 5253764,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5253764?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inbravo",
+  "html_url": "https://github.com/inbravo",
+  "followers_url": "https://api.github.com/users/inbravo/followers",
+  "following_url": "https://api.github.com/users/inbravo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inbravo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inbravo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inbravo/subscriptions",
+  "organizations_url": "https://api.github.com/users/inbravo/orgs",
+  "repos_url": "https://api.github.com/users/inbravo/repos",
+  "events_url": "https://api.github.com/users/inbravo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inbravo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

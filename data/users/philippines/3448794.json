@@ -1,0 +1,20 @@
+{
+  "login": "gitChang",
+  "id": 3448794,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3448794?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gitChang",
+  "html_url": "https://github.com/gitChang",
+  "followers_url": "https://api.github.com/users/gitChang/followers",
+  "following_url": "https://api.github.com/users/gitChang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gitChang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gitChang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gitChang/subscriptions",
+  "organizations_url": "https://api.github.com/users/gitChang/orgs",
+  "repos_url": "https://api.github.com/users/gitChang/repos",
+  "events_url": "https://api.github.com/users/gitChang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gitChang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

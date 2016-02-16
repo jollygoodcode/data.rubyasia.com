@@ -1,0 +1,20 @@
+{
+  "login": "codetribe",
+  "id": 800517,
+  "avatar_url": "https://avatars.githubusercontent.com/u/800517?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codetribe",
+  "html_url": "https://github.com/codetribe",
+  "followers_url": "https://api.github.com/users/codetribe/followers",
+  "following_url": "https://api.github.com/users/codetribe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codetribe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codetribe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codetribe/subscriptions",
+  "organizations_url": "https://api.github.com/users/codetribe/orgs",
+  "repos_url": "https://api.github.com/users/codetribe/repos",
+  "events_url": "https://api.github.com/users/codetribe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codetribe/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

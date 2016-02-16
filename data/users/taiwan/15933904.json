@@ -1,0 +1,20 @@
+{
+  "login": "shoutse",
+  "id": 15933904,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15933904?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shoutse",
+  "html_url": "https://github.com/shoutse",
+  "followers_url": "https://api.github.com/users/shoutse/followers",
+  "following_url": "https://api.github.com/users/shoutse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shoutse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shoutse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shoutse/subscriptions",
+  "organizations_url": "https://api.github.com/users/shoutse/orgs",
+  "repos_url": "https://api.github.com/users/shoutse/repos",
+  "events_url": "https://api.github.com/users/shoutse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shoutse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

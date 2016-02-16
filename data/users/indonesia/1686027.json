@@ -1,0 +1,20 @@
+{
+  "login": "kulikabel",
+  "id": 1686027,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1686027?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kulikabel",
+  "html_url": "https://github.com/kulikabel",
+  "followers_url": "https://api.github.com/users/kulikabel/followers",
+  "following_url": "https://api.github.com/users/kulikabel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kulikabel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kulikabel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kulikabel/subscriptions",
+  "organizations_url": "https://api.github.com/users/kulikabel/orgs",
+  "repos_url": "https://api.github.com/users/kulikabel/repos",
+  "events_url": "https://api.github.com/users/kulikabel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kulikabel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

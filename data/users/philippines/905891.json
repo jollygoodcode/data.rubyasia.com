@@ -1,0 +1,20 @@
+{
+  "login": "kendaganio",
+  "id": 905891,
+  "avatar_url": "https://avatars.githubusercontent.com/u/905891?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kendaganio",
+  "html_url": "https://github.com/kendaganio",
+  "followers_url": "https://api.github.com/users/kendaganio/followers",
+  "following_url": "https://api.github.com/users/kendaganio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kendaganio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kendaganio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kendaganio/subscriptions",
+  "organizations_url": "https://api.github.com/users/kendaganio/orgs",
+  "repos_url": "https://api.github.com/users/kendaganio/repos",
+  "events_url": "https://api.github.com/users/kendaganio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kendaganio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "PeterGong",
+  "id": 4244018,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4244018?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PeterGong",
+  "html_url": "https://github.com/PeterGong",
+  "followers_url": "https://api.github.com/users/PeterGong/followers",
+  "following_url": "https://api.github.com/users/PeterGong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PeterGong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PeterGong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PeterGong/subscriptions",
+  "organizations_url": "https://api.github.com/users/PeterGong/orgs",
+  "repos_url": "https://api.github.com/users/PeterGong/repos",
+  "events_url": "https://api.github.com/users/PeterGong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PeterGong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

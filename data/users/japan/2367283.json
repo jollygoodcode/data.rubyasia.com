@@ -1,0 +1,20 @@
+{
+  "login": "kyotorb",
+  "id": 2367283,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2367283?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kyotorb",
+  "html_url": "https://github.com/kyotorb",
+  "followers_url": "https://api.github.com/users/kyotorb/followers",
+  "following_url": "https://api.github.com/users/kyotorb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kyotorb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kyotorb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kyotorb/subscriptions",
+  "organizations_url": "https://api.github.com/users/kyotorb/orgs",
+  "repos_url": "https://api.github.com/users/kyotorb/repos",
+  "events_url": "https://api.github.com/users/kyotorb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kyotorb/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "reyerchu",
+  "id": 3784584,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3784584?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/reyerchu",
+  "html_url": "https://github.com/reyerchu",
+  "followers_url": "https://api.github.com/users/reyerchu/followers",
+  "following_url": "https://api.github.com/users/reyerchu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/reyerchu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/reyerchu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/reyerchu/subscriptions",
+  "organizations_url": "https://api.github.com/users/reyerchu/orgs",
+  "repos_url": "https://api.github.com/users/reyerchu/repos",
+  "events_url": "https://api.github.com/users/reyerchu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/reyerchu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

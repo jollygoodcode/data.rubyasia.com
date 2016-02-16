@@ -1,0 +1,20 @@
+{
+  "login": "nexway",
+  "id": 1464227,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1464227?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nexway",
+  "html_url": "https://github.com/nexway",
+  "followers_url": "https://api.github.com/users/nexway/followers",
+  "following_url": "https://api.github.com/users/nexway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nexway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nexway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nexway/subscriptions",
+  "organizations_url": "https://api.github.com/users/nexway/orgs",
+  "repos_url": "https://api.github.com/users/nexway/repos",
+  "events_url": "https://api.github.com/users/nexway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nexway/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

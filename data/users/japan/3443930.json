@@ -1,0 +1,20 @@
+{
+  "login": "YasKamito",
+  "id": 3443930,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3443930?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/YasKamito",
+  "html_url": "https://github.com/YasKamito",
+  "followers_url": "https://api.github.com/users/YasKamito/followers",
+  "following_url": "https://api.github.com/users/YasKamito/following{/other_user}",
+  "gists_url": "https://api.github.com/users/YasKamito/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/YasKamito/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/YasKamito/subscriptions",
+  "organizations_url": "https://api.github.com/users/YasKamito/orgs",
+  "repos_url": "https://api.github.com/users/YasKamito/repos",
+  "events_url": "https://api.github.com/users/YasKamito/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/YasKamito/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

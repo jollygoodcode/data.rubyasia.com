@@ -1,0 +1,20 @@
+{
+  "login": "Bunlong",
+  "id": 1308397,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1308397?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Bunlong",
+  "html_url": "https://github.com/Bunlong",
+  "followers_url": "https://api.github.com/users/Bunlong/followers",
+  "following_url": "https://api.github.com/users/Bunlong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Bunlong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Bunlong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Bunlong/subscriptions",
+  "organizations_url": "https://api.github.com/users/Bunlong/orgs",
+  "repos_url": "https://api.github.com/users/Bunlong/repos",
+  "events_url": "https://api.github.com/users/Bunlong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Bunlong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

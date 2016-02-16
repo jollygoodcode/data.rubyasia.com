@@ -1,0 +1,20 @@
+{
+  "login": "olivercastro",
+  "id": 4221460,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4221460?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/olivercastro",
+  "html_url": "https://github.com/olivercastro",
+  "followers_url": "https://api.github.com/users/olivercastro/followers",
+  "following_url": "https://api.github.com/users/olivercastro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/olivercastro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/olivercastro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/olivercastro/subscriptions",
+  "organizations_url": "https://api.github.com/users/olivercastro/orgs",
+  "repos_url": "https://api.github.com/users/olivercastro/repos",
+  "events_url": "https://api.github.com/users/olivercastro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/olivercastro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

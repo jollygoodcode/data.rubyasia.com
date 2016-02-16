@@ -1,0 +1,20 @@
+{
+  "login": "mosa-architect",
+  "id": 5283349,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5283349?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mosa-architect",
+  "html_url": "https://github.com/mosa-architect",
+  "followers_url": "https://api.github.com/users/mosa-architect/followers",
+  "following_url": "https://api.github.com/users/mosa-architect/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mosa-architect/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mosa-architect/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mosa-architect/subscriptions",
+  "organizations_url": "https://api.github.com/users/mosa-architect/orgs",
+  "repos_url": "https://api.github.com/users/mosa-architect/repos",
+  "events_url": "https://api.github.com/users/mosa-architect/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mosa-architect/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

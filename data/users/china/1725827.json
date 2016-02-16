@@ -1,0 +1,20 @@
+{
+  "login": "karmaQ",
+  "id": 1725827,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1725827?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/karmaQ",
+  "html_url": "https://github.com/karmaQ",
+  "followers_url": "https://api.github.com/users/karmaQ/followers",
+  "following_url": "https://api.github.com/users/karmaQ/following{/other_user}",
+  "gists_url": "https://api.github.com/users/karmaQ/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/karmaQ/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/karmaQ/subscriptions",
+  "organizations_url": "https://api.github.com/users/karmaQ/orgs",
+  "repos_url": "https://api.github.com/users/karmaQ/repos",
+  "events_url": "https://api.github.com/users/karmaQ/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/karmaQ/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

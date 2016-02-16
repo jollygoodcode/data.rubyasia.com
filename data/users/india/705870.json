@@ -1,0 +1,20 @@
+{
+  "login": "remotesyssupport",
+  "id": 705870,
+  "avatar_url": "https://avatars.githubusercontent.com/u/705870?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/remotesyssupport",
+  "html_url": "https://github.com/remotesyssupport",
+  "followers_url": "https://api.github.com/users/remotesyssupport/followers",
+  "following_url": "https://api.github.com/users/remotesyssupport/following{/other_user}",
+  "gists_url": "https://api.github.com/users/remotesyssupport/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/remotesyssupport/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/remotesyssupport/subscriptions",
+  "organizations_url": "https://api.github.com/users/remotesyssupport/orgs",
+  "repos_url": "https://api.github.com/users/remotesyssupport/repos",
+  "events_url": "https://api.github.com/users/remotesyssupport/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/remotesyssupport/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

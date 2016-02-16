@@ -1,0 +1,20 @@
+{
+  "login": "NHD",
+  "id": 6214898,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6214898?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NHD",
+  "html_url": "https://github.com/NHD",
+  "followers_url": "https://api.github.com/users/NHD/followers",
+  "following_url": "https://api.github.com/users/NHD/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NHD/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NHD/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NHD/subscriptions",
+  "organizations_url": "https://api.github.com/users/NHD/orgs",
+  "repos_url": "https://api.github.com/users/NHD/repos",
+  "events_url": "https://api.github.com/users/NHD/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NHD/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

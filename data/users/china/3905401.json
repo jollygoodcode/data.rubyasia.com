@@ -1,0 +1,20 @@
+{
+  "login": "verygamer",
+  "id": 3905401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3905401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/verygamer",
+  "html_url": "https://github.com/verygamer",
+  "followers_url": "https://api.github.com/users/verygamer/followers",
+  "following_url": "https://api.github.com/users/verygamer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/verygamer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/verygamer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/verygamer/subscriptions",
+  "organizations_url": "https://api.github.com/users/verygamer/orgs",
+  "repos_url": "https://api.github.com/users/verygamer/repos",
+  "events_url": "https://api.github.com/users/verygamer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/verygamer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

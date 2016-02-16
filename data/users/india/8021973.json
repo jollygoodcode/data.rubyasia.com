@@ -1,0 +1,20 @@
+{
+  "login": "iammrigank",
+  "id": 8021973,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8021973?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iammrigank",
+  "html_url": "https://github.com/iammrigank",
+  "followers_url": "https://api.github.com/users/iammrigank/followers",
+  "following_url": "https://api.github.com/users/iammrigank/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iammrigank/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iammrigank/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iammrigank/subscriptions",
+  "organizations_url": "https://api.github.com/users/iammrigank/orgs",
+  "repos_url": "https://api.github.com/users/iammrigank/repos",
+  "events_url": "https://api.github.com/users/iammrigank/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iammrigank/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

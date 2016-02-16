@@ -1,0 +1,20 @@
+{
+  "login": "infodavid",
+  "id": 2155260,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2155260?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/infodavid",
+  "html_url": "https://github.com/infodavid",
+  "followers_url": "https://api.github.com/users/infodavid/followers",
+  "following_url": "https://api.github.com/users/infodavid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/infodavid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/infodavid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/infodavid/subscriptions",
+  "organizations_url": "https://api.github.com/users/infodavid/orgs",
+  "repos_url": "https://api.github.com/users/infodavid/repos",
+  "events_url": "https://api.github.com/users/infodavid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/infodavid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

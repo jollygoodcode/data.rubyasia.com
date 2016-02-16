@@ -1,0 +1,20 @@
+{
+  "login": "btsai",
+  "id": 75292,
+  "avatar_url": "https://avatars.githubusercontent.com/u/75292?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/btsai",
+  "html_url": "https://github.com/btsai",
+  "followers_url": "https://api.github.com/users/btsai/followers",
+  "following_url": "https://api.github.com/users/btsai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/btsai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/btsai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/btsai/subscriptions",
+  "organizations_url": "https://api.github.com/users/btsai/orgs",
+  "repos_url": "https://api.github.com/users/btsai/repos",
+  "events_url": "https://api.github.com/users/btsai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/btsai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

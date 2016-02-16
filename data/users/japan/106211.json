@@ -1,0 +1,20 @@
+{
+  "login": "raduwen",
+  "id": 106211,
+  "avatar_url": "https://avatars.githubusercontent.com/u/106211?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raduwen",
+  "html_url": "https://github.com/raduwen",
+  "followers_url": "https://api.github.com/users/raduwen/followers",
+  "following_url": "https://api.github.com/users/raduwen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raduwen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raduwen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raduwen/subscriptions",
+  "organizations_url": "https://api.github.com/users/raduwen/orgs",
+  "repos_url": "https://api.github.com/users/raduwen/repos",
+  "events_url": "https://api.github.com/users/raduwen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raduwen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

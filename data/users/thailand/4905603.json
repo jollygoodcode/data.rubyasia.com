@@ -1,0 +1,20 @@
+{
+  "login": "brookau",
+  "id": 4905603,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4905603?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brookau",
+  "html_url": "https://github.com/brookau",
+  "followers_url": "https://api.github.com/users/brookau/followers",
+  "following_url": "https://api.github.com/users/brookau/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brookau/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brookau/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brookau/subscriptions",
+  "organizations_url": "https://api.github.com/users/brookau/orgs",
+  "repos_url": "https://api.github.com/users/brookau/repos",
+  "events_url": "https://api.github.com/users/brookau/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brookau/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

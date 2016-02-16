@@ -1,0 +1,20 @@
+{
+  "login": "huacnlee",
+  "id": 5518,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5518?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huacnlee",
+  "html_url": "https://github.com/huacnlee",
+  "followers_url": "https://api.github.com/users/huacnlee/followers",
+  "following_url": "https://api.github.com/users/huacnlee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huacnlee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huacnlee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huacnlee/subscriptions",
+  "organizations_url": "https://api.github.com/users/huacnlee/orgs",
+  "repos_url": "https://api.github.com/users/huacnlee/repos",
+  "events_url": "https://api.github.com/users/huacnlee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huacnlee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

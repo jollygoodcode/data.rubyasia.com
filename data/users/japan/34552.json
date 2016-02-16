@@ -1,0 +1,20 @@
+{
+  "login": "shugo",
+  "id": 34552,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34552?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shugo",
+  "html_url": "https://github.com/shugo",
+  "followers_url": "https://api.github.com/users/shugo/followers",
+  "following_url": "https://api.github.com/users/shugo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shugo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shugo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shugo/subscriptions",
+  "organizations_url": "https://api.github.com/users/shugo/orgs",
+  "repos_url": "https://api.github.com/users/shugo/repos",
+  "events_url": "https://api.github.com/users/shugo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shugo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

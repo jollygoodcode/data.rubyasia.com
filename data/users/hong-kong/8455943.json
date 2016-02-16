@@ -1,0 +1,20 @@
+{
+  "login": "dtylam",
+  "id": 8455943,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8455943?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dtylam",
+  "html_url": "https://github.com/dtylam",
+  "followers_url": "https://api.github.com/users/dtylam/followers",
+  "following_url": "https://api.github.com/users/dtylam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dtylam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dtylam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dtylam/subscriptions",
+  "organizations_url": "https://api.github.com/users/dtylam/orgs",
+  "repos_url": "https://api.github.com/users/dtylam/repos",
+  "events_url": "https://api.github.com/users/dtylam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dtylam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

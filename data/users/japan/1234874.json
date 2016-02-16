@@ -1,0 +1,20 @@
+{
+  "login": "exabugs",
+  "id": 1234874,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1234874?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/exabugs",
+  "html_url": "https://github.com/exabugs",
+  "followers_url": "https://api.github.com/users/exabugs/followers",
+  "following_url": "https://api.github.com/users/exabugs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/exabugs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/exabugs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/exabugs/subscriptions",
+  "organizations_url": "https://api.github.com/users/exabugs/orgs",
+  "repos_url": "https://api.github.com/users/exabugs/repos",
+  "events_url": "https://api.github.com/users/exabugs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/exabugs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

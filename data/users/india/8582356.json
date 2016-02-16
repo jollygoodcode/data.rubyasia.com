@@ -1,0 +1,20 @@
+{
+  "login": "pardyot",
+  "id": 8582356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8582356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pardyot",
+  "html_url": "https://github.com/pardyot",
+  "followers_url": "https://api.github.com/users/pardyot/followers",
+  "following_url": "https://api.github.com/users/pardyot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pardyot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pardyot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pardyot/subscriptions",
+  "organizations_url": "https://api.github.com/users/pardyot/orgs",
+  "repos_url": "https://api.github.com/users/pardyot/repos",
+  "events_url": "https://api.github.com/users/pardyot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pardyot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

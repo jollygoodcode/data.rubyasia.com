@@ -1,0 +1,20 @@
+{
+  "login": "chnstz",
+  "id": 1735907,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1735907?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chnstz",
+  "html_url": "https://github.com/chnstz",
+  "followers_url": "https://api.github.com/users/chnstz/followers",
+  "following_url": "https://api.github.com/users/chnstz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chnstz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chnstz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chnstz/subscriptions",
+  "organizations_url": "https://api.github.com/users/chnstz/orgs",
+  "repos_url": "https://api.github.com/users/chnstz/repos",
+  "events_url": "https://api.github.com/users/chnstz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chnstz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

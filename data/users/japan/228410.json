@@ -1,0 +1,20 @@
+{
+  "login": "kitak",
+  "id": 228410,
+  "avatar_url": "https://avatars.githubusercontent.com/u/228410?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kitak",
+  "html_url": "https://github.com/kitak",
+  "followers_url": "https://api.github.com/users/kitak/followers",
+  "following_url": "https://api.github.com/users/kitak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kitak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kitak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kitak/subscriptions",
+  "organizations_url": "https://api.github.com/users/kitak/orgs",
+  "repos_url": "https://api.github.com/users/kitak/repos",
+  "events_url": "https://api.github.com/users/kitak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kitak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gaoyz",
+  "id": 5134217,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5134217?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gaoyz",
+  "html_url": "https://github.com/gaoyz",
+  "followers_url": "https://api.github.com/users/gaoyz/followers",
+  "following_url": "https://api.github.com/users/gaoyz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gaoyz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gaoyz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gaoyz/subscriptions",
+  "organizations_url": "https://api.github.com/users/gaoyz/orgs",
+  "repos_url": "https://api.github.com/users/gaoyz/repos",
+  "events_url": "https://api.github.com/users/gaoyz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gaoyz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

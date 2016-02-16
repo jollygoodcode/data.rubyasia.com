@@ -1,0 +1,20 @@
+{
+  "login": "kidlab",
+  "id": 624862,
+  "avatar_url": "https://avatars.githubusercontent.com/u/624862?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kidlab",
+  "html_url": "https://github.com/kidlab",
+  "followers_url": "https://api.github.com/users/kidlab/followers",
+  "following_url": "https://api.github.com/users/kidlab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kidlab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kidlab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kidlab/subscriptions",
+  "organizations_url": "https://api.github.com/users/kidlab/orgs",
+  "repos_url": "https://api.github.com/users/kidlab/repos",
+  "events_url": "https://api.github.com/users/kidlab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kidlab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

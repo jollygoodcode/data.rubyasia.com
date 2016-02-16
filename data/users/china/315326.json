@@ -1,0 +1,20 @@
+{
+  "login": "cdredfox",
+  "id": 315326,
+  "avatar_url": "https://avatars.githubusercontent.com/u/315326?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cdredfox",
+  "html_url": "https://github.com/cdredfox",
+  "followers_url": "https://api.github.com/users/cdredfox/followers",
+  "following_url": "https://api.github.com/users/cdredfox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cdredfox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cdredfox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cdredfox/subscriptions",
+  "organizations_url": "https://api.github.com/users/cdredfox/orgs",
+  "repos_url": "https://api.github.com/users/cdredfox/repos",
+  "events_url": "https://api.github.com/users/cdredfox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cdredfox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

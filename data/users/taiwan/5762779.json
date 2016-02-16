@@ -1,0 +1,20 @@
+{
+  "login": "iamgjek",
+  "id": 5762779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5762779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iamgjek",
+  "html_url": "https://github.com/iamgjek",
+  "followers_url": "https://api.github.com/users/iamgjek/followers",
+  "following_url": "https://api.github.com/users/iamgjek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iamgjek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iamgjek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iamgjek/subscriptions",
+  "organizations_url": "https://api.github.com/users/iamgjek/orgs",
+  "repos_url": "https://api.github.com/users/iamgjek/repos",
+  "events_url": "https://api.github.com/users/iamgjek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iamgjek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

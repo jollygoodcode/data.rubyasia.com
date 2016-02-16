@@ -1,0 +1,20 @@
+{
+  "login": "baueric",
+  "id": 965124,
+  "avatar_url": "https://avatars.githubusercontent.com/u/965124?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/baueric",
+  "html_url": "https://github.com/baueric",
+  "followers_url": "https://api.github.com/users/baueric/followers",
+  "following_url": "https://api.github.com/users/baueric/following{/other_user}",
+  "gists_url": "https://api.github.com/users/baueric/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/baueric/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/baueric/subscriptions",
+  "organizations_url": "https://api.github.com/users/baueric/orgs",
+  "repos_url": "https://api.github.com/users/baueric/repos",
+  "events_url": "https://api.github.com/users/baueric/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/baueric/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

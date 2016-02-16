@@ -1,0 +1,20 @@
+{
+  "login": "inwwin",
+  "id": 739648,
+  "avatar_url": "https://avatars.githubusercontent.com/u/739648?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inwwin",
+  "html_url": "https://github.com/inwwin",
+  "followers_url": "https://api.github.com/users/inwwin/followers",
+  "following_url": "https://api.github.com/users/inwwin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inwwin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inwwin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inwwin/subscriptions",
+  "organizations_url": "https://api.github.com/users/inwwin/orgs",
+  "repos_url": "https://api.github.com/users/inwwin/repos",
+  "events_url": "https://api.github.com/users/inwwin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inwwin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

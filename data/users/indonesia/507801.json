@@ -1,0 +1,20 @@
+{
+  "login": "rezajatnika",
+  "id": 507801,
+  "avatar_url": "https://avatars.githubusercontent.com/u/507801?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rezajatnika",
+  "html_url": "https://github.com/rezajatnika",
+  "followers_url": "https://api.github.com/users/rezajatnika/followers",
+  "following_url": "https://api.github.com/users/rezajatnika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rezajatnika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rezajatnika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rezajatnika/subscriptions",
+  "organizations_url": "https://api.github.com/users/rezajatnika/orgs",
+  "repos_url": "https://api.github.com/users/rezajatnika/repos",
+  "events_url": "https://api.github.com/users/rezajatnika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rezajatnika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tchikuba",
+  "id": 1590359,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1590359?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tchikuba",
+  "html_url": "https://github.com/tchikuba",
+  "followers_url": "https://api.github.com/users/tchikuba/followers",
+  "following_url": "https://api.github.com/users/tchikuba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tchikuba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tchikuba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tchikuba/subscriptions",
+  "organizations_url": "https://api.github.com/users/tchikuba/orgs",
+  "repos_url": "https://api.github.com/users/tchikuba/repos",
+  "events_url": "https://api.github.com/users/tchikuba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tchikuba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

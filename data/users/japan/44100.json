@@ -1,0 +1,20 @@
+{
+  "login": "yamasaki",
+  "id": 44100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/44100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yamasaki",
+  "html_url": "https://github.com/yamasaki",
+  "followers_url": "https://api.github.com/users/yamasaki/followers",
+  "following_url": "https://api.github.com/users/yamasaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yamasaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yamasaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yamasaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/yamasaki/orgs",
+  "repos_url": "https://api.github.com/users/yamasaki/repos",
+  "events_url": "https://api.github.com/users/yamasaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yamasaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "fruwe",
+  "id": 71813,
+  "avatar_url": "https://avatars.githubusercontent.com/u/71813?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fruwe",
+  "html_url": "https://github.com/fruwe",
+  "followers_url": "https://api.github.com/users/fruwe/followers",
+  "following_url": "https://api.github.com/users/fruwe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fruwe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fruwe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fruwe/subscriptions",
+  "organizations_url": "https://api.github.com/users/fruwe/orgs",
+  "repos_url": "https://api.github.com/users/fruwe/repos",
+  "events_url": "https://api.github.com/users/fruwe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fruwe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

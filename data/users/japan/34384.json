@@ -1,0 +1,20 @@
+{
+  "login": "kawaiti",
+  "id": 34384,
+  "avatar_url": "https://avatars.githubusercontent.com/u/34384?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kawaiti",
+  "html_url": "https://github.com/kawaiti",
+  "followers_url": "https://api.github.com/users/kawaiti/followers",
+  "following_url": "https://api.github.com/users/kawaiti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kawaiti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kawaiti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kawaiti/subscriptions",
+  "organizations_url": "https://api.github.com/users/kawaiti/orgs",
+  "repos_url": "https://api.github.com/users/kawaiti/repos",
+  "events_url": "https://api.github.com/users/kawaiti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kawaiti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

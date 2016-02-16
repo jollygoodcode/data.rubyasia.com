@@ -1,0 +1,20 @@
+{
+  "login": "rubysg",
+  "id": 5369344,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5369344?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubysg",
+  "html_url": "https://github.com/rubysg",
+  "followers_url": "https://api.github.com/users/rubysg/followers",
+  "following_url": "https://api.github.com/users/rubysg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubysg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubysg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubysg/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubysg/orgs",
+  "repos_url": "https://api.github.com/users/rubysg/repos",
+  "events_url": "https://api.github.com/users/rubysg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubysg/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

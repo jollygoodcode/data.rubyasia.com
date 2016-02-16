@@ -1,0 +1,20 @@
+{
+  "login": "frankmaster",
+  "id": 2390569,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2390569?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/frankmaster",
+  "html_url": "https://github.com/frankmaster",
+  "followers_url": "https://api.github.com/users/frankmaster/followers",
+  "following_url": "https://api.github.com/users/frankmaster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/frankmaster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/frankmaster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/frankmaster/subscriptions",
+  "organizations_url": "https://api.github.com/users/frankmaster/orgs",
+  "repos_url": "https://api.github.com/users/frankmaster/repos",
+  "events_url": "https://api.github.com/users/frankmaster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/frankmaster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

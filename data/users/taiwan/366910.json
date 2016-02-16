@@ -1,0 +1,20 @@
+{
+  "login": "lulalala",
+  "id": 366910,
+  "avatar_url": "https://avatars.githubusercontent.com/u/366910?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lulalala",
+  "html_url": "https://github.com/lulalala",
+  "followers_url": "https://api.github.com/users/lulalala/followers",
+  "following_url": "https://api.github.com/users/lulalala/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lulalala/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lulalala/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lulalala/subscriptions",
+  "organizations_url": "https://api.github.com/users/lulalala/orgs",
+  "repos_url": "https://api.github.com/users/lulalala/repos",
+  "events_url": "https://api.github.com/users/lulalala/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lulalala/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

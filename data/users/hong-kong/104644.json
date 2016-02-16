@@ -1,0 +1,20 @@
+{
+  "login": "chrizbo",
+  "id": 104644,
+  "avatar_url": "https://avatars.githubusercontent.com/u/104644?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chrizbo",
+  "html_url": "https://github.com/chrizbo",
+  "followers_url": "https://api.github.com/users/chrizbo/followers",
+  "following_url": "https://api.github.com/users/chrizbo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chrizbo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chrizbo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chrizbo/subscriptions",
+  "organizations_url": "https://api.github.com/users/chrizbo/orgs",
+  "repos_url": "https://api.github.com/users/chrizbo/repos",
+  "events_url": "https://api.github.com/users/chrizbo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chrizbo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

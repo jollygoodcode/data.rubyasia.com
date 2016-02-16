@@ -1,0 +1,20 @@
+{
+  "login": "fred",
+  "id": 2520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fred",
+  "html_url": "https://github.com/fred",
+  "followers_url": "https://api.github.com/users/fred/followers",
+  "following_url": "https://api.github.com/users/fred/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fred/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fred/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fred/subscriptions",
+  "organizations_url": "https://api.github.com/users/fred/orgs",
+  "repos_url": "https://api.github.com/users/fred/repos",
+  "events_url": "https://api.github.com/users/fred/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fred/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

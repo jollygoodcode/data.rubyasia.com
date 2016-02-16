@@ -1,0 +1,20 @@
+{
+  "login": "anakreon",
+  "id": 2128212,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2128212?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anakreon",
+  "html_url": "https://github.com/anakreon",
+  "followers_url": "https://api.github.com/users/anakreon/followers",
+  "following_url": "https://api.github.com/users/anakreon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anakreon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anakreon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anakreon/subscriptions",
+  "organizations_url": "https://api.github.com/users/anakreon/orgs",
+  "repos_url": "https://api.github.com/users/anakreon/repos",
+  "events_url": "https://api.github.com/users/anakreon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anakreon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

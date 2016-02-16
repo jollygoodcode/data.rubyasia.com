@@ -1,0 +1,20 @@
+{
+  "login": "shibuso",
+  "id": 2461458,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2461458?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shibuso",
+  "html_url": "https://github.com/shibuso",
+  "followers_url": "https://api.github.com/users/shibuso/followers",
+  "following_url": "https://api.github.com/users/shibuso/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shibuso/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shibuso/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shibuso/subscriptions",
+  "organizations_url": "https://api.github.com/users/shibuso/orgs",
+  "repos_url": "https://api.github.com/users/shibuso/repos",
+  "events_url": "https://api.github.com/users/shibuso/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shibuso/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

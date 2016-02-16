@@ -1,0 +1,20 @@
+{
+  "login": "iambowen",
+  "id": 920329,
+  "avatar_url": "https://avatars.githubusercontent.com/u/920329?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iambowen",
+  "html_url": "https://github.com/iambowen",
+  "followers_url": "https://api.github.com/users/iambowen/followers",
+  "following_url": "https://api.github.com/users/iambowen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iambowen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iambowen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iambowen/subscriptions",
+  "organizations_url": "https://api.github.com/users/iambowen/orgs",
+  "repos_url": "https://api.github.com/users/iambowen/repos",
+  "events_url": "https://api.github.com/users/iambowen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iambowen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "brainfunked",
+  "id": 456203,
+  "avatar_url": "https://avatars.githubusercontent.com/u/456203?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brainfunked",
+  "html_url": "https://github.com/brainfunked",
+  "followers_url": "https://api.github.com/users/brainfunked/followers",
+  "following_url": "https://api.github.com/users/brainfunked/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brainfunked/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brainfunked/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brainfunked/subscriptions",
+  "organizations_url": "https://api.github.com/users/brainfunked/orgs",
+  "repos_url": "https://api.github.com/users/brainfunked/repos",
+  "events_url": "https://api.github.com/users/brainfunked/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brainfunked/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

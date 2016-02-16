@@ -1,0 +1,20 @@
+{
+  "login": "minix",
+  "id": 765409,
+  "avatar_url": "https://avatars.githubusercontent.com/u/765409?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/minix",
+  "html_url": "https://github.com/minix",
+  "followers_url": "https://api.github.com/users/minix/followers",
+  "following_url": "https://api.github.com/users/minix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/minix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/minix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/minix/subscriptions",
+  "organizations_url": "https://api.github.com/users/minix/orgs",
+  "repos_url": "https://api.github.com/users/minix/repos",
+  "events_url": "https://api.github.com/users/minix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/minix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "marcosbeirigo",
+  "id": 373453,
+  "avatar_url": "https://avatars.githubusercontent.com/u/373453?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marcosbeirigo",
+  "html_url": "https://github.com/marcosbeirigo",
+  "followers_url": "https://api.github.com/users/marcosbeirigo/followers",
+  "following_url": "https://api.github.com/users/marcosbeirigo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marcosbeirigo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marcosbeirigo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marcosbeirigo/subscriptions",
+  "organizations_url": "https://api.github.com/users/marcosbeirigo/orgs",
+  "repos_url": "https://api.github.com/users/marcosbeirigo/repos",
+  "events_url": "https://api.github.com/users/marcosbeirigo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marcosbeirigo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

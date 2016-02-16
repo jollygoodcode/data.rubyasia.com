@@ -1,0 +1,20 @@
+{
+  "login": "dexxtan",
+  "id": 1590864,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1590864?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dexxtan",
+  "html_url": "https://github.com/dexxtan",
+  "followers_url": "https://api.github.com/users/dexxtan/followers",
+  "following_url": "https://api.github.com/users/dexxtan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dexxtan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dexxtan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dexxtan/subscriptions",
+  "organizations_url": "https://api.github.com/users/dexxtan/orgs",
+  "repos_url": "https://api.github.com/users/dexxtan/repos",
+  "events_url": "https://api.github.com/users/dexxtan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dexxtan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

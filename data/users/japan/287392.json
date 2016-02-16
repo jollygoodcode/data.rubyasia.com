@@ -1,0 +1,20 @@
+{
+  "login": "verus",
+  "id": 287392,
+  "avatar_url": "https://avatars.githubusercontent.com/u/287392?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/verus",
+  "html_url": "https://github.com/verus",
+  "followers_url": "https://api.github.com/users/verus/followers",
+  "following_url": "https://api.github.com/users/verus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/verus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/verus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/verus/subscriptions",
+  "organizations_url": "https://api.github.com/users/verus/orgs",
+  "repos_url": "https://api.github.com/users/verus/repos",
+  "events_url": "https://api.github.com/users/verus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/verus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "henrysource",
+  "id": 724774,
+  "avatar_url": "https://avatars.githubusercontent.com/u/724774?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/henrysource",
+  "html_url": "https://github.com/henrysource",
+  "followers_url": "https://api.github.com/users/henrysource/followers",
+  "following_url": "https://api.github.com/users/henrysource/following{/other_user}",
+  "gists_url": "https://api.github.com/users/henrysource/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/henrysource/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/henrysource/subscriptions",
+  "organizations_url": "https://api.github.com/users/henrysource/orgs",
+  "repos_url": "https://api.github.com/users/henrysource/repos",
+  "events_url": "https://api.github.com/users/henrysource/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/henrysource/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

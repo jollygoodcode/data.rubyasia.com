@@ -1,0 +1,20 @@
+{
+  "login": "naruoga",
+  "id": 102122,
+  "avatar_url": "https://avatars.githubusercontent.com/u/102122?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/naruoga",
+  "html_url": "https://github.com/naruoga",
+  "followers_url": "https://api.github.com/users/naruoga/followers",
+  "following_url": "https://api.github.com/users/naruoga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/naruoga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/naruoga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/naruoga/subscriptions",
+  "organizations_url": "https://api.github.com/users/naruoga/orgs",
+  "repos_url": "https://api.github.com/users/naruoga/repos",
+  "events_url": "https://api.github.com/users/naruoga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/naruoga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

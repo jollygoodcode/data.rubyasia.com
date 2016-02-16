@@ -1,0 +1,20 @@
+{
+  "login": "darashi",
+  "id": 2363,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2363?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/darashi",
+  "html_url": "https://github.com/darashi",
+  "followers_url": "https://api.github.com/users/darashi/followers",
+  "following_url": "https://api.github.com/users/darashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/darashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/darashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/darashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/darashi/orgs",
+  "repos_url": "https://api.github.com/users/darashi/repos",
+  "events_url": "https://api.github.com/users/darashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/darashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

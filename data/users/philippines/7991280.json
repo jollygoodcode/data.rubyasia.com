@@ -1,0 +1,20 @@
+{
+  "login": "michael-noel",
+  "id": 7991280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7991280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/michael-noel",
+  "html_url": "https://github.com/michael-noel",
+  "followers_url": "https://api.github.com/users/michael-noel/followers",
+  "following_url": "https://api.github.com/users/michael-noel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/michael-noel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/michael-noel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/michael-noel/subscriptions",
+  "organizations_url": "https://api.github.com/users/michael-noel/orgs",
+  "repos_url": "https://api.github.com/users/michael-noel/repos",
+  "events_url": "https://api.github.com/users/michael-noel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/michael-noel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

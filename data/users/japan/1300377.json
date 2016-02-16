@@ -1,0 +1,20 @@
+{
+  "login": "8pockets",
+  "id": 1300377,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1300377?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/8pockets",
+  "html_url": "https://github.com/8pockets",
+  "followers_url": "https://api.github.com/users/8pockets/followers",
+  "following_url": "https://api.github.com/users/8pockets/following{/other_user}",
+  "gists_url": "https://api.github.com/users/8pockets/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/8pockets/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/8pockets/subscriptions",
+  "organizations_url": "https://api.github.com/users/8pockets/orgs",
+  "repos_url": "https://api.github.com/users/8pockets/repos",
+  "events_url": "https://api.github.com/users/8pockets/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/8pockets/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

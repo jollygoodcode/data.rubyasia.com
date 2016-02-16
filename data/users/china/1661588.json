@@ -1,0 +1,20 @@
+{
+  "login": "flypiggy",
+  "id": 1661588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1661588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flypiggy",
+  "html_url": "https://github.com/flypiggy",
+  "followers_url": "https://api.github.com/users/flypiggy/followers",
+  "following_url": "https://api.github.com/users/flypiggy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flypiggy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flypiggy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flypiggy/subscriptions",
+  "organizations_url": "https://api.github.com/users/flypiggy/orgs",
+  "repos_url": "https://api.github.com/users/flypiggy/repos",
+  "events_url": "https://api.github.com/users/flypiggy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flypiggy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

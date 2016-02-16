@@ -1,0 +1,20 @@
+{
+  "login": "SunwayCollege",
+  "id": 16078579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16078579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SunwayCollege",
+  "html_url": "https://github.com/SunwayCollege",
+  "followers_url": "https://api.github.com/users/SunwayCollege/followers",
+  "following_url": "https://api.github.com/users/SunwayCollege/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SunwayCollege/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SunwayCollege/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SunwayCollege/subscriptions",
+  "organizations_url": "https://api.github.com/users/SunwayCollege/orgs",
+  "repos_url": "https://api.github.com/users/SunwayCollege/repos",
+  "events_url": "https://api.github.com/users/SunwayCollege/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SunwayCollege/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

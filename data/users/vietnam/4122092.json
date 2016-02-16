@@ -1,0 +1,20 @@
+{
+  "login": "rockydant",
+  "id": 4122092,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4122092?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rockydant",
+  "html_url": "https://github.com/rockydant",
+  "followers_url": "https://api.github.com/users/rockydant/followers",
+  "following_url": "https://api.github.com/users/rockydant/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rockydant/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rockydant/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rockydant/subscriptions",
+  "organizations_url": "https://api.github.com/users/rockydant/orgs",
+  "repos_url": "https://api.github.com/users/rockydant/repos",
+  "events_url": "https://api.github.com/users/rockydant/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rockydant/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

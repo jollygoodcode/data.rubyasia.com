@@ -1,0 +1,20 @@
+{
+  "login": "kobayashi-tbn",
+  "id": 771801,
+  "avatar_url": "https://avatars.githubusercontent.com/u/771801?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kobayashi-tbn",
+  "html_url": "https://github.com/kobayashi-tbn",
+  "followers_url": "https://api.github.com/users/kobayashi-tbn/followers",
+  "following_url": "https://api.github.com/users/kobayashi-tbn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kobayashi-tbn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kobayashi-tbn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kobayashi-tbn/subscriptions",
+  "organizations_url": "https://api.github.com/users/kobayashi-tbn/orgs",
+  "repos_url": "https://api.github.com/users/kobayashi-tbn/repos",
+  "events_url": "https://api.github.com/users/kobayashi-tbn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kobayashi-tbn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

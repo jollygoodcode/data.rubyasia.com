@@ -1,0 +1,20 @@
+{
+  "login": "shyaam",
+  "id": 708213,
+  "avatar_url": "https://avatars.githubusercontent.com/u/708213?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shyaam",
+  "html_url": "https://github.com/shyaam",
+  "followers_url": "https://api.github.com/users/shyaam/followers",
+  "following_url": "https://api.github.com/users/shyaam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shyaam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shyaam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shyaam/subscriptions",
+  "organizations_url": "https://api.github.com/users/shyaam/orgs",
+  "repos_url": "https://api.github.com/users/shyaam/repos",
+  "events_url": "https://api.github.com/users/shyaam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shyaam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

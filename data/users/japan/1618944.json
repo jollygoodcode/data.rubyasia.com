@@ -1,0 +1,20 @@
+{
+  "login": "rocky-ice-cream",
+  "id": 1618944,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1618944?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rocky-ice-cream",
+  "html_url": "https://github.com/rocky-ice-cream",
+  "followers_url": "https://api.github.com/users/rocky-ice-cream/followers",
+  "following_url": "https://api.github.com/users/rocky-ice-cream/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rocky-ice-cream/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rocky-ice-cream/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rocky-ice-cream/subscriptions",
+  "organizations_url": "https://api.github.com/users/rocky-ice-cream/orgs",
+  "repos_url": "https://api.github.com/users/rocky-ice-cream/repos",
+  "events_url": "https://api.github.com/users/rocky-ice-cream/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rocky-ice-cream/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gotoyuzo",
+  "id": 23249,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23249?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gotoyuzo",
+  "html_url": "https://github.com/gotoyuzo",
+  "followers_url": "https://api.github.com/users/gotoyuzo/followers",
+  "following_url": "https://api.github.com/users/gotoyuzo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gotoyuzo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gotoyuzo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gotoyuzo/subscriptions",
+  "organizations_url": "https://api.github.com/users/gotoyuzo/orgs",
+  "repos_url": "https://api.github.com/users/gotoyuzo/repos",
+  "events_url": "https://api.github.com/users/gotoyuzo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gotoyuzo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

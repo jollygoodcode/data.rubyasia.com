@@ -1,0 +1,20 @@
+{
+  "login": "dreawf",
+  "id": 2351986,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2351986?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dreawf",
+  "html_url": "https://github.com/dreawf",
+  "followers_url": "https://api.github.com/users/dreawf/followers",
+  "following_url": "https://api.github.com/users/dreawf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dreawf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dreawf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dreawf/subscriptions",
+  "organizations_url": "https://api.github.com/users/dreawf/orgs",
+  "repos_url": "https://api.github.com/users/dreawf/repos",
+  "events_url": "https://api.github.com/users/dreawf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dreawf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

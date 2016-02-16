@@ -1,0 +1,20 @@
+{
+  "login": "shivil",
+  "id": 1320770,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1320770?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shivil",
+  "html_url": "https://github.com/shivil",
+  "followers_url": "https://api.github.com/users/shivil/followers",
+  "following_url": "https://api.github.com/users/shivil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shivil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shivil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shivil/subscriptions",
+  "organizations_url": "https://api.github.com/users/shivil/orgs",
+  "repos_url": "https://api.github.com/users/shivil/repos",
+  "events_url": "https://api.github.com/users/shivil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shivil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

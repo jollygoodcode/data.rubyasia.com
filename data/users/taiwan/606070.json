@@ -1,0 +1,20 @@
+{
+  "login": "dannylin3000",
+  "id": 606070,
+  "avatar_url": "https://avatars.githubusercontent.com/u/606070?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dannylin3000",
+  "html_url": "https://github.com/dannylin3000",
+  "followers_url": "https://api.github.com/users/dannylin3000/followers",
+  "following_url": "https://api.github.com/users/dannylin3000/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dannylin3000/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dannylin3000/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dannylin3000/subscriptions",
+  "organizations_url": "https://api.github.com/users/dannylin3000/orgs",
+  "repos_url": "https://api.github.com/users/dannylin3000/repos",
+  "events_url": "https://api.github.com/users/dannylin3000/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dannylin3000/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

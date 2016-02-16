@@ -1,0 +1,20 @@
+{
+  "login": "takhasegawa",
+  "id": 1102348,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1102348?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takhasegawa",
+  "html_url": "https://github.com/takhasegawa",
+  "followers_url": "https://api.github.com/users/takhasegawa/followers",
+  "following_url": "https://api.github.com/users/takhasegawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takhasegawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takhasegawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takhasegawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/takhasegawa/orgs",
+  "repos_url": "https://api.github.com/users/takhasegawa/repos",
+  "events_url": "https://api.github.com/users/takhasegawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takhasegawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

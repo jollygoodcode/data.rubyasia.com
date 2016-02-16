@@ -1,0 +1,20 @@
+{
+  "login": "cloudcodermy",
+  "id": 11767427,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11767427?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cloudcodermy",
+  "html_url": "https://github.com/cloudcodermy",
+  "followers_url": "https://api.github.com/users/cloudcodermy/followers",
+  "following_url": "https://api.github.com/users/cloudcodermy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cloudcodermy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cloudcodermy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cloudcodermy/subscriptions",
+  "organizations_url": "https://api.github.com/users/cloudcodermy/orgs",
+  "repos_url": "https://api.github.com/users/cloudcodermy/repos",
+  "events_url": "https://api.github.com/users/cloudcodermy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cloudcodermy/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

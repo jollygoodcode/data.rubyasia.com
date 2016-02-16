@@ -1,0 +1,20 @@
+{
+  "login": "mapix",
+  "id": 932699,
+  "avatar_url": "https://avatars.githubusercontent.com/u/932699?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mapix",
+  "html_url": "https://github.com/mapix",
+  "followers_url": "https://api.github.com/users/mapix/followers",
+  "following_url": "https://api.github.com/users/mapix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mapix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mapix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mapix/subscriptions",
+  "organizations_url": "https://api.github.com/users/mapix/orgs",
+  "repos_url": "https://api.github.com/users/mapix/repos",
+  "events_url": "https://api.github.com/users/mapix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mapix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

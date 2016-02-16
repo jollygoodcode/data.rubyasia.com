@@ -1,0 +1,20 @@
+{
+  "login": "ramalink",
+  "id": 3484532,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3484532?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ramalink",
+  "html_url": "https://github.com/ramalink",
+  "followers_url": "https://api.github.com/users/ramalink/followers",
+  "following_url": "https://api.github.com/users/ramalink/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ramalink/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ramalink/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ramalink/subscriptions",
+  "organizations_url": "https://api.github.com/users/ramalink/orgs",
+  "repos_url": "https://api.github.com/users/ramalink/repos",
+  "events_url": "https://api.github.com/users/ramalink/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ramalink/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

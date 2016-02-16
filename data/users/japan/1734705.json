@@ -1,0 +1,20 @@
+{
+  "login": "keitaj",
+  "id": 1734705,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1734705?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/keitaj",
+  "html_url": "https://github.com/keitaj",
+  "followers_url": "https://api.github.com/users/keitaj/followers",
+  "following_url": "https://api.github.com/users/keitaj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/keitaj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/keitaj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/keitaj/subscriptions",
+  "organizations_url": "https://api.github.com/users/keitaj/orgs",
+  "repos_url": "https://api.github.com/users/keitaj/repos",
+  "events_url": "https://api.github.com/users/keitaj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/keitaj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

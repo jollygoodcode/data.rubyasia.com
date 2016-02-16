@@ -1,0 +1,20 @@
+{
+  "login": "usutani",
+  "id": 56579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/56579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/usutani",
+  "html_url": "https://github.com/usutani",
+  "followers_url": "https://api.github.com/users/usutani/followers",
+  "following_url": "https://api.github.com/users/usutani/following{/other_user}",
+  "gists_url": "https://api.github.com/users/usutani/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/usutani/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/usutani/subscriptions",
+  "organizations_url": "https://api.github.com/users/usutani/orgs",
+  "repos_url": "https://api.github.com/users/usutani/repos",
+  "events_url": "https://api.github.com/users/usutani/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/usutani/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

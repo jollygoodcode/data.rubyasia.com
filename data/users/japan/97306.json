@@ -1,0 +1,20 @@
+{
+  "login": "FoGhost",
+  "id": 97306,
+  "avatar_url": "https://avatars.githubusercontent.com/u/97306?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FoGhost",
+  "html_url": "https://github.com/FoGhost",
+  "followers_url": "https://api.github.com/users/FoGhost/followers",
+  "following_url": "https://api.github.com/users/FoGhost/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FoGhost/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FoGhost/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FoGhost/subscriptions",
+  "organizations_url": "https://api.github.com/users/FoGhost/orgs",
+  "repos_url": "https://api.github.com/users/FoGhost/repos",
+  "events_url": "https://api.github.com/users/FoGhost/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FoGhost/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

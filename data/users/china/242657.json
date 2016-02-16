@@ -1,0 +1,20 @@
+{
+  "login": "sapronlee",
+  "id": 242657,
+  "avatar_url": "https://avatars.githubusercontent.com/u/242657?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sapronlee",
+  "html_url": "https://github.com/sapronlee",
+  "followers_url": "https://api.github.com/users/sapronlee/followers",
+  "following_url": "https://api.github.com/users/sapronlee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sapronlee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sapronlee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sapronlee/subscriptions",
+  "organizations_url": "https://api.github.com/users/sapronlee/orgs",
+  "repos_url": "https://api.github.com/users/sapronlee/repos",
+  "events_url": "https://api.github.com/users/sapronlee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sapronlee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

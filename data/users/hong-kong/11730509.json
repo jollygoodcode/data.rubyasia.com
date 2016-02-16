@@ -1,0 +1,20 @@
+{
+  "login": "koychui",
+  "id": 11730509,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11730509?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/koychui",
+  "html_url": "https://github.com/koychui",
+  "followers_url": "https://api.github.com/users/koychui/followers",
+  "following_url": "https://api.github.com/users/koychui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/koychui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/koychui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/koychui/subscriptions",
+  "organizations_url": "https://api.github.com/users/koychui/orgs",
+  "repos_url": "https://api.github.com/users/koychui/repos",
+  "events_url": "https://api.github.com/users/koychui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/koychui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

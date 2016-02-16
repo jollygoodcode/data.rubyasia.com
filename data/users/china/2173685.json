@@ -1,0 +1,20 @@
+{
+  "login": "ebowsoft",
+  "id": 2173685,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2173685?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ebowsoft",
+  "html_url": "https://github.com/ebowsoft",
+  "followers_url": "https://api.github.com/users/ebowsoft/followers",
+  "following_url": "https://api.github.com/users/ebowsoft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ebowsoft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ebowsoft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ebowsoft/subscriptions",
+  "organizations_url": "https://api.github.com/users/ebowsoft/orgs",
+  "repos_url": "https://api.github.com/users/ebowsoft/repos",
+  "events_url": "https://api.github.com/users/ebowsoft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ebowsoft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

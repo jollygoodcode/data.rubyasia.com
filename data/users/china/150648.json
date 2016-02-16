@@ -1,0 +1,20 @@
+{
+  "login": "southwolf",
+  "id": 150648,
+  "avatar_url": "https://avatars.githubusercontent.com/u/150648?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/southwolf",
+  "html_url": "https://github.com/southwolf",
+  "followers_url": "https://api.github.com/users/southwolf/followers",
+  "following_url": "https://api.github.com/users/southwolf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/southwolf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/southwolf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/southwolf/subscriptions",
+  "organizations_url": "https://api.github.com/users/southwolf/orgs",
+  "repos_url": "https://api.github.com/users/southwolf/repos",
+  "events_url": "https://api.github.com/users/southwolf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/southwolf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

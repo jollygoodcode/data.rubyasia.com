@@ -1,0 +1,20 @@
+{
+  "login": "aostanin",
+  "id": 1375097,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1375097?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aostanin",
+  "html_url": "https://github.com/aostanin",
+  "followers_url": "https://api.github.com/users/aostanin/followers",
+  "following_url": "https://api.github.com/users/aostanin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aostanin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aostanin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aostanin/subscriptions",
+  "organizations_url": "https://api.github.com/users/aostanin/orgs",
+  "repos_url": "https://api.github.com/users/aostanin/repos",
+  "events_url": "https://api.github.com/users/aostanin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aostanin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

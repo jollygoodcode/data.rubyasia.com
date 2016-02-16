@@ -1,0 +1,20 @@
+{
+  "login": "teamspielmann",
+  "id": 2478024,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2478024?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/teamspielmann",
+  "html_url": "https://github.com/teamspielmann",
+  "followers_url": "https://api.github.com/users/teamspielmann/followers",
+  "following_url": "https://api.github.com/users/teamspielmann/following{/other_user}",
+  "gists_url": "https://api.github.com/users/teamspielmann/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/teamspielmann/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/teamspielmann/subscriptions",
+  "organizations_url": "https://api.github.com/users/teamspielmann/orgs",
+  "repos_url": "https://api.github.com/users/teamspielmann/repos",
+  "events_url": "https://api.github.com/users/teamspielmann/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/teamspielmann/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sankio",
+  "id": 730745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/730745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sankio",
+  "html_url": "https://github.com/sankio",
+  "followers_url": "https://api.github.com/users/sankio/followers",
+  "following_url": "https://api.github.com/users/sankio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sankio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sankio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sankio/subscriptions",
+  "organizations_url": "https://api.github.com/users/sankio/orgs",
+  "repos_url": "https://api.github.com/users/sankio/repos",
+  "events_url": "https://api.github.com/users/sankio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sankio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

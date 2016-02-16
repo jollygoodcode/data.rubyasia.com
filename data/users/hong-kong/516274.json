@@ -1,0 +1,20 @@
+{
+  "login": "fivetwentysix",
+  "id": 516274,
+  "avatar_url": "https://avatars.githubusercontent.com/u/516274?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fivetwentysix",
+  "html_url": "https://github.com/fivetwentysix",
+  "followers_url": "https://api.github.com/users/fivetwentysix/followers",
+  "following_url": "https://api.github.com/users/fivetwentysix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fivetwentysix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fivetwentysix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fivetwentysix/subscriptions",
+  "organizations_url": "https://api.github.com/users/fivetwentysix/orgs",
+  "repos_url": "https://api.github.com/users/fivetwentysix/repos",
+  "events_url": "https://api.github.com/users/fivetwentysix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fivetwentysix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "woxtu",
+  "id": 5673994,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5673994?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/woxtu",
+  "html_url": "https://github.com/woxtu",
+  "followers_url": "https://api.github.com/users/woxtu/followers",
+  "following_url": "https://api.github.com/users/woxtu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/woxtu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/woxtu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/woxtu/subscriptions",
+  "organizations_url": "https://api.github.com/users/woxtu/orgs",
+  "repos_url": "https://api.github.com/users/woxtu/repos",
+  "events_url": "https://api.github.com/users/woxtu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/woxtu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

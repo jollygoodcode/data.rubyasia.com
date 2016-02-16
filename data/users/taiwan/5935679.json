@@ -1,0 +1,20 @@
+{
+  "login": "lenatech",
+  "id": 5935679,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5935679?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lenatech",
+  "html_url": "https://github.com/lenatech",
+  "followers_url": "https://api.github.com/users/lenatech/followers",
+  "following_url": "https://api.github.com/users/lenatech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lenatech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lenatech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lenatech/subscriptions",
+  "organizations_url": "https://api.github.com/users/lenatech/orgs",
+  "repos_url": "https://api.github.com/users/lenatech/repos",
+  "events_url": "https://api.github.com/users/lenatech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lenatech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

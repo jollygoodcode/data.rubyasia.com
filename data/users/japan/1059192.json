@@ -1,0 +1,20 @@
+{
+  "login": "takadakotaro",
+  "id": 1059192,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1059192?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takadakotaro",
+  "html_url": "https://github.com/takadakotaro",
+  "followers_url": "https://api.github.com/users/takadakotaro/followers",
+  "following_url": "https://api.github.com/users/takadakotaro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takadakotaro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takadakotaro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takadakotaro/subscriptions",
+  "organizations_url": "https://api.github.com/users/takadakotaro/orgs",
+  "repos_url": "https://api.github.com/users/takadakotaro/repos",
+  "events_url": "https://api.github.com/users/takadakotaro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takadakotaro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

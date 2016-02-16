@@ -1,0 +1,20 @@
+{
+  "login": "stephenxu",
+  "id": 5029170,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5029170?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stephenxu",
+  "html_url": "https://github.com/stephenxu",
+  "followers_url": "https://api.github.com/users/stephenxu/followers",
+  "following_url": "https://api.github.com/users/stephenxu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stephenxu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stephenxu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stephenxu/subscriptions",
+  "organizations_url": "https://api.github.com/users/stephenxu/orgs",
+  "repos_url": "https://api.github.com/users/stephenxu/repos",
+  "events_url": "https://api.github.com/users/stephenxu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stephenxu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

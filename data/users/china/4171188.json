@@ -1,0 +1,20 @@
+{
+  "login": "wenshin",
+  "id": 4171188,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4171188?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wenshin",
+  "html_url": "https://github.com/wenshin",
+  "followers_url": "https://api.github.com/users/wenshin/followers",
+  "following_url": "https://api.github.com/users/wenshin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wenshin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wenshin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wenshin/subscriptions",
+  "organizations_url": "https://api.github.com/users/wenshin/orgs",
+  "repos_url": "https://api.github.com/users/wenshin/repos",
+  "events_url": "https://api.github.com/users/wenshin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wenshin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

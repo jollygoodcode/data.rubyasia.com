@@ -1,0 +1,20 @@
+{
+  "login": "guavapass",
+  "id": 14048181,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14048181?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/guavapass",
+  "html_url": "https://github.com/guavapass",
+  "followers_url": "https://api.github.com/users/guavapass/followers",
+  "following_url": "https://api.github.com/users/guavapass/following{/other_user}",
+  "gists_url": "https://api.github.com/users/guavapass/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/guavapass/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/guavapass/subscriptions",
+  "organizations_url": "https://api.github.com/users/guavapass/orgs",
+  "repos_url": "https://api.github.com/users/guavapass/repos",
+  "events_url": "https://api.github.com/users/guavapass/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/guavapass/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

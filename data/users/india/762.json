@@ -1,0 +1,20 @@
+{
+  "login": "asanghi",
+  "id": 762,
+  "avatar_url": "https://avatars.githubusercontent.com/u/762?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asanghi",
+  "html_url": "https://github.com/asanghi",
+  "followers_url": "https://api.github.com/users/asanghi/followers",
+  "following_url": "https://api.github.com/users/asanghi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asanghi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asanghi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asanghi/subscriptions",
+  "organizations_url": "https://api.github.com/users/asanghi/orgs",
+  "repos_url": "https://api.github.com/users/asanghi/repos",
+  "events_url": "https://api.github.com/users/asanghi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asanghi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "TaeyZa",
+  "id": 1318683,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1318683?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TaeyZa",
+  "html_url": "https://github.com/TaeyZa",
+  "followers_url": "https://api.github.com/users/TaeyZa/followers",
+  "following_url": "https://api.github.com/users/TaeyZa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TaeyZa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TaeyZa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TaeyZa/subscriptions",
+  "organizations_url": "https://api.github.com/users/TaeyZa/orgs",
+  "repos_url": "https://api.github.com/users/TaeyZa/repos",
+  "events_url": "https://api.github.com/users/TaeyZa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TaeyZa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "arcright",
+  "id": 123793,
+  "avatar_url": "https://avatars.githubusercontent.com/u/123793?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arcright",
+  "html_url": "https://github.com/arcright",
+  "followers_url": "https://api.github.com/users/arcright/followers",
+  "following_url": "https://api.github.com/users/arcright/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arcright/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arcright/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arcright/subscriptions",
+  "organizations_url": "https://api.github.com/users/arcright/orgs",
+  "repos_url": "https://api.github.com/users/arcright/repos",
+  "events_url": "https://api.github.com/users/arcright/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arcright/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

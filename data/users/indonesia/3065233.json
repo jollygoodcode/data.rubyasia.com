@@ -1,0 +1,20 @@
+{
+  "login": "nicolausradian",
+  "id": 3065233,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3065233?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nicolausradian",
+  "html_url": "https://github.com/nicolausradian",
+  "followers_url": "https://api.github.com/users/nicolausradian/followers",
+  "following_url": "https://api.github.com/users/nicolausradian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nicolausradian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nicolausradian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nicolausradian/subscriptions",
+  "organizations_url": "https://api.github.com/users/nicolausradian/orgs",
+  "repos_url": "https://api.github.com/users/nicolausradian/repos",
+  "events_url": "https://api.github.com/users/nicolausradian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nicolausradian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

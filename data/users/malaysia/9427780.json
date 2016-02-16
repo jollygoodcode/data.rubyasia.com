@@ -1,0 +1,20 @@
+{
+  "login": "moeyster",
+  "id": 9427780,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9427780?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moeyster",
+  "html_url": "https://github.com/moeyster",
+  "followers_url": "https://api.github.com/users/moeyster/followers",
+  "following_url": "https://api.github.com/users/moeyster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moeyster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moeyster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moeyster/subscriptions",
+  "organizations_url": "https://api.github.com/users/moeyster/orgs",
+  "repos_url": "https://api.github.com/users/moeyster/repos",
+  "events_url": "https://api.github.com/users/moeyster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moeyster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

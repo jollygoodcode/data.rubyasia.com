@@ -1,0 +1,20 @@
+{
+  "login": "zhacai",
+  "id": 1778504,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1778504?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhacai",
+  "html_url": "https://github.com/zhacai",
+  "followers_url": "https://api.github.com/users/zhacai/followers",
+  "following_url": "https://api.github.com/users/zhacai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhacai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhacai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhacai/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhacai/orgs",
+  "repos_url": "https://api.github.com/users/zhacai/repos",
+  "events_url": "https://api.github.com/users/zhacai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhacai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

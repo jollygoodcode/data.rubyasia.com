@@ -1,0 +1,20 @@
+{
+  "login": "axsh",
+  "id": 95230,
+  "avatar_url": "https://avatars.githubusercontent.com/u/95230?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/axsh",
+  "html_url": "https://github.com/axsh",
+  "followers_url": "https://api.github.com/users/axsh/followers",
+  "following_url": "https://api.github.com/users/axsh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/axsh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/axsh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/axsh/subscriptions",
+  "organizations_url": "https://api.github.com/users/axsh/orgs",
+  "repos_url": "https://api.github.com/users/axsh/repos",
+  "events_url": "https://api.github.com/users/axsh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/axsh/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

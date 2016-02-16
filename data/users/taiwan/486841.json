@@ -1,0 +1,20 @@
+{
+  "login": "ayamomiji",
+  "id": 486841,
+  "avatar_url": "https://avatars.githubusercontent.com/u/486841?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayamomiji",
+  "html_url": "https://github.com/ayamomiji",
+  "followers_url": "https://api.github.com/users/ayamomiji/followers",
+  "following_url": "https://api.github.com/users/ayamomiji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayamomiji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayamomiji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayamomiji/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayamomiji/orgs",
+  "repos_url": "https://api.github.com/users/ayamomiji/repos",
+  "events_url": "https://api.github.com/users/ayamomiji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayamomiji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

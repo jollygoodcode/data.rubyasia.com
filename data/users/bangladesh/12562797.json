@@ -1,0 +1,20 @@
+{
+  "login": "Nafio",
+  "id": 12562797,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12562797?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Nafio",
+  "html_url": "https://github.com/Nafio",
+  "followers_url": "https://api.github.com/users/Nafio/followers",
+  "following_url": "https://api.github.com/users/Nafio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Nafio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Nafio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Nafio/subscriptions",
+  "organizations_url": "https://api.github.com/users/Nafio/orgs",
+  "repos_url": "https://api.github.com/users/Nafio/repos",
+  "events_url": "https://api.github.com/users/Nafio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Nafio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ewancluckie",
+  "id": 5122549,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5122549?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ewancluckie",
+  "html_url": "https://github.com/ewancluckie",
+  "followers_url": "https://api.github.com/users/ewancluckie/followers",
+  "following_url": "https://api.github.com/users/ewancluckie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ewancluckie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ewancluckie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ewancluckie/subscriptions",
+  "organizations_url": "https://api.github.com/users/ewancluckie/orgs",
+  "repos_url": "https://api.github.com/users/ewancluckie/repos",
+  "events_url": "https://api.github.com/users/ewancluckie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ewancluckie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

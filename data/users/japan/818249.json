@@ -1,0 +1,20 @@
+{
+  "login": "morimorihoge",
+  "id": 818249,
+  "avatar_url": "https://avatars.githubusercontent.com/u/818249?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/morimorihoge",
+  "html_url": "https://github.com/morimorihoge",
+  "followers_url": "https://api.github.com/users/morimorihoge/followers",
+  "following_url": "https://api.github.com/users/morimorihoge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/morimorihoge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/morimorihoge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/morimorihoge/subscriptions",
+  "organizations_url": "https://api.github.com/users/morimorihoge/orgs",
+  "repos_url": "https://api.github.com/users/morimorihoge/repos",
+  "events_url": "https://api.github.com/users/morimorihoge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/morimorihoge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

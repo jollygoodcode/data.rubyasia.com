@@ -1,0 +1,20 @@
+{
+  "login": "ywindish",
+  "id": 542333,
+  "avatar_url": "https://avatars.githubusercontent.com/u/542333?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ywindish",
+  "html_url": "https://github.com/ywindish",
+  "followers_url": "https://api.github.com/users/ywindish/followers",
+  "following_url": "https://api.github.com/users/ywindish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ywindish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ywindish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ywindish/subscriptions",
+  "organizations_url": "https://api.github.com/users/ywindish/orgs",
+  "repos_url": "https://api.github.com/users/ywindish/repos",
+  "events_url": "https://api.github.com/users/ywindish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ywindish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

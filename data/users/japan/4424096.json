@@ -1,0 +1,20 @@
+{
+  "login": "soohanboys",
+  "id": 4424096,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4424096?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/soohanboys",
+  "html_url": "https://github.com/soohanboys",
+  "followers_url": "https://api.github.com/users/soohanboys/followers",
+  "following_url": "https://api.github.com/users/soohanboys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/soohanboys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/soohanboys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/soohanboys/subscriptions",
+  "organizations_url": "https://api.github.com/users/soohanboys/orgs",
+  "repos_url": "https://api.github.com/users/soohanboys/repos",
+  "events_url": "https://api.github.com/users/soohanboys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/soohanboys/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

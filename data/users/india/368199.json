@@ -1,0 +1,20 @@
+{
+  "login": "gary-no-1",
+  "id": 368199,
+  "avatar_url": "https://avatars.githubusercontent.com/u/368199?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gary-no-1",
+  "html_url": "https://github.com/gary-no-1",
+  "followers_url": "https://api.github.com/users/gary-no-1/followers",
+  "following_url": "https://api.github.com/users/gary-no-1/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gary-no-1/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gary-no-1/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gary-no-1/subscriptions",
+  "organizations_url": "https://api.github.com/users/gary-no-1/orgs",
+  "repos_url": "https://api.github.com/users/gary-no-1/repos",
+  "events_url": "https://api.github.com/users/gary-no-1/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gary-no-1/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

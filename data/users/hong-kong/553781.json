@@ -1,0 +1,20 @@
+{
+  "login": "thought-sauce",
+  "id": 553781,
+  "avatar_url": "https://avatars.githubusercontent.com/u/553781?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thought-sauce",
+  "html_url": "https://github.com/thought-sauce",
+  "followers_url": "https://api.github.com/users/thought-sauce/followers",
+  "following_url": "https://api.github.com/users/thought-sauce/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thought-sauce/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thought-sauce/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thought-sauce/subscriptions",
+  "organizations_url": "https://api.github.com/users/thought-sauce/orgs",
+  "repos_url": "https://api.github.com/users/thought-sauce/repos",
+  "events_url": "https://api.github.com/users/thought-sauce/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thought-sauce/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

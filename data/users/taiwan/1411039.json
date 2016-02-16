@@ -1,0 +1,20 @@
+{
+  "login": "maximx",
+  "id": 1411039,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1411039?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maximx",
+  "html_url": "https://github.com/maximx",
+  "followers_url": "https://api.github.com/users/maximx/followers",
+  "following_url": "https://api.github.com/users/maximx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maximx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maximx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maximx/subscriptions",
+  "organizations_url": "https://api.github.com/users/maximx/orgs",
+  "repos_url": "https://api.github.com/users/maximx/repos",
+  "events_url": "https://api.github.com/users/maximx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maximx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

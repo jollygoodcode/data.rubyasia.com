@@ -1,0 +1,20 @@
+{
+  "login": "TechCompose",
+  "id": 10573149,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10573149?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TechCompose",
+  "html_url": "https://github.com/TechCompose",
+  "followers_url": "https://api.github.com/users/TechCompose/followers",
+  "following_url": "https://api.github.com/users/TechCompose/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TechCompose/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TechCompose/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TechCompose/subscriptions",
+  "organizations_url": "https://api.github.com/users/TechCompose/orgs",
+  "repos_url": "https://api.github.com/users/TechCompose/repos",
+  "events_url": "https://api.github.com/users/TechCompose/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TechCompose/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

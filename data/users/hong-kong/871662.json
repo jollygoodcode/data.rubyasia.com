@@ -1,0 +1,20 @@
+{
+  "login": "redlake",
+  "id": 871662,
+  "avatar_url": "https://avatars.githubusercontent.com/u/871662?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/redlake",
+  "html_url": "https://github.com/redlake",
+  "followers_url": "https://api.github.com/users/redlake/followers",
+  "following_url": "https://api.github.com/users/redlake/following{/other_user}",
+  "gists_url": "https://api.github.com/users/redlake/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/redlake/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/redlake/subscriptions",
+  "organizations_url": "https://api.github.com/users/redlake/orgs",
+  "repos_url": "https://api.github.com/users/redlake/repos",
+  "events_url": "https://api.github.com/users/redlake/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/redlake/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

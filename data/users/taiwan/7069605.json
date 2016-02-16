@@ -1,0 +1,20 @@
+{
+  "login": "Rukeith",
+  "id": 7069605,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7069605?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Rukeith",
+  "html_url": "https://github.com/Rukeith",
+  "followers_url": "https://api.github.com/users/Rukeith/followers",
+  "following_url": "https://api.github.com/users/Rukeith/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Rukeith/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Rukeith/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Rukeith/subscriptions",
+  "organizations_url": "https://api.github.com/users/Rukeith/orgs",
+  "repos_url": "https://api.github.com/users/Rukeith/repos",
+  "events_url": "https://api.github.com/users/Rukeith/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Rukeith/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

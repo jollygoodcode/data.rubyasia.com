@@ -1,0 +1,20 @@
+{
+  "login": "wadatak",
+  "id": 6690405,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6690405?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wadatak",
+  "html_url": "https://github.com/wadatak",
+  "followers_url": "https://api.github.com/users/wadatak/followers",
+  "following_url": "https://api.github.com/users/wadatak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wadatak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wadatak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wadatak/subscriptions",
+  "organizations_url": "https://api.github.com/users/wadatak/orgs",
+  "repos_url": "https://api.github.com/users/wadatak/repos",
+  "events_url": "https://api.github.com/users/wadatak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wadatak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

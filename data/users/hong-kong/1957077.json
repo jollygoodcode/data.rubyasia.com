@@ -1,0 +1,20 @@
+{
+  "login": "nostopbutton",
+  "id": 1957077,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1957077?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nostopbutton",
+  "html_url": "https://github.com/nostopbutton",
+  "followers_url": "https://api.github.com/users/nostopbutton/followers",
+  "following_url": "https://api.github.com/users/nostopbutton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nostopbutton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nostopbutton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nostopbutton/subscriptions",
+  "organizations_url": "https://api.github.com/users/nostopbutton/orgs",
+  "repos_url": "https://api.github.com/users/nostopbutton/repos",
+  "events_url": "https://api.github.com/users/nostopbutton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nostopbutton/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

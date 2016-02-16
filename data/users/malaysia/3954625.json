@@ -1,0 +1,20 @@
+{
+  "login": "cupnoodle",
+  "id": 3954625,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3954625?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cupnoodle",
+  "html_url": "https://github.com/cupnoodle",
+  "followers_url": "https://api.github.com/users/cupnoodle/followers",
+  "following_url": "https://api.github.com/users/cupnoodle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cupnoodle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cupnoodle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cupnoodle/subscriptions",
+  "organizations_url": "https://api.github.com/users/cupnoodle/orgs",
+  "repos_url": "https://api.github.com/users/cupnoodle/repos",
+  "events_url": "https://api.github.com/users/cupnoodle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cupnoodle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

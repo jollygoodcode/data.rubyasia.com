@@ -1,0 +1,20 @@
+{
+  "login": "terut",
+  "id": 603380,
+  "avatar_url": "https://avatars.githubusercontent.com/u/603380?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/terut",
+  "html_url": "https://github.com/terut",
+  "followers_url": "https://api.github.com/users/terut/followers",
+  "following_url": "https://api.github.com/users/terut/following{/other_user}",
+  "gists_url": "https://api.github.com/users/terut/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/terut/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/terut/subscriptions",
+  "organizations_url": "https://api.github.com/users/terut/orgs",
+  "repos_url": "https://api.github.com/users/terut/repos",
+  "events_url": "https://api.github.com/users/terut/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/terut/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

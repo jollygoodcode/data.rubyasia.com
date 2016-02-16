@@ -1,0 +1,20 @@
+{
+  "login": "tota",
+  "id": 70422,
+  "avatar_url": "https://avatars.githubusercontent.com/u/70422?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tota",
+  "html_url": "https://github.com/tota",
+  "followers_url": "https://api.github.com/users/tota/followers",
+  "following_url": "https://api.github.com/users/tota/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tota/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tota/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tota/subscriptions",
+  "organizations_url": "https://api.github.com/users/tota/orgs",
+  "repos_url": "https://api.github.com/users/tota/repos",
+  "events_url": "https://api.github.com/users/tota/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tota/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

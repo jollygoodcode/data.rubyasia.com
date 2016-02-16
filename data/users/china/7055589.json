@@ -1,0 +1,20 @@
+{
+  "login": "Stephen-Lee",
+  "id": 7055589,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7055589?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Stephen-Lee",
+  "html_url": "https://github.com/Stephen-Lee",
+  "followers_url": "https://api.github.com/users/Stephen-Lee/followers",
+  "following_url": "https://api.github.com/users/Stephen-Lee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Stephen-Lee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Stephen-Lee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Stephen-Lee/subscriptions",
+  "organizations_url": "https://api.github.com/users/Stephen-Lee/orgs",
+  "repos_url": "https://api.github.com/users/Stephen-Lee/repos",
+  "events_url": "https://api.github.com/users/Stephen-Lee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Stephen-Lee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

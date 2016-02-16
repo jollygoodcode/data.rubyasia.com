@@ -1,0 +1,20 @@
+{
+  "login": "intomyam",
+  "id": 10085763,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10085763?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/intomyam",
+  "html_url": "https://github.com/intomyam",
+  "followers_url": "https://api.github.com/users/intomyam/followers",
+  "following_url": "https://api.github.com/users/intomyam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/intomyam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/intomyam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/intomyam/subscriptions",
+  "organizations_url": "https://api.github.com/users/intomyam/orgs",
+  "repos_url": "https://api.github.com/users/intomyam/repos",
+  "events_url": "https://api.github.com/users/intomyam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/intomyam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

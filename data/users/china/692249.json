@@ -1,0 +1,20 @@
+{
+  "login": "sepher",
+  "id": 692249,
+  "avatar_url": "https://avatars.githubusercontent.com/u/692249?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sepher",
+  "html_url": "https://github.com/sepher",
+  "followers_url": "https://api.github.com/users/sepher/followers",
+  "following_url": "https://api.github.com/users/sepher/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sepher/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sepher/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sepher/subscriptions",
+  "organizations_url": "https://api.github.com/users/sepher/orgs",
+  "repos_url": "https://api.github.com/users/sepher/repos",
+  "events_url": "https://api.github.com/users/sepher/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sepher/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

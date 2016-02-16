@@ -1,0 +1,20 @@
+{
+  "login": "gigoallen",
+  "id": 488085,
+  "avatar_url": "https://avatars.githubusercontent.com/u/488085?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gigoallen",
+  "html_url": "https://github.com/gigoallen",
+  "followers_url": "https://api.github.com/users/gigoallen/followers",
+  "following_url": "https://api.github.com/users/gigoallen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gigoallen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gigoallen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gigoallen/subscriptions",
+  "organizations_url": "https://api.github.com/users/gigoallen/orgs",
+  "repos_url": "https://api.github.com/users/gigoallen/repos",
+  "events_url": "https://api.github.com/users/gigoallen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gigoallen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

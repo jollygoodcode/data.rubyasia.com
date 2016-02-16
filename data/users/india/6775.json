@@ -1,0 +1,20 @@
+{
+  "login": "shanlalit",
+  "id": 6775,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6775?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shanlalit",
+  "html_url": "https://github.com/shanlalit",
+  "followers_url": "https://api.github.com/users/shanlalit/followers",
+  "following_url": "https://api.github.com/users/shanlalit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shanlalit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shanlalit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shanlalit/subscriptions",
+  "organizations_url": "https://api.github.com/users/shanlalit/orgs",
+  "repos_url": "https://api.github.com/users/shanlalit/repos",
+  "events_url": "https://api.github.com/users/shanlalit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shanlalit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

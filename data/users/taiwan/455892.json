@@ -1,0 +1,20 @@
+{
+  "login": "hechien",
+  "id": 455892,
+  "avatar_url": "https://avatars.githubusercontent.com/u/455892?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hechien",
+  "html_url": "https://github.com/hechien",
+  "followers_url": "https://api.github.com/users/hechien/followers",
+  "following_url": "https://api.github.com/users/hechien/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hechien/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hechien/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hechien/subscriptions",
+  "organizations_url": "https://api.github.com/users/hechien/orgs",
+  "repos_url": "https://api.github.com/users/hechien/repos",
+  "events_url": "https://api.github.com/users/hechien/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hechien/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

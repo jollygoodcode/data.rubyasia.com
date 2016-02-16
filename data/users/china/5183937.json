@@ -1,0 +1,20 @@
+{
+  "login": "ShowingCloud",
+  "id": 5183937,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5183937?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ShowingCloud",
+  "html_url": "https://github.com/ShowingCloud",
+  "followers_url": "https://api.github.com/users/ShowingCloud/followers",
+  "following_url": "https://api.github.com/users/ShowingCloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ShowingCloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ShowingCloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ShowingCloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/ShowingCloud/orgs",
+  "repos_url": "https://api.github.com/users/ShowingCloud/repos",
+  "events_url": "https://api.github.com/users/ShowingCloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ShowingCloud/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

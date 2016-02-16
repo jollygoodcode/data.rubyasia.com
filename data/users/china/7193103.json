@@ -1,0 +1,20 @@
+{
+  "login": "qhasilver",
+  "id": 7193103,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7193103?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qhasilver",
+  "html_url": "https://github.com/qhasilver",
+  "followers_url": "https://api.github.com/users/qhasilver/followers",
+  "following_url": "https://api.github.com/users/qhasilver/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qhasilver/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qhasilver/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qhasilver/subscriptions",
+  "organizations_url": "https://api.github.com/users/qhasilver/orgs",
+  "repos_url": "https://api.github.com/users/qhasilver/repos",
+  "events_url": "https://api.github.com/users/qhasilver/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qhasilver/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

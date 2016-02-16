@@ -1,0 +1,20 @@
+{
+  "login": "VMCPL",
+  "id": 4618305,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4618305?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/VMCPL",
+  "html_url": "https://github.com/VMCPL",
+  "followers_url": "https://api.github.com/users/VMCPL/followers",
+  "following_url": "https://api.github.com/users/VMCPL/following{/other_user}",
+  "gists_url": "https://api.github.com/users/VMCPL/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/VMCPL/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/VMCPL/subscriptions",
+  "organizations_url": "https://api.github.com/users/VMCPL/orgs",
+  "repos_url": "https://api.github.com/users/VMCPL/repos",
+  "events_url": "https://api.github.com/users/VMCPL/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/VMCPL/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

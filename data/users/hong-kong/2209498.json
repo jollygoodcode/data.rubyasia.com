@@ -1,0 +1,20 @@
+{
+  "login": "tinycodecraft",
+  "id": 2209498,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2209498?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tinycodecraft",
+  "html_url": "https://github.com/tinycodecraft",
+  "followers_url": "https://api.github.com/users/tinycodecraft/followers",
+  "following_url": "https://api.github.com/users/tinycodecraft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tinycodecraft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tinycodecraft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tinycodecraft/subscriptions",
+  "organizations_url": "https://api.github.com/users/tinycodecraft/orgs",
+  "repos_url": "https://api.github.com/users/tinycodecraft/repos",
+  "events_url": "https://api.github.com/users/tinycodecraft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tinycodecraft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

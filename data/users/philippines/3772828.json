@@ -1,0 +1,20 @@
+{
+  "login": "kjcpaas",
+  "id": 3772828,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3772828?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kjcpaas",
+  "html_url": "https://github.com/kjcpaas",
+  "followers_url": "https://api.github.com/users/kjcpaas/followers",
+  "following_url": "https://api.github.com/users/kjcpaas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kjcpaas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kjcpaas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kjcpaas/subscriptions",
+  "organizations_url": "https://api.github.com/users/kjcpaas/orgs",
+  "repos_url": "https://api.github.com/users/kjcpaas/repos",
+  "events_url": "https://api.github.com/users/kjcpaas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kjcpaas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

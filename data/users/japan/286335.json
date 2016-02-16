@@ -1,0 +1,20 @@
+{
+  "login": "serverworks",
+  "id": 286335,
+  "avatar_url": "https://avatars.githubusercontent.com/u/286335?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/serverworks",
+  "html_url": "https://github.com/serverworks",
+  "followers_url": "https://api.github.com/users/serverworks/followers",
+  "following_url": "https://api.github.com/users/serverworks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/serverworks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/serverworks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/serverworks/subscriptions",
+  "organizations_url": "https://api.github.com/users/serverworks/orgs",
+  "repos_url": "https://api.github.com/users/serverworks/repos",
+  "events_url": "https://api.github.com/users/serverworks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/serverworks/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

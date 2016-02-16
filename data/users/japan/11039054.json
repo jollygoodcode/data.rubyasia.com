@@ -1,0 +1,20 @@
+{
+  "login": "ictsc",
+  "id": 11039054,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11039054?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ictsc",
+  "html_url": "https://github.com/ictsc",
+  "followers_url": "https://api.github.com/users/ictsc/followers",
+  "following_url": "https://api.github.com/users/ictsc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ictsc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ictsc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ictsc/subscriptions",
+  "organizations_url": "https://api.github.com/users/ictsc/orgs",
+  "repos_url": "https://api.github.com/users/ictsc/repos",
+  "events_url": "https://api.github.com/users/ictsc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ictsc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

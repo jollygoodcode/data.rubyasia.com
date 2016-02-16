@@ -1,0 +1,20 @@
+{
+  "login": "json2json",
+  "id": 1761841,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1761841?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/json2json",
+  "html_url": "https://github.com/json2json",
+  "followers_url": "https://api.github.com/users/json2json/followers",
+  "following_url": "https://api.github.com/users/json2json/following{/other_user}",
+  "gists_url": "https://api.github.com/users/json2json/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/json2json/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/json2json/subscriptions",
+  "organizations_url": "https://api.github.com/users/json2json/orgs",
+  "repos_url": "https://api.github.com/users/json2json/repos",
+  "events_url": "https://api.github.com/users/json2json/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/json2json/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

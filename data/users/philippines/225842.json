@@ -1,0 +1,20 @@
+{
+  "login": "jungui",
+  "id": 225842,
+  "avatar_url": "https://avatars.githubusercontent.com/u/225842?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jungui",
+  "html_url": "https://github.com/jungui",
+  "followers_url": "https://api.github.com/users/jungui/followers",
+  "following_url": "https://api.github.com/users/jungui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jungui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jungui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jungui/subscriptions",
+  "organizations_url": "https://api.github.com/users/jungui/orgs",
+  "repos_url": "https://api.github.com/users/jungui/repos",
+  "events_url": "https://api.github.com/users/jungui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jungui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

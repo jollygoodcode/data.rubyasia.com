@@ -1,0 +1,20 @@
+{
+  "login": "m-narayan",
+  "id": 3001491,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3001491?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/m-narayan",
+  "html_url": "https://github.com/m-narayan",
+  "followers_url": "https://api.github.com/users/m-narayan/followers",
+  "following_url": "https://api.github.com/users/m-narayan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/m-narayan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/m-narayan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/m-narayan/subscriptions",
+  "organizations_url": "https://api.github.com/users/m-narayan/orgs",
+  "repos_url": "https://api.github.com/users/m-narayan/repos",
+  "events_url": "https://api.github.com/users/m-narayan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/m-narayan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

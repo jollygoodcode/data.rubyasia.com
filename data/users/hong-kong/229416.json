@@ -1,0 +1,20 @@
+{
+  "login": "profmaad",
+  "id": 229416,
+  "avatar_url": "https://avatars.githubusercontent.com/u/229416?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/profmaad",
+  "html_url": "https://github.com/profmaad",
+  "followers_url": "https://api.github.com/users/profmaad/followers",
+  "following_url": "https://api.github.com/users/profmaad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/profmaad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/profmaad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/profmaad/subscriptions",
+  "organizations_url": "https://api.github.com/users/profmaad/orgs",
+  "repos_url": "https://api.github.com/users/profmaad/repos",
+  "events_url": "https://api.github.com/users/profmaad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/profmaad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hymnfish",
+  "id": 1229876,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1229876?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hymnfish",
+  "html_url": "https://github.com/hymnfish",
+  "followers_url": "https://api.github.com/users/hymnfish/followers",
+  "following_url": "https://api.github.com/users/hymnfish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hymnfish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hymnfish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hymnfish/subscriptions",
+  "organizations_url": "https://api.github.com/users/hymnfish/orgs",
+  "repos_url": "https://api.github.com/users/hymnfish/repos",
+  "events_url": "https://api.github.com/users/hymnfish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hymnfish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

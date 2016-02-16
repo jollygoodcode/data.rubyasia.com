@@ -1,0 +1,20 @@
+{
+  "login": "smartacorbat",
+  "id": 715481,
+  "avatar_url": "https://avatars.githubusercontent.com/u/715481?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smartacorbat",
+  "html_url": "https://github.com/smartacorbat",
+  "followers_url": "https://api.github.com/users/smartacorbat/followers",
+  "following_url": "https://api.github.com/users/smartacorbat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smartacorbat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smartacorbat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smartacorbat/subscriptions",
+  "organizations_url": "https://api.github.com/users/smartacorbat/orgs",
+  "repos_url": "https://api.github.com/users/smartacorbat/repos",
+  "events_url": "https://api.github.com/users/smartacorbat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smartacorbat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

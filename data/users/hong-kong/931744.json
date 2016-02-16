@@ -1,0 +1,20 @@
+{
+  "login": "nashyeung",
+  "id": 931744,
+  "avatar_url": "https://avatars.githubusercontent.com/u/931744?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nashyeung",
+  "html_url": "https://github.com/nashyeung",
+  "followers_url": "https://api.github.com/users/nashyeung/followers",
+  "following_url": "https://api.github.com/users/nashyeung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nashyeung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nashyeung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nashyeung/subscriptions",
+  "organizations_url": "https://api.github.com/users/nashyeung/orgs",
+  "repos_url": "https://api.github.com/users/nashyeung/repos",
+  "events_url": "https://api.github.com/users/nashyeung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nashyeung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

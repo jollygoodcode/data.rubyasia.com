@@ -1,0 +1,20 @@
+{
+  "login": "chaixl",
+  "id": 1960798,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1960798?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chaixl",
+  "html_url": "https://github.com/chaixl",
+  "followers_url": "https://api.github.com/users/chaixl/followers",
+  "following_url": "https://api.github.com/users/chaixl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chaixl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chaixl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chaixl/subscriptions",
+  "organizations_url": "https://api.github.com/users/chaixl/orgs",
+  "repos_url": "https://api.github.com/users/chaixl/repos",
+  "events_url": "https://api.github.com/users/chaixl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chaixl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

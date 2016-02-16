@@ -1,0 +1,20 @@
+{
+  "login": "query-string",
+  "id": 160712,
+  "avatar_url": "https://avatars.githubusercontent.com/u/160712?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/query-string",
+  "html_url": "https://github.com/query-string",
+  "followers_url": "https://api.github.com/users/query-string/followers",
+  "following_url": "https://api.github.com/users/query-string/following{/other_user}",
+  "gists_url": "https://api.github.com/users/query-string/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/query-string/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/query-string/subscriptions",
+  "organizations_url": "https://api.github.com/users/query-string/orgs",
+  "repos_url": "https://api.github.com/users/query-string/repos",
+  "events_url": "https://api.github.com/users/query-string/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/query-string/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

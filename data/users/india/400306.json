@@ -1,0 +1,20 @@
+{
+  "login": "somaraju",
+  "id": 400306,
+  "avatar_url": "https://avatars.githubusercontent.com/u/400306?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/somaraju",
+  "html_url": "https://github.com/somaraju",
+  "followers_url": "https://api.github.com/users/somaraju/followers",
+  "following_url": "https://api.github.com/users/somaraju/following{/other_user}",
+  "gists_url": "https://api.github.com/users/somaraju/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/somaraju/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/somaraju/subscriptions",
+  "organizations_url": "https://api.github.com/users/somaraju/orgs",
+  "repos_url": "https://api.github.com/users/somaraju/repos",
+  "events_url": "https://api.github.com/users/somaraju/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/somaraju/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

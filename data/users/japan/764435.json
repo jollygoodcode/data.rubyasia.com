@@ -1,0 +1,20 @@
+{
+  "login": "SebastianWikander",
+  "id": 764435,
+  "avatar_url": "https://avatars.githubusercontent.com/u/764435?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SebastianWikander",
+  "html_url": "https://github.com/SebastianWikander",
+  "followers_url": "https://api.github.com/users/SebastianWikander/followers",
+  "following_url": "https://api.github.com/users/SebastianWikander/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SebastianWikander/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SebastianWikander/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SebastianWikander/subscriptions",
+  "organizations_url": "https://api.github.com/users/SebastianWikander/orgs",
+  "repos_url": "https://api.github.com/users/SebastianWikander/repos",
+  "events_url": "https://api.github.com/users/SebastianWikander/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SebastianWikander/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

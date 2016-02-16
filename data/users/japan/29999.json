@@ -1,0 +1,20 @@
+{
+  "login": "remino",
+  "id": 29999,
+  "avatar_url": "https://avatars.githubusercontent.com/u/29999?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/remino",
+  "html_url": "https://github.com/remino",
+  "followers_url": "https://api.github.com/users/remino/followers",
+  "following_url": "https://api.github.com/users/remino/following{/other_user}",
+  "gists_url": "https://api.github.com/users/remino/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/remino/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/remino/subscriptions",
+  "organizations_url": "https://api.github.com/users/remino/orgs",
+  "repos_url": "https://api.github.com/users/remino/repos",
+  "events_url": "https://api.github.com/users/remino/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/remino/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

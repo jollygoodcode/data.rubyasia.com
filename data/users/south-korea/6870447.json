@@ -1,0 +1,20 @@
+{
+  "login": "jung-hunsoo",
+  "id": 6870447,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6870447?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jung-hunsoo",
+  "html_url": "https://github.com/jung-hunsoo",
+  "followers_url": "https://api.github.com/users/jung-hunsoo/followers",
+  "following_url": "https://api.github.com/users/jung-hunsoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jung-hunsoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jung-hunsoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jung-hunsoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/jung-hunsoo/orgs",
+  "repos_url": "https://api.github.com/users/jung-hunsoo/repos",
+  "events_url": "https://api.github.com/users/jung-hunsoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jung-hunsoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

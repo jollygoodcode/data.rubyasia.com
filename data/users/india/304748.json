@@ -1,0 +1,20 @@
+{
+  "login": "joshijitendra",
+  "id": 304748,
+  "avatar_url": "https://avatars.githubusercontent.com/u/304748?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joshijitendra",
+  "html_url": "https://github.com/joshijitendra",
+  "followers_url": "https://api.github.com/users/joshijitendra/followers",
+  "following_url": "https://api.github.com/users/joshijitendra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joshijitendra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joshijitendra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joshijitendra/subscriptions",
+  "organizations_url": "https://api.github.com/users/joshijitendra/orgs",
+  "repos_url": "https://api.github.com/users/joshijitendra/repos",
+  "events_url": "https://api.github.com/users/joshijitendra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joshijitendra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

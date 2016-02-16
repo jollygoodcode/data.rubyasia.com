@@ -1,0 +1,20 @@
+{
+  "login": "koexuka",
+  "id": 1377602,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1377602?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/koexuka",
+  "html_url": "https://github.com/koexuka",
+  "followers_url": "https://api.github.com/users/koexuka/followers",
+  "following_url": "https://api.github.com/users/koexuka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/koexuka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/koexuka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/koexuka/subscriptions",
+  "organizations_url": "https://api.github.com/users/koexuka/orgs",
+  "repos_url": "https://api.github.com/users/koexuka/repos",
+  "events_url": "https://api.github.com/users/koexuka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/koexuka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

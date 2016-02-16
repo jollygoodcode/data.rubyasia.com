@@ -1,0 +1,20 @@
+{
+  "login": "pecily",
+  "id": 11752030,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11752030?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pecily",
+  "html_url": "https://github.com/pecily",
+  "followers_url": "https://api.github.com/users/pecily/followers",
+  "following_url": "https://api.github.com/users/pecily/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pecily/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pecily/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pecily/subscriptions",
+  "organizations_url": "https://api.github.com/users/pecily/orgs",
+  "repos_url": "https://api.github.com/users/pecily/repos",
+  "events_url": "https://api.github.com/users/pecily/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pecily/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

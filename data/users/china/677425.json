@@ -1,0 +1,20 @@
+{
+  "login": "huangzhichong",
+  "id": 677425,
+  "avatar_url": "https://avatars.githubusercontent.com/u/677425?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huangzhichong",
+  "html_url": "https://github.com/huangzhichong",
+  "followers_url": "https://api.github.com/users/huangzhichong/followers",
+  "following_url": "https://api.github.com/users/huangzhichong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huangzhichong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huangzhichong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huangzhichong/subscriptions",
+  "organizations_url": "https://api.github.com/users/huangzhichong/orgs",
+  "repos_url": "https://api.github.com/users/huangzhichong/repos",
+  "events_url": "https://api.github.com/users/huangzhichong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huangzhichong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

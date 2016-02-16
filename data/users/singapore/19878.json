@@ -1,0 +1,20 @@
+{
+  "login": "jaryl",
+  "id": 19878,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19878?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jaryl",
+  "html_url": "https://github.com/jaryl",
+  "followers_url": "https://api.github.com/users/jaryl/followers",
+  "following_url": "https://api.github.com/users/jaryl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jaryl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jaryl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jaryl/subscriptions",
+  "organizations_url": "https://api.github.com/users/jaryl/orgs",
+  "repos_url": "https://api.github.com/users/jaryl/repos",
+  "events_url": "https://api.github.com/users/jaryl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jaryl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

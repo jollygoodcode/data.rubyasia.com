@@ -1,0 +1,20 @@
+{
+  "login": "nattee",
+  "id": 3469752,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3469752?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nattee",
+  "html_url": "https://github.com/nattee",
+  "followers_url": "https://api.github.com/users/nattee/followers",
+  "following_url": "https://api.github.com/users/nattee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nattee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nattee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nattee/subscriptions",
+  "organizations_url": "https://api.github.com/users/nattee/orgs",
+  "repos_url": "https://api.github.com/users/nattee/repos",
+  "events_url": "https://api.github.com/users/nattee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nattee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

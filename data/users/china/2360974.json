@@ -1,0 +1,20 @@
+{
+  "login": "anqing",
+  "id": 2360974,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2360974?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anqing",
+  "html_url": "https://github.com/anqing",
+  "followers_url": "https://api.github.com/users/anqing/followers",
+  "following_url": "https://api.github.com/users/anqing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anqing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anqing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anqing/subscriptions",
+  "organizations_url": "https://api.github.com/users/anqing/orgs",
+  "repos_url": "https://api.github.com/users/anqing/repos",
+  "events_url": "https://api.github.com/users/anqing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anqing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

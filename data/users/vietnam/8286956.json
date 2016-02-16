@@ -1,0 +1,20 @@
+{
+  "login": "ThanhNoel",
+  "id": 8286956,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8286956?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ThanhNoel",
+  "html_url": "https://github.com/ThanhNoel",
+  "followers_url": "https://api.github.com/users/ThanhNoel/followers",
+  "following_url": "https://api.github.com/users/ThanhNoel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ThanhNoel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ThanhNoel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ThanhNoel/subscriptions",
+  "organizations_url": "https://api.github.com/users/ThanhNoel/orgs",
+  "repos_url": "https://api.github.com/users/ThanhNoel/repos",
+  "events_url": "https://api.github.com/users/ThanhNoel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ThanhNoel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

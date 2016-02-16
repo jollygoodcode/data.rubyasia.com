@@ -1,0 +1,20 @@
+{
+  "login": "Bigcircle",
+  "id": 1162321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1162321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Bigcircle",
+  "html_url": "https://github.com/Bigcircle",
+  "followers_url": "https://api.github.com/users/Bigcircle/followers",
+  "following_url": "https://api.github.com/users/Bigcircle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Bigcircle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Bigcircle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Bigcircle/subscriptions",
+  "organizations_url": "https://api.github.com/users/Bigcircle/orgs",
+  "repos_url": "https://api.github.com/users/Bigcircle/repos",
+  "events_url": "https://api.github.com/users/Bigcircle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Bigcircle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

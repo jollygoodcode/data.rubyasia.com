@@ -1,0 +1,20 @@
+{
+  "login": "sumanawal",
+  "id": 10415264,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10415264?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sumanawal",
+  "html_url": "https://github.com/sumanawal",
+  "followers_url": "https://api.github.com/users/sumanawal/followers",
+  "following_url": "https://api.github.com/users/sumanawal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sumanawal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sumanawal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sumanawal/subscriptions",
+  "organizations_url": "https://api.github.com/users/sumanawal/orgs",
+  "repos_url": "https://api.github.com/users/sumanawal/repos",
+  "events_url": "https://api.github.com/users/sumanawal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sumanawal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

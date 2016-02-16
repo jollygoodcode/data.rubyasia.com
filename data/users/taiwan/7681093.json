@@ -1,0 +1,20 @@
+{
+  "login": "Kumaheika",
+  "id": 7681093,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7681093?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Kumaheika",
+  "html_url": "https://github.com/Kumaheika",
+  "followers_url": "https://api.github.com/users/Kumaheika/followers",
+  "following_url": "https://api.github.com/users/Kumaheika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Kumaheika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Kumaheika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Kumaheika/subscriptions",
+  "organizations_url": "https://api.github.com/users/Kumaheika/orgs",
+  "repos_url": "https://api.github.com/users/Kumaheika/repos",
+  "events_url": "https://api.github.com/users/Kumaheika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Kumaheika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

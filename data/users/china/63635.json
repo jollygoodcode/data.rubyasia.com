@@ -1,0 +1,20 @@
+{
+  "login": "nouse",
+  "id": 63635,
+  "avatar_url": "https://avatars.githubusercontent.com/u/63635?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nouse",
+  "html_url": "https://github.com/nouse",
+  "followers_url": "https://api.github.com/users/nouse/followers",
+  "following_url": "https://api.github.com/users/nouse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nouse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nouse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nouse/subscriptions",
+  "organizations_url": "https://api.github.com/users/nouse/orgs",
+  "repos_url": "https://api.github.com/users/nouse/repos",
+  "events_url": "https://api.github.com/users/nouse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nouse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

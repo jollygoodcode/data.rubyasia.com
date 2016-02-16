@@ -1,0 +1,20 @@
+{
+  "login": "urokomori",
+  "id": 9044119,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9044119?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/urokomori",
+  "html_url": "https://github.com/urokomori",
+  "followers_url": "https://api.github.com/users/urokomori/followers",
+  "following_url": "https://api.github.com/users/urokomori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/urokomori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/urokomori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/urokomori/subscriptions",
+  "organizations_url": "https://api.github.com/users/urokomori/orgs",
+  "repos_url": "https://api.github.com/users/urokomori/repos",
+  "events_url": "https://api.github.com/users/urokomori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/urokomori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

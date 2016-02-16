@@ -1,0 +1,20 @@
+{
+  "login": "nhuanvn",
+  "id": 831540,
+  "avatar_url": "https://avatars.githubusercontent.com/u/831540?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nhuanvn",
+  "html_url": "https://github.com/nhuanvn",
+  "followers_url": "https://api.github.com/users/nhuanvn/followers",
+  "following_url": "https://api.github.com/users/nhuanvn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nhuanvn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nhuanvn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nhuanvn/subscriptions",
+  "organizations_url": "https://api.github.com/users/nhuanvn/orgs",
+  "repos_url": "https://api.github.com/users/nhuanvn/repos",
+  "events_url": "https://api.github.com/users/nhuanvn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nhuanvn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

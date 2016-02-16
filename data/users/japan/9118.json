@@ -1,0 +1,20 @@
+{
+  "login": "cola-zero",
+  "id": 9118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cola-zero",
+  "html_url": "https://github.com/cola-zero",
+  "followers_url": "https://api.github.com/users/cola-zero/followers",
+  "following_url": "https://api.github.com/users/cola-zero/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cola-zero/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cola-zero/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cola-zero/subscriptions",
+  "organizations_url": "https://api.github.com/users/cola-zero/orgs",
+  "repos_url": "https://api.github.com/users/cola-zero/repos",
+  "events_url": "https://api.github.com/users/cola-zero/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cola-zero/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

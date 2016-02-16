@@ -1,0 +1,20 @@
+{
+  "login": "gundamew",
+  "id": 2278214,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2278214?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gundamew",
+  "html_url": "https://github.com/gundamew",
+  "followers_url": "https://api.github.com/users/gundamew/followers",
+  "following_url": "https://api.github.com/users/gundamew/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gundamew/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gundamew/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gundamew/subscriptions",
+  "organizations_url": "https://api.github.com/users/gundamew/orgs",
+  "repos_url": "https://api.github.com/users/gundamew/repos",
+  "events_url": "https://api.github.com/users/gundamew/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gundamew/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

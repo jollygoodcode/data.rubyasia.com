@@ -1,0 +1,20 @@
+{
+  "login": "svencrox",
+  "id": 10369887,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10369887?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/svencrox",
+  "html_url": "https://github.com/svencrox",
+  "followers_url": "https://api.github.com/users/svencrox/followers",
+  "following_url": "https://api.github.com/users/svencrox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/svencrox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/svencrox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/svencrox/subscriptions",
+  "organizations_url": "https://api.github.com/users/svencrox/orgs",
+  "repos_url": "https://api.github.com/users/svencrox/repos",
+  "events_url": "https://api.github.com/users/svencrox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/svencrox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

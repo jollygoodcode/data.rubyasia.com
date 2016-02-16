@@ -1,0 +1,20 @@
+{
+  "login": "void-main",
+  "id": 552990,
+  "avatar_url": "https://avatars.githubusercontent.com/u/552990?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/void-main",
+  "html_url": "https://github.com/void-main",
+  "followers_url": "https://api.github.com/users/void-main/followers",
+  "following_url": "https://api.github.com/users/void-main/following{/other_user}",
+  "gists_url": "https://api.github.com/users/void-main/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/void-main/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/void-main/subscriptions",
+  "organizations_url": "https://api.github.com/users/void-main/orgs",
+  "repos_url": "https://api.github.com/users/void-main/repos",
+  "events_url": "https://api.github.com/users/void-main/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/void-main/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

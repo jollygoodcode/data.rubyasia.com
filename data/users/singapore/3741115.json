@@ -1,0 +1,20 @@
+{
+  "login": "ayemonchit",
+  "id": 3741115,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3741115?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayemonchit",
+  "html_url": "https://github.com/ayemonchit",
+  "followers_url": "https://api.github.com/users/ayemonchit/followers",
+  "following_url": "https://api.github.com/users/ayemonchit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayemonchit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayemonchit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayemonchit/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayemonchit/orgs",
+  "repos_url": "https://api.github.com/users/ayemonchit/repos",
+  "events_url": "https://api.github.com/users/ayemonchit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayemonchit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

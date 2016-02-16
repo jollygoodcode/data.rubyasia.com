@@ -1,0 +1,20 @@
+{
+  "login": "vivisleeping",
+  "id": 5615680,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5615680?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vivisleeping",
+  "html_url": "https://github.com/vivisleeping",
+  "followers_url": "https://api.github.com/users/vivisleeping/followers",
+  "following_url": "https://api.github.com/users/vivisleeping/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vivisleeping/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vivisleeping/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vivisleeping/subscriptions",
+  "organizations_url": "https://api.github.com/users/vivisleeping/orgs",
+  "repos_url": "https://api.github.com/users/vivisleeping/repos",
+  "events_url": "https://api.github.com/users/vivisleeping/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vivisleeping/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

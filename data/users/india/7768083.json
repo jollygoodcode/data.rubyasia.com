@@ -1,0 +1,20 @@
+{
+  "login": "WebEnrich",
+  "id": 7768083,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7768083?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/WebEnrich",
+  "html_url": "https://github.com/WebEnrich",
+  "followers_url": "https://api.github.com/users/WebEnrich/followers",
+  "following_url": "https://api.github.com/users/WebEnrich/following{/other_user}",
+  "gists_url": "https://api.github.com/users/WebEnrich/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/WebEnrich/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/WebEnrich/subscriptions",
+  "organizations_url": "https://api.github.com/users/WebEnrich/orgs",
+  "repos_url": "https://api.github.com/users/WebEnrich/repos",
+  "events_url": "https://api.github.com/users/WebEnrich/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/WebEnrich/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jaxxie",
+  "id": 3010195,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3010195?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jaxxie",
+  "html_url": "https://github.com/jaxxie",
+  "followers_url": "https://api.github.com/users/jaxxie/followers",
+  "following_url": "https://api.github.com/users/jaxxie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jaxxie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jaxxie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jaxxie/subscriptions",
+  "organizations_url": "https://api.github.com/users/jaxxie/orgs",
+  "repos_url": "https://api.github.com/users/jaxxie/repos",
+  "events_url": "https://api.github.com/users/jaxxie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jaxxie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

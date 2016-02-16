@@ -1,0 +1,20 @@
+{
+  "login": "r7kamura",
+  "id": 111689,
+  "avatar_url": "https://avatars.githubusercontent.com/u/111689?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/r7kamura",
+  "html_url": "https://github.com/r7kamura",
+  "followers_url": "https://api.github.com/users/r7kamura/followers",
+  "following_url": "https://api.github.com/users/r7kamura/following{/other_user}",
+  "gists_url": "https://api.github.com/users/r7kamura/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/r7kamura/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/r7kamura/subscriptions",
+  "organizations_url": "https://api.github.com/users/r7kamura/orgs",
+  "repos_url": "https://api.github.com/users/r7kamura/repos",
+  "events_url": "https://api.github.com/users/r7kamura/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/r7kamura/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

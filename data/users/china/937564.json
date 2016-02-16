@@ -1,0 +1,20 @@
+{
+  "login": "ninfo",
+  "id": 937564,
+  "avatar_url": "https://avatars.githubusercontent.com/u/937564?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ninfo",
+  "html_url": "https://github.com/ninfo",
+  "followers_url": "https://api.github.com/users/ninfo/followers",
+  "following_url": "https://api.github.com/users/ninfo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ninfo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ninfo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ninfo/subscriptions",
+  "organizations_url": "https://api.github.com/users/ninfo/orgs",
+  "repos_url": "https://api.github.com/users/ninfo/repos",
+  "events_url": "https://api.github.com/users/ninfo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ninfo/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

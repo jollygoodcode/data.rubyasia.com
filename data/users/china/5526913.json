@@ -1,0 +1,20 @@
+{
+  "login": "LongCHN",
+  "id": 5526913,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5526913?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LongCHN",
+  "html_url": "https://github.com/LongCHN",
+  "followers_url": "https://api.github.com/users/LongCHN/followers",
+  "following_url": "https://api.github.com/users/LongCHN/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LongCHN/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LongCHN/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LongCHN/subscriptions",
+  "organizations_url": "https://api.github.com/users/LongCHN/orgs",
+  "repos_url": "https://api.github.com/users/LongCHN/repos",
+  "events_url": "https://api.github.com/users/LongCHN/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LongCHN/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

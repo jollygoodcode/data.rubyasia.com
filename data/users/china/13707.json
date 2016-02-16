@@ -1,0 +1,20 @@
+{
+  "login": "rainux",
+  "id": 13707,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13707?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rainux",
+  "html_url": "https://github.com/rainux",
+  "followers_url": "https://api.github.com/users/rainux/followers",
+  "following_url": "https://api.github.com/users/rainux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rainux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rainux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rainux/subscriptions",
+  "organizations_url": "https://api.github.com/users/rainux/orgs",
+  "repos_url": "https://api.github.com/users/rainux/repos",
+  "events_url": "https://api.github.com/users/rainux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rainux/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

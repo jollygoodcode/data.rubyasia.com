@@ -1,0 +1,20 @@
+{
+  "login": "billhicks",
+  "id": 1527568,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1527568?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/billhicks",
+  "html_url": "https://github.com/billhicks",
+  "followers_url": "https://api.github.com/users/billhicks/followers",
+  "following_url": "https://api.github.com/users/billhicks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/billhicks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/billhicks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/billhicks/subscriptions",
+  "organizations_url": "https://api.github.com/users/billhicks/orgs",
+  "repos_url": "https://api.github.com/users/billhicks/repos",
+  "events_url": "https://api.github.com/users/billhicks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/billhicks/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

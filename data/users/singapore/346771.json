@@ -1,0 +1,20 @@
+{
+  "login": "zackyap",
+  "id": 346771,
+  "avatar_url": "https://avatars.githubusercontent.com/u/346771?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zackyap",
+  "html_url": "https://github.com/zackyap",
+  "followers_url": "https://api.github.com/users/zackyap/followers",
+  "following_url": "https://api.github.com/users/zackyap/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zackyap/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zackyap/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zackyap/subscriptions",
+  "organizations_url": "https://api.github.com/users/zackyap/orgs",
+  "repos_url": "https://api.github.com/users/zackyap/repos",
+  "events_url": "https://api.github.com/users/zackyap/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zackyap/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

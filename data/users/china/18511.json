@@ -1,0 +1,20 @@
+{
+  "login": "Kengi",
+  "id": 18511,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18511?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Kengi",
+  "html_url": "https://github.com/Kengi",
+  "followers_url": "https://api.github.com/users/Kengi/followers",
+  "following_url": "https://api.github.com/users/Kengi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Kengi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Kengi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Kengi/subscriptions",
+  "organizations_url": "https://api.github.com/users/Kengi/orgs",
+  "repos_url": "https://api.github.com/users/Kengi/repos",
+  "events_url": "https://api.github.com/users/Kengi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Kengi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

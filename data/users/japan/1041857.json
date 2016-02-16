@@ -1,0 +1,20 @@
+{
+  "login": "fukayatsu",
+  "id": 1041857,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1041857?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fukayatsu",
+  "html_url": "https://github.com/fukayatsu",
+  "followers_url": "https://api.github.com/users/fukayatsu/followers",
+  "following_url": "https://api.github.com/users/fukayatsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fukayatsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fukayatsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fukayatsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/fukayatsu/orgs",
+  "repos_url": "https://api.github.com/users/fukayatsu/repos",
+  "events_url": "https://api.github.com/users/fukayatsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fukayatsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

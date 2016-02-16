@@ -1,0 +1,20 @@
+{
+  "login": "alanho",
+  "id": 71258,
+  "avatar_url": "https://avatars.githubusercontent.com/u/71258?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alanho",
+  "html_url": "https://github.com/alanho",
+  "followers_url": "https://api.github.com/users/alanho/followers",
+  "following_url": "https://api.github.com/users/alanho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alanho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alanho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alanho/subscriptions",
+  "organizations_url": "https://api.github.com/users/alanho/orgs",
+  "repos_url": "https://api.github.com/users/alanho/repos",
+  "events_url": "https://api.github.com/users/alanho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alanho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

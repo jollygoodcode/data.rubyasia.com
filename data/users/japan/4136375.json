@@ -1,0 +1,20 @@
+{
+  "login": "toru-takahashi",
+  "id": 4136375,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4136375?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toru-takahashi",
+  "html_url": "https://github.com/toru-takahashi",
+  "followers_url": "https://api.github.com/users/toru-takahashi/followers",
+  "following_url": "https://api.github.com/users/toru-takahashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toru-takahashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toru-takahashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toru-takahashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/toru-takahashi/orgs",
+  "repos_url": "https://api.github.com/users/toru-takahashi/repos",
+  "events_url": "https://api.github.com/users/toru-takahashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toru-takahashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

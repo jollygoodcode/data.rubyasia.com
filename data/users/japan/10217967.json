@@ -1,0 +1,20 @@
+{
+  "login": "yuta-t",
+  "id": 10217967,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10217967?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuta-t",
+  "html_url": "https://github.com/yuta-t",
+  "followers_url": "https://api.github.com/users/yuta-t/followers",
+  "following_url": "https://api.github.com/users/yuta-t/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuta-t/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuta-t/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuta-t/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuta-t/orgs",
+  "repos_url": "https://api.github.com/users/yuta-t/repos",
+  "events_url": "https://api.github.com/users/yuta-t/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuta-t/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

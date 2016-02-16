@@ -1,0 +1,20 @@
+{
+  "login": "moto-net",
+  "id": 1935738,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1935738?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moto-net",
+  "html_url": "https://github.com/moto-net",
+  "followers_url": "https://api.github.com/users/moto-net/followers",
+  "following_url": "https://api.github.com/users/moto-net/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moto-net/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moto-net/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moto-net/subscriptions",
+  "organizations_url": "https://api.github.com/users/moto-net/orgs",
+  "repos_url": "https://api.github.com/users/moto-net/repos",
+  "events_url": "https://api.github.com/users/moto-net/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moto-net/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

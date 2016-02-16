@@ -1,0 +1,20 @@
+{
+  "login": "stan",
+  "id": 1571,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1571?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stan",
+  "html_url": "https://github.com/stan",
+  "followers_url": "https://api.github.com/users/stan/followers",
+  "following_url": "https://api.github.com/users/stan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stan/subscriptions",
+  "organizations_url": "https://api.github.com/users/stan/orgs",
+  "repos_url": "https://api.github.com/users/stan/repos",
+  "events_url": "https://api.github.com/users/stan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

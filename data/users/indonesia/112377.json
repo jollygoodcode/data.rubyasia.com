@@ -1,0 +1,20 @@
+{
+  "login": "byakugie",
+  "id": 112377,
+  "avatar_url": "https://avatars.githubusercontent.com/u/112377?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/byakugie",
+  "html_url": "https://github.com/byakugie",
+  "followers_url": "https://api.github.com/users/byakugie/followers",
+  "following_url": "https://api.github.com/users/byakugie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/byakugie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/byakugie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/byakugie/subscriptions",
+  "organizations_url": "https://api.github.com/users/byakugie/orgs",
+  "repos_url": "https://api.github.com/users/byakugie/repos",
+  "events_url": "https://api.github.com/users/byakugie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/byakugie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

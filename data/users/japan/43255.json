@@ -1,0 +1,20 @@
+{
+  "login": "poppen",
+  "id": 43255,
+  "avatar_url": "https://avatars.githubusercontent.com/u/43255?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/poppen",
+  "html_url": "https://github.com/poppen",
+  "followers_url": "https://api.github.com/users/poppen/followers",
+  "following_url": "https://api.github.com/users/poppen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/poppen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/poppen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/poppen/subscriptions",
+  "organizations_url": "https://api.github.com/users/poppen/orgs",
+  "repos_url": "https://api.github.com/users/poppen/repos",
+  "events_url": "https://api.github.com/users/poppen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/poppen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

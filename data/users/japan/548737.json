@@ -1,0 +1,20 @@
+{
+  "login": "iduru",
+  "id": 548737,
+  "avatar_url": "https://avatars.githubusercontent.com/u/548737?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iduru",
+  "html_url": "https://github.com/iduru",
+  "followers_url": "https://api.github.com/users/iduru/followers",
+  "following_url": "https://api.github.com/users/iduru/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iduru/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iduru/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iduru/subscriptions",
+  "organizations_url": "https://api.github.com/users/iduru/orgs",
+  "repos_url": "https://api.github.com/users/iduru/repos",
+  "events_url": "https://api.github.com/users/iduru/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iduru/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sunnyvilles",
+  "id": 1785761,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1785761?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sunnyvilles",
+  "html_url": "https://github.com/sunnyvilles",
+  "followers_url": "https://api.github.com/users/sunnyvilles/followers",
+  "following_url": "https://api.github.com/users/sunnyvilles/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sunnyvilles/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sunnyvilles/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sunnyvilles/subscriptions",
+  "organizations_url": "https://api.github.com/users/sunnyvilles/orgs",
+  "repos_url": "https://api.github.com/users/sunnyvilles/repos",
+  "events_url": "https://api.github.com/users/sunnyvilles/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sunnyvilles/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

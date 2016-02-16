@@ -1,0 +1,20 @@
+{
+  "login": "dchapde",
+  "id": 860686,
+  "avatar_url": "https://avatars.githubusercontent.com/u/860686?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dchapde",
+  "html_url": "https://github.com/dchapde",
+  "followers_url": "https://api.github.com/users/dchapde/followers",
+  "following_url": "https://api.github.com/users/dchapde/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dchapde/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dchapde/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dchapde/subscriptions",
+  "organizations_url": "https://api.github.com/users/dchapde/orgs",
+  "repos_url": "https://api.github.com/users/dchapde/repos",
+  "events_url": "https://api.github.com/users/dchapde/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dchapde/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yoshiokatsuneo",
+  "id": 381300,
+  "avatar_url": "https://avatars.githubusercontent.com/u/381300?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoshiokatsuneo",
+  "html_url": "https://github.com/yoshiokatsuneo",
+  "followers_url": "https://api.github.com/users/yoshiokatsuneo/followers",
+  "following_url": "https://api.github.com/users/yoshiokatsuneo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoshiokatsuneo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoshiokatsuneo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoshiokatsuneo/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoshiokatsuneo/orgs",
+  "repos_url": "https://api.github.com/users/yoshiokatsuneo/repos",
+  "events_url": "https://api.github.com/users/yoshiokatsuneo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoshiokatsuneo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

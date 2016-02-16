@@ -1,0 +1,20 @@
+{
+  "login": "yamasitain",
+  "id": 946914,
+  "avatar_url": "https://avatars.githubusercontent.com/u/946914?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yamasitain",
+  "html_url": "https://github.com/yamasitain",
+  "followers_url": "https://api.github.com/users/yamasitain/followers",
+  "following_url": "https://api.github.com/users/yamasitain/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yamasitain/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yamasitain/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yamasitain/subscriptions",
+  "organizations_url": "https://api.github.com/users/yamasitain/orgs",
+  "repos_url": "https://api.github.com/users/yamasitain/repos",
+  "events_url": "https://api.github.com/users/yamasitain/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yamasitain/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

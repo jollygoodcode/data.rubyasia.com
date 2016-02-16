@@ -1,0 +1,20 @@
+{
+  "login": "elyzion",
+  "id": 844567,
+  "avatar_url": "https://avatars.githubusercontent.com/u/844567?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elyzion",
+  "html_url": "https://github.com/elyzion",
+  "followers_url": "https://api.github.com/users/elyzion/followers",
+  "following_url": "https://api.github.com/users/elyzion/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elyzion/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elyzion/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elyzion/subscriptions",
+  "organizations_url": "https://api.github.com/users/elyzion/orgs",
+  "repos_url": "https://api.github.com/users/elyzion/repos",
+  "events_url": "https://api.github.com/users/elyzion/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elyzion/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

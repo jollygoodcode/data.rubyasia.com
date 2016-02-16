@@ -1,0 +1,20 @@
+{
+  "login": "orzccc",
+  "id": 120430,
+  "avatar_url": "https://avatars.githubusercontent.com/u/120430?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/orzccc",
+  "html_url": "https://github.com/orzccc",
+  "followers_url": "https://api.github.com/users/orzccc/followers",
+  "following_url": "https://api.github.com/users/orzccc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/orzccc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/orzccc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/orzccc/subscriptions",
+  "organizations_url": "https://api.github.com/users/orzccc/orgs",
+  "repos_url": "https://api.github.com/users/orzccc/repos",
+  "events_url": "https://api.github.com/users/orzccc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/orzccc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "puhitaku",
+  "id": 2425178,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2425178?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/puhitaku",
+  "html_url": "https://github.com/puhitaku",
+  "followers_url": "https://api.github.com/users/puhitaku/followers",
+  "following_url": "https://api.github.com/users/puhitaku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/puhitaku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/puhitaku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/puhitaku/subscriptions",
+  "organizations_url": "https://api.github.com/users/puhitaku/orgs",
+  "repos_url": "https://api.github.com/users/puhitaku/repos",
+  "events_url": "https://api.github.com/users/puhitaku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/puhitaku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

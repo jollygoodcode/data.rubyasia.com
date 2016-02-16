@@ -1,0 +1,20 @@
+{
+  "login": "yteraoka",
+  "id": 52259,
+  "avatar_url": "https://avatars.githubusercontent.com/u/52259?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yteraoka",
+  "html_url": "https://github.com/yteraoka",
+  "followers_url": "https://api.github.com/users/yteraoka/followers",
+  "following_url": "https://api.github.com/users/yteraoka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yteraoka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yteraoka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yteraoka/subscriptions",
+  "organizations_url": "https://api.github.com/users/yteraoka/orgs",
+  "repos_url": "https://api.github.com/users/yteraoka/repos",
+  "events_url": "https://api.github.com/users/yteraoka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yteraoka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

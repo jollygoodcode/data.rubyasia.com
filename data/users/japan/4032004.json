@@ -1,0 +1,20 @@
+{
+  "login": "okada-takuya",
+  "id": 4032004,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4032004?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okada-takuya",
+  "html_url": "https://github.com/okada-takuya",
+  "followers_url": "https://api.github.com/users/okada-takuya/followers",
+  "following_url": "https://api.github.com/users/okada-takuya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okada-takuya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okada-takuya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okada-takuya/subscriptions",
+  "organizations_url": "https://api.github.com/users/okada-takuya/orgs",
+  "repos_url": "https://api.github.com/users/okada-takuya/repos",
+  "events_url": "https://api.github.com/users/okada-takuya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okada-takuya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

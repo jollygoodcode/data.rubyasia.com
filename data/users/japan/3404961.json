@@ -1,0 +1,20 @@
+{
+  "login": "gappacker",
+  "id": 3404961,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3404961?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gappacker",
+  "html_url": "https://github.com/gappacker",
+  "followers_url": "https://api.github.com/users/gappacker/followers",
+  "following_url": "https://api.github.com/users/gappacker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gappacker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gappacker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gappacker/subscriptions",
+  "organizations_url": "https://api.github.com/users/gappacker/orgs",
+  "repos_url": "https://api.github.com/users/gappacker/repos",
+  "events_url": "https://api.github.com/users/gappacker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gappacker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

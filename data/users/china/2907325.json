@@ -1,0 +1,20 @@
+{
+  "login": "h2ocube",
+  "id": 2907325,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2907325?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/h2ocube",
+  "html_url": "https://github.com/h2ocube",
+  "followers_url": "https://api.github.com/users/h2ocube/followers",
+  "following_url": "https://api.github.com/users/h2ocube/following{/other_user}",
+  "gists_url": "https://api.github.com/users/h2ocube/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/h2ocube/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/h2ocube/subscriptions",
+  "organizations_url": "https://api.github.com/users/h2ocube/orgs",
+  "repos_url": "https://api.github.com/users/h2ocube/repos",
+  "events_url": "https://api.github.com/users/h2ocube/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/h2ocube/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

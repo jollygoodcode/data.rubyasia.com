@@ -1,0 +1,20 @@
+{
+  "login": "saboyutaka",
+  "id": 1701108,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1701108?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saboyutaka",
+  "html_url": "https://github.com/saboyutaka",
+  "followers_url": "https://api.github.com/users/saboyutaka/followers",
+  "following_url": "https://api.github.com/users/saboyutaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saboyutaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saboyutaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saboyutaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/saboyutaka/orgs",
+  "repos_url": "https://api.github.com/users/saboyutaka/repos",
+  "events_url": "https://api.github.com/users/saboyutaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saboyutaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "zhouqing",
+  "id": 1426389,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1426389?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhouqing",
+  "html_url": "https://github.com/zhouqing",
+  "followers_url": "https://api.github.com/users/zhouqing/followers",
+  "following_url": "https://api.github.com/users/zhouqing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhouqing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhouqing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhouqing/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhouqing/orgs",
+  "repos_url": "https://api.github.com/users/zhouqing/repos",
+  "events_url": "https://api.github.com/users/zhouqing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhouqing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

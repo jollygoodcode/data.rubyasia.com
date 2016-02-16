@@ -1,0 +1,20 @@
+{
+  "login": "tomchentw",
+  "id": 922234,
+  "avatar_url": "https://avatars.githubusercontent.com/u/922234?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tomchentw",
+  "html_url": "https://github.com/tomchentw",
+  "followers_url": "https://api.github.com/users/tomchentw/followers",
+  "following_url": "https://api.github.com/users/tomchentw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tomchentw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tomchentw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tomchentw/subscriptions",
+  "organizations_url": "https://api.github.com/users/tomchentw/orgs",
+  "repos_url": "https://api.github.com/users/tomchentw/repos",
+  "events_url": "https://api.github.com/users/tomchentw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tomchentw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

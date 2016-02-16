@@ -1,0 +1,20 @@
+{
+  "login": "yangbo",
+  "id": 23898,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23898?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yangbo",
+  "html_url": "https://github.com/yangbo",
+  "followers_url": "https://api.github.com/users/yangbo/followers",
+  "following_url": "https://api.github.com/users/yangbo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yangbo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yangbo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yangbo/subscriptions",
+  "organizations_url": "https://api.github.com/users/yangbo/orgs",
+  "repos_url": "https://api.github.com/users/yangbo/repos",
+  "events_url": "https://api.github.com/users/yangbo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yangbo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

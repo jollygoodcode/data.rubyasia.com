@@ -1,0 +1,20 @@
+{
+  "login": "senosa",
+  "id": 203887,
+  "avatar_url": "https://avatars.githubusercontent.com/u/203887?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/senosa",
+  "html_url": "https://github.com/senosa",
+  "followers_url": "https://api.github.com/users/senosa/followers",
+  "following_url": "https://api.github.com/users/senosa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/senosa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/senosa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/senosa/subscriptions",
+  "organizations_url": "https://api.github.com/users/senosa/orgs",
+  "repos_url": "https://api.github.com/users/senosa/repos",
+  "events_url": "https://api.github.com/users/senosa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/senosa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

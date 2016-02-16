@@ -1,0 +1,20 @@
+{
+  "login": "KogtaSaloni",
+  "id": 8505782,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8505782?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KogtaSaloni",
+  "html_url": "https://github.com/KogtaSaloni",
+  "followers_url": "https://api.github.com/users/KogtaSaloni/followers",
+  "following_url": "https://api.github.com/users/KogtaSaloni/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KogtaSaloni/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KogtaSaloni/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KogtaSaloni/subscriptions",
+  "organizations_url": "https://api.github.com/users/KogtaSaloni/orgs",
+  "repos_url": "https://api.github.com/users/KogtaSaloni/repos",
+  "events_url": "https://api.github.com/users/KogtaSaloni/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KogtaSaloni/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

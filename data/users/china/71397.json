@@ -1,0 +1,20 @@
+{
+  "login": "rainchen",
+  "id": 71397,
+  "avatar_url": "https://avatars.githubusercontent.com/u/71397?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rainchen",
+  "html_url": "https://github.com/rainchen",
+  "followers_url": "https://api.github.com/users/rainchen/followers",
+  "following_url": "https://api.github.com/users/rainchen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rainchen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rainchen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rainchen/subscriptions",
+  "organizations_url": "https://api.github.com/users/rainchen/orgs",
+  "repos_url": "https://api.github.com/users/rainchen/repos",
+  "events_url": "https://api.github.com/users/rainchen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rainchen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hogewest",
+  "id": 140791,
+  "avatar_url": "https://avatars.githubusercontent.com/u/140791?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hogewest",
+  "html_url": "https://github.com/hogewest",
+  "followers_url": "https://api.github.com/users/hogewest/followers",
+  "following_url": "https://api.github.com/users/hogewest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hogewest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hogewest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hogewest/subscriptions",
+  "organizations_url": "https://api.github.com/users/hogewest/orgs",
+  "repos_url": "https://api.github.com/users/hogewest/repos",
+  "events_url": "https://api.github.com/users/hogewest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hogewest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

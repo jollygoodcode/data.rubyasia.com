@@ -1,0 +1,20 @@
+{
+  "login": "pixta-dev",
+  "id": 3306626,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3306626?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pixta-dev",
+  "html_url": "https://github.com/pixta-dev",
+  "followers_url": "https://api.github.com/users/pixta-dev/followers",
+  "following_url": "https://api.github.com/users/pixta-dev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pixta-dev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pixta-dev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pixta-dev/subscriptions",
+  "organizations_url": "https://api.github.com/users/pixta-dev/orgs",
+  "repos_url": "https://api.github.com/users/pixta-dev/repos",
+  "events_url": "https://api.github.com/users/pixta-dev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pixta-dev/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

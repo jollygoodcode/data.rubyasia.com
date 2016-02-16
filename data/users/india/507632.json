@@ -1,0 +1,20 @@
+{
+  "login": "klairvoyant",
+  "id": 507632,
+  "avatar_url": "https://avatars.githubusercontent.com/u/507632?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/klairvoyant",
+  "html_url": "https://github.com/klairvoyant",
+  "followers_url": "https://api.github.com/users/klairvoyant/followers",
+  "following_url": "https://api.github.com/users/klairvoyant/following{/other_user}",
+  "gists_url": "https://api.github.com/users/klairvoyant/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/klairvoyant/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/klairvoyant/subscriptions",
+  "organizations_url": "https://api.github.com/users/klairvoyant/orgs",
+  "repos_url": "https://api.github.com/users/klairvoyant/repos",
+  "events_url": "https://api.github.com/users/klairvoyant/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/klairvoyant/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

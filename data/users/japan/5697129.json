@@ -1,0 +1,20 @@
+{
+  "login": "Koisan",
+  "id": 5697129,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5697129?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Koisan",
+  "html_url": "https://github.com/Koisan",
+  "followers_url": "https://api.github.com/users/Koisan/followers",
+  "following_url": "https://api.github.com/users/Koisan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Koisan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Koisan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Koisan/subscriptions",
+  "organizations_url": "https://api.github.com/users/Koisan/orgs",
+  "repos_url": "https://api.github.com/users/Koisan/repos",
+  "events_url": "https://api.github.com/users/Koisan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Koisan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

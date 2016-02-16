@@ -1,0 +1,20 @@
+{
+  "login": "dstockdale",
+  "id": 128058,
+  "avatar_url": "https://avatars.githubusercontent.com/u/128058?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dstockdale",
+  "html_url": "https://github.com/dstockdale",
+  "followers_url": "https://api.github.com/users/dstockdale/followers",
+  "following_url": "https://api.github.com/users/dstockdale/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dstockdale/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dstockdale/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dstockdale/subscriptions",
+  "organizations_url": "https://api.github.com/users/dstockdale/orgs",
+  "repos_url": "https://api.github.com/users/dstockdale/repos",
+  "events_url": "https://api.github.com/users/dstockdale/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dstockdale/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lenimon",
+  "id": 757207,
+  "avatar_url": "https://avatars.githubusercontent.com/u/757207?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lenimon",
+  "html_url": "https://github.com/lenimon",
+  "followers_url": "https://api.github.com/users/lenimon/followers",
+  "following_url": "https://api.github.com/users/lenimon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lenimon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lenimon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lenimon/subscriptions",
+  "organizations_url": "https://api.github.com/users/lenimon/orgs",
+  "repos_url": "https://api.github.com/users/lenimon/repos",
+  "events_url": "https://api.github.com/users/lenimon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lenimon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

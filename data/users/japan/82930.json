@@ -1,0 +1,20 @@
+{
+  "login": "maicos",
+  "id": 82930,
+  "avatar_url": "https://avatars.githubusercontent.com/u/82930?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maicos",
+  "html_url": "https://github.com/maicos",
+  "followers_url": "https://api.github.com/users/maicos/followers",
+  "following_url": "https://api.github.com/users/maicos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maicos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maicos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maicos/subscriptions",
+  "organizations_url": "https://api.github.com/users/maicos/orgs",
+  "repos_url": "https://api.github.com/users/maicos/repos",
+  "events_url": "https://api.github.com/users/maicos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maicos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

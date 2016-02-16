@@ -1,0 +1,20 @@
+{
+  "login": "atig",
+  "id": 6279982,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6279982?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atig",
+  "html_url": "https://github.com/atig",
+  "followers_url": "https://api.github.com/users/atig/followers",
+  "following_url": "https://api.github.com/users/atig/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atig/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atig/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atig/subscriptions",
+  "organizations_url": "https://api.github.com/users/atig/orgs",
+  "repos_url": "https://api.github.com/users/atig/repos",
+  "events_url": "https://api.github.com/users/atig/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atig/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

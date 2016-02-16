@@ -1,0 +1,20 @@
+{
+  "login": "supersid",
+  "id": 202950,
+  "avatar_url": "https://avatars.githubusercontent.com/u/202950?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/supersid",
+  "html_url": "https://github.com/supersid",
+  "followers_url": "https://api.github.com/users/supersid/followers",
+  "following_url": "https://api.github.com/users/supersid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/supersid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/supersid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/supersid/subscriptions",
+  "organizations_url": "https://api.github.com/users/supersid/orgs",
+  "repos_url": "https://api.github.com/users/supersid/repos",
+  "events_url": "https://api.github.com/users/supersid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/supersid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

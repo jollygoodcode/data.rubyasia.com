@@ -1,0 +1,20 @@
+{
+  "login": "bjmark",
+  "id": 1147887,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1147887?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bjmark",
+  "html_url": "https://github.com/bjmark",
+  "followers_url": "https://api.github.com/users/bjmark/followers",
+  "following_url": "https://api.github.com/users/bjmark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bjmark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bjmark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bjmark/subscriptions",
+  "organizations_url": "https://api.github.com/users/bjmark/orgs",
+  "repos_url": "https://api.github.com/users/bjmark/repos",
+  "events_url": "https://api.github.com/users/bjmark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bjmark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lentg",
+  "id": 198310,
+  "avatar_url": "https://avatars.githubusercontent.com/u/198310?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lentg",
+  "html_url": "https://github.com/lentg",
+  "followers_url": "https://api.github.com/users/lentg/followers",
+  "following_url": "https://api.github.com/users/lentg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lentg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lentg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lentg/subscriptions",
+  "organizations_url": "https://api.github.com/users/lentg/orgs",
+  "repos_url": "https://api.github.com/users/lentg/repos",
+  "events_url": "https://api.github.com/users/lentg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lentg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

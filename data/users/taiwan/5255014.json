@@ -1,0 +1,20 @@
+{
+  "login": "hazetodo",
+  "id": 5255014,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5255014?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hazetodo",
+  "html_url": "https://github.com/hazetodo",
+  "followers_url": "https://api.github.com/users/hazetodo/followers",
+  "following_url": "https://api.github.com/users/hazetodo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hazetodo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hazetodo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hazetodo/subscriptions",
+  "organizations_url": "https://api.github.com/users/hazetodo/orgs",
+  "repos_url": "https://api.github.com/users/hazetodo/repos",
+  "events_url": "https://api.github.com/users/hazetodo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hazetodo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

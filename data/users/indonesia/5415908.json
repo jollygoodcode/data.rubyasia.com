@@ -1,0 +1,20 @@
+{
+  "login": "rickyjanuari",
+  "id": 5415908,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5415908?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rickyjanuari",
+  "html_url": "https://github.com/rickyjanuari",
+  "followers_url": "https://api.github.com/users/rickyjanuari/followers",
+  "following_url": "https://api.github.com/users/rickyjanuari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rickyjanuari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rickyjanuari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rickyjanuari/subscriptions",
+  "organizations_url": "https://api.github.com/users/rickyjanuari/orgs",
+  "repos_url": "https://api.github.com/users/rickyjanuari/repos",
+  "events_url": "https://api.github.com/users/rickyjanuari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rickyjanuari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

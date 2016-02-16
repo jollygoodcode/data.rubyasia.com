@@ -1,0 +1,20 @@
+{
+  "login": "david-angga",
+  "id": 292846,
+  "avatar_url": "https://avatars.githubusercontent.com/u/292846?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/david-angga",
+  "html_url": "https://github.com/david-angga",
+  "followers_url": "https://api.github.com/users/david-angga/followers",
+  "following_url": "https://api.github.com/users/david-angga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/david-angga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/david-angga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/david-angga/subscriptions",
+  "organizations_url": "https://api.github.com/users/david-angga/orgs",
+  "repos_url": "https://api.github.com/users/david-angga/repos",
+  "events_url": "https://api.github.com/users/david-angga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/david-angga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

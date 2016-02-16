@@ -1,0 +1,20 @@
+{
+  "login": "jef-abraham",
+  "id": 1021351,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1021351?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jef-abraham",
+  "html_url": "https://github.com/jef-abraham",
+  "followers_url": "https://api.github.com/users/jef-abraham/followers",
+  "following_url": "https://api.github.com/users/jef-abraham/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jef-abraham/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jef-abraham/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jef-abraham/subscriptions",
+  "organizations_url": "https://api.github.com/users/jef-abraham/orgs",
+  "repos_url": "https://api.github.com/users/jef-abraham/repos",
+  "events_url": "https://api.github.com/users/jef-abraham/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jef-abraham/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

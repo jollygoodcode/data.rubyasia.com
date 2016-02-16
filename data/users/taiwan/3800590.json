@@ -1,0 +1,20 @@
+{
+  "login": "FunnyQ",
+  "id": 3800590,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3800590?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FunnyQ",
+  "html_url": "https://github.com/FunnyQ",
+  "followers_url": "https://api.github.com/users/FunnyQ/followers",
+  "following_url": "https://api.github.com/users/FunnyQ/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FunnyQ/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FunnyQ/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FunnyQ/subscriptions",
+  "organizations_url": "https://api.github.com/users/FunnyQ/orgs",
+  "repos_url": "https://api.github.com/users/FunnyQ/repos",
+  "events_url": "https://api.github.com/users/FunnyQ/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FunnyQ/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

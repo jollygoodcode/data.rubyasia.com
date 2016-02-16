@@ -1,0 +1,20 @@
+{
+  "login": "wowmakers",
+  "id": 1465341,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1465341?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wowmakers",
+  "html_url": "https://github.com/wowmakers",
+  "followers_url": "https://api.github.com/users/wowmakers/followers",
+  "following_url": "https://api.github.com/users/wowmakers/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wowmakers/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wowmakers/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wowmakers/subscriptions",
+  "organizations_url": "https://api.github.com/users/wowmakers/orgs",
+  "repos_url": "https://api.github.com/users/wowmakers/repos",
+  "events_url": "https://api.github.com/users/wowmakers/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wowmakers/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

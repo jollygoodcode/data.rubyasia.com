@@ -1,0 +1,20 @@
+{
+  "login": "jasonbai",
+  "id": 1201949,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1201949?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasonbai",
+  "html_url": "https://github.com/jasonbai",
+  "followers_url": "https://api.github.com/users/jasonbai/followers",
+  "following_url": "https://api.github.com/users/jasonbai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasonbai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasonbai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasonbai/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasonbai/orgs",
+  "repos_url": "https://api.github.com/users/jasonbai/repos",
+  "events_url": "https://api.github.com/users/jasonbai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasonbai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

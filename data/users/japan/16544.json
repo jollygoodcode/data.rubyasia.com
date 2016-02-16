@@ -1,0 +1,20 @@
+{
+  "login": "pacojp",
+  "id": 16544,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16544?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pacojp",
+  "html_url": "https://github.com/pacojp",
+  "followers_url": "https://api.github.com/users/pacojp/followers",
+  "following_url": "https://api.github.com/users/pacojp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pacojp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pacojp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pacojp/subscriptions",
+  "organizations_url": "https://api.github.com/users/pacojp/orgs",
+  "repos_url": "https://api.github.com/users/pacojp/repos",
+  "events_url": "https://api.github.com/users/pacojp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pacojp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

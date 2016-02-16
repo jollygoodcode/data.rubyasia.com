@@ -1,0 +1,20 @@
+{
+  "login": "ben7th",
+  "id": 322486,
+  "avatar_url": "https://avatars.githubusercontent.com/u/322486?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ben7th",
+  "html_url": "https://github.com/ben7th",
+  "followers_url": "https://api.github.com/users/ben7th/followers",
+  "following_url": "https://api.github.com/users/ben7th/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ben7th/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ben7th/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ben7th/subscriptions",
+  "organizations_url": "https://api.github.com/users/ben7th/orgs",
+  "repos_url": "https://api.github.com/users/ben7th/repos",
+  "events_url": "https://api.github.com/users/ben7th/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ben7th/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

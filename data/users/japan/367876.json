@@ -1,0 +1,20 @@
+{
+  "login": "leszekr",
+  "id": 367876,
+  "avatar_url": "https://avatars.githubusercontent.com/u/367876?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leszekr",
+  "html_url": "https://github.com/leszekr",
+  "followers_url": "https://api.github.com/users/leszekr/followers",
+  "following_url": "https://api.github.com/users/leszekr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leszekr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leszekr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leszekr/subscriptions",
+  "organizations_url": "https://api.github.com/users/leszekr/orgs",
+  "repos_url": "https://api.github.com/users/leszekr/repos",
+  "events_url": "https://api.github.com/users/leszekr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leszekr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

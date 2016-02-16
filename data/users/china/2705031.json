@@ -1,0 +1,20 @@
+{
+  "login": "simple-edu",
+  "id": 2705031,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2705031?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simple-edu",
+  "html_url": "https://github.com/simple-edu",
+  "followers_url": "https://api.github.com/users/simple-edu/followers",
+  "following_url": "https://api.github.com/users/simple-edu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simple-edu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simple-edu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simple-edu/subscriptions",
+  "organizations_url": "https://api.github.com/users/simple-edu/orgs",
+  "repos_url": "https://api.github.com/users/simple-edu/repos",
+  "events_url": "https://api.github.com/users/simple-edu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simple-edu/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "JulienLenne",
+  "id": 3530471,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3530471?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JulienLenne",
+  "html_url": "https://github.com/JulienLenne",
+  "followers_url": "https://api.github.com/users/JulienLenne/followers",
+  "following_url": "https://api.github.com/users/JulienLenne/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JulienLenne/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JulienLenne/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JulienLenne/subscriptions",
+  "organizations_url": "https://api.github.com/users/JulienLenne/orgs",
+  "repos_url": "https://api.github.com/users/JulienLenne/repos",
+  "events_url": "https://api.github.com/users/JulienLenne/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JulienLenne/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

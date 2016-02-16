@@ -1,0 +1,20 @@
+{
+  "login": "hkamada",
+  "id": 1460601,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1460601?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hkamada",
+  "html_url": "https://github.com/hkamada",
+  "followers_url": "https://api.github.com/users/hkamada/followers",
+  "following_url": "https://api.github.com/users/hkamada/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hkamada/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hkamada/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hkamada/subscriptions",
+  "organizations_url": "https://api.github.com/users/hkamada/orgs",
+  "repos_url": "https://api.github.com/users/hkamada/repos",
+  "events_url": "https://api.github.com/users/hkamada/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hkamada/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

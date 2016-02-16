@@ -1,0 +1,20 @@
+{
+  "login": "sandmark",
+  "id": 530137,
+  "avatar_url": "https://avatars.githubusercontent.com/u/530137?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sandmark",
+  "html_url": "https://github.com/sandmark",
+  "followers_url": "https://api.github.com/users/sandmark/followers",
+  "following_url": "https://api.github.com/users/sandmark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sandmark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sandmark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sandmark/subscriptions",
+  "organizations_url": "https://api.github.com/users/sandmark/orgs",
+  "repos_url": "https://api.github.com/users/sandmark/repos",
+  "events_url": "https://api.github.com/users/sandmark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sandmark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

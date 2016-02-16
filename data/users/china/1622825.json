@@ -1,0 +1,20 @@
+{
+  "login": "davidlu1001",
+  "id": 1622825,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1622825?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/davidlu1001",
+  "html_url": "https://github.com/davidlu1001",
+  "followers_url": "https://api.github.com/users/davidlu1001/followers",
+  "following_url": "https://api.github.com/users/davidlu1001/following{/other_user}",
+  "gists_url": "https://api.github.com/users/davidlu1001/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/davidlu1001/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/davidlu1001/subscriptions",
+  "organizations_url": "https://api.github.com/users/davidlu1001/orgs",
+  "repos_url": "https://api.github.com/users/davidlu1001/repos",
+  "events_url": "https://api.github.com/users/davidlu1001/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/davidlu1001/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "haibt",
+  "id": 154286,
+  "avatar_url": "https://avatars.githubusercontent.com/u/154286?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haibt",
+  "html_url": "https://github.com/haibt",
+  "followers_url": "https://api.github.com/users/haibt/followers",
+  "following_url": "https://api.github.com/users/haibt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haibt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haibt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haibt/subscriptions",
+  "organizations_url": "https://api.github.com/users/haibt/orgs",
+  "repos_url": "https://api.github.com/users/haibt/repos",
+  "events_url": "https://api.github.com/users/haibt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haibt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

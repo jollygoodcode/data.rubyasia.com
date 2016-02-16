@@ -1,0 +1,20 @@
+{
+  "login": "yehh",
+  "id": 618842,
+  "avatar_url": "https://avatars.githubusercontent.com/u/618842?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yehh",
+  "html_url": "https://github.com/yehh",
+  "followers_url": "https://api.github.com/users/yehh/followers",
+  "following_url": "https://api.github.com/users/yehh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yehh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yehh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yehh/subscriptions",
+  "organizations_url": "https://api.github.com/users/yehh/orgs",
+  "repos_url": "https://api.github.com/users/yehh/repos",
+  "events_url": "https://api.github.com/users/yehh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yehh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

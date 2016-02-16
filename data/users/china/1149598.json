@@ -1,0 +1,20 @@
+{
+  "login": "ruchee",
+  "id": 1149598,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1149598?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ruchee",
+  "html_url": "https://github.com/ruchee",
+  "followers_url": "https://api.github.com/users/ruchee/followers",
+  "following_url": "https://api.github.com/users/ruchee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ruchee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ruchee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ruchee/subscriptions",
+  "organizations_url": "https://api.github.com/users/ruchee/orgs",
+  "repos_url": "https://api.github.com/users/ruchee/repos",
+  "events_url": "https://api.github.com/users/ruchee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ruchee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

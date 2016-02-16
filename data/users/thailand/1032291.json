@@ -1,0 +1,20 @@
+{
+  "login": "Nitrino",
+  "id": 1032291,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1032291?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Nitrino",
+  "html_url": "https://github.com/Nitrino",
+  "followers_url": "https://api.github.com/users/Nitrino/followers",
+  "following_url": "https://api.github.com/users/Nitrino/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Nitrino/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Nitrino/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Nitrino/subscriptions",
+  "organizations_url": "https://api.github.com/users/Nitrino/orgs",
+  "repos_url": "https://api.github.com/users/Nitrino/repos",
+  "events_url": "https://api.github.com/users/Nitrino/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Nitrino/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

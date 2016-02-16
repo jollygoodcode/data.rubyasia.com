@@ -1,0 +1,20 @@
+{
+  "login": "TimeHut",
+  "id": 3737642,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3737642?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TimeHut",
+  "html_url": "https://github.com/TimeHut",
+  "followers_url": "https://api.github.com/users/TimeHut/followers",
+  "following_url": "https://api.github.com/users/TimeHut/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TimeHut/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TimeHut/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TimeHut/subscriptions",
+  "organizations_url": "https://api.github.com/users/TimeHut/orgs",
+  "repos_url": "https://api.github.com/users/TimeHut/repos",
+  "events_url": "https://api.github.com/users/TimeHut/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TimeHut/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

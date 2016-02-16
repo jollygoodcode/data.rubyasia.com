@@ -1,0 +1,20 @@
+{
+  "login": "Tuturu",
+  "id": 10262130,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10262130?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Tuturu",
+  "html_url": "https://github.com/Tuturu",
+  "followers_url": "https://api.github.com/users/Tuturu/followers",
+  "following_url": "https://api.github.com/users/Tuturu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Tuturu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Tuturu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Tuturu/subscriptions",
+  "organizations_url": "https://api.github.com/users/Tuturu/orgs",
+  "repos_url": "https://api.github.com/users/Tuturu/repos",
+  "events_url": "https://api.github.com/users/Tuturu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Tuturu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

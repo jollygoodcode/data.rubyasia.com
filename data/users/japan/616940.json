@@ -1,0 +1,20 @@
+{
+  "login": "sntulix",
+  "id": 616940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/616940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sntulix",
+  "html_url": "https://github.com/sntulix",
+  "followers_url": "https://api.github.com/users/sntulix/followers",
+  "following_url": "https://api.github.com/users/sntulix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sntulix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sntulix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sntulix/subscriptions",
+  "organizations_url": "https://api.github.com/users/sntulix/orgs",
+  "repos_url": "https://api.github.com/users/sntulix/repos",
+  "events_url": "https://api.github.com/users/sntulix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sntulix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

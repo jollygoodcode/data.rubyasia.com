@@ -1,0 +1,20 @@
+{
+  "login": "quality-leaf",
+  "id": 5099459,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5099459?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/quality-leaf",
+  "html_url": "https://github.com/quality-leaf",
+  "followers_url": "https://api.github.com/users/quality-leaf/followers",
+  "following_url": "https://api.github.com/users/quality-leaf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/quality-leaf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/quality-leaf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/quality-leaf/subscriptions",
+  "organizations_url": "https://api.github.com/users/quality-leaf/orgs",
+  "repos_url": "https://api.github.com/users/quality-leaf/repos",
+  "events_url": "https://api.github.com/users/quality-leaf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/quality-leaf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

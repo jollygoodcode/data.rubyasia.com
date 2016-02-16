@@ -1,0 +1,20 @@
+{
+  "login": "henchster",
+  "id": 490572,
+  "avatar_url": "https://avatars.githubusercontent.com/u/490572?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/henchster",
+  "html_url": "https://github.com/henchster",
+  "followers_url": "https://api.github.com/users/henchster/followers",
+  "following_url": "https://api.github.com/users/henchster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/henchster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/henchster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/henchster/subscriptions",
+  "organizations_url": "https://api.github.com/users/henchster/orgs",
+  "repos_url": "https://api.github.com/users/henchster/repos",
+  "events_url": "https://api.github.com/users/henchster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/henchster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

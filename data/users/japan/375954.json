@@ -1,0 +1,20 @@
+{
+  "login": "yukio123",
+  "id": 375954,
+  "avatar_url": "https://avatars.githubusercontent.com/u/375954?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yukio123",
+  "html_url": "https://github.com/yukio123",
+  "followers_url": "https://api.github.com/users/yukio123/followers",
+  "following_url": "https://api.github.com/users/yukio123/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yukio123/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yukio123/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yukio123/subscriptions",
+  "organizations_url": "https://api.github.com/users/yukio123/orgs",
+  "repos_url": "https://api.github.com/users/yukio123/repos",
+  "events_url": "https://api.github.com/users/yukio123/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yukio123/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

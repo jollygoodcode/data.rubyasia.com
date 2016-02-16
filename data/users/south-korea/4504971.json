@@ -1,0 +1,20 @@
+{
+  "login": "potsn",
+  "id": 4504971,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4504971?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/potsn",
+  "html_url": "https://github.com/potsn",
+  "followers_url": "https://api.github.com/users/potsn/followers",
+  "following_url": "https://api.github.com/users/potsn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/potsn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/potsn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/potsn/subscriptions",
+  "organizations_url": "https://api.github.com/users/potsn/orgs",
+  "repos_url": "https://api.github.com/users/potsn/repos",
+  "events_url": "https://api.github.com/users/potsn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/potsn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
