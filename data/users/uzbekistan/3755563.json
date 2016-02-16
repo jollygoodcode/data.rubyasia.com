@@ -1,0 +1,20 @@
+{
+  "login": "azizjonm",
+  "id": 3755563,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3755563?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/azizjonm",
+  "html_url": "https://github.com/azizjonm",
+  "followers_url": "https://api.github.com/users/azizjonm/followers",
+  "following_url": "https://api.github.com/users/azizjonm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/azizjonm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/azizjonm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/azizjonm/subscriptions",
+  "organizations_url": "https://api.github.com/users/azizjonm/orgs",
+  "repos_url": "https://api.github.com/users/azizjonm/repos",
+  "events_url": "https://api.github.com/users/azizjonm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/azizjonm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

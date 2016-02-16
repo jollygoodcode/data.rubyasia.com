@@ -1,0 +1,20 @@
+{
+  "login": "fogelmania",
+  "id": 2544024,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2544024?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fogelmania",
+  "html_url": "https://github.com/fogelmania",
+  "followers_url": "https://api.github.com/users/fogelmania/followers",
+  "following_url": "https://api.github.com/users/fogelmania/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fogelmania/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fogelmania/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fogelmania/subscriptions",
+  "organizations_url": "https://api.github.com/users/fogelmania/orgs",
+  "repos_url": "https://api.github.com/users/fogelmania/repos",
+  "events_url": "https://api.github.com/users/fogelmania/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fogelmania/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

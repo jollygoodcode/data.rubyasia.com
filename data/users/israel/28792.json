@@ -1,0 +1,20 @@
+{
+  "login": "astrails",
+  "id": 28792,
+  "avatar_url": "https://avatars.githubusercontent.com/u/28792?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/astrails",
+  "html_url": "https://github.com/astrails",
+  "followers_url": "https://api.github.com/users/astrails/followers",
+  "following_url": "https://api.github.com/users/astrails/following{/other_user}",
+  "gists_url": "https://api.github.com/users/astrails/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/astrails/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/astrails/subscriptions",
+  "organizations_url": "https://api.github.com/users/astrails/orgs",
+  "repos_url": "https://api.github.com/users/astrails/repos",
+  "events_url": "https://api.github.com/users/astrails/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/astrails/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

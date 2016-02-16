@@ -1,0 +1,20 @@
+{
+  "login": "lagox",
+  "id": 209143,
+  "avatar_url": "https://avatars.githubusercontent.com/u/209143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lagox",
+  "html_url": "https://github.com/lagox",
+  "followers_url": "https://api.github.com/users/lagox/followers",
+  "following_url": "https://api.github.com/users/lagox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lagox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lagox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lagox/subscriptions",
+  "organizations_url": "https://api.github.com/users/lagox/orgs",
+  "repos_url": "https://api.github.com/users/lagox/repos",
+  "events_url": "https://api.github.com/users/lagox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lagox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ahmadspikes",
+  "id": 5212224,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5212224?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ahmadspikes",
+  "html_url": "https://github.com/ahmadspikes",
+  "followers_url": "https://api.github.com/users/ahmadspikes/followers",
+  "following_url": "https://api.github.com/users/ahmadspikes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ahmadspikes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ahmadspikes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ahmadspikes/subscriptions",
+  "organizations_url": "https://api.github.com/users/ahmadspikes/orgs",
+  "repos_url": "https://api.github.com/users/ahmadspikes/repos",
+  "events_url": "https://api.github.com/users/ahmadspikes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ahmadspikes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "CAREUSA",
+  "id": 2053779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2053779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CAREUSA",
+  "html_url": "https://github.com/CAREUSA",
+  "followers_url": "https://api.github.com/users/CAREUSA/followers",
+  "following_url": "https://api.github.com/users/CAREUSA/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CAREUSA/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CAREUSA/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CAREUSA/subscriptions",
+  "organizations_url": "https://api.github.com/users/CAREUSA/orgs",
+  "repos_url": "https://api.github.com/users/CAREUSA/repos",
+  "events_url": "https://api.github.com/users/CAREUSA/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CAREUSA/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

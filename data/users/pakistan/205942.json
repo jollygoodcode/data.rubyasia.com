@@ -1,0 +1,20 @@
+{
+  "login": "swaqas",
+  "id": 205942,
+  "avatar_url": "https://avatars.githubusercontent.com/u/205942?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/swaqas",
+  "html_url": "https://github.com/swaqas",
+  "followers_url": "https://api.github.com/users/swaqas/followers",
+  "following_url": "https://api.github.com/users/swaqas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/swaqas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/swaqas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/swaqas/subscriptions",
+  "organizations_url": "https://api.github.com/users/swaqas/orgs",
+  "repos_url": "https://api.github.com/users/swaqas/repos",
+  "events_url": "https://api.github.com/users/swaqas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/swaqas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

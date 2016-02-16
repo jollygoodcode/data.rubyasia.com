@@ -1,0 +1,20 @@
+{
+  "login": "rdavidwelch",
+  "id": 7296511,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7296511?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rdavidwelch",
+  "html_url": "https://github.com/rdavidwelch",
+  "followers_url": "https://api.github.com/users/rdavidwelch/followers",
+  "following_url": "https://api.github.com/users/rdavidwelch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rdavidwelch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rdavidwelch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rdavidwelch/subscriptions",
+  "organizations_url": "https://api.github.com/users/rdavidwelch/orgs",
+  "repos_url": "https://api.github.com/users/rdavidwelch/repos",
+  "events_url": "https://api.github.com/users/rdavidwelch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rdavidwelch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

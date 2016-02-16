@@ -1,0 +1,20 @@
+{
+  "login": "code4wd",
+  "id": 9844879,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9844879?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/code4wd",
+  "html_url": "https://github.com/code4wd",
+  "followers_url": "https://api.github.com/users/code4wd/followers",
+  "following_url": "https://api.github.com/users/code4wd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/code4wd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/code4wd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/code4wd/subscriptions",
+  "organizations_url": "https://api.github.com/users/code4wd/orgs",
+  "repos_url": "https://api.github.com/users/code4wd/repos",
+  "events_url": "https://api.github.com/users/code4wd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/code4wd/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

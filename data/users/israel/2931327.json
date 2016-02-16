@@ -1,0 +1,20 @@
+{
+  "login": "yuval-netanel",
+  "id": 2931327,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2931327?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuval-netanel",
+  "html_url": "https://github.com/yuval-netanel",
+  "followers_url": "https://api.github.com/users/yuval-netanel/followers",
+  "following_url": "https://api.github.com/users/yuval-netanel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuval-netanel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuval-netanel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuval-netanel/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuval-netanel/orgs",
+  "repos_url": "https://api.github.com/users/yuval-netanel/repos",
+  "events_url": "https://api.github.com/users/yuval-netanel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuval-netanel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

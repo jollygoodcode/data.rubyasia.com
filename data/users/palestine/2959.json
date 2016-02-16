@@ -1,0 +1,20 @@
+{
+  "login": "ammar",
+  "id": 2959,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2959?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ammar",
+  "html_url": "https://github.com/ammar",
+  "followers_url": "https://api.github.com/users/ammar/followers",
+  "following_url": "https://api.github.com/users/ammar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ammar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ammar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ammar/subscriptions",
+  "organizations_url": "https://api.github.com/users/ammar/orgs",
+  "repos_url": "https://api.github.com/users/ammar/repos",
+  "events_url": "https://api.github.com/users/ammar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ammar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

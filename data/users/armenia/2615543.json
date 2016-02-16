@@ -1,0 +1,20 @@
+{
+  "login": "skarap",
+  "id": 2615543,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2615543?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skarap",
+  "html_url": "https://github.com/skarap",
+  "followers_url": "https://api.github.com/users/skarap/followers",
+  "following_url": "https://api.github.com/users/skarap/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skarap/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skarap/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skarap/subscriptions",
+  "organizations_url": "https://api.github.com/users/skarap/orgs",
+  "repos_url": "https://api.github.com/users/skarap/repos",
+  "events_url": "https://api.github.com/users/skarap/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skarap/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

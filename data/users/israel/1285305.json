@@ -1,0 +1,20 @@
+{
+  "login": "pazaricha",
+  "id": 1285305,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1285305?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pazaricha",
+  "html_url": "https://github.com/pazaricha",
+  "followers_url": "https://api.github.com/users/pazaricha/followers",
+  "following_url": "https://api.github.com/users/pazaricha/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pazaricha/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pazaricha/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pazaricha/subscriptions",
+  "organizations_url": "https://api.github.com/users/pazaricha/orgs",
+  "repos_url": "https://api.github.com/users/pazaricha/repos",
+  "events_url": "https://api.github.com/users/pazaricha/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pazaricha/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

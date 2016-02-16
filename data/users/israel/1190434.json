@@ -1,0 +1,20 @@
+{
+  "login": "manyahin",
+  "id": 1190434,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1190434?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/manyahin",
+  "html_url": "https://github.com/manyahin",
+  "followers_url": "https://api.github.com/users/manyahin/followers",
+  "following_url": "https://api.github.com/users/manyahin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/manyahin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/manyahin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/manyahin/subscriptions",
+  "organizations_url": "https://api.github.com/users/manyahin/orgs",
+  "repos_url": "https://api.github.com/users/manyahin/repos",
+  "events_url": "https://api.github.com/users/manyahin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/manyahin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

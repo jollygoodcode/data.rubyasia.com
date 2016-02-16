@@ -1,0 +1,20 @@
+{
+  "login": "amiryal",
+  "id": 105565,
+  "avatar_url": "https://avatars.githubusercontent.com/u/105565?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amiryal",
+  "html_url": "https://github.com/amiryal",
+  "followers_url": "https://api.github.com/users/amiryal/followers",
+  "following_url": "https://api.github.com/users/amiryal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amiryal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amiryal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amiryal/subscriptions",
+  "organizations_url": "https://api.github.com/users/amiryal/orgs",
+  "repos_url": "https://api.github.com/users/amiryal/repos",
+  "events_url": "https://api.github.com/users/amiryal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amiryal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

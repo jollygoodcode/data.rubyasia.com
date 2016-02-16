@@ -1,0 +1,20 @@
+{
+  "login": "toreserter",
+  "id": 1745852,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1745852?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toreserter",
+  "html_url": "https://github.com/toreserter",
+  "followers_url": "https://api.github.com/users/toreserter/followers",
+  "following_url": "https://api.github.com/users/toreserter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toreserter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toreserter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toreserter/subscriptions",
+  "organizations_url": "https://api.github.com/users/toreserter/orgs",
+  "repos_url": "https://api.github.com/users/toreserter/repos",
+  "events_url": "https://api.github.com/users/toreserter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toreserter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

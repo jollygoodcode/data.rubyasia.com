@@ -1,0 +1,20 @@
+{
+  "login": "epicbuzz",
+  "id": 16135379,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16135379?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/epicbuzz",
+  "html_url": "https://github.com/epicbuzz",
+  "followers_url": "https://api.github.com/users/epicbuzz/followers",
+  "following_url": "https://api.github.com/users/epicbuzz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/epicbuzz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/epicbuzz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/epicbuzz/subscriptions",
+  "organizations_url": "https://api.github.com/users/epicbuzz/orgs",
+  "repos_url": "https://api.github.com/users/epicbuzz/repos",
+  "events_url": "https://api.github.com/users/epicbuzz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/epicbuzz/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

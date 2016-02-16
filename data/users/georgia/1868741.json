@@ -1,0 +1,20 @@
+{
+  "login": "carypenn",
+  "id": 1868741,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1868741?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/carypenn",
+  "html_url": "https://github.com/carypenn",
+  "followers_url": "https://api.github.com/users/carypenn/followers",
+  "following_url": "https://api.github.com/users/carypenn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/carypenn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/carypenn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/carypenn/subscriptions",
+  "organizations_url": "https://api.github.com/users/carypenn/orgs",
+  "repos_url": "https://api.github.com/users/carypenn/repos",
+  "events_url": "https://api.github.com/users/carypenn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/carypenn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

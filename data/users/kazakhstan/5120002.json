@@ -1,0 +1,20 @@
+{
+  "login": "randycouture",
+  "id": 5120002,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5120002?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/randycouture",
+  "html_url": "https://github.com/randycouture",
+  "followers_url": "https://api.github.com/users/randycouture/followers",
+  "following_url": "https://api.github.com/users/randycouture/following{/other_user}",
+  "gists_url": "https://api.github.com/users/randycouture/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/randycouture/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/randycouture/subscriptions",
+  "organizations_url": "https://api.github.com/users/randycouture/orgs",
+  "repos_url": "https://api.github.com/users/randycouture/repos",
+  "events_url": "https://api.github.com/users/randycouture/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/randycouture/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hopewise",
+  "id": 1061157,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1061157?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hopewise",
+  "html_url": "https://github.com/hopewise",
+  "followers_url": "https://api.github.com/users/hopewise/followers",
+  "following_url": "https://api.github.com/users/hopewise/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hopewise/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hopewise/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hopewise/subscriptions",
+  "organizations_url": "https://api.github.com/users/hopewise/orgs",
+  "repos_url": "https://api.github.com/users/hopewise/repos",
+  "events_url": "https://api.github.com/users/hopewise/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hopewise/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

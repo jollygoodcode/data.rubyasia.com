@@ -1,0 +1,20 @@
+{
+  "login": "NolanDalton",
+  "id": 6495043,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6495043?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NolanDalton",
+  "html_url": "https://github.com/NolanDalton",
+  "followers_url": "https://api.github.com/users/NolanDalton/followers",
+  "following_url": "https://api.github.com/users/NolanDalton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NolanDalton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NolanDalton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NolanDalton/subscriptions",
+  "organizations_url": "https://api.github.com/users/NolanDalton/orgs",
+  "repos_url": "https://api.github.com/users/NolanDalton/repos",
+  "events_url": "https://api.github.com/users/NolanDalton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NolanDalton/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "fikrettursak",
+  "id": 2454403,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2454403?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fikrettursak",
+  "html_url": "https://github.com/fikrettursak",
+  "followers_url": "https://api.github.com/users/fikrettursak/followers",
+  "following_url": "https://api.github.com/users/fikrettursak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fikrettursak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fikrettursak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fikrettursak/subscriptions",
+  "organizations_url": "https://api.github.com/users/fikrettursak/orgs",
+  "repos_url": "https://api.github.com/users/fikrettursak/repos",
+  "events_url": "https://api.github.com/users/fikrettursak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fikrettursak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

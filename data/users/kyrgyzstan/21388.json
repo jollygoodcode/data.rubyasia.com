@@ -1,0 +1,20 @@
+{
+  "login": "DanielVartanov",
+  "id": 21388,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21388?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DanielVartanov",
+  "html_url": "https://github.com/DanielVartanov",
+  "followers_url": "https://api.github.com/users/DanielVartanov/followers",
+  "following_url": "https://api.github.com/users/DanielVartanov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DanielVartanov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DanielVartanov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DanielVartanov/subscriptions",
+  "organizations_url": "https://api.github.com/users/DanielVartanov/orgs",
+  "repos_url": "https://api.github.com/users/DanielVartanov/repos",
+  "events_url": "https://api.github.com/users/DanielVartanov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DanielVartanov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

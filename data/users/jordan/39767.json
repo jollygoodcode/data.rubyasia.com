@@ -1,0 +1,20 @@
+{
+  "login": "moski",
+  "id": 39767,
+  "avatar_url": "https://avatars.githubusercontent.com/u/39767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moski",
+  "html_url": "https://github.com/moski",
+  "followers_url": "https://api.github.com/users/moski/followers",
+  "following_url": "https://api.github.com/users/moski/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moski/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moski/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moski/subscriptions",
+  "organizations_url": "https://api.github.com/users/moski/orgs",
+  "repos_url": "https://api.github.com/users/moski/repos",
+  "events_url": "https://api.github.com/users/moski/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moski/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

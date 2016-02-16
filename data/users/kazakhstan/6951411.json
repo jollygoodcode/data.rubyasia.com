@@ -1,0 +1,20 @@
+{
+  "login": "Evrei",
+  "id": 6951411,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6951411?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Evrei",
+  "html_url": "https://github.com/Evrei",
+  "followers_url": "https://api.github.com/users/Evrei/followers",
+  "following_url": "https://api.github.com/users/Evrei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Evrei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Evrei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Evrei/subscriptions",
+  "organizations_url": "https://api.github.com/users/Evrei/orgs",
+  "repos_url": "https://api.github.com/users/Evrei/repos",
+  "events_url": "https://api.github.com/users/Evrei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Evrei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

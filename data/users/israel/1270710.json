@@ -1,0 +1,20 @@
+{
+  "login": "DaPulse",
+  "id": 1270710,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1270710?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DaPulse",
+  "html_url": "https://github.com/DaPulse",
+  "followers_url": "https://api.github.com/users/DaPulse/followers",
+  "following_url": "https://api.github.com/users/DaPulse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DaPulse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DaPulse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DaPulse/subscriptions",
+  "organizations_url": "https://api.github.com/users/DaPulse/orgs",
+  "repos_url": "https://api.github.com/users/DaPulse/repos",
+  "events_url": "https://api.github.com/users/DaPulse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DaPulse/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

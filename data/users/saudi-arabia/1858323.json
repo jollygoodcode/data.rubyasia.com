@@ -1,0 +1,20 @@
+{
+  "login": "saphp",
+  "id": 1858323,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1858323?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saphp",
+  "html_url": "https://github.com/saphp",
+  "followers_url": "https://api.github.com/users/saphp/followers",
+  "following_url": "https://api.github.com/users/saphp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saphp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saphp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saphp/subscriptions",
+  "organizations_url": "https://api.github.com/users/saphp/orgs",
+  "repos_url": "https://api.github.com/users/saphp/repos",
+  "events_url": "https://api.github.com/users/saphp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saphp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

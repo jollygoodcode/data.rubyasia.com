@@ -1,0 +1,20 @@
+{
+  "login": "IdeasStorm",
+  "id": 1110788,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1110788?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/IdeasStorm",
+  "html_url": "https://github.com/IdeasStorm",
+  "followers_url": "https://api.github.com/users/IdeasStorm/followers",
+  "following_url": "https://api.github.com/users/IdeasStorm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/IdeasStorm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/IdeasStorm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/IdeasStorm/subscriptions",
+  "organizations_url": "https://api.github.com/users/IdeasStorm/orgs",
+  "repos_url": "https://api.github.com/users/IdeasStorm/repos",
+  "events_url": "https://api.github.com/users/IdeasStorm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/IdeasStorm/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

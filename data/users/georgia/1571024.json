@@ -1,0 +1,20 @@
+{
+  "login": "telasi",
+  "id": 1571024,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1571024?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/telasi",
+  "html_url": "https://github.com/telasi",
+  "followers_url": "https://api.github.com/users/telasi/followers",
+  "following_url": "https://api.github.com/users/telasi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/telasi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/telasi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/telasi/subscriptions",
+  "organizations_url": "https://api.github.com/users/telasi/orgs",
+  "repos_url": "https://api.github.com/users/telasi/repos",
+  "events_url": "https://api.github.com/users/telasi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/telasi/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

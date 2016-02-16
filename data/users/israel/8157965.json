@@ -1,0 +1,20 @@
+{
+  "login": "azipory",
+  "id": 8157965,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8157965?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/azipory",
+  "html_url": "https://github.com/azipory",
+  "followers_url": "https://api.github.com/users/azipory/followers",
+  "following_url": "https://api.github.com/users/azipory/following{/other_user}",
+  "gists_url": "https://api.github.com/users/azipory/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/azipory/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/azipory/subscriptions",
+  "organizations_url": "https://api.github.com/users/azipory/orgs",
+  "repos_url": "https://api.github.com/users/azipory/repos",
+  "events_url": "https://api.github.com/users/azipory/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/azipory/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

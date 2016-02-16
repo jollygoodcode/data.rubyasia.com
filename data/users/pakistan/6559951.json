@@ -1,0 +1,20 @@
+{
+  "login": "usmansafi",
+  "id": 6559951,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6559951?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/usmansafi",
+  "html_url": "https://github.com/usmansafi",
+  "followers_url": "https://api.github.com/users/usmansafi/followers",
+  "following_url": "https://api.github.com/users/usmansafi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/usmansafi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/usmansafi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/usmansafi/subscriptions",
+  "organizations_url": "https://api.github.com/users/usmansafi/orgs",
+  "repos_url": "https://api.github.com/users/usmansafi/repos",
+  "events_url": "https://api.github.com/users/usmansafi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/usmansafi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

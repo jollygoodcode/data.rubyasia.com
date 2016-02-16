@@ -1,0 +1,20 @@
+{
+  "login": "zionmo",
+  "id": 5165650,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5165650?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zionmo",
+  "html_url": "https://github.com/zionmo",
+  "followers_url": "https://api.github.com/users/zionmo/followers",
+  "following_url": "https://api.github.com/users/zionmo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zionmo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zionmo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zionmo/subscriptions",
+  "organizations_url": "https://api.github.com/users/zionmo/orgs",
+  "repos_url": "https://api.github.com/users/zionmo/repos",
+  "events_url": "https://api.github.com/users/zionmo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zionmo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

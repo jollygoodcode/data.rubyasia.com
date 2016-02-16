@@ -1,0 +1,20 @@
+{
+  "login": "ewebcraft",
+  "id": 4097157,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4097157?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ewebcraft",
+  "html_url": "https://github.com/ewebcraft",
+  "followers_url": "https://api.github.com/users/ewebcraft/followers",
+  "following_url": "https://api.github.com/users/ewebcraft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ewebcraft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ewebcraft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ewebcraft/subscriptions",
+  "organizations_url": "https://api.github.com/users/ewebcraft/orgs",
+  "repos_url": "https://api.github.com/users/ewebcraft/repos",
+  "events_url": "https://api.github.com/users/ewebcraft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ewebcraft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

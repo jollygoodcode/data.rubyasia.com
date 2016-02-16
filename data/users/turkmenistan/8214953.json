@@ -1,0 +1,20 @@
+{
+  "login": "orazz",
+  "id": 8214953,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8214953?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/orazz",
+  "html_url": "https://github.com/orazz",
+  "followers_url": "https://api.github.com/users/orazz/followers",
+  "following_url": "https://api.github.com/users/orazz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/orazz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/orazz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/orazz/subscriptions",
+  "organizations_url": "https://api.github.com/users/orazz/orgs",
+  "repos_url": "https://api.github.com/users/orazz/repos",
+  "events_url": "https://api.github.com/users/orazz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/orazz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mariosant",
+  "id": 1409645,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1409645?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mariosant",
+  "html_url": "https://github.com/mariosant",
+  "followers_url": "https://api.github.com/users/mariosant/followers",
+  "following_url": "https://api.github.com/users/mariosant/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mariosant/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mariosant/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mariosant/subscriptions",
+  "organizations_url": "https://api.github.com/users/mariosant/orgs",
+  "repos_url": "https://api.github.com/users/mariosant/repos",
+  "events_url": "https://api.github.com/users/mariosant/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mariosant/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

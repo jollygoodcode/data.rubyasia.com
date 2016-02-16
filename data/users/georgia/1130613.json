@@ -1,0 +1,20 @@
+{
+  "login": "Gigia",
+  "id": 1130613,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1130613?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Gigia",
+  "html_url": "https://github.com/Gigia",
+  "followers_url": "https://api.github.com/users/Gigia/followers",
+  "following_url": "https://api.github.com/users/Gigia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Gigia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Gigia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Gigia/subscriptions",
+  "organizations_url": "https://api.github.com/users/Gigia/orgs",
+  "repos_url": "https://api.github.com/users/Gigia/repos",
+  "events_url": "https://api.github.com/users/Gigia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Gigia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

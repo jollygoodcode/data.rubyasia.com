@@ -1,0 +1,20 @@
+{
+  "login": "wearede",
+  "id": 7073343,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7073343?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wearede",
+  "html_url": "https://github.com/wearede",
+  "followers_url": "https://api.github.com/users/wearede/followers",
+  "following_url": "https://api.github.com/users/wearede/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wearede/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wearede/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wearede/subscriptions",
+  "organizations_url": "https://api.github.com/users/wearede/orgs",
+  "repos_url": "https://api.github.com/users/wearede/repos",
+  "events_url": "https://api.github.com/users/wearede/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wearede/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

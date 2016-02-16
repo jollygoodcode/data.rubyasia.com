@@ -1,0 +1,20 @@
+{
+  "login": "sythdev",
+  "id": 4144709,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4144709?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sythdev",
+  "html_url": "https://github.com/sythdev",
+  "followers_url": "https://api.github.com/users/sythdev/followers",
+  "following_url": "https://api.github.com/users/sythdev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sythdev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sythdev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sythdev/subscriptions",
+  "organizations_url": "https://api.github.com/users/sythdev/orgs",
+  "repos_url": "https://api.github.com/users/sythdev/repos",
+  "events_url": "https://api.github.com/users/sythdev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sythdev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

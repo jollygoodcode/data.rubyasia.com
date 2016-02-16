@@ -1,0 +1,20 @@
+{
+  "login": "emrekutlu",
+  "id": 42676,
+  "avatar_url": "https://avatars.githubusercontent.com/u/42676?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emrekutlu",
+  "html_url": "https://github.com/emrekutlu",
+  "followers_url": "https://api.github.com/users/emrekutlu/followers",
+  "following_url": "https://api.github.com/users/emrekutlu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emrekutlu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emrekutlu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emrekutlu/subscriptions",
+  "organizations_url": "https://api.github.com/users/emrekutlu/orgs",
+  "repos_url": "https://api.github.com/users/emrekutlu/repos",
+  "events_url": "https://api.github.com/users/emrekutlu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emrekutlu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

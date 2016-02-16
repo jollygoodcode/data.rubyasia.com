@@ -1,0 +1,20 @@
+{
+  "login": "vi-s",
+  "id": 2093964,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2093964?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vi-s",
+  "html_url": "https://github.com/vi-s",
+  "followers_url": "https://api.github.com/users/vi-s/followers",
+  "following_url": "https://api.github.com/users/vi-s/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vi-s/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vi-s/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vi-s/subscriptions",
+  "organizations_url": "https://api.github.com/users/vi-s/orgs",
+  "repos_url": "https://api.github.com/users/vi-s/repos",
+  "events_url": "https://api.github.com/users/vi-s/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vi-s/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

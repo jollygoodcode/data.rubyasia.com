@@ -1,0 +1,20 @@
+{
+  "login": "mirac",
+  "id": 577972,
+  "avatar_url": "https://avatars.githubusercontent.com/u/577972?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mirac",
+  "html_url": "https://github.com/mirac",
+  "followers_url": "https://api.github.com/users/mirac/followers",
+  "following_url": "https://api.github.com/users/mirac/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mirac/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mirac/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mirac/subscriptions",
+  "organizations_url": "https://api.github.com/users/mirac/orgs",
+  "repos_url": "https://api.github.com/users/mirac/repos",
+  "events_url": "https://api.github.com/users/mirac/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mirac/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

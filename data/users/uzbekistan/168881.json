@@ -1,0 +1,20 @@
+{
+  "login": "pavel-so",
+  "id": 168881,
+  "avatar_url": "https://avatars.githubusercontent.com/u/168881?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pavel-so",
+  "html_url": "https://github.com/pavel-so",
+  "followers_url": "https://api.github.com/users/pavel-so/followers",
+  "following_url": "https://api.github.com/users/pavel-so/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pavel-so/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pavel-so/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pavel-so/subscriptions",
+  "organizations_url": "https://api.github.com/users/pavel-so/orgs",
+  "repos_url": "https://api.github.com/users/pavel-so/repos",
+  "events_url": "https://api.github.com/users/pavel-so/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pavel-so/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

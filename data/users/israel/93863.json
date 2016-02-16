@@ -1,0 +1,20 @@
+{
+  "login": "doppleware",
+  "id": 93863,
+  "avatar_url": "https://avatars.githubusercontent.com/u/93863?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/doppleware",
+  "html_url": "https://github.com/doppleware",
+  "followers_url": "https://api.github.com/users/doppleware/followers",
+  "following_url": "https://api.github.com/users/doppleware/following{/other_user}",
+  "gists_url": "https://api.github.com/users/doppleware/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/doppleware/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/doppleware/subscriptions",
+  "organizations_url": "https://api.github.com/users/doppleware/orgs",
+  "repos_url": "https://api.github.com/users/doppleware/repos",
+  "events_url": "https://api.github.com/users/doppleware/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/doppleware/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

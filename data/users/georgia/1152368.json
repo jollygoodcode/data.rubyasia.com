@@ -1,0 +1,20 @@
+{
+  "login": "gitbritt",
+  "id": 1152368,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1152368?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gitbritt",
+  "html_url": "https://github.com/gitbritt",
+  "followers_url": "https://api.github.com/users/gitbritt/followers",
+  "following_url": "https://api.github.com/users/gitbritt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gitbritt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gitbritt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gitbritt/subscriptions",
+  "organizations_url": "https://api.github.com/users/gitbritt/orgs",
+  "repos_url": "https://api.github.com/users/gitbritt/repos",
+  "events_url": "https://api.github.com/users/gitbritt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gitbritt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

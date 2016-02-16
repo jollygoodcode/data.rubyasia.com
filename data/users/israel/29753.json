@@ -1,0 +1,20 @@
+{
+  "login": "eladmeidar",
+  "id": 29753,
+  "avatar_url": "https://avatars.githubusercontent.com/u/29753?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eladmeidar",
+  "html_url": "https://github.com/eladmeidar",
+  "followers_url": "https://api.github.com/users/eladmeidar/followers",
+  "following_url": "https://api.github.com/users/eladmeidar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eladmeidar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eladmeidar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eladmeidar/subscriptions",
+  "organizations_url": "https://api.github.com/users/eladmeidar/orgs",
+  "repos_url": "https://api.github.com/users/eladmeidar/repos",
+  "events_url": "https://api.github.com/users/eladmeidar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eladmeidar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

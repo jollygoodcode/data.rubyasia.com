@@ -1,0 +1,20 @@
+{
+  "login": "tsfir",
+  "id": 1303374,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1303374?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsfir",
+  "html_url": "https://github.com/tsfir",
+  "followers_url": "https://api.github.com/users/tsfir/followers",
+  "following_url": "https://api.github.com/users/tsfir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsfir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsfir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsfir/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsfir/orgs",
+  "repos_url": "https://api.github.com/users/tsfir/repos",
+  "events_url": "https://api.github.com/users/tsfir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsfir/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

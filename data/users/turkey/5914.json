@@ -1,0 +1,20 @@
+{
+  "login": "ozgun",
+  "id": 5914,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5914?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ozgun",
+  "html_url": "https://github.com/ozgun",
+  "followers_url": "https://api.github.com/users/ozgun/followers",
+  "following_url": "https://api.github.com/users/ozgun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ozgun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ozgun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ozgun/subscriptions",
+  "organizations_url": "https://api.github.com/users/ozgun/orgs",
+  "repos_url": "https://api.github.com/users/ozgun/repos",
+  "events_url": "https://api.github.com/users/ozgun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ozgun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

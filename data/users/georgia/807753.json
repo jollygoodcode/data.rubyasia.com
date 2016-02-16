@@ -1,0 +1,20 @@
+{
+  "login": "steambadger",
+  "id": 807753,
+  "avatar_url": "https://avatars.githubusercontent.com/u/807753?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/steambadger",
+  "html_url": "https://github.com/steambadger",
+  "followers_url": "https://api.github.com/users/steambadger/followers",
+  "following_url": "https://api.github.com/users/steambadger/following{/other_user}",
+  "gists_url": "https://api.github.com/users/steambadger/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/steambadger/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/steambadger/subscriptions",
+  "organizations_url": "https://api.github.com/users/steambadger/orgs",
+  "repos_url": "https://api.github.com/users/steambadger/repos",
+  "events_url": "https://api.github.com/users/steambadger/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/steambadger/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

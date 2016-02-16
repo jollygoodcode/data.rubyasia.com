@@ -1,0 +1,20 @@
+{
+  "login": "fplatten",
+  "id": 2095520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2095520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fplatten",
+  "html_url": "https://github.com/fplatten",
+  "followers_url": "https://api.github.com/users/fplatten/followers",
+  "following_url": "https://api.github.com/users/fplatten/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fplatten/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fplatten/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fplatten/subscriptions",
+  "organizations_url": "https://api.github.com/users/fplatten/orgs",
+  "repos_url": "https://api.github.com/users/fplatten/repos",
+  "events_url": "https://api.github.com/users/fplatten/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fplatten/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

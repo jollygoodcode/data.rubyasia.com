@@ -1,0 +1,20 @@
+{
+  "login": "Kambaa",
+  "id": 5601326,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5601326?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Kambaa",
+  "html_url": "https://github.com/Kambaa",
+  "followers_url": "https://api.github.com/users/Kambaa/followers",
+  "following_url": "https://api.github.com/users/Kambaa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Kambaa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Kambaa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Kambaa/subscriptions",
+  "organizations_url": "https://api.github.com/users/Kambaa/orgs",
+  "repos_url": "https://api.github.com/users/Kambaa/repos",
+  "events_url": "https://api.github.com/users/Kambaa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Kambaa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

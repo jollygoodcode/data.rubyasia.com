@@ -1,0 +1,20 @@
+{
+  "login": "yuvalkarmi",
+  "id": 203189,
+  "avatar_url": "https://avatars.githubusercontent.com/u/203189?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuvalkarmi",
+  "html_url": "https://github.com/yuvalkarmi",
+  "followers_url": "https://api.github.com/users/yuvalkarmi/followers",
+  "following_url": "https://api.github.com/users/yuvalkarmi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuvalkarmi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuvalkarmi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuvalkarmi/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuvalkarmi/orgs",
+  "repos_url": "https://api.github.com/users/yuvalkarmi/repos",
+  "events_url": "https://api.github.com/users/yuvalkarmi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuvalkarmi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "oferito",
+  "id": 3223170,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3223170?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oferito",
+  "html_url": "https://github.com/oferito",
+  "followers_url": "https://api.github.com/users/oferito/followers",
+  "following_url": "https://api.github.com/users/oferito/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oferito/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oferito/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oferito/subscriptions",
+  "organizations_url": "https://api.github.com/users/oferito/orgs",
+  "repos_url": "https://api.github.com/users/oferito/repos",
+  "events_url": "https://api.github.com/users/oferito/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oferito/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

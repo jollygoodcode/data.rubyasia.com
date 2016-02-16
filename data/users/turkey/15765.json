@@ -1,0 +1,20 @@
+{
+  "login": "edgerunner",
+  "id": 15765,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15765?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/edgerunner",
+  "html_url": "https://github.com/edgerunner",
+  "followers_url": "https://api.github.com/users/edgerunner/followers",
+  "following_url": "https://api.github.com/users/edgerunner/following{/other_user}",
+  "gists_url": "https://api.github.com/users/edgerunner/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/edgerunner/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/edgerunner/subscriptions",
+  "organizations_url": "https://api.github.com/users/edgerunner/orgs",
+  "repos_url": "https://api.github.com/users/edgerunner/repos",
+  "events_url": "https://api.github.com/users/edgerunner/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/edgerunner/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

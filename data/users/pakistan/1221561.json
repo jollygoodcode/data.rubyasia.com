@@ -1,0 +1,20 @@
+{
+  "login": "abid-hussain",
+  "id": 1221561,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1221561?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abid-hussain",
+  "html_url": "https://github.com/abid-hussain",
+  "followers_url": "https://api.github.com/users/abid-hussain/followers",
+  "following_url": "https://api.github.com/users/abid-hussain/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abid-hussain/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abid-hussain/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abid-hussain/subscriptions",
+  "organizations_url": "https://api.github.com/users/abid-hussain/orgs",
+  "repos_url": "https://api.github.com/users/abid-hussain/repos",
+  "events_url": "https://api.github.com/users/abid-hussain/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abid-hussain/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "TammyLLC",
+  "id": 6626441,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6626441?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TammyLLC",
+  "html_url": "https://github.com/TammyLLC",
+  "followers_url": "https://api.github.com/users/TammyLLC/followers",
+  "following_url": "https://api.github.com/users/TammyLLC/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TammyLLC/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TammyLLC/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TammyLLC/subscriptions",
+  "organizations_url": "https://api.github.com/users/TammyLLC/orgs",
+  "repos_url": "https://api.github.com/users/TammyLLC/repos",
+  "events_url": "https://api.github.com/users/TammyLLC/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TammyLLC/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "nbriar",
+  "id": 6666247,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6666247?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nbriar",
+  "html_url": "https://github.com/nbriar",
+  "followers_url": "https://api.github.com/users/nbriar/followers",
+  "following_url": "https://api.github.com/users/nbriar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nbriar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nbriar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nbriar/subscriptions",
+  "organizations_url": "https://api.github.com/users/nbriar/orgs",
+  "repos_url": "https://api.github.com/users/nbriar/repos",
+  "events_url": "https://api.github.com/users/nbriar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nbriar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

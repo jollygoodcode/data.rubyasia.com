@@ -1,0 +1,20 @@
+{
+  "login": "sidneyl",
+  "id": 2675588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2675588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sidneyl",
+  "html_url": "https://github.com/sidneyl",
+  "followers_url": "https://api.github.com/users/sidneyl/followers",
+  "following_url": "https://api.github.com/users/sidneyl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sidneyl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sidneyl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sidneyl/subscriptions",
+  "organizations_url": "https://api.github.com/users/sidneyl/orgs",
+  "repos_url": "https://api.github.com/users/sidneyl/repos",
+  "events_url": "https://api.github.com/users/sidneyl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sidneyl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "aviskase",
+  "id": 3819473,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3819473?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aviskase",
+  "html_url": "https://github.com/aviskase",
+  "followers_url": "https://api.github.com/users/aviskase/followers",
+  "following_url": "https://api.github.com/users/aviskase/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aviskase/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aviskase/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aviskase/subscriptions",
+  "organizations_url": "https://api.github.com/users/aviskase/orgs",
+  "repos_url": "https://api.github.com/users/aviskase/repos",
+  "events_url": "https://api.github.com/users/aviskase/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aviskase/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

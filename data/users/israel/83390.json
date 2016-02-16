@@ -1,0 +1,20 @@
+{
+  "login": "jondot",
+  "id": 83390,
+  "avatar_url": "https://avatars.githubusercontent.com/u/83390?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jondot",
+  "html_url": "https://github.com/jondot",
+  "followers_url": "https://api.github.com/users/jondot/followers",
+  "following_url": "https://api.github.com/users/jondot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jondot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jondot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jondot/subscriptions",
+  "organizations_url": "https://api.github.com/users/jondot/orgs",
+  "repos_url": "https://api.github.com/users/jondot/repos",
+  "events_url": "https://api.github.com/users/jondot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jondot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

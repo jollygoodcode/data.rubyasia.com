@@ -1,0 +1,20 @@
+{
+  "login": "musakarakas",
+  "id": 1558864,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1558864?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/musakarakas",
+  "html_url": "https://github.com/musakarakas",
+  "followers_url": "https://api.github.com/users/musakarakas/followers",
+  "following_url": "https://api.github.com/users/musakarakas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/musakarakas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/musakarakas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/musakarakas/subscriptions",
+  "organizations_url": "https://api.github.com/users/musakarakas/orgs",
+  "repos_url": "https://api.github.com/users/musakarakas/repos",
+  "events_url": "https://api.github.com/users/musakarakas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/musakarakas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

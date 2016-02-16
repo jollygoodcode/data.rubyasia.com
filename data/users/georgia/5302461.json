@@ -1,0 +1,20 @@
+{
+  "login": "PhilipBale",
+  "id": 5302461,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5302461?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PhilipBale",
+  "html_url": "https://github.com/PhilipBale",
+  "followers_url": "https://api.github.com/users/PhilipBale/followers",
+  "following_url": "https://api.github.com/users/PhilipBale/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PhilipBale/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PhilipBale/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PhilipBale/subscriptions",
+  "organizations_url": "https://api.github.com/users/PhilipBale/orgs",
+  "repos_url": "https://api.github.com/users/PhilipBale/repos",
+  "events_url": "https://api.github.com/users/PhilipBale/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PhilipBale/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

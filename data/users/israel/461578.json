@@ -1,0 +1,20 @@
+{
+  "login": "yonbergman",
+  "id": 461578,
+  "avatar_url": "https://avatars.githubusercontent.com/u/461578?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yonbergman",
+  "html_url": "https://github.com/yonbergman",
+  "followers_url": "https://api.github.com/users/yonbergman/followers",
+  "following_url": "https://api.github.com/users/yonbergman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yonbergman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yonbergman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yonbergman/subscriptions",
+  "organizations_url": "https://api.github.com/users/yonbergman/orgs",
+  "repos_url": "https://api.github.com/users/yonbergman/repos",
+  "events_url": "https://api.github.com/users/yonbergman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yonbergman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

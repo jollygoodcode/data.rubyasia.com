@@ -1,0 +1,20 @@
+{
+  "login": "mattmcgrath",
+  "id": 362238,
+  "avatar_url": "https://avatars.githubusercontent.com/u/362238?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mattmcgrath",
+  "html_url": "https://github.com/mattmcgrath",
+  "followers_url": "https://api.github.com/users/mattmcgrath/followers",
+  "following_url": "https://api.github.com/users/mattmcgrath/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mattmcgrath/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mattmcgrath/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mattmcgrath/subscriptions",
+  "organizations_url": "https://api.github.com/users/mattmcgrath/orgs",
+  "repos_url": "https://api.github.com/users/mattmcgrath/repos",
+  "events_url": "https://api.github.com/users/mattmcgrath/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mattmcgrath/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

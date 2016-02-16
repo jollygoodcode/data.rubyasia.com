@@ -1,0 +1,20 @@
+{
+  "login": "alikbo",
+  "id": 11839916,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11839916?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alikbo",
+  "html_url": "https://github.com/alikbo",
+  "followers_url": "https://api.github.com/users/alikbo/followers",
+  "following_url": "https://api.github.com/users/alikbo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alikbo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alikbo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alikbo/subscriptions",
+  "organizations_url": "https://api.github.com/users/alikbo/orgs",
+  "repos_url": "https://api.github.com/users/alikbo/repos",
+  "events_url": "https://api.github.com/users/alikbo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alikbo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

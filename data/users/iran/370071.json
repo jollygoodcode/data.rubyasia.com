@@ -1,0 +1,20 @@
+{
+  "login": "GLinBoy",
+  "id": 370071,
+  "avatar_url": "https://avatars.githubusercontent.com/u/370071?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GLinBoy",
+  "html_url": "https://github.com/GLinBoy",
+  "followers_url": "https://api.github.com/users/GLinBoy/followers",
+  "following_url": "https://api.github.com/users/GLinBoy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GLinBoy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GLinBoy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GLinBoy/subscriptions",
+  "organizations_url": "https://api.github.com/users/GLinBoy/orgs",
+  "repos_url": "https://api.github.com/users/GLinBoy/repos",
+  "events_url": "https://api.github.com/users/GLinBoy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GLinBoy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

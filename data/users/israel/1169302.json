@@ -1,0 +1,20 @@
+{
+  "login": "elirantu",
+  "id": 1169302,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1169302?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elirantu",
+  "html_url": "https://github.com/elirantu",
+  "followers_url": "https://api.github.com/users/elirantu/followers",
+  "following_url": "https://api.github.com/users/elirantu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elirantu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elirantu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elirantu/subscriptions",
+  "organizations_url": "https://api.github.com/users/elirantu/orgs",
+  "repos_url": "https://api.github.com/users/elirantu/repos",
+  "events_url": "https://api.github.com/users/elirantu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elirantu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

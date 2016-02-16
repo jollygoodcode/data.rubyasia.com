@@ -1,0 +1,20 @@
+{
+  "login": "abyx",
+  "id": 114588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/114588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abyx",
+  "html_url": "https://github.com/abyx",
+  "followers_url": "https://api.github.com/users/abyx/followers",
+  "following_url": "https://api.github.com/users/abyx/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abyx/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abyx/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abyx/subscriptions",
+  "organizations_url": "https://api.github.com/users/abyx/orgs",
+  "repos_url": "https://api.github.com/users/abyx/repos",
+  "events_url": "https://api.github.com/users/abyx/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abyx/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

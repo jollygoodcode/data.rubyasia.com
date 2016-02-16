@@ -1,0 +1,20 @@
+{
+  "login": "alican-k",
+  "id": 1812500,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1812500?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alican-k",
+  "html_url": "https://github.com/alican-k",
+  "followers_url": "https://api.github.com/users/alican-k/followers",
+  "following_url": "https://api.github.com/users/alican-k/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alican-k/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alican-k/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alican-k/subscriptions",
+  "organizations_url": "https://api.github.com/users/alican-k/orgs",
+  "repos_url": "https://api.github.com/users/alican-k/repos",
+  "events_url": "https://api.github.com/users/alican-k/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alican-k/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

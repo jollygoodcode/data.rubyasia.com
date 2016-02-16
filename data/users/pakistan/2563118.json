@@ -1,0 +1,20 @@
+{
+  "login": "ZygoteInit",
+  "id": 2563118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2563118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ZygoteInit",
+  "html_url": "https://github.com/ZygoteInit",
+  "followers_url": "https://api.github.com/users/ZygoteInit/followers",
+  "following_url": "https://api.github.com/users/ZygoteInit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ZygoteInit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ZygoteInit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ZygoteInit/subscriptions",
+  "organizations_url": "https://api.github.com/users/ZygoteInit/orgs",
+  "repos_url": "https://api.github.com/users/ZygoteInit/repos",
+  "events_url": "https://api.github.com/users/ZygoteInit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ZygoteInit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

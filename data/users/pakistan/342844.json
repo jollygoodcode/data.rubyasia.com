@@ -1,0 +1,20 @@
+{
+  "login": "mahhek",
+  "id": 342844,
+  "avatar_url": "https://avatars.githubusercontent.com/u/342844?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mahhek",
+  "html_url": "https://github.com/mahhek",
+  "followers_url": "https://api.github.com/users/mahhek/followers",
+  "following_url": "https://api.github.com/users/mahhek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mahhek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mahhek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mahhek/subscriptions",
+  "organizations_url": "https://api.github.com/users/mahhek/orgs",
+  "repos_url": "https://api.github.com/users/mahhek/repos",
+  "events_url": "https://api.github.com/users/mahhek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mahhek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

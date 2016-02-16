@@ -1,0 +1,20 @@
+{
+  "login": "ayaman",
+  "id": 205140,
+  "avatar_url": "https://avatars.githubusercontent.com/u/205140?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayaman",
+  "html_url": "https://github.com/ayaman",
+  "followers_url": "https://api.github.com/users/ayaman/followers",
+  "following_url": "https://api.github.com/users/ayaman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayaman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayaman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayaman/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayaman/orgs",
+  "repos_url": "https://api.github.com/users/ayaman/repos",
+  "events_url": "https://api.github.com/users/ayaman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayaman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

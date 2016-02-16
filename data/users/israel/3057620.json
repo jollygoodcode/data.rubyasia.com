@@ -1,0 +1,20 @@
+{
+  "login": "alex-mil",
+  "id": 3057620,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3057620?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alex-mil",
+  "html_url": "https://github.com/alex-mil",
+  "followers_url": "https://api.github.com/users/alex-mil/followers",
+  "following_url": "https://api.github.com/users/alex-mil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alex-mil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alex-mil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alex-mil/subscriptions",
+  "organizations_url": "https://api.github.com/users/alex-mil/orgs",
+  "repos_url": "https://api.github.com/users/alex-mil/repos",
+  "events_url": "https://api.github.com/users/alex-mil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alex-mil/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

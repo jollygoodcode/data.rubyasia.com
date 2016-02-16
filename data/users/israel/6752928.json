@@ -1,0 +1,20 @@
+{
+  "login": "NaySoftware",
+  "id": 6752928,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6752928?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NaySoftware",
+  "html_url": "https://github.com/NaySoftware",
+  "followers_url": "https://api.github.com/users/NaySoftware/followers",
+  "following_url": "https://api.github.com/users/NaySoftware/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NaySoftware/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NaySoftware/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NaySoftware/subscriptions",
+  "organizations_url": "https://api.github.com/users/NaySoftware/orgs",
+  "repos_url": "https://api.github.com/users/NaySoftware/repos",
+  "events_url": "https://api.github.com/users/NaySoftware/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NaySoftware/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

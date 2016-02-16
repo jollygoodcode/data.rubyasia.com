@@ -1,0 +1,20 @@
+{
+  "login": "alexpinsky",
+  "id": 3108776,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3108776?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexpinsky",
+  "html_url": "https://github.com/alexpinsky",
+  "followers_url": "https://api.github.com/users/alexpinsky/followers",
+  "following_url": "https://api.github.com/users/alexpinsky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexpinsky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexpinsky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexpinsky/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexpinsky/orgs",
+  "repos_url": "https://api.github.com/users/alexpinsky/repos",
+  "events_url": "https://api.github.com/users/alexpinsky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexpinsky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

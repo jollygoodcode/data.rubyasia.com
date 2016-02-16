@@ -1,0 +1,20 @@
+{
+  "login": "rmcentyre",
+  "id": 377475,
+  "avatar_url": "https://avatars.githubusercontent.com/u/377475?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rmcentyre",
+  "html_url": "https://github.com/rmcentyre",
+  "followers_url": "https://api.github.com/users/rmcentyre/followers",
+  "following_url": "https://api.github.com/users/rmcentyre/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rmcentyre/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rmcentyre/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rmcentyre/subscriptions",
+  "organizations_url": "https://api.github.com/users/rmcentyre/orgs",
+  "repos_url": "https://api.github.com/users/rmcentyre/repos",
+  "events_url": "https://api.github.com/users/rmcentyre/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rmcentyre/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

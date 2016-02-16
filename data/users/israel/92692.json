@@ -1,0 +1,20 @@
+{
+  "login": "dpaluy",
+  "id": 92692,
+  "avatar_url": "https://avatars.githubusercontent.com/u/92692?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dpaluy",
+  "html_url": "https://github.com/dpaluy",
+  "followers_url": "https://api.github.com/users/dpaluy/followers",
+  "following_url": "https://api.github.com/users/dpaluy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dpaluy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dpaluy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dpaluy/subscriptions",
+  "organizations_url": "https://api.github.com/users/dpaluy/orgs",
+  "repos_url": "https://api.github.com/users/dpaluy/repos",
+  "events_url": "https://api.github.com/users/dpaluy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dpaluy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

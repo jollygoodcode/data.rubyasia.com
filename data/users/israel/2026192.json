@@ -1,0 +1,20 @@
+{
+  "login": "giladju",
+  "id": 2026192,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2026192?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/giladju",
+  "html_url": "https://github.com/giladju",
+  "followers_url": "https://api.github.com/users/giladju/followers",
+  "following_url": "https://api.github.com/users/giladju/following{/other_user}",
+  "gists_url": "https://api.github.com/users/giladju/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/giladju/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/giladju/subscriptions",
+  "organizations_url": "https://api.github.com/users/giladju/orgs",
+  "repos_url": "https://api.github.com/users/giladju/repos",
+  "events_url": "https://api.github.com/users/giladju/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/giladju/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

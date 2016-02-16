@@ -1,0 +1,20 @@
+{
+  "login": "khanali",
+  "id": 890234,
+  "avatar_url": "https://avatars.githubusercontent.com/u/890234?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khanali",
+  "html_url": "https://github.com/khanali",
+  "followers_url": "https://api.github.com/users/khanali/followers",
+  "following_url": "https://api.github.com/users/khanali/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khanali/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khanali/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khanali/subscriptions",
+  "organizations_url": "https://api.github.com/users/khanali/orgs",
+  "repos_url": "https://api.github.com/users/khanali/repos",
+  "events_url": "https://api.github.com/users/khanali/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khanali/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

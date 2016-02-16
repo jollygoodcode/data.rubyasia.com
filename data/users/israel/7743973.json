@@ -1,0 +1,20 @@
+{
+  "login": "oyasovsky",
+  "id": 7743973,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7743973?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oyasovsky",
+  "html_url": "https://github.com/oyasovsky",
+  "followers_url": "https://api.github.com/users/oyasovsky/followers",
+  "following_url": "https://api.github.com/users/oyasovsky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oyasovsky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oyasovsky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oyasovsky/subscriptions",
+  "organizations_url": "https://api.github.com/users/oyasovsky/orgs",
+  "repos_url": "https://api.github.com/users/oyasovsky/repos",
+  "events_url": "https://api.github.com/users/oyasovsky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oyasovsky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

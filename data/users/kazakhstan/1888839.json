@@ -1,0 +1,20 @@
+{
+  "login": "kayoshi",
+  "id": 1888839,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1888839?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kayoshi",
+  "html_url": "https://github.com/kayoshi",
+  "followers_url": "https://api.github.com/users/kayoshi/followers",
+  "following_url": "https://api.github.com/users/kayoshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kayoshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kayoshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kayoshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/kayoshi/orgs",
+  "repos_url": "https://api.github.com/users/kayoshi/repos",
+  "events_url": "https://api.github.com/users/kayoshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kayoshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

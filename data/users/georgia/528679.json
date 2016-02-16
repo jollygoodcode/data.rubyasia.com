@@ -1,0 +1,20 @@
+{
+  "login": "mrmusa",
+  "id": 528679,
+  "avatar_url": "https://avatars.githubusercontent.com/u/528679?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrmusa",
+  "html_url": "https://github.com/mrmusa",
+  "followers_url": "https://api.github.com/users/mrmusa/followers",
+  "following_url": "https://api.github.com/users/mrmusa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrmusa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrmusa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrmusa/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrmusa/orgs",
+  "repos_url": "https://api.github.com/users/mrmusa/repos",
+  "events_url": "https://api.github.com/users/mrmusa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrmusa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

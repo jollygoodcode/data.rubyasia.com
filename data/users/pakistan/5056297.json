@@ -1,0 +1,20 @@
+{
+  "login": "msaadm",
+  "id": 5056297,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5056297?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/msaadm",
+  "html_url": "https://github.com/msaadm",
+  "followers_url": "https://api.github.com/users/msaadm/followers",
+  "following_url": "https://api.github.com/users/msaadm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/msaadm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/msaadm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/msaadm/subscriptions",
+  "organizations_url": "https://api.github.com/users/msaadm/orgs",
+  "repos_url": "https://api.github.com/users/msaadm/repos",
+  "events_url": "https://api.github.com/users/msaadm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/msaadm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

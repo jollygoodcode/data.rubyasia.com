@@ -1,0 +1,20 @@
+{
+  "login": "egeesin",
+  "id": 8004972,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8004972?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/egeesin",
+  "html_url": "https://github.com/egeesin",
+  "followers_url": "https://api.github.com/users/egeesin/followers",
+  "following_url": "https://api.github.com/users/egeesin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/egeesin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/egeesin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/egeesin/subscriptions",
+  "organizations_url": "https://api.github.com/users/egeesin/orgs",
+  "repos_url": "https://api.github.com/users/egeesin/repos",
+  "events_url": "https://api.github.com/users/egeesin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/egeesin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

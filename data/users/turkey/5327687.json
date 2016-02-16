@@ -1,0 +1,20 @@
+{
+  "login": "yakut-project",
+  "id": 5327687,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5327687?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yakut-project",
+  "html_url": "https://github.com/yakut-project",
+  "followers_url": "https://api.github.com/users/yakut-project/followers",
+  "following_url": "https://api.github.com/users/yakut-project/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yakut-project/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yakut-project/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yakut-project/subscriptions",
+  "organizations_url": "https://api.github.com/users/yakut-project/orgs",
+  "repos_url": "https://api.github.com/users/yakut-project/repos",
+  "events_url": "https://api.github.com/users/yakut-project/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yakut-project/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lotemh",
+  "id": 6919725,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6919725?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lotemh",
+  "html_url": "https://github.com/lotemh",
+  "followers_url": "https://api.github.com/users/lotemh/followers",
+  "following_url": "https://api.github.com/users/lotemh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lotemh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lotemh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lotemh/subscriptions",
+  "organizations_url": "https://api.github.com/users/lotemh/orgs",
+  "repos_url": "https://api.github.com/users/lotemh/repos",
+  "events_url": "https://api.github.com/users/lotemh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lotemh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

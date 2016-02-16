@@ -1,0 +1,20 @@
+{
+  "login": "ZeroOneStudio",
+  "id": 672777,
+  "avatar_url": "https://avatars.githubusercontent.com/u/672777?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ZeroOneStudio",
+  "html_url": "https://github.com/ZeroOneStudio",
+  "followers_url": "https://api.github.com/users/ZeroOneStudio/followers",
+  "following_url": "https://api.github.com/users/ZeroOneStudio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ZeroOneStudio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ZeroOneStudio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ZeroOneStudio/subscriptions",
+  "organizations_url": "https://api.github.com/users/ZeroOneStudio/orgs",
+  "repos_url": "https://api.github.com/users/ZeroOneStudio/repos",
+  "events_url": "https://api.github.com/users/ZeroOneStudio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ZeroOneStudio/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

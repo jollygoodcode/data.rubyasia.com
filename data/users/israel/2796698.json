@@ -1,0 +1,20 @@
+{
+  "login": "hamzasa",
+  "id": 2796698,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2796698?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hamzasa",
+  "html_url": "https://github.com/hamzasa",
+  "followers_url": "https://api.github.com/users/hamzasa/followers",
+  "following_url": "https://api.github.com/users/hamzasa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hamzasa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hamzasa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hamzasa/subscriptions",
+  "organizations_url": "https://api.github.com/users/hamzasa/orgs",
+  "repos_url": "https://api.github.com/users/hamzasa/repos",
+  "events_url": "https://api.github.com/users/hamzasa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hamzasa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

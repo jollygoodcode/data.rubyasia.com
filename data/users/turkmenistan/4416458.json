@@ -1,0 +1,20 @@
+{
+  "login": "fade2black",
+  "id": 4416458,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4416458?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fade2black",
+  "html_url": "https://github.com/fade2black",
+  "followers_url": "https://api.github.com/users/fade2black/followers",
+  "following_url": "https://api.github.com/users/fade2black/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fade2black/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fade2black/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fade2black/subscriptions",
+  "organizations_url": "https://api.github.com/users/fade2black/orgs",
+  "repos_url": "https://api.github.com/users/fade2black/repos",
+  "events_url": "https://api.github.com/users/fade2black/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fade2black/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

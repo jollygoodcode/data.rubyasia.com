@@ -1,0 +1,20 @@
+{
+  "login": "f10i",
+  "id": 43504,
+  "avatar_url": "https://avatars.githubusercontent.com/u/43504?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/f10i",
+  "html_url": "https://github.com/f10i",
+  "followers_url": "https://api.github.com/users/f10i/followers",
+  "following_url": "https://api.github.com/users/f10i/following{/other_user}",
+  "gists_url": "https://api.github.com/users/f10i/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/f10i/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/f10i/subscriptions",
+  "organizations_url": "https://api.github.com/users/f10i/orgs",
+  "repos_url": "https://api.github.com/users/f10i/repos",
+  "events_url": "https://api.github.com/users/f10i/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/f10i/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "urielka",
+  "id": 30956,
+  "avatar_url": "https://avatars.githubusercontent.com/u/30956?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/urielka",
+  "html_url": "https://github.com/urielka",
+  "followers_url": "https://api.github.com/users/urielka/followers",
+  "following_url": "https://api.github.com/users/urielka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/urielka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/urielka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/urielka/subscriptions",
+  "organizations_url": "https://api.github.com/users/urielka/orgs",
+  "repos_url": "https://api.github.com/users/urielka/repos",
+  "events_url": "https://api.github.com/users/urielka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/urielka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

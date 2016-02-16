@@ -1,0 +1,20 @@
+{
+  "login": "seankstewart",
+  "id": 53728,
+  "avatar_url": "https://avatars.githubusercontent.com/u/53728?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seankstewart",
+  "html_url": "https://github.com/seankstewart",
+  "followers_url": "https://api.github.com/users/seankstewart/followers",
+  "following_url": "https://api.github.com/users/seankstewart/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seankstewart/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seankstewart/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seankstewart/subscriptions",
+  "organizations_url": "https://api.github.com/users/seankstewart/orgs",
+  "repos_url": "https://api.github.com/users/seankstewart/repos",
+  "events_url": "https://api.github.com/users/seankstewart/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seankstewart/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "zivbaz",
+  "id": 5221134,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5221134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zivbaz",
+  "html_url": "https://github.com/zivbaz",
+  "followers_url": "https://api.github.com/users/zivbaz/followers",
+  "following_url": "https://api.github.com/users/zivbaz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zivbaz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zivbaz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zivbaz/subscriptions",
+  "organizations_url": "https://api.github.com/users/zivbaz/orgs",
+  "repos_url": "https://api.github.com/users/zivbaz/repos",
+  "events_url": "https://api.github.com/users/zivbaz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zivbaz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

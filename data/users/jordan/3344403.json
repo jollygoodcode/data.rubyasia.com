@@ -1,0 +1,20 @@
+{
+  "login": "OmarZeidan",
+  "id": 3344403,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3344403?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/OmarZeidan",
+  "html_url": "https://github.com/OmarZeidan",
+  "followers_url": "https://api.github.com/users/OmarZeidan/followers",
+  "following_url": "https://api.github.com/users/OmarZeidan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OmarZeidan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/OmarZeidan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OmarZeidan/subscriptions",
+  "organizations_url": "https://api.github.com/users/OmarZeidan/orgs",
+  "repos_url": "https://api.github.com/users/OmarZeidan/repos",
+  "events_url": "https://api.github.com/users/OmarZeidan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/OmarZeidan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

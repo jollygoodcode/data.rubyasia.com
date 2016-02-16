@@ -1,0 +1,20 @@
+{
+  "login": "zalsader",
+  "id": 3438324,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3438324?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zalsader",
+  "html_url": "https://github.com/zalsader",
+  "followers_url": "https://api.github.com/users/zalsader/followers",
+  "following_url": "https://api.github.com/users/zalsader/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zalsader/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zalsader/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zalsader/subscriptions",
+  "organizations_url": "https://api.github.com/users/zalsader/orgs",
+  "repos_url": "https://api.github.com/users/zalsader/repos",
+  "events_url": "https://api.github.com/users/zalsader/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zalsader/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

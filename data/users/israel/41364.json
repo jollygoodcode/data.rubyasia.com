@@ -1,0 +1,20 @@
+{
+  "login": "alanrubin",
+  "id": 41364,
+  "avatar_url": "https://avatars.githubusercontent.com/u/41364?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alanrubin",
+  "html_url": "https://github.com/alanrubin",
+  "followers_url": "https://api.github.com/users/alanrubin/followers",
+  "following_url": "https://api.github.com/users/alanrubin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alanrubin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alanrubin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alanrubin/subscriptions",
+  "organizations_url": "https://api.github.com/users/alanrubin/orgs",
+  "repos_url": "https://api.github.com/users/alanrubin/repos",
+  "events_url": "https://api.github.com/users/alanrubin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alanrubin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

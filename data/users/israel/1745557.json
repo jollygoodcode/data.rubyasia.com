@@ -1,0 +1,20 @@
+{
+  "login": "motymichaely",
+  "id": 1745557,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1745557?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/motymichaely",
+  "html_url": "https://github.com/motymichaely",
+  "followers_url": "https://api.github.com/users/motymichaely/followers",
+  "following_url": "https://api.github.com/users/motymichaely/following{/other_user}",
+  "gists_url": "https://api.github.com/users/motymichaely/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/motymichaely/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/motymichaely/subscriptions",
+  "organizations_url": "https://api.github.com/users/motymichaely/orgs",
+  "repos_url": "https://api.github.com/users/motymichaely/repos",
+  "events_url": "https://api.github.com/users/motymichaely/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/motymichaely/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Theminijohn",
+  "id": 2203679,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2203679?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Theminijohn",
+  "html_url": "https://github.com/Theminijohn",
+  "followers_url": "https://api.github.com/users/Theminijohn/followers",
+  "following_url": "https://api.github.com/users/Theminijohn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Theminijohn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Theminijohn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Theminijohn/subscriptions",
+  "organizations_url": "https://api.github.com/users/Theminijohn/orgs",
+  "repos_url": "https://api.github.com/users/Theminijohn/repos",
+  "events_url": "https://api.github.com/users/Theminijohn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Theminijohn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "vertexclique",
+  "id": 578559,
+  "avatar_url": "https://avatars.githubusercontent.com/u/578559?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vertexclique",
+  "html_url": "https://github.com/vertexclique",
+  "followers_url": "https://api.github.com/users/vertexclique/followers",
+  "following_url": "https://api.github.com/users/vertexclique/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vertexclique/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vertexclique/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vertexclique/subscriptions",
+  "organizations_url": "https://api.github.com/users/vertexclique/orgs",
+  "repos_url": "https://api.github.com/users/vertexclique/repos",
+  "events_url": "https://api.github.com/users/vertexclique/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vertexclique/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

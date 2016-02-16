@@ -1,0 +1,20 @@
+{
+  "login": "BrightWhistle",
+  "id": 908576,
+  "avatar_url": "https://avatars.githubusercontent.com/u/908576?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BrightWhistle",
+  "html_url": "https://github.com/BrightWhistle",
+  "followers_url": "https://api.github.com/users/BrightWhistle/followers",
+  "following_url": "https://api.github.com/users/BrightWhistle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BrightWhistle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BrightWhistle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BrightWhistle/subscriptions",
+  "organizations_url": "https://api.github.com/users/BrightWhistle/orgs",
+  "repos_url": "https://api.github.com/users/BrightWhistle/repos",
+  "events_url": "https://api.github.com/users/BrightWhistle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BrightWhistle/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

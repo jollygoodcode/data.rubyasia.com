@@ -1,0 +1,20 @@
+{
+  "login": "kaandok",
+  "id": 472836,
+  "avatar_url": "https://avatars.githubusercontent.com/u/472836?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaandok",
+  "html_url": "https://github.com/kaandok",
+  "followers_url": "https://api.github.com/users/kaandok/followers",
+  "following_url": "https://api.github.com/users/kaandok/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaandok/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaandok/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaandok/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaandok/orgs",
+  "repos_url": "https://api.github.com/users/kaandok/repos",
+  "events_url": "https://api.github.com/users/kaandok/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaandok/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

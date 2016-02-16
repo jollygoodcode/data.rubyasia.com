@@ -1,0 +1,20 @@
+{
+  "login": "emor",
+  "id": 6194972,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6194972?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emor",
+  "html_url": "https://github.com/emor",
+  "followers_url": "https://api.github.com/users/emor/followers",
+  "following_url": "https://api.github.com/users/emor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emor/subscriptions",
+  "organizations_url": "https://api.github.com/users/emor/orgs",
+  "repos_url": "https://api.github.com/users/emor/repos",
+  "events_url": "https://api.github.com/users/emor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

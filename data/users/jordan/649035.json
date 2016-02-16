@@ -1,0 +1,20 @@
+{
+  "login": "brettmhammond",
+  "id": 649035,
+  "avatar_url": "https://avatars.githubusercontent.com/u/649035?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brettmhammond",
+  "html_url": "https://github.com/brettmhammond",
+  "followers_url": "https://api.github.com/users/brettmhammond/followers",
+  "following_url": "https://api.github.com/users/brettmhammond/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brettmhammond/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brettmhammond/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brettmhammond/subscriptions",
+  "organizations_url": "https://api.github.com/users/brettmhammond/orgs",
+  "repos_url": "https://api.github.com/users/brettmhammond/repos",
+  "events_url": "https://api.github.com/users/brettmhammond/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brettmhammond/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

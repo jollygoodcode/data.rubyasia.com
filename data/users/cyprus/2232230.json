@@ -1,0 +1,20 @@
+{
+  "login": "Elpidak",
+  "id": 2232230,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2232230?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Elpidak",
+  "html_url": "https://github.com/Elpidak",
+  "followers_url": "https://api.github.com/users/Elpidak/followers",
+  "following_url": "https://api.github.com/users/Elpidak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Elpidak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Elpidak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Elpidak/subscriptions",
+  "organizations_url": "https://api.github.com/users/Elpidak/orgs",
+  "repos_url": "https://api.github.com/users/Elpidak/repos",
+  "events_url": "https://api.github.com/users/Elpidak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Elpidak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

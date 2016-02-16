@@ -1,0 +1,20 @@
+{
+  "login": "programisti",
+  "id": 1515573,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1515573?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/programisti",
+  "html_url": "https://github.com/programisti",
+  "followers_url": "https://api.github.com/users/programisti/followers",
+  "following_url": "https://api.github.com/users/programisti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/programisti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/programisti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/programisti/subscriptions",
+  "organizations_url": "https://api.github.com/users/programisti/orgs",
+  "repos_url": "https://api.github.com/users/programisti/repos",
+  "events_url": "https://api.github.com/users/programisti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/programisti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

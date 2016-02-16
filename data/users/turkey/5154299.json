@@ -1,0 +1,20 @@
+{
+  "login": "romtastic",
+  "id": 5154299,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5154299?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/romtastic",
+  "html_url": "https://github.com/romtastic",
+  "followers_url": "https://api.github.com/users/romtastic/followers",
+  "following_url": "https://api.github.com/users/romtastic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/romtastic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/romtastic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/romtastic/subscriptions",
+  "organizations_url": "https://api.github.com/users/romtastic/orgs",
+  "repos_url": "https://api.github.com/users/romtastic/repos",
+  "events_url": "https://api.github.com/users/romtastic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/romtastic/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

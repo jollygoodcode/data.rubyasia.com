@@ -1,0 +1,20 @@
+{
+  "login": "hkariti",
+  "id": 6575800,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6575800?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hkariti",
+  "html_url": "https://github.com/hkariti",
+  "followers_url": "https://api.github.com/users/hkariti/followers",
+  "following_url": "https://api.github.com/users/hkariti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hkariti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hkariti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hkariti/subscriptions",
+  "organizations_url": "https://api.github.com/users/hkariti/orgs",
+  "repos_url": "https://api.github.com/users/hkariti/repos",
+  "events_url": "https://api.github.com/users/hkariti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hkariti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

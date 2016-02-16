@@ -1,0 +1,20 @@
+{
+  "login": "tterian",
+  "id": 9268746,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9268746?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tterian",
+  "html_url": "https://github.com/tterian",
+  "followers_url": "https://api.github.com/users/tterian/followers",
+  "following_url": "https://api.github.com/users/tterian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tterian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tterian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tterian/subscriptions",
+  "organizations_url": "https://api.github.com/users/tterian/orgs",
+  "repos_url": "https://api.github.com/users/tterian/repos",
+  "events_url": "https://api.github.com/users/tterian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tterian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

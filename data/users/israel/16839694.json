@@ -1,0 +1,20 @@
+{
+  "login": "abbiio",
+  "id": 16839694,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16839694?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abbiio",
+  "html_url": "https://github.com/abbiio",
+  "followers_url": "https://api.github.com/users/abbiio/followers",
+  "following_url": "https://api.github.com/users/abbiio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abbiio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abbiio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abbiio/subscriptions",
+  "organizations_url": "https://api.github.com/users/abbiio/orgs",
+  "repos_url": "https://api.github.com/users/abbiio/repos",
+  "events_url": "https://api.github.com/users/abbiio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abbiio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

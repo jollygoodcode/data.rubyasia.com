@@ -1,0 +1,20 @@
+{
+  "login": "vukini",
+  "id": 950999,
+  "avatar_url": "https://avatars.githubusercontent.com/u/950999?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vukini",
+  "html_url": "https://github.com/vukini",
+  "followers_url": "https://api.github.com/users/vukini/followers",
+  "following_url": "https://api.github.com/users/vukini/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vukini/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vukini/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vukini/subscriptions",
+  "organizations_url": "https://api.github.com/users/vukini/orgs",
+  "repos_url": "https://api.github.com/users/vukini/repos",
+  "events_url": "https://api.github.com/users/vukini/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vukini/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yossiedri",
+  "id": 1164653,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1164653?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yossiedri",
+  "html_url": "https://github.com/yossiedri",
+  "followers_url": "https://api.github.com/users/yossiedri/followers",
+  "following_url": "https://api.github.com/users/yossiedri/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yossiedri/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yossiedri/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yossiedri/subscriptions",
+  "organizations_url": "https://api.github.com/users/yossiedri/orgs",
+  "repos_url": "https://api.github.com/users/yossiedri/repos",
+  "events_url": "https://api.github.com/users/yossiedri/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yossiedri/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

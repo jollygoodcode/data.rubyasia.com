@@ -1,0 +1,20 @@
+{
+  "login": "kalys",
+  "id": 155511,
+  "avatar_url": "https://avatars.githubusercontent.com/u/155511?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kalys",
+  "html_url": "https://github.com/kalys",
+  "followers_url": "https://api.github.com/users/kalys/followers",
+  "following_url": "https://api.github.com/users/kalys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kalys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kalys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kalys/subscriptions",
+  "organizations_url": "https://api.github.com/users/kalys/orgs",
+  "repos_url": "https://api.github.com/users/kalys/repos",
+  "events_url": "https://api.github.com/users/kalys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kalys/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

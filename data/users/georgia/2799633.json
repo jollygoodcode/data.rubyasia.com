@@ -1,0 +1,20 @@
+{
+  "login": "chaiface",
+  "id": 2799633,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2799633?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chaiface",
+  "html_url": "https://github.com/chaiface",
+  "followers_url": "https://api.github.com/users/chaiface/followers",
+  "following_url": "https://api.github.com/users/chaiface/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chaiface/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chaiface/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chaiface/subscriptions",
+  "organizations_url": "https://api.github.com/users/chaiface/orgs",
+  "repos_url": "https://api.github.com/users/chaiface/repos",
+  "events_url": "https://api.github.com/users/chaiface/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chaiface/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

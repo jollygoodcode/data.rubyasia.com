@@ -1,0 +1,20 @@
+{
+  "login": "sharvit",
+  "id": 1262502,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1262502?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sharvit",
+  "html_url": "https://github.com/sharvit",
+  "followers_url": "https://api.github.com/users/sharvit/followers",
+  "following_url": "https://api.github.com/users/sharvit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sharvit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sharvit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sharvit/subscriptions",
+  "organizations_url": "https://api.github.com/users/sharvit/orgs",
+  "repos_url": "https://api.github.com/users/sharvit/repos",
+  "events_url": "https://api.github.com/users/sharvit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sharvit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "davidfeldi",
+  "id": 5961705,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5961705?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/davidfeldi",
+  "html_url": "https://github.com/davidfeldi",
+  "followers_url": "https://api.github.com/users/davidfeldi/followers",
+  "following_url": "https://api.github.com/users/davidfeldi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/davidfeldi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/davidfeldi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/davidfeldi/subscriptions",
+  "organizations_url": "https://api.github.com/users/davidfeldi/orgs",
+  "repos_url": "https://api.github.com/users/davidfeldi/repos",
+  "events_url": "https://api.github.com/users/davidfeldi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/davidfeldi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

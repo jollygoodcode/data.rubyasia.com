@@ -1,0 +1,20 @@
+{
+  "login": "alexeyauslender",
+  "id": 5794103,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5794103?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexeyauslender",
+  "html_url": "https://github.com/alexeyauslender",
+  "followers_url": "https://api.github.com/users/alexeyauslender/followers",
+  "following_url": "https://api.github.com/users/alexeyauslender/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexeyauslender/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexeyauslender/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexeyauslender/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexeyauslender/orgs",
+  "repos_url": "https://api.github.com/users/alexeyauslender/repos",
+  "events_url": "https://api.github.com/users/alexeyauslender/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexeyauslender/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

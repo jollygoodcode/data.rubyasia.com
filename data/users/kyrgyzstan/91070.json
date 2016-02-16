@@ -1,0 +1,20 @@
+{
+  "login": "puzanov",
+  "id": 91070,
+  "avatar_url": "https://avatars.githubusercontent.com/u/91070?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/puzanov",
+  "html_url": "https://github.com/puzanov",
+  "followers_url": "https://api.github.com/users/puzanov/followers",
+  "following_url": "https://api.github.com/users/puzanov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/puzanov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/puzanov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/puzanov/subscriptions",
+  "organizations_url": "https://api.github.com/users/puzanov/orgs",
+  "repos_url": "https://api.github.com/users/puzanov/repos",
+  "events_url": "https://api.github.com/users/puzanov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/puzanov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

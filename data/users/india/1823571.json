@@ -1,0 +1,20 @@
+{
+  "login": "vallabout",
+  "id": 1823571,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1823571?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vallabout",
+  "html_url": "https://github.com/vallabout",
+  "followers_url": "https://api.github.com/users/vallabout/followers",
+  "following_url": "https://api.github.com/users/vallabout/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vallabout/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vallabout/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vallabout/subscriptions",
+  "organizations_url": "https://api.github.com/users/vallabout/orgs",
+  "repos_url": "https://api.github.com/users/vallabout/repos",
+  "events_url": "https://api.github.com/users/vallabout/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vallabout/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

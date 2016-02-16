@@ -1,0 +1,20 @@
+{
+  "login": "danielricecodes",
+  "id": 169038,
+  "avatar_url": "https://avatars.githubusercontent.com/u/169038?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/danielricecodes",
+  "html_url": "https://github.com/danielricecodes",
+  "followers_url": "https://api.github.com/users/danielricecodes/followers",
+  "following_url": "https://api.github.com/users/danielricecodes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/danielricecodes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/danielricecodes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/danielricecodes/subscriptions",
+  "organizations_url": "https://api.github.com/users/danielricecodes/orgs",
+  "repos_url": "https://api.github.com/users/danielricecodes/repos",
+  "events_url": "https://api.github.com/users/danielricecodes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/danielricecodes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Emarati",
+  "id": 12288940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12288940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Emarati",
+  "html_url": "https://github.com/Emarati",
+  "followers_url": "https://api.github.com/users/Emarati/followers",
+  "following_url": "https://api.github.com/users/Emarati/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Emarati/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Emarati/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Emarati/subscriptions",
+  "organizations_url": "https://api.github.com/users/Emarati/orgs",
+  "repos_url": "https://api.github.com/users/Emarati/repos",
+  "events_url": "https://api.github.com/users/Emarati/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Emarati/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

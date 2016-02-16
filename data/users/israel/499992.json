@@ -1,0 +1,20 @@
+{
+  "login": "yonist",
+  "id": 499992,
+  "avatar_url": "https://avatars.githubusercontent.com/u/499992?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yonist",
+  "html_url": "https://github.com/yonist",
+  "followers_url": "https://api.github.com/users/yonist/followers",
+  "following_url": "https://api.github.com/users/yonist/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yonist/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yonist/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yonist/subscriptions",
+  "organizations_url": "https://api.github.com/users/yonist/orgs",
+  "repos_url": "https://api.github.com/users/yonist/repos",
+  "events_url": "https://api.github.com/users/yonist/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yonist/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

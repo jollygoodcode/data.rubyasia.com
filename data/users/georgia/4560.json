@@ -1,0 +1,20 @@
+{
+  "login": "natebird",
+  "id": 4560,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4560?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/natebird",
+  "html_url": "https://github.com/natebird",
+  "followers_url": "https://api.github.com/users/natebird/followers",
+  "following_url": "https://api.github.com/users/natebird/following{/other_user}",
+  "gists_url": "https://api.github.com/users/natebird/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/natebird/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/natebird/subscriptions",
+  "organizations_url": "https://api.github.com/users/natebird/orgs",
+  "repos_url": "https://api.github.com/users/natebird/repos",
+  "events_url": "https://api.github.com/users/natebird/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/natebird/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

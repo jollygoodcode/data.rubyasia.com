@@ -1,0 +1,20 @@
+{
+  "login": "amitco",
+  "id": 6714779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6714779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amitco",
+  "html_url": "https://github.com/amitco",
+  "followers_url": "https://api.github.com/users/amitco/followers",
+  "following_url": "https://api.github.com/users/amitco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amitco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amitco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amitco/subscriptions",
+  "organizations_url": "https://api.github.com/users/amitco/orgs",
+  "repos_url": "https://api.github.com/users/amitco/repos",
+  "events_url": "https://api.github.com/users/amitco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amitco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

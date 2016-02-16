@@ -1,0 +1,20 @@
+{
+  "login": "yazgeldi",
+  "id": 11020940,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11020940?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yazgeldi",
+  "html_url": "https://github.com/yazgeldi",
+  "followers_url": "https://api.github.com/users/yazgeldi/followers",
+  "following_url": "https://api.github.com/users/yazgeldi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yazgeldi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yazgeldi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yazgeldi/subscriptions",
+  "organizations_url": "https://api.github.com/users/yazgeldi/orgs",
+  "repos_url": "https://api.github.com/users/yazgeldi/repos",
+  "events_url": "https://api.github.com/users/yazgeldi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yazgeldi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

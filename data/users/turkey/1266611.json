@@ -1,0 +1,20 @@
+{
+  "login": "pigon",
+  "id": 1266611,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1266611?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pigon",
+  "html_url": "https://github.com/pigon",
+  "followers_url": "https://api.github.com/users/pigon/followers",
+  "following_url": "https://api.github.com/users/pigon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pigon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pigon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pigon/subscriptions",
+  "organizations_url": "https://api.github.com/users/pigon/orgs",
+  "repos_url": "https://api.github.com/users/pigon/repos",
+  "events_url": "https://api.github.com/users/pigon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pigon/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

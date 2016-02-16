@@ -1,0 +1,20 @@
+{
+  "login": "abenari",
+  "id": 608711,
+  "avatar_url": "https://avatars.githubusercontent.com/u/608711?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abenari",
+  "html_url": "https://github.com/abenari",
+  "followers_url": "https://api.github.com/users/abenari/followers",
+  "following_url": "https://api.github.com/users/abenari/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abenari/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abenari/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abenari/subscriptions",
+  "organizations_url": "https://api.github.com/users/abenari/orgs",
+  "repos_url": "https://api.github.com/users/abenari/repos",
+  "events_url": "https://api.github.com/users/abenari/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abenari/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

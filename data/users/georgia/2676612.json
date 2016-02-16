@@ -1,0 +1,20 @@
+{
+  "login": "scientist1642",
+  "id": 2676612,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2676612?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/scientist1642",
+  "html_url": "https://github.com/scientist1642",
+  "followers_url": "https://api.github.com/users/scientist1642/followers",
+  "following_url": "https://api.github.com/users/scientist1642/following{/other_user}",
+  "gists_url": "https://api.github.com/users/scientist1642/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/scientist1642/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/scientist1642/subscriptions",
+  "organizations_url": "https://api.github.com/users/scientist1642/orgs",
+  "repos_url": "https://api.github.com/users/scientist1642/repos",
+  "events_url": "https://api.github.com/users/scientist1642/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/scientist1642/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

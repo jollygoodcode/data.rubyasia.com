@@ -1,0 +1,20 @@
+{
+  "login": "Velocitous",
+  "id": 2405964,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2405964?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Velocitous",
+  "html_url": "https://github.com/Velocitous",
+  "followers_url": "https://api.github.com/users/Velocitous/followers",
+  "following_url": "https://api.github.com/users/Velocitous/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Velocitous/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Velocitous/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Velocitous/subscriptions",
+  "organizations_url": "https://api.github.com/users/Velocitous/orgs",
+  "repos_url": "https://api.github.com/users/Velocitous/repos",
+  "events_url": "https://api.github.com/users/Velocitous/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Velocitous/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

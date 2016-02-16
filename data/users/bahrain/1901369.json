@@ -1,0 +1,20 @@
+{
+  "login": "neveed",
+  "id": 1901369,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1901369?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/neveed",
+  "html_url": "https://github.com/neveed",
+  "followers_url": "https://api.github.com/users/neveed/followers",
+  "following_url": "https://api.github.com/users/neveed/following{/other_user}",
+  "gists_url": "https://api.github.com/users/neveed/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/neveed/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/neveed/subscriptions",
+  "organizations_url": "https://api.github.com/users/neveed/orgs",
+  "repos_url": "https://api.github.com/users/neveed/repos",
+  "events_url": "https://api.github.com/users/neveed/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/neveed/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

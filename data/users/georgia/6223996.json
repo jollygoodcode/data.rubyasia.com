@@ -1,0 +1,20 @@
+{
+  "login": "adamgibs",
+  "id": 6223996,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6223996?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adamgibs",
+  "html_url": "https://github.com/adamgibs",
+  "followers_url": "https://api.github.com/users/adamgibs/followers",
+  "following_url": "https://api.github.com/users/adamgibs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adamgibs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adamgibs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adamgibs/subscriptions",
+  "organizations_url": "https://api.github.com/users/adamgibs/orgs",
+  "repos_url": "https://api.github.com/users/adamgibs/repos",
+  "events_url": "https://api.github.com/users/adamgibs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adamgibs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

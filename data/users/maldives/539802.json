@@ -1,0 +1,20 @@
+{
+  "login": "mzahir",
+  "id": 539802,
+  "avatar_url": "https://avatars.githubusercontent.com/u/539802?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mzahir",
+  "html_url": "https://github.com/mzahir",
+  "followers_url": "https://api.github.com/users/mzahir/followers",
+  "following_url": "https://api.github.com/users/mzahir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mzahir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mzahir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mzahir/subscriptions",
+  "organizations_url": "https://api.github.com/users/mzahir/orgs",
+  "repos_url": "https://api.github.com/users/mzahir/repos",
+  "events_url": "https://api.github.com/users/mzahir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mzahir/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

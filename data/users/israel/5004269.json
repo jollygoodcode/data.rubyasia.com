@@ -1,0 +1,20 @@
+{
+  "login": "matanco",
+  "id": 5004269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5004269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matanco",
+  "html_url": "https://github.com/matanco",
+  "followers_url": "https://api.github.com/users/matanco/followers",
+  "following_url": "https://api.github.com/users/matanco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matanco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matanco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matanco/subscriptions",
+  "organizations_url": "https://api.github.com/users/matanco/orgs",
+  "repos_url": "https://api.github.com/users/matanco/repos",
+  "events_url": "https://api.github.com/users/matanco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matanco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

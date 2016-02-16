@@ -1,0 +1,20 @@
+{
+  "login": "MCBTay",
+  "id": 1085747,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1085747?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MCBTay",
+  "html_url": "https://github.com/MCBTay",
+  "followers_url": "https://api.github.com/users/MCBTay/followers",
+  "following_url": "https://api.github.com/users/MCBTay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MCBTay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MCBTay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MCBTay/subscriptions",
+  "organizations_url": "https://api.github.com/users/MCBTay/orgs",
+  "repos_url": "https://api.github.com/users/MCBTay/repos",
+  "events_url": "https://api.github.com/users/MCBTay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MCBTay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

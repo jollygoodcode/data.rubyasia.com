@@ -1,0 +1,20 @@
+{
+  "login": "griffonn",
+  "id": 1175774,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1175774?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/griffonn",
+  "html_url": "https://github.com/griffonn",
+  "followers_url": "https://api.github.com/users/griffonn/followers",
+  "following_url": "https://api.github.com/users/griffonn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/griffonn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/griffonn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/griffonn/subscriptions",
+  "organizations_url": "https://api.github.com/users/griffonn/orgs",
+  "repos_url": "https://api.github.com/users/griffonn/repos",
+  "events_url": "https://api.github.com/users/griffonn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/griffonn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

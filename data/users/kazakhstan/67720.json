@@ -1,0 +1,20 @@
+{
+  "login": "arruah",
+  "id": 67720,
+  "avatar_url": "https://avatars.githubusercontent.com/u/67720?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arruah",
+  "html_url": "https://github.com/arruah",
+  "followers_url": "https://api.github.com/users/arruah/followers",
+  "following_url": "https://api.github.com/users/arruah/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arruah/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arruah/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arruah/subscriptions",
+  "organizations_url": "https://api.github.com/users/arruah/orgs",
+  "repos_url": "https://api.github.com/users/arruah/repos",
+  "events_url": "https://api.github.com/users/arruah/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arruah/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ryentzer",
+  "id": 174288,
+  "avatar_url": "https://avatars.githubusercontent.com/u/174288?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryentzer",
+  "html_url": "https://github.com/ryentzer",
+  "followers_url": "https://api.github.com/users/ryentzer/followers",
+  "following_url": "https://api.github.com/users/ryentzer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryentzer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryentzer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryentzer/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryentzer/orgs",
+  "repos_url": "https://api.github.com/users/ryentzer/repos",
+  "events_url": "https://api.github.com/users/ryentzer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryentzer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

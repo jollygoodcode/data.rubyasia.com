@@ -1,0 +1,20 @@
+{
+  "login": "cemayan",
+  "id": 16626528,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16626528?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cemayan",
+  "html_url": "https://github.com/cemayan",
+  "followers_url": "https://api.github.com/users/cemayan/followers",
+  "following_url": "https://api.github.com/users/cemayan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cemayan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cemayan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cemayan/subscriptions",
+  "organizations_url": "https://api.github.com/users/cemayan/orgs",
+  "repos_url": "https://api.github.com/users/cemayan/repos",
+  "events_url": "https://api.github.com/users/cemayan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cemayan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

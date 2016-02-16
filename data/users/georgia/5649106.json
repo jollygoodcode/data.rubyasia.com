@@ -1,0 +1,20 @@
+{
+  "login": "barryofguilder",
+  "id": 5649106,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5649106?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/barryofguilder",
+  "html_url": "https://github.com/barryofguilder",
+  "followers_url": "https://api.github.com/users/barryofguilder/followers",
+  "following_url": "https://api.github.com/users/barryofguilder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/barryofguilder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/barryofguilder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/barryofguilder/subscriptions",
+  "organizations_url": "https://api.github.com/users/barryofguilder/orgs",
+  "repos_url": "https://api.github.com/users/barryofguilder/repos",
+  "events_url": "https://api.github.com/users/barryofguilder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/barryofguilder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
