@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+
+# Exit cleanly from an early interrupt
+Signal.trap("INT") { abort }
+
+def system!(*args)
+  system(*args) || abort("\n== Command #{args} failed ==")
+end
+
+oauth_instructions = <<~OAUTH_INSTRUCTIONS
+  Please set environment variable: DATA_RUBYASIA_TOKEN:
+  GitHub.com > Settings > Personal access tokens > Check nothing > Generate new token
+  Then copy the token and set the environment variable in your shell start-up file:
+  export DATA_RUBYASIA_TOKEN="<your-40-char-token>"
+OAUTH_INSTRUCTIONS
+
+ENV.fetch("DATA_RUBYASIA_TOKEN") { abort(oauth_instructions) }
+
+system("bundle check") or system!("bundle install")
+
+system("mkdir -p data/users")
+
+puts "You're good to go! Type `rake -T` to see available tasks. More info, please check README.md."
