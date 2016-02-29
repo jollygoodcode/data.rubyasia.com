@@ -1,0 +1,20 @@
+{
+  "login": "DevPrivate",
+  "id": 17152813,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17152813?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DevPrivate",
+  "html_url": "https://github.com/DevPrivate",
+  "followers_url": "https://api.github.com/users/DevPrivate/followers",
+  "following_url": "https://api.github.com/users/DevPrivate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DevPrivate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DevPrivate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DevPrivate/subscriptions",
+  "organizations_url": "https://api.github.com/users/DevPrivate/orgs",
+  "repos_url": "https://api.github.com/users/DevPrivate/repos",
+  "events_url": "https://api.github.com/users/DevPrivate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DevPrivate/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

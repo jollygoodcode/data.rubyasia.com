@@ -1,0 +1,20 @@
+{
+  "login": "andrianyn",
+  "id": 17246149,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17246149?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andrianyn",
+  "html_url": "https://github.com/andrianyn",
+  "followers_url": "https://api.github.com/users/andrianyn/followers",
+  "following_url": "https://api.github.com/users/andrianyn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andrianyn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andrianyn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andrianyn/subscriptions",
+  "organizations_url": "https://api.github.com/users/andrianyn/orgs",
+  "repos_url": "https://api.github.com/users/andrianyn/repos",
+  "events_url": "https://api.github.com/users/andrianyn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andrianyn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

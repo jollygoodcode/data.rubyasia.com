@@ -1,0 +1,20 @@
+{
+  "login": "shinji-yoshida",
+  "id": 1642845,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1642845?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shinji-yoshida",
+  "html_url": "https://github.com/shinji-yoshida",
+  "followers_url": "https://api.github.com/users/shinji-yoshida/followers",
+  "following_url": "https://api.github.com/users/shinji-yoshida/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shinji-yoshida/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shinji-yoshida/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shinji-yoshida/subscriptions",
+  "organizations_url": "https://api.github.com/users/shinji-yoshida/orgs",
+  "repos_url": "https://api.github.com/users/shinji-yoshida/repos",
+  "events_url": "https://api.github.com/users/shinji-yoshida/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shinji-yoshida/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

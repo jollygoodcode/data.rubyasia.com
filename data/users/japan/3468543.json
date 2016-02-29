@@ -1,0 +1,20 @@
+{
+  "login": "cuusoo",
+  "id": 3468543,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3468543?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cuusoo",
+  "html_url": "https://github.com/cuusoo",
+  "followers_url": "https://api.github.com/users/cuusoo/followers",
+  "following_url": "https://api.github.com/users/cuusoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cuusoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cuusoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cuusoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/cuusoo/orgs",
+  "repos_url": "https://api.github.com/users/cuusoo/repos",
+  "events_url": "https://api.github.com/users/cuusoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cuusoo/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

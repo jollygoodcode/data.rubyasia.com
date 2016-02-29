@@ -1,0 +1,20 @@
+{
+  "login": "mr-myself",
+  "id": 1085527,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1085527?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mr-myself",
+  "html_url": "https://github.com/mr-myself",
+  "followers_url": "https://api.github.com/users/mr-myself/followers",
+  "following_url": "https://api.github.com/users/mr-myself/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mr-myself/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mr-myself/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mr-myself/subscriptions",
+  "organizations_url": "https://api.github.com/users/mr-myself/orgs",
+  "repos_url": "https://api.github.com/users/mr-myself/repos",
+  "events_url": "https://api.github.com/users/mr-myself/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mr-myself/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

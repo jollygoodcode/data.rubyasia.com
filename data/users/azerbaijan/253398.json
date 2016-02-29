@@ -1,0 +1,20 @@
+{
+  "login": "NARKOZ",
+  "id": 253398,
+  "avatar_url": "https://avatars.githubusercontent.com/u/253398?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NARKOZ",
+  "html_url": "https://github.com/NARKOZ",
+  "followers_url": "https://api.github.com/users/NARKOZ/followers",
+  "following_url": "https://api.github.com/users/NARKOZ/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NARKOZ/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NARKOZ/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NARKOZ/subscriptions",
+  "organizations_url": "https://api.github.com/users/NARKOZ/orgs",
+  "repos_url": "https://api.github.com/users/NARKOZ/repos",
+  "events_url": "https://api.github.com/users/NARKOZ/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NARKOZ/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

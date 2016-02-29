@@ -1,0 +1,20 @@
+{
+  "login": "activesphere",
+  "id": 212186,
+  "avatar_url": "https://avatars.githubusercontent.com/u/212186?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/activesphere",
+  "html_url": "https://github.com/activesphere",
+  "followers_url": "https://api.github.com/users/activesphere/followers",
+  "following_url": "https://api.github.com/users/activesphere/following{/other_user}",
+  "gists_url": "https://api.github.com/users/activesphere/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/activesphere/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/activesphere/subscriptions",
+  "organizations_url": "https://api.github.com/users/activesphere/orgs",
+  "repos_url": "https://api.github.com/users/activesphere/repos",
+  "events_url": "https://api.github.com/users/activesphere/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/activesphere/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

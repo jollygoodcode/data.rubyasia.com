@@ -1,0 +1,20 @@
+{
+  "login": "markymouse",
+  "id": 16119304,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16119304?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/markymouse",
+  "html_url": "https://github.com/markymouse",
+  "followers_url": "https://api.github.com/users/markymouse/followers",
+  "following_url": "https://api.github.com/users/markymouse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/markymouse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/markymouse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/markymouse/subscriptions",
+  "organizations_url": "https://api.github.com/users/markymouse/orgs",
+  "repos_url": "https://api.github.com/users/markymouse/repos",
+  "events_url": "https://api.github.com/users/markymouse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/markymouse/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

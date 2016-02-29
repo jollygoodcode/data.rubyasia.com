@@ -1,0 +1,20 @@
+{
+  "login": "OpsRockin",
+  "id": 4231755,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4231755?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/OpsRockin",
+  "html_url": "https://github.com/OpsRockin",
+  "followers_url": "https://api.github.com/users/OpsRockin/followers",
+  "following_url": "https://api.github.com/users/OpsRockin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OpsRockin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/OpsRockin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OpsRockin/subscriptions",
+  "organizations_url": "https://api.github.com/users/OpsRockin/orgs",
+  "repos_url": "https://api.github.com/users/OpsRockin/repos",
+  "events_url": "https://api.github.com/users/OpsRockin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/OpsRockin/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

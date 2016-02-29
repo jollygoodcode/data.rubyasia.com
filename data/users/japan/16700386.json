@@ -1,0 +1,20 @@
+{
+  "login": "dhacks",
+  "id": 16700386,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16700386?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dhacks",
+  "html_url": "https://github.com/dhacks",
+  "followers_url": "https://api.github.com/users/dhacks/followers",
+  "following_url": "https://api.github.com/users/dhacks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dhacks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dhacks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dhacks/subscriptions",
+  "organizations_url": "https://api.github.com/users/dhacks/orgs",
+  "repos_url": "https://api.github.com/users/dhacks/repos",
+  "events_url": "https://api.github.com/users/dhacks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dhacks/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

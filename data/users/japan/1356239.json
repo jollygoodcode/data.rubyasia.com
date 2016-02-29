@@ -1,0 +1,20 @@
+{
+  "login": "higanworks",
+  "id": 1356239,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1356239?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/higanworks",
+  "html_url": "https://github.com/higanworks",
+  "followers_url": "https://api.github.com/users/higanworks/followers",
+  "following_url": "https://api.github.com/users/higanworks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/higanworks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/higanworks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/higanworks/subscriptions",
+  "organizations_url": "https://api.github.com/users/higanworks/orgs",
+  "repos_url": "https://api.github.com/users/higanworks/repos",
+  "events_url": "https://api.github.com/users/higanworks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/higanworks/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

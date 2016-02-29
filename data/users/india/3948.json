@@ -1,0 +1,20 @@
+{
+  "login": "arunagw",
+  "id": 3948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arunagw",
+  "html_url": "https://github.com/arunagw",
+  "followers_url": "https://api.github.com/users/arunagw/followers",
+  "following_url": "https://api.github.com/users/arunagw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arunagw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arunagw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arunagw/subscriptions",
+  "organizations_url": "https://api.github.com/users/arunagw/orgs",
+  "repos_url": "https://api.github.com/users/arunagw/repos",
+  "events_url": "https://api.github.com/users/arunagw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arunagw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

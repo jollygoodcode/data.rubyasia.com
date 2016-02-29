@@ -1,0 +1,20 @@
+{
+  "login": "ChefSocial",
+  "id": 15801462,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15801462?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ChefSocial",
+  "html_url": "https://github.com/ChefSocial",
+  "followers_url": "https://api.github.com/users/ChefSocial/followers",
+  "following_url": "https://api.github.com/users/ChefSocial/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ChefSocial/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ChefSocial/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ChefSocial/subscriptions",
+  "organizations_url": "https://api.github.com/users/ChefSocial/orgs",
+  "repos_url": "https://api.github.com/users/ChefSocial/repos",
+  "events_url": "https://api.github.com/users/ChefSocial/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ChefSocial/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "arkirchner",
+  "id": 10478179,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10478179?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arkirchner",
+  "html_url": "https://github.com/arkirchner",
+  "followers_url": "https://api.github.com/users/arkirchner/followers",
+  "following_url": "https://api.github.com/users/arkirchner/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arkirchner/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arkirchner/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arkirchner/subscriptions",
+  "organizations_url": "https://api.github.com/users/arkirchner/orgs",
+  "repos_url": "https://api.github.com/users/arkirchner/repos",
+  "events_url": "https://api.github.com/users/arkirchner/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arkirchner/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mimuret",
+  "id": 2756113,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2756113?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mimuret",
+  "html_url": "https://github.com/mimuret",
+  "followers_url": "https://api.github.com/users/mimuret/followers",
+  "following_url": "https://api.github.com/users/mimuret/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mimuret/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mimuret/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mimuret/subscriptions",
+  "organizations_url": "https://api.github.com/users/mimuret/orgs",
+  "repos_url": "https://api.github.com/users/mimuret/repos",
+  "events_url": "https://api.github.com/users/mimuret/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mimuret/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

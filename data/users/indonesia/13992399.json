@@ -1,0 +1,20 @@
+{
+  "login": "jeffrisandy",
+  "id": 13992399,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13992399?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeffrisandy",
+  "html_url": "https://github.com/jeffrisandy",
+  "followers_url": "https://api.github.com/users/jeffrisandy/followers",
+  "following_url": "https://api.github.com/users/jeffrisandy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeffrisandy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeffrisandy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeffrisandy/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeffrisandy/orgs",
+  "repos_url": "https://api.github.com/users/jeffrisandy/repos",
+  "events_url": "https://api.github.com/users/jeffrisandy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeffrisandy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

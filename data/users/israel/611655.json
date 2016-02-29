@@ -1,0 +1,20 @@
+{
+  "login": "guysmoilov",
+  "id": 611655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/611655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/guysmoilov",
+  "html_url": "https://github.com/guysmoilov",
+  "followers_url": "https://api.github.com/users/guysmoilov/followers",
+  "following_url": "https://api.github.com/users/guysmoilov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/guysmoilov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/guysmoilov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/guysmoilov/subscriptions",
+  "organizations_url": "https://api.github.com/users/guysmoilov/orgs",
+  "repos_url": "https://api.github.com/users/guysmoilov/repos",
+  "events_url": "https://api.github.com/users/guysmoilov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/guysmoilov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
