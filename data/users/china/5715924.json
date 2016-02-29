@@ -1,0 +1,20 @@
+{
+  "login": "HITAR",
+  "id": 5715924,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5715924?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HITAR",
+  "html_url": "https://github.com/HITAR",
+  "followers_url": "https://api.github.com/users/HITAR/followers",
+  "following_url": "https://api.github.com/users/HITAR/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HITAR/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HITAR/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HITAR/subscriptions",
+  "organizations_url": "https://api.github.com/users/HITAR/orgs",
+  "repos_url": "https://api.github.com/users/HITAR/repos",
+  "events_url": "https://api.github.com/users/HITAR/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HITAR/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

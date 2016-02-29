@@ -1,0 +1,20 @@
+{
+  "login": "CodeBySid",
+  "id": 17477949,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17477949?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CodeBySid",
+  "html_url": "https://github.com/CodeBySid",
+  "followers_url": "https://api.github.com/users/CodeBySid/followers",
+  "following_url": "https://api.github.com/users/CodeBySid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CodeBySid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CodeBySid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CodeBySid/subscriptions",
+  "organizations_url": "https://api.github.com/users/CodeBySid/orgs",
+  "repos_url": "https://api.github.com/users/CodeBySid/repos",
+  "events_url": "https://api.github.com/users/CodeBySid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CodeBySid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

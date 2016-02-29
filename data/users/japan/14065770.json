@@ -1,0 +1,20 @@
+{
+  "login": "mixi-git-challenge",
+  "id": 14065770,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14065770?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mixi-git-challenge",
+  "html_url": "https://github.com/mixi-git-challenge",
+  "followers_url": "https://api.github.com/users/mixi-git-challenge/followers",
+  "following_url": "https://api.github.com/users/mixi-git-challenge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mixi-git-challenge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mixi-git-challenge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mixi-git-challenge/subscriptions",
+  "organizations_url": "https://api.github.com/users/mixi-git-challenge/orgs",
+  "repos_url": "https://api.github.com/users/mixi-git-challenge/repos",
+  "events_url": "https://api.github.com/users/mixi-git-challenge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mixi-git-challenge/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

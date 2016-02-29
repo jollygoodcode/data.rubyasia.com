@@ -1,0 +1,20 @@
+{
+  "login": "goodrain",
+  "id": 10627562,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10627562?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/goodrain",
+  "html_url": "https://github.com/goodrain",
+  "followers_url": "https://api.github.com/users/goodrain/followers",
+  "following_url": "https://api.github.com/users/goodrain/following{/other_user}",
+  "gists_url": "https://api.github.com/users/goodrain/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/goodrain/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/goodrain/subscriptions",
+  "organizations_url": "https://api.github.com/users/goodrain/orgs",
+  "repos_url": "https://api.github.com/users/goodrain/repos",
+  "events_url": "https://api.github.com/users/goodrain/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/goodrain/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

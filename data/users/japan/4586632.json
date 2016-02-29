@@ -1,0 +1,20 @@
+{
+  "login": "shihochan",
+  "id": 4586632,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4586632?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shihochan",
+  "html_url": "https://github.com/shihochan",
+  "followers_url": "https://api.github.com/users/shihochan/followers",
+  "following_url": "https://api.github.com/users/shihochan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shihochan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shihochan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shihochan/subscriptions",
+  "organizations_url": "https://api.github.com/users/shihochan/orgs",
+  "repos_url": "https://api.github.com/users/shihochan/repos",
+  "events_url": "https://api.github.com/users/shihochan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shihochan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

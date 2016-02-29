@@ -1,0 +1,20 @@
+{
+  "login": "ptiwebtech",
+  "id": 8427348,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8427348?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ptiwebtech",
+  "html_url": "https://github.com/ptiwebtech",
+  "followers_url": "https://api.github.com/users/ptiwebtech/followers",
+  "following_url": "https://api.github.com/users/ptiwebtech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ptiwebtech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ptiwebtech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ptiwebtech/subscriptions",
+  "organizations_url": "https://api.github.com/users/ptiwebtech/orgs",
+  "repos_url": "https://api.github.com/users/ptiwebtech/repos",
+  "events_url": "https://api.github.com/users/ptiwebtech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ptiwebtech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

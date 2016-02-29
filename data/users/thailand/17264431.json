@@ -1,0 +1,20 @@
+{
+  "login": "IExpo",
+  "id": 17264431,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17264431?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/IExpo",
+  "html_url": "https://github.com/IExpo",
+  "followers_url": "https://api.github.com/users/IExpo/followers",
+  "following_url": "https://api.github.com/users/IExpo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/IExpo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/IExpo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/IExpo/subscriptions",
+  "organizations_url": "https://api.github.com/users/IExpo/orgs",
+  "repos_url": "https://api.github.com/users/IExpo/repos",
+  "events_url": "https://api.github.com/users/IExpo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/IExpo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

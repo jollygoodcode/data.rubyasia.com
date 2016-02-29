@@ -1,0 +1,20 @@
+{
+  "login": "gshe",
+  "id": 13896224,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13896224?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gshe",
+  "html_url": "https://github.com/gshe",
+  "followers_url": "https://api.github.com/users/gshe/followers",
+  "following_url": "https://api.github.com/users/gshe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gshe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gshe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gshe/subscriptions",
+  "organizations_url": "https://api.github.com/users/gshe/orgs",
+  "repos_url": "https://api.github.com/users/gshe/repos",
+  "events_url": "https://api.github.com/users/gshe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gshe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

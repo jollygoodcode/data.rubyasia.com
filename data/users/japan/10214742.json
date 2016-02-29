@@ -1,0 +1,20 @@
+{
+  "login": "katsunory",
+  "id": 10214742,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10214742?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katsunory",
+  "html_url": "https://github.com/katsunory",
+  "followers_url": "https://api.github.com/users/katsunory/followers",
+  "following_url": "https://api.github.com/users/katsunory/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katsunory/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katsunory/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katsunory/subscriptions",
+  "organizations_url": "https://api.github.com/users/katsunory/orgs",
+  "repos_url": "https://api.github.com/users/katsunory/repos",
+  "events_url": "https://api.github.com/users/katsunory/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katsunory/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Sungup",
+  "id": 1124487,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1124487?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Sungup",
+  "html_url": "https://github.com/Sungup",
+  "followers_url": "https://api.github.com/users/Sungup/followers",
+  "following_url": "https://api.github.com/users/Sungup/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Sungup/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Sungup/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Sungup/subscriptions",
+  "organizations_url": "https://api.github.com/users/Sungup/orgs",
+  "repos_url": "https://api.github.com/users/Sungup/repos",
+  "events_url": "https://api.github.com/users/Sungup/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Sungup/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

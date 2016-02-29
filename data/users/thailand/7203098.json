@@ -1,0 +1,20 @@
+{
+  "login": "chuckn0rris",
+  "id": 7203098,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7203098?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chuckn0rris",
+  "html_url": "https://github.com/chuckn0rris",
+  "followers_url": "https://api.github.com/users/chuckn0rris/followers",
+  "following_url": "https://api.github.com/users/chuckn0rris/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chuckn0rris/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chuckn0rris/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chuckn0rris/subscriptions",
+  "organizations_url": "https://api.github.com/users/chuckn0rris/orgs",
+  "repos_url": "https://api.github.com/users/chuckn0rris/repos",
+  "events_url": "https://api.github.com/users/chuckn0rris/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chuckn0rris/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "chaoyee",
+  "id": 2167909,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2167909?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chaoyee",
+  "html_url": "https://github.com/chaoyee",
+  "followers_url": "https://api.github.com/users/chaoyee/followers",
+  "following_url": "https://api.github.com/users/chaoyee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chaoyee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chaoyee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chaoyee/subscriptions",
+  "organizations_url": "https://api.github.com/users/chaoyee/orgs",
+  "repos_url": "https://api.github.com/users/chaoyee/repos",
+  "events_url": "https://api.github.com/users/chaoyee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chaoyee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

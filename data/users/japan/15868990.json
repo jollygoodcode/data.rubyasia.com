@@ -1,0 +1,20 @@
+{
+  "login": "ktabe",
+  "id": 15868990,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15868990?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ktabe",
+  "html_url": "https://github.com/ktabe",
+  "followers_url": "https://api.github.com/users/ktabe/followers",
+  "following_url": "https://api.github.com/users/ktabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ktabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ktabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ktabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/ktabe/orgs",
+  "repos_url": "https://api.github.com/users/ktabe/repos",
+  "events_url": "https://api.github.com/users/ktabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ktabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

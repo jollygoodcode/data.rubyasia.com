@@ -1,0 +1,20 @@
+{
+  "login": "ekucet",
+  "id": 6209260,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6209260?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ekucet",
+  "html_url": "https://github.com/ekucet",
+  "followers_url": "https://api.github.com/users/ekucet/followers",
+  "following_url": "https://api.github.com/users/ekucet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ekucet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ekucet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ekucet/subscriptions",
+  "organizations_url": "https://api.github.com/users/ekucet/orgs",
+  "repos_url": "https://api.github.com/users/ekucet/repos",
+  "events_url": "https://api.github.com/users/ekucet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ekucet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
