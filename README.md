@@ -70,6 +70,8 @@ Run `bin/setup` and follow the instructions.
 
 ## Repos Fetch Criteria
 
+A Ruby project from authors in Asia with at least 20 stars updated within 7 days before yesterday.
+
 ### Fetch repositories data from all regions listed in [regions](/regions) file
 
     $ rake fetch_repos[all]
