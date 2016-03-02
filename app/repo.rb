@@ -13,8 +13,8 @@ class Repo
   def initialize(raw_region)
     @raw_region = raw_region
     @available_regions = IO.readlines(ROOT.join("regions")).map(&:chomp)
-    @noramlized_regions = available_regions.map { |region| normalize(region) }
-    @regions = determin_by_user_specified_region(normalize(raw_region))
+    @normalized_regions = available_regions.map { |region| normalize(region) }
+    @regions = determine_by_user_specified_region(normalize(raw_region))
   end
 
   def fetch_repositories
@@ -59,13 +59,13 @@ class Repo
     private_constant :DATA_REPOS_FOLDER
     private_constant :SLICE_NUMBER
 
-    attr_reader :raw_region, :available_regions, :noramlized_regions, :regions
+    attr_reader :raw_region, :available_regions, :normalized_regions, :regions
 
-    def determin_by_user_specified_region(user_specified_region)
+    def determine_by_user_specified_region(user_specified_region)
       if user_specified_region == "all".freeze
-        noramlized_regions
+        normalized_regions
       else
-        if noramlized_regions.include?(user_specified_region)
+        if normalized_regions.include?(user_specified_region)
           [user_specified_region]
         else
           puts "Unknown specified region: #{user_specified_region}"
@@ -117,10 +117,8 @@ class Repo
         acc << Hash(
           full_name: result.full_name,
           description: result.description,
-          url: result.url,
+          html_url: result.html_url,
           stars: result.stargazers_count,
-          watchers: result.watchers_count,
-          forks: result.forks_count,
           language: result.language,
           region: denormalize(region)
         )
