@@ -1,0 +1,21 @@
+doctype 5
+html
+  head
+    meta charset="utf-8"
+    meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
+    title Trending Ruby Repositories in Asia
+    meta content="trending repositories in Asia" name="description"
+    meta content="width=device-width, initial-scale=1" name="viewport"
+  body
+    h1 Trending Ruby Repositories in Asia
+
+    h2 Top Starred Repositories
+    p The most starred repos in Asia on #{Time.now.strftime("%B %d, %Y")}
+
+    ol.repos
+      - require_relative "app/view"; view = View.new; view.repos.each do |repo|
+        li.repo
+          p #{repo["stars"]} stars in #{repo["region"]}
+          h3
+            a href="https://github.com/#{repo['full_name']}" target="_blank"= repo["full_name"]
+          p= repo["description"]
