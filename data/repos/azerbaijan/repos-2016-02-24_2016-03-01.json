@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-03-02 01:41:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-24..2016-03-01",
+  "repos": [
+    {
+      "full_name": "NARKOZ/gitlab",
+      "description": "Ruby wrapper and CLI for GitLab REST API",
+      "html_url": "https://github.com/NARKOZ/gitlab",
+      "stars": 250,
+      "language": "Ruby",
+      "region": "Azerbaijan"
+    },
+    {
+      "full_name": "NARKOZ/holder_rails",
+      "description": "Client side image placeholders for Rails applications",
+      "html_url": "https://github.com/NARKOZ/holder_rails",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Azerbaijan"
+    }
+  ]
+}
