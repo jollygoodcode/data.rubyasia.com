@@ -1,0 +1,176 @@
+html {
+  font-size: 16px;
+}
+
+@media (min-width: 48em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+body {
+  margin: 0;
+  font: 1rem/1.5 "PT Sans", sans-serif;
+  color: #5a5a5a;
+}
+
+a {
+  color: #08c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+  margin: 0 0 .5rem;
+  font-weight: normal;
+  line-height: 1;
+  color: #2a2a2a;
+  letter-spacing: -.05em;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.25rem
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+ol {
+  list-style-type: none;
+}
+
+.container {
+  margin: 0;
+}
+
+@media (min-width: 58em) {
+  .container {
+    margin: 0 10rem;
+  }
+}
+
+@media (min-width: 68em) {
+  .container {
+    margin: 0 14rem;
+  }
+}
+
+@media (min-width: 78em) {
+  .container {
+    margin: 0 18rem;
+  }
+}
+
+.lead {
+  font-size: 1.3rem;
+}
+
+@media (max-width: 38em) {
+  p.lead {
+    font-size: 0.9rem;
+  }
+}
+
+.masterhead {
+  padding: 3rem 1rem;
+  color: rgba(255,255,255,.5);
+  text-align: center;
+  background-color: #00b435;
+}
+
+.masterhead h1 {
+  color: #fff;
+  margin-bottom: .25rem;
+}
+
+.section {
+  border-bottom: 1px solid #dfe1e8;
+}
+
+.col {
+  padding: 2rem 1rem;
+}
+
+.col p {
+  max-width: 40rem;
+}
+
+.col + .col {
+  border-top: 1px solid #dfe1e8;
+  background-color: #f7f7f9;
+}
+
+@media (min-width: 38em) {
+  .col {
+    padding: 2rem;
+  }
+}
+
+@media (min-width: 48em) {
+  .section {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+  }
+  .col {
+    display: table-cell;
+    padding: 3rem;
+    vertical-align: top;
+  }
+  .col + .col {
+    border-top: 0;
+  }
+}
+
+.footer {
+  padding: 3rem 1rem;
+  font-size: 90%;
+  text-align: center;
+}
+
+.footer p {
+  margin-bottom: .5rem;
+}
+
+.repo p.meta-info {
+  margin-bottom: 0;
+}
+
+.repo .stars {
+  font-weight: 600;
+  color: #000;
+  font-size: 80%;
+}
+
+.repo .region {
+  font-weight: 600;
+  color: #000;
+  font-size: 80%;
+}
+
+.repo h3 {
+  font-size: 1.125rem;
+  letter-spacing: .05em;
+}
+
+.repo .description {
+  margin: 0 0 1rem;
+  color: #7a7a7a;
+  font-size: 0.8rem;
+}
