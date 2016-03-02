@@ -4,39 +4,28 @@
 
 Repositories json data live in region folder under `data/repos`: `data/repos/:region/repos-:period.json`.
 
-For instance `data/repos/singapore/repos-2016-02-23_2016-02-29`:
+For instance `data/repos/singapore/repos-2016-02-24_2016-03-01`:
 
 ```json
 {
-  "generated_at": "2016-03-01 04:00:47 UTC",
-  "criteria": "language:Ruby stars:>20 pushed:2016-02-23..2016-02-29",
+  "generated_at": "2016-03-02 01:42:57 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-24..2016-03-01",
   "repos": [
     {
       "full_name": "jollygoodcode/dasherize",
       "description": ":computer: Dasherize your projects",
-      "url": "https://api.github.com/repos/jollygoodcode/dasherize",
+      "html_url": "https://github.com/jollygoodcode/dasherize",
       "stars": 98,
-      "watchers": 98,
-      "forks": 4,
-      "language": "Ruby"
+      "language": "Ruby",
+      "region": "Singapore"
     },
     {
       "full_name": "jollygoodcode/reread",
       "description": "Source of https://reread.io",
-      "url": "https://api.github.com/repos/jollygoodcode/reread",
+      "html_url": "https://github.com/jollygoodcode/reread",
       "stars": 70,
-      "watchers": 70,
-      "forks": 2,
-      "language": "Ruby"
-    },
-    {
-      "full_name": "jollygoodcode/jollygoodcode.github.io",
-      "description": ":thought_balloon: Jolly Good Blog",
-      "url": "https://api.github.com/repos/jollygoodcode/jollygoodcode.github.io",
-      "stars": 63,
-      "watchers": 63,
-      "forks": 1,
-      "language": "Ruby"
+      "language": "Ruby",
+      "region": "Singapore"
     }
   ]
 }
