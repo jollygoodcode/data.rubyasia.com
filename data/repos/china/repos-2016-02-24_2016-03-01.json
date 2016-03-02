@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-03-02 01:41:31 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-24..2016-03-01",
+  "repos": [
+    {
+      "full_name": "saberma/china_sms",
+      "description": "中国各个短信平台 Ruby 接口，现支持云片网、推立方、亿美软通、短信宝、畅友网络",
+      "html_url": "https://github.com/saberma/china_sms",
+      "stars": 351,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/rucaptcha",
+      "description": "This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.",
+      "html_url": "https://github.com/huacnlee/rucaptcha",
+      "stars": 273,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 187,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 154,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "wongyouth/chinacity",
+      "description": "Get the latest China cities data from official site.",
+      "html_url": "https://github.com/wongyouth/chinacity",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
