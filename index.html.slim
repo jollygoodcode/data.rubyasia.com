@@ -12,7 +12,7 @@ html
   body
     header.masterhead
       h1 Trending Ruby Repositories in Asia
-      p.lead Write something about this
+      p.lead Repos in Asia, >= 20 Stars, Updated in the Recent Week
 
     .container
       section.section
@@ -34,7 +34,7 @@ html
                     span.owner= repo["full_name"].split("/".freeze).first
                     span.slash= "/".freeze
                     strong.repo= repo["full_name"].split("/".freeze).last
-                p.description= repo["description"]
+                p.description== view.emojify(repo["description"])
 
       footer.footer
         p <3
@@ -47,3 +47,6 @@ html
           ' Open Sourced under UNLICENSE.
           a href="https://twitter.com/rubyasia" target="_blank" @rubyasia
           ' .
+        p
+          ' Source:
+          a href="https://github.com/jollygoodcode/data.rubyasia.com" target="_blank" github.com/jollygoodcode/data.rubyasia.com
