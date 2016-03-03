@@ -7,6 +7,7 @@ html
     meta content="trending repositories in Asia" name="description"
     meta content="width=device-width, initial-scale=1" name="viewport"
     link rel="stylesheet" href="css/ruby-asia.css"
+    link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans"
 
   body
     header.masterhead
@@ -15,9 +16,10 @@ html
 
     .container
       section.section
-        .col
-          h2 Top Starred Repositories
-          p.lead The most starred repos in Asia on #{Time.now.strftime("%B %d, %Y")}
+        .col.col-offset-4
+          .page-title
+            h2 Top Starred Repositories
+            p.lead The most starred repos in Asia for the week of #{Time.now.strftime("%B %d, %Y")}
 
           ol.repos
             - require_relative "app/view"; view = View.new; view.repos.each do |repo|

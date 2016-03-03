@@ -53,28 +53,11 @@ p {
 
 ol {
   list-style-type: none;
+  padding: 0 20px;
 }
 
-.container {
-  margin: 0;
-}
-
-@media (min-width: 58em) {
-  .container {
-    margin: 0 10rem;
-  }
-}
-
-@media (min-width: 68em) {
-  .container {
-    margin: 0 14rem;
-  }
-}
-
-@media (min-width: 78em) {
-  .container {
-    margin: 0 18rem;
-  }
+.page-title {
+  padding: 0 20px;
 }
 
 .lead {
@@ -104,6 +87,7 @@ ol {
 }
 
 .col {
+  display: table;
   padding: 2rem 1rem;
 }
 
@@ -128,13 +112,38 @@ ol {
     width: 100%;
     table-layout: fixed;
   }
+
   .col {
     display: table-cell;
     padding: 3rem;
     vertical-align: top;
   }
+
   .col + .col {
     border-top: 0;
+  }
+}
+
+.col-offset-4 {
+  float: left;
+  margin-left: 0;
+}
+
+@media (min-width: 992px) {
+  .col-offset-4 {
+    margin-left: 10%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col-offset-4 {
+    margin-left: 15%;
+  }
+}
+
+@media (min-width: 1600px) {
+  .col-offset-4 {
+    margin-left: 20%;
   }
 }
 
