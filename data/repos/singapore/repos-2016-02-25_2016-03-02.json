@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-03-03 01:52:51 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-25..2016-03-02",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/dasherize",
+      "description": ":computer: Dasherize your projects",
+      "html_url": "https://github.com/jollygoodcode/dasherize",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
