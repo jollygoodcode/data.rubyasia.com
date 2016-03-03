@@ -6,16 +6,47 @@ html
     title Trending Ruby Repositories in Asia
     meta content="trending repositories in Asia" name="description"
     meta content="width=device-width, initial-scale=1" name="viewport"
+    link rel="stylesheet" href="css/ruby-asia.css"
+    link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans"
+
   body
-    h1 Trending Ruby Repositories in Asia
+    header.masterhead
+      h1 Trending Ruby Repositories in Asia
+      p.lead Repos in Asia, >= 20 Stars, Updated in the Recent Week
 
-    h2 Top Starred Repositories
-    p The most starred repos in Asia on #{Time.now.strftime("%B %d, %Y")}
+    .container
+      section.section
+        .col.col-offset-4
+          .page-title
+            h2 Top Starred Repositories
+            p.lead The most starred repos in Asia for the week of #{Time.now.strftime("%B %d, %Y")}
 
-    ol.repos
-      - require_relative "app/view"; view = View.new; view.repos.each do |repo|
-        li.repo
-          p #{repo["stars"]} stars in #{repo["region"]}
-          h3
-            a href="https://github.com/#{repo['full_name']}" target="_blank"= repo["full_name"]
-          p= repo["description"]
+          ol.repos
+            - require_relative "app/view"; view = View.new; view.repos.each do |repo|
+              li.repo
+                p.meta-info
+                  span.stars
+                    ' #{repo["stars"]} stars
+                  ' in
+                  span.region= repo["region"]
+                h3.full_name
+                  a href="https://github.com/#{repo['full_name']}" target="_blank"
+                    span.owner= repo["full_name"].split("/".freeze).first
+                    span.slash= "/".freeze
+                    strong.repo= repo["full_name"].split("/".freeze).last
+                p.description== view.emojify(repo["description"])
+
+      footer.footer
+        p <3
+        p
+          ' A
+          a href="http://www.jollygoodcode.com" target="_blank"
+            ' Jolly Good Code
+          | Production.
+        p
+          ' Open Sourced under UNLICENSE.
+          a href="https://twitter.com/rubyasia" target="_blank" @rubyasia
+          ' .
+        p
+          ' Source:
+          a href="https://github.com/jollygoodcode/data.rubyasia.com" target="_blank" github.com/jollygoodcode/data.rubyasia.com
