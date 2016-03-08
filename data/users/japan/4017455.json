@@ -1,0 +1,20 @@
+{
+  "login": "Arakaki",
+  "id": 4017455,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4017455?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Arakaki",
+  "html_url": "https://github.com/Arakaki",
+  "followers_url": "https://api.github.com/users/Arakaki/followers",
+  "following_url": "https://api.github.com/users/Arakaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Arakaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Arakaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Arakaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/Arakaki/orgs",
+  "repos_url": "https://api.github.com/users/Arakaki/repos",
+  "events_url": "https://api.github.com/users/Arakaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Arakaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

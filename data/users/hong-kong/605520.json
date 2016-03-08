@@ -1,0 +1,20 @@
+{
+  "login": "aulme",
+  "id": 605520,
+  "avatar_url": "https://avatars.githubusercontent.com/u/605520?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aulme",
+  "html_url": "https://github.com/aulme",
+  "followers_url": "https://api.github.com/users/aulme/followers",
+  "following_url": "https://api.github.com/users/aulme/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aulme/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aulme/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aulme/subscriptions",
+  "organizations_url": "https://api.github.com/users/aulme/orgs",
+  "repos_url": "https://api.github.com/users/aulme/repos",
+  "events_url": "https://api.github.com/users/aulme/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aulme/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

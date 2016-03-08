@@ -1,0 +1,20 @@
+{
+  "login": "lilburne",
+  "id": 16605944,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16605944?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lilburne",
+  "html_url": "https://github.com/lilburne",
+  "followers_url": "https://api.github.com/users/lilburne/followers",
+  "following_url": "https://api.github.com/users/lilburne/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lilburne/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lilburne/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lilburne/subscriptions",
+  "organizations_url": "https://api.github.com/users/lilburne/orgs",
+  "repos_url": "https://api.github.com/users/lilburne/repos",
+  "events_url": "https://api.github.com/users/lilburne/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lilburne/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

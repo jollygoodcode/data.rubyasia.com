@@ -1,0 +1,20 @@
+{
+  "login": "harley",
+  "id": 44055,
+  "avatar_url": "https://avatars.githubusercontent.com/u/44055?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harley",
+  "html_url": "https://github.com/harley",
+  "followers_url": "https://api.github.com/users/harley/followers",
+  "following_url": "https://api.github.com/users/harley/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harley/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harley/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harley/subscriptions",
+  "organizations_url": "https://api.github.com/users/harley/orgs",
+  "repos_url": "https://api.github.com/users/harley/repos",
+  "events_url": "https://api.github.com/users/harley/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harley/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

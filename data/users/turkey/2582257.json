@@ -1,0 +1,20 @@
+{
+  "login": "lexgts",
+  "id": 2582257,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2582257?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lexgts",
+  "html_url": "https://github.com/lexgts",
+  "followers_url": "https://api.github.com/users/lexgts/followers",
+  "following_url": "https://api.github.com/users/lexgts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lexgts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lexgts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lexgts/subscriptions",
+  "organizations_url": "https://api.github.com/users/lexgts/orgs",
+  "repos_url": "https://api.github.com/users/lexgts/repos",
+  "events_url": "https://api.github.com/users/lexgts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lexgts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

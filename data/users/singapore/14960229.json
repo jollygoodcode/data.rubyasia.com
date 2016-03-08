@@ -1,0 +1,20 @@
+{
+  "login": "Priminus",
+  "id": 14960229,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14960229?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Priminus",
+  "html_url": "https://github.com/Priminus",
+  "followers_url": "https://api.github.com/users/Priminus/followers",
+  "following_url": "https://api.github.com/users/Priminus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Priminus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Priminus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Priminus/subscriptions",
+  "organizations_url": "https://api.github.com/users/Priminus/orgs",
+  "repos_url": "https://api.github.com/users/Priminus/repos",
+  "events_url": "https://api.github.com/users/Priminus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Priminus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

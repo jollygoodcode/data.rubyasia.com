@@ -1,0 +1,20 @@
+{
+  "login": "tukan",
+  "id": 33668,
+  "avatar_url": "https://avatars.githubusercontent.com/u/33668?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tukan",
+  "html_url": "https://github.com/tukan",
+  "followers_url": "https://api.github.com/users/tukan/followers",
+  "following_url": "https://api.github.com/users/tukan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tukan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tukan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tukan/subscriptions",
+  "organizations_url": "https://api.github.com/users/tukan/orgs",
+  "repos_url": "https://api.github.com/users/tukan/repos",
+  "events_url": "https://api.github.com/users/tukan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tukan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "booke",
+  "id": 16483577,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16483577?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/booke",
+  "html_url": "https://github.com/booke",
+  "followers_url": "https://api.github.com/users/booke/followers",
+  "following_url": "https://api.github.com/users/booke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/booke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/booke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/booke/subscriptions",
+  "organizations_url": "https://api.github.com/users/booke/orgs",
+  "repos_url": "https://api.github.com/users/booke/repos",
+  "events_url": "https://api.github.com/users/booke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/booke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

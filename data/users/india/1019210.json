@@ -1,0 +1,20 @@
+{
+  "login": "kunwar",
+  "id": 1019210,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1019210?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kunwar",
+  "html_url": "https://github.com/kunwar",
+  "followers_url": "https://api.github.com/users/kunwar/followers",
+  "following_url": "https://api.github.com/users/kunwar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kunwar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kunwar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kunwar/subscriptions",
+  "organizations_url": "https://api.github.com/users/kunwar/orgs",
+  "repos_url": "https://api.github.com/users/kunwar/repos",
+  "events_url": "https://api.github.com/users/kunwar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kunwar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

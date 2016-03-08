@@ -1,0 +1,20 @@
+{
+  "login": "zzak",
+  "id": 277819,
+  "avatar_url": "https://avatars.githubusercontent.com/u/277819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zzak",
+  "html_url": "https://github.com/zzak",
+  "followers_url": "https://api.github.com/users/zzak/followers",
+  "following_url": "https://api.github.com/users/zzak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zzak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zzak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zzak/subscriptions",
+  "organizations_url": "https://api.github.com/users/zzak/orgs",
+  "repos_url": "https://api.github.com/users/zzak/repos",
+  "events_url": "https://api.github.com/users/zzak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zzak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "henryjhg",
+  "id": 4067376,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4067376?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/henryjhg",
+  "html_url": "https://github.com/henryjhg",
+  "followers_url": "https://api.github.com/users/henryjhg/followers",
+  "following_url": "https://api.github.com/users/henryjhg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/henryjhg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/henryjhg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/henryjhg/subscriptions",
+  "organizations_url": "https://api.github.com/users/henryjhg/orgs",
+  "repos_url": "https://api.github.com/users/henryjhg/repos",
+  "events_url": "https://api.github.com/users/henryjhg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/henryjhg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bernaee",
+  "id": 7847694,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7847694?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bernaee",
+  "html_url": "https://github.com/bernaee",
+  "followers_url": "https://api.github.com/users/bernaee/followers",
+  "following_url": "https://api.github.com/users/bernaee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bernaee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bernaee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bernaee/subscriptions",
+  "organizations_url": "https://api.github.com/users/bernaee/orgs",
+  "repos_url": "https://api.github.com/users/bernaee/repos",
+  "events_url": "https://api.github.com/users/bernaee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bernaee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

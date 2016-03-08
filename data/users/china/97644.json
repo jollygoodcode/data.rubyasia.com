@@ -1,0 +1,20 @@
+{
+  "login": "trammel",
+  "id": 97644,
+  "avatar_url": "https://avatars.githubusercontent.com/u/97644?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/trammel",
+  "html_url": "https://github.com/trammel",
+  "followers_url": "https://api.github.com/users/trammel/followers",
+  "following_url": "https://api.github.com/users/trammel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/trammel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/trammel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/trammel/subscriptions",
+  "organizations_url": "https://api.github.com/users/trammel/orgs",
+  "repos_url": "https://api.github.com/users/trammel/repos",
+  "events_url": "https://api.github.com/users/trammel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/trammel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

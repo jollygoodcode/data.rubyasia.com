@@ -1,0 +1,20 @@
+{
+  "login": "novasoft",
+  "id": 1699422,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1699422?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/novasoft",
+  "html_url": "https://github.com/novasoft",
+  "followers_url": "https://api.github.com/users/novasoft/followers",
+  "following_url": "https://api.github.com/users/novasoft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/novasoft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/novasoft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/novasoft/subscriptions",
+  "organizations_url": "https://api.github.com/users/novasoft/orgs",
+  "repos_url": "https://api.github.com/users/novasoft/repos",
+  "events_url": "https://api.github.com/users/novasoft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/novasoft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
