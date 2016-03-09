@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+# Exit cleanly from an early interrupt
+Signal.trap("INT") { abort }
+
+`slimrb index.html.slim -p --trace > index.html`
