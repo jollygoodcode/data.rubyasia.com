@@ -1,0 +1,20 @@
+{
+  "login": "ceocookie",
+  "id": 6264679,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6264679?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ceocookie",
+  "html_url": "https://github.com/ceocookie",
+  "followers_url": "https://api.github.com/users/ceocookie/followers",
+  "following_url": "https://api.github.com/users/ceocookie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ceocookie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ceocookie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ceocookie/subscriptions",
+  "organizations_url": "https://api.github.com/users/ceocookie/orgs",
+  "repos_url": "https://api.github.com/users/ceocookie/repos",
+  "events_url": "https://api.github.com/users/ceocookie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ceocookie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
