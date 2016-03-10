@@ -1,0 +1,20 @@
+{
+  "login": "C-B4",
+  "id": 8802288,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8802288?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/C-B4",
+  "html_url": "https://github.com/C-B4",
+  "followers_url": "https://api.github.com/users/C-B4/followers",
+  "following_url": "https://api.github.com/users/C-B4/following{/other_user}",
+  "gists_url": "https://api.github.com/users/C-B4/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/C-B4/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/C-B4/subscriptions",
+  "organizations_url": "https://api.github.com/users/C-B4/orgs",
+  "repos_url": "https://api.github.com/users/C-B4/repos",
+  "events_url": "https://api.github.com/users/C-B4/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/C-B4/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

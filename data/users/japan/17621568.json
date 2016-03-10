@@ -1,0 +1,20 @@
+{
+  "login": "barraquda",
+  "id": 17621568,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17621568?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/barraquda",
+  "html_url": "https://github.com/barraquda",
+  "followers_url": "https://api.github.com/users/barraquda/followers",
+  "following_url": "https://api.github.com/users/barraquda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/barraquda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/barraquda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/barraquda/subscriptions",
+  "organizations_url": "https://api.github.com/users/barraquda/orgs",
+  "repos_url": "https://api.github.com/users/barraquda/repos",
+  "events_url": "https://api.github.com/users/barraquda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/barraquda/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
