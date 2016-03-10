@@ -30,13 +30,14 @@ class DailyJob
     system("git add index.html")
     system("git commit -m 'Site Update on #{today}'")
 
-    system "git push orgin gh-pages"
+    # Push the branch
+    system("git push origin #{branch_name}")
 
     true
   end
 
   def self.branch_name
-    "update-#{now.strftime("%F-%H%M%S")}"
+    @_branch_name ||= "update-#{now.strftime("%F-%H%M%S")}"
   end
 
   def self.today
