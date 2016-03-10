@@ -1,15 +1,7 @@
 {
-  "generated_at": "2016-03-09 01:36:14 UTC",
+  "generated_at": "2016-03-10 01:52:14 UTC",
   "criteria": "language:Ruby stars:>20 pushed:2016-03-02..2016-03-08",
   "repos": [
-    {
-      "full_name": "amatsuda/kaminari",
-      "description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4",
-      "html_url": "https://github.com/amatsuda/kaminari",
-      "stars": 5613,
-      "language": "Ruby",
-      "region": "Japan"
-    },
     {
       "full_name": "mizzy/serverspec",
       "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
@@ -35,14 +27,6 @@
       "region": "Japan"
     },
     {
-      "full_name": "kmuto/review",
-      "description": "Re:VIEW is flexible document format/conversion system",
-      "html_url": "https://github.com/kmuto/review",
-      "stars": 414,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
       "full_name": "cookpad/rrrspec",
       "description": "Distributed RSpec",
       "html_url": "https://github.com/cookpad/rrrspec",
@@ -54,7 +38,7 @@
       "full_name": "r7kamura/autodoc",
       "description": "Generate documentation from your rack application & request-spec.",
       "html_url": "https://github.com/r7kamura/autodoc",
-      "stars": 257,
+      "stars": 258,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -115,17 +99,17 @@
       "region": "Japan"
     },
     {
-      "full_name": "annict/annict",
-      "description": "Rails 4.2とVue.js 1.0で開発中のアニメ視聴記録サービス「Annict」です。",
-      "html_url": "https://github.com/annict/annict",
-      "stars": 82,
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 83,
       "language": "Ruby",
       "region": "Japan"
     },
     {
-      "full_name": "volanja/ansible_spec",
-      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
-      "html_url": "https://github.com/volanja/ansible_spec",
+      "full_name": "annict/annict",
+      "description": "Rails 4.2とVue.js 1.0で開発中のアニメ視聴記録サービス「Annict」です。",
+      "html_url": "https://github.com/annict/annict",
       "stars": 82,
       "language": "Ruby",
       "region": "Japan"
@@ -163,14 +147,6 @@
       "region": "Japan"
     },
     {
-      "full_name": "kaznum/sanataro",
-      "description": "Simple Web Household Account Book",
-      "html_url": "https://github.com/kaznum/sanataro",
-      "stars": 48,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
       "full_name": "sorah/niconico",
       "description": "wrapper of Mechanize, optimized for nicovideo.",
       "html_url": "https://github.com/sorah/niconico",
@@ -199,14 +175,6 @@
       "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
       "html_url": "https://github.com/sorah/acmesmith",
       "stars": 26,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "great-h/great-h.github.io",
-      "description": "すごい広島",
-      "html_url": "https://github.com/great-h/great-h.github.io",
-      "stars": 24,
       "language": "Ruby",
       "region": "Japan"
     },

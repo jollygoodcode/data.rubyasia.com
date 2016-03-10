@@ -1,20 +1,12 @@
 {
-  "generated_at": "2016-03-09 01:35:38 UTC",
+  "generated_at": "2016-03-10 01:51:55 UTC",
   "criteria": "language:Ruby stars:>20 pushed:2016-03-02..2016-03-08",
   "repos": [
     {
       "full_name": "railsbp/rails_best_practices",
       "description": "a code metric tool for rails projects",
       "html_url": "https://github.com/railsbp/rails_best_practices",
-      "stars": 3023,
-      "language": "Ruby",
-      "region": "China"
-    },
-    {
-      "full_name": "Eric-Guo/wechat",
-      "description": "API, command and message handling for WeChat in Rails",
-      "html_url": "https://github.com/Eric-Guo/wechat",
-      "stars": 612,
+      "stars": 3024,
       "language": "Ruby",
       "region": "China"
     },
@@ -22,7 +14,7 @@
       "full_name": "chloerei/alipay",
       "description": "An unofficial alipay ruby gem",
       "html_url": "https://github.com/chloerei/alipay",
-      "stars": 456,
+      "stars": 457,
       "language": "Ruby",
       "region": "China"
     },
@@ -31,14 +23,6 @@
       "description": "HTML5 Application Assembler",
       "html_url": "https://github.com/SaitoWu/linner",
       "stars": 257,
-      "language": "Ruby",
-      "region": "China"
-    },
-    {
-      "full_name": "FIRHQ/fir-cli",
-      "description": "fir.im command-line interface",
-      "html_url": "https://github.com/FIRHQ/fir-cli",
-      "stars": 199,
       "language": "Ruby",
       "region": "China"
     },
@@ -70,7 +54,7 @@
       "full_name": "goofansu/wechat-starter",
       "description": "Template for developing wechat in rails.",
       "html_url": "https://github.com/goofansu/wechat-starter",
-      "stars": 67,
+      "stars": 68,
       "language": "Ruby",
       "region": "China"
     },
