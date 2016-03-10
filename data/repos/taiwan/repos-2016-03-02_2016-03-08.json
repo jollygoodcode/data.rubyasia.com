@@ -1,28 +1,12 @@
 {
-  "generated_at": "2016-03-09 01:36:58 UTC",
+  "generated_at": "2016-03-10 01:53:03 UTC",
   "criteria": "language:Ruby stars:>20 pushed:2016-03-02..2016-03-08",
   "repos": [
     {
       "full_name": "hothero/awesome-rails-gem",
       "description": "A collection of awesome Ruby Gems for Rails development.",
       "html_url": "https://github.com/hothero/awesome-rails-gem",
-      "stars": 1535,
-      "language": "Ruby",
-      "region": "Taiwan"
-    },
-    {
-      "full_name": "zetachang/react.rb",
-      "description": "Opal Ruby wrapper of React.js library.",
-      "html_url": "https://github.com/zetachang/react.rb",
-      "stars": 492,
-      "language": "Ruby",
-      "region": "Taiwan"
-    },
-    {
-      "full_name": "godfat/jellyfish",
-      "description": "Pico web framework for building API-centric web applications",
-      "html_url": "https://github.com/godfat/jellyfish",
-      "stars": 50,
+      "stars": 1539,
       "language": "Ruby",
       "region": "Taiwan"
     },
@@ -43,18 +27,10 @@
       "region": "Taiwan"
     },
     {
-      "full_name": "godfat/rib",
-      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
-      "html_url": "https://github.com/godfat/rib",
-      "stars": 29,
-      "language": "Ruby",
-      "region": "Taiwan"
-    },
-    {
       "full_name": "godfat/muack",
       "description": "Muack -- Yet Another Mocking Library",
       "html_url": "https://github.com/godfat/muack",
-      "stars": 25,
+      "stars": 26,
       "language": "Ruby",
       "region": "Taiwan"
     },
