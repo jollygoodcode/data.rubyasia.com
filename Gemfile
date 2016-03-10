@@ -6,3 +6,4 @@ gem "slim"
 gem "twemoji"
 gem "http"
 gem "clockwork"
+gem "daemons" # clockworkd
