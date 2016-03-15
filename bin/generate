@@ -11,9 +11,9 @@ period_option = ARGV.index("--period")
 
 abort("Please specify date and period") if [date_option, period_option].any?(&:nil?)
 
-def slimrb(period, date, file: "index.html")
+def slimrb(period, date, file: "index.html", css_path: "css/ruby-asia.css")
   system(
-    %(slimrb index.html.slim --locals '{"period":"#{period}","date":"#{date}"}' -p --trace > #{file})
+    %(slimrb index.html.slim --locals '{"period":"#{period}","date":"#{date}","css_path":"#{css_path}"}' -p --trace > #{file})
   )
 end
 
@@ -33,5 +33,5 @@ if latest_option
 else
   folder = Pathname(File.join("data", period))
   FileUtils.mkdir_p(folder)
-  slimrb(period, date, file: folder.join("index.html"))
+  slimrb(period, date, file: folder.join("index.html"), css_path: "../../css/ruby-asia.css")
 end
