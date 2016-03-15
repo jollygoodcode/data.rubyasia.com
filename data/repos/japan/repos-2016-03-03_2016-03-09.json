@@ -1,0 +1,110 @@
+{
+  "generated_at": "2016-03-15 13:09:59 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-03..2016-03-09",
+  "repos": [
+    {
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 515,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/autodoc",
+      "description": "Generate documentation from your rack application & request-spec.",
+      "html_url": "https://github.com/r7kamura/autodoc",
+      "stars": 259,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/github-ranking",
+      "description": "GitHub star ranking for users, organizations and repositories",
+      "html_url": "https://github.com/k0kubun/github-ranking",
+      "stars": 167,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "willnet/gimei",
+      "description": "random Japanese name and address generator",
+      "html_url": "https://github.com/willnet/gimei",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/rack-json_schema",
+      "description": "JSON Schema based Rack middlewares",
+      "html_url": "https://github.com/r7kamura/rack-json_schema",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/fb_graph2",
+      "description": "",
+      "html_url": "https://github.com/nov/fb_graph2",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/fluent-plugin-record-reformer",
+      "description": "Fluentd plugin to add or replace fields of a event record",
+      "html_url": "https://github.com/sonots/fluent-plugin-record-reformer",
+      "stars": 65,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/garage_client",
+      "description": "Ruby client library for the Garage application API",
+      "html_url": "https://github.com/cookpad/garage_client",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kufu/kiji",
+      "description": "e-Gov API 連携 gem",
+      "html_url": "https://github.com/kufu/kiji",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
