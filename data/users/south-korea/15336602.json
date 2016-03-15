@@ -1,0 +1,20 @@
+{
+  "login": "andrewstone8",
+  "id": 15336602,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15336602?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andrewstone8",
+  "html_url": "https://github.com/andrewstone8",
+  "followers_url": "https://api.github.com/users/andrewstone8/followers",
+  "following_url": "https://api.github.com/users/andrewstone8/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andrewstone8/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andrewstone8/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andrewstone8/subscriptions",
+  "organizations_url": "https://api.github.com/users/andrewstone8/orgs",
+  "repos_url": "https://api.github.com/users/andrewstone8/repos",
+  "events_url": "https://api.github.com/users/andrewstone8/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andrewstone8/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

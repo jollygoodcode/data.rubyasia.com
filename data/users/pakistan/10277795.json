@@ -1,0 +1,20 @@
+{
+  "login": "ali-nawaz",
+  "id": 10277795,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10277795?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ali-nawaz",
+  "html_url": "https://github.com/ali-nawaz",
+  "followers_url": "https://api.github.com/users/ali-nawaz/followers",
+  "following_url": "https://api.github.com/users/ali-nawaz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ali-nawaz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ali-nawaz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ali-nawaz/subscriptions",
+  "organizations_url": "https://api.github.com/users/ali-nawaz/orgs",
+  "repos_url": "https://api.github.com/users/ali-nawaz/repos",
+  "events_url": "https://api.github.com/users/ali-nawaz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ali-nawaz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

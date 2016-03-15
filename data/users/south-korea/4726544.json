@@ -1,0 +1,20 @@
+{
+  "login": "stripeskr",
+  "id": 4726544,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4726544?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stripeskr",
+  "html_url": "https://github.com/stripeskr",
+  "followers_url": "https://api.github.com/users/stripeskr/followers",
+  "following_url": "https://api.github.com/users/stripeskr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stripeskr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stripeskr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stripeskr/subscriptions",
+  "organizations_url": "https://api.github.com/users/stripeskr/orgs",
+  "repos_url": "https://api.github.com/users/stripeskr/repos",
+  "events_url": "https://api.github.com/users/stripeskr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stripeskr/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
