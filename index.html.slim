@@ -1,7 +1,6 @@
-- require_relative "app/existing_date"
-- all_dates = ExistingDate.all; current_index = all_dates.index(period)
-- prev_date = ExistingDate.get_occurred_date_by(all_dates[current_index - 1]) if current_index > 0
-- next_date = ExistingDate.get_occurred_date_by(all_dates[current_index + 1]) if current_index < all_dates.size - 1
+- require_relative "app/paginator"; paginator = Paginator.new(period)
+- prev_path = paginator.prev_path
+- next_path = paginator.next_path
 
 doctype 5
 html lang="en"
@@ -16,12 +15,12 @@ html lang="en"
 
   body
     header.masterhead
-      - if prev_date || next_date
+      - if paginator.has_paginations?
         p.navigation-links
-          - if prev_date
-            a.prev-day href="archived/#{prev_date}/index.html" Previous Day
-          - if next_date
-            a.next-day href="archived/#{next_date}/index.html" Next Day
+          - if prev_path
+            a.prev-day href=prev_path Previous Day
+          - if next_path
+            a.next-day href=next_path Next Day
       h1 Trending Ruby Repositories in Asia
       p.lead Repos in Asia, >= 20 Stars, Updated in the Recent Week
 
