@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-03-15 12:52:13 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-27..2016-03-04",
+  "repos": [
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "polydice/cookbooks",
+      "description": "Our cookbooks collection for AWS OpsWorks.",
+      "html_url": "https://github.com/polydice/cookbooks",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/muack",
+      "description": "Muack -- Yet Another Mocking Library",
+      "html_url": "https://github.com/godfat/muack",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

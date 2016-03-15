@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-03-15 12:52:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-27..2016-03-04",
+  "repos": [
+    {
+      "full_name": "ndbroadbent/capistrano_deploy_lock",
+      "description": "Lock a server during deploy, to prevent people from deploying at the same time.",
+      "html_url": "https://github.com/ndbroadbent/capistrano_deploy_lock",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}
