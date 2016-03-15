@@ -1,0 +1,118 @@
+{
+  "generated_at": "2016-03-15 12:47:50 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-26..2016-03-03",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1565,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "matschaffer/knife-solo",
+      "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
+      "html_url": "https://github.com/matschaffer/knife-solo",
+      "stars": 778,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/rrrspec",
+      "description": "Distributed RSpec",
+      "html_url": "https://github.com/cookpad/rrrspec",
+      "stars": 341,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/autodoc",
+      "description": "Generate documentation from your rack application & request-spec.",
+      "html_url": "https://github.com/r7kamura/autodoc",
+      "stars": 259,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/github-ranking",
+      "description": "GitHub star ranking for users, organizations and repositories",
+      "html_url": "https://github.com/k0kubun/github-ranking",
+      "stars": 167,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_segmenter",
+      "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.",
+      "html_url": "https://github.com/diasks2/pragmatic_segmenter",
+      "stars": 127,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/wakame-vdc",
+      "description": " Datacenter Hypervisor - Open Source Cloud Computing / IaaS",
+      "html_url": "https://github.com/axsh/wakame-vdc",
+      "stars": 103,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kei-s/github-preview",
+      "description": "Instant Preview for GitHub's README formats",
+      "html_url": "https://github.com/kei-s/github-preview",
+      "stars": 102,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/dokumi",
+      "description": "Automatically check if anything is wrong with the code in a pull request",
+      "html_url": "https://github.com/cookpad/dokumi",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/markdiff",
+      "description": "Rendered Markdown differ.",
+      "html_url": "https://github.com/r7kamura/markdiff",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-twitter",
+      "description": "Fluentd Input/Output plugin to process tweets with Twitter Streaming API.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-twitter",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "katsyoshi/mikutter",
+      "description": "\"my\" mikutter mirror. please check official repository. this repository does not apply pr.",
+      "html_url": "https://github.com/katsyoshi/mikutter",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "repeatedly/fluent-plugin-record-modifier",
+      "description": "Fluentd filter plugin for modifying each event record",
+      "html_url": "https://github.com/repeatedly/fluent-plugin-record-modifier",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
