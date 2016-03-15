@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-03-15 13:15:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-06..2016-03-12",
+  "repos": [
+    {
+      "full_name": "asanghi/fiscali",
+      "description": "Fiscal Year Date Functions",
+      "html_url": "https://github.com/asanghi/fiscali",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

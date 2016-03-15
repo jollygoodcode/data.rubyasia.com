@@ -1,20 +1,12 @@
 {
-  "generated_at": "2016-03-15 13:00:58 UTC",
-  "criteria": "language:Ruby stars:>20 pushed:2016-03-01..2016-03-07",
+  "generated_at": "2016-03-15 13:09:59 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-03..2016-03-09",
   "repos": [
     {
-      "full_name": "matschaffer/knife-solo",
-      "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
-      "html_url": "https://github.com/matschaffer/knife-solo",
-      "stars": 778,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "cookpad/rrrspec",
-      "description": "Distributed RSpec",
-      "html_url": "https://github.com/cookpad/rrrspec",
-      "stars": 341,
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 515,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -43,34 +35,10 @@
       "region": "Japan"
     },
     {
-      "full_name": "diasks2/pragmatic_segmenter",
-      "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.",
-      "html_url": "https://github.com/diasks2/pragmatic_segmenter",
-      "stars": 127,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "axsh/wakame-vdc",
-      "description": " Datacenter Hypervisor - Open Source Cloud Computing / IaaS",
-      "html_url": "https://github.com/axsh/wakame-vdc",
-      "stars": 103,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
       "full_name": "r7kamura/rack-json_schema",
       "description": "JSON Schema based Rack middlewares",
       "html_url": "https://github.com/r7kamura/rack-json_schema",
       "stars": 98,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "cookpad/dokumi",
-      "description": "Automatically check if anything is wrong with the code in a pull request",
-      "html_url": "https://github.com/cookpad/dokumi",
-      "stars": 87,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -83,6 +51,14 @@
       "region": "Japan"
     },
     {
+      "full_name": "sonots/fluent-plugin-record-reformer",
+      "description": "Fluentd plugin to add or replace fields of a event record",
+      "html_url": "https://github.com/sonots/fluent-plugin-record-reformer",
+      "stars": 65,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
       "full_name": "next-l/enju_leaf",
       "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
       "html_url": "https://github.com/next-l/enju_leaf",
@@ -91,10 +67,18 @@
       "region": "Japan"
     },
     {
-      "full_name": "y-ken/fluent-plugin-twitter",
-      "description": "Fluentd Input/Output plugin to process tweets with Twitter Streaming API.",
-      "html_url": "https://github.com/y-ken/fluent-plugin-twitter",
+      "full_name": "cookpad/garage_client",
+      "description": "Ruby client library for the Garage application API",
+      "html_url": "https://github.com/cookpad/garage_client",
       "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 33,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -103,6 +87,22 @@
       "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
       "html_url": "https://github.com/sorah/acmesmith",
       "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kufu/kiji",
+      "description": "e-Gov API 連携 gem",
+      "html_url": "https://github.com/kufu/kiji",
+      "stars": 21,
       "language": "Ruby",
       "region": "Japan"
     }

@@ -10,11 +10,12 @@ class Repo
   include Normalizer
   include OctokitExtension
 
-  def initialize(raw_region)
+  def initialize(raw_region, period)
     @raw_region = raw_region
     @available_regions = IO.readlines(ROOT.join("regions")).map(&:chomp)
     @normalized_regions = available_regions.map { |region| normalize(region) }
     @regions = determine_by_user_specified_region(normalize(raw_region))
+    @period = period
   end
 
   def fetch_repositories
@@ -59,7 +60,7 @@ class Repo
     private_constant :DATA_REPOS_FOLDER
     private_constant :SLICE_NUMBER
 
-    attr_reader :raw_region, :available_regions, :normalized_regions, :regions
+    attr_reader :raw_region, :available_regions, :normalized_regions, :regions, :period
 
     def determine_by_user_specified_region(user_specified_region)
       if user_specified_region == "all".freeze
@@ -94,10 +95,6 @@ class Repo
       Dir[
         ROOT.join(DATA_USERS_FOLDER, region, "*.json".freeze).to_s
       ].map { |user_json| %(user:#{JSON.parse(IO.read(user_json))["login"]}) }
-    end
-
-    def period
-      %(#{Date.today.prev_day(7).strftime}..#{Date.today.prev_day.strftime})
     end
 
     def criteria

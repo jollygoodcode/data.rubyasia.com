@@ -1,7 +1,15 @@
 {
-  "generated_at": "2016-03-15 13:00:58 UTC",
-  "criteria": "language:Ruby stars:>20 pushed:2016-03-01..2016-03-07",
+  "generated_at": "2016-03-15 12:55:03 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-28..2016-03-05",
   "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1565,
+      "language": "Ruby",
+      "region": "Japan"
+    },
     {
       "full_name": "matschaffer/knife-solo",
       "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
@@ -59,6 +67,14 @@
       "region": "Japan"
     },
     {
+      "full_name": "kei-s/github-preview",
+      "description": "Instant Preview for GitHub's README formats",
+      "html_url": "https://github.com/kei-s/github-preview",
+      "stars": 102,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
       "full_name": "r7kamura/rack-json_schema",
       "description": "JSON Schema based Rack middlewares",
       "html_url": "https://github.com/r7kamura/rack-json_schema",
@@ -75,18 +91,18 @@
       "region": "Japan"
     },
     {
-      "full_name": "nov/fb_graph2",
-      "description": "",
-      "html_url": "https://github.com/nov/fb_graph2",
-      "stars": 66,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
       "full_name": "next-l/enju_leaf",
       "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
       "html_url": "https://github.com/next-l/enju_leaf",
       "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/markdiff",
+      "description": "Rendered Markdown differ.",
+      "html_url": "https://github.com/r7kamura/markdiff",
+      "stars": 48,
       "language": "Ruby",
       "region": "Japan"
     },

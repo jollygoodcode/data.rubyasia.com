@@ -1,6 +1,6 @@
 {
-  "generated_at": "2016-03-15 13:00:13 UTC",
-  "criteria": "language:Ruby stars:>20 pushed:2016-03-01..2016-03-07",
+  "generated_at": "2016-03-15 13:11:57 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-05..2016-03-11",
   "repos": [
     {
       "full_name": "railsbp/rails_best_practices",
@@ -19,10 +19,42 @@
       "region": "China"
     },
     {
+      "full_name": "SaitoWu/linner",
+      "description": "HTML5 Application Assembler",
+      "html_url": "https://github.com/SaitoWu/linner",
+      "stars": 257,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
       "full_name": "saberma/china_city",
       "description": "省市区街道四级联选择 Rails Engine Gem",
       "html_url": "https://github.com/saberma/china_city",
       "stars": 216,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 207,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "pragmaticly/railscasts-china",
+      "description": "The new railscasts-china site.",
+      "html_url": "https://github.com/pragmaticly/railscasts-china",
+      "stars": 148,
       "language": "Ruby",
       "region": "China"
     },
@@ -47,14 +79,6 @@
       "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
       "html_url": "https://github.com/Eric-Guo/weui-rails",
       "stars": 59,
-      "language": "Ruby",
-      "region": "China"
-    },
-    {
-      "full_name": "wongyouth/chinacity",
-      "description": "Get the latest China cities data from official site.",
-      "html_url": "https://github.com/wongyouth/chinacity",
-      "stars": 24,
       "language": "Ruby",
       "region": "China"
     }
