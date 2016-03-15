@@ -3,24 +3,10 @@
 # Exit cleanly from an early interrupt
 Signal.trap("INT") { abort }
 
-require "date"
-
-def end_date(period)
-  period.split("_".freeze).last
-end
-
-periods = Dir["data/repos/**/*.json"].map do |path|
-  path.match(/2016-\d{2}-\d{2}_2016-\d{2}-\d{2}/).to_s
-end.uniq.sort_by do |period|
-  end_date(period)
-end
-
-def parse_period(period)
-  Date.parse(end_date(period)).next_day.to_s
-end
+periods = ExistingDate.all
 
 periods.each do |period|
-  date = parse_period(period)
+  date = ExistingDate.get_occurred_date_by(period)
   latest = (periods.index(period) == periods.size - 1)
   system("generate --period #{period} --date #{date} --latest #{latest}")
 end
