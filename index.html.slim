@@ -1,7 +1,7 @@
 - require_relative "app/existing_date"
 - all_dates = ExistingDate.all; current_index = all_dates.index(period)
-- prev_date = all_dates[current_index - 1] if current_index > 0
-- next_date = all_dates[current_index + 1] if current_index < all_dates.size - 1
+- prev_date = ExistingDate.get_occurred_date_by(all_dates[current_index - 1]) if current_index > 0
+- next_date = ExistingDate.get_occurred_date_by(all_dates[current_index + 1]) if current_index < all_dates.size - 1
 
 doctype 5
 html lang="en"
@@ -19,9 +19,9 @@ html lang="en"
       - if prev_date || next_date
         p.navigation-links
           - if prev_date
-            a.prev-day href="archived/#{prev_date}"
+            a.prev-day href="archived/#{prev_date}/index.html" Previous Day
           - if next_date
-            a.next-day href="archived/#{next_date}"
+            a.next-day href="archived/#{next_date}/index.html" Next Day
       h1 Trending Ruby Repositories in Asia
       p.lead Repos in Asia, >= 20 Stars, Updated in the Recent Week
 

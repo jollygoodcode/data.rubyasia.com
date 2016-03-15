@@ -3,6 +3,8 @@
 # Exit cleanly from an early interrupt
 Signal.trap("INT") { abort }
 
+require_relative "../app/existing_date"
+
 periods = ExistingDate.all
 
 periods.each do |period|
