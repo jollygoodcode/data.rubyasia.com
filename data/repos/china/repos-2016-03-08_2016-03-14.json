@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-03-15 05:40:24 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-08..2016-03-14",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 621,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "SaitoWu/linner",
+      "description": "HTML5 Application Assembler",
+      "html_url": "https://github.com/SaitoWu/linner",
+      "stars": 257,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 206,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "pragmaticly/railscasts-china",
+      "description": "The new railscasts-china site.",
+      "html_url": "https://github.com/pragmaticly/railscasts-china",
+      "stars": 148,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

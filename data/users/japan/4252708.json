@@ -1,0 +1,20 @@
+{
+  "login": "10yama",
+  "id": 4252708,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4252708?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/10yama",
+  "html_url": "https://github.com/10yama",
+  "followers_url": "https://api.github.com/users/10yama/followers",
+  "following_url": "https://api.github.com/users/10yama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/10yama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/10yama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/10yama/subscriptions",
+  "organizations_url": "https://api.github.com/users/10yama/orgs",
+  "repos_url": "https://api.github.com/users/10yama/repos",
+  "events_url": "https://api.github.com/users/10yama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/10yama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

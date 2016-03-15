@@ -1,0 +1,20 @@
+{
+  "login": "zhangzma",
+  "id": 4221361,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4221361?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhangzma",
+  "html_url": "https://github.com/zhangzma",
+  "followers_url": "https://api.github.com/users/zhangzma/followers",
+  "following_url": "https://api.github.com/users/zhangzma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhangzma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhangzma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhangzma/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhangzma/orgs",
+  "repos_url": "https://api.github.com/users/zhangzma/repos",
+  "events_url": "https://api.github.com/users/zhangzma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhangzma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

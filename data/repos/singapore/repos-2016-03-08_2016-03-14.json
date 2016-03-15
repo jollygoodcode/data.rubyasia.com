@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-03-15 05:41:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-08..2016-03-14",
+  "repos": [
+    {
+      "full_name": "neo/ruby_koans",
+      "description": "A set of Koans to teach the Ruby language",
+      "html_url": "https://github.com/neo/ruby_koans",
+      "stars": 2505,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/dasherize",
+      "description": ":computer: Dasherize your projects",
+      "html_url": "https://github.com/jollygoodcode/dasherize",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

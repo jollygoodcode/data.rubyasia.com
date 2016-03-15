@@ -1,0 +1,20 @@
+{
+  "login": "MAJNETWORK",
+  "id": 15315424,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15315424?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MAJNETWORK",
+  "html_url": "https://github.com/MAJNETWORK",
+  "followers_url": "https://api.github.com/users/MAJNETWORK/followers",
+  "following_url": "https://api.github.com/users/MAJNETWORK/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MAJNETWORK/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MAJNETWORK/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MAJNETWORK/subscriptions",
+  "organizations_url": "https://api.github.com/users/MAJNETWORK/orgs",
+  "repos_url": "https://api.github.com/users/MAJNETWORK/repos",
+  "events_url": "https://api.github.com/users/MAJNETWORK/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MAJNETWORK/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

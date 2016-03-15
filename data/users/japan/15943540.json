@@ -1,0 +1,20 @@
+{
+  "login": "87guy",
+  "id": 15943540,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15943540?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/87guy",
+  "html_url": "https://github.com/87guy",
+  "followers_url": "https://api.github.com/users/87guy/followers",
+  "following_url": "https://api.github.com/users/87guy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/87guy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/87guy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/87guy/subscriptions",
+  "organizations_url": "https://api.github.com/users/87guy/orgs",
+  "repos_url": "https://api.github.com/users/87guy/repos",
+  "events_url": "https://api.github.com/users/87guy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/87guy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
