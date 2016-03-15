@@ -1,8 +1,6 @@
 require_relative "existing_date"
 
 class Paginator
-  SITE_ROOT = "data.rubyasia.com".freeze
-
   def initialize(period)
     @period = period
   end
@@ -14,14 +12,14 @@ class Paginator
   def prev_path
     return unless prev_date
 
-    File.join(SITE_ROOT, "archived", prev_date, "index.html")
+    File.join("", "archived", prev_date, "index.html")
   end
 
   def next_path
-    return File.join(SITE_ROOT, "index.html") if current_index == all_dates.size - 2
+    return "/index.html" if current_index == all_dates.size - 2
     return unless next_date
 
-    File.join(SITE_ROOT, "archived", next_date, "index.html")
+    File.join("", "archived", next_date, "index.html")
   end
 
   private
