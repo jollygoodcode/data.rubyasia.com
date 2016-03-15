@@ -3,4 +3,4 @@
 # Exit cleanly from an early interrupt
 Signal.trap("INT") { abort }
 
-system("clockworkd restart -c config/clockwork.rb --pid-dir tmp/pids")
+system("clockworkd restart -l -c config/clockwork.rb --pid-dir tmp/pids")
