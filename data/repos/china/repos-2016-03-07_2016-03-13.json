@@ -1,0 +1,86 @@
+{
+  "generated_at": "2016-03-15 13:17:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-07..2016-03-13",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3027,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "An unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 462,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "SaitoWu/linner",
+      "description": "HTML5 Application Assembler",
+      "html_url": "https://github.com/SaitoWu/linner",
+      "stars": 257,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "saberma/china_city",
+      "description": "省市区街道四级联选择 Rails Engine Gem",
+      "html_url": "https://github.com/saberma/china_city",
+      "stars": 216,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 207,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "pragmaticly/railscasts-china",
+      "description": "The new railscasts-china site.",
+      "html_url": "https://github.com/pragmaticly/railscasts-china",
+      "stars": 148,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/carrierwave-aliyun",
+      "description": "阿里云 OSS Ruby 上传组件，基于 Carrierwave",
+      "html_url": "https://github.com/huacnlee/carrierwave-aliyun",
+      "stars": 111,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 69,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

@@ -3,4 +3,35 @@
 # Exit cleanly from an early interrupt
 Signal.trap("INT") { abort }
 
-`slimrb index.html.slim -p --trace > index.html`
+require "fileutils"
+require "pathname"
+
+date_option = ARGV.index("--date")
+period_option = ARGV.index("--period")
+
+abort("Please specify date and period") if [date_option, period_option].any?(&:nil?)
+
+def slimrb(period, date, file: "index.html", css_path: "css/ruby-asia.css")
+  system(
+    %(slimrb index.html.slim --locals '{"period":"#{period}","date":"#{date}","css_path":"#{css_path}"}' -p --trace > #{file})
+  )
+end
+
+latest_option = begin
+  if ARGV[ARGV.index("--latest") + 1] == "false"
+    false
+  else
+    true
+  end
+end
+
+date = ARGV[date_option + 1]
+period = ARGV[period_option + 1]
+
+if latest_option
+  slimrb(period, date)
+else
+  folder = Pathname(File.join("archived", date))
+  FileUtils.mkdir_p(folder)
+  slimrb(period, date, file: folder.join("index.html"), css_path: "../../css/ruby-asia.css")
+end

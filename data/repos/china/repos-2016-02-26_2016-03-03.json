@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-03-15 12:47:05 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-02-26..2016-03-03",
+  "repos": [
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "wongyouth/chinacity",
+      "description": "Get the latest China cities data from official site.",
+      "html_url": "https://github.com/wongyouth/chinacity",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
