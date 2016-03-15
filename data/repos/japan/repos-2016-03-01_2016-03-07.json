@@ -1,52 +1,12 @@
 {
-  "generated_at": "2016-03-08 06:26:55 UTC",
+  "generated_at": "2016-03-15 13:00:58 UTC",
   "criteria": "language:Ruby stars:>20 pushed:2016-03-01..2016-03-07",
   "repos": [
-    {
-      "full_name": "amatsuda/kaminari",
-      "description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4",
-      "html_url": "https://github.com/amatsuda/kaminari",
-      "stars": 5613,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "mizzy/serverspec",
-      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
-      "html_url": "https://github.com/mizzy/serverspec",
-      "stars": 1462,
-      "language": "Ruby",
-      "region": "Japan"
-    },
     {
       "full_name": "matschaffer/knife-solo",
       "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
       "html_url": "https://github.com/matschaffer/knife-solo",
       "stars": 778,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "amatsuda/active_decorator",
-      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3 and Rails 4",
-      "html_url": "https://github.com/amatsuda/active_decorator",
-      "stars": 506,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "kmuto/review",
-      "description": "Re:VIEW is flexible document format/conversion system",
-      "html_url": "https://github.com/kmuto/review",
-      "stars": 414,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "dtan4/terraforming",
-      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
-      "html_url": "https://github.com/dtan4/terraforming",
-      "stars": 391,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -62,15 +22,7 @@
       "full_name": "r7kamura/autodoc",
       "description": "Generate documentation from your rack application & request-spec.",
       "html_url": "https://github.com/r7kamura/autodoc",
-      "stars": 257,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "mizzy/specinfra",
-      "description": "Command Execution Framework for serverspec, itamae and so on",
-      "html_url": "https://github.com/mizzy/specinfra",
-      "stars": 191,
+      "stars": 259,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -78,7 +30,7 @@
       "full_name": "k0kubun/github-ranking",
       "description": "GitHub star ranking for users, organizations and repositories",
       "html_url": "https://github.com/k0kubun/github-ranking",
-      "stars": 162,
+      "stars": 167,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -110,15 +62,7 @@
       "full_name": "r7kamura/rack-json_schema",
       "description": "JSON Schema based Rack middlewares",
       "html_url": "https://github.com/r7kamura/rack-json_schema",
-      "stars": 99,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "higanworks/knife-zero",
-      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
-      "html_url": "https://github.com/higanworks/knife-zero",
-      "stars": 89,
+      "stars": 98,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -131,50 +75,10 @@
       "region": "Japan"
     },
     {
-      "full_name": "annict/annict",
-      "description": "Rails 4.2とVue.js 1.0で開発中のアニメ視聴記録サービス「Annict」です。",
-      "html_url": "https://github.com/annict/annict",
-      "stars": 82,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "volanja/ansible_spec",
-      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
-      "html_url": "https://github.com/volanja/ansible_spec",
-      "stars": 82,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "sonots/fluent-plugin-record-reformer",
-      "description": "Fluentd plugin to add or replace fields of a event record",
-      "html_url": "https://github.com/sonots/fluent-plugin-record-reformer",
-      "stars": 65,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "whiteleaf7/narou",
-      "description": "Narou.rb ― 「小説家になろう」「ハーメルン」等の小説を管理するアプリケーション",
-      "html_url": "https://github.com/whiteleaf7/narou",
-      "stars": 64,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "cxn03651/write_xlsx",
-      "description": "Rubygem for create excel xlsx file",
-      "html_url": "https://github.com/cxn03651/write_xlsx",
-      "stars": 60,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "Tomohiro/fluentular",
-      "description": ":memo: Fluentular is a Fluentd regular expression editor",
-      "html_url": "https://github.com/Tomohiro/fluentular",
-      "stars": 52,
+      "full_name": "nov/fb_graph2",
+      "description": "",
+      "html_url": "https://github.com/nov/fb_graph2",
+      "stars": 66,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -183,14 +87,6 @@
       "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
       "html_url": "https://github.com/next-l/enju_leaf",
       "stars": 49,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "kaznum/sanataro",
-      "description": "Simple Web Household Account Book",
-      "html_url": "https://github.com/kaznum/sanataro",
-      "stars": 48,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -207,22 +103,6 @@
       "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
       "html_url": "https://github.com/sorah/acmesmith",
       "stars": 26,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "great-h/great-h.github.io",
-      "description": "すごい広島",
-      "html_url": "https://github.com/great-h/great-h.github.io",
-      "stars": 24,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "yyuu/hotdog",
-      "description": "Yet another command-line tool for Datadog",
-      "html_url": "https://github.com/yyuu/hotdog",
-      "stars": 22,
       "language": "Ruby",
       "region": "Japan"
     }
