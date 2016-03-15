@@ -1,0 +1,150 @@
+{
+  "generated_at": "2016-03-15 13:03:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-04..2016-03-10",
+  "repos": [
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1473,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 515,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mischa78/boxroom",
+      "description": "Boxroom is a Rails application that aims to be a simple interface for managing and sharing files in a web browser. It lets users create folders and upload, download and share files. Admins can manage users, groups and permissions.",
+      "html_url": "https://github.com/mischa78/boxroom",
+      "stars": 273,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 193,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "willnet/gimei",
+      "description": "random Japanese name and address generator",
+      "html_url": "https://github.com/willnet/gimei",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 123,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/rack-json_schema",
+      "description": "JSON Schema based Rack middlewares",
+      "html_url": "https://github.com/r7kamura/rack-json_schema",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/fb_graph2",
+      "description": "",
+      "html_url": "https://github.com/nov/fb_graph2",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/fluent-plugin-record-reformer",
+      "description": "Fluentd plugin to add or replace fields of a event record",
+      "html_url": "https://github.com/sonots/fluent-plugin-record-reformer",
+      "stars": 65,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/garage_client",
+      "description": "Ruby client library for the Garage application API",
+      "html_url": "https://github.com/cookpad/garage_client",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/fluent-plugin-cloudwatch-logs",
+      "description": "CloudWatch Logs Plugin for Fluentd",
+      "html_url": "https://github.com/ryotarai/fluent-plugin-cloudwatch-logs",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "knu/ruby-domain_name",
+      "description": "Domain Name manipulation library for Ruby",
+      "html_url": "https://github.com/knu/ruby-domain_name",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "gongo/turnip_formatter",
+      "description": "A pretty formatter for Turnip",
+      "html_url": "https://github.com/gongo/turnip_formatter",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kufu/kiji",
+      "description": "e-Gov API 連携 gem",
+      "html_url": "https://github.com/kufu/kiji",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
