@@ -31,7 +31,7 @@ period = ARGV[period_option + 1]
 if latest_option
   slimrb(period, date)
 else
-  folder = Pathname(File.join("data", period))
+  folder = Pathname(File.join("archived", period))
   FileUtils.mkdir_p(folder)
   slimrb(period, date, file: folder.join("index.html"), css_path: "../../css/ruby-asia.css")
 end
