@@ -19,10 +19,10 @@ html lang="en"
         .col.col-offset-4
           .page-title
             h2 Top Starred Repositories
-            p.lead The most starred repos in Asia for the week of #{Time.now.strftime("%B %d, %Y")}
+            p.lead The most starred repos in Asia for the week of #{Date.parse(date).strftime("%B %d, %Y")}
 
           ol.repos
-            - require_relative "app/view"; view = View.new; view.repos.each do |repo|
+            - require_relative "app/view"; view = View.new(period); view.repos.each do |repo|
               li.repo
                 p.meta-info
                   span.stars
