@@ -1,3 +1,7 @@
+- require_relative "app/paginator"; paginator = Paginator.new(period)
+- prev_path = paginator.prev_path
+- next_path = paginator.next_path
+
 doctype 5
 html lang="en"
   head
@@ -11,6 +15,12 @@ html lang="en"
 
   body
     header.masterhead
+      - if paginator.has_paginations?
+        p.navigation-links
+          - if prev_path
+            a.prev-day href=prev_path Previous Day
+          - if next_path
+            a.next-day href=next_path Next Day
       h1 Trending Ruby Repositories in Asia
       p.lead Repos in Asia, >= 20 Stars, Updated in the Recent Week
 

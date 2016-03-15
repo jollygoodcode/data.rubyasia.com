@@ -82,6 +82,22 @@ ol {
   margin-bottom: .25rem;
 }
 
+.masterhead .navigation-links a {
+  color: #fff;
+  position: absolute;
+  font-size: 12px;
+}
+
+.masterhead .prev-day {
+  top: 20px;
+  left: 20px;
+}
+
+.masterhead .next-day {
+  top: 20px;
+  right: 20px;
+}
+
 .section {
   border-bottom: 1px solid #dfe1e8;
 }
