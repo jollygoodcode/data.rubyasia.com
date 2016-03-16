@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-03-16 20:13:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-10..2016-03-16",
+  "repos": [
+    {
+      "full_name": "buttercloud/stripe_tester",
+      "description": "Test Stripe webhooks locally.",
+      "html_url": "https://github.com/buttercloud/stripe_tester",
+      "stars": 113,
+      "language": "Ruby",
+      "region": "Jordan"
+    }
+  ]
+}
