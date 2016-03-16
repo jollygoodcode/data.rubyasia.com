@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-03-16 20:17:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-09..2016-03-15",
+  "repos": [
+    {
+      "full_name": "choonkeat/attache",
+      "description": "Yet another approach to file upload",
+      "html_url": "https://github.com/choonkeat/attache",
+      "stars": 122,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/dasherize",
+      "description": ":computer: Dasherize your projects",
+      "html_url": "https://github.com/jollygoodcode/dasherize",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
