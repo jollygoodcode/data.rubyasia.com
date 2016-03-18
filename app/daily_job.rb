@@ -1,37 +1,42 @@
 class DailyJob
+  PROJECT_ROOT = File.expand_path("../..", __FILE__)
+
   def self.perform_now
-    # fetch new changes
-    system("git pull origin gh-pages")
+    Dir.chdir(PROJECT_ROOT) do
+      # fetch new changes
+      system("git pull origin gh-pages")
 
-    # run setup
-    system("bin/setup")
+      # run setup
+      system("bin/setup")
 
-    # new branch
-    system("git checkout -b #{branch_name}")
+      # new branch
+      system("git checkout -b #{branch_name}")
 
-    # update data/developers
-    system("rake fetch_developers[all]")
+      # update data/developers
+      system("bundle exec rake fetch_developers[all]")
 
-    # update data/repos
-    system("rake fetch_repos[all]")
+      # update data/repos
+      system("bundle exec rake fetch_repos[all]")
 
-    # regenerate index.html
-    system("bin/generate")
+      # regenerate index.html & archived/*.html
+      system("bin/generate_all")
 
-    # commit developers
-    system("git add data/users")
-    system("git commit -m 'Users Update on #{today}'")
+      # commit fetch_developers
+      system("git add data/users")
+      system("git commit -m 'Users Update on #{today}'")
 
-    # commit repos
-    system("git add data/repos")
-    system("git commit -m 'Repos Update on #{today}'")
+      # commit repos
+      system("git add data/repos")
+      system("git commit -m 'Repos Update on #{today}'")
 
-    # commit html
-    system("git add index.html")
-    system("git commit -m 'Site Update on #{today}'")
+      # commit HTMLs
+      system("git add index.html")
+      system("git add archived/*.html")
+      system("git commit -m 'Site Update on #{today}'")
 
-    # Push the branch
-    system("git push origin #{branch_name}")
+      # Push the branch
+      system("git push origin #{branch_name}")
+    end
 
     true
   end
