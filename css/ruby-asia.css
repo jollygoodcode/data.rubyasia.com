@@ -64,9 +64,27 @@ ol {
   font-size: 1.3rem;
 }
 
+.promote {
+  font-size: 1rem;
+}
+
+.promote a {
+  color: rgba(255,255,255,.5);
+  text-decoration: underline;
+}
+
+.promote a:hover {
+  color: white;
+  text-decoration: none;
+}
+
 @media (max-width: 38em) {
   p.lead {
     font-size: 0.9rem;
+  }
+
+  p.promote {
+    font-size: 0.7rem;
   }
 }
 
