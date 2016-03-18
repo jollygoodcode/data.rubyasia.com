@@ -1,0 +1,20 @@
+{
+  "login": "hackweiser",
+  "id": 14842656,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14842656?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hackweiser",
+  "html_url": "https://github.com/hackweiser",
+  "followers_url": "https://api.github.com/users/hackweiser/followers",
+  "following_url": "https://api.github.com/users/hackweiser/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hackweiser/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hackweiser/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hackweiser/subscriptions",
+  "organizations_url": "https://api.github.com/users/hackweiser/orgs",
+  "repos_url": "https://api.github.com/users/hackweiser/repos",
+  "events_url": "https://api.github.com/users/hackweiser/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hackweiser/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

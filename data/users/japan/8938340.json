@@ -1,0 +1,20 @@
+{
+  "login": "gitobi",
+  "id": 8938340,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8938340?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gitobi",
+  "html_url": "https://github.com/gitobi",
+  "followers_url": "https://api.github.com/users/gitobi/followers",
+  "following_url": "https://api.github.com/users/gitobi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gitobi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gitobi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gitobi/subscriptions",
+  "organizations_url": "https://api.github.com/users/gitobi/orgs",
+  "repos_url": "https://api.github.com/users/gitobi/repos",
+  "events_url": "https://api.github.com/users/gitobi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gitobi/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

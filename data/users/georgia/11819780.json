@@ -1,0 +1,20 @@
+{
+  "login": "bekamai",
+  "id": 11819780,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11819780?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bekamai",
+  "html_url": "https://github.com/bekamai",
+  "followers_url": "https://api.github.com/users/bekamai/followers",
+  "following_url": "https://api.github.com/users/bekamai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bekamai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bekamai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bekamai/subscriptions",
+  "organizations_url": "https://api.github.com/users/bekamai/orgs",
+  "repos_url": "https://api.github.com/users/bekamai/repos",
+  "events_url": "https://api.github.com/users/bekamai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bekamai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

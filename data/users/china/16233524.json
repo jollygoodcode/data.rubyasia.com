@@ -1,0 +1,20 @@
+{
+  "login": "PeterHouCN",
+  "id": 16233524,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16233524?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PeterHouCN",
+  "html_url": "https://github.com/PeterHouCN",
+  "followers_url": "https://api.github.com/users/PeterHouCN/followers",
+  "following_url": "https://api.github.com/users/PeterHouCN/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PeterHouCN/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PeterHouCN/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PeterHouCN/subscriptions",
+  "organizations_url": "https://api.github.com/users/PeterHouCN/orgs",
+  "repos_url": "https://api.github.com/users/PeterHouCN/repos",
+  "events_url": "https://api.github.com/users/PeterHouCN/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PeterHouCN/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
