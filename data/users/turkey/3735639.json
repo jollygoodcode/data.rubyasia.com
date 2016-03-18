@@ -1,0 +1,20 @@
+{
+  "login": "mecitsem",
+  "id": 3735639,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3735639?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mecitsem",
+  "html_url": "https://github.com/mecitsem",
+  "followers_url": "https://api.github.com/users/mecitsem/followers",
+  "following_url": "https://api.github.com/users/mecitsem/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mecitsem/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mecitsem/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mecitsem/subscriptions",
+  "organizations_url": "https://api.github.com/users/mecitsem/orgs",
+  "repos_url": "https://api.github.com/users/mecitsem/repos",
+  "events_url": "https://api.github.com/users/mecitsem/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mecitsem/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
