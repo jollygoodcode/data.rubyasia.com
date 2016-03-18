@@ -1,12 +1,12 @@
 {
-  "generated_at": "2016-03-18 03:46:10 UTC",
+  "generated_at": "2016-03-18 17:10:36 UTC",
   "criteria": "language:Ruby stars:>20 pushed:2016-03-11..2016-03-17",
   "repos": [
     {
       "full_name": "amatsuda/kaminari",
       "description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4",
       "html_url": "https://github.com/amatsuda/kaminari",
-      "stars": 5637,
+      "stars": 5639,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -14,7 +14,7 @@
       "full_name": "gimite/google-drive-ruby",
       "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
       "html_url": "https://github.com/gimite/google-drive-ruby",
-      "stars": 956,
+      "stars": 958,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -22,7 +22,7 @@
       "full_name": "amatsuda/active_decorator",
       "description": "ORM agnostic truly Object-Oriented view helper for Rails 3 and Rails 4",
       "html_url": "https://github.com/amatsuda/active_decorator",
-      "stars": 507,
+      "stars": 508,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -38,7 +38,7 @@
       "full_name": "kmuto/review",
       "description": "Re:VIEW is flexible document format/conversion system",
       "html_url": "https://github.com/kmuto/review",
-      "stars": 417,
+      "stars": 418,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -54,7 +54,7 @@
       "full_name": "k0kubun/hamlit",
       "description": "High Performance Haml Implementation",
       "html_url": "https://github.com/k0kubun/hamlit",
-      "stars": 383,
+      "stars": 384,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -63,14 +63,6 @@
       "description": "Command Execution Framework for serverspec, itamae and so on",
       "html_url": "https://github.com/mizzy/specinfra",
       "stars": 195,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "amatsuda/stateful_enum",
-      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
-      "html_url": "https://github.com/amatsuda/stateful_enum",
-      "stars": 128,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -99,18 +91,18 @@
       "region": "Japan"
     },
     {
-      "full_name": "higanworks/knife-zero",
-      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
-      "html_url": "https://github.com/higanworks/knife-zero",
+      "full_name": "codefirst/AsakusaSatellite",
+      "description": "a realtime chat application for developers",
+      "html_url": "https://github.com/codefirst/AsakusaSatellite",
       "stars": 91,
       "language": "Ruby",
       "region": "Japan"
     },
     {
-      "full_name": "codefirst/AsakusaSatellite",
-      "description": "a realtime chat application for developers",
-      "html_url": "https://github.com/codefirst/AsakusaSatellite",
-      "stars": 90,
+      "full_name": "higanworks/knife-zero",
+      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
+      "html_url": "https://github.com/higanworks/knife-zero",
+      "stars": 91,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -143,14 +135,6 @@
       "description": "EPUB Parser.",
       "html_url": "https://github.com/KitaitiMakoto/epub-parser",
       "stars": 59,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
-      "full_name": "Tomohiro/fluentular",
-      "description": ":memo: Fluentular is a Fluentd regular expression editor",
-      "html_url": "https://github.com/Tomohiro/fluentular",
-      "stars": 52,
       "language": "Ruby",
       "region": "Japan"
     },
@@ -195,17 +179,17 @@
       "region": "Japan"
     },
     {
-      "full_name": "nkpoid/nkroid",
-      "description": "twitter bot @nkroid",
-      "html_url": "https://github.com/nkpoid/nkroid",
+      "full_name": "cookpad/presentations",
+      "description": "The presentations of Cookpad staffs",
+      "html_url": "https://github.com/cookpad/presentations",
       "stars": 38,
       "language": "Ruby",
       "region": "Japan"
     },
     {
-      "full_name": "cookpad/presentations",
-      "description": "The presentations of Cookpad staffs",
-      "html_url": "https://github.com/cookpad/presentations",
+      "full_name": "nkpoid/nkroid",
+      "description": "twitter bot @nkroid",
+      "html_url": "https://github.com/nkpoid/nkroid",
       "stars": 38,
       "language": "Ruby",
       "region": "Japan"
@@ -227,14 +211,6 @@
       "region": "Japan"
     },
     {
-      "full_name": "sorah/acmesmith",
-      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
-      "html_url": "https://github.com/sorah/acmesmith",
-      "stars": 26,
-      "language": "Ruby",
-      "region": "Japan"
-    },
-    {
       "full_name": "cookpad/trice",
       "description": "Provides reference time concept to application. Use it instead of ad-hoc `Time.now`.",
       "html_url": "https://github.com/cookpad/trice",
@@ -243,10 +219,10 @@
       "region": "Japan"
     },
     {
-      "full_name": "great-h/great-h.github.io",
-      "description": "すごい広島",
-      "html_url": "https://github.com/great-h/great-h.github.io",
-      "stars": 24,
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 26,
       "language": "Ruby",
       "region": "Japan"
     },
