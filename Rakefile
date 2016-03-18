@@ -7,9 +7,9 @@ desc "Fetch Repositories by specified region, or pass all to fetch repositories 
 task :fetch_repos, [:region, :period] do |t, args|
   abort "Please specify a region." if args[:region].nil?
   require "date"
-  period = period || %(#{Date.today.prev_day(7).strftime}..#{Date.today.prev_day.strftime})
+  period = args[:period] || %(#{Date.today.prev_day(7).strftime}..#{Date.today.prev_day.strftime})
   require_relative "app/repo"
-  Repo.new(args[:region], args[:period]).fetch_repositories
+  Repo.new(args[:region], period).fetch_repositories
 end
 
 desc "Fetch Developers by specified region, or pass all to fetch developers from all regions."
