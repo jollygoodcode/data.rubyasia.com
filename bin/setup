@@ -20,7 +20,6 @@ system("bundle check") or system!("bundle install")
 
 system("mkdir -p data/users")
 system("mkdir -p data/repos")
-system("mkdir -p tmp/pids")
 
 puts "You're good to go! Type `rake -T` to see available tasks."
 puts "For More information, please refer to README.md, thank you."
