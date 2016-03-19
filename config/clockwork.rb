@@ -3,7 +3,7 @@ require_relative "../app/daily_job"
 require_relative "../app/slack"
 
 module Clockwork
-  every(1.day, "Daily Job", tz: "Singapore", at: "01:00") do
+  every(1.day, "Daily Job", tz: "Singapore", at: "16:00") do
     if DailyJob.perform_now
       Slack.ping!
     end
