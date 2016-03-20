@@ -10,5 +10,5 @@ periods = ExistingDate.all
 periods.each do |period|
   date = ExistingDate.get_occurred_date_by(period)
   latest = (periods.index(period) == periods.size - 1)
-  system("generate --period #{period} --date #{date} --latest #{latest}")
+  system("bin/generate --period #{period} --date #{date} --latest #{latest}")
 end
