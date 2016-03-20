@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-03-20 15:20:57 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-12..2016-03-18",
+  "repos": [
+    {
+      "full_name": "vinsol/spree-account-recurring",
+      "description": "Spree extension to manage recurring payments/subscriptions using Stripe Payment Gateway",
+      "html_url": "https://github.com/vinsol/spree-account-recurring",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "vinsol/spree_admin_roles_and_access",
+      "description": "Admin Roles And Access for Spree",
+      "html_url": "https://github.com/vinsol/spree_admin_roles_and_access",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
