@@ -1,0 +1,20 @@
+{
+  "login": "yrmts",
+  "id": 6986122,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6986122?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yrmts",
+  "html_url": "https://github.com/yrmts",
+  "followers_url": "https://api.github.com/users/yrmts/followers",
+  "following_url": "https://api.github.com/users/yrmts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yrmts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yrmts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yrmts/subscriptions",
+  "organizations_url": "https://api.github.com/users/yrmts/orgs",
+  "repos_url": "https://api.github.com/users/yrmts/repos",
+  "events_url": "https://api.github.com/users/yrmts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yrmts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

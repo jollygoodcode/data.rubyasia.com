@@ -1,0 +1,20 @@
+{
+  "login": "willychu",
+  "id": 8401717,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8401717?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/willychu",
+  "html_url": "https://github.com/willychu",
+  "followers_url": "https://api.github.com/users/willychu/followers",
+  "following_url": "https://api.github.com/users/willychu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/willychu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/willychu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/willychu/subscriptions",
+  "organizations_url": "https://api.github.com/users/willychu/orgs",
+  "repos_url": "https://api.github.com/users/willychu/repos",
+  "events_url": "https://api.github.com/users/willychu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/willychu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
