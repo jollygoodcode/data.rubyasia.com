@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-03-21 08:11:28 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-14..2016-03-20",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/dasherize",
+      "description": ":computer: Dasherize your projects",
+      "html_url": "https://github.com/jollygoodcode/dasherize",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology.org",
+      "description": "",
+      "html_url": "https://github.com/Coursemology/coursemology.org",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "winston/rails_utils",
+      "description": "Rails helpers based on opinionated project practices. Currently useful for structuring CSS and JS.",
+      "html_url": "https://github.com/winston/rails_utils",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
