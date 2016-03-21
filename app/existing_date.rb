@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require "date"
 
 class ExistingDate
@@ -13,10 +14,14 @@ class ExistingDate
     Date.parse(get_end_date(period)).next_day.to_s
   end
 
+  def self.humanize_period(period)
+    "from " + period.sub("_", " to ").gsub("-", "/")
+  end
+
   # private
 
     def self.get_end_date(period)
-      period.split("_".freeze).last
+      period.split("_").last
     end
     private_class_method :get_end_date
 end
