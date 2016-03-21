@@ -1,6 +1,7 @@
 - require_relative "app/paginator"; paginator = Paginator.new(period)
 - prev_path = paginator.prev_path
 - next_path = paginator.next_path
+- require_relative "app/existing_date"; humanized_period = ExistingDate.humanize_period(period)
 
 doctype 5
 html lang="en"
@@ -43,7 +44,7 @@ html lang="en"
         .col.col-offset-4
           .page-title
             h2 Top Starred Repositories
-            p.lead The most starred repos in Asia for the week of #{Date.parse(date).strftime("%B %d, %Y")}
+            p.lead The most starred repos in Asia #{humanized_period}
 
           ol.repos
             - require_relative "app/view"; view = View.new(period); view.repos.each do |repo|
