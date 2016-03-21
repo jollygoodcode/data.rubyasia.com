@@ -4,8 +4,12 @@ require_relative "../app/slack"
 
 module Clockwork
   every(1.day, "Daily Job", tz: "Singapore", at: "16:00") do
-    if DailyJob.perform_now
-      Slack.ping!
+    sent = DailyJob.perform_now
+
+    if sent && sent.respond_to?(:html_url)
+      Slack.ping!("Pull Request opened: #{sent.html_url}")
+    else
+      Slack.ping!("Something went wrong!")
     end
   end
 
