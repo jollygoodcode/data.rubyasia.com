@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-03-23 08:11:27 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-16..2016-03-22",
+  "repos": [
+    {
+      "full_name": "marjinal1st/medium-editor-rails",
+      "description": "Medium Editor integrated in Rails Asset Pipeline",
+      "html_url": "https://github.com/marjinal1st/medium-editor-rails",
+      "stars": 75,
+      "language": "Ruby",
+      "region": "Turkey"
+    },
+    {
+      "full_name": "kodgemisi/confdeck",
+      "description": "ConfDeck",
+      "html_url": "https://github.com/kodgemisi/confdeck",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Turkey"
+    }
+  ]
+}

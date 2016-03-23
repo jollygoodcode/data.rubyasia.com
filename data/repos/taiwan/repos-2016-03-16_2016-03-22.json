@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-03-23 08:11:24 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-16..2016-03-22",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3043,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 1570,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

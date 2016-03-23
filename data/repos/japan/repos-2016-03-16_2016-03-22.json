@@ -1,0 +1,198 @@
+{
+  "generated_at": "2016-03-23 08:10:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-16..2016-03-22",
+  "repos": [
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 963,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/traceroute",
+      "description": "A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app",
+      "html_url": "https://github.com/amatsuda/traceroute",
+      "stars": 453,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 419,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 413,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 387,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 195,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 123,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "Rails 4.2とVue.js 1.0で開発中のアニメ視聴記録サービス「Annict」です。",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 93,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/nested_scaffold",
+      "description": "Nested scaffold generator for Rails 3",
+      "html_url": "https://github.com/amatsuda/nested_scaffold",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」「ハーメルン」等の小説を管理するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "Tomohiro/fluentular",
+      "description": ":memo: Fluentular is a Fluentd regular expression editor",
+      "html_url": "https://github.com/Tomohiro/fluentular",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "willnet/takarabako",
+      "description": "random Japanese name of game item generator",
+      "html_url": "https://github.com/willnet/takarabako",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/fluent-plugin-cloudwatch-logs",
+      "description": "CloudWatch Logs Plugin for Fluentd",
+      "html_url": "https://github.com/ryotarai/fluent-plugin-cloudwatch-logs",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-twitter",
+      "description": "Fluentd Input/Output plugin to process tweets with Twitter Streaming API.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-twitter",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "two-pack/redmine_xls_export",
+      "description": "Redmine XLS Export plugin from http://www.redmine.org/plugins/redmine_xls_export",
+      "html_url": "https://github.com/two-pack/redmine_xls_export",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/activerecord-mysql-index-hint",
+      "description": "",
+      "html_url": "https://github.com/mirakui/activerecord-mysql-index-hint",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/presentations",
+      "description": "The presentations of Cookpad staffs",
+      "html_url": "https://github.com/cookpad/presentations",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "knu/ruby-domain_name",
+      "description": "Domain Name manipulation library for Ruby",
+      "html_url": "https://github.com/knu/ruby-domain_name",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nkpoid/nkroid",
+      "description": "twitter bot @nkroid",
+      "html_url": "https://github.com/nkpoid/nkroid",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ixixi/fluent-plugin-sqs",
+      "description": "Store fluent-event as queue message to Amazon SQS.",
+      "html_url": "https://github.com/ixixi/fluent-plugin-sqs",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
