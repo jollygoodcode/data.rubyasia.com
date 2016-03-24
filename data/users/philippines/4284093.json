@@ -1,0 +1,20 @@
+{
+  "login": "llong",
+  "id": 4284093,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4284093?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/llong",
+  "html_url": "https://github.com/llong",
+  "followers_url": "https://api.github.com/users/llong/followers",
+  "following_url": "https://api.github.com/users/llong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/llong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/llong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/llong/subscriptions",
+  "organizations_url": "https://api.github.com/users/llong/orgs",
+  "repos_url": "https://api.github.com/users/llong/repos",
+  "events_url": "https://api.github.com/users/llong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/llong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
