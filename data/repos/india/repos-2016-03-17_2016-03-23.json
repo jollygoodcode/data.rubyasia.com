@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-03-24 08:10:27 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-17..2016-03-23",
+  "repos": [
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 268,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 84,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
