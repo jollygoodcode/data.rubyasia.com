@@ -1,0 +1,20 @@
+{
+  "login": "fazykn",
+  "id": 8942276,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8942276?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fazykn",
+  "html_url": "https://github.com/fazykn",
+  "followers_url": "https://api.github.com/users/fazykn/followers",
+  "following_url": "https://api.github.com/users/fazykn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fazykn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fazykn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fazykn/subscriptions",
+  "organizations_url": "https://api.github.com/users/fazykn/orgs",
+  "repos_url": "https://api.github.com/users/fazykn/repos",
+  "events_url": "https://api.github.com/users/fazykn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fazykn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

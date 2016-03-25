@@ -1,0 +1,78 @@
+{
+  "generated_at": "2016-03-25 08:10:14 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-18..2016-03-24",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 3942,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 628,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 268,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 218,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/auto-correct",
+      "description": "自动给中文英文之间加入合理的空格",
+      "html_url": "https://github.com/huacnlee/auto-correct",
+      "stars": 82,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "lidaobing/capistrano-scm-jenkins",
+      "description": "With this plugin, you can use jenkins build artifact as a repository, and deploy your build artifact with capistrano.",
+      "html_url": "https://github.com/lidaobing/capistrano-scm-jenkins",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "sharp/china_cities",
+      "description": "中国省市区三级联动, 支持数据库集成",
+      "html_url": "https://github.com/sharp/china_cities",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

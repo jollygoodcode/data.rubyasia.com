@@ -1,0 +1,20 @@
+{
+  "login": "EventXtra",
+  "id": 18049118,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18049118?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/EventXtra",
+  "html_url": "https://github.com/EventXtra",
+  "followers_url": "https://api.github.com/users/EventXtra/followers",
+  "following_url": "https://api.github.com/users/EventXtra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/EventXtra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/EventXtra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/EventXtra/subscriptions",
+  "organizations_url": "https://api.github.com/users/EventXtra/orgs",
+  "repos_url": "https://api.github.com/users/EventXtra/repos",
+  "events_url": "https://api.github.com/users/EventXtra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/EventXtra/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

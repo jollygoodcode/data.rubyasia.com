@@ -1,0 +1,20 @@
+{
+  "login": "tyamada",
+  "id": 80155,
+  "avatar_url": "https://avatars.githubusercontent.com/u/80155?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tyamada",
+  "html_url": "https://github.com/tyamada",
+  "followers_url": "https://api.github.com/users/tyamada/followers",
+  "following_url": "https://api.github.com/users/tyamada/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tyamada/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tyamada/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tyamada/subscriptions",
+  "organizations_url": "https://api.github.com/users/tyamada/orgs",
+  "repos_url": "https://api.github.com/users/tyamada/repos",
+  "events_url": "https://api.github.com/users/tyamada/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tyamada/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

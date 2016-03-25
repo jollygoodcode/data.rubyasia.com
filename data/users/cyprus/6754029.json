@@ -1,0 +1,20 @@
+{
+  "login": "mrbasio",
+  "id": 6754029,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6754029?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrbasio",
+  "html_url": "https://github.com/mrbasio",
+  "followers_url": "https://api.github.com/users/mrbasio/followers",
+  "following_url": "https://api.github.com/users/mrbasio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrbasio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrbasio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrbasio/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrbasio/orgs",
+  "repos_url": "https://api.github.com/users/mrbasio/repos",
+  "events_url": "https://api.github.com/users/mrbasio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrbasio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
