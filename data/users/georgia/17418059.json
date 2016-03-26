@@ -1,0 +1,20 @@
+{
+  "login": "Samuel-Barney",
+  "id": 17418059,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17418059?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Samuel-Barney",
+  "html_url": "https://github.com/Samuel-Barney",
+  "followers_url": "https://api.github.com/users/Samuel-Barney/followers",
+  "following_url": "https://api.github.com/users/Samuel-Barney/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Samuel-Barney/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Samuel-Barney/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Samuel-Barney/subscriptions",
+  "organizations_url": "https://api.github.com/users/Samuel-Barney/orgs",
+  "repos_url": "https://api.github.com/users/Samuel-Barney/repos",
+  "events_url": "https://api.github.com/users/Samuel-Barney/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Samuel-Barney/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
