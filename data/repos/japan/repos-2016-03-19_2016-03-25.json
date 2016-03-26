@@ -1,0 +1,174 @@
+{
+  "generated_at": "2016-03-26 08:10:53 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-19..2016-03-25",
+  "repos": [
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 964,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/traceroute",
+      "description": "A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app",
+      "html_url": "https://github.com/amatsuda/traceroute",
+      "stars": 456,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 419,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 417,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "youpy/ruby-lastfm",
+      "description": "A Ruby interface for Last.fm Web Services",
+      "html_url": "https://github.com/youpy/ruby-lastfm",
+      "stars": 230,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/html5_validators",
+      "description": "A gem/plugin for Rails 3 & Rails 4 that enables client-side validation using ActiveModel + HTML5 Form Validation",
+      "html_url": "https://github.com/amatsuda/html5_validators",
+      "stars": 227,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 195,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/stateful_enum",
+      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+      "html_url": "https://github.com/amatsuda/stateful_enum",
+      "stars": 191,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 123,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/wakame-vdc",
+      "description": " Datacenter Hypervisor - Open Source Cloud Computing / IaaS",
+      "html_url": "https://github.com/axsh/wakame-vdc",
+      "stars": 103,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "Rails 4.2とVue.js 1.0で開発中のアニメ視聴記録サービス「Annict」です。",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 88,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/nested_scaffold",
+      "description": "Nested scaffold generator for Rails 3",
+      "html_url": "https://github.com/amatsuda/nested_scaffold",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」「ハーメルン」等の小説を管理するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "Tomohiro/fluentular",
+      "description": ":memo: Fluentular is a Fluentd regular expression editor",
+      "html_url": "https://github.com/Tomohiro/fluentular",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kaznum/sanataro",
+      "description": "Simple Web Household Account Book",
+      "html_url": "https://github.com/kaznum/sanataro",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-twitter",
+      "description": "Fluentd Input/Output plugin to process tweets with Twitter Streaming API.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-twitter",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
