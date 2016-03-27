@@ -1,0 +1,70 @@
+{
+  "generated_at": "2016-03-27 08:10:16 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-20..2016-03-26",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 3943,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 271,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/homeland",
+      "description": "Homeland 是基于 Rails Engine 实现的论坛社区 Gem，用于快速开发，类似 Devise 给我们解决账号体系的方案一样",
+      "html_url": "https://github.com/huacnlee/homeland",
+      "stars": 220,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 218,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/auto-correct",
+      "description": "自动给中文英文之间加入合理的空格",
+      "html_url": "https://github.com/huacnlee/auto-correct",
+      "stars": 82,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "lidaobing/capistrano-scm-jenkins",
+      "description": "With this plugin, you can use jenkins build artifact as a repository, and deploy your build artifact with capistrano.",
+      "html_url": "https://github.com/lidaobing/capistrano-scm-jenkins",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "sharp/china_cities",
+      "description": "中国省市区三级联动, 支持数据库集成",
+      "html_url": "https://github.com/sharp/china_cities",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
