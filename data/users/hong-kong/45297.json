@@ -1,0 +1,20 @@
+{
+  "login": "i-nomads",
+  "id": 45297,
+  "avatar_url": "https://avatars.githubusercontent.com/u/45297?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/i-nomads",
+  "html_url": "https://github.com/i-nomads",
+  "followers_url": "https://api.github.com/users/i-nomads/followers",
+  "following_url": "https://api.github.com/users/i-nomads/following{/other_user}",
+  "gists_url": "https://api.github.com/users/i-nomads/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/i-nomads/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/i-nomads/subscriptions",
+  "organizations_url": "https://api.github.com/users/i-nomads/orgs",
+  "repos_url": "https://api.github.com/users/i-nomads/repos",
+  "events_url": "https://api.github.com/users/i-nomads/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/i-nomads/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

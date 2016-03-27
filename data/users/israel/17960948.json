@@ -1,0 +1,20 @@
+{
+  "login": "goldver",
+  "id": 17960948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17960948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/goldver",
+  "html_url": "https://github.com/goldver",
+  "followers_url": "https://api.github.com/users/goldver/followers",
+  "following_url": "https://api.github.com/users/goldver/following{/other_user}",
+  "gists_url": "https://api.github.com/users/goldver/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/goldver/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/goldver/subscriptions",
+  "organizations_url": "https://api.github.com/users/goldver/orgs",
+  "repos_url": "https://api.github.com/users/goldver/repos",
+  "events_url": "https://api.github.com/users/goldver/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/goldver/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

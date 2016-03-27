@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-03-27 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-20..2016-03-26",
+  "repos": [
+    {
+      "full_name": "choonkeat/attache",
+      "description": "Yet another approach to file upload",
+      "html_url": "https://github.com/choonkeat/attache",
+      "stars": 126,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/dasherize",
+      "description": ":computer: Dasherize your projects",
+      "html_url": "https://github.com/jollygoodcode/dasherize",
+      "stars": 99,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "choonkeat/active_waiter",
+      "description": "allow your users to wait for the completion of your `ActiveJob`",
+      "html_url": "https://github.com/choonkeat/active_waiter",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
