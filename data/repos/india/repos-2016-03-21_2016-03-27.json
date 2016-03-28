@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-03-28 08:10:27 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-21..2016-03-27",
+  "repos": [
+    {
+      "full_name": "arunagw/omniauth-twitter",
+      "description": "OmniAuth strategy for Twitter",
+      "html_url": "https://github.com/arunagw/omniauth-twitter",
+      "stars": 439,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 272,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
