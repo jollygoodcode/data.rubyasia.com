@@ -1,0 +1,20 @@
+{
+  "login": "yu-raku-an",
+  "id": 888577,
+  "avatar_url": "https://avatars.githubusercontent.com/u/888577?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yu-raku-an",
+  "html_url": "https://github.com/yu-raku-an",
+  "followers_url": "https://api.github.com/users/yu-raku-an/followers",
+  "following_url": "https://api.github.com/users/yu-raku-an/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yu-raku-an/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yu-raku-an/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yu-raku-an/subscriptions",
+  "organizations_url": "https://api.github.com/users/yu-raku-an/orgs",
+  "repos_url": "https://api.github.com/users/yu-raku-an/repos",
+  "events_url": "https://api.github.com/users/yu-raku-an/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yu-raku-an/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
