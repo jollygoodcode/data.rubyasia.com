@@ -1,0 +1,20 @@
+{
+  "login": "redwud",
+  "id": 820402,
+  "avatar_url": "https://avatars.githubusercontent.com/u/820402?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/redwud",
+  "html_url": "https://github.com/redwud",
+  "followers_url": "https://api.github.com/users/redwud/followers",
+  "following_url": "https://api.github.com/users/redwud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/redwud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/redwud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/redwud/subscriptions",
+  "organizations_url": "https://api.github.com/users/redwud/orgs",
+  "repos_url": "https://api.github.com/users/redwud/repos",
+  "events_url": "https://api.github.com/users/redwud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/redwud/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
