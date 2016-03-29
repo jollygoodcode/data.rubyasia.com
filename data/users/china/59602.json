@@ -1,0 +1,20 @@
+{
+  "login": "regdog",
+  "id": 59602,
+  "avatar_url": "https://avatars.githubusercontent.com/u/59602?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/regdog",
+  "html_url": "https://github.com/regdog",
+  "followers_url": "https://api.github.com/users/regdog/followers",
+  "following_url": "https://api.github.com/users/regdog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/regdog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/regdog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/regdog/subscriptions",
+  "organizations_url": "https://api.github.com/users/regdog/orgs",
+  "repos_url": "https://api.github.com/users/regdog/repos",
+  "events_url": "https://api.github.com/users/regdog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/regdog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
