@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-03-29 08:11:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-22..2016-03-28",
+  "repos": [
+    {
+      "full_name": "marjinal1st/medium-editor-rails",
+      "description": "Medium Editor integrated in Rails Asset Pipeline",
+      "html_url": "https://github.com/marjinal1st/medium-editor-rails",
+      "stars": 75,
+      "language": "Ruby",
+      "region": "Turkey"
+    },
+    {
+      "full_name": "emrekutlu/paperclip-compression",
+      "description": "image compression processor for Paperclip",
+      "html_url": "https://github.com/emrekutlu/paperclip-compression",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "login": "BruceMaa",
+  "id": 12798069,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12798069?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BruceMaa",
+  "html_url": "https://github.com/BruceMaa",
+  "followers_url": "https://api.github.com/users/BruceMaa/followers",
+  "following_url": "https://api.github.com/users/BruceMaa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BruceMaa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BruceMaa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BruceMaa/subscriptions",
+  "organizations_url": "https://api.github.com/users/BruceMaa/orgs",
+  "repos_url": "https://api.github.com/users/BruceMaa/repos",
+  "events_url": "https://api.github.com/users/BruceMaa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BruceMaa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
