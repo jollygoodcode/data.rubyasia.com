@@ -1,0 +1,20 @@
+{
+  "login": "TechLah",
+  "id": 5523583,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5523583?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TechLah",
+  "html_url": "https://github.com/TechLah",
+  "followers_url": "https://api.github.com/users/TechLah/followers",
+  "following_url": "https://api.github.com/users/TechLah/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TechLah/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TechLah/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TechLah/subscriptions",
+  "organizations_url": "https://api.github.com/users/TechLah/orgs",
+  "repos_url": "https://api.github.com/users/TechLah/repos",
+  "events_url": "https://api.github.com/users/TechLah/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TechLah/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

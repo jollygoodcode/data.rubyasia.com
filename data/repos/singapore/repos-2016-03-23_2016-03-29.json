@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-03-30 08:11:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-23..2016-03-29",
+  "repos": [
+    {
+      "full_name": "winston/google_visualr",
+      "description": "A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart.",
+      "html_url": "https://github.com/winston/google_visualr",
+      "stars": 408,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "choonkeat/attache",
+      "description": "Yet another approach to file upload",
+      "html_url": "https://github.com/choonkeat/attache",
+      "stars": 126,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/dasherize",
+      "description": ":computer: Dasherize your projects",
+      "html_url": "https://github.com/jollygoodcode/dasherize",
+      "stars": 99,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology.org",
+      "description": "",
+      "html_url": "https://github.com/Coursemology/coursemology.org",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
