@@ -58,7 +58,7 @@ class DailyJob
   private_class_method :today
 
   def self.now
-    @_now ||= Time.now
+    Time.now
   end
   private_class_method :now
 
