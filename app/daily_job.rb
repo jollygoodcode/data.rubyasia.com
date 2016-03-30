@@ -11,6 +11,9 @@ class DailyJob
       # run setup
       system("bin/setup")
 
+      # restart clockwork
+      system("bin/restart_clockwork")
+
       # new branch
       system("git checkout -b #{branch_name}")
 
