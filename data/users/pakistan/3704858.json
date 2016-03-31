@@ -1,0 +1,20 @@
+{
+  "login": "ReallyVirtual",
+  "id": 3704858,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3704858?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ReallyVirtual",
+  "html_url": "https://github.com/ReallyVirtual",
+  "followers_url": "https://api.github.com/users/ReallyVirtual/followers",
+  "following_url": "https://api.github.com/users/ReallyVirtual/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ReallyVirtual/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ReallyVirtual/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ReallyVirtual/subscriptions",
+  "organizations_url": "https://api.github.com/users/ReallyVirtual/orgs",
+  "repos_url": "https://api.github.com/users/ReallyVirtual/repos",
+  "events_url": "https://api.github.com/users/ReallyVirtual/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ReallyVirtual/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
