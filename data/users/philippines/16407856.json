@@ -1,0 +1,20 @@
+{
+  "login": "ryan-laurence",
+  "id": 16407856,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16407856?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryan-laurence",
+  "html_url": "https://github.com/ryan-laurence",
+  "followers_url": "https://api.github.com/users/ryan-laurence/followers",
+  "following_url": "https://api.github.com/users/ryan-laurence/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryan-laurence/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryan-laurence/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryan-laurence/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryan-laurence/orgs",
+  "repos_url": "https://api.github.com/users/ryan-laurence/repos",
+  "events_url": "https://api.github.com/users/ryan-laurence/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryan-laurence/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

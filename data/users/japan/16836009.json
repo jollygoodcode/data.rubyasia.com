@@ -1,0 +1,20 @@
+{
+  "login": "amelieff",
+  "id": 16836009,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16836009?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amelieff",
+  "html_url": "https://github.com/amelieff",
+  "followers_url": "https://api.github.com/users/amelieff/followers",
+  "following_url": "https://api.github.com/users/amelieff/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amelieff/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amelieff/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amelieff/subscriptions",
+  "organizations_url": "https://api.github.com/users/amelieff/orgs",
+  "repos_url": "https://api.github.com/users/amelieff/repos",
+  "events_url": "https://api.github.com/users/amelieff/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amelieff/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

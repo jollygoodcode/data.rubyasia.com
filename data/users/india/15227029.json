@@ -1,0 +1,20 @@
+{
+  "login": "tp-clickapps",
+  "id": 15227029,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15227029?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tp-clickapps",
+  "html_url": "https://github.com/tp-clickapps",
+  "followers_url": "https://api.github.com/users/tp-clickapps/followers",
+  "following_url": "https://api.github.com/users/tp-clickapps/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tp-clickapps/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tp-clickapps/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tp-clickapps/subscriptions",
+  "organizations_url": "https://api.github.com/users/tp-clickapps/orgs",
+  "repos_url": "https://api.github.com/users/tp-clickapps/repos",
+  "events_url": "https://api.github.com/users/tp-clickapps/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tp-clickapps/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
