@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-03-31 08:10:50 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-24..2016-03-30",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 3954,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
