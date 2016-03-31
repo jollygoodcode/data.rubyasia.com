@@ -5,6 +5,9 @@ class DailyJob
 
   def self.perform_now
     Dir.chdir(PROJECT_ROOT) do
+      # checkout to gh-pages
+      system("git checkout gh-pages")
+
       # fetch new changes
       system("git pull origin gh-pages")
 
