@@ -1,0 +1,20 @@
+{
+  "login": "markattyne",
+  "id": 17728070,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17728070?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/markattyne",
+  "html_url": "https://github.com/markattyne",
+  "followers_url": "https://api.github.com/users/markattyne/followers",
+  "following_url": "https://api.github.com/users/markattyne/following{/other_user}",
+  "gists_url": "https://api.github.com/users/markattyne/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/markattyne/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/markattyne/subscriptions",
+  "organizations_url": "https://api.github.com/users/markattyne/orgs",
+  "repos_url": "https://api.github.com/users/markattyne/repos",
+  "events_url": "https://api.github.com/users/markattyne/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/markattyne/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
