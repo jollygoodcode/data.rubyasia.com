@@ -1,0 +1,20 @@
+{
+  "login": "denovez",
+  "id": 4386687,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4386687?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/denovez",
+  "html_url": "https://github.com/denovez",
+  "followers_url": "https://api.github.com/users/denovez/followers",
+  "following_url": "https://api.github.com/users/denovez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/denovez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/denovez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/denovez/subscriptions",
+  "organizations_url": "https://api.github.com/users/denovez/orgs",
+  "repos_url": "https://api.github.com/users/denovez/repos",
+  "events_url": "https://api.github.com/users/denovez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/denovez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
