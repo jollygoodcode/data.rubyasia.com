@@ -1,0 +1,20 @@
+{
+  "login": "happybai",
+  "id": 6316425,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6316425?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/happybai",
+  "html_url": "https://github.com/happybai",
+  "followers_url": "https://api.github.com/users/happybai/followers",
+  "following_url": "https://api.github.com/users/happybai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/happybai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/happybai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/happybai/subscriptions",
+  "organizations_url": "https://api.github.com/users/happybai/orgs",
+  "repos_url": "https://api.github.com/users/happybai/repos",
+  "events_url": "https://api.github.com/users/happybai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/happybai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
