@@ -1,0 +1,20 @@
+{
+  "login": "eac",
+  "id": 7752,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7752?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eac",
+  "html_url": "https://github.com/eac",
+  "followers_url": "https://api.github.com/users/eac/followers",
+  "following_url": "https://api.github.com/users/eac/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eac/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eac/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eac/subscriptions",
+  "organizations_url": "https://api.github.com/users/eac/orgs",
+  "repos_url": "https://api.github.com/users/eac/repos",
+  "events_url": "https://api.github.com/users/eac/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eac/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
