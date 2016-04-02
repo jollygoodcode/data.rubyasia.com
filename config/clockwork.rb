@@ -3,6 +3,16 @@ require_relative "../app/daily_job"
 require_relative "../app/slack"
 
 module Clockwork
+  every(1.day, "Daily Job", tz: "Singapore", at: "15:00") do
+    success = DailyJob.sync_repo_and_restart_clockwork
+
+    if success
+      Slack.ping!("Repository synced and restarted clockwork")
+    else
+      Slack.ping!("Repository synced failed.")
+    end
+  end
+
   every(1.day, "Daily Job", tz: "Singapore", at: "16:00") do
     sent = DailyJob.perform_now
 

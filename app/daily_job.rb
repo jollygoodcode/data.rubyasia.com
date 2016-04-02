@@ -3,7 +3,7 @@ require "octokit"
 class DailyJob
   PROJECT_ROOT = File.expand_path("../..", __FILE__)
 
-  def self.perform_now
+  def self.sync_repo_and_restart_clockwork
     Dir.chdir(PROJECT_ROOT) do
       # checkout to gh-pages
       system("git checkout gh-pages")
@@ -16,7 +16,11 @@ class DailyJob
 
       # restart clockwork
       system("bin/restart_clockwork")
+    end
+  end
 
+  def self.perform_now
+    Dir.chdir(PROJECT_ROOT) do
       # new branch
       system("git checkout -b #{branch_name}")
 
