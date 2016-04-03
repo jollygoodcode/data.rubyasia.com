@@ -1,0 +1,20 @@
+{
+  "login": "hufozhu",
+  "id": 1925674,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1925674?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hufozhu",
+  "html_url": "https://github.com/hufozhu",
+  "followers_url": "https://api.github.com/users/hufozhu/followers",
+  "following_url": "https://api.github.com/users/hufozhu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hufozhu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hufozhu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hufozhu/subscriptions",
+  "organizations_url": "https://api.github.com/users/hufozhu/orgs",
+  "repos_url": "https://api.github.com/users/hufozhu/repos",
+  "events_url": "https://api.github.com/users/hufozhu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hufozhu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

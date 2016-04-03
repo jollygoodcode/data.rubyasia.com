@@ -1,0 +1,20 @@
+{
+  "login": "kusalstha",
+  "id": 10249801,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10249801?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kusalstha",
+  "html_url": "https://github.com/kusalstha",
+  "followers_url": "https://api.github.com/users/kusalstha/followers",
+  "following_url": "https://api.github.com/users/kusalstha/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kusalstha/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kusalstha/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kusalstha/subscriptions",
+  "organizations_url": "https://api.github.com/users/kusalstha/orgs",
+  "repos_url": "https://api.github.com/users/kusalstha/repos",
+  "events_url": "https://api.github.com/users/kusalstha/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kusalstha/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
