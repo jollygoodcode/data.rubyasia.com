@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-04-03 08:10:26 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-27..2016-04-02",
+  "repos": [
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 169,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

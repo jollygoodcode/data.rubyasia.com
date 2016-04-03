@@ -1,0 +1,20 @@
+{
+  "login": "wathabnetwork",
+  "id": 10126040,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10126040?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wathabnetwork",
+  "html_url": "https://github.com/wathabnetwork",
+  "followers_url": "https://api.github.com/users/wathabnetwork/followers",
+  "following_url": "https://api.github.com/users/wathabnetwork/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wathabnetwork/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wathabnetwork/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wathabnetwork/subscriptions",
+  "organizations_url": "https://api.github.com/users/wathabnetwork/orgs",
+  "repos_url": "https://api.github.com/users/wathabnetwork/repos",
+  "events_url": "https://api.github.com/users/wathabnetwork/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wathabnetwork/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

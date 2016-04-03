@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-03 08:10:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-27..2016-04-02",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 457,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

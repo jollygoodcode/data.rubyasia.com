@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-03 08:10:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-27..2016-04-02",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 3728,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 379,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
