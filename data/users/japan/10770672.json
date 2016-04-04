@@ -1,0 +1,20 @@
+{
+  "login": "maeyu",
+  "id": 10770672,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10770672?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maeyu",
+  "html_url": "https://github.com/maeyu",
+  "followers_url": "https://api.github.com/users/maeyu/followers",
+  "following_url": "https://api.github.com/users/maeyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maeyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maeyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maeyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/maeyu/orgs",
+  "repos_url": "https://api.github.com/users/maeyu/repos",
+  "events_url": "https://api.github.com/users/maeyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maeyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

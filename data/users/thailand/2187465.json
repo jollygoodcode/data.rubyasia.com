@@ -1,0 +1,20 @@
+{
+  "login": "shtakai",
+  "id": 2187465,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2187465?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shtakai",
+  "html_url": "https://github.com/shtakai",
+  "followers_url": "https://api.github.com/users/shtakai/followers",
+  "following_url": "https://api.github.com/users/shtakai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shtakai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shtakai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shtakai/subscriptions",
+  "organizations_url": "https://api.github.com/users/shtakai/orgs",
+  "repos_url": "https://api.github.com/users/shtakai/repos",
+  "events_url": "https://api.github.com/users/shtakai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shtakai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
