@@ -1,0 +1,20 @@
+{
+  "login": "saiso",
+  "id": 3927577,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3927577?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saiso",
+  "html_url": "https://github.com/saiso",
+  "followers_url": "https://api.github.com/users/saiso/followers",
+  "following_url": "https://api.github.com/users/saiso/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saiso/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saiso/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saiso/subscriptions",
+  "organizations_url": "https://api.github.com/users/saiso/orgs",
+  "repos_url": "https://api.github.com/users/saiso/repos",
+  "events_url": "https://api.github.com/users/saiso/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saiso/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
