@@ -1,0 +1,20 @@
+{
+  "login": "Coande",
+  "id": 10881861,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10881861?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Coande",
+  "html_url": "https://github.com/Coande",
+  "followers_url": "https://api.github.com/users/Coande/followers",
+  "following_url": "https://api.github.com/users/Coande/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Coande/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Coande/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Coande/subscriptions",
+  "organizations_url": "https://api.github.com/users/Coande/orgs",
+  "repos_url": "https://api.github.com/users/Coande/repos",
+  "events_url": "https://api.github.com/users/Coande/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Coande/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

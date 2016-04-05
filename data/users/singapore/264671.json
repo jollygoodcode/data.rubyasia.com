@@ -1,0 +1,20 @@
+{
+  "login": "jordandm",
+  "id": 264671,
+  "avatar_url": "https://avatars.githubusercontent.com/u/264671?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jordandm",
+  "html_url": "https://github.com/jordandm",
+  "followers_url": "https://api.github.com/users/jordandm/followers",
+  "following_url": "https://api.github.com/users/jordandm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jordandm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jordandm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jordandm/subscriptions",
+  "organizations_url": "https://api.github.com/users/jordandm/orgs",
+  "repos_url": "https://api.github.com/users/jordandm/repos",
+  "events_url": "https://api.github.com/users/jordandm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jordandm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

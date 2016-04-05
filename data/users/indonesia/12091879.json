@@ -1,0 +1,20 @@
+{
+  "login": "idioter",
+  "id": 12091879,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12091879?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idioter",
+  "html_url": "https://github.com/idioter",
+  "followers_url": "https://api.github.com/users/idioter/followers",
+  "following_url": "https://api.github.com/users/idioter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idioter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idioter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idioter/subscriptions",
+  "organizations_url": "https://api.github.com/users/idioter/orgs",
+  "repos_url": "https://api.github.com/users/idioter/repos",
+  "events_url": "https://api.github.com/users/idioter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idioter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
