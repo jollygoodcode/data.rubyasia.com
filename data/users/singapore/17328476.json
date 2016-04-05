@@ -1,0 +1,20 @@
+{
+  "login": "katelyp",
+  "id": 17328476,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17328476?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katelyp",
+  "html_url": "https://github.com/katelyp",
+  "followers_url": "https://api.github.com/users/katelyp/followers",
+  "following_url": "https://api.github.com/users/katelyp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katelyp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katelyp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katelyp/subscriptions",
+  "organizations_url": "https://api.github.com/users/katelyp/orgs",
+  "repos_url": "https://api.github.com/users/katelyp/repos",
+  "events_url": "https://api.github.com/users/katelyp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katelyp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
