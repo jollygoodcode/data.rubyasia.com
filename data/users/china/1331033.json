@@ -1,0 +1,20 @@
+{
+  "login": "ruby-china",
+  "id": 1331033,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1331033?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ruby-china",
+  "html_url": "https://github.com/ruby-china",
+  "followers_url": "https://api.github.com/users/ruby-china/followers",
+  "following_url": "https://api.github.com/users/ruby-china/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ruby-china/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ruby-china/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ruby-china/subscriptions",
+  "organizations_url": "https://api.github.com/users/ruby-china/orgs",
+  "repos_url": "https://api.github.com/users/ruby-china/repos",
+  "events_url": "https://api.github.com/users/ruby-china/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ruby-china/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

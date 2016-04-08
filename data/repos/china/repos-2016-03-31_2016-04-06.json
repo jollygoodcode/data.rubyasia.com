@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-04-07 08:10:31 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-31..2016-04-06",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 641,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/rucaptcha",
+      "description": "This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.",
+      "html_url": "https://github.com/huacnlee/rucaptcha",
+      "stars": 281,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4 and 5.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 171,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "ruby-china/rubygems-mirror",
+      "description": "https://gems.ruby-china.org",
+      "html_url": "https://github.com/ruby-china/rubygems-mirror",
+      "stars": 104,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

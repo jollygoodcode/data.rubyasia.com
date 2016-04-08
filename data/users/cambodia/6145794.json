@@ -1,0 +1,20 @@
+{
+  "login": "kalbunna",
+  "id": 6145794,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6145794?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kalbunna",
+  "html_url": "https://github.com/kalbunna",
+  "followers_url": "https://api.github.com/users/kalbunna/followers",
+  "following_url": "https://api.github.com/users/kalbunna/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kalbunna/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kalbunna/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kalbunna/subscriptions",
+  "organizations_url": "https://api.github.com/users/kalbunna/orgs",
+  "repos_url": "https://api.github.com/users/kalbunna/repos",
+  "events_url": "https://api.github.com/users/kalbunna/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kalbunna/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-07 08:11:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-03-31..2016-04-06",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2070,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "description": "Ethereum library for the Ruby language",
+      "html_url": "https://github.com/DigixGlobal/ethereum-ruby",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
