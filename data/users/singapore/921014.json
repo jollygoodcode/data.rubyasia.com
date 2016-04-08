@@ -1,0 +1,20 @@
+{
+  "login": "danielhum",
+  "id": 921014,
+  "avatar_url": "https://avatars.githubusercontent.com/u/921014?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/danielhum",
+  "html_url": "https://github.com/danielhum",
+  "followers_url": "https://api.github.com/users/danielhum/followers",
+  "following_url": "https://api.github.com/users/danielhum/following{/other_user}",
+  "gists_url": "https://api.github.com/users/danielhum/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/danielhum/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/danielhum/subscriptions",
+  "organizations_url": "https://api.github.com/users/danielhum/orgs",
+  "repos_url": "https://api.github.com/users/danielhum/repos",
+  "events_url": "https://api.github.com/users/danielhum/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/danielhum/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
