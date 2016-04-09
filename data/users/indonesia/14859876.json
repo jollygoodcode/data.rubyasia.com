@@ -1,0 +1,20 @@
+{
+  "login": "tulul",
+  "id": 14859876,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14859876?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tulul",
+  "html_url": "https://github.com/tulul",
+  "followers_url": "https://api.github.com/users/tulul/followers",
+  "following_url": "https://api.github.com/users/tulul/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tulul/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tulul/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tulul/subscriptions",
+  "organizations_url": "https://api.github.com/users/tulul/orgs",
+  "repos_url": "https://api.github.com/users/tulul/repos",
+  "events_url": "https://api.github.com/users/tulul/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tulul/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

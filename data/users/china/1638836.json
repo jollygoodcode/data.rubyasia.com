@@ -1,0 +1,20 @@
+{
+  "login": "grj1046",
+  "id": 1638836,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1638836?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/grj1046",
+  "html_url": "https://github.com/grj1046",
+  "followers_url": "https://api.github.com/users/grj1046/followers",
+  "following_url": "https://api.github.com/users/grj1046/following{/other_user}",
+  "gists_url": "https://api.github.com/users/grj1046/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/grj1046/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/grj1046/subscriptions",
+  "organizations_url": "https://api.github.com/users/grj1046/orgs",
+  "repos_url": "https://api.github.com/users/grj1046/repos",
+  "events_url": "https://api.github.com/users/grj1046/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/grj1046/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
