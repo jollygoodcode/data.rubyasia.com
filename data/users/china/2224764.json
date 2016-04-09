@@ -1,0 +1,20 @@
+{
+  "login": "dgeibi",
+  "id": 2224764,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2224764?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dgeibi",
+  "html_url": "https://github.com/dgeibi",
+  "followers_url": "https://api.github.com/users/dgeibi/followers",
+  "following_url": "https://api.github.com/users/dgeibi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dgeibi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dgeibi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dgeibi/subscriptions",
+  "organizations_url": "https://api.github.com/users/dgeibi/orgs",
+  "repos_url": "https://api.github.com/users/dgeibi/repos",
+  "events_url": "https://api.github.com/users/dgeibi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dgeibi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bleakwood",
+  "id": 1043392,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1043392?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bleakwood",
+  "html_url": "https://github.com/bleakwood",
+  "followers_url": "https://api.github.com/users/bleakwood/followers",
+  "following_url": "https://api.github.com/users/bleakwood/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bleakwood/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bleakwood/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bleakwood/subscriptions",
+  "organizations_url": "https://api.github.com/users/bleakwood/orgs",
+  "repos_url": "https://api.github.com/users/bleakwood/repos",
+  "events_url": "https://api.github.com/users/bleakwood/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bleakwood/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
