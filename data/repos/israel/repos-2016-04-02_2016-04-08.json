@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-09 08:10:31 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-02..2016-04-08",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 3823,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/vitals",
+      "description": "Flexible StatsD instrumentation for Rails, Rack, Grape and more",
+      "html_url": "https://github.com/jondot/vitals",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
