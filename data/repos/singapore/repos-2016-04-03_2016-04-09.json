@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-10 08:11:31 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-03..2016-04-09",
+  "repos": [
+    {
+      "full_name": "gazay/ids_please",
+      "description": "Helps to get IDs or screen names from links to social network accounts",
+      "html_url": "https://github.com/gazay/ids_please",
+      "stars": 148,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
