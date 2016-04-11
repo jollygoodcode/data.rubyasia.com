@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-11 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-04..2016-04-10",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3071,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "zetachang/react.rb",
+      "description": "Opal Ruby wrapper of React.js library.",
+      "html_url": "https://github.com/zetachang/react.rb",
+      "stars": 516,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

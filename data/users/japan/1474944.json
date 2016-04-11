@@ -1,0 +1,20 @@
+{
+  "login": "yokoshin",
+  "id": 1474944,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1474944?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yokoshin",
+  "html_url": "https://github.com/yokoshin",
+  "followers_url": "https://api.github.com/users/yokoshin/followers",
+  "following_url": "https://api.github.com/users/yokoshin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yokoshin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yokoshin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yokoshin/subscriptions",
+  "organizations_url": "https://api.github.com/users/yokoshin/orgs",
+  "repos_url": "https://api.github.com/users/yokoshin/repos",
+  "events_url": "https://api.github.com/users/yokoshin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yokoshin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

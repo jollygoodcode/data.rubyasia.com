@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-11 08:11:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-04..2016-04-10",
+  "repos": [
+    {
+      "full_name": "winston/google_visualr",
+      "description": "A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart.",
+      "html_url": "https://github.com/winston/google_visualr",
+      "stars": 410,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "gazay/ids_please",
+      "description": "Helps to get IDs or screen names from links to social network accounts",
+      "html_url": "https://github.com/gazay/ids_please",
+      "stars": 148,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
