@@ -1,0 +1,20 @@
+{
+  "login": "bprankster",
+  "id": 7364677,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7364677?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bprankster",
+  "html_url": "https://github.com/bprankster",
+  "followers_url": "https://api.github.com/users/bprankster/followers",
+  "following_url": "https://api.github.com/users/bprankster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bprankster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bprankster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bprankster/subscriptions",
+  "organizations_url": "https://api.github.com/users/bprankster/orgs",
+  "repos_url": "https://api.github.com/users/bprankster/repos",
+  "events_url": "https://api.github.com/users/bprankster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bprankster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
