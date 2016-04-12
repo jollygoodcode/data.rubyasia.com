@@ -1,0 +1,20 @@
+{
+  "login": "pardooo",
+  "id": 5258466,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5258466?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pardooo",
+  "html_url": "https://github.com/pardooo",
+  "followers_url": "https://api.github.com/users/pardooo/followers",
+  "following_url": "https://api.github.com/users/pardooo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pardooo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pardooo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pardooo/subscriptions",
+  "organizations_url": "https://api.github.com/users/pardooo/orgs",
+  "repos_url": "https://api.github.com/users/pardooo/repos",
+  "events_url": "https://api.github.com/users/pardooo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pardooo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
