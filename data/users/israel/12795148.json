@@ -1,0 +1,20 @@
+{
+  "login": "nikitabugrovsky",
+  "id": 12795148,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12795148?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nikitabugrovsky",
+  "html_url": "https://github.com/nikitabugrovsky",
+  "followers_url": "https://api.github.com/users/nikitabugrovsky/followers",
+  "following_url": "https://api.github.com/users/nikitabugrovsky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nikitabugrovsky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nikitabugrovsky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nikitabugrovsky/subscriptions",
+  "organizations_url": "https://api.github.com/users/nikitabugrovsky/orgs",
+  "repos_url": "https://api.github.com/users/nikitabugrovsky/repos",
+  "events_url": "https://api.github.com/users/nikitabugrovsky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nikitabugrovsky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
