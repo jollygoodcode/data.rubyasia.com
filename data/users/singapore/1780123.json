@@ -1,0 +1,20 @@
+{
+  "login": "arrchana",
+  "id": 1780123,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1780123?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arrchana",
+  "html_url": "https://github.com/arrchana",
+  "followers_url": "https://api.github.com/users/arrchana/followers",
+  "following_url": "https://api.github.com/users/arrchana/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arrchana/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arrchana/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arrchana/subscriptions",
+  "organizations_url": "https://api.github.com/users/arrchana/orgs",
+  "repos_url": "https://api.github.com/users/arrchana/repos",
+  "events_url": "https://api.github.com/users/arrchana/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arrchana/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
