@@ -1,0 +1,20 @@
+{
+  "login": "youclavier",
+  "id": 4191444,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4191444?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/youclavier",
+  "html_url": "https://github.com/youclavier",
+  "followers_url": "https://api.github.com/users/youclavier/followers",
+  "following_url": "https://api.github.com/users/youclavier/following{/other_user}",
+  "gists_url": "https://api.github.com/users/youclavier/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/youclavier/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/youclavier/subscriptions",
+  "organizations_url": "https://api.github.com/users/youclavier/orgs",
+  "repos_url": "https://api.github.com/users/youclavier/repos",
+  "events_url": "https://api.github.com/users/youclavier/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/youclavier/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
