@@ -1,0 +1,20 @@
+{
+  "login": "locrianmode",
+  "id": 489366,
+  "avatar_url": "https://avatars.githubusercontent.com/u/489366?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/locrianmode",
+  "html_url": "https://github.com/locrianmode",
+  "followers_url": "https://api.github.com/users/locrianmode/followers",
+  "following_url": "https://api.github.com/users/locrianmode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/locrianmode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/locrianmode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/locrianmode/subscriptions",
+  "organizations_url": "https://api.github.com/users/locrianmode/orgs",
+  "repos_url": "https://api.github.com/users/locrianmode/repos",
+  "events_url": "https://api.github.com/users/locrianmode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/locrianmode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
