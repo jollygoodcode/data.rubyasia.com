@@ -9,7 +9,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.4.0)
     byebug (8.2.4)
-    clockwork (1.2.0)
+    clockwork (2.0.0)
       activesupport
       tzinfo
     daemons (1.2.3)
