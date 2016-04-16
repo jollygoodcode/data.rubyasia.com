@@ -1,0 +1,20 @@
+{
+  "login": "ericel",
+  "id": 16863721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16863721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ericel",
+  "html_url": "https://github.com/ericel",
+  "followers_url": "https://api.github.com/users/ericel/followers",
+  "following_url": "https://api.github.com/users/ericel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ericel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ericel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ericel/subscriptions",
+  "organizations_url": "https://api.github.com/users/ericel/orgs",
+  "repos_url": "https://api.github.com/users/ericel/repos",
+  "events_url": "https://api.github.com/users/ericel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ericel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
