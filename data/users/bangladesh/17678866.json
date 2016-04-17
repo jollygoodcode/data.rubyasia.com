@@ -1,0 +1,20 @@
+{
+  "login": "instaka",
+  "id": 17678866,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17678866?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/instaka",
+  "html_url": "https://github.com/instaka",
+  "followers_url": "https://api.github.com/users/instaka/followers",
+  "following_url": "https://api.github.com/users/instaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/instaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/instaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/instaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/instaka/orgs",
+  "repos_url": "https://api.github.com/users/instaka/repos",
+  "events_url": "https://api.github.com/users/instaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/instaka/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
