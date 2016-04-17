@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-04-17 08:11:25 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-10..2016-04-16",
+  "repos": [
+    {
+      "full_name": "gazay/ids_please",
+      "description": "Helps to get IDs or screen names from links to social network accounts",
+      "html_url": "https://github.com/gazay/ids_please",
+      "stars": 148,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "choonkeat/attache",
+      "description": "Yet another approach to file upload",
+      "html_url": "https://github.com/choonkeat/attache",
+      "stars": 133,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "description": "Ethereum library for the Ruby language",
+      "html_url": "https://github.com/DigixGlobal/ethereum-ruby",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "choonkeat/attache-rails",
+      "description": "integrate your Rails app with a attache server",
+      "html_url": "https://github.com/choonkeat/attache-rails",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "winston/rails_utils",
+      "description": "Rails helpers based on opinionated project practices. Currently useful for structuring CSS and JS.",
+      "html_url": "https://github.com/winston/rails_utils",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
