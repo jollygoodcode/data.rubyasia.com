@@ -1,0 +1,20 @@
+{
+  "login": "rparammel",
+  "id": 18037113,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18037113?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rparammel",
+  "html_url": "https://github.com/rparammel",
+  "followers_url": "https://api.github.com/users/rparammel/followers",
+  "following_url": "https://api.github.com/users/rparammel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rparammel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rparammel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rparammel/subscriptions",
+  "organizations_url": "https://api.github.com/users/rparammel/orgs",
+  "repos_url": "https://api.github.com/users/rparammel/repos",
+  "events_url": "https://api.github.com/users/rparammel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rparammel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

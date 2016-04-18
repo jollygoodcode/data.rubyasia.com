@@ -1,0 +1,20 @@
+{
+  "login": "tagty",
+  "id": 3345414,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3345414?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tagty",
+  "html_url": "https://github.com/tagty",
+  "followers_url": "https://api.github.com/users/tagty/followers",
+  "following_url": "https://api.github.com/users/tagty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tagty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tagty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tagty/subscriptions",
+  "organizations_url": "https://api.github.com/users/tagty/orgs",
+  "repos_url": "https://api.github.com/users/tagty/repos",
+  "events_url": "https://api.github.com/users/tagty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tagty/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
