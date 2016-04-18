@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-04-18 08:11:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-11..2016-04-17",
+  "repos": [
+    {
+      "full_name": "rubytaiwan/ruby-taiwan",
+      "description": "ruby-taiwan.org website source code. # master 追 ruby-china , production 才是 ruby-taiwan",
+      "html_url": "https://github.com/rubytaiwan/ruby-taiwan",
+      "stars": 92,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
