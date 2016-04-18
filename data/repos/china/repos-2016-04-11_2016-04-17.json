@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-04-18 08:10:26 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-11..2016-04-17",
+  "repos": [
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 146,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "wongyouth/chinacity",
+      "description": "Get the latest China cities data from official site.",
+      "html_url": "https://github.com/wongyouth/chinacity",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

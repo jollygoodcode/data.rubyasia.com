@@ -1,0 +1,20 @@
+{
+  "login": "ntnusa",
+  "id": 10853356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10853356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ntnusa",
+  "html_url": "https://github.com/ntnusa",
+  "followers_url": "https://api.github.com/users/ntnusa/followers",
+  "following_url": "https://api.github.com/users/ntnusa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ntnusa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ntnusa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ntnusa/subscriptions",
+  "organizations_url": "https://api.github.com/users/ntnusa/orgs",
+  "repos_url": "https://api.github.com/users/ntnusa/repos",
+  "events_url": "https://api.github.com/users/ntnusa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ntnusa/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
