@@ -1,0 +1,20 @@
+{
+  "login": "srydos",
+  "id": 10739361,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10739361?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/srydos",
+  "html_url": "https://github.com/srydos",
+  "followers_url": "https://api.github.com/users/srydos/followers",
+  "following_url": "https://api.github.com/users/srydos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/srydos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/srydos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/srydos/subscriptions",
+  "organizations_url": "https://api.github.com/users/srydos/orgs",
+  "repos_url": "https://api.github.com/users/srydos/repos",
+  "events_url": "https://api.github.com/users/srydos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/srydos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "royhsu",
+  "id": 7601064,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7601064?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/royhsu",
+  "html_url": "https://github.com/royhsu",
+  "followers_url": "https://api.github.com/users/royhsu/followers",
+  "following_url": "https://api.github.com/users/royhsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/royhsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/royhsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/royhsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/royhsu/orgs",
+  "repos_url": "https://api.github.com/users/royhsu/repos",
+  "events_url": "https://api.github.com/users/royhsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/royhsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

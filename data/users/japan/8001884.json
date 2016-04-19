@@ -1,0 +1,20 @@
+{
+  "login": "kankisuzuki",
+  "id": 8001884,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8001884?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kankisuzuki",
+  "html_url": "https://github.com/kankisuzuki",
+  "followers_url": "https://api.github.com/users/kankisuzuki/followers",
+  "following_url": "https://api.github.com/users/kankisuzuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kankisuzuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kankisuzuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kankisuzuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/kankisuzuki/orgs",
+  "repos_url": "https://api.github.com/users/kankisuzuki/repos",
+  "events_url": "https://api.github.com/users/kankisuzuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kankisuzuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

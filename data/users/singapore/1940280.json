@@ -1,0 +1,20 @@
+{
+  "login": "lmduc",
+  "id": 1940280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1940280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lmduc",
+  "html_url": "https://github.com/lmduc",
+  "followers_url": "https://api.github.com/users/lmduc/followers",
+  "following_url": "https://api.github.com/users/lmduc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lmduc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lmduc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lmduc/subscriptions",
+  "organizations_url": "https://api.github.com/users/lmduc/orgs",
+  "repos_url": "https://api.github.com/users/lmduc/repos",
+  "events_url": "https://api.github.com/users/lmduc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lmduc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
