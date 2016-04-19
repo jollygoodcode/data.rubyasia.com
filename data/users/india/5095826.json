@@ -1,0 +1,20 @@
+{
+  "login": "aberrya",
+  "id": 5095826,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5095826?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aberrya",
+  "html_url": "https://github.com/aberrya",
+  "followers_url": "https://api.github.com/users/aberrya/followers",
+  "following_url": "https://api.github.com/users/aberrya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aberrya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aberrya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aberrya/subscriptions",
+  "organizations_url": "https://api.github.com/users/aberrya/orgs",
+  "repos_url": "https://api.github.com/users/aberrya/repos",
+  "events_url": "https://api.github.com/users/aberrya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aberrya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

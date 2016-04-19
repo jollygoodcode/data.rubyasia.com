@@ -1,0 +1,20 @@
+{
+  "login": "biohuns",
+  "id": 18520474,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18520474?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/biohuns",
+  "html_url": "https://github.com/biohuns",
+  "followers_url": "https://api.github.com/users/biohuns/followers",
+  "following_url": "https://api.github.com/users/biohuns/following{/other_user}",
+  "gists_url": "https://api.github.com/users/biohuns/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/biohuns/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/biohuns/subscriptions",
+  "organizations_url": "https://api.github.com/users/biohuns/orgs",
+  "repos_url": "https://api.github.com/users/biohuns/repos",
+  "events_url": "https://api.github.com/users/biohuns/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/biohuns/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-04-19 08:10:30 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-12..2016-04-18",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 650,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 531,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 146,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 116,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 76,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "wongyouth/chinacity",
+      "description": "Get the latest China cities data from official site.",
+      "html_url": "https://github.com/wongyouth/chinacity",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
