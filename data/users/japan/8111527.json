@@ -1,0 +1,20 @@
+{
+  "login": "idstakahashi",
+  "id": 8111527,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8111527?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idstakahashi",
+  "html_url": "https://github.com/idstakahashi",
+  "followers_url": "https://api.github.com/users/idstakahashi/followers",
+  "following_url": "https://api.github.com/users/idstakahashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idstakahashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idstakahashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idstakahashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/idstakahashi/orgs",
+  "repos_url": "https://api.github.com/users/idstakahashi/repos",
+  "events_url": "https://api.github.com/users/idstakahashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idstakahashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
