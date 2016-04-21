@@ -1,0 +1,20 @@
+{
+  "login": "Coffa",
+  "id": 4101192,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4101192?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Coffa",
+  "html_url": "https://github.com/Coffa",
+  "followers_url": "https://api.github.com/users/Coffa/followers",
+  "following_url": "https://api.github.com/users/Coffa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Coffa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Coffa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Coffa/subscriptions",
+  "organizations_url": "https://api.github.com/users/Coffa/orgs",
+  "repos_url": "https://api.github.com/users/Coffa/repos",
+  "events_url": "https://api.github.com/users/Coffa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Coffa/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

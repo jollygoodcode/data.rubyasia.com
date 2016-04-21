@@ -1,0 +1,20 @@
+{
+  "login": "theconcept",
+  "id": 14168130,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14168130?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/theconcept",
+  "html_url": "https://github.com/theconcept",
+  "followers_url": "https://api.github.com/users/theconcept/followers",
+  "following_url": "https://api.github.com/users/theconcept/following{/other_user}",
+  "gists_url": "https://api.github.com/users/theconcept/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/theconcept/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/theconcept/subscriptions",
+  "organizations_url": "https://api.github.com/users/theconcept/orgs",
+  "repos_url": "https://api.github.com/users/theconcept/repos",
+  "events_url": "https://api.github.com/users/theconcept/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/theconcept/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

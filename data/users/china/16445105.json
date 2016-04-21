@@ -1,0 +1,20 @@
+{
+  "login": "caddyliu",
+  "id": 16445105,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16445105?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/caddyliu",
+  "html_url": "https://github.com/caddyliu",
+  "followers_url": "https://api.github.com/users/caddyliu/followers",
+  "following_url": "https://api.github.com/users/caddyliu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/caddyliu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/caddyliu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/caddyliu/subscriptions",
+  "organizations_url": "https://api.github.com/users/caddyliu/orgs",
+  "repos_url": "https://api.github.com/users/caddyliu/repos",
+  "events_url": "https://api.github.com/users/caddyliu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/caddyliu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
