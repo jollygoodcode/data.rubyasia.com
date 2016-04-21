@@ -1,0 +1,20 @@
+{
+  "login": "zhhlmr",
+  "id": 1525180,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1525180?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhhlmr",
+  "html_url": "https://github.com/zhhlmr",
+  "followers_url": "https://api.github.com/users/zhhlmr/followers",
+  "following_url": "https://api.github.com/users/zhhlmr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhhlmr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhhlmr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhhlmr/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhhlmr/orgs",
+  "repos_url": "https://api.github.com/users/zhhlmr/repos",
+  "events_url": "https://api.github.com/users/zhhlmr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhhlmr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
