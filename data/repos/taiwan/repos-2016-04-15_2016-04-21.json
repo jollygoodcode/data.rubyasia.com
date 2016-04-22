@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-04-22 08:11:22 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-15..2016-04-21",
+  "repos": [
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 438,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "rubytaiwan/ruby-taiwan",
+      "description": "ruby-taiwan.org website source code. # master 追 ruby-china , production 才是 ruby-taiwan",
+      "html_url": "https://github.com/rubytaiwan/ruby-taiwan",
+      "stars": 92,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
