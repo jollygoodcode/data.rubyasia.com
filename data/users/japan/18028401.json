@@ -1,0 +1,20 @@
+{
+  "login": "OhayoStudio",
+  "id": 18028401,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18028401?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/OhayoStudio",
+  "html_url": "https://github.com/OhayoStudio",
+  "followers_url": "https://api.github.com/users/OhayoStudio/followers",
+  "following_url": "https://api.github.com/users/OhayoStudio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OhayoStudio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/OhayoStudio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OhayoStudio/subscriptions",
+  "organizations_url": "https://api.github.com/users/OhayoStudio/orgs",
+  "repos_url": "https://api.github.com/users/OhayoStudio/repos",
+  "events_url": "https://api.github.com/users/OhayoStudio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/OhayoStudio/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
