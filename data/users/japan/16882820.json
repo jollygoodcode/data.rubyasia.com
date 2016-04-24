@@ -1,0 +1,20 @@
+{
+  "login": "rinov",
+  "id": 16882820,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16882820?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rinov",
+  "html_url": "https://github.com/rinov",
+  "followers_url": "https://api.github.com/users/rinov/followers",
+  "following_url": "https://api.github.com/users/rinov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rinov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rinov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rinov/subscriptions",
+  "organizations_url": "https://api.github.com/users/rinov/orgs",
+  "repos_url": "https://api.github.com/users/rinov/repos",
+  "events_url": "https://api.github.com/users/rinov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rinov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
