@@ -1,0 +1,20 @@
+{
+  "login": "BrandonContreras",
+  "id": 11970002,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11970002?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BrandonContreras",
+  "html_url": "https://github.com/BrandonContreras",
+  "followers_url": "https://api.github.com/users/BrandonContreras/followers",
+  "following_url": "https://api.github.com/users/BrandonContreras/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BrandonContreras/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BrandonContreras/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BrandonContreras/subscriptions",
+  "organizations_url": "https://api.github.com/users/BrandonContreras/orgs",
+  "repos_url": "https://api.github.com/users/BrandonContreras/repos",
+  "events_url": "https://api.github.com/users/BrandonContreras/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BrandonContreras/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
