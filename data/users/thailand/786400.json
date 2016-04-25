@@ -1,0 +1,20 @@
+{
+  "login": "jakshi",
+  "id": 786400,
+  "avatar_url": "https://avatars.githubusercontent.com/u/786400?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jakshi",
+  "html_url": "https://github.com/jakshi",
+  "followers_url": "https://api.github.com/users/jakshi/followers",
+  "following_url": "https://api.github.com/users/jakshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jakshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jakshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jakshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/jakshi/orgs",
+  "repos_url": "https://api.github.com/users/jakshi/repos",
+  "events_url": "https://api.github.com/users/jakshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jakshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

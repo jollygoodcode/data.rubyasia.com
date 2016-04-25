@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-04-25 08:10:25 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-18..2016-04-24",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 654,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 533,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-pinyin",
+      "description": "中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.",
+      "html_url": "https://github.com/janx/ruby-pinyin",
+      "stars": 315,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 246,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 76,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
