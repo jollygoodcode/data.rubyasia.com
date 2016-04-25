@@ -1,0 +1,20 @@
+{
+  "login": "webcrafters-in",
+  "id": 15346351,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15346351?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/webcrafters-in",
+  "html_url": "https://github.com/webcrafters-in",
+  "followers_url": "https://api.github.com/users/webcrafters-in/followers",
+  "following_url": "https://api.github.com/users/webcrafters-in/following{/other_user}",
+  "gists_url": "https://api.github.com/users/webcrafters-in/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/webcrafters-in/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/webcrafters-in/subscriptions",
+  "organizations_url": "https://api.github.com/users/webcrafters-in/orgs",
+  "repos_url": "https://api.github.com/users/webcrafters-in/repos",
+  "events_url": "https://api.github.com/users/webcrafters-in/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/webcrafters-in/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
