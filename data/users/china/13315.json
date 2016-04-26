@@ -1,0 +1,20 @@
+{
+  "login": "pmq20",
+  "id": 13315,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13315?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pmq20",
+  "html_url": "https://github.com/pmq20",
+  "followers_url": "https://api.github.com/users/pmq20/followers",
+  "following_url": "https://api.github.com/users/pmq20/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pmq20/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pmq20/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pmq20/subscriptions",
+  "organizations_url": "https://api.github.com/users/pmq20/orgs",
+  "repos_url": "https://api.github.com/users/pmq20/repos",
+  "events_url": "https://api.github.com/users/pmq20/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pmq20/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

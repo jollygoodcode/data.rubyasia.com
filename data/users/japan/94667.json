@@ -1,0 +1,20 @@
+{
+  "login": "tokzk",
+  "id": 94667,
+  "avatar_url": "https://avatars.githubusercontent.com/u/94667?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tokzk",
+  "html_url": "https://github.com/tokzk",
+  "followers_url": "https://api.github.com/users/tokzk/followers",
+  "following_url": "https://api.github.com/users/tokzk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tokzk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tokzk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tokzk/subscriptions",
+  "organizations_url": "https://api.github.com/users/tokzk/orgs",
+  "repos_url": "https://api.github.com/users/tokzk/repos",
+  "events_url": "https://api.github.com/users/tokzk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tokzk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
