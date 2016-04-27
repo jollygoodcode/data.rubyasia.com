@@ -1,0 +1,20 @@
+{
+  "login": "musaprg",
+  "id": 5970737,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5970737?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/musaprg",
+  "html_url": "https://github.com/musaprg",
+  "followers_url": "https://api.github.com/users/musaprg/followers",
+  "following_url": "https://api.github.com/users/musaprg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/musaprg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/musaprg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/musaprg/subscriptions",
+  "organizations_url": "https://api.github.com/users/musaprg/orgs",
+  "repos_url": "https://api.github.com/users/musaprg/repos",
+  "events_url": "https://api.github.com/users/musaprg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/musaprg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

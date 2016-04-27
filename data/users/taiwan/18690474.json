@@ -1,0 +1,20 @@
+{
+  "login": "poloxygen",
+  "id": 18690474,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18690474?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/poloxygen",
+  "html_url": "https://github.com/poloxygen",
+  "followers_url": "https://api.github.com/users/poloxygen/followers",
+  "following_url": "https://api.github.com/users/poloxygen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/poloxygen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/poloxygen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/poloxygen/subscriptions",
+  "organizations_url": "https://api.github.com/users/poloxygen/orgs",
+  "repos_url": "https://api.github.com/users/poloxygen/repos",
+  "events_url": "https://api.github.com/users/poloxygen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/poloxygen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
