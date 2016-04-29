@@ -1,0 +1,20 @@
+{
+  "login": "wandriutomo",
+  "id": 9108432,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9108432?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wandriutomo",
+  "html_url": "https://github.com/wandriutomo",
+  "followers_url": "https://api.github.com/users/wandriutomo/followers",
+  "following_url": "https://api.github.com/users/wandriutomo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wandriutomo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wandriutomo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wandriutomo/subscriptions",
+  "organizations_url": "https://api.github.com/users/wandriutomo/orgs",
+  "repos_url": "https://api.github.com/users/wandriutomo/repos",
+  "events_url": "https://api.github.com/users/wandriutomo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wandriutomo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
