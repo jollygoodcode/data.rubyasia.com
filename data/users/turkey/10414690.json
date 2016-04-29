@@ -1,0 +1,20 @@
+{
+  "login": "mertburgu",
+  "id": 10414690,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10414690?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mertburgu",
+  "html_url": "https://github.com/mertburgu",
+  "followers_url": "https://api.github.com/users/mertburgu/followers",
+  "following_url": "https://api.github.com/users/mertburgu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mertburgu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mertburgu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mertburgu/subscriptions",
+  "organizations_url": "https://api.github.com/users/mertburgu/orgs",
+  "repos_url": "https://api.github.com/users/mertburgu/repos",
+  "events_url": "https://api.github.com/users/mertburgu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mertburgu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

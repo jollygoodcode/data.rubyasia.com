@@ -1,0 +1,20 @@
+{
+  "login": "galliani",
+  "id": 8222801,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8222801?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/galliani",
+  "html_url": "https://github.com/galliani",
+  "followers_url": "https://api.github.com/users/galliani/followers",
+  "following_url": "https://api.github.com/users/galliani/following{/other_user}",
+  "gists_url": "https://api.github.com/users/galliani/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/galliani/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/galliani/subscriptions",
+  "organizations_url": "https://api.github.com/users/galliani/orgs",
+  "repos_url": "https://api.github.com/users/galliani/repos",
+  "events_url": "https://api.github.com/users/galliani/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/galliani/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

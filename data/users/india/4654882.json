@@ -1,0 +1,20 @@
+{
+  "login": "isstiaung",
+  "id": 4654882,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4654882?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/isstiaung",
+  "html_url": "https://github.com/isstiaung",
+  "followers_url": "https://api.github.com/users/isstiaung/followers",
+  "following_url": "https://api.github.com/users/isstiaung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/isstiaung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/isstiaung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/isstiaung/subscriptions",
+  "organizations_url": "https://api.github.com/users/isstiaung/orgs",
+  "repos_url": "https://api.github.com/users/isstiaung/repos",
+  "events_url": "https://api.github.com/users/isstiaung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/isstiaung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
