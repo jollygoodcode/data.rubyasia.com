@@ -1,0 +1,20 @@
+{
+  "login": "jeffreycastro",
+  "id": 12425184,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12425184?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeffreycastro",
+  "html_url": "https://github.com/jeffreycastro",
+  "followers_url": "https://api.github.com/users/jeffreycastro/followers",
+  "following_url": "https://api.github.com/users/jeffreycastro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeffreycastro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeffreycastro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeffreycastro/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeffreycastro/orgs",
+  "repos_url": "https://api.github.com/users/jeffreycastro/repos",
+  "events_url": "https://api.github.com/users/jeffreycastro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeffreycastro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

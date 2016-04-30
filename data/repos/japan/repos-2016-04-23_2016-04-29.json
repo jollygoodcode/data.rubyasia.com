@@ -1,0 +1,174 @@
+{
+  "generated_at": "2016-04-30 08:10:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-23..2016-04-29",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1614,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1519,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3 and Rails 4",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 519,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 511,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/md2key",
+      "description": "Convert markdown to keynote",
+      "html_url": "https://github.com/k0kubun/md2key",
+      "stars": 436,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 429,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 400,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/ruboty",
+      "description": "Ruby + Bot = Ruboty",
+      "html_url": "https://github.com/r7kamura/ruboty",
+      "stars": 321,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/infrataster",
+      "description": "Infrastructure Behavior Testing Framework",
+      "html_url": "https://github.com/ryotarai/infrataster",
+      "stars": 229,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/stateful_enum",
+      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+      "html_url": "https://github.com/amatsuda/stateful_enum",
+      "stars": 222,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 198,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 125,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "Rails 4.2とVue.js 1.0で開発中のアニメ視聴記録サービス「Annict」です。",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 116,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kei-s/github-preview",
+      "description": "Instant Preview for GitHub's README formats",
+      "html_url": "https://github.com/kei-s/github-preview",
+      "stars": 101,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 91,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hiki/hiki",
+      "description": "Hiki is a powerful and fast wiki clone written in Ruby.",
+      "html_url": "https://github.com/hiki/hiki",
+      "stars": 80,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yhara/enumerable-lazy",
+      "description": "Prototype of Ruby 2.0's Enumerable#lazy",
+      "html_url": "https://github.com/yhara/enumerable-lazy",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/job-descriptions",
+      "description": "Increments株式会社で募集しているポジションのJob Descriptionです。",
+      "html_url": "https://github.com/increments/job-descriptions",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "willnet/rake_shared_context",
+      "description": "shared_context for rake tasks",
+      "html_url": "https://github.com/willnet/rake_shared_context",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
