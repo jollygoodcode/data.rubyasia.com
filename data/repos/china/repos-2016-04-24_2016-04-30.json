@@ -1,0 +1,70 @@
+{
+  "generated_at": "2016-05-01 08:10:14 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-24..2016-04-30",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 652,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/rucaptcha",
+      "description": "This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.",
+      "html_url": "https://github.com/huacnlee/rucaptcha",
+      "stars": 289,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "saberma/china_city",
+      "description": "省市区街道四级联选择 Rails Engine Gem",
+      "html_url": "https://github.com/saberma/china_city",
+      "stars": 226,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Macrow/rails_kindeditor",
+      "description": "Kindeditor for Ruby on Rails",
+      "html_url": "https://github.com/Macrow/rails_kindeditor",
+      "stars": 221,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beenhero/omniauth-weibo-oauth2",
+      "description": "OmniAuth Oauth2 strategy for weibo.com.",
+      "html_url": "https://github.com/beenhero/omniauth-weibo-oauth2",
+      "stars": 125,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "kaichen/omniauth-qq-connect",
+      "description": "the OmniAuth strategy for authenticating to QQ connect",
+      "html_url": "https://github.com/kaichen/omniauth-qq-connect",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ak1t0",
+  "id": 6167442,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6167442?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ak1t0",
+  "html_url": "https://github.com/ak1t0",
+  "followers_url": "https://api.github.com/users/ak1t0/followers",
+  "following_url": "https://api.github.com/users/ak1t0/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ak1t0/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ak1t0/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ak1t0/subscriptions",
+  "organizations_url": "https://api.github.com/users/ak1t0/orgs",
+  "repos_url": "https://api.github.com/users/ak1t0/repos",
+  "events_url": "https://api.github.com/users/ak1t0/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ak1t0/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
