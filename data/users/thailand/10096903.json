@@ -1,0 +1,20 @@
+{
+  "login": "impactservices",
+  "id": 10096903,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10096903?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/impactservices",
+  "html_url": "https://github.com/impactservices",
+  "followers_url": "https://api.github.com/users/impactservices/followers",
+  "following_url": "https://api.github.com/users/impactservices/following{/other_user}",
+  "gists_url": "https://api.github.com/users/impactservices/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/impactservices/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/impactservices/subscriptions",
+  "organizations_url": "https://api.github.com/users/impactservices/orgs",
+  "repos_url": "https://api.github.com/users/impactservices/repos",
+  "events_url": "https://api.github.com/users/impactservices/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/impactservices/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
