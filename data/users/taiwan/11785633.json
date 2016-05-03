@@ -1,0 +1,20 @@
+{
+  "login": "ziltag",
+  "id": 11785633,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11785633?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ziltag",
+  "html_url": "https://github.com/ziltag",
+  "followers_url": "https://api.github.com/users/ziltag/followers",
+  "following_url": "https://api.github.com/users/ziltag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ziltag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ziltag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ziltag/subscriptions",
+  "organizations_url": "https://api.github.com/users/ziltag/orgs",
+  "repos_url": "https://api.github.com/users/ziltag/repos",
+  "events_url": "https://api.github.com/users/ziltag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ziltag/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
