@@ -1,0 +1,20 @@
+{
+  "login": "joewang",
+  "id": 16238,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16238?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joewang",
+  "html_url": "https://github.com/joewang",
+  "followers_url": "https://api.github.com/users/joewang/followers",
+  "following_url": "https://api.github.com/users/joewang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joewang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joewang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joewang/subscriptions",
+  "organizations_url": "https://api.github.com/users/joewang/orgs",
+  "repos_url": "https://api.github.com/users/joewang/repos",
+  "events_url": "https://api.github.com/users/joewang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joewang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

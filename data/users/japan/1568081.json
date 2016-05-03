@@ -1,0 +1,20 @@
+{
+  "login": "cawahara",
+  "id": 1568081,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1568081?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cawahara",
+  "html_url": "https://github.com/cawahara",
+  "followers_url": "https://api.github.com/users/cawahara/followers",
+  "following_url": "https://api.github.com/users/cawahara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cawahara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cawahara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cawahara/subscriptions",
+  "organizations_url": "https://api.github.com/users/cawahara/orgs",
+  "repos_url": "https://api.github.com/users/cawahara/repos",
+  "events_url": "https://api.github.com/users/cawahara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cawahara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

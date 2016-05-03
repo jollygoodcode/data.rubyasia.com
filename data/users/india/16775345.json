@@ -1,0 +1,20 @@
+{
+  "login": "arun99",
+  "id": 16775345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16775345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arun99",
+  "html_url": "https://github.com/arun99",
+  "followers_url": "https://api.github.com/users/arun99/followers",
+  "following_url": "https://api.github.com/users/arun99/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arun99/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arun99/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arun99/subscriptions",
+  "organizations_url": "https://api.github.com/users/arun99/orgs",
+  "repos_url": "https://api.github.com/users/arun99/repos",
+  "events_url": "https://api.github.com/users/arun99/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arun99/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

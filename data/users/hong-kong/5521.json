@@ -1,0 +1,20 @@
+{
+  "login": "kevinykchan",
+  "id": 5521,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5521?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kevinykchan",
+  "html_url": "https://github.com/kevinykchan",
+  "followers_url": "https://api.github.com/users/kevinykchan/followers",
+  "following_url": "https://api.github.com/users/kevinykchan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kevinykchan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kevinykchan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kevinykchan/subscriptions",
+  "organizations_url": "https://api.github.com/users/kevinykchan/orgs",
+  "repos_url": "https://api.github.com/users/kevinykchan/repos",
+  "events_url": "https://api.github.com/users/kevinykchan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kevinykchan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
