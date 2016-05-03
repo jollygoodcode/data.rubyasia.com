@@ -1,0 +1,158 @@
+{
+  "generated_at": "2016-05-03 08:11:11 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-26..2016-05-02",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1617,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1521,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3 and Rails 4",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 519,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 513,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 493,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/ruboty",
+      "description": "Ruby + Bot = Ruboty",
+      "html_url": "https://github.com/r7kamura/ruboty",
+      "stars": 323,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/stateful_enum",
+      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+      "html_url": "https://github.com/amatsuda/stateful_enum",
+      "stars": 221,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/ec2ssh",
+      "description": "A ssh_config manager for AWS EC2",
+      "html_url": "https://github.com/mirakui/ec2ssh",
+      "stars": 158,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/openid_connect",
+      "description": "OpenID Connect Server & Client Library",
+      "html_url": "https://github.com/nov/openid_connect",
+      "stars": 157,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 125,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hiki/hiki",
+      "description": "Hiki is a powerful and fast wiki clone written in Ruby.",
+      "html_url": "https://github.com/hiki/hiki",
+      "stars": 80,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」「ハーメルン」等の小説を管理するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 67,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "Tomohiro/fluentular",
+      "description": ":memo: Fluentular is a Fluentd regular expression editor",
+      "html_url": "https://github.com/Tomohiro/fluentular",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/rack-health",
+      "description": "",
+      "html_url": "https://github.com/mirakui/rack-health",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/activerecord-mysql-index-hint",
+      "description": "",
+      "html_url": "https://github.com/mirakui/activerecord-mysql-index-hint",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yhara/enumerable-lazy",
+      "description": "Prototype of Ruby 2.0's Enumerable#lazy",
+      "html_url": "https://github.com/yhara/enumerable-lazy",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
