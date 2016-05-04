@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-05-04 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-27..2016-05-03",
+  "repos": [
+    {
+      "full_name": "gazay/gon-sinatra",
+      "description": "Your Sinatra variables in your JS",
+      "html_url": "https://github.com/gazay/gon-sinatra",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
