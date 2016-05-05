@@ -1,0 +1,20 @@
+{
+  "login": "katsuma",
+  "id": 22689,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22689?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katsuma",
+  "html_url": "https://github.com/katsuma",
+  "followers_url": "https://api.github.com/users/katsuma/followers",
+  "following_url": "https://api.github.com/users/katsuma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katsuma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katsuma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katsuma/subscriptions",
+  "organizations_url": "https://api.github.com/users/katsuma/orgs",
+  "repos_url": "https://api.github.com/users/katsuma/repos",
+  "events_url": "https://api.github.com/users/katsuma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katsuma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
