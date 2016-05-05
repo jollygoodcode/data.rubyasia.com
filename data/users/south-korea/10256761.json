@@ -1,0 +1,20 @@
+{
+  "login": "GiWoongLee",
+  "id": 10256761,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10256761?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GiWoongLee",
+  "html_url": "https://github.com/GiWoongLee",
+  "followers_url": "https://api.github.com/users/GiWoongLee/followers",
+  "following_url": "https://api.github.com/users/GiWoongLee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GiWoongLee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GiWoongLee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GiWoongLee/subscriptions",
+  "organizations_url": "https://api.github.com/users/GiWoongLee/orgs",
+  "repos_url": "https://api.github.com/users/GiWoongLee/repos",
+  "events_url": "https://api.github.com/users/GiWoongLee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GiWoongLee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
