@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-05-06 08:10:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-29..2016-05-05",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4000,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 658,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "SaitoWu/linner",
+      "description": "HTML5 Application Assembler",
+      "html_url": "https://github.com/SaitoWu/linner",
+      "stars": 267,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 254,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 67,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
