@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-05-07 08:10:31 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-04-30..2016-05-06",
+  "repos": [
+    {
+      "full_name": "NoamB/sorcery",
+      "description": "Magical authentication for Rails 3 & 4",
+      "html_url": "https://github.com/NoamB/sorcery",
+      "stars": 2407,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/vitals",
+      "description": "Flexible StatsD instrumentation for Rails, Rack, Grape and more",
+      "html_url": "https://github.com/jondot/vitals",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}

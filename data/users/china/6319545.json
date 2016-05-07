@@ -1,0 +1,20 @@
+{
+  "login": "puppeter",
+  "id": 6319545,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6319545?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/puppeter",
+  "html_url": "https://github.com/puppeter",
+  "followers_url": "https://api.github.com/users/puppeter/followers",
+  "following_url": "https://api.github.com/users/puppeter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/puppeter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/puppeter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/puppeter/subscriptions",
+  "organizations_url": "https://api.github.com/users/puppeter/orgs",
+  "repos_url": "https://api.github.com/users/puppeter/repos",
+  "events_url": "https://api.github.com/users/puppeter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/puppeter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
