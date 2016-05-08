@@ -1,0 +1,20 @@
+{
+  "login": "locona",
+  "id": 18649881,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18649881?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/locona",
+  "html_url": "https://github.com/locona",
+  "followers_url": "https://api.github.com/users/locona/followers",
+  "following_url": "https://api.github.com/users/locona/following{/other_user}",
+  "gists_url": "https://api.github.com/users/locona/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/locona/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/locona/subscriptions",
+  "organizations_url": "https://api.github.com/users/locona/orgs",
+  "repos_url": "https://api.github.com/users/locona/repos",
+  "events_url": "https://api.github.com/users/locona/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/locona/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
