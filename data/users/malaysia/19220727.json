@@ -1,0 +1,20 @@
+{
+  "login": "newilzech",
+  "id": 19220727,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19220727?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/newilzech",
+  "html_url": "https://github.com/newilzech",
+  "followers_url": "https://api.github.com/users/newilzech/followers",
+  "following_url": "https://api.github.com/users/newilzech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/newilzech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/newilzech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/newilzech/subscriptions",
+  "organizations_url": "https://api.github.com/users/newilzech/orgs",
+  "repos_url": "https://api.github.com/users/newilzech/repos",
+  "events_url": "https://api.github.com/users/newilzech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/newilzech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

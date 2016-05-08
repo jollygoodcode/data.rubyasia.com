@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-05-08 08:11:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-01..2016-05-07",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3089,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "JuanitoFatas/active_sample",
+      "description": "I'm feeling lucky! :game_die:",
+      "html_url": "https://github.com/JuanitoFatas/active_sample",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
