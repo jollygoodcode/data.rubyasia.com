@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-05-09 08:10:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-02..2016-05-08",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4001,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 661,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "SaitoWu/linner",
+      "description": "HTML5 Application Assembler",
+      "html_url": "https://github.com/SaitoWu/linner",
+      "stars": 267,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 255,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 147,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 77,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
