@@ -1,0 +1,20 @@
+{
+  "login": "gsecret",
+  "id": 15084377,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15084377?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gsecret",
+  "html_url": "https://github.com/gsecret",
+  "followers_url": "https://api.github.com/users/gsecret/followers",
+  "following_url": "https://api.github.com/users/gsecret/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gsecret/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gsecret/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gsecret/subscriptions",
+  "organizations_url": "https://api.github.com/users/gsecret/orgs",
+  "repos_url": "https://api.github.com/users/gsecret/repos",
+  "events_url": "https://api.github.com/users/gsecret/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gsecret/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
