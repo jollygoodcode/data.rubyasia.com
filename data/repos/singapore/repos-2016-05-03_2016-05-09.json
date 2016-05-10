@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-05-10 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-03..2016-05-09",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2096,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "gazay/ids_please",
+      "description": "Helps to get IDs or screen names from links to social network accounts",
+      "html_url": "https://github.com/gazay/ids_please",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "description": "Ethereum library for the Ruby language",
+      "html_url": "https://github.com/DigixGlobal/ethereum-ruby",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
