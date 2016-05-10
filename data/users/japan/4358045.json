@@ -1,0 +1,20 @@
+{
+  "login": "sandagolcea",
+  "id": 4358045,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4358045?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sandagolcea",
+  "html_url": "https://github.com/sandagolcea",
+  "followers_url": "https://api.github.com/users/sandagolcea/followers",
+  "following_url": "https://api.github.com/users/sandagolcea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sandagolcea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sandagolcea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sandagolcea/subscriptions",
+  "organizations_url": "https://api.github.com/users/sandagolcea/orgs",
+  "repos_url": "https://api.github.com/users/sandagolcea/repos",
+  "events_url": "https://api.github.com/users/sandagolcea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sandagolcea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
