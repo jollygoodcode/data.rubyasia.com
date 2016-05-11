@@ -1,0 +1,20 @@
+{
+  "login": "juwai",
+  "id": 5142091,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5142091?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/juwai",
+  "html_url": "https://github.com/juwai",
+  "followers_url": "https://api.github.com/users/juwai/followers",
+  "following_url": "https://api.github.com/users/juwai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/juwai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/juwai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/juwai/subscriptions",
+  "organizations_url": "https://api.github.com/users/juwai/orgs",
+  "repos_url": "https://api.github.com/users/juwai/repos",
+  "events_url": "https://api.github.com/users/juwai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/juwai/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

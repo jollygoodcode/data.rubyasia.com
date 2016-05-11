@@ -1,0 +1,20 @@
+{
+  "login": "bryanvaz",
+  "id": 9157498,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9157498?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bryanvaz",
+  "html_url": "https://github.com/bryanvaz",
+  "followers_url": "https://api.github.com/users/bryanvaz/followers",
+  "following_url": "https://api.github.com/users/bryanvaz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bryanvaz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bryanvaz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bryanvaz/subscriptions",
+  "organizations_url": "https://api.github.com/users/bryanvaz/orgs",
+  "repos_url": "https://api.github.com/users/bryanvaz/repos",
+  "events_url": "https://api.github.com/users/bryanvaz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bryanvaz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
