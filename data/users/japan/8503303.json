@@ -1,0 +1,20 @@
+{
+  "login": "KKamijo",
+  "id": 8503303,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8503303?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KKamijo",
+  "html_url": "https://github.com/KKamijo",
+  "followers_url": "https://api.github.com/users/KKamijo/followers",
+  "following_url": "https://api.github.com/users/KKamijo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KKamijo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KKamijo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KKamijo/subscriptions",
+  "organizations_url": "https://api.github.com/users/KKamijo/orgs",
+  "repos_url": "https://api.github.com/users/KKamijo/repos",
+  "events_url": "https://api.github.com/users/KKamijo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KKamijo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

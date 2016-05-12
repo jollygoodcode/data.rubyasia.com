@@ -1,0 +1,20 @@
+{
+  "login": "coppermind",
+  "id": 470655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/470655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coppermind",
+  "html_url": "https://github.com/coppermind",
+  "followers_url": "https://api.github.com/users/coppermind/followers",
+  "following_url": "https://api.github.com/users/coppermind/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coppermind/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coppermind/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coppermind/subscriptions",
+  "organizations_url": "https://api.github.com/users/coppermind/orgs",
+  "repos_url": "https://api.github.com/users/coppermind/repos",
+  "events_url": "https://api.github.com/users/coppermind/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coppermind/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

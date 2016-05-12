@@ -1,0 +1,20 @@
+{
+  "login": "aslanov",
+  "id": 676044,
+  "avatar_url": "https://avatars.githubusercontent.com/u/676044?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aslanov",
+  "html_url": "https://github.com/aslanov",
+  "followers_url": "https://api.github.com/users/aslanov/followers",
+  "following_url": "https://api.github.com/users/aslanov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aslanov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aslanov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aslanov/subscriptions",
+  "organizations_url": "https://api.github.com/users/aslanov/orgs",
+  "repos_url": "https://api.github.com/users/aslanov/repos",
+  "events_url": "https://api.github.com/users/aslanov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aslanov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
