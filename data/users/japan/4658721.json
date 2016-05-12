@@ -1,0 +1,20 @@
+{
+  "login": "reokashiwa",
+  "id": 4658721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4658721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/reokashiwa",
+  "html_url": "https://github.com/reokashiwa",
+  "followers_url": "https://api.github.com/users/reokashiwa/followers",
+  "following_url": "https://api.github.com/users/reokashiwa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/reokashiwa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/reokashiwa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/reokashiwa/subscriptions",
+  "organizations_url": "https://api.github.com/users/reokashiwa/orgs",
+  "repos_url": "https://api.github.com/users/reokashiwa/repos",
+  "events_url": "https://api.github.com/users/reokashiwa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/reokashiwa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

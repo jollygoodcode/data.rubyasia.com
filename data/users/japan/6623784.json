@@ -1,0 +1,20 @@
+{
+  "login": "DerTraveler",
+  "id": 6623784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6623784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DerTraveler",
+  "html_url": "https://github.com/DerTraveler",
+  "followers_url": "https://api.github.com/users/DerTraveler/followers",
+  "following_url": "https://api.github.com/users/DerTraveler/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DerTraveler/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DerTraveler/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DerTraveler/subscriptions",
+  "organizations_url": "https://api.github.com/users/DerTraveler/orgs",
+  "repos_url": "https://api.github.com/users/DerTraveler/repos",
+  "events_url": "https://api.github.com/users/DerTraveler/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DerTraveler/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
