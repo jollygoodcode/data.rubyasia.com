@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-05-13 08:11:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-06..2016-05-12",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2101,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "description": "Ethereum library for the Ruby language",
+      "html_url": "https://github.com/DigixGlobal/ethereum-ruby",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology.org",
+      "description": "",
+      "html_url": "https://github.com/Coursemology/coursemology.org",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
