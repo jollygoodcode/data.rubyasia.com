@@ -1,0 +1,20 @@
+{
+  "login": "seanlin",
+  "id": 139739,
+  "avatar_url": "https://avatars.githubusercontent.com/u/139739?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seanlin",
+  "html_url": "https://github.com/seanlin",
+  "followers_url": "https://api.github.com/users/seanlin/followers",
+  "following_url": "https://api.github.com/users/seanlin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seanlin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seanlin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seanlin/subscriptions",
+  "organizations_url": "https://api.github.com/users/seanlin/orgs",
+  "repos_url": "https://api.github.com/users/seanlin/repos",
+  "events_url": "https://api.github.com/users/seanlin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seanlin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

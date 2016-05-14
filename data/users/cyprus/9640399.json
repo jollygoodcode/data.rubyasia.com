@@ -1,0 +1,20 @@
+{
+  "login": "ynsp",
+  "id": 9640399,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9640399?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ynsp",
+  "html_url": "https://github.com/ynsp",
+  "followers_url": "https://api.github.com/users/ynsp/followers",
+  "following_url": "https://api.github.com/users/ynsp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ynsp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ynsp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ynsp/subscriptions",
+  "organizations_url": "https://api.github.com/users/ynsp/orgs",
+  "repos_url": "https://api.github.com/users/ynsp/repos",
+  "events_url": "https://api.github.com/users/ynsp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ynsp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
