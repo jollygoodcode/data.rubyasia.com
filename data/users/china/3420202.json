@@ -1,0 +1,20 @@
+{
+  "login": "jerrypainter",
+  "id": 3420202,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3420202?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jerrypainter",
+  "html_url": "https://github.com/jerrypainter",
+  "followers_url": "https://api.github.com/users/jerrypainter/followers",
+  "following_url": "https://api.github.com/users/jerrypainter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jerrypainter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jerrypainter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jerrypainter/subscriptions",
+  "organizations_url": "https://api.github.com/users/jerrypainter/orgs",
+  "repos_url": "https://api.github.com/users/jerrypainter/repos",
+  "events_url": "https://api.github.com/users/jerrypainter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jerrypainter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

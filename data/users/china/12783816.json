@@ -1,0 +1,20 @@
+{
+  "login": "suncook",
+  "id": 12783816,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12783816?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suncook",
+  "html_url": "https://github.com/suncook",
+  "followers_url": "https://api.github.com/users/suncook/followers",
+  "following_url": "https://api.github.com/users/suncook/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suncook/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suncook/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suncook/subscriptions",
+  "organizations_url": "https://api.github.com/users/suncook/orgs",
+  "repos_url": "https://api.github.com/users/suncook/repos",
+  "events_url": "https://api.github.com/users/suncook/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suncook/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
