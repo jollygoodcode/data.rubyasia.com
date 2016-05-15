@@ -1,0 +1,62 @@
+{
+  "generated_at": "2016-05-15 08:11:31 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-08..2016-05-14",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3102,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/jellyfish",
+      "description": "Pico web framework for building API-centric web applications",
+      "html_url": "https://github.com/godfat/jellyfish",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/muack",
+      "description": "Muack -- Yet Another Mocking Library",
+      "html_url": "https://github.com/godfat/muack",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "JuanitoFatas/active_error",
+      "description": "Create an exception with backtrace has never been easier :heart:",
+      "html_url": "https://github.com/JuanitoFatas/active_error",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
