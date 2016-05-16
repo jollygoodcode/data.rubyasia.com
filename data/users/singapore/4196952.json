@@ -1,0 +1,20 @@
+{
+  "login": "ianq",
+  "id": 4196952,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4196952?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ianq",
+  "html_url": "https://github.com/ianq",
+  "followers_url": "https://api.github.com/users/ianq/followers",
+  "following_url": "https://api.github.com/users/ianq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ianq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ianq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ianq/subscriptions",
+  "organizations_url": "https://api.github.com/users/ianq/orgs",
+  "repos_url": "https://api.github.com/users/ianq/repos",
+  "events_url": "https://api.github.com/users/ianq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ianq/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

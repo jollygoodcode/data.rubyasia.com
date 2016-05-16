@@ -1,0 +1,20 @@
+{
+  "login": "johnyrock",
+  "id": 17078858,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17078858?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/johnyrock",
+  "html_url": "https://github.com/johnyrock",
+  "followers_url": "https://api.github.com/users/johnyrock/followers",
+  "following_url": "https://api.github.com/users/johnyrock/following{/other_user}",
+  "gists_url": "https://api.github.com/users/johnyrock/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/johnyrock/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/johnyrock/subscriptions",
+  "organizations_url": "https://api.github.com/users/johnyrock/orgs",
+  "repos_url": "https://api.github.com/users/johnyrock/repos",
+  "events_url": "https://api.github.com/users/johnyrock/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/johnyrock/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
