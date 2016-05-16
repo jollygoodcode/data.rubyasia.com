@@ -8,7 +8,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    byebug (9.0.1)
+    byebug (9.0.3)
     clockwork (2.0.0)
       activesupport
       tzinfo
@@ -44,7 +44,7 @@ GEM
       tilt (>= 1.3.3, < 2.1)
     temple (0.7.6)
     thread_safe (0.3.5)
-    tilt (2.0.3)
+    tilt (2.0.4)
     twemoji (2.1.1)
       nokogiri (~> 1.6.2)
     tzinfo (1.2.2)
