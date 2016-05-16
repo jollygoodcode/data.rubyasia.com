@@ -1,0 +1,20 @@
+{
+  "login": "Primeauth",
+  "id": 17794916,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17794916?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Primeauth",
+  "html_url": "https://github.com/Primeauth",
+  "followers_url": "https://api.github.com/users/Primeauth/followers",
+  "following_url": "https://api.github.com/users/Primeauth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Primeauth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Primeauth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Primeauth/subscriptions",
+  "organizations_url": "https://api.github.com/users/Primeauth/orgs",
+  "repos_url": "https://api.github.com/users/Primeauth/repos",
+  "events_url": "https://api.github.com/users/Primeauth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Primeauth/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

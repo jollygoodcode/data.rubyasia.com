@@ -1,0 +1,20 @@
+{
+  "login": "mmiyauchi",
+  "id": 656742,
+  "avatar_url": "https://avatars.githubusercontent.com/u/656742?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mmiyauchi",
+  "html_url": "https://github.com/mmiyauchi",
+  "followers_url": "https://api.github.com/users/mmiyauchi/followers",
+  "following_url": "https://api.github.com/users/mmiyauchi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mmiyauchi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mmiyauchi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mmiyauchi/subscriptions",
+  "organizations_url": "https://api.github.com/users/mmiyauchi/orgs",
+  "repos_url": "https://api.github.com/users/mmiyauchi/repos",
+  "events_url": "https://api.github.com/users/mmiyauchi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mmiyauchi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
