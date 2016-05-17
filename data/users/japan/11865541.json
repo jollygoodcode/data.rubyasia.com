@@ -1,0 +1,20 @@
+{
+  "login": "Infratop",
+  "id": 11865541,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11865541?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Infratop",
+  "html_url": "https://github.com/Infratop",
+  "followers_url": "https://api.github.com/users/Infratop/followers",
+  "following_url": "https://api.github.com/users/Infratop/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Infratop/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Infratop/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Infratop/subscriptions",
+  "organizations_url": "https://api.github.com/users/Infratop/orgs",
+  "repos_url": "https://api.github.com/users/Infratop/repos",
+  "events_url": "https://api.github.com/users/Infratop/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Infratop/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
