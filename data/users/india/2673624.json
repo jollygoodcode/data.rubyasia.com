@@ -1,0 +1,20 @@
+{
+  "login": "Druhin",
+  "id": 2673624,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2673624?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Druhin",
+  "html_url": "https://github.com/Druhin",
+  "followers_url": "https://api.github.com/users/Druhin/followers",
+  "following_url": "https://api.github.com/users/Druhin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Druhin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Druhin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Druhin/subscriptions",
+  "organizations_url": "https://api.github.com/users/Druhin/orgs",
+  "repos_url": "https://api.github.com/users/Druhin/repos",
+  "events_url": "https://api.github.com/users/Druhin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Druhin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
