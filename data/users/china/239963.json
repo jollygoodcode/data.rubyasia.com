@@ -1,0 +1,20 @@
+{
+  "login": "squarezw",
+  "id": 239963,
+  "avatar_url": "https://avatars.githubusercontent.com/u/239963?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/squarezw",
+  "html_url": "https://github.com/squarezw",
+  "followers_url": "https://api.github.com/users/squarezw/followers",
+  "following_url": "https://api.github.com/users/squarezw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/squarezw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/squarezw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/squarezw/subscriptions",
+  "organizations_url": "https://api.github.com/users/squarezw/orgs",
+  "repos_url": "https://api.github.com/users/squarezw/repos",
+  "events_url": "https://api.github.com/users/squarezw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/squarezw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
