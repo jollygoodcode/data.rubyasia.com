@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-05-18 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-11..2016-05-17",
+  "repos": [
+    {
+      "full_name": "choonkeat/attache-rails",
+      "description": "integrate your Rails app with a attache server",
+      "html_url": "https://github.com/choonkeat/attache-rails",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology.org",
+      "description": "",
+      "html_url": "https://github.com/Coursemology/coursemology.org",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
