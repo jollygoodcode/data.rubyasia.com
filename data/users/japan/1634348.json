@@ -1,0 +1,20 @@
+{
+  "login": "Epiju",
+  "id": 1634348,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1634348?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Epiju",
+  "html_url": "https://github.com/Epiju",
+  "followers_url": "https://api.github.com/users/Epiju/followers",
+  "following_url": "https://api.github.com/users/Epiju/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Epiju/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Epiju/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Epiju/subscriptions",
+  "organizations_url": "https://api.github.com/users/Epiju/orgs",
+  "repos_url": "https://api.github.com/users/Epiju/repos",
+  "events_url": "https://api.github.com/users/Epiju/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Epiju/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
