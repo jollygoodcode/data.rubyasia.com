@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-05-20 08:11:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-13..2016-05-19",
+  "repos": [
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 440,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/muack",
+      "description": "Muack -- Yet Another Mocking Library",
+      "html_url": "https://github.com/godfat/muack",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
