@@ -1,0 +1,20 @@
+{
+  "login": "g-ocloud",
+  "id": 16665226,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16665226?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/g-ocloud",
+  "html_url": "https://github.com/g-ocloud",
+  "followers_url": "https://api.github.com/users/g-ocloud/followers",
+  "following_url": "https://api.github.com/users/g-ocloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/g-ocloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/g-ocloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/g-ocloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/g-ocloud/orgs",
+  "repos_url": "https://api.github.com/users/g-ocloud/repos",
+  "events_url": "https://api.github.com/users/g-ocloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/g-ocloud/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

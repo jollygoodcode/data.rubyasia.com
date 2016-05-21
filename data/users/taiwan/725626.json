@@ -1,0 +1,20 @@
+{
+  "login": "Palgie",
+  "id": 725626,
+  "avatar_url": "https://avatars.githubusercontent.com/u/725626?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Palgie",
+  "html_url": "https://github.com/Palgie",
+  "followers_url": "https://api.github.com/users/Palgie/followers",
+  "following_url": "https://api.github.com/users/Palgie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Palgie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Palgie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Palgie/subscriptions",
+  "organizations_url": "https://api.github.com/users/Palgie/orgs",
+  "repos_url": "https://api.github.com/users/Palgie/repos",
+  "events_url": "https://api.github.com/users/Palgie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Palgie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
