@@ -1,0 +1,20 @@
+{
+  "login": "mirbeka",
+  "id": 11041205,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11041205?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mirbeka",
+  "html_url": "https://github.com/mirbeka",
+  "followers_url": "https://api.github.com/users/mirbeka/followers",
+  "following_url": "https://api.github.com/users/mirbeka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mirbeka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mirbeka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mirbeka/subscriptions",
+  "organizations_url": "https://api.github.com/users/mirbeka/orgs",
+  "repos_url": "https://api.github.com/users/mirbeka/repos",
+  "events_url": "https://api.github.com/users/mirbeka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mirbeka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
