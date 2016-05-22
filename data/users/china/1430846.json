@@ -1,0 +1,20 @@
+{
+  "login": "falm",
+  "id": 1430846,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1430846?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/falm",
+  "html_url": "https://github.com/falm",
+  "followers_url": "https://api.github.com/users/falm/followers",
+  "following_url": "https://api.github.com/users/falm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/falm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/falm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/falm/subscriptions",
+  "organizations_url": "https://api.github.com/users/falm/orgs",
+  "repos_url": "https://api.github.com/users/falm/repos",
+  "events_url": "https://api.github.com/users/falm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/falm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
