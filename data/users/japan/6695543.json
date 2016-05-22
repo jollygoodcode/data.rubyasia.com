@@ -1,0 +1,20 @@
+{
+  "login": "nkmk",
+  "id": 6695543,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6695543?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nkmk",
+  "html_url": "https://github.com/nkmk",
+  "followers_url": "https://api.github.com/users/nkmk/followers",
+  "following_url": "https://api.github.com/users/nkmk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nkmk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nkmk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nkmk/subscriptions",
+  "organizations_url": "https://api.github.com/users/nkmk/orgs",
+  "repos_url": "https://api.github.com/users/nkmk/repos",
+  "events_url": "https://api.github.com/users/nkmk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nkmk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
