@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-05-25 08:11:27 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-18..2016-05-24",
+  "repos": [
+    {
+      "full_name": "zetachang/react.rb",
+      "description": "Opal Ruby wrapper of React.js library.",
+      "html_url": "https://github.com/zetachang/react.rb",
+      "stars": 551,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 441,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
