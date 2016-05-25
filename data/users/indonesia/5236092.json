@@ -1,0 +1,20 @@
+{
+  "login": "andreyderma",
+  "id": 5236092,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5236092?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andreyderma",
+  "html_url": "https://github.com/andreyderma",
+  "followers_url": "https://api.github.com/users/andreyderma/followers",
+  "following_url": "https://api.github.com/users/andreyderma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andreyderma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andreyderma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andreyderma/subscriptions",
+  "organizations_url": "https://api.github.com/users/andreyderma/orgs",
+  "repos_url": "https://api.github.com/users/andreyderma/repos",
+  "events_url": "https://api.github.com/users/andreyderma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andreyderma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
