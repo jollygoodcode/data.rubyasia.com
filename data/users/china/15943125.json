@@ -1,0 +1,20 @@
+{
+  "login": "PualCN",
+  "id": 15943125,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15943125?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PualCN",
+  "html_url": "https://github.com/PualCN",
+  "followers_url": "https://api.github.com/users/PualCN/followers",
+  "following_url": "https://api.github.com/users/PualCN/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PualCN/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PualCN/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PualCN/subscriptions",
+  "organizations_url": "https://api.github.com/users/PualCN/orgs",
+  "repos_url": "https://api.github.com/users/PualCN/repos",
+  "events_url": "https://api.github.com/users/PualCN/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PualCN/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
