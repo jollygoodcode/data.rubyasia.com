@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-05-26 08:10:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-19..2016-05-25",
+  "repos": [
+    {
+      "full_name": "yonbergman/orly",
+      "description": "A small utility that notifies you when you need to run bundle install or db:migrate",
+      "html_url": "https://github.com/yonbergman/orly",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
