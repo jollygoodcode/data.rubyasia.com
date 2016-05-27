@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-05-27 08:10:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-20..2016-05-26",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4052,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 674,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 152,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-05-27 08:11:24 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-20..2016-05-26",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3115,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "zetachang/react.rb",
+      "description": "Opal Ruby wrapper of React.js library.",
+      "html_url": "https://github.com/zetachang/react.rb",
+      "stars": 555,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
