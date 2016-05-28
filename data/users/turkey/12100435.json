@@ -1,0 +1,20 @@
+{
+  "login": "ozzgurr",
+  "id": 12100435,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12100435?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ozzgurr",
+  "html_url": "https://github.com/ozzgurr",
+  "followers_url": "https://api.github.com/users/ozzgurr/followers",
+  "following_url": "https://api.github.com/users/ozzgurr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ozzgurr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ozzgurr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ozzgurr/subscriptions",
+  "organizations_url": "https://api.github.com/users/ozzgurr/orgs",
+  "repos_url": "https://api.github.com/users/ozzgurr/repos",
+  "events_url": "https://api.github.com/users/ozzgurr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ozzgurr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "iangels",
+  "id": 5307495,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5307495?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iangels",
+  "html_url": "https://github.com/iangels",
+  "followers_url": "https://api.github.com/users/iangels/followers",
+  "following_url": "https://api.github.com/users/iangels/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iangels/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iangels/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iangels/subscriptions",
+  "organizations_url": "https://api.github.com/users/iangels/orgs",
+  "repos_url": "https://api.github.com/users/iangels/repos",
+  "events_url": "https://api.github.com/users/iangels/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iangels/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
