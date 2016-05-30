@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-05-30 08:10:52 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-23..2016-05-29",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 4901,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "NoamB/sorcery",
+      "description": "Magical authentication for Rails 3 & 4",
+      "html_url": "https://github.com/NoamB/sorcery",
+      "stars": 2420,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/heroku-deflater",
+      "description": "Enable gzip compression on heroku, but don't compress images.",
+      "html_url": "https://github.com/romanbsd/heroku-deflater",
+      "stars": 221,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yonbergman/orly",
+      "description": "A small utility that notifies you when you need to run bundle install or db:migrate",
+      "html_url": "https://github.com/yonbergman/orly",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}

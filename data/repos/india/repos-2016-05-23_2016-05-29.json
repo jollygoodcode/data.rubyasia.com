@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-05-30 08:10:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-23..2016-05-29",
+  "repos": [
+    {
+      "full_name": "girishso/pluck_to_hash",
+      "description": "Extend ActiveRecord pluck to return array of hashes",
+      "html_url": "https://github.com/girishso/pluck_to_hash",
+      "stars": 152,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "login": "k-iida",
+  "id": 5769989,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5769989?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/k-iida",
+  "html_url": "https://github.com/k-iida",
+  "followers_url": "https://api.github.com/users/k-iida/followers",
+  "following_url": "https://api.github.com/users/k-iida/following{/other_user}",
+  "gists_url": "https://api.github.com/users/k-iida/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/k-iida/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/k-iida/subscriptions",
+  "organizations_url": "https://api.github.com/users/k-iida/orgs",
+  "repos_url": "https://api.github.com/users/k-iida/repos",
+  "events_url": "https://api.github.com/users/k-iida/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/k-iida/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
