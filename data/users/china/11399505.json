@@ -1,0 +1,20 @@
+{
+  "login": "chriswongxp",
+  "id": 11399505,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11399505?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chriswongxp",
+  "html_url": "https://github.com/chriswongxp",
+  "followers_url": "https://api.github.com/users/chriswongxp/followers",
+  "following_url": "https://api.github.com/users/chriswongxp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chriswongxp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chriswongxp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chriswongxp/subscriptions",
+  "organizations_url": "https://api.github.com/users/chriswongxp/orgs",
+  "repos_url": "https://api.github.com/users/chriswongxp/repos",
+  "events_url": "https://api.github.com/users/chriswongxp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chriswongxp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bharken",
+  "id": 16470155,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16470155?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bharken",
+  "html_url": "https://github.com/bharken",
+  "followers_url": "https://api.github.com/users/bharken/followers",
+  "following_url": "https://api.github.com/users/bharken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bharken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bharken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bharken/subscriptions",
+  "organizations_url": "https://api.github.com/users/bharken/orgs",
+  "repos_url": "https://api.github.com/users/bharken/repos",
+  "events_url": "https://api.github.com/users/bharken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bharken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
