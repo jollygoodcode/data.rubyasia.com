@@ -1,0 +1,20 @@
+{
+  "login": "roman-io",
+  "id": 9010086,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9010086?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/roman-io",
+  "html_url": "https://github.com/roman-io",
+  "followers_url": "https://api.github.com/users/roman-io/followers",
+  "following_url": "https://api.github.com/users/roman-io/following{/other_user}",
+  "gists_url": "https://api.github.com/users/roman-io/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/roman-io/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/roman-io/subscriptions",
+  "organizations_url": "https://api.github.com/users/roman-io/orgs",
+  "repos_url": "https://api.github.com/users/roman-io/repos",
+  "events_url": "https://api.github.com/users/roman-io/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/roman-io/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

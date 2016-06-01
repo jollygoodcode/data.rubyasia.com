@@ -1,0 +1,20 @@
+{
+  "login": "Dorfnox",
+  "id": 4779114,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4779114?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Dorfnox",
+  "html_url": "https://github.com/Dorfnox",
+  "followers_url": "https://api.github.com/users/Dorfnox/followers",
+  "following_url": "https://api.github.com/users/Dorfnox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Dorfnox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Dorfnox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Dorfnox/subscriptions",
+  "organizations_url": "https://api.github.com/users/Dorfnox/orgs",
+  "repos_url": "https://api.github.com/users/Dorfnox/repos",
+  "events_url": "https://api.github.com/users/Dorfnox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Dorfnox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
