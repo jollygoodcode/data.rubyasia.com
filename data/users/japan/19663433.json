@@ -1,0 +1,20 @@
+{
+  "login": "stimlocy",
+  "id": 19663433,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19663433?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stimlocy",
+  "html_url": "https://github.com/stimlocy",
+  "followers_url": "https://api.github.com/users/stimlocy/followers",
+  "following_url": "https://api.github.com/users/stimlocy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stimlocy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stimlocy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stimlocy/subscriptions",
+  "organizations_url": "https://api.github.com/users/stimlocy/orgs",
+  "repos_url": "https://api.github.com/users/stimlocy/repos",
+  "events_url": "https://api.github.com/users/stimlocy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stimlocy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
