@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-06-02 08:11:25 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-26..2016-06-01",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3122,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "zetachang/react.rb",
+      "description": "Opal Ruby wrapper of React.js library.",
+      "html_url": "https://github.com/zetachang/react.rb",
+      "stars": 557,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

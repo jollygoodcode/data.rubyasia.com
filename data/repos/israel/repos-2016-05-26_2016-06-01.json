@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-06-02 08:10:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-26..2016-06-01",
+  "repos": [
+    {
+      "full_name": "NoamB/sorcery",
+      "description": "Magical authentication for Rails 3 & 4",
+      "html_url": "https://github.com/NoamB/sorcery",
+      "stars": 2421,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/heroku-deflater",
+      "description": "Enable gzip compression on heroku, but don't compress images.",
+      "html_url": "https://github.com/romanbsd/heroku-deflater",
+      "stars": 221,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
