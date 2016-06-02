@@ -1,0 +1,20 @@
+{
+  "login": "seaniechaos",
+  "id": 8274948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8274948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seaniechaos",
+  "html_url": "https://github.com/seaniechaos",
+  "followers_url": "https://api.github.com/users/seaniechaos/followers",
+  "following_url": "https://api.github.com/users/seaniechaos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seaniechaos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seaniechaos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seaniechaos/subscriptions",
+  "organizations_url": "https://api.github.com/users/seaniechaos/orgs",
+  "repos_url": "https://api.github.com/users/seaniechaos/repos",
+  "events_url": "https://api.github.com/users/seaniechaos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seaniechaos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

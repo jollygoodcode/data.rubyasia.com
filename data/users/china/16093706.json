@@ -1,0 +1,20 @@
+{
+  "login": "5tv",
+  "id": 16093706,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16093706?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/5tv",
+  "html_url": "https://github.com/5tv",
+  "followers_url": "https://api.github.com/users/5tv/followers",
+  "following_url": "https://api.github.com/users/5tv/following{/other_user}",
+  "gists_url": "https://api.github.com/users/5tv/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/5tv/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/5tv/subscriptions",
+  "organizations_url": "https://api.github.com/users/5tv/orgs",
+  "repos_url": "https://api.github.com/users/5tv/repos",
+  "events_url": "https://api.github.com/users/5tv/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/5tv/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "robsaunders",
+  "id": 129359,
+  "avatar_url": "https://avatars.githubusercontent.com/u/129359?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robsaunders",
+  "html_url": "https://github.com/robsaunders",
+  "followers_url": "https://api.github.com/users/robsaunders/followers",
+  "following_url": "https://api.github.com/users/robsaunders/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robsaunders/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robsaunders/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robsaunders/subscriptions",
+  "organizations_url": "https://api.github.com/users/robsaunders/orgs",
+  "repos_url": "https://api.github.com/users/robsaunders/repos",
+  "events_url": "https://api.github.com/users/robsaunders/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robsaunders/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

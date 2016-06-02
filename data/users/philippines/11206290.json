@@ -1,0 +1,20 @@
+{
+  "login": "generomuga",
+  "id": 11206290,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11206290?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/generomuga",
+  "html_url": "https://github.com/generomuga",
+  "followers_url": "https://api.github.com/users/generomuga/followers",
+  "following_url": "https://api.github.com/users/generomuga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/generomuga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/generomuga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/generomuga/subscriptions",
+  "organizations_url": "https://api.github.com/users/generomuga/orgs",
+  "repos_url": "https://api.github.com/users/generomuga/repos",
+  "events_url": "https://api.github.com/users/generomuga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/generomuga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

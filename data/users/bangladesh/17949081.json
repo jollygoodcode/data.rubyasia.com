@@ -1,0 +1,20 @@
+{
+  "login": "seowiz",
+  "id": 17949081,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17949081?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seowiz",
+  "html_url": "https://github.com/seowiz",
+  "followers_url": "https://api.github.com/users/seowiz/followers",
+  "following_url": "https://api.github.com/users/seowiz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seowiz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seowiz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seowiz/subscriptions",
+  "organizations_url": "https://api.github.com/users/seowiz/orgs",
+  "repos_url": "https://api.github.com/users/seowiz/repos",
+  "events_url": "https://api.github.com/users/seowiz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seowiz/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
