@@ -1,0 +1,20 @@
+{
+  "login": "cahoy",
+  "id": 11257342,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11257342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cahoy",
+  "html_url": "https://github.com/cahoy",
+  "followers_url": "https://api.github.com/users/cahoy/followers",
+  "following_url": "https://api.github.com/users/cahoy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cahoy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cahoy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cahoy/subscriptions",
+  "organizations_url": "https://api.github.com/users/cahoy/orgs",
+  "repos_url": "https://api.github.com/users/cahoy/repos",
+  "events_url": "https://api.github.com/users/cahoy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cahoy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

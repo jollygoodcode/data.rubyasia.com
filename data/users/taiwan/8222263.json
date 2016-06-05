@@ -1,0 +1,20 @@
+{
+  "login": "jeanelai",
+  "id": 8222263,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8222263?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeanelai",
+  "html_url": "https://github.com/jeanelai",
+  "followers_url": "https://api.github.com/users/jeanelai/followers",
+  "following_url": "https://api.github.com/users/jeanelai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeanelai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeanelai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeanelai/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeanelai/orgs",
+  "repos_url": "https://api.github.com/users/jeanelai/repos",
+  "events_url": "https://api.github.com/users/jeanelai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeanelai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
