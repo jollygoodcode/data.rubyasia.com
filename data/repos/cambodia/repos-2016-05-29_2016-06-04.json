@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-06-05 08:10:08 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-29..2016-06-04",
+  "repos": [
+    {
+      "full_name": "dwilkie/carrierwave_direct",
+      "description": "Process your uploads in the background by uploading directly to S3",
+      "html_url": "https://github.com/dwilkie/carrierwave_direct",
+      "stars": 705,
+      "language": "Ruby",
+      "region": "Cambodia"
+    },
+    {
+      "full_name": "chamnap/liquid-rails",
+      "description": "Renders liquid templates with layout and partial support",
+      "html_url": "https://github.com/chamnap/liquid-rails",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Cambodia"
+    }
+  ]
+}
