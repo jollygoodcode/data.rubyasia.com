@@ -1,0 +1,20 @@
+{
+  "login": "chicn",
+  "id": 19764434,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19764434?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chicn",
+  "html_url": "https://github.com/chicn",
+  "followers_url": "https://api.github.com/users/chicn/followers",
+  "following_url": "https://api.github.com/users/chicn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chicn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chicn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chicn/subscriptions",
+  "organizations_url": "https://api.github.com/users/chicn/orgs",
+  "repos_url": "https://api.github.com/users/chicn/repos",
+  "events_url": "https://api.github.com/users/chicn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chicn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
