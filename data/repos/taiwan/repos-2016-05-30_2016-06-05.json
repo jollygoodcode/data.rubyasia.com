@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-06-06 08:11:26 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-30..2016-06-05",
+  "repos": [
+    {
+      "full_name": "zetachang/react.rb",
+      "description": "Opal Ruby wrapper of React.js library.",
+      "html_url": "https://github.com/zetachang/react.rb",
+      "stars": 559,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
