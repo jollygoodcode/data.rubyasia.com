@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-06-07 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-31..2016-06-06",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-06-07 08:10:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-05-31..2016-06-06",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 5096,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "NoamB/sorcery",
+      "description": "Magical authentication for Rails 3 & 4",
+      "html_url": "https://github.com/NoamB/sorcery",
+      "stars": 2423,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1255,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
