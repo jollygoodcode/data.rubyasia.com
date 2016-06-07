@@ -1,0 +1,20 @@
+{
+  "login": "aokie",
+  "id": 1585280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1585280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aokie",
+  "html_url": "https://github.com/aokie",
+  "followers_url": "https://api.github.com/users/aokie/followers",
+  "following_url": "https://api.github.com/users/aokie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aokie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aokie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aokie/subscriptions",
+  "organizations_url": "https://api.github.com/users/aokie/orgs",
+  "repos_url": "https://api.github.com/users/aokie/repos",
+  "events_url": "https://api.github.com/users/aokie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aokie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
