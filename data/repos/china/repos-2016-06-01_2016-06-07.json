@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-06-08 08:10:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-01..2016-06-07",
+  "repos": [
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 648,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "saberma/china_city",
+      "description": "省市区街道四级联选择 Rails Engine Gem",
+      "html_url": "https://github.com/saberma/china_city",
+      "stars": 230,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
