@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-06-08 08:10:06 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-01..2016-06-07",
+  "repos": [
+    {
+      "full_name": "dwilkie/carrierwave_direct",
+      "description": "Process your uploads in the background by uploading directly to S3",
+      "html_url": "https://github.com/dwilkie/carrierwave_direct",
+      "stars": 705,
+      "language": "Ruby",
+      "region": "Cambodia"
+    }
+  ]
+}
