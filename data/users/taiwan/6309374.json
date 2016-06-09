@@ -1,0 +1,20 @@
+{
+  "login": "GaliTW",
+  "id": 6309374,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6309374?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GaliTW",
+  "html_url": "https://github.com/GaliTW",
+  "followers_url": "https://api.github.com/users/GaliTW/followers",
+  "following_url": "https://api.github.com/users/GaliTW/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GaliTW/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GaliTW/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GaliTW/subscriptions",
+  "organizations_url": "https://api.github.com/users/GaliTW/orgs",
+  "repos_url": "https://api.github.com/users/GaliTW/repos",
+  "events_url": "https://api.github.com/users/GaliTW/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GaliTW/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
