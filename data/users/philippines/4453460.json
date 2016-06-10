@@ -1,0 +1,20 @@
+{
+  "login": "jacastro",
+  "id": 4453460,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4453460?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jacastro",
+  "html_url": "https://github.com/jacastro",
+  "followers_url": "https://api.github.com/users/jacastro/followers",
+  "following_url": "https://api.github.com/users/jacastro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jacastro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jacastro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jacastro/subscriptions",
+  "organizations_url": "https://api.github.com/users/jacastro/orgs",
+  "repos_url": "https://api.github.com/users/jacastro/repos",
+  "events_url": "https://api.github.com/users/jacastro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jacastro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
