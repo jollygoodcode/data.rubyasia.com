@@ -1,0 +1,20 @@
+{
+  "login": "allxblue",
+  "id": 1346099,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1346099?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/allxblue",
+  "html_url": "https://github.com/allxblue",
+  "followers_url": "https://api.github.com/users/allxblue/followers",
+  "following_url": "https://api.github.com/users/allxblue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/allxblue/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/allxblue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/allxblue/subscriptions",
+  "organizations_url": "https://api.github.com/users/allxblue/orgs",
+  "repos_url": "https://api.github.com/users/allxblue/repos",
+  "events_url": "https://api.github.com/users/allxblue/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/allxblue/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
