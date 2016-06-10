@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-06-10 08:10:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-03..2016-06-09",
+  "repos": [
+    {
+      "full_name": "saberma/china_city",
+      "description": "省市区街道四级联选择 Rails Engine Gem",
+      "html_url": "https://github.com/saberma/china_city",
+      "stars": 229,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
