@@ -1,0 +1,20 @@
+{
+  "login": "ecsthetic",
+  "id": 5945530,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5945530?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ecsthetic",
+  "html_url": "https://github.com/ecsthetic",
+  "followers_url": "https://api.github.com/users/ecsthetic/followers",
+  "following_url": "https://api.github.com/users/ecsthetic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ecsthetic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ecsthetic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ecsthetic/subscriptions",
+  "organizations_url": "https://api.github.com/users/ecsthetic/orgs",
+  "repos_url": "https://api.github.com/users/ecsthetic/repos",
+  "events_url": "https://api.github.com/users/ecsthetic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ecsthetic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

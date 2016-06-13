@@ -1,0 +1,20 @@
+{
+  "login": "sndesale",
+  "id": 4116433,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4116433?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sndesale",
+  "html_url": "https://github.com/sndesale",
+  "followers_url": "https://api.github.com/users/sndesale/followers",
+  "following_url": "https://api.github.com/users/sndesale/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sndesale/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sndesale/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sndesale/subscriptions",
+  "organizations_url": "https://api.github.com/users/sndesale/orgs",
+  "repos_url": "https://api.github.com/users/sndesale/repos",
+  "events_url": "https://api.github.com/users/sndesale/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sndesale/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
