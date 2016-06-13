@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-06-13 08:10:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-06..2016-06-12",
+  "repos": [
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 649,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 304,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

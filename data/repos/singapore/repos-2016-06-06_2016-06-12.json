@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-06-13 08:11:22 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-06..2016-06-12",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2124,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/jollygoodcode.github.io",
+      "description": ":thought_balloon: Jolly Good Blog",
+      "html_url": "https://github.com/jollygoodcode/jollygoodcode.github.io",
+      "stars": 72,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
