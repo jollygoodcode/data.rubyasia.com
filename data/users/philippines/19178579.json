@@ -1,0 +1,20 @@
+{
+  "login": "brynmrk",
+  "id": 19178579,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19178579?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brynmrk",
+  "html_url": "https://github.com/brynmrk",
+  "followers_url": "https://api.github.com/users/brynmrk/followers",
+  "following_url": "https://api.github.com/users/brynmrk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brynmrk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brynmrk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brynmrk/subscriptions",
+  "organizations_url": "https://api.github.com/users/brynmrk/orgs",
+  "repos_url": "https://api.github.com/users/brynmrk/repos",
+  "events_url": "https://api.github.com/users/brynmrk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brynmrk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
