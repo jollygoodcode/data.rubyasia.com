@@ -1,0 +1,20 @@
+{
+  "login": "dan-huang",
+  "id": 1590420,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1590420?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dan-huang",
+  "html_url": "https://github.com/dan-huang",
+  "followers_url": "https://api.github.com/users/dan-huang/followers",
+  "following_url": "https://api.github.com/users/dan-huang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dan-huang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dan-huang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dan-huang/subscriptions",
+  "organizations_url": "https://api.github.com/users/dan-huang/orgs",
+  "repos_url": "https://api.github.com/users/dan-huang/repos",
+  "events_url": "https://api.github.com/users/dan-huang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dan-huang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

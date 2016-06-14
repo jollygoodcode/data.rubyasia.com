@@ -1,0 +1,20 @@
+{
+  "login": "eshao",
+  "id": 29620,
+  "avatar_url": "https://avatars.githubusercontent.com/u/29620?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eshao",
+  "html_url": "https://github.com/eshao",
+  "followers_url": "https://api.github.com/users/eshao/followers",
+  "following_url": "https://api.github.com/users/eshao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eshao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eshao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eshao/subscriptions",
+  "organizations_url": "https://api.github.com/users/eshao/orgs",
+  "repos_url": "https://api.github.com/users/eshao/repos",
+  "events_url": "https://api.github.com/users/eshao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eshao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
