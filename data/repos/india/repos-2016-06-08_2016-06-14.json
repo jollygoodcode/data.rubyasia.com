@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-06-15 08:10:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-08..2016-06-14",
+  "repos": [
+    {
+      "full_name": "girishso/pluck_to_hash",
+      "description": "Extend ActiveRecord pluck to return array of hashes",
+      "html_url": "https://github.com/girishso/pluck_to_hash",
+      "stars": 166,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
