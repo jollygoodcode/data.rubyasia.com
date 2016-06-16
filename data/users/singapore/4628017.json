@@ -1,0 +1,20 @@
+{
+  "login": "francozappa",
+  "id": 4628017,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4628017?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/francozappa",
+  "html_url": "https://github.com/francozappa",
+  "followers_url": "https://api.github.com/users/francozappa/followers",
+  "following_url": "https://api.github.com/users/francozappa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/francozappa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/francozappa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/francozappa/subscriptions",
+  "organizations_url": "https://api.github.com/users/francozappa/orgs",
+  "repos_url": "https://api.github.com/users/francozappa/repos",
+  "events_url": "https://api.github.com/users/francozappa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/francozappa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

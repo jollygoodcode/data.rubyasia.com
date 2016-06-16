@@ -1,0 +1,20 @@
+{
+  "login": "aRac",
+  "id": 5327933,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5327933?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aRac",
+  "html_url": "https://github.com/aRac",
+  "followers_url": "https://api.github.com/users/aRac/followers",
+  "following_url": "https://api.github.com/users/aRac/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aRac/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aRac/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aRac/subscriptions",
+  "organizations_url": "https://api.github.com/users/aRac/orgs",
+  "repos_url": "https://api.github.com/users/aRac/repos",
+  "events_url": "https://api.github.com/users/aRac/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aRac/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
