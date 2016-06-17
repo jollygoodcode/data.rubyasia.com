@@ -1,0 +1,20 @@
+{
+  "login": "daBayrus",
+  "id": 751749,
+  "avatar_url": "https://avatars.githubusercontent.com/u/751749?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daBayrus",
+  "html_url": "https://github.com/daBayrus",
+  "followers_url": "https://api.github.com/users/daBayrus/followers",
+  "following_url": "https://api.github.com/users/daBayrus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daBayrus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daBayrus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daBayrus/subscriptions",
+  "organizations_url": "https://api.github.com/users/daBayrus/orgs",
+  "repos_url": "https://api.github.com/users/daBayrus/repos",
+  "events_url": "https://api.github.com/users/daBayrus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daBayrus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
