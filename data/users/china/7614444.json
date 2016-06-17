@@ -1,0 +1,20 @@
+{
+  "login": "wangbaojun",
+  "id": 7614444,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7614444?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wangbaojun",
+  "html_url": "https://github.com/wangbaojun",
+  "followers_url": "https://api.github.com/users/wangbaojun/followers",
+  "following_url": "https://api.github.com/users/wangbaojun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wangbaojun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wangbaojun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wangbaojun/subscriptions",
+  "organizations_url": "https://api.github.com/users/wangbaojun/orgs",
+  "repos_url": "https://api.github.com/users/wangbaojun/repos",
+  "events_url": "https://api.github.com/users/wangbaojun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wangbaojun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dytsai",
+  "id": 1527683,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1527683?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dytsai",
+  "html_url": "https://github.com/dytsai",
+  "followers_url": "https://api.github.com/users/dytsai/followers",
+  "following_url": "https://api.github.com/users/dytsai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dytsai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dytsai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dytsai/subscriptions",
+  "organizations_url": "https://api.github.com/users/dytsai/orgs",
+  "repos_url": "https://api.github.com/users/dytsai/repos",
+  "events_url": "https://api.github.com/users/dytsai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dytsai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
