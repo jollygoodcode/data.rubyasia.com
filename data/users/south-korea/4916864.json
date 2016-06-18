@@ -1,0 +1,20 @@
+{
+  "login": "wilreichert",
+  "id": 4916864,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4916864?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wilreichert",
+  "html_url": "https://github.com/wilreichert",
+  "followers_url": "https://api.github.com/users/wilreichert/followers",
+  "following_url": "https://api.github.com/users/wilreichert/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wilreichert/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wilreichert/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wilreichert/subscriptions",
+  "organizations_url": "https://api.github.com/users/wilreichert/orgs",
+  "repos_url": "https://api.github.com/users/wilreichert/repos",
+  "events_url": "https://api.github.com/users/wilreichert/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wilreichert/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
