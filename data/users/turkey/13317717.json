@@ -1,0 +1,20 @@
+{
+  "login": "mcavus",
+  "id": 13317717,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13317717?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mcavus",
+  "html_url": "https://github.com/mcavus",
+  "followers_url": "https://api.github.com/users/mcavus/followers",
+  "following_url": "https://api.github.com/users/mcavus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mcavus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mcavus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mcavus/subscriptions",
+  "organizations_url": "https://api.github.com/users/mcavus/orgs",
+  "repos_url": "https://api.github.com/users/mcavus/repos",
+  "events_url": "https://api.github.com/users/mcavus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mcavus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Cliff-Hsieh",
+  "id": 7284506,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7284506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Cliff-Hsieh",
+  "html_url": "https://github.com/Cliff-Hsieh",
+  "followers_url": "https://api.github.com/users/Cliff-Hsieh/followers",
+  "following_url": "https://api.github.com/users/Cliff-Hsieh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Cliff-Hsieh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Cliff-Hsieh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Cliff-Hsieh/subscriptions",
+  "organizations_url": "https://api.github.com/users/Cliff-Hsieh/orgs",
+  "repos_url": "https://api.github.com/users/Cliff-Hsieh/repos",
+  "events_url": "https://api.github.com/users/Cliff-Hsieh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Cliff-Hsieh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
