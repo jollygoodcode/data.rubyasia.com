@@ -1,0 +1,20 @@
+{
+  "login": "elevennines-inc",
+  "id": 19791253,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19791253?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elevennines-inc",
+  "html_url": "https://github.com/elevennines-inc",
+  "followers_url": "https://api.github.com/users/elevennines-inc/followers",
+  "following_url": "https://api.github.com/users/elevennines-inc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elevennines-inc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elevennines-inc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elevennines-inc/subscriptions",
+  "organizations_url": "https://api.github.com/users/elevennines-inc/orgs",
+  "repos_url": "https://api.github.com/users/elevennines-inc/repos",
+  "events_url": "https://api.github.com/users/elevennines-inc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elevennines-inc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

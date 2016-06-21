@@ -1,0 +1,20 @@
+{
+  "login": "6trees",
+  "id": 20059839,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20059839?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/6trees",
+  "html_url": "https://github.com/6trees",
+  "followers_url": "https://api.github.com/users/6trees/followers",
+  "following_url": "https://api.github.com/users/6trees/following{/other_user}",
+  "gists_url": "https://api.github.com/users/6trees/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/6trees/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/6trees/subscriptions",
+  "organizations_url": "https://api.github.com/users/6trees/orgs",
+  "repos_url": "https://api.github.com/users/6trees/repos",
+  "events_url": "https://api.github.com/users/6trees/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/6trees/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
