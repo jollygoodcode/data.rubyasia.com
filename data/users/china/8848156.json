@@ -1,0 +1,20 @@
+{
+  "login": "gallifreyer",
+  "id": 8848156,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8848156?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gallifreyer",
+  "html_url": "https://github.com/gallifreyer",
+  "followers_url": "https://api.github.com/users/gallifreyer/followers",
+  "following_url": "https://api.github.com/users/gallifreyer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gallifreyer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gallifreyer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gallifreyer/subscriptions",
+  "organizations_url": "https://api.github.com/users/gallifreyer/orgs",
+  "repos_url": "https://api.github.com/users/gallifreyer/repos",
+  "events_url": "https://api.github.com/users/gallifreyer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gallifreyer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
