@@ -1,0 +1,20 @@
+{
+  "login": "ZuhaWorld",
+  "id": 20073987,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20073987?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ZuhaWorld",
+  "html_url": "https://github.com/ZuhaWorld",
+  "followers_url": "https://api.github.com/users/ZuhaWorld/followers",
+  "following_url": "https://api.github.com/users/ZuhaWorld/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ZuhaWorld/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ZuhaWorld/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ZuhaWorld/subscriptions",
+  "organizations_url": "https://api.github.com/users/ZuhaWorld/orgs",
+  "repos_url": "https://api.github.com/users/ZuhaWorld/repos",
+  "events_url": "https://api.github.com/users/ZuhaWorld/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ZuhaWorld/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
