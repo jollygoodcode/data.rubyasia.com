@@ -1,0 +1,20 @@
+{
+  "login": "georgeweblabs",
+  "id": 10786501,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10786501?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/georgeweblabs",
+  "html_url": "https://github.com/georgeweblabs",
+  "followers_url": "https://api.github.com/users/georgeweblabs/followers",
+  "following_url": "https://api.github.com/users/georgeweblabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/georgeweblabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/georgeweblabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/georgeweblabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/georgeweblabs/orgs",
+  "repos_url": "https://api.github.com/users/georgeweblabs/repos",
+  "events_url": "https://api.github.com/users/georgeweblabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/georgeweblabs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

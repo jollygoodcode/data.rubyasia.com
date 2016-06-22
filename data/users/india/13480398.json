@@ -1,0 +1,20 @@
+{
+  "login": "decomplect-io",
+  "id": 13480398,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13480398?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/decomplect-io",
+  "html_url": "https://github.com/decomplect-io",
+  "followers_url": "https://api.github.com/users/decomplect-io/followers",
+  "following_url": "https://api.github.com/users/decomplect-io/following{/other_user}",
+  "gists_url": "https://api.github.com/users/decomplect-io/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/decomplect-io/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/decomplect-io/subscriptions",
+  "organizations_url": "https://api.github.com/users/decomplect-io/orgs",
+  "repos_url": "https://api.github.com/users/decomplect-io/repos",
+  "events_url": "https://api.github.com/users/decomplect-io/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/decomplect-io/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

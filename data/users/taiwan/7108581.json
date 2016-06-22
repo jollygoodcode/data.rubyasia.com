@@ -1,0 +1,20 @@
+{
+  "login": "baboola",
+  "id": 7108581,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7108581?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/baboola",
+  "html_url": "https://github.com/baboola",
+  "followers_url": "https://api.github.com/users/baboola/followers",
+  "following_url": "https://api.github.com/users/baboola/following{/other_user}",
+  "gists_url": "https://api.github.com/users/baboola/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/baboola/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/baboola/subscriptions",
+  "organizations_url": "https://api.github.com/users/baboola/orgs",
+  "repos_url": "https://api.github.com/users/baboola/repos",
+  "events_url": "https://api.github.com/users/baboola/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/baboola/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rotati",
+  "id": 10242622,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10242622?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rotati",
+  "html_url": "https://github.com/rotati",
+  "followers_url": "https://api.github.com/users/rotati/followers",
+  "following_url": "https://api.github.com/users/rotati/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rotati/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rotati/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rotati/subscriptions",
+  "organizations_url": "https://api.github.com/users/rotati/orgs",
+  "repos_url": "https://api.github.com/users/rotati/repos",
+  "events_url": "https://api.github.com/users/rotati/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rotati/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
