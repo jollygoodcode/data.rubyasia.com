@@ -1,0 +1,20 @@
+{
+  "login": "touhouota",
+  "id": 13186385,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13186385?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/touhouota",
+  "html_url": "https://github.com/touhouota",
+  "followers_url": "https://api.github.com/users/touhouota/followers",
+  "following_url": "https://api.github.com/users/touhouota/following{/other_user}",
+  "gists_url": "https://api.github.com/users/touhouota/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/touhouota/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/touhouota/subscriptions",
+  "organizations_url": "https://api.github.com/users/touhouota/orgs",
+  "repos_url": "https://api.github.com/users/touhouota/repos",
+  "events_url": "https://api.github.com/users/touhouota/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/touhouota/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
