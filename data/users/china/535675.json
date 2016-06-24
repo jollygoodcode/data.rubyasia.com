@@ -1,0 +1,20 @@
+{
+  "login": "hbnobody",
+  "id": 535675,
+  "avatar_url": "https://avatars.githubusercontent.com/u/535675?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hbnobody",
+  "html_url": "https://github.com/hbnobody",
+  "followers_url": "https://api.github.com/users/hbnobody/followers",
+  "following_url": "https://api.github.com/users/hbnobody/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hbnobody/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hbnobody/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hbnobody/subscriptions",
+  "organizations_url": "https://api.github.com/users/hbnobody/orgs",
+  "repos_url": "https://api.github.com/users/hbnobody/repos",
+  "events_url": "https://api.github.com/users/hbnobody/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hbnobody/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
