@@ -1,0 +1,20 @@
+{
+  "login": "otgroup",
+  "id": 10991599,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10991599?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/otgroup",
+  "html_url": "https://github.com/otgroup",
+  "followers_url": "https://api.github.com/users/otgroup/followers",
+  "following_url": "https://api.github.com/users/otgroup/following{/other_user}",
+  "gists_url": "https://api.github.com/users/otgroup/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/otgroup/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/otgroup/subscriptions",
+  "organizations_url": "https://api.github.com/users/otgroup/orgs",
+  "repos_url": "https://api.github.com/users/otgroup/repos",
+  "events_url": "https://api.github.com/users/otgroup/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/otgroup/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
