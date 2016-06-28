@@ -1,0 +1,20 @@
+{
+  "login": "paperproof",
+  "id": 240991,
+  "avatar_url": "https://avatars.githubusercontent.com/u/240991?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paperproof",
+  "html_url": "https://github.com/paperproof",
+  "followers_url": "https://api.github.com/users/paperproof/followers",
+  "following_url": "https://api.github.com/users/paperproof/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paperproof/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paperproof/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paperproof/subscriptions",
+  "organizations_url": "https://api.github.com/users/paperproof/orgs",
+  "repos_url": "https://api.github.com/users/paperproof/repos",
+  "events_url": "https://api.github.com/users/paperproof/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paperproof/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
