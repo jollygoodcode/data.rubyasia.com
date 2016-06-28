@@ -1,0 +1,20 @@
+{
+  "login": "kevoch",
+  "id": 17523479,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17523479?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kevoch",
+  "html_url": "https://github.com/kevoch",
+  "followers_url": "https://api.github.com/users/kevoch/followers",
+  "following_url": "https://api.github.com/users/kevoch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kevoch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kevoch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kevoch/subscriptions",
+  "organizations_url": "https://api.github.com/users/kevoch/orgs",
+  "repos_url": "https://api.github.com/users/kevoch/repos",
+  "events_url": "https://api.github.com/users/kevoch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kevoch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

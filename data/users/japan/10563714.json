@@ -1,0 +1,20 @@
+{
+  "login": "tanayuk",
+  "id": 10563714,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10563714?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tanayuk",
+  "html_url": "https://github.com/tanayuk",
+  "followers_url": "https://api.github.com/users/tanayuk/followers",
+  "following_url": "https://api.github.com/users/tanayuk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tanayuk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tanayuk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tanayuk/subscriptions",
+  "organizations_url": "https://api.github.com/users/tanayuk/orgs",
+  "repos_url": "https://api.github.com/users/tanayuk/repos",
+  "events_url": "https://api.github.com/users/tanayuk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tanayuk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
