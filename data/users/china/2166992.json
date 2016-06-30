@@ -1,0 +1,20 @@
+{
+  "login": "cn09876",
+  "id": 2166992,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2166992?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cn09876",
+  "html_url": "https://github.com/cn09876",
+  "followers_url": "https://api.github.com/users/cn09876/followers",
+  "following_url": "https://api.github.com/users/cn09876/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cn09876/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cn09876/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cn09876/subscriptions",
+  "organizations_url": "https://api.github.com/users/cn09876/orgs",
+  "repos_url": "https://api.github.com/users/cn09876/repos",
+  "events_url": "https://api.github.com/users/cn09876/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cn09876/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
