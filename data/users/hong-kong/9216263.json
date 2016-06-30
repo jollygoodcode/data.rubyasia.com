@@ -1,0 +1,20 @@
+{
+  "login": "simonpoon",
+  "id": 9216263,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9216263?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simonpoon",
+  "html_url": "https://github.com/simonpoon",
+  "followers_url": "https://api.github.com/users/simonpoon/followers",
+  "following_url": "https://api.github.com/users/simonpoon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simonpoon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simonpoon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simonpoon/subscriptions",
+  "organizations_url": "https://api.github.com/users/simonpoon/orgs",
+  "repos_url": "https://api.github.com/users/simonpoon/repos",
+  "events_url": "https://api.github.com/users/simonpoon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simonpoon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

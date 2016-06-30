@@ -1,0 +1,20 @@
+{
+  "login": "arnojin",
+  "id": 1175553,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1175553?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arnojin",
+  "html_url": "https://github.com/arnojin",
+  "followers_url": "https://api.github.com/users/arnojin/followers",
+  "following_url": "https://api.github.com/users/arnojin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arnojin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arnojin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arnojin/subscriptions",
+  "organizations_url": "https://api.github.com/users/arnojin/orgs",
+  "repos_url": "https://api.github.com/users/arnojin/repos",
+  "events_url": "https://api.github.com/users/arnojin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arnojin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "rikenbit",
+  "id": 7158513,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7158513?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rikenbit",
+  "html_url": "https://github.com/rikenbit",
+  "followers_url": "https://api.github.com/users/rikenbit/followers",
+  "following_url": "https://api.github.com/users/rikenbit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rikenbit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rikenbit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rikenbit/subscriptions",
+  "organizations_url": "https://api.github.com/users/rikenbit/orgs",
+  "repos_url": "https://api.github.com/users/rikenbit/repos",
+  "events_url": "https://api.github.com/users/rikenbit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rikenbit/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

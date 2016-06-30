@@ -1,0 +1,20 @@
+{
+  "login": "akiko-pusu",
+  "id": 122621,
+  "avatar_url": "https://avatars.githubusercontent.com/u/122621?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akiko-pusu",
+  "html_url": "https://github.com/akiko-pusu",
+  "followers_url": "https://api.github.com/users/akiko-pusu/followers",
+  "following_url": "https://api.github.com/users/akiko-pusu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akiko-pusu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akiko-pusu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akiko-pusu/subscriptions",
+  "organizations_url": "https://api.github.com/users/akiko-pusu/orgs",
+  "repos_url": "https://api.github.com/users/akiko-pusu/repos",
+  "events_url": "https://api.github.com/users/akiko-pusu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akiko-pusu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

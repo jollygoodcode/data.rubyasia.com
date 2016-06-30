@@ -1,0 +1,20 @@
+{
+  "login": "manic",
+  "id": 74136,
+  "avatar_url": "https://avatars.githubusercontent.com/u/74136?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/manic",
+  "html_url": "https://github.com/manic",
+  "followers_url": "https://api.github.com/users/manic/followers",
+  "following_url": "https://api.github.com/users/manic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/manic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/manic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/manic/subscriptions",
+  "organizations_url": "https://api.github.com/users/manic/orgs",
+  "repos_url": "https://api.github.com/users/manic/repos",
+  "events_url": "https://api.github.com/users/manic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/manic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

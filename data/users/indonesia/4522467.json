@@ -1,0 +1,20 @@
+{
+  "login": "hilmanrdn",
+  "id": 4522467,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4522467?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hilmanrdn",
+  "html_url": "https://github.com/hilmanrdn",
+  "followers_url": "https://api.github.com/users/hilmanrdn/followers",
+  "following_url": "https://api.github.com/users/hilmanrdn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hilmanrdn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hilmanrdn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hilmanrdn/subscriptions",
+  "organizations_url": "https://api.github.com/users/hilmanrdn/orgs",
+  "repos_url": "https://api.github.com/users/hilmanrdn/repos",
+  "events_url": "https://api.github.com/users/hilmanrdn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hilmanrdn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
