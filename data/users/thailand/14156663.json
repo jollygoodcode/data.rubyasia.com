@@ -1,0 +1,20 @@
+{
+  "login": "Devorite",
+  "id": 14156663,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14156663?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Devorite",
+  "html_url": "https://github.com/Devorite",
+  "followers_url": "https://api.github.com/users/Devorite/followers",
+  "following_url": "https://api.github.com/users/Devorite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Devorite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Devorite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Devorite/subscriptions",
+  "organizations_url": "https://api.github.com/users/Devorite/orgs",
+  "repos_url": "https://api.github.com/users/Devorite/repos",
+  "events_url": "https://api.github.com/users/Devorite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Devorite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
