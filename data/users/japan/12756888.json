@@ -1,0 +1,20 @@
+{
+  "login": "couragecourag",
+  "id": 12756888,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12756888?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/couragecourag",
+  "html_url": "https://github.com/couragecourag",
+  "followers_url": "https://api.github.com/users/couragecourag/followers",
+  "following_url": "https://api.github.com/users/couragecourag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/couragecourag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/couragecourag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/couragecourag/subscriptions",
+  "organizations_url": "https://api.github.com/users/couragecourag/orgs",
+  "repos_url": "https://api.github.com/users/couragecourag/repos",
+  "events_url": "https://api.github.com/users/couragecourag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/couragecourag/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
