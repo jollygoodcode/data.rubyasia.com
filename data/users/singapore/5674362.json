@@ -1,0 +1,20 @@
+{
+  "login": "nickangtc",
+  "id": 5674362,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5674362?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nickangtc",
+  "html_url": "https://github.com/nickangtc",
+  "followers_url": "https://api.github.com/users/nickangtc/followers",
+  "following_url": "https://api.github.com/users/nickangtc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nickangtc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nickangtc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nickangtc/subscriptions",
+  "organizations_url": "https://api.github.com/users/nickangtc/orgs",
+  "repos_url": "https://api.github.com/users/nickangtc/repos",
+  "events_url": "https://api.github.com/users/nickangtc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nickangtc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
