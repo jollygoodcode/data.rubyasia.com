@@ -1,0 +1,20 @@
+{
+  "login": "Rvtea",
+  "id": 10421229,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10421229?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Rvtea",
+  "html_url": "https://github.com/Rvtea",
+  "followers_url": "https://api.github.com/users/Rvtea/followers",
+  "following_url": "https://api.github.com/users/Rvtea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Rvtea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Rvtea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Rvtea/subscriptions",
+  "organizations_url": "https://api.github.com/users/Rvtea/orgs",
+  "repos_url": "https://api.github.com/users/Rvtea/repos",
+  "events_url": "https://api.github.com/users/Rvtea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Rvtea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
