@@ -1,0 +1,20 @@
+{
+  "login": "jedld",
+  "id": 949459,
+  "avatar_url": "https://avatars.githubusercontent.com/u/949459?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jedld",
+  "html_url": "https://github.com/jedld",
+  "followers_url": "https://api.github.com/users/jedld/followers",
+  "following_url": "https://api.github.com/users/jedld/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jedld/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jedld/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jedld/subscriptions",
+  "organizations_url": "https://api.github.com/users/jedld/orgs",
+  "repos_url": "https://api.github.com/users/jedld/repos",
+  "events_url": "https://api.github.com/users/jedld/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jedld/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
