@@ -1,0 +1,20 @@
+{
+  "login": "jiwonrom",
+  "id": 18101254,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18101254?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jiwonrom",
+  "html_url": "https://github.com/jiwonrom",
+  "followers_url": "https://api.github.com/users/jiwonrom/followers",
+  "following_url": "https://api.github.com/users/jiwonrom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jiwonrom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jiwonrom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jiwonrom/subscriptions",
+  "organizations_url": "https://api.github.com/users/jiwonrom/orgs",
+  "repos_url": "https://api.github.com/users/jiwonrom/repos",
+  "events_url": "https://api.github.com/users/jiwonrom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jiwonrom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
