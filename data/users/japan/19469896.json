@@ -1,0 +1,20 @@
+{
+  "login": "zyory",
+  "id": 19469896,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19469896?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zyory",
+  "html_url": "https://github.com/zyory",
+  "followers_url": "https://api.github.com/users/zyory/followers",
+  "following_url": "https://api.github.com/users/zyory/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zyory/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zyory/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zyory/subscriptions",
+  "organizations_url": "https://api.github.com/users/zyory/orgs",
+  "repos_url": "https://api.github.com/users/zyory/repos",
+  "events_url": "https://api.github.com/users/zyory/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zyory/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
