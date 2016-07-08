@@ -1,0 +1,20 @@
+{
+  "login": "tostonar",
+  "id": 19528125,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19528125?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tostonar",
+  "html_url": "https://github.com/tostonar",
+  "followers_url": "https://api.github.com/users/tostonar/followers",
+  "following_url": "https://api.github.com/users/tostonar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tostonar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tostonar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tostonar/subscriptions",
+  "organizations_url": "https://api.github.com/users/tostonar/orgs",
+  "repos_url": "https://api.github.com/users/tostonar/repos",
+  "events_url": "https://api.github.com/users/tostonar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tostonar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
