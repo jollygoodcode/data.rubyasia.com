@@ -1,0 +1,20 @@
+{
+  "login": "rubyeffect",
+  "id": 13198209,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13198209?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubyeffect",
+  "html_url": "https://github.com/rubyeffect",
+  "followers_url": "https://api.github.com/users/rubyeffect/followers",
+  "following_url": "https://api.github.com/users/rubyeffect/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubyeffect/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubyeffect/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubyeffect/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubyeffect/orgs",
+  "repos_url": "https://api.github.com/users/rubyeffect/repos",
+  "events_url": "https://api.github.com/users/rubyeffect/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubyeffect/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
