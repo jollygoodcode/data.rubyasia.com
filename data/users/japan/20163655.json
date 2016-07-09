@@ -1,0 +1,20 @@
+{
+  "login": "shawkoike",
+  "id": 20163655,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20163655?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shawkoike",
+  "html_url": "https://github.com/shawkoike",
+  "followers_url": "https://api.github.com/users/shawkoike/followers",
+  "following_url": "https://api.github.com/users/shawkoike/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shawkoike/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shawkoike/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shawkoike/subscriptions",
+  "organizations_url": "https://api.github.com/users/shawkoike/orgs",
+  "repos_url": "https://api.github.com/users/shawkoike/repos",
+  "events_url": "https://api.github.com/users/shawkoike/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shawkoike/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
