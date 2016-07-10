@@ -1,0 +1,20 @@
+{
+  "login": "bayetech",
+  "id": 20120886,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20120886?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bayetech",
+  "html_url": "https://github.com/bayetech",
+  "followers_url": "https://api.github.com/users/bayetech/followers",
+  "following_url": "https://api.github.com/users/bayetech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bayetech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bayetech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bayetech/subscriptions",
+  "organizations_url": "https://api.github.com/users/bayetech/orgs",
+  "repos_url": "https://api.github.com/users/bayetech/repos",
+  "events_url": "https://api.github.com/users/bayetech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bayetech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

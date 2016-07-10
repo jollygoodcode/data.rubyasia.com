@@ -1,0 +1,20 @@
+{
+  "login": "jimzhan",
+  "id": 460877,
+  "avatar_url": "https://avatars.githubusercontent.com/u/460877?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jimzhan",
+  "html_url": "https://github.com/jimzhan",
+  "followers_url": "https://api.github.com/users/jimzhan/followers",
+  "following_url": "https://api.github.com/users/jimzhan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jimzhan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jimzhan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jimzhan/subscriptions",
+  "organizations_url": "https://api.github.com/users/jimzhan/orgs",
+  "repos_url": "https://api.github.com/users/jimzhan/repos",
+  "events_url": "https://api.github.com/users/jimzhan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jimzhan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
