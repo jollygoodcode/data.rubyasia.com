@@ -1,0 +1,20 @@
+{
+  "login": "fate-lovely",
+  "id": 4210829,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4210829?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fate-lovely",
+  "html_url": "https://github.com/fate-lovely",
+  "followers_url": "https://api.github.com/users/fate-lovely/followers",
+  "following_url": "https://api.github.com/users/fate-lovely/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fate-lovely/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fate-lovely/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fate-lovely/subscriptions",
+  "organizations_url": "https://api.github.com/users/fate-lovely/orgs",
+  "repos_url": "https://api.github.com/users/fate-lovely/repos",
+  "events_url": "https://api.github.com/users/fate-lovely/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fate-lovely/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
