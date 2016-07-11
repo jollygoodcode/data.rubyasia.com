@@ -1,0 +1,20 @@
+{
+  "login": "ykogure",
+  "id": 7221445,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7221445?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ykogure",
+  "html_url": "https://github.com/ykogure",
+  "followers_url": "https://api.github.com/users/ykogure/followers",
+  "following_url": "https://api.github.com/users/ykogure/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ykogure/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ykogure/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ykogure/subscriptions",
+  "organizations_url": "https://api.github.com/users/ykogure/orgs",
+  "repos_url": "https://api.github.com/users/ykogure/repos",
+  "events_url": "https://api.github.com/users/ykogure/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ykogure/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
