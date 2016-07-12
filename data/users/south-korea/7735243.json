@@ -1,0 +1,20 @@
+{
+  "login": "hotsummmer",
+  "id": 7735243,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7735243?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hotsummmer",
+  "html_url": "https://github.com/hotsummmer",
+  "followers_url": "https://api.github.com/users/hotsummmer/followers",
+  "following_url": "https://api.github.com/users/hotsummmer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hotsummmer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hotsummmer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hotsummmer/subscriptions",
+  "organizations_url": "https://api.github.com/users/hotsummmer/orgs",
+  "repos_url": "https://api.github.com/users/hotsummmer/repos",
+  "events_url": "https://api.github.com/users/hotsummmer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hotsummmer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
