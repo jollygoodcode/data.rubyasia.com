@@ -1,0 +1,20 @@
+{
+  "login": "burpple",
+  "id": 4051488,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4051488?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/burpple",
+  "html_url": "https://github.com/burpple",
+  "followers_url": "https://api.github.com/users/burpple/followers",
+  "following_url": "https://api.github.com/users/burpple/following{/other_user}",
+  "gists_url": "https://api.github.com/users/burpple/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/burpple/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/burpple/subscriptions",
+  "organizations_url": "https://api.github.com/users/burpple/orgs",
+  "repos_url": "https://api.github.com/users/burpple/repos",
+  "events_url": "https://api.github.com/users/burpple/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/burpple/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
