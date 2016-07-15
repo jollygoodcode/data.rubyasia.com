@@ -1,0 +1,20 @@
+{
+  "login": "cuhavp",
+  "id": 4990397,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4990397?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cuhavp",
+  "html_url": "https://github.com/cuhavp",
+  "followers_url": "https://api.github.com/users/cuhavp/followers",
+  "following_url": "https://api.github.com/users/cuhavp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cuhavp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cuhavp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cuhavp/subscriptions",
+  "organizations_url": "https://api.github.com/users/cuhavp/orgs",
+  "repos_url": "https://api.github.com/users/cuhavp/repos",
+  "events_url": "https://api.github.com/users/cuhavp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cuhavp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

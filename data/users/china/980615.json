@@ -1,0 +1,20 @@
+{
+  "login": "bostontrader",
+  "id": 980615,
+  "avatar_url": "https://avatars.githubusercontent.com/u/980615?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bostontrader",
+  "html_url": "https://github.com/bostontrader",
+  "followers_url": "https://api.github.com/users/bostontrader/followers",
+  "following_url": "https://api.github.com/users/bostontrader/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bostontrader/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bostontrader/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bostontrader/subscriptions",
+  "organizations_url": "https://api.github.com/users/bostontrader/orgs",
+  "repos_url": "https://api.github.com/users/bostontrader/repos",
+  "events_url": "https://api.github.com/users/bostontrader/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bostontrader/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
