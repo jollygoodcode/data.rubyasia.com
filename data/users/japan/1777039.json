@@ -1,0 +1,20 @@
+{
+  "login": "igrs",
+  "id": 1777039,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1777039?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/igrs",
+  "html_url": "https://github.com/igrs",
+  "followers_url": "https://api.github.com/users/igrs/followers",
+  "following_url": "https://api.github.com/users/igrs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/igrs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/igrs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/igrs/subscriptions",
+  "organizations_url": "https://api.github.com/users/igrs/orgs",
+  "repos_url": "https://api.github.com/users/igrs/repos",
+  "events_url": "https://api.github.com/users/igrs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/igrs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
