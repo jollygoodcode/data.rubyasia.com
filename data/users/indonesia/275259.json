@@ -1,0 +1,20 @@
+{
+  "login": "deanet",
+  "id": 275259,
+  "avatar_url": "https://avatars.githubusercontent.com/u/275259?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deanet",
+  "html_url": "https://github.com/deanet",
+  "followers_url": "https://api.github.com/users/deanet/followers",
+  "following_url": "https://api.github.com/users/deanet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deanet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deanet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deanet/subscriptions",
+  "organizations_url": "https://api.github.com/users/deanet/orgs",
+  "repos_url": "https://api.github.com/users/deanet/repos",
+  "events_url": "https://api.github.com/users/deanet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deanet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
