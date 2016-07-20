@@ -1,0 +1,20 @@
+{
+  "login": "hta-wtag",
+  "id": 20010487,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20010487?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hta-wtag",
+  "html_url": "https://github.com/hta-wtag",
+  "followers_url": "https://api.github.com/users/hta-wtag/followers",
+  "following_url": "https://api.github.com/users/hta-wtag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hta-wtag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hta-wtag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hta-wtag/subscriptions",
+  "organizations_url": "https://api.github.com/users/hta-wtag/orgs",
+  "repos_url": "https://api.github.com/users/hta-wtag/repos",
+  "events_url": "https://api.github.com/users/hta-wtag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hta-wtag/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

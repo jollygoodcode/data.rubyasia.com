@@ -1,0 +1,20 @@
+{
+  "login": "guninia",
+  "id": 1453283,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1453283?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/guninia",
+  "html_url": "https://github.com/guninia",
+  "followers_url": "https://api.github.com/users/guninia/followers",
+  "following_url": "https://api.github.com/users/guninia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/guninia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/guninia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/guninia/subscriptions",
+  "organizations_url": "https://api.github.com/users/guninia/orgs",
+  "repos_url": "https://api.github.com/users/guninia/repos",
+  "events_url": "https://api.github.com/users/guninia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/guninia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

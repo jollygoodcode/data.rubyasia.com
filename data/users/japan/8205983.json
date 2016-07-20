@@ -1,0 +1,20 @@
+{
+  "login": "aoym",
+  "id": 8205983,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8205983?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aoym",
+  "html_url": "https://github.com/aoym",
+  "followers_url": "https://api.github.com/users/aoym/followers",
+  "following_url": "https://api.github.com/users/aoym/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aoym/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aoym/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aoym/subscriptions",
+  "organizations_url": "https://api.github.com/users/aoym/orgs",
+  "repos_url": "https://api.github.com/users/aoym/repos",
+  "events_url": "https://api.github.com/users/aoym/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aoym/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

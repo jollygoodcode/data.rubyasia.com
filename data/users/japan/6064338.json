@@ -1,0 +1,20 @@
+{
+  "login": "hackersjp",
+  "id": 6064338,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6064338?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hackersjp",
+  "html_url": "https://github.com/hackersjp",
+  "followers_url": "https://api.github.com/users/hackersjp/followers",
+  "following_url": "https://api.github.com/users/hackersjp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hackersjp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hackersjp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hackersjp/subscriptions",
+  "organizations_url": "https://api.github.com/users/hackersjp/orgs",
+  "repos_url": "https://api.github.com/users/hackersjp/repos",
+  "events_url": "https://api.github.com/users/hackersjp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hackersjp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

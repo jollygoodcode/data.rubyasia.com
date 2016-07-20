@@ -1,0 +1,20 @@
+{
+  "login": "hetzi",
+  "id": 6761869,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6761869?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hetzi",
+  "html_url": "https://github.com/hetzi",
+  "followers_url": "https://api.github.com/users/hetzi/followers",
+  "following_url": "https://api.github.com/users/hetzi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hetzi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hetzi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hetzi/subscriptions",
+  "organizations_url": "https://api.github.com/users/hetzi/orgs",
+  "repos_url": "https://api.github.com/users/hetzi/repos",
+  "events_url": "https://api.github.com/users/hetzi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hetzi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

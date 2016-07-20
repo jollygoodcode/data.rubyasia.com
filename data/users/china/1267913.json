@@ -1,0 +1,20 @@
+{
+  "login": "xuhui",
+  "id": 1267913,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1267913?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xuhui",
+  "html_url": "https://github.com/xuhui",
+  "followers_url": "https://api.github.com/users/xuhui/followers",
+  "following_url": "https://api.github.com/users/xuhui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xuhui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xuhui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xuhui/subscriptions",
+  "organizations_url": "https://api.github.com/users/xuhui/orgs",
+  "repos_url": "https://api.github.com/users/xuhui/repos",
+  "events_url": "https://api.github.com/users/xuhui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xuhui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

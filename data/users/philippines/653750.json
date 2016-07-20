@@ -1,0 +1,20 @@
+{
+  "login": "arvi",
+  "id": 653750,
+  "avatar_url": "https://avatars.githubusercontent.com/u/653750?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arvi",
+  "html_url": "https://github.com/arvi",
+  "followers_url": "https://api.github.com/users/arvi/followers",
+  "following_url": "https://api.github.com/users/arvi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arvi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arvi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arvi/subscriptions",
+  "organizations_url": "https://api.github.com/users/arvi/orgs",
+  "repos_url": "https://api.github.com/users/arvi/repos",
+  "events_url": "https://api.github.com/users/arvi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arvi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
