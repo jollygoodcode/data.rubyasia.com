@@ -1,0 +1,20 @@
+{
+  "login": "nfreeness",
+  "id": 20393968,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20393968?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nfreeness",
+  "html_url": "https://github.com/nfreeness",
+  "followers_url": "https://api.github.com/users/nfreeness/followers",
+  "following_url": "https://api.github.com/users/nfreeness/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nfreeness/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nfreeness/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nfreeness/subscriptions",
+  "organizations_url": "https://api.github.com/users/nfreeness/orgs",
+  "repos_url": "https://api.github.com/users/nfreeness/repos",
+  "events_url": "https://api.github.com/users/nfreeness/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nfreeness/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

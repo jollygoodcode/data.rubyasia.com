@@ -1,0 +1,20 @@
+{
+  "login": "urlis",
+  "id": 20498095,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20498095?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/urlis",
+  "html_url": "https://github.com/urlis",
+  "followers_url": "https://api.github.com/users/urlis/followers",
+  "following_url": "https://api.github.com/users/urlis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/urlis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/urlis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/urlis/subscriptions",
+  "organizations_url": "https://api.github.com/users/urlis/orgs",
+  "repos_url": "https://api.github.com/users/urlis/repos",
+  "events_url": "https://api.github.com/users/urlis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/urlis/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
