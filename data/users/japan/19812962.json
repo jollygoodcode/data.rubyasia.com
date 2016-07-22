@@ -1,0 +1,20 @@
+{
+  "login": "wataru-script",
+  "id": 19812962,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19812962?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wataru-script",
+  "html_url": "https://github.com/wataru-script",
+  "followers_url": "https://api.github.com/users/wataru-script/followers",
+  "following_url": "https://api.github.com/users/wataru-script/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wataru-script/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wataru-script/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wataru-script/subscriptions",
+  "organizations_url": "https://api.github.com/users/wataru-script/orgs",
+  "repos_url": "https://api.github.com/users/wataru-script/repos",
+  "events_url": "https://api.github.com/users/wataru-script/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wataru-script/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
