@@ -1,0 +1,20 @@
+{
+  "login": "zhangzhenyang",
+  "id": 16947718,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16947718?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhangzhenyang",
+  "html_url": "https://github.com/zhangzhenyang",
+  "followers_url": "https://api.github.com/users/zhangzhenyang/followers",
+  "following_url": "https://api.github.com/users/zhangzhenyang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhangzhenyang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhangzhenyang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhangzhenyang/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhangzhenyang/orgs",
+  "repos_url": "https://api.github.com/users/zhangzhenyang/repos",
+  "events_url": "https://api.github.com/users/zhangzhenyang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhangzhenyang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
