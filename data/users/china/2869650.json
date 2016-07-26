@@ -1,0 +1,20 @@
+{
+  "login": "jackeyGao",
+  "id": 2869650,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2869650?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jackeyGao",
+  "html_url": "https://github.com/jackeyGao",
+  "followers_url": "https://api.github.com/users/jackeyGao/followers",
+  "following_url": "https://api.github.com/users/jackeyGao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jackeyGao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jackeyGao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jackeyGao/subscriptions",
+  "organizations_url": "https://api.github.com/users/jackeyGao/orgs",
+  "repos_url": "https://api.github.com/users/jackeyGao/repos",
+  "events_url": "https://api.github.com/users/jackeyGao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jackeyGao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
