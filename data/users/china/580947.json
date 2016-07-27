@@ -1,0 +1,20 @@
+{
+  "login": "mouseshi",
+  "id": 580947,
+  "avatar_url": "https://avatars.githubusercontent.com/u/580947?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mouseshi",
+  "html_url": "https://github.com/mouseshi",
+  "followers_url": "https://api.github.com/users/mouseshi/followers",
+  "following_url": "https://api.github.com/users/mouseshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mouseshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mouseshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mouseshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/mouseshi/orgs",
+  "repos_url": "https://api.github.com/users/mouseshi/repos",
+  "events_url": "https://api.github.com/users/mouseshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mouseshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

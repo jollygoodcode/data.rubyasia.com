@@ -1,0 +1,20 @@
+{
+  "login": "chantera",
+  "id": 1482049,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1482049?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chantera",
+  "html_url": "https://github.com/chantera",
+  "followers_url": "https://api.github.com/users/chantera/followers",
+  "following_url": "https://api.github.com/users/chantera/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chantera/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chantera/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chantera/subscriptions",
+  "organizations_url": "https://api.github.com/users/chantera/orgs",
+  "repos_url": "https://api.github.com/users/chantera/repos",
+  "events_url": "https://api.github.com/users/chantera/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chantera/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
