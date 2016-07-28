@@ -1,0 +1,20 @@
+{
+  "login": "dentedio",
+  "id": 13645425,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13645425?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dentedio",
+  "html_url": "https://github.com/dentedio",
+  "followers_url": "https://api.github.com/users/dentedio/followers",
+  "following_url": "https://api.github.com/users/dentedio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dentedio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dentedio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dentedio/subscriptions",
+  "organizations_url": "https://api.github.com/users/dentedio/orgs",
+  "repos_url": "https://api.github.com/users/dentedio/repos",
+  "events_url": "https://api.github.com/users/dentedio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dentedio/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
