@@ -1,0 +1,20 @@
+{
+  "login": "wpcfan",
+  "id": 85388,
+  "avatar_url": "https://avatars.githubusercontent.com/u/85388?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wpcfan",
+  "html_url": "https://github.com/wpcfan",
+  "followers_url": "https://api.github.com/users/wpcfan/followers",
+  "following_url": "https://api.github.com/users/wpcfan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wpcfan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wpcfan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wpcfan/subscriptions",
+  "organizations_url": "https://api.github.com/users/wpcfan/orgs",
+  "repos_url": "https://api.github.com/users/wpcfan/repos",
+  "events_url": "https://api.github.com/users/wpcfan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wpcfan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
