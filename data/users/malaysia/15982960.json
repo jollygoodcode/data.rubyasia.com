@@ -1,0 +1,20 @@
+{
+  "login": "sooyang",
+  "id": 15982960,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15982960?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sooyang",
+  "html_url": "https://github.com/sooyang",
+  "followers_url": "https://api.github.com/users/sooyang/followers",
+  "following_url": "https://api.github.com/users/sooyang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sooyang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sooyang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sooyang/subscriptions",
+  "organizations_url": "https://api.github.com/users/sooyang/orgs",
+  "repos_url": "https://api.github.com/users/sooyang/repos",
+  "events_url": "https://api.github.com/users/sooyang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sooyang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

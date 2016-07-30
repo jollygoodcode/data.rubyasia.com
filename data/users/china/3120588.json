@@ -1,0 +1,20 @@
+{
+  "login": "differui",
+  "id": 3120588,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3120588?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/differui",
+  "html_url": "https://github.com/differui",
+  "followers_url": "https://api.github.com/users/differui/followers",
+  "following_url": "https://api.github.com/users/differui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/differui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/differui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/differui/subscriptions",
+  "organizations_url": "https://api.github.com/users/differui/orgs",
+  "repos_url": "https://api.github.com/users/differui/repos",
+  "events_url": "https://api.github.com/users/differui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/differui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

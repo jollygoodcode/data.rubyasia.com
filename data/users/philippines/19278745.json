@@ -1,0 +1,20 @@
+{
+  "login": "cebucodecamp",
+  "id": 19278745,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19278745?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cebucodecamp",
+  "html_url": "https://github.com/cebucodecamp",
+  "followers_url": "https://api.github.com/users/cebucodecamp/followers",
+  "following_url": "https://api.github.com/users/cebucodecamp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cebucodecamp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cebucodecamp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cebucodecamp/subscriptions",
+  "organizations_url": "https://api.github.com/users/cebucodecamp/orgs",
+  "repos_url": "https://api.github.com/users/cebucodecamp/repos",
+  "events_url": "https://api.github.com/users/cebucodecamp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cebucodecamp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

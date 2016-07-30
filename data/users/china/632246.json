@@ -1,0 +1,20 @@
+{
+  "login": "bytemask",
+  "id": 632246,
+  "avatar_url": "https://avatars.githubusercontent.com/u/632246?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bytemask",
+  "html_url": "https://github.com/bytemask",
+  "followers_url": "https://api.github.com/users/bytemask/followers",
+  "following_url": "https://api.github.com/users/bytemask/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bytemask/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bytemask/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bytemask/subscriptions",
+  "organizations_url": "https://api.github.com/users/bytemask/orgs",
+  "repos_url": "https://api.github.com/users/bytemask/repos",
+  "events_url": "https://api.github.com/users/bytemask/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bytemask/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
