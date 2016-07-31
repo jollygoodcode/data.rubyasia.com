@@ -1,0 +1,20 @@
+{
+  "login": "sarunw",
+  "id": 795368,
+  "avatar_url": "https://avatars.githubusercontent.com/u/795368?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sarunw",
+  "html_url": "https://github.com/sarunw",
+  "followers_url": "https://api.github.com/users/sarunw/followers",
+  "following_url": "https://api.github.com/users/sarunw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sarunw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sarunw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sarunw/subscriptions",
+  "organizations_url": "https://api.github.com/users/sarunw/orgs",
+  "repos_url": "https://api.github.com/users/sarunw/repos",
+  "events_url": "https://api.github.com/users/sarunw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sarunw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

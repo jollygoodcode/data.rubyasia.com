@@ -1,0 +1,20 @@
+{
+  "login": "kamiiyu",
+  "id": 1013388,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1013388?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kamiiyu",
+  "html_url": "https://github.com/kamiiyu",
+  "followers_url": "https://api.github.com/users/kamiiyu/followers",
+  "following_url": "https://api.github.com/users/kamiiyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kamiiyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kamiiyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kamiiyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/kamiiyu/orgs",
+  "repos_url": "https://api.github.com/users/kamiiyu/repos",
+  "events_url": "https://api.github.com/users/kamiiyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kamiiyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

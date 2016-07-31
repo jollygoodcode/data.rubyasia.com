@@ -1,0 +1,20 @@
+{
+  "login": "dedannie",
+  "id": 4112487,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4112487?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dedannie",
+  "html_url": "https://github.com/dedannie",
+  "followers_url": "https://api.github.com/users/dedannie/followers",
+  "following_url": "https://api.github.com/users/dedannie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dedannie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dedannie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dedannie/subscriptions",
+  "organizations_url": "https://api.github.com/users/dedannie/orgs",
+  "repos_url": "https://api.github.com/users/dedannie/repos",
+  "events_url": "https://api.github.com/users/dedannie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dedannie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

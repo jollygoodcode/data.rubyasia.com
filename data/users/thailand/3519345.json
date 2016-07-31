@@ -1,0 +1,20 @@
+{
+  "login": "freemansion",
+  "id": 3519345,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3519345?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/freemansion",
+  "html_url": "https://github.com/freemansion",
+  "followers_url": "https://api.github.com/users/freemansion/followers",
+  "following_url": "https://api.github.com/users/freemansion/following{/other_user}",
+  "gists_url": "https://api.github.com/users/freemansion/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/freemansion/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/freemansion/subscriptions",
+  "organizations_url": "https://api.github.com/users/freemansion/orgs",
+  "repos_url": "https://api.github.com/users/freemansion/repos",
+  "events_url": "https://api.github.com/users/freemansion/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/freemansion/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

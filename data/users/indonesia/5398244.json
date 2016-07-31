@@ -1,0 +1,20 @@
+{
+  "login": "Sipoet",
+  "id": 5398244,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5398244?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Sipoet",
+  "html_url": "https://github.com/Sipoet",
+  "followers_url": "https://api.github.com/users/Sipoet/followers",
+  "following_url": "https://api.github.com/users/Sipoet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Sipoet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Sipoet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Sipoet/subscriptions",
+  "organizations_url": "https://api.github.com/users/Sipoet/orgs",
+  "repos_url": "https://api.github.com/users/Sipoet/repos",
+  "events_url": "https://api.github.com/users/Sipoet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Sipoet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
