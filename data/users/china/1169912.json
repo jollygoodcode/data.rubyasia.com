@@ -1,0 +1,20 @@
+{
+  "login": "happlebao",
+  "id": 1169912,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1169912?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/happlebao",
+  "html_url": "https://github.com/happlebao",
+  "followers_url": "https://api.github.com/users/happlebao/followers",
+  "following_url": "https://api.github.com/users/happlebao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/happlebao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/happlebao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/happlebao/subscriptions",
+  "organizations_url": "https://api.github.com/users/happlebao/orgs",
+  "repos_url": "https://api.github.com/users/happlebao/repos",
+  "events_url": "https://api.github.com/users/happlebao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/happlebao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

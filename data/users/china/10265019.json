@@ -1,0 +1,20 @@
+{
+  "login": "fisland",
+  "id": 10265019,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10265019?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fisland",
+  "html_url": "https://github.com/fisland",
+  "followers_url": "https://api.github.com/users/fisland/followers",
+  "following_url": "https://api.github.com/users/fisland/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fisland/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fisland/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fisland/subscriptions",
+  "organizations_url": "https://api.github.com/users/fisland/orgs",
+  "repos_url": "https://api.github.com/users/fisland/repos",
+  "events_url": "https://api.github.com/users/fisland/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fisland/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
