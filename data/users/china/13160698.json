@@ -1,0 +1,20 @@
+{
+  "login": "MichaelClown",
+  "id": 13160698,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13160698?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MichaelClown",
+  "html_url": "https://github.com/MichaelClown",
+  "followers_url": "https://api.github.com/users/MichaelClown/followers",
+  "following_url": "https://api.github.com/users/MichaelClown/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MichaelClown/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MichaelClown/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MichaelClown/subscriptions",
+  "organizations_url": "https://api.github.com/users/MichaelClown/orgs",
+  "repos_url": "https://api.github.com/users/MichaelClown/repos",
+  "events_url": "https://api.github.com/users/MichaelClown/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MichaelClown/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

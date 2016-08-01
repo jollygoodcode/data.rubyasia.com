@@ -1,0 +1,20 @@
+{
+  "login": "kurtdaveting",
+  "id": 6689116,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6689116?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kurtdaveting",
+  "html_url": "https://github.com/kurtdaveting",
+  "followers_url": "https://api.github.com/users/kurtdaveting/followers",
+  "following_url": "https://api.github.com/users/kurtdaveting/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kurtdaveting/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kurtdaveting/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kurtdaveting/subscriptions",
+  "organizations_url": "https://api.github.com/users/kurtdaveting/orgs",
+  "repos_url": "https://api.github.com/users/kurtdaveting/repos",
+  "events_url": "https://api.github.com/users/kurtdaveting/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kurtdaveting/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
