@@ -3,18 +3,16 @@ require "json"
 require "octokit"
 require "pathname"
 
-require_relative "normalizer"
+require_relative "constant"
+require_relative "region"
 require_relative "octokit_extension"
 
 class Repo
-  include Normalizer
   include OctokitExtension
 
   def initialize(raw_region, period)
     @raw_region = raw_region
-    @available_regions = IO.readlines(ROOT.join("regions")).map(&:chomp)
-    @normalized_regions = available_regions.map { |region| normalize(region) }
-    @regions = determine_by_user_specified_region(normalize(raw_region))
+    @regions = determine_by_user_specified_region(Region.normalize(raw_region))
     @period = period
   end
 
@@ -32,7 +30,7 @@ class Repo
         if results.empty?
           puts "No repositories matched criteria available in this region: #{region}."
         else
-          repos_json = ROOT.join DATA_REPOS_FOLDER, region, filename
+          repos_json = Constant::ROOT.join DATA_REPOS_FOLDER, region, filename
           output = Hash(
             generated_at: Time.now.utc.strftime("%F %T %Z".freeze),
             criteria: criteria,
@@ -42,7 +40,7 @@ class Repo
           IO.write repos_json, JSON.pretty_generate(output)
           puts "#{repos_json} created."
 
-          puts %(Total Repos trending this week in #{denormalize(region)}: #{results.size} repos)
+          puts %(Total Repos trending this week in #{Region.denormalize(region)}: #{results.size} repos)
         end
       end
     end
@@ -50,27 +48,25 @@ class Repo
 
   private
 
-    ROOT = Pathname(File.expand_path(File.join(File.dirname(__FILE__), '..'.freeze)))
     DATA_USERS_FOLDER = "data/users".freeze
     DATA_REPOS_FOLDER = "data/repos".freeze
     SLICE_NUMBER = 300
 
-    private_constant :ROOT
     private_constant :DATA_USERS_FOLDER
     private_constant :DATA_REPOS_FOLDER
     private_constant :SLICE_NUMBER
 
-    attr_reader :raw_region, :available_regions, :normalized_regions, :regions, :period
+    attr_reader :raw_region, :regions, :period
 
     def determine_by_user_specified_region(user_specified_region)
       if user_specified_region == "all".freeze
-        normalized_regions
+        Region::NORMALIZED_REGIONS
       else
-        if normalized_regions.include?(user_specified_region)
+        if Region::NORMALIZED_REGIONS.include?(user_specified_region)
           [user_specified_region]
         else
           puts "Unknown specified region: #{user_specified_region}"
-          puts %(Available Regions:\n#{available_regions.join(", ".freeze)})
+          puts %(Available Regions:\n#{Region::AVAILABLE_REGIONS.join(", ".freeze)})
           abort "Or type 'all' to fetch all regions."
         end
       end
@@ -93,7 +89,7 @@ class Repo
 
     def fetch_devs_from(region:)
       Dir[
-        ROOT.join(DATA_USERS_FOLDER, region, "*.json".freeze).to_s
+        Constant::ROOT.join(DATA_USERS_FOLDER, region, "*.json".freeze).to_s
       ].map { |user_json| %(user:#{JSON.parse(IO.read(user_json))["login"]}) }
     end
 
@@ -117,7 +113,7 @@ class Repo
           html_url: result.html_url,
           stars: result.stargazers_count,
           language: result.language,
-          region: denormalize(region)
+          region: Region.denormalize(region)
         )
       end.sort_by { |repo| repo[:stars] }.reverse
     end

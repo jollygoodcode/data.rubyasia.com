@@ -3,11 +3,9 @@ require "json"
 require "octokit"
 require "pathname"
 
-require_relative "normalizer"
 require_relative "octokit_extension"
 
 class User
-  include Normalizer
   include OctokitExtension
 
   ROOT = Pathname(File.expand_path(File.join(File.dirname(__FILE__), '..'.freeze)))
@@ -21,9 +19,7 @@ class User
 
   def initialize(raw_region)
     @raw_region = raw_region
-    @available_regions = IO.readlines(ROOT.join("regions")).map(&:chomp)
-    @noramlized_regions = available_regions.map { |region| normalize(region) }
-    @regions = determin_by_user_specified_region(normalize(raw_region))
+    @regions = determin_by_user_specified_region(Region.normalize(raw_region))
   end
 
   def client
@@ -34,13 +30,13 @@ class User
 
   def determin_by_user_specified_region(user_specified_region)
     if user_specified_region == "all".freeze
-      noramlized_regions
+      Region::NORMALIZED_REGIONS
     else
-      if noramlized_regions.include?(user_specified_region)
+      if Region::NORMALIZED_REGIONS.include?(user_specified_region)
         [user_specified_region]
       else
         puts "Unknown specified region: #{user_specified_region}"
-        puts %(Available Regions:\n#{available_regions.join(", ".freeze)})
+        puts %(Available Regions:\n#{Region::AVAILABLE_REGIONS.join(", ".freeze)})
         abort "Or type 'all' to fetch all regions."
       end
     end
@@ -67,7 +63,7 @@ class User
         end
 
         results_by_period.each do |period_result|
-          puts "Fetching #{period_result.size} rubyists from #{denormalize(region)}..."
+          puts "Fetching #{period_result.size} rubyists from #{Region.denormalize(region)}..."
           period_result.each do |result|
             json_file = json_file_name(region: region, id: result.id)
 
@@ -80,7 +76,7 @@ class User
           end
         end
 
-        puts %(Total Rubyists in #{denormalize(region)}: #{jsons_in_region(region: region)})
+        puts %(Total Rubyists in #{Region.denormalize(region)}: #{jsons_in_region(region: region)})
       end
     end
   end
@@ -101,5 +97,5 @@ class User
 
   private
 
-    attr_reader :raw_region, :available_regions, :noramlized_regions, :regions
+    attr_reader :raw_region, :regions
 end
