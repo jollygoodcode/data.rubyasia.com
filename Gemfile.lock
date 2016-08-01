@@ -47,7 +47,7 @@ GEM
     temple (0.7.7)
     thread_safe (0.3.5)
     tilt (2.0.5)
-    twemoji (2.1.1)
+    twemoji (3.0.1)
       nokogiri (~> 1.6.2)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
@@ -66,7 +66,7 @@ DEPENDENCIES
   octokit
   rake
   slim
-  twemoji
+  twemoji (~> 3.0.1)
 
 BUNDLED WITH
-   1.11.2
+   1.12.5

@@ -12,6 +12,6 @@ class View
   end
 
   def emojify(content)
-    Twemoji.parse(content, file_ext: ".svg")
+    Twemoji.parse(content, file_ext: "svg")
   end
 end
