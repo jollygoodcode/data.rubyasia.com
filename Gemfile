@@ -8,3 +8,5 @@ gem "twemoji", "~> 3.0.1"
 gem "http"
 gem "clockwork"
 gem "daemons" # clockworkd
+
+gem "rspec"
