@@ -98,11 +98,7 @@ class Repo
     end
 
     def fetch_repos_by(user_logins, criteria)
-      Array(
-        client.search_repos(
-          %(#{user_logins} #{criteria})
-        ).items
-      )
+      retryable_search_repos(%(#{user_logins} #{criteria})).items
     end
 
     def parse_results(results, region)
