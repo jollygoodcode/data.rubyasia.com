@@ -1,0 +1,126 @@
+{
+  "generated_at": "2016-08-02 05:42:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-28..2016-07-04",
+  "repos": [
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 498,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "roma/roma",
+      "description": "ROMA: A Distributed Key-Value Store in Ruby",
+      "html_url": "https://github.com/roma/roma",
+      "stars": 301,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 222,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_segmenter",
+      "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.",
+      "html_url": "https://github.com/diasks2/pragmatic_segmenter",
+      "stars": 154,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mokemokechicken/CrashMonkey",
+      "description": "Monkey Test Tool For iOS",
+      "html_url": "https://github.com/mokemokechicken/CrashMonkey",
+      "stars": 144,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/kawaii_validation",
+      "description": "An ActiveRecord extension that adds more kawaii validation syntax",
+      "html_url": "https://github.com/amatsuda/kawaii_validation",
+      "stars": 106,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/activerecord-precount",
+      "description": "N+1 count query killer for ActiveRecord",
+      "html_url": "https://github.com/k0kubun/activerecord-precount",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_banner",
+      "description": "Plugin for redmine to show site-wide banner message.",
+      "html_url": "https://github.com/akiko-pusu/redmine_banner",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "makimoto/romaji",
+      "description": "Romaji-Kana transliterator",
+      "html_url": "https://github.com/makimoto/romaji",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/garage_client",
+      "description": "Ruby client library for the Garage application API",
+      "html_url": "https://github.com/cookpad/garage_client",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "t-k/gmo-payment-ruby",
+      "description": "Ruby client library for the GMO Payment Platform.",
+      "html_url": "https://github.com/t-k/gmo-payment-ruby",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-mysql-replicator",
+      "description": "Fluentd input plugin to track insert/update/delete event from MySQL databases.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-mysql-replicator",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "repeatedly/fluent-plugin-record-modifier",
+      "description": "Fluentd filter plugin for modifying each event record",
+      "html_url": "https://github.com/repeatedly/fluent-plugin-record-modifier",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yaocloud/yao",
+      "description": "Yet Another OpenStack API wrapper",
+      "html_url": "https://github.com/yaocloud/yao",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

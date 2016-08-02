@@ -1,0 +1,142 @@
+{
+  "generated_at": "2016-08-02 08:22:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-18..2016-07-24",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1695,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 523,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 472,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/paypal-express",
+      "description": "Ruby Gem for PayPal Express Checkout API",
+      "html_url": "https://github.com/nov/paypal-express",
+      "stars": 359,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/jb",
+      "description": "A simple and fast JSON API template engine for Ruby on Rails",
+      "html_url": "https://github.com/amatsuda/jb",
+      "stars": 347,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tabbyz/chibineko",
+      "description": "The simplest test supporting tool.",
+      "html_url": "https://github.com/tabbyz/chibineko",
+      "stars": 111,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 106,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 60,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/capistrano-bundle_rsync",
+      "description": "Deploy an application and bundled gems via rsync ",
+      "html_url": "https://github.com/sonots/capistrano-bundle_rsync",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akm/schema_comments",
+      "description": "With schema_comments, you can write comments for tables and columns in your migrations",
+      "html_url": "https://github.com/akm/schema_comments",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "katsyoshi/mikutter",
+      "description": "\"my\" mikutter mirror. please check official repository. this repository does not apply pr.",
+      "html_url": "https://github.com/katsyoshi/mikutter",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nkpoid/nkroid",
+      "description": "twitter bot",
+      "html_url": "https://github.com/nkpoid/nkroid",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shu0115/minimum-omniauth-scaffold",
+      "description": "Scaffold for OmniAuth",
+      "html_url": "https://github.com/shu0115/minimum-omniauth-scaffold",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/itamae-plugin-recipe-rbenv",
+      "description": "Itamae plugin to install ruby with rbenv",
+      "html_url": "https://github.com/k0kubun/itamae-plugin-recipe-rbenv",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": "",
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

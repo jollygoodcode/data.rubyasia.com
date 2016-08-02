@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-08-01 11:25:02 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-23..2016-06-29",
+  "repos": [
+    {
+      "full_name": "nowa/carrierwave-upyun",
+      "description": "UpYun storage for CarrierWave ",
+      "html_url": "https://github.com/nowa/carrierwave-upyun",
+      "stars": 142,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "wuwx/MultiTenantCMS",
+      "description": "站群系统",
+      "html_url": "https://github.com/wuwx/MultiTenantCMS",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

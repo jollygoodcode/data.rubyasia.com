@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-02 06:29:25 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-04..2016-07-10",
+  "repos": [
+    {
+      "full_name": "jedld/resugan",
+      "description": "simple, powerful and unobstrusive event driven architecture framework for ruby",
+      "html_url": "https://github.com/jedld/resugan",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Philippines"
+    },
+    {
+      "full_name": "ramontayag/storey",
+      "description": "Manage PostgreSQL's schemas for a multi-tenant Rails app with ease",
+      "html_url": "https://github.com/ramontayag/storey",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Philippines"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-02 06:36:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-05..2016-07-11",
+  "repos": [
+    {
+      "full_name": "choonkeat/attache",
+      "description": "Yet another approach to file upload",
+      "html_url": "https://github.com/choonkeat/attache",
+      "stars": 161,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "description": "Ethereum library for the Ruby language",
+      "html_url": "https://github.com/DigixGlobal/ethereum-ruby",
+      "stars": 58,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

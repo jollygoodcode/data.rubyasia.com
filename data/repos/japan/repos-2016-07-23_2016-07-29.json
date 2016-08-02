@@ -1,0 +1,110 @@
+{
+  "generated_at": "2016-08-02 08:58:59 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-23..2016-07-29",
+  "repos": [
+    {
+      "full_name": "amatsuda/kaminari",
+      "description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4",
+      "html_url": "https://github.com/amatsuda/kaminari",
+      "stars": 5912,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 523,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/jb",
+      "description": "A simple and fast JSON API template engine for Ruby on Rails",
+      "html_url": "https://github.com/amatsuda/jb",
+      "stars": 347,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 208,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ongaeshi/milkode",
+      "description": "Source code search engine of line-oriented written by Ruby",
+      "html_url": "https://github.com/ongaeshi/milkode",
+      "stars": 130,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/expeditor",
+      "description": "Expeditor provides asynchronous execution and fault tolerance for microservices",
+      "html_url": "https://github.com/cookpad/expeditor",
+      "stars": 117,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/fb_graph2",
+      "description": "",
+      "html_url": "https://github.com/nov/fb_graph2",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 60,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "Tomohiro/fluentular",
+      "description": ":memo: Fluentular is a Fluentd regular expression editor",
+      "html_url": "https://github.com/Tomohiro/fluentular",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "Yellowen/Faalis",
+      "description": "A RubyOnRails platform for rapid web application development. Containing a rich and flexible dashboard interface",
+      "html_url": "https://github.com/Yellowen/Faalis",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/karabiner-dsl",
+      "description": "Lightweight keyremap configuration DSL for Karabiner",
+      "html_url": "https://github.com/k0kubun/karabiner-dsl",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

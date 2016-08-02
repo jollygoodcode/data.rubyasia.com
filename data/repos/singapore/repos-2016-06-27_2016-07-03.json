@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-08-02 05:37:07 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-27..2016-07-03",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/jollygoodcode.github.io",
+      "description": ":thought_balloon: Jolly Good Blog",
+      "html_url": "https://github.com/jollygoodcode/jollygoodcode.github.io",
+      "stars": 93,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "choonkeat/active_params",
+      "description": "Automatic strong parameters",
+      "html_url": "https://github.com/choonkeat/active_params",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

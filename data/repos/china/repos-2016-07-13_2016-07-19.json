@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-08-02 07:35:51 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-13..2016-07-19",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3156,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/mongoid_auto_increment_id",
+      "description": "Override id field to MySQL like auto increment for Mongoid",
+      "html_url": "https://github.com/huacnlee/mongoid_auto_increment_id",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "falm/js-namespace-rails",
+      "description": "js-namespace-rails let you choose which javascript snippet can execute in rails assets pipeline",
+      "html_url": "https://github.com/falm/js-namespace-rails",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "lidaobing/capistrano-scm-jenkins",
+      "description": "With this plugin, you can use jenkins build artifact as a repository, and deploy your build artifact with capistrano.",
+      "html_url": "https://github.com/lidaobing/capistrano-scm-jenkins",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

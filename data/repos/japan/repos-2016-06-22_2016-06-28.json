@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-08-01 11:15:22 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-22..2016-06-28",
+  "repos": [
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 461,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "domitry/nyaplot",
+      "description": "interactive plots generator for Ruby",
+      "html_url": "https://github.com/domitry/nyaplot",
+      "stars": 172,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "makimoto/romaji",
+      "description": "Romaji-Kana transliterator",
+      "html_url": "https://github.com/makimoto/romaji",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "knu/ruby-domain_name",
+      "description": "Domain Name manipulation library for Ruby",
+      "html_url": "https://github.com/knu/ruby-domain_name",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-mysql-replicator",
+      "description": "Fluentd input plugin to track insert/update/delete event from MySQL databases.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-mysql-replicator",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yaocloud/yao",
+      "description": "Yet Another OpenStack API wrapper",
+      "html_url": "https://github.com/yaocloud/yao",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-08-02 08:56:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-23..2016-07-29",
+  "repos": [
+    {
+      "full_name": "jondot/vitals",
+      "description": "Flexible StatsD instrumentation for Rails, Rack, Grape and more",
+      "html_url": "https://github.com/jondot/vitals",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}

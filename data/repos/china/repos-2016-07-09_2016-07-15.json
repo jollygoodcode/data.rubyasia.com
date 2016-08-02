@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-08-02 07:04:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-09..2016-07-15",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3156,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/social-share-button",
+      "description": "Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban ...",
+      "html_url": "https://github.com/huacnlee/social-share-button",
+      "stars": 338,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "falm/js-namespace-rails",
+      "description": "js-namespace-rails let you choose which javascript snippet can execute in rails assets pipeline",
+      "html_url": "https://github.com/falm/js-namespace-rails",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "ryancheung/exception_logger",
+      "description": "Log exceptions inside a database table.",
+      "html_url": "https://github.com/ryancheung/exception_logger",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-08-02 06:39:12 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-06..2016-07-12",
+  "repos": [
+    {
+      "full_name": "huacnlee/social-share-button",
+      "description": "Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban ...",
+      "html_url": "https://github.com/huacnlee/social-share-button",
+      "stars": 338,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/chinese_pinyin",
+      "description": "translate chinese hanzi to pinyin",
+      "html_url": "https://github.com/flyerhzm/chinese_pinyin",
+      "stars": 314,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/rucaptcha",
+      "description": "This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.",
+      "html_url": "https://github.com/huacnlee/rucaptcha",
+      "stars": 312,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails.",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "ryancheung/exception_logger",
+      "description": "Log exceptions inside a database table.",
+      "html_url": "https://github.com/ryancheung/exception_logger",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

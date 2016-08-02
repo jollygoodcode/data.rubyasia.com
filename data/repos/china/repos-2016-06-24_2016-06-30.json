@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-08-02 05:03:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-24..2016-06-30",
+  "repos": [
+    {
+      "full_name": "flyerhzm/uniform_notifier",
+      "description": "uniform notifier for rails logger, customized logger, javascript alert, javascript console, growl and xmpp",
+      "html_url": "https://github.com/flyerhzm/uniform_notifier",
+      "stars": 145,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "nowa/carrierwave-upyun",
+      "description": "UpYun storage for CarrierWave ",
+      "html_url": "https://github.com/nowa/carrierwave-upyun",
+      "stars": 142,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "wuwx/MultiTenantCMS",
+      "description": "站群系统",
+      "html_url": "https://github.com/wuwx/MultiTenantCMS",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

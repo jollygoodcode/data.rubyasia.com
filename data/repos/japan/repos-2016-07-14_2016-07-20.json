@@ -1,0 +1,150 @@
+{
+  "generated_at": "2016-08-02 07:50:30 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-14..2016-07-20",
+  "repos": [
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1610,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 541,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 472,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mischa78/boxroom",
+      "description": "Boxroom is a Rails application that aims to be a simple interface for managing and sharing files in a web browser. It lets users create folders and upload, download and share files. Admins can manage users, groups and permissions.",
+      "html_url": "https://github.com/mischa78/boxroom",
+      "stars": 290,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "komagata/holiday_jp",
+      "description": "Japanese holiday.",
+      "html_url": "https://github.com/komagata/holiday_jp",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tabbyz/chibineko",
+      "description": "The simplest test supporting tool.",
+      "html_url": "https://github.com/tabbyz/chibineko",
+      "stars": 111,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 106,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/nested_scaffold",
+      "description": "Nested scaffold generator for Rails 4.2 and 5",
+      "html_url": "https://github.com/amatsuda/nested_scaffold",
+      "stars": 103,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hiki/hiki",
+      "description": "Hiki is a powerful and fast wiki clone written in Ruby.",
+      "html_url": "https://github.com/hiki/hiki",
+      "stars": 82,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/job-descriptions",
+      "description": "Increments株式会社に現在ある、もしくは募集しているポジションのJob Descriptionです。",
+      "html_url": "https://github.com/increments/job-descriptions",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/fluent-plugin-cloudwatch-logs",
+      "description": "CloudWatch Logs Plugin for Fluentd",
+      "html_url": "https://github.com/ryotarai/fluent-plugin-cloudwatch-logs",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "katsyoshi/mikutter",
+      "description": "\"my\" mikutter mirror. please check official repository. this repository does not apply pr.",
+      "html_url": "https://github.com/katsyoshi/mikutter",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nkpoid/nkroid",
+      "description": "twitter bot",
+      "html_url": "https://github.com/nkpoid/nkroid",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shu0115/minimum-omniauth-scaffold",
+      "description": "Scaffold for OmniAuth",
+      "html_url": "https://github.com/shu0115/minimum-omniauth-scaffold",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/itamae-plugin-recipe-rbenv",
+      "description": "Itamae plugin to install ruby with rbenv",
+      "html_url": "https://github.com/k0kubun/itamae-plugin-recipe-rbenv",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cosmo0920/homebrew-mingw_w64",
+      "description": "unofficial mingw-w64 Homebrew sub-command and Formulae.",
+      "html_url": "https://github.com/cosmo0920/homebrew-mingw_w64",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

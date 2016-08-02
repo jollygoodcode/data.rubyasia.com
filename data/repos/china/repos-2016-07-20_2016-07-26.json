@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-08-02 08:33:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-20..2016-07-26",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4152,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 660,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 550,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

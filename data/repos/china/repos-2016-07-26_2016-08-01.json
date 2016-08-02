@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-08-02 09:11:49 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-26..2016-08-01",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4152,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 660,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "saberma/china_city",
+      "description": "省市区街道四级联选择 Rails Engine Gem",
+      "html_url": "https://github.com/saberma/china_city",
+      "stars": 255,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

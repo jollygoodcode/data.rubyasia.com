@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-02 05:22:00 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-25..2016-07-01",
+  "repos": [
+    {
+      "full_name": "choonkeat/active_params",
+      "description": "Automatic strong parameters",
+      "html_url": "https://github.com/choonkeat/active_params",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-08-02 05:38:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-28..2016-07-04",
+  "repos": [
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4 and 5.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 188,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/uniform_notifier",
+      "description": "uniform notifier for rails logger, customized logger, javascript alert, javascript console, growl and xmpp",
+      "html_url": "https://github.com/flyerhzm/uniform_notifier",
+      "stars": 145,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "janx/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/janx/ruby-ethereum",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

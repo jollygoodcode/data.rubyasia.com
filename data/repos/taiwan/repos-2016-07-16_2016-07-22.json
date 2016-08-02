@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-08-02 08:06:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-16..2016-07-22",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 1726,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/jellyfish",
+      "description": "Pico web framework for building API-centric web applications",
+      "html_url": "https://github.com/godfat/jellyfish",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

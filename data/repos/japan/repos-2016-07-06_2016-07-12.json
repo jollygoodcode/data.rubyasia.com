@@ -1,0 +1,118 @@
+{
+  "generated_at": "2016-08-02 06:42:54 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-06..2016-07-12",
+  "repos": [
+    {
+      "full_name": "amatsuda/stateful_enum",
+      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+      "html_url": "https://github.com/amatsuda/stateful_enum",
+      "stars": 246,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/html5_validators",
+      "description": "A gem/plugin for Rails 3 & Rails 4 that enables client-side validation using ActiveModel + HTML5 Form Validation",
+      "html_url": "https://github.com/amatsuda/html5_validators",
+      "stars": 233,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/arproxy",
+      "description": "Arproxy is a proxy between ActiveRecord and database adapter",
+      "html_url": "https://github.com/cookpad/arproxy",
+      "stars": 220,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "matadon/mizuno",
+      "description": "Jetty-powered running shoes for JRuby/Rack.",
+      "html_url": "https://github.com/matadon/mizuno",
+      "stars": 212,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/motorhead",
+      "description": "A Rails Engine framework that helps safe and rapid feature prototyping",
+      "html_url": "https://github.com/amatsuda/motorhead",
+      "stars": 128,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/wakame-vdc",
+      "description": " Datacenter Hypervisor - Open Source Cloud Computing / IaaS",
+      "html_url": "https://github.com/axsh/wakame-vdc",
+      "stars": 105,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/dokumi",
+      "description": "Automatically check if anything is wrong with the code in a pull request",
+      "html_url": "https://github.com/cookpad/dokumi",
+      "stars": 91,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kyuden/banken",
+      "description": "Simple and lightweight authorization library for Rails.",
+      "html_url": "https://github.com/kyuden/banken",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/rack-user_agent",
+      "description": "Rack::Request extension for handling User-Agent",
+      "html_url": "https://github.com/k0kubun/rack-user_agent",
+      "stars": 86,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/activerecord-refresh_connection",
+      "description": "Refresh ActiveRecord connection on each rack request",
+      "html_url": "https://github.com/sonots/activerecord-refresh_connection",
+      "stars": 76,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/rack-health",
+      "description": "",
+      "html_url": "https://github.com/mirakui/rack-health",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/ruby-server-starter",
+      "description": "a superdaemon for hot-deploying server programs (ruby port of p5-Server-Starter)",
+      "html_url": "https://github.com/sonots/ruby-server-starter",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ma2gedev/breadcrumble",
+      "description": "A breadcrumbs plugin for Ruby on Rails 3, 4.0, 4.1, 4.2 and 5.0.",
+      "html_url": "https://github.com/ma2gedev/breadcrumble",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/immutable",
+      "description": "immutable data structures for Ruby",
+      "html_url": "https://github.com/shugo/immutable",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

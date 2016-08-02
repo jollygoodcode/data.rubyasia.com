@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-08-02 08:20:57 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-18..2016-07-24",
+  "repos": [
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 550,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "lidaobing/capistrano-scm-jenkins",
+      "description": "With this plugin, you can use jenkins build artifact as a repository, and deploy your build artifact with capistrano.",
+      "html_url": "https://github.com/lidaobing/capistrano-scm-jenkins",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

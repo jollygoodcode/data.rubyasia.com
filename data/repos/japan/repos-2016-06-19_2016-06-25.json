@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-08-01 10:38:54 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-06-19..2016-06-25",
+  "repos": [
+    {
+      "full_name": "domitry/nyaplot",
+      "description": "interactive plots generator for Ruby",
+      "html_url": "https://github.com/domitry/nyaplot",
+      "stars": 172,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/openid_connect",
+      "description": "OpenID Connect Server & Client Library",
+      "html_url": "https://github.com/nov/openid_connect",
+      "stars": 169,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "knu/ruby-domain_name",
+      "description": "Domain Name manipulation library for Ruby",
+      "html_url": "https://github.com/knu/ruby-domain_name",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kwilczynski/facter-facts",
+      "description": "Various facts to use within Facter and Puppet",
+      "html_url": "https://github.com/kwilczynski/facter-facts",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
