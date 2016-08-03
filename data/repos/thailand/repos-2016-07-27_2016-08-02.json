@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-03 08:02:13 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-27..2016-08-02",
+  "repos": [
+    {
+      "full_name": "ejholmes/restforce",
+      "description": "A ruby client for the Salesforce REST api.",
+      "html_url": "https://github.com/ejholmes/restforce",
+      "stars": 373,
+      "language": "Ruby",
+      "region": "Thailand"
+    },
+    {
+      "full_name": "codemy/moviedb",
+      "description": "Example App for Elasticsearch Series",
+      "html_url": "https://github.com/codemy/moviedb",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}
