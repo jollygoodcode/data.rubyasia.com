@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-07 08:00:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-07-31..2016-08-06",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 505,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "girishso/rails-client-logger",
+      "description": "Rails engine for logging from Browser Javascript to server",
+      "html_url": "https://github.com/girishso/rails-client-logger",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
