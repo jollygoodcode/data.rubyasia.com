@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-14 08:00:30 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-07..2016-08-13",
+  "repos": [
+    {
+      "full_name": "NoamB/sorcery",
+      "description": "Magical authentication for Rails 3 & 4",
+      "html_url": "https://github.com/NoamB/sorcery",
+      "stars": 2456,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1300,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
