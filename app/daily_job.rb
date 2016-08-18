@@ -21,8 +21,11 @@ class DailyJob
 
   def self.perform_now
     Dir.chdir(PROJECT_ROOT) do
-      # new branch
-      system("git checkout -b #{branch_name}")
+      # checkout to gh-pages
+      system("git checkout gh-pages")
+
+      # fetch new changes
+      system("git pull origin gh-pages")
 
       # update data/developers
       system("bundle exec rake fetch_developers[all]")
@@ -47,20 +50,9 @@ class DailyJob
       system("git commit -m 'Site Update on #{today}'")
 
       # Push the branch
-      system("git push origin #{branch_name}")
+      system("git push origin gh-pages")
     end
-
-    sleep(60) # sleep one minute to wait branch to be created
-
-    client.create_pull_request(
-      "jollygoodcode/data.rubyasia.com", "gh-pages", branch_name, "Update on #{today}", ""
-    )
   end
-
-  def self.branch_name
-    @_branch_name ||= "update-#{now.strftime("%F-%H%M%S")}"
-  end
-  private_class_method :branch_name
 
   def self.today
     now.strftime("%F")
