@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-08-19 08:00:22 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-12..2016-08-18",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4182,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 731,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/social-share-button",
+      "description": "Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban ...",
+      "html_url": "https://github.com/huacnlee/social-share-button",
+      "stars": 344,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 173,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 129,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "falm/js-namespace-rails",
+      "description": "js-namespace-rails let you choose which javascript snippet can execute in rails assets pipeline",
+      "html_url": "https://github.com/falm/js-namespace-rails",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

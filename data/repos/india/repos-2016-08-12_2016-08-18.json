@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-19 08:00:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-12..2016-08-18",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 507,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "girishso/pluck_to_hash",
+      "description": "Extend ActiveRecord pluck to return array of hashes",
+      "html_url": "https://github.com/girishso/pluck_to_hash",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
