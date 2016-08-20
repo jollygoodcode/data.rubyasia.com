@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-08-20 08:02:11 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-13..2016-08-19",
+  "repos": [
+    {
+      "full_name": "james2m/seedbank",
+      "description": "Seedbank gives your Rails seed data a little structure. Create seeds for each environment, share seeds between environments and specify dependencies to load your seeds in order. All nicely integrated with simple rake tasks.",
+      "html_url": "https://github.com/james2m/seedbank",
+      "stars": 787,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}
