@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-08-21 08:01:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-14..2016-08-20",
+  "repos": [
+    {
+      "full_name": "DanielVartanov/ruby-geometry",
+      "description": "Simple geometry classes and algorithms in Ruby",
+      "html_url": "https://github.com/DanielVartanov/ruby-geometry",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Kyrgyzstan"
+    },
+    {
+      "full_name": "DanielVartanov/encounter-engine",
+      "description": "Free open source engine for \"Encounter\" urban game (like www.en.cx)",
+      "html_url": "https://github.com/DanielVartanov/encounter-engine",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Kyrgyzstan"
+    }
+  ]
+}
