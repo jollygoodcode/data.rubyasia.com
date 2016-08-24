@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-08-24 08:00:28 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-17..2016-08-23",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 733,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 553,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/social-share-button",
+      "description": "Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban ...",
+      "html_url": "https://github.com/huacnlee/social-share-button",
+      "stars": 344,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 175,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 130,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/code_analyzer",
+      "description": "code analyzer tool which is extracted from rails_best_practices",
+      "html_url": "https://github.com/flyerhzm/code_analyzer",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
