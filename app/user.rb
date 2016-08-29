@@ -3,6 +3,7 @@ require "json"
 require "octokit"
 require "pathname"
 
+require_relative "region"
 require_relative "octokit_extension"
 
 class User
