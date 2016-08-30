@@ -1,0 +1,20 @@
+{
+  "login": "ping414ms",
+  "id": 1668096,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1668096?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ping414ms",
+  "html_url": "https://github.com/ping414ms",
+  "followers_url": "https://api.github.com/users/ping414ms/followers",
+  "following_url": "https://api.github.com/users/ping414ms/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ping414ms/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ping414ms/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ping414ms/subscriptions",
+  "organizations_url": "https://api.github.com/users/ping414ms/orgs",
+  "repos_url": "https://api.github.com/users/ping414ms/repos",
+  "events_url": "https://api.github.com/users/ping414ms/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ping414ms/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

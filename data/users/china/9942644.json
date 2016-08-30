@@ -1,0 +1,20 @@
+{
+  "login": "wsjun",
+  "id": 9942644,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9942644?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wsjun",
+  "html_url": "https://github.com/wsjun",
+  "followers_url": "https://api.github.com/users/wsjun/followers",
+  "following_url": "https://api.github.com/users/wsjun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wsjun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wsjun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wsjun/subscriptions",
+  "organizations_url": "https://api.github.com/users/wsjun/orgs",
+  "repos_url": "https://api.github.com/users/wsjun/repos",
+  "events_url": "https://api.github.com/users/wsjun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wsjun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

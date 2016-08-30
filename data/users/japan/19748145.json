@@ -1,0 +1,20 @@
+{
+  "login": "chan-oka",
+  "id": 19748145,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19748145?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chan-oka",
+  "html_url": "https://github.com/chan-oka",
+  "followers_url": "https://api.github.com/users/chan-oka/followers",
+  "following_url": "https://api.github.com/users/chan-oka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chan-oka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chan-oka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chan-oka/subscriptions",
+  "organizations_url": "https://api.github.com/users/chan-oka/orgs",
+  "repos_url": "https://api.github.com/users/chan-oka/repos",
+  "events_url": "https://api.github.com/users/chan-oka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chan-oka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

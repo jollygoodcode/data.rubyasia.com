@@ -1,0 +1,20 @@
+{
+  "login": "hihara",
+  "id": 1013482,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1013482?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hihara",
+  "html_url": "https://github.com/hihara",
+  "followers_url": "https://api.github.com/users/hihara/followers",
+  "following_url": "https://api.github.com/users/hihara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hihara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hihara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hihara/subscriptions",
+  "organizations_url": "https://api.github.com/users/hihara/orgs",
+  "repos_url": "https://api.github.com/users/hihara/repos",
+  "events_url": "https://api.github.com/users/hihara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hihara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

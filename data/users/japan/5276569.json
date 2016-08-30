@@ -1,0 +1,20 @@
+{
+  "login": "hayashidac",
+  "id": 5276569,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5276569?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hayashidac",
+  "html_url": "https://github.com/hayashidac",
+  "followers_url": "https://api.github.com/users/hayashidac/followers",
+  "following_url": "https://api.github.com/users/hayashidac/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hayashidac/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hayashidac/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hayashidac/subscriptions",
+  "organizations_url": "https://api.github.com/users/hayashidac/orgs",
+  "repos_url": "https://api.github.com/users/hayashidac/repos",
+  "events_url": "https://api.github.com/users/hayashidac/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hayashidac/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

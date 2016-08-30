@@ -1,0 +1,20 @@
+{
+  "login": "student-sai",
+  "id": 11572238,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11572238?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/student-sai",
+  "html_url": "https://github.com/student-sai",
+  "followers_url": "https://api.github.com/users/student-sai/followers",
+  "following_url": "https://api.github.com/users/student-sai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/student-sai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/student-sai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/student-sai/subscriptions",
+  "organizations_url": "https://api.github.com/users/student-sai/orgs",
+  "repos_url": "https://api.github.com/users/student-sai/repos",
+  "events_url": "https://api.github.com/users/student-sai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/student-sai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

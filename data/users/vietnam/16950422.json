@@ -1,0 +1,20 @@
+{
+  "login": "sondnm",
+  "id": 16950422,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16950422?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sondnm",
+  "html_url": "https://github.com/sondnm",
+  "followers_url": "https://api.github.com/users/sondnm/followers",
+  "following_url": "https://api.github.com/users/sondnm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sondnm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sondnm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sondnm/subscriptions",
+  "organizations_url": "https://api.github.com/users/sondnm/orgs",
+  "repos_url": "https://api.github.com/users/sondnm/repos",
+  "events_url": "https://api.github.com/users/sondnm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sondnm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

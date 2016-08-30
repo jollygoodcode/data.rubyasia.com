@@ -1,0 +1,20 @@
+{
+  "login": "hrmeetsingh",
+  "id": 15318255,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15318255?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hrmeetsingh",
+  "html_url": "https://github.com/hrmeetsingh",
+  "followers_url": "https://api.github.com/users/hrmeetsingh/followers",
+  "following_url": "https://api.github.com/users/hrmeetsingh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hrmeetsingh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hrmeetsingh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hrmeetsingh/subscriptions",
+  "organizations_url": "https://api.github.com/users/hrmeetsingh/orgs",
+  "repos_url": "https://api.github.com/users/hrmeetsingh/repos",
+  "events_url": "https://api.github.com/users/hrmeetsingh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hrmeetsingh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

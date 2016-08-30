@@ -1,0 +1,20 @@
+{
+  "login": "tbrook",
+  "id": 362399,
+  "avatar_url": "https://avatars.githubusercontent.com/u/362399?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tbrook",
+  "html_url": "https://github.com/tbrook",
+  "followers_url": "https://api.github.com/users/tbrook/followers",
+  "following_url": "https://api.github.com/users/tbrook/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tbrook/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tbrook/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tbrook/subscriptions",
+  "organizations_url": "https://api.github.com/users/tbrook/orgs",
+  "repos_url": "https://api.github.com/users/tbrook/repos",
+  "events_url": "https://api.github.com/users/tbrook/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tbrook/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

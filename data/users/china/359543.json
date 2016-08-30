@@ -1,0 +1,20 @@
+{
+  "login": "linsoong",
+  "id": 359543,
+  "avatar_url": "https://avatars.githubusercontent.com/u/359543?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/linsoong",
+  "html_url": "https://github.com/linsoong",
+  "followers_url": "https://api.github.com/users/linsoong/followers",
+  "following_url": "https://api.github.com/users/linsoong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/linsoong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/linsoong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/linsoong/subscriptions",
+  "organizations_url": "https://api.github.com/users/linsoong/orgs",
+  "repos_url": "https://api.github.com/users/linsoong/repos",
+  "events_url": "https://api.github.com/users/linsoong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/linsoong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

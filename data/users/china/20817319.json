@@ -1,0 +1,20 @@
+{
+  "login": "professorLea",
+  "id": 20817319,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20817319?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/professorLea",
+  "html_url": "https://github.com/professorLea",
+  "followers_url": "https://api.github.com/users/professorLea/followers",
+  "following_url": "https://api.github.com/users/professorLea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/professorLea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/professorLea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/professorLea/subscriptions",
+  "organizations_url": "https://api.github.com/users/professorLea/orgs",
+  "repos_url": "https://api.github.com/users/professorLea/repos",
+  "events_url": "https://api.github.com/users/professorLea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/professorLea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

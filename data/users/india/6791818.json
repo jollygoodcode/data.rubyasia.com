@@ -1,0 +1,20 @@
+{
+  "login": "meow414",
+  "id": 6791818,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6791818?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/meow414",
+  "html_url": "https://github.com/meow414",
+  "followers_url": "https://api.github.com/users/meow414/followers",
+  "following_url": "https://api.github.com/users/meow414/following{/other_user}",
+  "gists_url": "https://api.github.com/users/meow414/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/meow414/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/meow414/subscriptions",
+  "organizations_url": "https://api.github.com/users/meow414/orgs",
+  "repos_url": "https://api.github.com/users/meow414/repos",
+  "events_url": "https://api.github.com/users/meow414/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/meow414/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

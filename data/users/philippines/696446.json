@@ -1,0 +1,20 @@
+{
+  "login": "ubuntux",
+  "id": 696446,
+  "avatar_url": "https://avatars.githubusercontent.com/u/696446?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ubuntux",
+  "html_url": "https://github.com/ubuntux",
+  "followers_url": "https://api.github.com/users/ubuntux/followers",
+  "following_url": "https://api.github.com/users/ubuntux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ubuntux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ubuntux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ubuntux/subscriptions",
+  "organizations_url": "https://api.github.com/users/ubuntux/orgs",
+  "repos_url": "https://api.github.com/users/ubuntux/repos",
+  "events_url": "https://api.github.com/users/ubuntux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ubuntux/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

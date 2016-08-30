@@ -1,0 +1,20 @@
+{
+  "login": "sfjwr",
+  "id": 8042009,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8042009?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sfjwr",
+  "html_url": "https://github.com/sfjwr",
+  "followers_url": "https://api.github.com/users/sfjwr/followers",
+  "following_url": "https://api.github.com/users/sfjwr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sfjwr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sfjwr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sfjwr/subscriptions",
+  "organizations_url": "https://api.github.com/users/sfjwr/orgs",
+  "repos_url": "https://api.github.com/users/sfjwr/repos",
+  "events_url": "https://api.github.com/users/sfjwr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sfjwr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

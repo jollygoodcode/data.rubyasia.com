@@ -1,0 +1,20 @@
+{
+  "login": "JosephKent",
+  "id": 20941512,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20941512?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JosephKent",
+  "html_url": "https://github.com/JosephKent",
+  "followers_url": "https://api.github.com/users/JosephKent/followers",
+  "following_url": "https://api.github.com/users/JosephKent/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JosephKent/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JosephKent/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JosephKent/subscriptions",
+  "organizations_url": "https://api.github.com/users/JosephKent/orgs",
+  "repos_url": "https://api.github.com/users/JosephKent/repos",
+  "events_url": "https://api.github.com/users/JosephKent/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JosephKent/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

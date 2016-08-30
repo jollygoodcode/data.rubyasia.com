@@ -1,0 +1,20 @@
+{
+  "login": "aphantee",
+  "id": 1218287,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1218287?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aphantee",
+  "html_url": "https://github.com/aphantee",
+  "followers_url": "https://api.github.com/users/aphantee/followers",
+  "following_url": "https://api.github.com/users/aphantee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aphantee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aphantee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aphantee/subscriptions",
+  "organizations_url": "https://api.github.com/users/aphantee/orgs",
+  "repos_url": "https://api.github.com/users/aphantee/repos",
+  "events_url": "https://api.github.com/users/aphantee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aphantee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

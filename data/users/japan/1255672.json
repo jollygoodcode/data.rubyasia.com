@@ -1,0 +1,20 @@
+{
+  "login": "tomowill",
+  "id": 1255672,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1255672?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tomowill",
+  "html_url": "https://github.com/tomowill",
+  "followers_url": "https://api.github.com/users/tomowill/followers",
+  "following_url": "https://api.github.com/users/tomowill/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tomowill/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tomowill/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tomowill/subscriptions",
+  "organizations_url": "https://api.github.com/users/tomowill/orgs",
+  "repos_url": "https://api.github.com/users/tomowill/repos",
+  "events_url": "https://api.github.com/users/tomowill/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tomowill/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

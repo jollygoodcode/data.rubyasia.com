@@ -1,0 +1,20 @@
+{
+  "login": "songsuke",
+  "id": 3966461,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3966461?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/songsuke",
+  "html_url": "https://github.com/songsuke",
+  "followers_url": "https://api.github.com/users/songsuke/followers",
+  "following_url": "https://api.github.com/users/songsuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/songsuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/songsuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/songsuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/songsuke/orgs",
+  "repos_url": "https://api.github.com/users/songsuke/repos",
+  "events_url": "https://api.github.com/users/songsuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/songsuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kimamula",
+  "id": 3130879,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3130879?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimamula",
+  "html_url": "https://github.com/kimamula",
+  "followers_url": "https://api.github.com/users/kimamula/followers",
+  "following_url": "https://api.github.com/users/kimamula/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimamula/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimamula/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimamula/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimamula/orgs",
+  "repos_url": "https://api.github.com/users/kimamula/repos",
+  "events_url": "https://api.github.com/users/kimamula/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimamula/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

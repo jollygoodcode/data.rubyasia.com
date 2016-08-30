@@ -1,0 +1,20 @@
+{
+  "login": "MtTrail",
+  "id": 1475131,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1475131?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MtTrail",
+  "html_url": "https://github.com/MtTrail",
+  "followers_url": "https://api.github.com/users/MtTrail/followers",
+  "following_url": "https://api.github.com/users/MtTrail/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MtTrail/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MtTrail/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MtTrail/subscriptions",
+  "organizations_url": "https://api.github.com/users/MtTrail/orgs",
+  "repos_url": "https://api.github.com/users/MtTrail/repos",
+  "events_url": "https://api.github.com/users/MtTrail/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MtTrail/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sageeki",
+  "id": 7079172,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7079172?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sageeki",
+  "html_url": "https://github.com/sageeki",
+  "followers_url": "https://api.github.com/users/sageeki/followers",
+  "following_url": "https://api.github.com/users/sageeki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sageeki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sageeki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sageeki/subscriptions",
+  "organizations_url": "https://api.github.com/users/sageeki/orgs",
+  "repos_url": "https://api.github.com/users/sageeki/repos",
+  "events_url": "https://api.github.com/users/sageeki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sageeki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mur-wtag",
+  "id": 12680317,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12680317?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mur-wtag",
+  "html_url": "https://github.com/mur-wtag",
+  "followers_url": "https://api.github.com/users/mur-wtag/followers",
+  "following_url": "https://api.github.com/users/mur-wtag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mur-wtag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mur-wtag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mur-wtag/subscriptions",
+  "organizations_url": "https://api.github.com/users/mur-wtag/orgs",
+  "repos_url": "https://api.github.com/users/mur-wtag/repos",
+  "events_url": "https://api.github.com/users/mur-wtag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mur-wtag/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

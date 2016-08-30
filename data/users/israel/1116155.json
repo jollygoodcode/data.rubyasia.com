@@ -1,0 +1,20 @@
+{
+  "login": "comigo-github",
+  "id": 1116155,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1116155?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/comigo-github",
+  "html_url": "https://github.com/comigo-github",
+  "followers_url": "https://api.github.com/users/comigo-github/followers",
+  "following_url": "https://api.github.com/users/comigo-github/following{/other_user}",
+  "gists_url": "https://api.github.com/users/comigo-github/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/comigo-github/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/comigo-github/subscriptions",
+  "organizations_url": "https://api.github.com/users/comigo-github/orgs",
+  "repos_url": "https://api.github.com/users/comigo-github/repos",
+  "events_url": "https://api.github.com/users/comigo-github/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/comigo-github/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

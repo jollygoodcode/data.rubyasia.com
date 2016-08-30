@@ -1,0 +1,20 @@
+{
+  "login": "garyzhong",
+  "id": 12904601,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12904601?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/garyzhong",
+  "html_url": "https://github.com/garyzhong",
+  "followers_url": "https://api.github.com/users/garyzhong/followers",
+  "following_url": "https://api.github.com/users/garyzhong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/garyzhong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/garyzhong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/garyzhong/subscriptions",
+  "organizations_url": "https://api.github.com/users/garyzhong/orgs",
+  "repos_url": "https://api.github.com/users/garyzhong/repos",
+  "events_url": "https://api.github.com/users/garyzhong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/garyzhong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

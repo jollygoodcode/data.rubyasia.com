@@ -1,0 +1,20 @@
+{
+  "login": "ReckerSwartz",
+  "id": 16918568,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16918568?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ReckerSwartz",
+  "html_url": "https://github.com/ReckerSwartz",
+  "followers_url": "https://api.github.com/users/ReckerSwartz/followers",
+  "following_url": "https://api.github.com/users/ReckerSwartz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ReckerSwartz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ReckerSwartz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ReckerSwartz/subscriptions",
+  "organizations_url": "https://api.github.com/users/ReckerSwartz/orgs",
+  "repos_url": "https://api.github.com/users/ReckerSwartz/repos",
+  "events_url": "https://api.github.com/users/ReckerSwartz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ReckerSwartz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

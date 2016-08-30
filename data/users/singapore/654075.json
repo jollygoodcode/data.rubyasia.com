@@ -1,0 +1,20 @@
+{
+  "login": "lizanys",
+  "id": 654075,
+  "avatar_url": "https://avatars.githubusercontent.com/u/654075?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lizanys",
+  "html_url": "https://github.com/lizanys",
+  "followers_url": "https://api.github.com/users/lizanys/followers",
+  "following_url": "https://api.github.com/users/lizanys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lizanys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lizanys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lizanys/subscriptions",
+  "organizations_url": "https://api.github.com/users/lizanys/orgs",
+  "repos_url": "https://api.github.com/users/lizanys/repos",
+  "events_url": "https://api.github.com/users/lizanys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lizanys/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

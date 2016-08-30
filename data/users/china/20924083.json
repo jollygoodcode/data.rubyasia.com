@@ -1,0 +1,20 @@
+{
+  "login": "Boobee",
+  "id": 20924083,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20924083?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Boobee",
+  "html_url": "https://github.com/Boobee",
+  "followers_url": "https://api.github.com/users/Boobee/followers",
+  "following_url": "https://api.github.com/users/Boobee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Boobee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Boobee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Boobee/subscriptions",
+  "organizations_url": "https://api.github.com/users/Boobee/orgs",
+  "repos_url": "https://api.github.com/users/Boobee/repos",
+  "events_url": "https://api.github.com/users/Boobee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Boobee/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

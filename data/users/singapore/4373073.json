@@ -1,0 +1,20 @@
+{
+  "login": "qiscus",
+  "id": 4373073,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4373073?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qiscus",
+  "html_url": "https://github.com/qiscus",
+  "followers_url": "https://api.github.com/users/qiscus/followers",
+  "following_url": "https://api.github.com/users/qiscus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qiscus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qiscus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qiscus/subscriptions",
+  "organizations_url": "https://api.github.com/users/qiscus/orgs",
+  "repos_url": "https://api.github.com/users/qiscus/repos",
+  "events_url": "https://api.github.com/users/qiscus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qiscus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

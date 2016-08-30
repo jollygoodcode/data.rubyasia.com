@@ -1,0 +1,20 @@
+{
+  "login": "lervzc",
+  "id": 948165,
+  "avatar_url": "https://avatars.githubusercontent.com/u/948165?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lervzc",
+  "html_url": "https://github.com/lervzc",
+  "followers_url": "https://api.github.com/users/lervzc/followers",
+  "following_url": "https://api.github.com/users/lervzc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lervzc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lervzc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lervzc/subscriptions",
+  "organizations_url": "https://api.github.com/users/lervzc/orgs",
+  "repos_url": "https://api.github.com/users/lervzc/repos",
+  "events_url": "https://api.github.com/users/lervzc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lervzc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

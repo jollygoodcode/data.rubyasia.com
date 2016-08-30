@@ -1,0 +1,20 @@
+{
+  "login": "miyohide",
+  "id": 601621,
+  "avatar_url": "https://avatars.githubusercontent.com/u/601621?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miyohide",
+  "html_url": "https://github.com/miyohide",
+  "followers_url": "https://api.github.com/users/miyohide/followers",
+  "following_url": "https://api.github.com/users/miyohide/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miyohide/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miyohide/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miyohide/subscriptions",
+  "organizations_url": "https://api.github.com/users/miyohide/orgs",
+  "repos_url": "https://api.github.com/users/miyohide/repos",
+  "events_url": "https://api.github.com/users/miyohide/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miyohide/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

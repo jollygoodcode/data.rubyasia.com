@@ -1,0 +1,20 @@
+{
+  "login": "eniship",
+  "id": 20752638,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20752638?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eniship",
+  "html_url": "https://github.com/eniship",
+  "followers_url": "https://api.github.com/users/eniship/followers",
+  "following_url": "https://api.github.com/users/eniship/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eniship/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eniship/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eniship/subscriptions",
+  "organizations_url": "https://api.github.com/users/eniship/orgs",
+  "repos_url": "https://api.github.com/users/eniship/repos",
+  "events_url": "https://api.github.com/users/eniship/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eniship/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

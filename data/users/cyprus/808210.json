@@ -1,0 +1,20 @@
+{
+  "login": "SergeyTsaplin",
+  "id": 808210,
+  "avatar_url": "https://avatars.githubusercontent.com/u/808210?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SergeyTsaplin",
+  "html_url": "https://github.com/SergeyTsaplin",
+  "followers_url": "https://api.github.com/users/SergeyTsaplin/followers",
+  "following_url": "https://api.github.com/users/SergeyTsaplin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SergeyTsaplin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SergeyTsaplin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SergeyTsaplin/subscriptions",
+  "organizations_url": "https://api.github.com/users/SergeyTsaplin/orgs",
+  "repos_url": "https://api.github.com/users/SergeyTsaplin/repos",
+  "events_url": "https://api.github.com/users/SergeyTsaplin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SergeyTsaplin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sakares",
+  "id": 1306031,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1306031?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sakares",
+  "html_url": "https://github.com/sakares",
+  "followers_url": "https://api.github.com/users/sakares/followers",
+  "following_url": "https://api.github.com/users/sakares/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sakares/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sakares/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sakares/subscriptions",
+  "organizations_url": "https://api.github.com/users/sakares/orgs",
+  "repos_url": "https://api.github.com/users/sakares/repos",
+  "events_url": "https://api.github.com/users/sakares/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sakares/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

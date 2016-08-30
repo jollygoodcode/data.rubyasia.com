@@ -1,0 +1,20 @@
+{
+  "login": "WebGents",
+  "id": 15965043,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15965043?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/WebGents",
+  "html_url": "https://github.com/WebGents",
+  "followers_url": "https://api.github.com/users/WebGents/followers",
+  "following_url": "https://api.github.com/users/WebGents/following{/other_user}",
+  "gists_url": "https://api.github.com/users/WebGents/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/WebGents/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/WebGents/subscriptions",
+  "organizations_url": "https://api.github.com/users/WebGents/orgs",
+  "repos_url": "https://api.github.com/users/WebGents/repos",
+  "events_url": "https://api.github.com/users/WebGents/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/WebGents/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

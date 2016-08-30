@@ -1,0 +1,20 @@
+{
+  "login": "fryasu",
+  "id": 21095664,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21095664?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fryasu",
+  "html_url": "https://github.com/fryasu",
+  "followers_url": "https://api.github.com/users/fryasu/followers",
+  "following_url": "https://api.github.com/users/fryasu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fryasu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fryasu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fryasu/subscriptions",
+  "organizations_url": "https://api.github.com/users/fryasu/orgs",
+  "repos_url": "https://api.github.com/users/fryasu/repos",
+  "events_url": "https://api.github.com/users/fryasu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fryasu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

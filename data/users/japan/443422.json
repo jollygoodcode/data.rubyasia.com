@@ -1,0 +1,20 @@
+{
+  "login": "pinkvelociraptor",
+  "id": 443422,
+  "avatar_url": "https://avatars.githubusercontent.com/u/443422?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pinkvelociraptor",
+  "html_url": "https://github.com/pinkvelociraptor",
+  "followers_url": "https://api.github.com/users/pinkvelociraptor/followers",
+  "following_url": "https://api.github.com/users/pinkvelociraptor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pinkvelociraptor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pinkvelociraptor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pinkvelociraptor/subscriptions",
+  "organizations_url": "https://api.github.com/users/pinkvelociraptor/orgs",
+  "repos_url": "https://api.github.com/users/pinkvelociraptor/repos",
+  "events_url": "https://api.github.com/users/pinkvelociraptor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pinkvelociraptor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

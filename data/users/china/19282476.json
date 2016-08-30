@@ -1,0 +1,20 @@
+{
+  "login": "Qumge",
+  "id": 19282476,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19282476?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Qumge",
+  "html_url": "https://github.com/Qumge",
+  "followers_url": "https://api.github.com/users/Qumge/followers",
+  "following_url": "https://api.github.com/users/Qumge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Qumge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Qumge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Qumge/subscriptions",
+  "organizations_url": "https://api.github.com/users/Qumge/orgs",
+  "repos_url": "https://api.github.com/users/Qumge/repos",
+  "events_url": "https://api.github.com/users/Qumge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Qumge/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

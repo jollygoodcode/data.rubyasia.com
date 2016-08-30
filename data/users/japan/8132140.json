@@ -1,0 +1,20 @@
+{
+  "login": "keiisato",
+  "id": 8132140,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8132140?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/keiisato",
+  "html_url": "https://github.com/keiisato",
+  "followers_url": "https://api.github.com/users/keiisato/followers",
+  "following_url": "https://api.github.com/users/keiisato/following{/other_user}",
+  "gists_url": "https://api.github.com/users/keiisato/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/keiisato/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/keiisato/subscriptions",
+  "organizations_url": "https://api.github.com/users/keiisato/orgs",
+  "repos_url": "https://api.github.com/users/keiisato/repos",
+  "events_url": "https://api.github.com/users/keiisato/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/keiisato/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
