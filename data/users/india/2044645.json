@@ -1,0 +1,20 @@
+{
+  "login": "princejoseph",
+  "id": 2044645,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2044645?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/princejoseph",
+  "html_url": "https://github.com/princejoseph",
+  "followers_url": "https://api.github.com/users/princejoseph/followers",
+  "following_url": "https://api.github.com/users/princejoseph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/princejoseph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/princejoseph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/princejoseph/subscriptions",
+  "organizations_url": "https://api.github.com/users/princejoseph/orgs",
+  "repos_url": "https://api.github.com/users/princejoseph/repos",
+  "events_url": "https://api.github.com/users/princejoseph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/princejoseph/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

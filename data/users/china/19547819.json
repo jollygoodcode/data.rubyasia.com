@@ -1,0 +1,20 @@
+{
+  "login": "rennyallen",
+  "id": 19547819,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19547819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rennyallen",
+  "html_url": "https://github.com/rennyallen",
+  "followers_url": "https://api.github.com/users/rennyallen/followers",
+  "following_url": "https://api.github.com/users/rennyallen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rennyallen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rennyallen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rennyallen/subscriptions",
+  "organizations_url": "https://api.github.com/users/rennyallen/orgs",
+  "repos_url": "https://api.github.com/users/rennyallen/repos",
+  "events_url": "https://api.github.com/users/rennyallen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rennyallen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
