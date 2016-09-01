@@ -1,0 +1,20 @@
+{
+  "login": "calvinkam",
+  "id": 7401721,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7401721?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/calvinkam",
+  "html_url": "https://github.com/calvinkam",
+  "followers_url": "https://api.github.com/users/calvinkam/followers",
+  "following_url": "https://api.github.com/users/calvinkam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/calvinkam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/calvinkam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/calvinkam/subscriptions",
+  "organizations_url": "https://api.github.com/users/calvinkam/orgs",
+  "repos_url": "https://api.github.com/users/calvinkam/repos",
+  "events_url": "https://api.github.com/users/calvinkam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/calvinkam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

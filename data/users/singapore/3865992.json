@@ -1,0 +1,20 @@
+{
+  "login": "anicetog",
+  "id": 3865992,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3865992?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anicetog",
+  "html_url": "https://github.com/anicetog",
+  "followers_url": "https://api.github.com/users/anicetog/followers",
+  "following_url": "https://api.github.com/users/anicetog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anicetog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anicetog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anicetog/subscriptions",
+  "organizations_url": "https://api.github.com/users/anicetog/orgs",
+  "repos_url": "https://api.github.com/users/anicetog/repos",
+  "events_url": "https://api.github.com/users/anicetog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anicetog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
