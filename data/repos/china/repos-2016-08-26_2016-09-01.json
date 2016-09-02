@@ -1,0 +1,78 @@
+{
+  "generated_at": "2016-09-02 08:11:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-26..2016-09-01",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 737,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/social-share-button",
+      "description": "Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban ...",
+      "html_url": "https://github.com/huacnlee/social-share-button",
+      "stars": 347,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/rucaptcha",
+      "description": "This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.",
+      "html_url": "https://github.com/huacnlee/rucaptcha",
+      "stars": 321,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 316,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 133,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 119,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "falm/js-namespace-rails",
+      "description": "js-namespace-rails let you choose which javascript snippet can execute in rails assets pipeline",
+      "html_url": "https://github.com/falm/js-namespace-rails",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/qiniu_direct_uploader",
+      "description": "A gem can direct upload your files to a Qiniu storage bucket",
+      "html_url": "https://github.com/huobazi/qiniu_direct_uploader",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
