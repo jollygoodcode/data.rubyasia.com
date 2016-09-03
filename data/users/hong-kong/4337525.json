@@ -1,0 +1,20 @@
+{
+  "login": "stanleylhs",
+  "id": 4337525,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4337525?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stanleylhs",
+  "html_url": "https://github.com/stanleylhs",
+  "followers_url": "https://api.github.com/users/stanleylhs/followers",
+  "following_url": "https://api.github.com/users/stanleylhs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stanleylhs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stanleylhs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stanleylhs/subscriptions",
+  "organizations_url": "https://api.github.com/users/stanleylhs/orgs",
+  "repos_url": "https://api.github.com/users/stanleylhs/repos",
+  "events_url": "https://api.github.com/users/stanleylhs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stanleylhs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
