@@ -1,0 +1,20 @@
+{
+  "login": "heckpsi-lab",
+  "id": 18241809,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18241809?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/heckpsi-lab",
+  "html_url": "https://github.com/heckpsi-lab",
+  "followers_url": "https://api.github.com/users/heckpsi-lab/followers",
+  "following_url": "https://api.github.com/users/heckpsi-lab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/heckpsi-lab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/heckpsi-lab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/heckpsi-lab/subscriptions",
+  "organizations_url": "https://api.github.com/users/heckpsi-lab/orgs",
+  "repos_url": "https://api.github.com/users/heckpsi-lab/repos",
+  "events_url": "https://api.github.com/users/heckpsi-lab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/heckpsi-lab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sagarbinod",
+  "id": 16104496,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16104496?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sagarbinod",
+  "html_url": "https://github.com/sagarbinod",
+  "followers_url": "https://api.github.com/users/sagarbinod/followers",
+  "following_url": "https://api.github.com/users/sagarbinod/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sagarbinod/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sagarbinod/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sagarbinod/subscriptions",
+  "organizations_url": "https://api.github.com/users/sagarbinod/orgs",
+  "repos_url": "https://api.github.com/users/sagarbinod/repos",
+  "events_url": "https://api.github.com/users/sagarbinod/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sagarbinod/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
