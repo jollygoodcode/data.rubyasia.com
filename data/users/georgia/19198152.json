@@ -1,0 +1,20 @@
+{
+  "login": "mberkland",
+  "id": 19198152,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19198152?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mberkland",
+  "html_url": "https://github.com/mberkland",
+  "followers_url": "https://api.github.com/users/mberkland/followers",
+  "following_url": "https://api.github.com/users/mberkland/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mberkland/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mberkland/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mberkland/subscriptions",
+  "organizations_url": "https://api.github.com/users/mberkland/orgs",
+  "repos_url": "https://api.github.com/users/mberkland/repos",
+  "events_url": "https://api.github.com/users/mberkland/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mberkland/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

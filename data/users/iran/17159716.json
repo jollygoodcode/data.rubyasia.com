@@ -1,0 +1,20 @@
+{
+  "login": "PlayRitmo",
+  "id": 17159716,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17159716?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PlayRitmo",
+  "html_url": "https://github.com/PlayRitmo",
+  "followers_url": "https://api.github.com/users/PlayRitmo/followers",
+  "following_url": "https://api.github.com/users/PlayRitmo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PlayRitmo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PlayRitmo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PlayRitmo/subscriptions",
+  "organizations_url": "https://api.github.com/users/PlayRitmo/orgs",
+  "repos_url": "https://api.github.com/users/PlayRitmo/repos",
+  "events_url": "https://api.github.com/users/PlayRitmo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PlayRitmo/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

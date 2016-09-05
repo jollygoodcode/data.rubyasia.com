@@ -1,0 +1,20 @@
+{
+  "login": "JoeyStanley",
+  "id": 21230821,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21230821?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JoeyStanley",
+  "html_url": "https://github.com/JoeyStanley",
+  "followers_url": "https://api.github.com/users/JoeyStanley/followers",
+  "following_url": "https://api.github.com/users/JoeyStanley/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JoeyStanley/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JoeyStanley/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JoeyStanley/subscriptions",
+  "organizations_url": "https://api.github.com/users/JoeyStanley/orgs",
+  "repos_url": "https://api.github.com/users/JoeyStanley/repos",
+  "events_url": "https://api.github.com/users/JoeyStanley/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JoeyStanley/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

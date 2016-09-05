@@ -1,0 +1,20 @@
+{
+  "login": "galapagos",
+  "id": 6229437,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6229437?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/galapagos",
+  "html_url": "https://github.com/galapagos",
+  "followers_url": "https://api.github.com/users/galapagos/followers",
+  "following_url": "https://api.github.com/users/galapagos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/galapagos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/galapagos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/galapagos/subscriptions",
+  "organizations_url": "https://api.github.com/users/galapagos/orgs",
+  "repos_url": "https://api.github.com/users/galapagos/repos",
+  "events_url": "https://api.github.com/users/galapagos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/galapagos/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

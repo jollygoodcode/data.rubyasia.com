@@ -1,0 +1,20 @@
+{
+  "login": "codeeffic",
+  "id": 14054570,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14054570?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codeeffic",
+  "html_url": "https://github.com/codeeffic",
+  "followers_url": "https://api.github.com/users/codeeffic/followers",
+  "following_url": "https://api.github.com/users/codeeffic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codeeffic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codeeffic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codeeffic/subscriptions",
+  "organizations_url": "https://api.github.com/users/codeeffic/orgs",
+  "repos_url": "https://api.github.com/users/codeeffic/repos",
+  "events_url": "https://api.github.com/users/codeeffic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codeeffic/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

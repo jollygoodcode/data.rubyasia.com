@@ -1,0 +1,20 @@
+{
+  "login": "prg-titech",
+  "id": 20577759,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20577759?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/prg-titech",
+  "html_url": "https://github.com/prg-titech",
+  "followers_url": "https://api.github.com/users/prg-titech/followers",
+  "following_url": "https://api.github.com/users/prg-titech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/prg-titech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/prg-titech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/prg-titech/subscriptions",
+  "organizations_url": "https://api.github.com/users/prg-titech/orgs",
+  "repos_url": "https://api.github.com/users/prg-titech/repos",
+  "events_url": "https://api.github.com/users/prg-titech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/prg-titech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

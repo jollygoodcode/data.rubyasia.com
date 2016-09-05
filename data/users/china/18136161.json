@@ -1,0 +1,20 @@
+{
+  "login": "Code-T",
+  "id": 18136161,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18136161?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Code-T",
+  "html_url": "https://github.com/Code-T",
+  "followers_url": "https://api.github.com/users/Code-T/followers",
+  "following_url": "https://api.github.com/users/Code-T/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Code-T/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Code-T/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Code-T/subscriptions",
+  "organizations_url": "https://api.github.com/users/Code-T/orgs",
+  "repos_url": "https://api.github.com/users/Code-T/repos",
+  "events_url": "https://api.github.com/users/Code-T/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Code-T/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kaipule-tech",
+  "id": 21310049,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21310049?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaipule-tech",
+  "html_url": "https://github.com/kaipule-tech",
+  "followers_url": "https://api.github.com/users/kaipule-tech/followers",
+  "following_url": "https://api.github.com/users/kaipule-tech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaipule-tech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaipule-tech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaipule-tech/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaipule-tech/orgs",
+  "repos_url": "https://api.github.com/users/kaipule-tech/repos",
+  "events_url": "https://api.github.com/users/kaipule-tech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaipule-tech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

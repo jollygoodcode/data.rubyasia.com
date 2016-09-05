@@ -1,0 +1,20 @@
+{
+  "login": "middle-guys",
+  "id": 20783340,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20783340?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/middle-guys",
+  "html_url": "https://github.com/middle-guys",
+  "followers_url": "https://api.github.com/users/middle-guys/followers",
+  "following_url": "https://api.github.com/users/middle-guys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/middle-guys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/middle-guys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/middle-guys/subscriptions",
+  "organizations_url": "https://api.github.com/users/middle-guys/orgs",
+  "repos_url": "https://api.github.com/users/middle-guys/repos",
+  "events_url": "https://api.github.com/users/middle-guys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/middle-guys/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

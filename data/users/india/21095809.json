@@ -1,0 +1,20 @@
+{
+  "login": "paul2lol",
+  "id": 21095809,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21095809?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paul2lol",
+  "html_url": "https://github.com/paul2lol",
+  "followers_url": "https://api.github.com/users/paul2lol/followers",
+  "following_url": "https://api.github.com/users/paul2lol/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paul2lol/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paul2lol/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paul2lol/subscriptions",
+  "organizations_url": "https://api.github.com/users/paul2lol/orgs",
+  "repos_url": "https://api.github.com/users/paul2lol/repos",
+  "events_url": "https://api.github.com/users/paul2lol/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paul2lol/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

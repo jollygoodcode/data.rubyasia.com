@@ -1,0 +1,20 @@
+{
+  "login": "catarun",
+  "id": 18030356,
+  "avatar_url": "https://avatars.githubusercontent.com/u/18030356?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/catarun",
+  "html_url": "https://github.com/catarun",
+  "followers_url": "https://api.github.com/users/catarun/followers",
+  "following_url": "https://api.github.com/users/catarun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/catarun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/catarun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/catarun/subscriptions",
+  "organizations_url": "https://api.github.com/users/catarun/orgs",
+  "repos_url": "https://api.github.com/users/catarun/repos",
+  "events_url": "https://api.github.com/users/catarun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/catarun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kodebeans",
+  "id": 20942136,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20942136?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kodebeans",
+  "html_url": "https://github.com/kodebeans",
+  "followers_url": "https://api.github.com/users/kodebeans/followers",
+  "following_url": "https://api.github.com/users/kodebeans/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kodebeans/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kodebeans/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kodebeans/subscriptions",
+  "organizations_url": "https://api.github.com/users/kodebeans/orgs",
+  "repos_url": "https://api.github.com/users/kodebeans/repos",
+  "events_url": "https://api.github.com/users/kodebeans/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kodebeans/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
