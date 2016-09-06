@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-09-06 08:11:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-08-30..2016-09-05",
+  "repos": [
+    {
+      "full_name": "huacnlee/rucaptcha",
+      "description": "This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.",
+      "html_url": "https://github.com/huacnlee/rucaptcha",
+      "stars": 323,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
