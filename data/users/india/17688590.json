@@ -1,0 +1,20 @@
+{
+  "login": "udaycoder",
+  "id": 17688590,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17688590?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/udaycoder",
+  "html_url": "https://github.com/udaycoder",
+  "followers_url": "https://api.github.com/users/udaycoder/followers",
+  "following_url": "https://api.github.com/users/udaycoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/udaycoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/udaycoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/udaycoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/udaycoder/orgs",
+  "repos_url": "https://api.github.com/users/udaycoder/repos",
+  "events_url": "https://api.github.com/users/udaycoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/udaycoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sansanboy",
+  "id": 4065370,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4065370?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sansanboy",
+  "html_url": "https://github.com/sansanboy",
+  "followers_url": "https://api.github.com/users/sansanboy/followers",
+  "following_url": "https://api.github.com/users/sansanboy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sansanboy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sansanboy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sansanboy/subscriptions",
+  "organizations_url": "https://api.github.com/users/sansanboy/orgs",
+  "repos_url": "https://api.github.com/users/sansanboy/repos",
+  "events_url": "https://api.github.com/users/sansanboy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sansanboy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
