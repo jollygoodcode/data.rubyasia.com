@@ -1,0 +1,20 @@
+{
+  "login": "awlad",
+  "id": 1593830,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1593830?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/awlad",
+  "html_url": "https://github.com/awlad",
+  "followers_url": "https://api.github.com/users/awlad/followers",
+  "following_url": "https://api.github.com/users/awlad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/awlad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/awlad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/awlad/subscriptions",
+  "organizations_url": "https://api.github.com/users/awlad/orgs",
+  "repos_url": "https://api.github.com/users/awlad/repos",
+  "events_url": "https://api.github.com/users/awlad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/awlad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

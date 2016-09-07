@@ -1,0 +1,20 @@
+{
+  "login": "wequick",
+  "id": 11547321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11547321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wequick",
+  "html_url": "https://github.com/wequick",
+  "followers_url": "https://api.github.com/users/wequick/followers",
+  "following_url": "https://api.github.com/users/wequick/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wequick/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wequick/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wequick/subscriptions",
+  "organizations_url": "https://api.github.com/users/wequick/orgs",
+  "repos_url": "https://api.github.com/users/wequick/repos",
+  "events_url": "https://api.github.com/users/wequick/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wequick/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
