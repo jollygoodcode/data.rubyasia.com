@@ -1,0 +1,20 @@
+{
+  "login": "shaun-appy",
+  "id": 22071994,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22071994?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shaun-appy",
+  "html_url": "https://github.com/shaun-appy",
+  "followers_url": "https://api.github.com/users/shaun-appy/followers",
+  "following_url": "https://api.github.com/users/shaun-appy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shaun-appy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shaun-appy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shaun-appy/subscriptions",
+  "organizations_url": "https://api.github.com/users/shaun-appy/orgs",
+  "repos_url": "https://api.github.com/users/shaun-appy/repos",
+  "events_url": "https://api.github.com/users/shaun-appy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shaun-appy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

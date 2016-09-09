@@ -1,0 +1,20 @@
+{
+  "login": "jeanwei",
+  "id": 16623014,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16623014?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeanwei",
+  "html_url": "https://github.com/jeanwei",
+  "followers_url": "https://api.github.com/users/jeanwei/followers",
+  "following_url": "https://api.github.com/users/jeanwei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeanwei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeanwei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeanwei/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeanwei/orgs",
+  "repos_url": "https://api.github.com/users/jeanwei/repos",
+  "events_url": "https://api.github.com/users/jeanwei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeanwei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

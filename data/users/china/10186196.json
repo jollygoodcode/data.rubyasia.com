@@ -1,0 +1,20 @@
+{
+  "login": "echoteexiao",
+  "id": 10186196,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10186196?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/echoteexiao",
+  "html_url": "https://github.com/echoteexiao",
+  "followers_url": "https://api.github.com/users/echoteexiao/followers",
+  "following_url": "https://api.github.com/users/echoteexiao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/echoteexiao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/echoteexiao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/echoteexiao/subscriptions",
+  "organizations_url": "https://api.github.com/users/echoteexiao/orgs",
+  "repos_url": "https://api.github.com/users/echoteexiao/repos",
+  "events_url": "https://api.github.com/users/echoteexiao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/echoteexiao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
