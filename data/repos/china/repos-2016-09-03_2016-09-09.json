@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-09-10 08:11:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-03..2016-09-09",
+  "repos": [
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 195,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 184,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 132,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

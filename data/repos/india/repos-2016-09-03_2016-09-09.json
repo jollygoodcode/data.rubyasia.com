@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-09-10 08:11:50 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-03..2016-09-09",
+  "repos": [
+    {
+      "full_name": "coderhs/ruby_open_weather_map",
+      "description": "A ruby wrapper for open weather map",
+      "html_url": "https://github.com/coderhs/ruby_open_weather_map",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sachin87/week-of-month",
+      "description": "gives a week of month as per given date",
+      "html_url": "https://github.com/sachin87/week-of-month",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
