@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-09-11 08:11:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-04..2016-09-10",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4221,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 196,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 185,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 132,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "sishen/uber-ruby",
+      "description": "A Ruby Interface to the Uber API",
+      "html_url": "https://github.com/sishen/uber-ruby",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
