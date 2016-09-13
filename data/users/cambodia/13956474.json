@@ -1,0 +1,20 @@
+{
+  "login": "pitouly",
+  "id": 13956474,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13956474?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pitouly",
+  "html_url": "https://github.com/pitouly",
+  "followers_url": "https://api.github.com/users/pitouly/followers",
+  "following_url": "https://api.github.com/users/pitouly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pitouly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pitouly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pitouly/subscriptions",
+  "organizations_url": "https://api.github.com/users/pitouly/orgs",
+  "repos_url": "https://api.github.com/users/pitouly/repos",
+  "events_url": "https://api.github.com/users/pitouly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pitouly/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

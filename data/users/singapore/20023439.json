@@ -1,0 +1,20 @@
+{
+  "login": "haiilong",
+  "id": 20023439,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20023439?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haiilong",
+  "html_url": "https://github.com/haiilong",
+  "followers_url": "https://api.github.com/users/haiilong/followers",
+  "following_url": "https://api.github.com/users/haiilong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haiilong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haiilong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haiilong/subscriptions",
+  "organizations_url": "https://api.github.com/users/haiilong/orgs",
+  "repos_url": "https://api.github.com/users/haiilong/repos",
+  "events_url": "https://api.github.com/users/haiilong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haiilong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
