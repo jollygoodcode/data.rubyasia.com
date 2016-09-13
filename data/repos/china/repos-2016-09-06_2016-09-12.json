@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-09-13 08:11:22 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-06..2016-09-12",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4222,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 200,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 132,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
