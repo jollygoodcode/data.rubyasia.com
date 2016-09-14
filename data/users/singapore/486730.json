@@ -1,0 +1,20 @@
+{
+  "login": "aa21",
+  "id": 486730,
+  "avatar_url": "https://avatars.githubusercontent.com/u/486730?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aa21",
+  "html_url": "https://github.com/aa21",
+  "followers_url": "https://api.github.com/users/aa21/followers",
+  "following_url": "https://api.github.com/users/aa21/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aa21/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aa21/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aa21/subscriptions",
+  "organizations_url": "https://api.github.com/users/aa21/orgs",
+  "repos_url": "https://api.github.com/users/aa21/repos",
+  "events_url": "https://api.github.com/users/aa21/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aa21/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

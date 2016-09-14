@@ -1,0 +1,20 @@
+{
+  "login": "b-mueller",
+  "id": 5194767,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5194767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/b-mueller",
+  "html_url": "https://github.com/b-mueller",
+  "followers_url": "https://api.github.com/users/b-mueller/followers",
+  "following_url": "https://api.github.com/users/b-mueller/following{/other_user}",
+  "gists_url": "https://api.github.com/users/b-mueller/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/b-mueller/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/b-mueller/subscriptions",
+  "organizations_url": "https://api.github.com/users/b-mueller/orgs",
+  "repos_url": "https://api.github.com/users/b-mueller/repos",
+  "events_url": "https://api.github.com/users/b-mueller/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/b-mueller/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

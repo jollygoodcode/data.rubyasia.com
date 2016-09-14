@@ -1,0 +1,20 @@
+{
+  "login": "jhbros",
+  "id": 21221044,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21221044?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jhbros",
+  "html_url": "https://github.com/jhbros",
+  "followers_url": "https://api.github.com/users/jhbros/followers",
+  "following_url": "https://api.github.com/users/jhbros/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jhbros/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jhbros/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jhbros/subscriptions",
+  "organizations_url": "https://api.github.com/users/jhbros/orgs",
+  "repos_url": "https://api.github.com/users/jhbros/repos",
+  "events_url": "https://api.github.com/users/jhbros/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jhbros/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

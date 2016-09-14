@@ -1,0 +1,20 @@
+{
+  "login": "mobingilabs",
+  "id": 9046353,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9046353?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mobingilabs",
+  "html_url": "https://github.com/mobingilabs",
+  "followers_url": "https://api.github.com/users/mobingilabs/followers",
+  "following_url": "https://api.github.com/users/mobingilabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mobingilabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mobingilabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mobingilabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/mobingilabs/orgs",
+  "repos_url": "https://api.github.com/users/mobingilabs/repos",
+  "events_url": "https://api.github.com/users/mobingilabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mobingilabs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
