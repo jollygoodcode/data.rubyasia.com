@@ -1,0 +1,20 @@
+{
+  "login": "sachin",
+  "id": 53237,
+  "avatar_url": "https://avatars.githubusercontent.com/u/53237?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sachin",
+  "html_url": "https://github.com/sachin",
+  "followers_url": "https://api.github.com/users/sachin/followers",
+  "following_url": "https://api.github.com/users/sachin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sachin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sachin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sachin/subscriptions",
+  "organizations_url": "https://api.github.com/users/sachin/orgs",
+  "repos_url": "https://api.github.com/users/sachin/repos",
+  "events_url": "https://api.github.com/users/sachin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sachin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
