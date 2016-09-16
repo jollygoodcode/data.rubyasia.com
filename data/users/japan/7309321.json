@@ -1,0 +1,20 @@
+{
+  "login": "igei-yh",
+  "id": 7309321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7309321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/igei-yh",
+  "html_url": "https://github.com/igei-yh",
+  "followers_url": "https://api.github.com/users/igei-yh/followers",
+  "following_url": "https://api.github.com/users/igei-yh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/igei-yh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/igei-yh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/igei-yh/subscriptions",
+  "organizations_url": "https://api.github.com/users/igei-yh/orgs",
+  "repos_url": "https://api.github.com/users/igei-yh/repos",
+  "events_url": "https://api.github.com/users/igei-yh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/igei-yh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

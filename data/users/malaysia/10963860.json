@@ -1,0 +1,20 @@
+{
+  "login": "dkky",
+  "id": 10963860,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10963860?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dkky",
+  "html_url": "https://github.com/dkky",
+  "followers_url": "https://api.github.com/users/dkky/followers",
+  "following_url": "https://api.github.com/users/dkky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dkky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dkky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dkky/subscriptions",
+  "organizations_url": "https://api.github.com/users/dkky/orgs",
+  "repos_url": "https://api.github.com/users/dkky/repos",
+  "events_url": "https://api.github.com/users/dkky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dkky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
