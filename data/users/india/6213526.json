@@ -1,0 +1,20 @@
+{
+  "login": "skcript",
+  "id": 6213526,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6213526?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skcript",
+  "html_url": "https://github.com/skcript",
+  "followers_url": "https://api.github.com/users/skcript/followers",
+  "following_url": "https://api.github.com/users/skcript/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skcript/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skcript/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skcript/subscriptions",
+  "organizations_url": "https://api.github.com/users/skcript/orgs",
+  "repos_url": "https://api.github.com/users/skcript/repos",
+  "events_url": "https://api.github.com/users/skcript/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skcript/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
