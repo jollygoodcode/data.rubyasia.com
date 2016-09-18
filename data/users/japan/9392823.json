@@ -1,0 +1,20 @@
+{
+  "login": "bitjourney",
+  "id": 9392823,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9392823?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bitjourney",
+  "html_url": "https://github.com/bitjourney",
+  "followers_url": "https://api.github.com/users/bitjourney/followers",
+  "following_url": "https://api.github.com/users/bitjourney/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bitjourney/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bitjourney/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bitjourney/subscriptions",
+  "organizations_url": "https://api.github.com/users/bitjourney/orgs",
+  "repos_url": "https://api.github.com/users/bitjourney/repos",
+  "events_url": "https://api.github.com/users/bitjourney/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bitjourney/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "glazziq",
+  "id": 22169777,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22169777?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/glazziq",
+  "html_url": "https://github.com/glazziq",
+  "followers_url": "https://api.github.com/users/glazziq/followers",
+  "following_url": "https://api.github.com/users/glazziq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/glazziq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/glazziq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/glazziq/subscriptions",
+  "organizations_url": "https://api.github.com/users/glazziq/orgs",
+  "repos_url": "https://api.github.com/users/glazziq/repos",
+  "events_url": "https://api.github.com/users/glazziq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/glazziq/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

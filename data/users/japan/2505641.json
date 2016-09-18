@@ -1,0 +1,20 @@
+{
+  "login": "kanmo",
+  "id": 2505641,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2505641?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kanmo",
+  "html_url": "https://github.com/kanmo",
+  "followers_url": "https://api.github.com/users/kanmo/followers",
+  "following_url": "https://api.github.com/users/kanmo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kanmo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kanmo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kanmo/subscriptions",
+  "organizations_url": "https://api.github.com/users/kanmo/orgs",
+  "repos_url": "https://api.github.com/users/kanmo/repos",
+  "events_url": "https://api.github.com/users/kanmo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kanmo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
