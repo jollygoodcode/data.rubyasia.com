@@ -1,0 +1,20 @@
+{
+  "login": "kahowu",
+  "id": 4021870,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4021870?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kahowu",
+  "html_url": "https://github.com/kahowu",
+  "followers_url": "https://api.github.com/users/kahowu/followers",
+  "following_url": "https://api.github.com/users/kahowu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kahowu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kahowu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kahowu/subscriptions",
+  "organizations_url": "https://api.github.com/users/kahowu/orgs",
+  "repos_url": "https://api.github.com/users/kahowu/repos",
+  "events_url": "https://api.github.com/users/kahowu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kahowu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

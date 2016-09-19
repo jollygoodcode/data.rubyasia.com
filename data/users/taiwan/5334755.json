@@ -1,0 +1,20 @@
+{
+  "login": "CApopsicle",
+  "id": 5334755,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5334755?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CApopsicle",
+  "html_url": "https://github.com/CApopsicle",
+  "followers_url": "https://api.github.com/users/CApopsicle/followers",
+  "following_url": "https://api.github.com/users/CApopsicle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CApopsicle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CApopsicle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CApopsicle/subscriptions",
+  "organizations_url": "https://api.github.com/users/CApopsicle/orgs",
+  "repos_url": "https://api.github.com/users/CApopsicle/repos",
+  "events_url": "https://api.github.com/users/CApopsicle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CApopsicle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

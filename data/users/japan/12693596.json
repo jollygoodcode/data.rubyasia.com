@@ -1,0 +1,20 @@
+{
+  "login": "ishiis",
+  "id": 12693596,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12693596?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ishiis",
+  "html_url": "https://github.com/ishiis",
+  "followers_url": "https://api.github.com/users/ishiis/followers",
+  "following_url": "https://api.github.com/users/ishiis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ishiis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ishiis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ishiis/subscriptions",
+  "organizations_url": "https://api.github.com/users/ishiis/orgs",
+  "repos_url": "https://api.github.com/users/ishiis/repos",
+  "events_url": "https://api.github.com/users/ishiis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ishiis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
