@@ -1,0 +1,20 @@
+{
+  "login": "khaiduong",
+  "id": 6947352,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6947352?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khaiduong",
+  "html_url": "https://github.com/khaiduong",
+  "followers_url": "https://api.github.com/users/khaiduong/followers",
+  "following_url": "https://api.github.com/users/khaiduong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khaiduong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khaiduong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khaiduong/subscriptions",
+  "organizations_url": "https://api.github.com/users/khaiduong/orgs",
+  "repos_url": "https://api.github.com/users/khaiduong/repos",
+  "events_url": "https://api.github.com/users/khaiduong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khaiduong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
