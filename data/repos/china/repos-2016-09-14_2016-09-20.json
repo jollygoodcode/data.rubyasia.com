@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-09-21 08:11:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-14..2016-09-20",
+  "repos": [
+    {
+      "full_name": "huacnlee/social-share-button",
+      "description": "Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban ...",
+      "html_url": "https://github.com/huacnlee/social-share-button",
+      "stars": 353,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
