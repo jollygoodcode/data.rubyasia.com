@@ -1,0 +1,20 @@
+{
+  "login": "InsonixINC",
+  "id": 11980845,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11980845?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/InsonixINC",
+  "html_url": "https://github.com/InsonixINC",
+  "followers_url": "https://api.github.com/users/InsonixINC/followers",
+  "following_url": "https://api.github.com/users/InsonixINC/following{/other_user}",
+  "gists_url": "https://api.github.com/users/InsonixINC/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/InsonixINC/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/InsonixINC/subscriptions",
+  "organizations_url": "https://api.github.com/users/InsonixINC/orgs",
+  "repos_url": "https://api.github.com/users/InsonixINC/repos",
+  "events_url": "https://api.github.com/users/InsonixINC/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/InsonixINC/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
