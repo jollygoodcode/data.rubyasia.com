@@ -1,0 +1,20 @@
+{
+  "login": "vandershraaf",
+  "id": 599221,
+  "avatar_url": "https://avatars.githubusercontent.com/u/599221?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vandershraaf",
+  "html_url": "https://github.com/vandershraaf",
+  "followers_url": "https://api.github.com/users/vandershraaf/followers",
+  "following_url": "https://api.github.com/users/vandershraaf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vandershraaf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vandershraaf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vandershraaf/subscriptions",
+  "organizations_url": "https://api.github.com/users/vandershraaf/orgs",
+  "repos_url": "https://api.github.com/users/vandershraaf/repos",
+  "events_url": "https://api.github.com/users/vandershraaf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vandershraaf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
