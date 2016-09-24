@@ -1,0 +1,20 @@
+{
+  "login": "Superpencil",
+  "id": 16109924,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16109924?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Superpencil",
+  "html_url": "https://github.com/Superpencil",
+  "followers_url": "https://api.github.com/users/Superpencil/followers",
+  "following_url": "https://api.github.com/users/Superpencil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Superpencil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Superpencil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Superpencil/subscriptions",
+  "organizations_url": "https://api.github.com/users/Superpencil/orgs",
+  "repos_url": "https://api.github.com/users/Superpencil/repos",
+  "events_url": "https://api.github.com/users/Superpencil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Superpencil/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
