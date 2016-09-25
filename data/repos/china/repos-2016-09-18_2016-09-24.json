@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-09-25 08:11:15 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-18..2016-09-24",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3188,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 763,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Draveness/JSONCop",
+      "description": "The better way to deal with JSON parsing in Swift.",
+      "html_url": "https://github.com/Draveness/JSONCop",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
