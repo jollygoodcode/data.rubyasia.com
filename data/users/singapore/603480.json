@@ -1,0 +1,20 @@
+{
+  "login": "xertres",
+  "id": 603480,
+  "avatar_url": "https://avatars.githubusercontent.com/u/603480?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xertres",
+  "html_url": "https://github.com/xertres",
+  "followers_url": "https://api.github.com/users/xertres/followers",
+  "following_url": "https://api.github.com/users/xertres/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xertres/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xertres/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xertres/subscriptions",
+  "organizations_url": "https://api.github.com/users/xertres/orgs",
+  "repos_url": "https://api.github.com/users/xertres/repos",
+  "events_url": "https://api.github.com/users/xertres/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xertres/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
