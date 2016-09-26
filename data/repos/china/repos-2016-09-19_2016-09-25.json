@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-09-26 08:11:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-19..2016-09-25",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4247,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3189,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 763,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "saberma/china_city",
+      "description": "省市区街道四级联选择 Rails Engine Gem",
+      "html_url": "https://github.com/saberma/china_city",
+      "stars": 265,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 81,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Draveness/JSONCop",
+      "description": "The better way to deal with JSON parsing in Swift.",
+      "html_url": "https://github.com/Draveness/JSONCop",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
