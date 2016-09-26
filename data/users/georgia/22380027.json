@@ -1,0 +1,20 @@
+{
+  "login": "csa-ge",
+  "id": 22380027,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22380027?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/csa-ge",
+  "html_url": "https://github.com/csa-ge",
+  "followers_url": "https://api.github.com/users/csa-ge/followers",
+  "following_url": "https://api.github.com/users/csa-ge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/csa-ge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/csa-ge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/csa-ge/subscriptions",
+  "organizations_url": "https://api.github.com/users/csa-ge/orgs",
+  "repos_url": "https://api.github.com/users/csa-ge/repos",
+  "events_url": "https://api.github.com/users/csa-ge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/csa-ge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "xring",
+  "id": 7193733,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7193733?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xring",
+  "html_url": "https://github.com/xring",
+  "followers_url": "https://api.github.com/users/xring/followers",
+  "following_url": "https://api.github.com/users/xring/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xring/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xring/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xring/subscriptions",
+  "organizations_url": "https://api.github.com/users/xring/orgs",
+  "repos_url": "https://api.github.com/users/xring/repos",
+  "events_url": "https://api.github.com/users/xring/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xring/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

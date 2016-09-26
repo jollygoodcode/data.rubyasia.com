@@ -1,0 +1,20 @@
+{
+  "login": "dendenvitorio",
+  "id": 22393652,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22393652?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dendenvitorio",
+  "html_url": "https://github.com/dendenvitorio",
+  "followers_url": "https://api.github.com/users/dendenvitorio/followers",
+  "following_url": "https://api.github.com/users/dendenvitorio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dendenvitorio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dendenvitorio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dendenvitorio/subscriptions",
+  "organizations_url": "https://api.github.com/users/dendenvitorio/orgs",
+  "repos_url": "https://api.github.com/users/dendenvitorio/repos",
+  "events_url": "https://api.github.com/users/dendenvitorio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dendenvitorio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
