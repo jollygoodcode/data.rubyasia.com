@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-09-27 08:12:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-20..2016-09-26",
+  "repos": [
+    {
+      "full_name": "winston/google_visualr",
+      "description": "A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart.",
+      "html_url": "https://github.com/winston/google_visualr",
+      "stars": 415,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jugend/fgraph",
+      "description": "Facebook Graph Ruby API with Ruby Magic",
+      "html_url": "https://github.com/jugend/fgraph",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
