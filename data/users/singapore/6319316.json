@@ -1,0 +1,20 @@
+{
+  "login": "PocketMath",
+  "id": 6319316,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6319316?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PocketMath",
+  "html_url": "https://github.com/PocketMath",
+  "followers_url": "https://api.github.com/users/PocketMath/followers",
+  "following_url": "https://api.github.com/users/PocketMath/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PocketMath/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PocketMath/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PocketMath/subscriptions",
+  "organizations_url": "https://api.github.com/users/PocketMath/orgs",
+  "repos_url": "https://api.github.com/users/PocketMath/repos",
+  "events_url": "https://api.github.com/users/PocketMath/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PocketMath/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

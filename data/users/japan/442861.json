@@ -1,0 +1,20 @@
+{
+  "login": "pascalbertrand",
+  "id": 442861,
+  "avatar_url": "https://avatars.githubusercontent.com/u/442861?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pascalbertrand",
+  "html_url": "https://github.com/pascalbertrand",
+  "followers_url": "https://api.github.com/users/pascalbertrand/followers",
+  "following_url": "https://api.github.com/users/pascalbertrand/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pascalbertrand/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pascalbertrand/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pascalbertrand/subscriptions",
+  "organizations_url": "https://api.github.com/users/pascalbertrand/orgs",
+  "repos_url": "https://api.github.com/users/pascalbertrand/repos",
+  "events_url": "https://api.github.com/users/pascalbertrand/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pascalbertrand/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
