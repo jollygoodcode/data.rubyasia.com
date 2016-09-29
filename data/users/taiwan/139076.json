@@ -1,0 +1,20 @@
+{
+  "login": "chrisun",
+  "id": 139076,
+  "avatar_url": "https://avatars.githubusercontent.com/u/139076?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chrisun",
+  "html_url": "https://github.com/chrisun",
+  "followers_url": "https://api.github.com/users/chrisun/followers",
+  "following_url": "https://api.github.com/users/chrisun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chrisun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chrisun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chrisun/subscriptions",
+  "organizations_url": "https://api.github.com/users/chrisun/orgs",
+  "repos_url": "https://api.github.com/users/chrisun/repos",
+  "events_url": "https://api.github.com/users/chrisun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chrisun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

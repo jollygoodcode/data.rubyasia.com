@@ -1,0 +1,20 @@
+{
+  "login": "carabui",
+  "id": 22501867,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22501867?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/carabui",
+  "html_url": "https://github.com/carabui",
+  "followers_url": "https://api.github.com/users/carabui/followers",
+  "following_url": "https://api.github.com/users/carabui/following{/other_user}",
+  "gists_url": "https://api.github.com/users/carabui/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/carabui/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/carabui/subscriptions",
+  "organizations_url": "https://api.github.com/users/carabui/orgs",
+  "repos_url": "https://api.github.com/users/carabui/repos",
+  "events_url": "https://api.github.com/users/carabui/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/carabui/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

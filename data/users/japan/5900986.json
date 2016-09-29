@@ -1,0 +1,20 @@
+{
+  "login": "ishikur",
+  "id": 5900986,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5900986?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ishikur",
+  "html_url": "https://github.com/ishikur",
+  "followers_url": "https://api.github.com/users/ishikur/followers",
+  "following_url": "https://api.github.com/users/ishikur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ishikur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ishikur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ishikur/subscriptions",
+  "organizations_url": "https://api.github.com/users/ishikur/orgs",
+  "repos_url": "https://api.github.com/users/ishikur/repos",
+  "events_url": "https://api.github.com/users/ishikur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ishikur/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

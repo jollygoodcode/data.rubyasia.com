@@ -1,0 +1,20 @@
+{
+  "login": "Resoguy",
+  "id": 20776912,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20776912?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Resoguy",
+  "html_url": "https://github.com/Resoguy",
+  "followers_url": "https://api.github.com/users/Resoguy/followers",
+  "following_url": "https://api.github.com/users/Resoguy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Resoguy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Resoguy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Resoguy/subscriptions",
+  "organizations_url": "https://api.github.com/users/Resoguy/orgs",
+  "repos_url": "https://api.github.com/users/Resoguy/repos",
+  "events_url": "https://api.github.com/users/Resoguy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Resoguy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

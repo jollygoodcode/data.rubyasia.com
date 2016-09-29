@@ -1,0 +1,20 @@
+{
+  "login": "renhades",
+  "id": 5443106,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5443106?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/renhades",
+  "html_url": "https://github.com/renhades",
+  "followers_url": "https://api.github.com/users/renhades/followers",
+  "following_url": "https://api.github.com/users/renhades/following{/other_user}",
+  "gists_url": "https://api.github.com/users/renhades/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/renhades/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/renhades/subscriptions",
+  "organizations_url": "https://api.github.com/users/renhades/orgs",
+  "repos_url": "https://api.github.com/users/renhades/repos",
+  "events_url": "https://api.github.com/users/renhades/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/renhades/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

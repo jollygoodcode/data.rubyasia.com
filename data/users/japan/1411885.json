@@ -1,0 +1,20 @@
+{
+  "login": "yamamoto-shigeru",
+  "id": 1411885,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1411885?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yamamoto-shigeru",
+  "html_url": "https://github.com/yamamoto-shigeru",
+  "followers_url": "https://api.github.com/users/yamamoto-shigeru/followers",
+  "following_url": "https://api.github.com/users/yamamoto-shigeru/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yamamoto-shigeru/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yamamoto-shigeru/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yamamoto-shigeru/subscriptions",
+  "organizations_url": "https://api.github.com/users/yamamoto-shigeru/orgs",
+  "repos_url": "https://api.github.com/users/yamamoto-shigeru/repos",
+  "events_url": "https://api.github.com/users/yamamoto-shigeru/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yamamoto-shigeru/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
