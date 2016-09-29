@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-09-29 08:11:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-09-22..2016-09-28",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 7602,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "NoamB/sorcery",
+      "description": "Magical authentication for Rails 3 & 4",
+      "html_url": "https://github.com/NoamB/sorcery",
+      "stars": 2469,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 397,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
