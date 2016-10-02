@@ -1,0 +1,20 @@
+{
+  "login": "phogolabs",
+  "id": 15003293,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15003293?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/phogolabs",
+  "html_url": "https://github.com/phogolabs",
+  "followers_url": "https://api.github.com/users/phogolabs/followers",
+  "following_url": "https://api.github.com/users/phogolabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/phogolabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/phogolabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/phogolabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/phogolabs/orgs",
+  "repos_url": "https://api.github.com/users/phogolabs/repos",
+  "events_url": "https://api.github.com/users/phogolabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/phogolabs/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

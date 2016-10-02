@@ -1,0 +1,20 @@
+{
+  "login": "whatalnk",
+  "id": 4127466,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4127466?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/whatalnk",
+  "html_url": "https://github.com/whatalnk",
+  "followers_url": "https://api.github.com/users/whatalnk/followers",
+  "following_url": "https://api.github.com/users/whatalnk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/whatalnk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/whatalnk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/whatalnk/subscriptions",
+  "organizations_url": "https://api.github.com/users/whatalnk/orgs",
+  "repos_url": "https://api.github.com/users/whatalnk/repos",
+  "events_url": "https://api.github.com/users/whatalnk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/whatalnk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

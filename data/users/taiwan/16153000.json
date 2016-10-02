@@ -1,0 +1,20 @@
+{
+  "login": "fabiodaio",
+  "id": 16153000,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16153000?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fabiodaio",
+  "html_url": "https://github.com/fabiodaio",
+  "followers_url": "https://api.github.com/users/fabiodaio/followers",
+  "following_url": "https://api.github.com/users/fabiodaio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fabiodaio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fabiodaio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fabiodaio/subscriptions",
+  "organizations_url": "https://api.github.com/users/fabiodaio/orgs",
+  "repos_url": "https://api.github.com/users/fabiodaio/repos",
+  "events_url": "https://api.github.com/users/fabiodaio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fabiodaio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

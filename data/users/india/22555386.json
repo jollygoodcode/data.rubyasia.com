@@ -1,0 +1,20 @@
+{
+  "login": "Sid-kul",
+  "id": 22555386,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22555386?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Sid-kul",
+  "html_url": "https://github.com/Sid-kul",
+  "followers_url": "https://api.github.com/users/Sid-kul/followers",
+  "following_url": "https://api.github.com/users/Sid-kul/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Sid-kul/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Sid-kul/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Sid-kul/subscriptions",
+  "organizations_url": "https://api.github.com/users/Sid-kul/orgs",
+  "repos_url": "https://api.github.com/users/Sid-kul/repos",
+  "events_url": "https://api.github.com/users/Sid-kul/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Sid-kul/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
