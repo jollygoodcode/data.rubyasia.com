@@ -1,0 +1,20 @@
+{
+  "login": "akiraliu",
+  "id": 248750,
+  "avatar_url": "https://avatars.githubusercontent.com/u/248750?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akiraliu",
+  "html_url": "https://github.com/akiraliu",
+  "followers_url": "https://api.github.com/users/akiraliu/followers",
+  "following_url": "https://api.github.com/users/akiraliu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akiraliu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akiraliu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akiraliu/subscriptions",
+  "organizations_url": "https://api.github.com/users/akiraliu/orgs",
+  "repos_url": "https://api.github.com/users/akiraliu/repos",
+  "events_url": "https://api.github.com/users/akiraliu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akiraliu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

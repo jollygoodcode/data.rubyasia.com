@@ -1,0 +1,20 @@
+{
+  "login": "jxdonline",
+  "id": 1716676,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1716676?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jxdonline",
+  "html_url": "https://github.com/jxdonline",
+  "followers_url": "https://api.github.com/users/jxdonline/followers",
+  "following_url": "https://api.github.com/users/jxdonline/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jxdonline/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jxdonline/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jxdonline/subscriptions",
+  "organizations_url": "https://api.github.com/users/jxdonline/orgs",
+  "repos_url": "https://api.github.com/users/jxdonline/repos",
+  "events_url": "https://api.github.com/users/jxdonline/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jxdonline/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
