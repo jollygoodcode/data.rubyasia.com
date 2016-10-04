@@ -1,0 +1,20 @@
+{
+  "login": "lechsa",
+  "id": 1692508,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1692508?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lechsa",
+  "html_url": "https://github.com/lechsa",
+  "followers_url": "https://api.github.com/users/lechsa/followers",
+  "following_url": "https://api.github.com/users/lechsa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lechsa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lechsa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lechsa/subscriptions",
+  "organizations_url": "https://api.github.com/users/lechsa/orgs",
+  "repos_url": "https://api.github.com/users/lechsa/repos",
+  "events_url": "https://api.github.com/users/lechsa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lechsa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

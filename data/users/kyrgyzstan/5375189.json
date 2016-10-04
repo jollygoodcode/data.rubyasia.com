@@ -1,0 +1,20 @@
+{
+  "login": "fl1pp",
+  "id": 5375189,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5375189?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fl1pp",
+  "html_url": "https://github.com/fl1pp",
+  "followers_url": "https://api.github.com/users/fl1pp/followers",
+  "following_url": "https://api.github.com/users/fl1pp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fl1pp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fl1pp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fl1pp/subscriptions",
+  "organizations_url": "https://api.github.com/users/fl1pp/orgs",
+  "repos_url": "https://api.github.com/users/fl1pp/repos",
+  "events_url": "https://api.github.com/users/fl1pp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fl1pp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
