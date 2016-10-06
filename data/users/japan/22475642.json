@@ -1,0 +1,20 @@
+{
+  "login": "gs2io",
+  "id": 22475642,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22475642?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gs2io",
+  "html_url": "https://github.com/gs2io",
+  "followers_url": "https://api.github.com/users/gs2io/followers",
+  "following_url": "https://api.github.com/users/gs2io/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gs2io/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gs2io/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gs2io/subscriptions",
+  "organizations_url": "https://api.github.com/users/gs2io/orgs",
+  "repos_url": "https://api.github.com/users/gs2io/repos",
+  "events_url": "https://api.github.com/users/gs2io/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gs2io/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

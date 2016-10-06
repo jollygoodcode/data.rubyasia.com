@@ -1,0 +1,20 @@
+{
+  "login": "qkake",
+  "id": 16367376,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16367376?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qkake",
+  "html_url": "https://github.com/qkake",
+  "followers_url": "https://api.github.com/users/qkake/followers",
+  "following_url": "https://api.github.com/users/qkake/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qkake/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qkake/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qkake/subscriptions",
+  "organizations_url": "https://api.github.com/users/qkake/orgs",
+  "repos_url": "https://api.github.com/users/qkake/repos",
+  "events_url": "https://api.github.com/users/qkake/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qkake/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

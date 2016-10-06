@@ -1,0 +1,20 @@
+{
+  "login": "blueskyacademy",
+  "id": 22578291,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22578291?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/blueskyacademy",
+  "html_url": "https://github.com/blueskyacademy",
+  "followers_url": "https://api.github.com/users/blueskyacademy/followers",
+  "following_url": "https://api.github.com/users/blueskyacademy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/blueskyacademy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/blueskyacademy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/blueskyacademy/subscriptions",
+  "organizations_url": "https://api.github.com/users/blueskyacademy/orgs",
+  "repos_url": "https://api.github.com/users/blueskyacademy/repos",
+  "events_url": "https://api.github.com/users/blueskyacademy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/blueskyacademy/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
