@@ -1,0 +1,20 @@
+{
+  "login": "CoinAge",
+  "id": 4020432,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4020432?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CoinAge",
+  "html_url": "https://github.com/CoinAge",
+  "followers_url": "https://api.github.com/users/CoinAge/followers",
+  "following_url": "https://api.github.com/users/CoinAge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CoinAge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CoinAge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CoinAge/subscriptions",
+  "organizations_url": "https://api.github.com/users/CoinAge/orgs",
+  "repos_url": "https://api.github.com/users/CoinAge/repos",
+  "events_url": "https://api.github.com/users/CoinAge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CoinAge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
