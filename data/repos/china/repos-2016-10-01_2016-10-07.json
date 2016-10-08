@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-10-08 08:11:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-10-01..2016-10-07",
+  "repos": [
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 561,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 83,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
