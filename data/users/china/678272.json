@@ -1,0 +1,20 @@
+{
+  "login": "funjackyone",
+  "id": 678272,
+  "avatar_url": "https://avatars.githubusercontent.com/u/678272?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/funjackyone",
+  "html_url": "https://github.com/funjackyone",
+  "followers_url": "https://api.github.com/users/funjackyone/followers",
+  "following_url": "https://api.github.com/users/funjackyone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/funjackyone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/funjackyone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/funjackyone/subscriptions",
+  "organizations_url": "https://api.github.com/users/funjackyone/orgs",
+  "repos_url": "https://api.github.com/users/funjackyone/repos",
+  "events_url": "https://api.github.com/users/funjackyone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/funjackyone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kennetham",
+  "id": 507492,
+  "avatar_url": "https://avatars.githubusercontent.com/u/507492?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kennetham",
+  "html_url": "https://github.com/kennetham",
+  "followers_url": "https://api.github.com/users/kennetham/followers",
+  "following_url": "https://api.github.com/users/kennetham/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kennetham/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kennetham/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kennetham/subscriptions",
+  "organizations_url": "https://api.github.com/users/kennetham/orgs",
+  "repos_url": "https://api.github.com/users/kennetham/repos",
+  "events_url": "https://api.github.com/users/kennetham/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kennetham/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
