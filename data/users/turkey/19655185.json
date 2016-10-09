@@ -1,0 +1,20 @@
+{
+  "login": "sukarababa",
+  "id": 19655185,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19655185?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sukarababa",
+  "html_url": "https://github.com/sukarababa",
+  "followers_url": "https://api.github.com/users/sukarababa/followers",
+  "following_url": "https://api.github.com/users/sukarababa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sukarababa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sukarababa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sukarababa/subscriptions",
+  "organizations_url": "https://api.github.com/users/sukarababa/orgs",
+  "repos_url": "https://api.github.com/users/sukarababa/repos",
+  "events_url": "https://api.github.com/users/sukarababa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sukarababa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

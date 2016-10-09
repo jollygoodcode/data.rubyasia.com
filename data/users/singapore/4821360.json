@@ -1,0 +1,20 @@
+{
+  "login": "russch",
+  "id": 4821360,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4821360?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/russch",
+  "html_url": "https://github.com/russch",
+  "followers_url": "https://api.github.com/users/russch/followers",
+  "following_url": "https://api.github.com/users/russch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/russch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/russch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/russch/subscriptions",
+  "organizations_url": "https://api.github.com/users/russch/orgs",
+  "repos_url": "https://api.github.com/users/russch/repos",
+  "events_url": "https://api.github.com/users/russch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/russch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
