@@ -1,0 +1,20 @@
+{
+  "login": "timids",
+  "id": 7196248,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7196248?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/timids",
+  "html_url": "https://github.com/timids",
+  "followers_url": "https://api.github.com/users/timids/followers",
+  "following_url": "https://api.github.com/users/timids/following{/other_user}",
+  "gists_url": "https://api.github.com/users/timids/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/timids/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/timids/subscriptions",
+  "organizations_url": "https://api.github.com/users/timids/orgs",
+  "repos_url": "https://api.github.com/users/timids/repos",
+  "events_url": "https://api.github.com/users/timids/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/timids/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Cranxter",
+  "id": 13662284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13662284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Cranxter",
+  "html_url": "https://github.com/Cranxter",
+  "followers_url": "https://api.github.com/users/Cranxter/followers",
+  "following_url": "https://api.github.com/users/Cranxter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Cranxter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Cranxter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Cranxter/subscriptions",
+  "organizations_url": "https://api.github.com/users/Cranxter/orgs",
+  "repos_url": "https://api.github.com/users/Cranxter/repos",
+  "events_url": "https://api.github.com/users/Cranxter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Cranxter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

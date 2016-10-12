@@ -1,0 +1,20 @@
+{
+  "login": "cameluby",
+  "id": 22360657,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22360657?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cameluby",
+  "html_url": "https://github.com/cameluby",
+  "followers_url": "https://api.github.com/users/cameluby/followers",
+  "following_url": "https://api.github.com/users/cameluby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cameluby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cameluby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cameluby/subscriptions",
+  "organizations_url": "https://api.github.com/users/cameluby/orgs",
+  "repos_url": "https://api.github.com/users/cameluby/repos",
+  "events_url": "https://api.github.com/users/cameluby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cameluby/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
