@@ -1,0 +1,20 @@
+{
+  "login": "ChunAllen",
+  "id": 2100728,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2100728?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ChunAllen",
+  "html_url": "https://github.com/ChunAllen",
+  "followers_url": "https://api.github.com/users/ChunAllen/followers",
+  "following_url": "https://api.github.com/users/ChunAllen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ChunAllen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ChunAllen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ChunAllen/subscriptions",
+  "organizations_url": "https://api.github.com/users/ChunAllen/orgs",
+  "repos_url": "https://api.github.com/users/ChunAllen/repos",
+  "events_url": "https://api.github.com/users/ChunAllen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ChunAllen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
