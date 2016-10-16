@@ -1,0 +1,20 @@
+{
+  "login": "zychuan",
+  "id": 3232017,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3232017?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zychuan",
+  "html_url": "https://github.com/zychuan",
+  "followers_url": "https://api.github.com/users/zychuan/followers",
+  "following_url": "https://api.github.com/users/zychuan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zychuan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zychuan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zychuan/subscriptions",
+  "organizations_url": "https://api.github.com/users/zychuan/orgs",
+  "repos_url": "https://api.github.com/users/zychuan/repos",
+  "events_url": "https://api.github.com/users/zychuan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zychuan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
