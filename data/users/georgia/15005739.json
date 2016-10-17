@@ -1,0 +1,20 @@
+{
+  "login": "theaonline",
+  "id": 15005739,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15005739?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/theaonline",
+  "html_url": "https://github.com/theaonline",
+  "followers_url": "https://api.github.com/users/theaonline/followers",
+  "following_url": "https://api.github.com/users/theaonline/following{/other_user}",
+  "gists_url": "https://api.github.com/users/theaonline/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/theaonline/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/theaonline/subscriptions",
+  "organizations_url": "https://api.github.com/users/theaonline/orgs",
+  "repos_url": "https://api.github.com/users/theaonline/repos",
+  "events_url": "https://api.github.com/users/theaonline/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/theaonline/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
