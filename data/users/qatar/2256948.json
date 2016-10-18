@@ -1,0 +1,20 @@
+{
+  "login": "jestintab",
+  "id": 2256948,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2256948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jestintab",
+  "html_url": "https://github.com/jestintab",
+  "followers_url": "https://api.github.com/users/jestintab/followers",
+  "following_url": "https://api.github.com/users/jestintab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jestintab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jestintab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jestintab/subscriptions",
+  "organizations_url": "https://api.github.com/users/jestintab/orgs",
+  "repos_url": "https://api.github.com/users/jestintab/repos",
+  "events_url": "https://api.github.com/users/jestintab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jestintab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
