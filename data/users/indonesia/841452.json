@@ -1,0 +1,20 @@
+{
+  "login": "idegeram",
+  "id": 841452,
+  "avatar_url": "https://avatars.githubusercontent.com/u/841452?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/idegeram",
+  "html_url": "https://github.com/idegeram",
+  "followers_url": "https://api.github.com/users/idegeram/followers",
+  "following_url": "https://api.github.com/users/idegeram/following{/other_user}",
+  "gists_url": "https://api.github.com/users/idegeram/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/idegeram/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/idegeram/subscriptions",
+  "organizations_url": "https://api.github.com/users/idegeram/orgs",
+  "repos_url": "https://api.github.com/users/idegeram/repos",
+  "events_url": "https://api.github.com/users/idegeram/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/idegeram/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

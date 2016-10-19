@@ -1,0 +1,20 @@
+{
+  "login": "sideci",
+  "id": 6790715,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6790715?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sideci",
+  "html_url": "https://github.com/sideci",
+  "followers_url": "https://api.github.com/users/sideci/followers",
+  "following_url": "https://api.github.com/users/sideci/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sideci/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sideci/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sideci/subscriptions",
+  "organizations_url": "https://api.github.com/users/sideci/orgs",
+  "repos_url": "https://api.github.com/users/sideci/repos",
+  "events_url": "https://api.github.com/users/sideci/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sideci/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

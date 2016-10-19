@@ -1,0 +1,20 @@
+{
+  "login": "enkanba",
+  "id": 13451100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13451100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/enkanba",
+  "html_url": "https://github.com/enkanba",
+  "followers_url": "https://api.github.com/users/enkanba/followers",
+  "following_url": "https://api.github.com/users/enkanba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/enkanba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/enkanba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/enkanba/subscriptions",
+  "organizations_url": "https://api.github.com/users/enkanba/orgs",
+  "repos_url": "https://api.github.com/users/enkanba/repos",
+  "events_url": "https://api.github.com/users/enkanba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/enkanba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

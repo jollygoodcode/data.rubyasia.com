@@ -1,0 +1,20 @@
+{
+  "login": "GalAster",
+  "id": 17541209,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17541209?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GalAster",
+  "html_url": "https://github.com/GalAster",
+  "followers_url": "https://api.github.com/users/GalAster/followers",
+  "following_url": "https://api.github.com/users/GalAster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GalAster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GalAster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GalAster/subscriptions",
+  "organizations_url": "https://api.github.com/users/GalAster/orgs",
+  "repos_url": "https://api.github.com/users/GalAster/repos",
+  "events_url": "https://api.github.com/users/GalAster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GalAster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
