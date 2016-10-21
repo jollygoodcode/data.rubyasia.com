@@ -1,0 +1,20 @@
+{
+  "login": "jit-y",
+  "id": 21127627,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21127627?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jit-y",
+  "html_url": "https://github.com/jit-y",
+  "followers_url": "https://api.github.com/users/jit-y/followers",
+  "following_url": "https://api.github.com/users/jit-y/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jit-y/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jit-y/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jit-y/subscriptions",
+  "organizations_url": "https://api.github.com/users/jit-y/orgs",
+  "repos_url": "https://api.github.com/users/jit-y/repos",
+  "events_url": "https://api.github.com/users/jit-y/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jit-y/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

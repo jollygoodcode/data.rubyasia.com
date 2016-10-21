@@ -1,0 +1,20 @@
+{
+  "login": "goeker",
+  "id": 336606,
+  "avatar_url": "https://avatars.githubusercontent.com/u/336606?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/goeker",
+  "html_url": "https://github.com/goeker",
+  "followers_url": "https://api.github.com/users/goeker/followers",
+  "following_url": "https://api.github.com/users/goeker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/goeker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/goeker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/goeker/subscriptions",
+  "organizations_url": "https://api.github.com/users/goeker/orgs",
+  "repos_url": "https://api.github.com/users/goeker/repos",
+  "events_url": "https://api.github.com/users/goeker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/goeker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

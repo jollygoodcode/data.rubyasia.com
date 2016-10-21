@@ -1,0 +1,20 @@
+{
+  "login": "llahti",
+  "id": 8992946,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8992946?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/llahti",
+  "html_url": "https://github.com/llahti",
+  "followers_url": "https://api.github.com/users/llahti/followers",
+  "following_url": "https://api.github.com/users/llahti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/llahti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/llahti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/llahti/subscriptions",
+  "organizations_url": "https://api.github.com/users/llahti/orgs",
+  "repos_url": "https://api.github.com/users/llahti/repos",
+  "events_url": "https://api.github.com/users/llahti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/llahti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
