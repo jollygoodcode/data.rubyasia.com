@@ -1,0 +1,70 @@
+{
+  "generated_at": "2016-10-22 08:11:16 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-10-15..2016-10-21",
+  "repos": [
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 561,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 336,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 331,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4 and 5.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 198,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 191,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 140,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beansmile/jianggaowang",
+      "description": "Jianggaowang official repository",
+      "html_url": "https://github.com/beansmile/jianggaowang",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-10-22 08:12:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-10-15..2016-10-21",
+  "repos": [
+    {
+      "full_name": "speartail/RailRoad",
+      "description": "Ruby on Rails diagrams generator - this repository contains the patches that allows it to be used with rails 2.3",
+      "html_url": "https://github.com/speartail/RailRoad",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
