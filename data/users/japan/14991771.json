@@ -1,0 +1,20 @@
+{
+  "login": "nurveteam",
+  "id": 14991771,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14991771?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nurveteam",
+  "html_url": "https://github.com/nurveteam",
+  "followers_url": "https://api.github.com/users/nurveteam/followers",
+  "following_url": "https://api.github.com/users/nurveteam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nurveteam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nurveteam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nurveteam/subscriptions",
+  "organizations_url": "https://api.github.com/users/nurveteam/orgs",
+  "repos_url": "https://api.github.com/users/nurveteam/repos",
+  "events_url": "https://api.github.com/users/nurveteam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nurveteam/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
