@@ -1,0 +1,20 @@
+{
+  "login": "rockylaw",
+  "id": 2060248,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2060248?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rockylaw",
+  "html_url": "https://github.com/rockylaw",
+  "followers_url": "https://api.github.com/users/rockylaw/followers",
+  "following_url": "https://api.github.com/users/rockylaw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rockylaw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rockylaw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rockylaw/subscriptions",
+  "organizations_url": "https://api.github.com/users/rockylaw/orgs",
+  "repos_url": "https://api.github.com/users/rockylaw/repos",
+  "events_url": "https://api.github.com/users/rockylaw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rockylaw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

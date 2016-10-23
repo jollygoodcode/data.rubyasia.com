@@ -1,0 +1,20 @@
+{
+  "login": "coderamen",
+  "id": 17405817,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17405817?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coderamen",
+  "html_url": "https://github.com/coderamen",
+  "followers_url": "https://api.github.com/users/coderamen/followers",
+  "following_url": "https://api.github.com/users/coderamen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coderamen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coderamen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coderamen/subscriptions",
+  "organizations_url": "https://api.github.com/users/coderamen/orgs",
+  "repos_url": "https://api.github.com/users/coderamen/repos",
+  "events_url": "https://api.github.com/users/coderamen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coderamen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
