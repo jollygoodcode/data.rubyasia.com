@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-10-24 08:11:30 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-10-17..2016-10-23",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1049,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 336,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 117,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
