@@ -1,0 +1,20 @@
+{
+  "login": "harigopal",
+  "id": 98546,
+  "avatar_url": "https://avatars.githubusercontent.com/u/98546?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harigopal",
+  "html_url": "https://github.com/harigopal",
+  "followers_url": "https://api.github.com/users/harigopal/followers",
+  "following_url": "https://api.github.com/users/harigopal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harigopal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harigopal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harigopal/subscriptions",
+  "organizations_url": "https://api.github.com/users/harigopal/orgs",
+  "repos_url": "https://api.github.com/users/harigopal/repos",
+  "events_url": "https://api.github.com/users/harigopal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harigopal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
