@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-10-26 08:11:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-10-19..2016-10-25",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 8084,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "NoamB/sorcery",
+      "description": "Magical authentication for Rails 3 & 4",
+      "html_url": "https://github.com/NoamB/sorcery",
+      "stars": 2478,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
