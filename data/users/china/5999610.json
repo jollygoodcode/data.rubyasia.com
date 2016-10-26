@@ -1,0 +1,20 @@
+{
+  "login": "super-zyz",
+  "id": 5999610,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5999610?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/super-zyz",
+  "html_url": "https://github.com/super-zyz",
+  "followers_url": "https://api.github.com/users/super-zyz/followers",
+  "following_url": "https://api.github.com/users/super-zyz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/super-zyz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/super-zyz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/super-zyz/subscriptions",
+  "organizations_url": "https://api.github.com/users/super-zyz/orgs",
+  "repos_url": "https://api.github.com/users/super-zyz/repos",
+  "events_url": "https://api.github.com/users/super-zyz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/super-zyz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

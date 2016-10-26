@@ -1,0 +1,20 @@
+{
+  "login": "hongyz",
+  "id": 1833137,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1833137?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hongyz",
+  "html_url": "https://github.com/hongyz",
+  "followers_url": "https://api.github.com/users/hongyz/followers",
+  "following_url": "https://api.github.com/users/hongyz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hongyz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hongyz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hongyz/subscriptions",
+  "organizations_url": "https://api.github.com/users/hongyz/orgs",
+  "repos_url": "https://api.github.com/users/hongyz/repos",
+  "events_url": "https://api.github.com/users/hongyz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hongyz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
