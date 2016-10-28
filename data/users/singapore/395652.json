@@ -1,0 +1,20 @@
+{
+  "login": "vincentpaca",
+  "id": 395652,
+  "avatar_url": "https://avatars.githubusercontent.com/u/395652?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vincentpaca",
+  "html_url": "https://github.com/vincentpaca",
+  "followers_url": "https://api.github.com/users/vincentpaca/followers",
+  "following_url": "https://api.github.com/users/vincentpaca/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vincentpaca/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vincentpaca/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vincentpaca/subscriptions",
+  "organizations_url": "https://api.github.com/users/vincentpaca/orgs",
+  "repos_url": "https://api.github.com/users/vincentpaca/repos",
+  "events_url": "https://api.github.com/users/vincentpaca/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vincentpaca/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

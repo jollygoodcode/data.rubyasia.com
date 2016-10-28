@@ -1,0 +1,20 @@
+{
+  "login": "hoola-de",
+  "id": 15941123,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15941123?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoola-de",
+  "html_url": "https://github.com/hoola-de",
+  "followers_url": "https://api.github.com/users/hoola-de/followers",
+  "following_url": "https://api.github.com/users/hoola-de/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoola-de/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoola-de/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoola-de/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoola-de/orgs",
+  "repos_url": "https://api.github.com/users/hoola-de/repos",
+  "events_url": "https://api.github.com/users/hoola-de/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoola-de/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
