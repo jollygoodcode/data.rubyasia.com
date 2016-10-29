@@ -1,0 +1,20 @@
+{
+  "login": "saitejs",
+  "id": 22261429,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22261429?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saitejs",
+  "html_url": "https://github.com/saitejs",
+  "followers_url": "https://api.github.com/users/saitejs/followers",
+  "following_url": "https://api.github.com/users/saitejs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saitejs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saitejs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saitejs/subscriptions",
+  "organizations_url": "https://api.github.com/users/saitejs/orgs",
+  "repos_url": "https://api.github.com/users/saitejs/repos",
+  "events_url": "https://api.github.com/users/saitejs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saitejs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
