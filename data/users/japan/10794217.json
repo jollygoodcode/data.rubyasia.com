@@ -1,0 +1,20 @@
+{
+  "login": "Yoshimatsuo",
+  "id": 10794217,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10794217?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Yoshimatsuo",
+  "html_url": "https://github.com/Yoshimatsuo",
+  "followers_url": "https://api.github.com/users/Yoshimatsuo/followers",
+  "following_url": "https://api.github.com/users/Yoshimatsuo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Yoshimatsuo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Yoshimatsuo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Yoshimatsuo/subscriptions",
+  "organizations_url": "https://api.github.com/users/Yoshimatsuo/orgs",
+  "repos_url": "https://api.github.com/users/Yoshimatsuo/repos",
+  "events_url": "https://api.github.com/users/Yoshimatsuo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Yoshimatsuo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

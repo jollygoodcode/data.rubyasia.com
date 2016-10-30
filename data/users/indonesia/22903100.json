@@ -1,0 +1,20 @@
+{
+  "login": "patiOne",
+  "id": 22903100,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22903100?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/patiOne",
+  "html_url": "https://github.com/patiOne",
+  "followers_url": "https://api.github.com/users/patiOne/followers",
+  "following_url": "https://api.github.com/users/patiOne/following{/other_user}",
+  "gists_url": "https://api.github.com/users/patiOne/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/patiOne/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/patiOne/subscriptions",
+  "organizations_url": "https://api.github.com/users/patiOne/orgs",
+  "repos_url": "https://api.github.com/users/patiOne/repos",
+  "events_url": "https://api.github.com/users/patiOne/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/patiOne/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

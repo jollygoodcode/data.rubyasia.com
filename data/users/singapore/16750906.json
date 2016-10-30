@@ -1,0 +1,20 @@
+{
+  "login": "grain-tech",
+  "id": 16750906,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16750906?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/grain-tech",
+  "html_url": "https://github.com/grain-tech",
+  "followers_url": "https://api.github.com/users/grain-tech/followers",
+  "following_url": "https://api.github.com/users/grain-tech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/grain-tech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/grain-tech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/grain-tech/subscriptions",
+  "organizations_url": "https://api.github.com/users/grain-tech/orgs",
+  "repos_url": "https://api.github.com/users/grain-tech/repos",
+  "events_url": "https://api.github.com/users/grain-tech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/grain-tech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
