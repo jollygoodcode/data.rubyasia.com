@@ -1,0 +1,166 @@
+{
+  "generated_at": "2016-10-30 08:12:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-10-23..2016-10-29",
+  "repos": [
+    {
+      "full_name": "amatsuda/kaminari",
+      "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+      "html_url": "https://github.com/amatsuda/kaminari",
+      "stars": 6058,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "matschaffer/knife-solo",
+      "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
+      "html_url": "https://github.com/matschaffer/knife-solo",
+      "stars": 793,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 543,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 543,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 472,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/rrrspec",
+      "description": "Distributed RSpec",
+      "html_url": "https://github.com/cookpad/rrrspec",
+      "stars": 371,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 222,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 131,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-rb",
+      "description": "Qiita API v2 client library and CLI tool, written in Ruby",
+      "html_url": "https://github.com/increments/qiita-rb",
+      "stars": 122,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 112,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/dokumi",
+      "description": "Automatically check if anything is wrong with the code in a pull request",
+      "html_url": "https://github.com/cookpad/dokumi",
+      "stars": 108,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/rspec-json_matcher",
+      "description": "RSpec matcher for testing JSON string",
+      "html_url": "https://github.com/r7kamura/rspec-json_matcher",
+      "stars": 106,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "knu/ruby-domain_name",
+      "description": "Domain Name manipulation library for Ruby",
+      "html_url": "https://github.com/knu/ruby-domain_name",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/presentations",
+      "description": "The presentations of Cookpad staffs",
+      "html_url": "https://github.com/cookpad/presentations",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cosmo0920/homebrew-mingw_w64",
+      "description": "unofficial mingw-w64 Homebrew sub-command and Formulae.",
+      "html_url": "https://github.com/cosmo0920/homebrew-mingw_w64",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/somemoji",
+      "description": "A grand unified emoji mapper for some emoji providers.",
+      "html_url": "https://github.com/r7kamura/somemoji",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_issue_templates",
+      "description": "Repository for Redmine Issue Template (Ready to move Repository from Bitbucket to GitHub)",
+      "html_url": "https://github.com/akiko-pusu/redmine_issue_templates",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hsbt/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/hsbt/ngx_mruby-package-builder",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
