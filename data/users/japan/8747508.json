@@ -1,0 +1,20 @@
+{
+  "login": "bitcoin-portal",
+  "id": 8747508,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8747508?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bitcoin-portal",
+  "html_url": "https://github.com/bitcoin-portal",
+  "followers_url": "https://api.github.com/users/bitcoin-portal/followers",
+  "following_url": "https://api.github.com/users/bitcoin-portal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bitcoin-portal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bitcoin-portal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bitcoin-portal/subscriptions",
+  "organizations_url": "https://api.github.com/users/bitcoin-portal/orgs",
+  "repos_url": "https://api.github.com/users/bitcoin-portal/repos",
+  "events_url": "https://api.github.com/users/bitcoin-portal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bitcoin-portal/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

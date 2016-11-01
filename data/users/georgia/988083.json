@@ -1,0 +1,20 @@
+{
+  "login": "jrhodes",
+  "id": 988083,
+  "avatar_url": "https://avatars.githubusercontent.com/u/988083?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jrhodes",
+  "html_url": "https://github.com/jrhodes",
+  "followers_url": "https://api.github.com/users/jrhodes/followers",
+  "following_url": "https://api.github.com/users/jrhodes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jrhodes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jrhodes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jrhodes/subscriptions",
+  "organizations_url": "https://api.github.com/users/jrhodes/orgs",
+  "repos_url": "https://api.github.com/users/jrhodes/repos",
+  "events_url": "https://api.github.com/users/jrhodes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jrhodes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

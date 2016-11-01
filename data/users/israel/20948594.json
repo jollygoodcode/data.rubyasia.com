@@ -1,0 +1,20 @@
+{
+  "login": "zgalor",
+  "id": 20948594,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20948594?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zgalor",
+  "html_url": "https://github.com/zgalor",
+  "followers_url": "https://api.github.com/users/zgalor/followers",
+  "following_url": "https://api.github.com/users/zgalor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zgalor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zgalor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zgalor/subscriptions",
+  "organizations_url": "https://api.github.com/users/zgalor/orgs",
+  "repos_url": "https://api.github.com/users/zgalor/repos",
+  "events_url": "https://api.github.com/users/zgalor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zgalor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
