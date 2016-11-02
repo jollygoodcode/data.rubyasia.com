@@ -1,0 +1,20 @@
+{
+  "login": "yukimred",
+  "id": 4935147,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4935147?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yukimred",
+  "html_url": "https://github.com/yukimred",
+  "followers_url": "https://api.github.com/users/yukimred/followers",
+  "following_url": "https://api.github.com/users/yukimred/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yukimred/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yukimred/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yukimred/subscriptions",
+  "organizations_url": "https://api.github.com/users/yukimred/orgs",
+  "repos_url": "https://api.github.com/users/yukimred/repos",
+  "events_url": "https://api.github.com/users/yukimred/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yukimred/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
