@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-11-03 08:11:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-10-27..2016-11-02",
+  "repos": [
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1341,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yonbergman/orly",
+      "description": "A small utility that notifies you when you need to run bundle install or db:migrate",
+      "html_url": "https://github.com/yonbergman/orly",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
