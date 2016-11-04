@@ -1,0 +1,20 @@
+{
+  "login": "dannio",
+  "id": 6337602,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6337602?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dannio",
+  "html_url": "https://github.com/dannio",
+  "followers_url": "https://api.github.com/users/dannio/followers",
+  "following_url": "https://api.github.com/users/dannio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dannio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dannio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dannio/subscriptions",
+  "organizations_url": "https://api.github.com/users/dannio/orgs",
+  "repos_url": "https://api.github.com/users/dannio/repos",
+  "events_url": "https://api.github.com/users/dannio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dannio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

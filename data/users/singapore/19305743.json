@@ -1,0 +1,20 @@
+{
+  "login": "advocately",
+  "id": 19305743,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19305743?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/advocately",
+  "html_url": "https://github.com/advocately",
+  "followers_url": "https://api.github.com/users/advocately/followers",
+  "following_url": "https://api.github.com/users/advocately/following{/other_user}",
+  "gists_url": "https://api.github.com/users/advocately/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/advocately/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/advocately/subscriptions",
+  "organizations_url": "https://api.github.com/users/advocately/orgs",
+  "repos_url": "https://api.github.com/users/advocately/repos",
+  "events_url": "https://api.github.com/users/advocately/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/advocately/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
