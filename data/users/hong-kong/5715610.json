@@ -1,0 +1,20 @@
+{
+  "login": "hoknwg",
+  "id": 5715610,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5715610?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoknwg",
+  "html_url": "https://github.com/hoknwg",
+  "followers_url": "https://api.github.com/users/hoknwg/followers",
+  "following_url": "https://api.github.com/users/hoknwg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoknwg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoknwg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoknwg/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoknwg/orgs",
+  "repos_url": "https://api.github.com/users/hoknwg/repos",
+  "events_url": "https://api.github.com/users/hoknwg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoknwg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

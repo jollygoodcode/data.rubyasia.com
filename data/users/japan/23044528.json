@@ -1,0 +1,20 @@
+{
+  "login": "Hexirp",
+  "id": 23044528,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23044528?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Hexirp",
+  "html_url": "https://github.com/Hexirp",
+  "followers_url": "https://api.github.com/users/Hexirp/followers",
+  "following_url": "https://api.github.com/users/Hexirp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Hexirp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Hexirp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Hexirp/subscriptions",
+  "organizations_url": "https://api.github.com/users/Hexirp/orgs",
+  "repos_url": "https://api.github.com/users/Hexirp/repos",
+  "events_url": "https://api.github.com/users/Hexirp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Hexirp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ychino",
+  "id": 16337251,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16337251?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ychino",
+  "html_url": "https://github.com/ychino",
+  "followers_url": "https://api.github.com/users/ychino/followers",
+  "following_url": "https://api.github.com/users/ychino/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ychino/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ychino/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ychino/subscriptions",
+  "organizations_url": "https://api.github.com/users/ychino/orgs",
+  "repos_url": "https://api.github.com/users/ychino/repos",
+  "events_url": "https://api.github.com/users/ychino/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ychino/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
