@@ -1,0 +1,20 @@
+{
+  "login": "noralife",
+  "id": 5105414,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5105414?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/noralife",
+  "html_url": "https://github.com/noralife",
+  "followers_url": "https://api.github.com/users/noralife/followers",
+  "following_url": "https://api.github.com/users/noralife/following{/other_user}",
+  "gists_url": "https://api.github.com/users/noralife/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/noralife/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/noralife/subscriptions",
+  "organizations_url": "https://api.github.com/users/noralife/orgs",
+  "repos_url": "https://api.github.com/users/noralife/repos",
+  "events_url": "https://api.github.com/users/noralife/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/noralife/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

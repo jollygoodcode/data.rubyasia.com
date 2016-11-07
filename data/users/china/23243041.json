@@ -1,0 +1,20 @@
+{
+  "login": "dgutlug",
+  "id": 23243041,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23243041?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dgutlug",
+  "html_url": "https://github.com/dgutlug",
+  "followers_url": "https://api.github.com/users/dgutlug/followers",
+  "following_url": "https://api.github.com/users/dgutlug/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dgutlug/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dgutlug/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dgutlug/subscriptions",
+  "organizations_url": "https://api.github.com/users/dgutlug/orgs",
+  "repos_url": "https://api.github.com/users/dgutlug/repos",
+  "events_url": "https://api.github.com/users/dgutlug/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dgutlug/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
