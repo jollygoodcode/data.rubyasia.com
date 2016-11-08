@@ -1,0 +1,20 @@
+{
+  "login": "soewarsono",
+  "id": 7089429,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7089429?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/soewarsono",
+  "html_url": "https://github.com/soewarsono",
+  "followers_url": "https://api.github.com/users/soewarsono/followers",
+  "following_url": "https://api.github.com/users/soewarsono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/soewarsono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/soewarsono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/soewarsono/subscriptions",
+  "organizations_url": "https://api.github.com/users/soewarsono/orgs",
+  "repos_url": "https://api.github.com/users/soewarsono/repos",
+  "events_url": "https://api.github.com/users/soewarsono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/soewarsono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

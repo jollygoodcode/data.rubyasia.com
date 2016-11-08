@@ -1,0 +1,20 @@
+{
+  "login": "amirulabu",
+  "id": 10055534,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10055534?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amirulabu",
+  "html_url": "https://github.com/amirulabu",
+  "followers_url": "https://api.github.com/users/amirulabu/followers",
+  "following_url": "https://api.github.com/users/amirulabu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amirulabu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amirulabu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amirulabu/subscriptions",
+  "organizations_url": "https://api.github.com/users/amirulabu/orgs",
+  "repos_url": "https://api.github.com/users/amirulabu/repos",
+  "events_url": "https://api.github.com/users/amirulabu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amirulabu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
