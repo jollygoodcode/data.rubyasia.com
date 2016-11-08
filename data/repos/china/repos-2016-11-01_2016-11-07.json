@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-11-08 08:11:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-01..2016-11-07",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 781,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 246,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Macrow/rails_kindeditor",
+      "description": "Kindeditor for Ruby on Rails",
+      "html_url": "https://github.com/Macrow/rails_kindeditor",
+      "stars": 236,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beenhero/omniauth-weibo-oauth2",
+      "description": "OmniAuth Oauth2 strategy for weibo.com.",
+      "html_url": "https://github.com/beenhero/omniauth-weibo-oauth2",
+      "stars": 133,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

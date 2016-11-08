@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-11-08 08:11:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-01..2016-11-07",
+  "repos": [
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1346,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 406,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/vitals",
+      "description": "Flexible StatsD instrumentation for Rails, Rack, Grape and more",
+      "html_url": "https://github.com/jondot/vitals",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "YotpoLtd/geoip2",
+      "description": "Integration with Maxmind GeoIP2 API",
+      "html_url": "https://github.com/YotpoLtd/geoip2",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
