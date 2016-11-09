@@ -1,0 +1,20 @@
+{
+  "login": "FrancisMG",
+  "id": 13565055,
+  "avatar_url": "https://avatars.githubusercontent.com/u/13565055?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FrancisMG",
+  "html_url": "https://github.com/FrancisMG",
+  "followers_url": "https://api.github.com/users/FrancisMG/followers",
+  "following_url": "https://api.github.com/users/FrancisMG/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FrancisMG/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FrancisMG/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FrancisMG/subscriptions",
+  "organizations_url": "https://api.github.com/users/FrancisMG/orgs",
+  "repos_url": "https://api.github.com/users/FrancisMG/repos",
+  "events_url": "https://api.github.com/users/FrancisMG/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FrancisMG/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
