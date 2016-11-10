@@ -1,0 +1,20 @@
+{
+  "login": "qodot",
+  "id": 7219116,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7219116?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qodot",
+  "html_url": "https://github.com/qodot",
+  "followers_url": "https://api.github.com/users/qodot/followers",
+  "following_url": "https://api.github.com/users/qodot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qodot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qodot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qodot/subscriptions",
+  "organizations_url": "https://api.github.com/users/qodot/orgs",
+  "repos_url": "https://api.github.com/users/qodot/repos",
+  "events_url": "https://api.github.com/users/qodot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qodot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
