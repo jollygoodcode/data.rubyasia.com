@@ -1,0 +1,20 @@
+{
+  "login": "fenec",
+  "id": 614253,
+  "avatar_url": "https://avatars.githubusercontent.com/u/614253?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fenec",
+  "html_url": "https://github.com/fenec",
+  "followers_url": "https://api.github.com/users/fenec/followers",
+  "following_url": "https://api.github.com/users/fenec/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fenec/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fenec/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fenec/subscriptions",
+  "organizations_url": "https://api.github.com/users/fenec/orgs",
+  "repos_url": "https://api.github.com/users/fenec/repos",
+  "events_url": "https://api.github.com/users/fenec/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fenec/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

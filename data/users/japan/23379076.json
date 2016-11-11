@@ -1,0 +1,20 @@
+{
+  "login": "yukihondacom",
+  "id": 23379076,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23379076?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yukihondacom",
+  "html_url": "https://github.com/yukihondacom",
+  "followers_url": "https://api.github.com/users/yukihondacom/followers",
+  "following_url": "https://api.github.com/users/yukihondacom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yukihondacom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yukihondacom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yukihondacom/subscriptions",
+  "organizations_url": "https://api.github.com/users/yukihondacom/orgs",
+  "repos_url": "https://api.github.com/users/yukihondacom/repos",
+  "events_url": "https://api.github.com/users/yukihondacom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yukihondacom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

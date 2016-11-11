@@ -1,0 +1,20 @@
+{
+  "login": "prdpspkt",
+  "id": 8027379,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8027379?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/prdpspkt",
+  "html_url": "https://github.com/prdpspkt",
+  "followers_url": "https://api.github.com/users/prdpspkt/followers",
+  "following_url": "https://api.github.com/users/prdpspkt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/prdpspkt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/prdpspkt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/prdpspkt/subscriptions",
+  "organizations_url": "https://api.github.com/users/prdpspkt/orgs",
+  "repos_url": "https://api.github.com/users/prdpspkt/repos",
+  "events_url": "https://api.github.com/users/prdpspkt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/prdpspkt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

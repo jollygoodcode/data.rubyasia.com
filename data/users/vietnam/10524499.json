@@ -1,0 +1,20 @@
+{
+  "login": "PhuongTrieu",
+  "id": 10524499,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10524499?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PhuongTrieu",
+  "html_url": "https://github.com/PhuongTrieu",
+  "followers_url": "https://api.github.com/users/PhuongTrieu/followers",
+  "following_url": "https://api.github.com/users/PhuongTrieu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PhuongTrieu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PhuongTrieu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PhuongTrieu/subscriptions",
+  "organizations_url": "https://api.github.com/users/PhuongTrieu/orgs",
+  "repos_url": "https://api.github.com/users/PhuongTrieu/repos",
+  "events_url": "https://api.github.com/users/PhuongTrieu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PhuongTrieu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
