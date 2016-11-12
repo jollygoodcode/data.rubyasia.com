@@ -1,0 +1,20 @@
+{
+  "login": "bri-x",
+  "id": 21266728,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21266728?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bri-x",
+  "html_url": "https://github.com/bri-x",
+  "followers_url": "https://api.github.com/users/bri-x/followers",
+  "following_url": "https://api.github.com/users/bri-x/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bri-x/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bri-x/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bri-x/subscriptions",
+  "organizations_url": "https://api.github.com/users/bri-x/orgs",
+  "repos_url": "https://api.github.com/users/bri-x/repos",
+  "events_url": "https://api.github.com/users/bri-x/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bri-x/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
