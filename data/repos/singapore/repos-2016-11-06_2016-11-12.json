@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-11-13 08:12:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-06..2016-11-12",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2238,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
