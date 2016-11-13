@@ -1,0 +1,20 @@
+{
+  "login": "unitus-jp",
+  "id": 17978865,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17978865?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unitus-jp",
+  "html_url": "https://github.com/unitus-jp",
+  "followers_url": "https://api.github.com/users/unitus-jp/followers",
+  "following_url": "https://api.github.com/users/unitus-jp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unitus-jp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unitus-jp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unitus-jp/subscriptions",
+  "organizations_url": "https://api.github.com/users/unitus-jp/orgs",
+  "repos_url": "https://api.github.com/users/unitus-jp/repos",
+  "events_url": "https://api.github.com/users/unitus-jp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unitus-jp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
