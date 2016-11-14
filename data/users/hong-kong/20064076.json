@@ -1,0 +1,20 @@
+{
+  "login": "nyyc",
+  "id": 20064076,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20064076?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nyyc",
+  "html_url": "https://github.com/nyyc",
+  "followers_url": "https://api.github.com/users/nyyc/followers",
+  "following_url": "https://api.github.com/users/nyyc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nyyc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nyyc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nyyc/subscriptions",
+  "organizations_url": "https://api.github.com/users/nyyc/orgs",
+  "repos_url": "https://api.github.com/users/nyyc/repos",
+  "events_url": "https://api.github.com/users/nyyc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nyyc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

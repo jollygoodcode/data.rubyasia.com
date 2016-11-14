@@ -1,0 +1,20 @@
+{
+  "login": "doganzorlu",
+  "id": 1427286,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1427286?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/doganzorlu",
+  "html_url": "https://github.com/doganzorlu",
+  "followers_url": "https://api.github.com/users/doganzorlu/followers",
+  "following_url": "https://api.github.com/users/doganzorlu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/doganzorlu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/doganzorlu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/doganzorlu/subscriptions",
+  "organizations_url": "https://api.github.com/users/doganzorlu/orgs",
+  "repos_url": "https://api.github.com/users/doganzorlu/repos",
+  "events_url": "https://api.github.com/users/doganzorlu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/doganzorlu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
