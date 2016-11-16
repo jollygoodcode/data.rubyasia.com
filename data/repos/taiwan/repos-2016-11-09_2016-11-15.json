@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-11-16 08:13:16 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-09..2016-11-15",
+  "repos": [
+    {
+      "full_name": "godfat/jellyfish",
+      "description": "Pico web framework for building API-centric web applications",
+      "html_url": "https://github.com/godfat/jellyfish",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/muack",
+      "description": "Muack -- Yet Another Mocking Library",
+      "html_url": "https://github.com/godfat/muack",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

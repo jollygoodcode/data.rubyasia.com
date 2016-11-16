@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-11-16 08:12:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-09..2016-11-15",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2250,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
