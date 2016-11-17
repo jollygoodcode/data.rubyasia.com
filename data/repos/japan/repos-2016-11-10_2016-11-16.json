@@ -1,0 +1,222 @@
+{
+  "generated_at": "2016-11-17 08:12:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-10..2016-11-16",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1796,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 805,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3 and Rails 4",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 587,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/md2key",
+      "description": "Convert markdown to keynote",
+      "html_url": "https://github.com/k0kubun/md2key",
+      "stars": 547,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 546,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 504,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 476,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/garage",
+      "description": "Rails extension for RESTful Hypermedia API",
+      "html_url": "https://github.com/cookpad/garage",
+      "stars": 427,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 223,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "Rails 5.0とVue.js 1.0で開発中のアニメ視聴記録サービス「Annict」です。",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 183,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/erd",
+      "description": "A Rails engine for drawing your app's ER diagram",
+      "html_url": "https://github.com/amatsuda/erd",
+      "stars": 157,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-rb",
+      "description": "Qiita API v2 client library and CLI tool, written in Ruby",
+      "html_url": "https://github.com/increments/qiita-rb",
+      "stars": 122,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 118,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ko1/yomikomu",
+      "description": "Dump compiled iseq by binary (kakidasu) and load binary (yomidasu)",
+      "html_url": "https://github.com/ko1/yomikomu",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shunirr/FacebookIrcGateway",
+      "description": "Facebook Client that spoof IRC server.",
+      "html_url": "https://github.com/shunirr/FacebookIrcGateway",
+      "stars": 61,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/kondate",
+      "description": "Kondate is yet another nodes management framework for Itamae/Serverspec",
+      "html_url": "https://github.com/sonots/kondate",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yasaichi/gakubuchi",
+      "description": "Static pages management with Asset Pipeline",
+      "html_url": "https://github.com/yasaichi/gakubuchi",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kentaro/fluent-plugin-rewrite",
+      "description": null,
+      "html_url": "https://github.com/kentaro/fluent-plugin-rewrite",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdtds/kindlegen",
+      "description": "Installing kindlegen command via gem",
+      "html_url": "https://github.com/tdtds/kindlegen",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "suer/redmine_webhook",
+      "description": null,
+      "html_url": "https://github.com/suer/redmine_webhook",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": null,
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hsbt/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/hsbt/ngx_mruby-package-builder",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
