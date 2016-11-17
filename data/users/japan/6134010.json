@@ -1,0 +1,20 @@
+{
+  "login": "wmnsk",
+  "id": 6134010,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6134010?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wmnsk",
+  "html_url": "https://github.com/wmnsk",
+  "followers_url": "https://api.github.com/users/wmnsk/followers",
+  "following_url": "https://api.github.com/users/wmnsk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wmnsk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wmnsk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wmnsk/subscriptions",
+  "organizations_url": "https://api.github.com/users/wmnsk/orgs",
+  "repos_url": "https://api.github.com/users/wmnsk/repos",
+  "events_url": "https://api.github.com/users/wmnsk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wmnsk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "wtsnjp",
+  "id": 9448125,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9448125?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wtsnjp",
+  "html_url": "https://github.com/wtsnjp",
+  "followers_url": "https://api.github.com/users/wtsnjp/followers",
+  "following_url": "https://api.github.com/users/wtsnjp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wtsnjp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wtsnjp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wtsnjp/subscriptions",
+  "organizations_url": "https://api.github.com/users/wtsnjp/orgs",
+  "repos_url": "https://api.github.com/users/wtsnjp/repos",
+  "events_url": "https://api.github.com/users/wtsnjp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wtsnjp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
