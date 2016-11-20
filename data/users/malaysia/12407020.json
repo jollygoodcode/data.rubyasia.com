@@ -1,0 +1,20 @@
+{
+  "login": "huatzhi",
+  "id": 12407020,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12407020?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huatzhi",
+  "html_url": "https://github.com/huatzhi",
+  "followers_url": "https://api.github.com/users/huatzhi/followers",
+  "following_url": "https://api.github.com/users/huatzhi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huatzhi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huatzhi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huatzhi/subscriptions",
+  "organizations_url": "https://api.github.com/users/huatzhi/orgs",
+  "repos_url": "https://api.github.com/users/huatzhi/repos",
+  "events_url": "https://api.github.com/users/huatzhi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huatzhi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
