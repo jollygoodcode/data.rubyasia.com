@@ -1,0 +1,20 @@
+{
+  "login": "YoheiKoga",
+  "id": 8132567,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8132567?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/YoheiKoga",
+  "html_url": "https://github.com/YoheiKoga",
+  "followers_url": "https://api.github.com/users/YoheiKoga/followers",
+  "following_url": "https://api.github.com/users/YoheiKoga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/YoheiKoga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/YoheiKoga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/YoheiKoga/subscriptions",
+  "organizations_url": "https://api.github.com/users/YoheiKoga/orgs",
+  "repos_url": "https://api.github.com/users/YoheiKoga/repos",
+  "events_url": "https://api.github.com/users/YoheiKoga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/YoheiKoga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
