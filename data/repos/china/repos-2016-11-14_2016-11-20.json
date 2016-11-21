@@ -1,0 +1,54 @@
+{
+  "generated_at": "2016-11-21 08:11:16 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-14..2016-11-20",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 787,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 446,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 246,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Macrow/rails_kindeditor",
+      "description": "Kindeditor for Ruby on Rails",
+      "html_url": "https://github.com/Macrow/rails_kindeditor",
+      "stars": 237,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/qiniu_direct_uploader",
+      "description": "A gem can direct upload your files to a Qiniu storage bucket",
+      "html_url": "https://github.com/huobazi/qiniu_direct_uploader",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
