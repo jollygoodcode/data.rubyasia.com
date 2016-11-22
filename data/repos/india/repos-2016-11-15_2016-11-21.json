@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-11-22 08:11:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-15..2016-11-21",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1058,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 538,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "minhajuddin/tummy",
+      "description": "Use a Tmuxfile with your tmux configuration to easily manage sessions",
+      "html_url": "https://github.com/minhajuddin/tummy",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

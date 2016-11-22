@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-11-22 08:12:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-15..2016-11-21",
+  "repos": [
+    {
+      "full_name": "Erol/yomu",
+      "description": "Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)",
+      "html_url": "https://github.com/Erol/yomu",
+      "stars": 326,
+      "language": "Ruby",
+      "region": "Philippines"
+    },
+    {
+      "full_name": "rstacruz/npm-pipeline-rails",
+      "description": "Use npm as part of your Rails asset pipeline",
+      "html_url": "https://github.com/rstacruz/npm-pipeline-rails",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Philippines"
+    }
+  ]
+}

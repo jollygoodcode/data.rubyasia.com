@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-11-22 08:12:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-15..2016-11-21",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 72,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
