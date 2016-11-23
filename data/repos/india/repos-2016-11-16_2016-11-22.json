@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-11-23 08:11:30 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-16..2016-11-22",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 538,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "minhajuddin/tummy",
+      "description": "Use a Tmuxfile with your tmux configuration to easily manage sessions",
+      "html_url": "https://github.com/minhajuddin/tummy",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

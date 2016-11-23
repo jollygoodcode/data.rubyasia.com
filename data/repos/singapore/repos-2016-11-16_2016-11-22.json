@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-11-23 08:12:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-16..2016-11-22",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 72,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
