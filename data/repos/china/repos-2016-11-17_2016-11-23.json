@@ -1,0 +1,38 @@
+{
+  "generated_at": "2016-11-24 08:11:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-17..2016-11-23",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 789,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Macrow/rails_kindeditor",
+      "description": "Kindeditor for Ruby on Rails",
+      "html_url": "https://github.com/Macrow/rails_kindeditor",
+      "stars": 238,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/qiniu_direct_uploader",
+      "description": "A gem can direct upload your files to a Qiniu storage bucket",
+      "html_url": "https://github.com/huobazi/qiniu_direct_uploader",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
