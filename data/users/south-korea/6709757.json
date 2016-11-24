@@ -1,0 +1,20 @@
+{
+  "login": "NickDamiano",
+  "id": 6709757,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6709757?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NickDamiano",
+  "html_url": "https://github.com/NickDamiano",
+  "followers_url": "https://api.github.com/users/NickDamiano/followers",
+  "following_url": "https://api.github.com/users/NickDamiano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NickDamiano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NickDamiano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NickDamiano/subscriptions",
+  "organizations_url": "https://api.github.com/users/NickDamiano/orgs",
+  "repos_url": "https://api.github.com/users/NickDamiano/repos",
+  "events_url": "https://api.github.com/users/NickDamiano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NickDamiano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

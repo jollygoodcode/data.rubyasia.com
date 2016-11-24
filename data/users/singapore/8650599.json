@@ -1,0 +1,20 @@
+{
+  "login": "timmcnamara",
+  "id": 8650599,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8650599?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/timmcnamara",
+  "html_url": "https://github.com/timmcnamara",
+  "followers_url": "https://api.github.com/users/timmcnamara/followers",
+  "following_url": "https://api.github.com/users/timmcnamara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/timmcnamara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/timmcnamara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/timmcnamara/subscriptions",
+  "organizations_url": "https://api.github.com/users/timmcnamara/orgs",
+  "repos_url": "https://api.github.com/users/timmcnamara/repos",
+  "events_url": "https://api.github.com/users/timmcnamara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/timmcnamara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
