@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-11-25 08:11:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-18..2016-11-24",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3223,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 789,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 683,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/qiniu_direct_uploader",
+      "description": "A gem can direct upload your files to a Qiniu storage bucket",
+      "html_url": "https://github.com/huobazi/qiniu_direct_uploader",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
