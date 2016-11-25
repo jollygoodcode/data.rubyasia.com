@@ -1,0 +1,20 @@
+{
+  "login": "rikki-tamaki",
+  "id": 15013459,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15013459?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rikki-tamaki",
+  "html_url": "https://github.com/rikki-tamaki",
+  "followers_url": "https://api.github.com/users/rikki-tamaki/followers",
+  "following_url": "https://api.github.com/users/rikki-tamaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rikki-tamaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rikki-tamaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rikki-tamaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/rikki-tamaki/orgs",
+  "repos_url": "https://api.github.com/users/rikki-tamaki/repos",
+  "events_url": "https://api.github.com/users/rikki-tamaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rikki-tamaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

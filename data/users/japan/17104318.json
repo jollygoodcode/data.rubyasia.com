@@ -1,0 +1,20 @@
+{
+  "login": "shamofu",
+  "id": 17104318,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17104318?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shamofu",
+  "html_url": "https://github.com/shamofu",
+  "followers_url": "https://api.github.com/users/shamofu/followers",
+  "following_url": "https://api.github.com/users/shamofu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shamofu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shamofu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shamofu/subscriptions",
+  "organizations_url": "https://api.github.com/users/shamofu/orgs",
+  "repos_url": "https://api.github.com/users/shamofu/repos",
+  "events_url": "https://api.github.com/users/shamofu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shamofu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

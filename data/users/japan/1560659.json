@@ -1,0 +1,20 @@
+{
+  "login": "Talvalin",
+  "id": 1560659,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1560659?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Talvalin",
+  "html_url": "https://github.com/Talvalin",
+  "followers_url": "https://api.github.com/users/Talvalin/followers",
+  "following_url": "https://api.github.com/users/Talvalin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Talvalin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Talvalin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Talvalin/subscriptions",
+  "organizations_url": "https://api.github.com/users/Talvalin/orgs",
+  "repos_url": "https://api.github.com/users/Talvalin/repos",
+  "events_url": "https://api.github.com/users/Talvalin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Talvalin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
