@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-11-26 08:11:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-19..2016-11-25",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3224,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 683,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "An unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 542,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

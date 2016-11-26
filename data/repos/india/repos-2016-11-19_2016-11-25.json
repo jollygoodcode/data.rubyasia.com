@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-11-26 08:11:30 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-19..2016-11-25",
+  "repos": [
+    {
+      "full_name": "arunagw/omniauth-twitter",
+      "description": "OmniAuth strategy for Twitter",
+      "html_url": "https://github.com/arunagw/omniauth-twitter",
+      "stars": 463,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anildigital/partioprint",
+      "description": "It helps you to find out what partials were rendered for the generating html with erbs",
+      "html_url": "https://github.com/anildigital/partioprint",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "AdiChat/Repository-Hunter",
+      "description": ":rose: Making GitHub:octocat: more socially engaging 🎮 and fun 🍥 for all 👦 + 👧 + 👴 + 👶 + 🐮 + 🐦 + 🐱 ...",
+      "html_url": "https://github.com/AdiChat/Repository-Hunter",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
