@@ -1,0 +1,20 @@
+{
+  "login": "jasder",
+  "id": 6260038,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6260038?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasder",
+  "html_url": "https://github.com/jasder",
+  "followers_url": "https://api.github.com/users/jasder/followers",
+  "following_url": "https://api.github.com/users/jasder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasder/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasder/orgs",
+  "repos_url": "https://api.github.com/users/jasder/repos",
+  "events_url": "https://api.github.com/users/jasder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

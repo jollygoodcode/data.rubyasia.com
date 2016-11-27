@@ -1,0 +1,20 @@
+{
+  "login": "OppaiParty",
+  "id": 20555779,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20555779?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/OppaiParty",
+  "html_url": "https://github.com/OppaiParty",
+  "followers_url": "https://api.github.com/users/OppaiParty/followers",
+  "following_url": "https://api.github.com/users/OppaiParty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OppaiParty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/OppaiParty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OppaiParty/subscriptions",
+  "organizations_url": "https://api.github.com/users/OppaiParty/orgs",
+  "repos_url": "https://api.github.com/users/OppaiParty/repos",
+  "events_url": "https://api.github.com/users/OppaiParty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/OppaiParty/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
