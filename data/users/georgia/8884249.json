@@ -1,0 +1,20 @@
+{
+  "login": "PandaThatFlies",
+  "id": 8884249,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8884249?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/PandaThatFlies",
+  "html_url": "https://github.com/PandaThatFlies",
+  "followers_url": "https://api.github.com/users/PandaThatFlies/followers",
+  "following_url": "https://api.github.com/users/PandaThatFlies/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PandaThatFlies/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/PandaThatFlies/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PandaThatFlies/subscriptions",
+  "organizations_url": "https://api.github.com/users/PandaThatFlies/orgs",
+  "repos_url": "https://api.github.com/users/PandaThatFlies/repos",
+  "events_url": "https://api.github.com/users/PandaThatFlies/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/PandaThatFlies/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
