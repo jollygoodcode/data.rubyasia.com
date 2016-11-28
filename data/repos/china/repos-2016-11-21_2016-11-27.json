@@ -1,0 +1,62 @@
+{
+  "generated_at": "2016-11-28 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-21..2016-11-27",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3225,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 791,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 684,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "An unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 543,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
