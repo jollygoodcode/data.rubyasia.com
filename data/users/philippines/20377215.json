@@ -1,0 +1,20 @@
+{
+  "login": "Ted125",
+  "id": 20377215,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20377215?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ted125",
+  "html_url": "https://github.com/Ted125",
+  "followers_url": "https://api.github.com/users/Ted125/followers",
+  "following_url": "https://api.github.com/users/Ted125/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ted125/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ted125/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ted125/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ted125/orgs",
+  "repos_url": "https://api.github.com/users/Ted125/repos",
+  "events_url": "https://api.github.com/users/Ted125/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ted125/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

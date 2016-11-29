@@ -1,0 +1,20 @@
+{
+  "login": "SANREMEMBER",
+  "id": 24236807,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24236807?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SANREMEMBER",
+  "html_url": "https://github.com/SANREMEMBER",
+  "followers_url": "https://api.github.com/users/SANREMEMBER/followers",
+  "following_url": "https://api.github.com/users/SANREMEMBER/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SANREMEMBER/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SANREMEMBER/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SANREMEMBER/subscriptions",
+  "organizations_url": "https://api.github.com/users/SANREMEMBER/orgs",
+  "repos_url": "https://api.github.com/users/SANREMEMBER/repos",
+  "events_url": "https://api.github.com/users/SANREMEMBER/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SANREMEMBER/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
