@@ -1,0 +1,20 @@
+{
+  "login": "tcguo",
+  "id": 5242869,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5242869?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tcguo",
+  "html_url": "https://github.com/tcguo",
+  "followers_url": "https://api.github.com/users/tcguo/followers",
+  "following_url": "https://api.github.com/users/tcguo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tcguo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tcguo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tcguo/subscriptions",
+  "organizations_url": "https://api.github.com/users/tcguo/orgs",
+  "repos_url": "https://api.github.com/users/tcguo/repos",
+  "events_url": "https://api.github.com/users/tcguo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tcguo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
