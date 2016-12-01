@@ -1,0 +1,20 @@
+{
+  "login": "badalb",
+  "id": 2116198,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2116198?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/badalb",
+  "html_url": "https://github.com/badalb",
+  "followers_url": "https://api.github.com/users/badalb/followers",
+  "following_url": "https://api.github.com/users/badalb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/badalb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/badalb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/badalb/subscriptions",
+  "organizations_url": "https://api.github.com/users/badalb/orgs",
+  "repos_url": "https://api.github.com/users/badalb/repos",
+  "events_url": "https://api.github.com/users/badalb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/badalb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

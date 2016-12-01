@@ -1,0 +1,20 @@
+{
+  "login": "ospfolio",
+  "id": 20304713,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20304713?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ospfolio",
+  "html_url": "https://github.com/ospfolio",
+  "followers_url": "https://api.github.com/users/ospfolio/followers",
+  "following_url": "https://api.github.com/users/ospfolio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ospfolio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ospfolio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ospfolio/subscriptions",
+  "organizations_url": "https://api.github.com/users/ospfolio/orgs",
+  "repos_url": "https://api.github.com/users/ospfolio/repos",
+  "events_url": "https://api.github.com/users/ospfolio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ospfolio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
