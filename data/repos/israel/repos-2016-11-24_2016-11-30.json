@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-12-01 08:11:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-24..2016-11-30",
+  "repos": [
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 416,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
