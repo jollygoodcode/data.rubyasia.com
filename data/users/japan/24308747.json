@@ -1,0 +1,20 @@
+{
+  "login": "open8inc",
+  "id": 24308747,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24308747?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/open8inc",
+  "html_url": "https://github.com/open8inc",
+  "followers_url": "https://api.github.com/users/open8inc/followers",
+  "following_url": "https://api.github.com/users/open8inc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/open8inc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/open8inc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/open8inc/subscriptions",
+  "organizations_url": "https://api.github.com/users/open8inc/orgs",
+  "repos_url": "https://api.github.com/users/open8inc/repos",
+  "events_url": "https://api.github.com/users/open8inc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/open8inc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
