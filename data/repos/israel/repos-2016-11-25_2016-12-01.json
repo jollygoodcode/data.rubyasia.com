@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-12-02 08:11:33 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-25..2016-12-01",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 8755,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yonbergman/enumify",
+      "description": "Enumify adds an enum command to all ActiveRecord models which enables you to work with string attributes as if they were enums",
+      "html_url": "https://github.com/yonbergman/enumify",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
