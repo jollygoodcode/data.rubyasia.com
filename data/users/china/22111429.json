@@ -1,0 +1,20 @@
+{
+  "login": "wcyd",
+  "id": 22111429,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22111429?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wcyd",
+  "html_url": "https://github.com/wcyd",
+  "followers_url": "https://api.github.com/users/wcyd/followers",
+  "following_url": "https://api.github.com/users/wcyd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wcyd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wcyd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wcyd/subscriptions",
+  "organizations_url": "https://api.github.com/users/wcyd/orgs",
+  "repos_url": "https://api.github.com/users/wcyd/repos",
+  "events_url": "https://api.github.com/users/wcyd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wcyd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
