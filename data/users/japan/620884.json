@@ -1,0 +1,20 @@
+{
+  "login": "kibitan",
+  "id": 620884,
+  "avatar_url": "https://avatars.githubusercontent.com/u/620884?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kibitan",
+  "html_url": "https://github.com/kibitan",
+  "followers_url": "https://api.github.com/users/kibitan/followers",
+  "following_url": "https://api.github.com/users/kibitan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kibitan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kibitan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kibitan/subscriptions",
+  "organizations_url": "https://api.github.com/users/kibitan/orgs",
+  "repos_url": "https://api.github.com/users/kibitan/repos",
+  "events_url": "https://api.github.com/users/kibitan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kibitan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

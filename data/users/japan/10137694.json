@@ -1,0 +1,20 @@
+{
+  "login": "nikuzuki",
+  "id": 10137694,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10137694?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nikuzuki",
+  "html_url": "https://github.com/nikuzuki",
+  "followers_url": "https://api.github.com/users/nikuzuki/followers",
+  "following_url": "https://api.github.com/users/nikuzuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nikuzuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nikuzuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nikuzuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/nikuzuki/orgs",
+  "repos_url": "https://api.github.com/users/nikuzuki/repos",
+  "events_url": "https://api.github.com/users/nikuzuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nikuzuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

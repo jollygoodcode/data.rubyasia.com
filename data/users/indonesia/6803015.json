@@ -1,0 +1,20 @@
+{
+  "login": "ranch",
+  "id": 6803015,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6803015?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ranch",
+  "html_url": "https://github.com/ranch",
+  "followers_url": "https://api.github.com/users/ranch/followers",
+  "following_url": "https://api.github.com/users/ranch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ranch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ranch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ranch/subscriptions",
+  "organizations_url": "https://api.github.com/users/ranch/orgs",
+  "repos_url": "https://api.github.com/users/ranch/repos",
+  "events_url": "https://api.github.com/users/ranch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ranch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "nizyu",
+  "id": 24318161,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24318161?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nizyu",
+  "html_url": "https://github.com/nizyu",
+  "followers_url": "https://api.github.com/users/nizyu/followers",
+  "following_url": "https://api.github.com/users/nizyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nizyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nizyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nizyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/nizyu/orgs",
+  "repos_url": "https://api.github.com/users/nizyu/repos",
+  "events_url": "https://api.github.com/users/nizyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nizyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
