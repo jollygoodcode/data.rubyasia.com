@@ -1,0 +1,20 @@
+{
+  "login": "coderaven",
+  "id": 631312,
+  "avatar_url": "https://avatars.githubusercontent.com/u/631312?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coderaven",
+  "html_url": "https://github.com/coderaven",
+  "followers_url": "https://api.github.com/users/coderaven/followers",
+  "following_url": "https://api.github.com/users/coderaven/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coderaven/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coderaven/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coderaven/subscriptions",
+  "organizations_url": "https://api.github.com/users/coderaven/orgs",
+  "repos_url": "https://api.github.com/users/coderaven/repos",
+  "events_url": "https://api.github.com/users/coderaven/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coderaven/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
