@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-12-06 08:11:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-29..2016-12-05",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1073,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dharanasoft/haml-sprockets",
+      "description": "Use the awesome haml-js with sprockets",
+      "html_url": "https://github.com/dharanasoft/haml-sprockets",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "AdiChat/Repository-Hunter",
+      "description": ":rose: Making GitHub:octocat: more socially engaging 🎮 and fun 🍥 for all 👦 + 👧 + 👴 + 👶 + 🐮 + 🐦 + 🐱 ...",
+      "html_url": "https://github.com/AdiChat/Repository-Hunter",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anildigital/partioprint",
+      "description": "It helps you to find out what partials were rendered for the generating html with erbs",
+      "html_url": "https://github.com/anildigital/partioprint",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sadiqmmm/clipboard-rails",
+      "description": "clipboard.js javascript library integration for your Rails 4 and Rails 5 applications",
+      "html_url": "https://github.com/sadiqmmm/clipboard-rails",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
