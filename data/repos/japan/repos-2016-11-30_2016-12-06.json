@@ -1,0 +1,238 @@
+{
+  "generated_at": "2016-12-07 08:12:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-11-30..2016-12-06",
+  "repos": [
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1726,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 1094,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 839,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 548,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 481,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/jb",
+      "description": "A simple and fast JSON API template engine for Ruby on Rails",
+      "html_url": "https://github.com/amatsuda/jb",
+      "stars": 403,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 239,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 229,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "Rails 5.0とVue.js 2.1で開発中のアニメ視聴記録サービス「Annict」です。",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 185,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/json-jwt",
+      "description": "JSON Web Token and its family (JSON Web Signature, JSON Web Encryption and JSON Web Key) in Ruby",
+      "html_url": "https://github.com/nov/json-jwt",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/motorhead",
+      "description": "A Rails Engine framework that helps safe and rapid feature prototyping",
+      "html_url": "https://github.com/amatsuda/motorhead",
+      "stars": 135,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/view_source_map",
+      "description": "Rails plugin to view source map",
+      "html_url": "https://github.com/r7kamura/view_source_map",
+      "stars": 99,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 74,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tricknotes/starseeker",
+      "description": "Seek your following's stars!",
+      "html_url": "https://github.com/tricknotes/starseeker",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/mitamae",
+      "description": "Configuration management tool embedding mruby, which is alternative implementation of Itamae",
+      "html_url": "https://github.com/k0kubun/mitamae",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_banner",
+      "description": "Plugin for redmine to show site-wide banner message.",
+      "html_url": "https://github.com/akiko-pusu/redmine_banner",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/fluent-plugin-cloudwatch-logs",
+      "description": "CloudWatch Logs Plugin for Fluentd",
+      "html_url": "https://github.com/ryotarai/fluent-plugin-cloudwatch-logs",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/kondate",
+      "description": "Kondate is yet another nodes management framework for Itamae/Serverspec",
+      "html_url": "https://github.com/sonots/kondate",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/nginx_omniauth_adapter",
+      "description": "Use omniauth for nginx auth_request",
+      "html_url": "https://github.com/sorah/nginx_omniauth_adapter",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/karabiner-dsl",
+      "description": "Lightweight keyremap configuration DSL for Karabiner",
+      "html_url": "https://github.com/k0kubun/karabiner-dsl",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_issue_templates",
+      "description": "Repository for Redmine Issue Template (Ready to move Repository from Bitbucket to GitHub)",
+      "html_url": "https://github.com/akiko-pusu/redmine_issue_templates",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hidakatsuya/redmine_default_custom_query",
+      "description": "Redmine plugin for setting default custom query of Issues for each project",
+      "html_url": "https://github.com/hidakatsuya/redmine_default_custom_query",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/plz",
+      "description": "JSON Schema based command line HTTP client.",
+      "html_url": "https://github.com/r7kamura/plz",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-elasticsearch",
+      "description": "Elasticsearch client helper for Qiita.",
+      "html_url": "https://github.com/increments/qiita-elasticsearch",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
