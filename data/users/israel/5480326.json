@@ -1,0 +1,20 @@
+{
+  "login": "amhayslip",
+  "id": 5480326,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5480326?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amhayslip",
+  "html_url": "https://github.com/amhayslip",
+  "followers_url": "https://api.github.com/users/amhayslip/followers",
+  "following_url": "https://api.github.com/users/amhayslip/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amhayslip/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amhayslip/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amhayslip/subscriptions",
+  "organizations_url": "https://api.github.com/users/amhayslip/orgs",
+  "repos_url": "https://api.github.com/users/amhayslip/repos",
+  "events_url": "https://api.github.com/users/amhayslip/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amhayslip/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
