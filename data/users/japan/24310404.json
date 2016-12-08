@@ -1,0 +1,20 @@
+{
+  "login": "yoshimoto8",
+  "id": 24310404,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24310404?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoshimoto8",
+  "html_url": "https://github.com/yoshimoto8",
+  "followers_url": "https://api.github.com/users/yoshimoto8/followers",
+  "following_url": "https://api.github.com/users/yoshimoto8/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoshimoto8/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoshimoto8/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoshimoto8/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoshimoto8/orgs",
+  "repos_url": "https://api.github.com/users/yoshimoto8/repos",
+  "events_url": "https://api.github.com/users/yoshimoto8/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoshimoto8/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
