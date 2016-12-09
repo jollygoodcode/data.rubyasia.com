@@ -1,0 +1,20 @@
+{
+  "login": "richjp",
+  "id": 3744558,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3744558?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/richjp",
+  "html_url": "https://github.com/richjp",
+  "followers_url": "https://api.github.com/users/richjp/followers",
+  "following_url": "https://api.github.com/users/richjp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/richjp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/richjp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/richjp/subscriptions",
+  "organizations_url": "https://api.github.com/users/richjp/orgs",
+  "repos_url": "https://api.github.com/users/richjp/repos",
+  "events_url": "https://api.github.com/users/richjp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/richjp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

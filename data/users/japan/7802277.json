@@ -1,0 +1,20 @@
+{
+  "login": "machikoe",
+  "id": 7802277,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7802277?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/machikoe",
+  "html_url": "https://github.com/machikoe",
+  "followers_url": "https://api.github.com/users/machikoe/followers",
+  "following_url": "https://api.github.com/users/machikoe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/machikoe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/machikoe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/machikoe/subscriptions",
+  "organizations_url": "https://api.github.com/users/machikoe/orgs",
+  "repos_url": "https://api.github.com/users/machikoe/repos",
+  "events_url": "https://api.github.com/users/machikoe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/machikoe/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
