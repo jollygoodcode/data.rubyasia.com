@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-12-09 08:12:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-02..2016-12-08",
+  "repos": [
+    {
+      "full_name": "choonkeat/active_waiter",
+      "description": "allow your users to wait for the completion of your `ActiveJob`",
+      "html_url": "https://github.com/choonkeat/active_waiter",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

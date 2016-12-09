@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-12-09 08:11:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-02..2016-12-08",
+  "repos": [
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 510,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/sails",
+      "description": "Create a Thrift Server use like Rails",
+      "html_url": "https://github.com/huacnlee/sails",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
