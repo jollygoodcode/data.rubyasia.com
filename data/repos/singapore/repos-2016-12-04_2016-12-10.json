@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-12-11 08:12:31 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-04..2016-12-10",
+  "repos": [
+    {
+      "full_name": "choonkeat/active_waiter",
+      "description": "allow your users to wait for the completion of your `ActiveJob`",
+      "html_url": "https://github.com/choonkeat/active_waiter",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
