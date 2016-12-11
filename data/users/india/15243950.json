@@ -1,0 +1,20 @@
+{
+  "login": "Anksam",
+  "id": 15243950,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15243950?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Anksam",
+  "html_url": "https://github.com/Anksam",
+  "followers_url": "https://api.github.com/users/Anksam/followers",
+  "following_url": "https://api.github.com/users/Anksam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Anksam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Anksam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Anksam/subscriptions",
+  "organizations_url": "https://api.github.com/users/Anksam/orgs",
+  "repos_url": "https://api.github.com/users/Anksam/repos",
+  "events_url": "https://api.github.com/users/Anksam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Anksam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
