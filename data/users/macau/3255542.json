@@ -1,0 +1,20 @@
+{
+  "login": "gumplei",
+  "id": 3255542,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3255542?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gumplei",
+  "html_url": "https://github.com/gumplei",
+  "followers_url": "https://api.github.com/users/gumplei/followers",
+  "following_url": "https://api.github.com/users/gumplei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gumplei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gumplei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gumplei/subscriptions",
+  "organizations_url": "https://api.github.com/users/gumplei/orgs",
+  "repos_url": "https://api.github.com/users/gumplei/repos",
+  "events_url": "https://api.github.com/users/gumplei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gumplei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
