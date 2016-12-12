@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-12-12 08:11:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-05..2016-12-11",
+  "repos": [
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 253,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
