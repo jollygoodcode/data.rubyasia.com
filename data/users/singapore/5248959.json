@@ -1,0 +1,20 @@
+{
+  "login": "jsskelvin",
+  "id": 5248959,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5248959?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jsskelvin",
+  "html_url": "https://github.com/jsskelvin",
+  "followers_url": "https://api.github.com/users/jsskelvin/followers",
+  "following_url": "https://api.github.com/users/jsskelvin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jsskelvin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jsskelvin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jsskelvin/subscriptions",
+  "organizations_url": "https://api.github.com/users/jsskelvin/orgs",
+  "repos_url": "https://api.github.com/users/jsskelvin/repos",
+  "events_url": "https://api.github.com/users/jsskelvin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jsskelvin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
