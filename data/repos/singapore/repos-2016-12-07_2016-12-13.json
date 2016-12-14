@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-12-14 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-07..2016-12-13",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "choonkeat/active_waiter",
+      "description": "allow your users to wait for the completion of your `ActiveJob`",
+      "html_url": "https://github.com/choonkeat/active_waiter",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
