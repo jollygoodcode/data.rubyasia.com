@@ -1,0 +1,20 @@
+{
+  "login": "UnitedNinja",
+  "id": 23568996,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23568996?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/UnitedNinja",
+  "html_url": "https://github.com/UnitedNinja",
+  "followers_url": "https://api.github.com/users/UnitedNinja/followers",
+  "following_url": "https://api.github.com/users/UnitedNinja/following{/other_user}",
+  "gists_url": "https://api.github.com/users/UnitedNinja/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/UnitedNinja/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/UnitedNinja/subscriptions",
+  "organizations_url": "https://api.github.com/users/UnitedNinja/orgs",
+  "repos_url": "https://api.github.com/users/UnitedNinja/repos",
+  "events_url": "https://api.github.com/users/UnitedNinja/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/UnitedNinja/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
