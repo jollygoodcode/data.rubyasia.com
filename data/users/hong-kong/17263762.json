@@ -1,0 +1,20 @@
+{
+  "login": "CRAlpha",
+  "id": 17263762,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17263762?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CRAlpha",
+  "html_url": "https://github.com/CRAlpha",
+  "followers_url": "https://api.github.com/users/CRAlpha/followers",
+  "following_url": "https://api.github.com/users/CRAlpha/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CRAlpha/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CRAlpha/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CRAlpha/subscriptions",
+  "organizations_url": "https://api.github.com/users/CRAlpha/orgs",
+  "repos_url": "https://api.github.com/users/CRAlpha/repos",
+  "events_url": "https://api.github.com/users/CRAlpha/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CRAlpha/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
