@@ -1,0 +1,20 @@
+{
+  "login": "mornpine",
+  "id": 19747489,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19747489?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mornpine",
+  "html_url": "https://github.com/mornpine",
+  "followers_url": "https://api.github.com/users/mornpine/followers",
+  "following_url": "https://api.github.com/users/mornpine/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mornpine/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mornpine/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mornpine/subscriptions",
+  "organizations_url": "https://api.github.com/users/mornpine/orgs",
+  "repos_url": "https://api.github.com/users/mornpine/repos",
+  "events_url": "https://api.github.com/users/mornpine/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mornpine/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

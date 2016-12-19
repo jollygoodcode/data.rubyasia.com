@@ -1,0 +1,20 @@
+{
+  "login": "crasker",
+  "id": 3174573,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3174573?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/crasker",
+  "html_url": "https://github.com/crasker",
+  "followers_url": "https://api.github.com/users/crasker/followers",
+  "following_url": "https://api.github.com/users/crasker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/crasker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/crasker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/crasker/subscriptions",
+  "organizations_url": "https://api.github.com/users/crasker/orgs",
+  "repos_url": "https://api.github.com/users/crasker/repos",
+  "events_url": "https://api.github.com/users/crasker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/crasker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

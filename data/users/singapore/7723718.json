@@ -1,0 +1,20 @@
+{
+  "login": "phucls",
+  "id": 7723718,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7723718?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/phucls",
+  "html_url": "https://github.com/phucls",
+  "followers_url": "https://api.github.com/users/phucls/followers",
+  "following_url": "https://api.github.com/users/phucls/following{/other_user}",
+  "gists_url": "https://api.github.com/users/phucls/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/phucls/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/phucls/subscriptions",
+  "organizations_url": "https://api.github.com/users/phucls/orgs",
+  "repos_url": "https://api.github.com/users/phucls/repos",
+  "events_url": "https://api.github.com/users/phucls/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/phucls/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
