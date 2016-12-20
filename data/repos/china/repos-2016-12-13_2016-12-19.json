@@ -1,0 +1,46 @@
+{
+  "generated_at": "2016-12-20 08:11:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-13..2016-12-19",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4380,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3253,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 535,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4 and 5.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 208,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
