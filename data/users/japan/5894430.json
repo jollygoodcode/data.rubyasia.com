@@ -1,0 +1,20 @@
+{
+  "login": "minkabu",
+  "id": 5894430,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5894430?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/minkabu",
+  "html_url": "https://github.com/minkabu",
+  "followers_url": "https://api.github.com/users/minkabu/followers",
+  "following_url": "https://api.github.com/users/minkabu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/minkabu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/minkabu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/minkabu/subscriptions",
+  "organizations_url": "https://api.github.com/users/minkabu/orgs",
+  "repos_url": "https://api.github.com/users/minkabu/repos",
+  "events_url": "https://api.github.com/users/minkabu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/minkabu/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
