@@ -1,0 +1,20 @@
+{
+  "login": "littlepad",
+  "id": 730765,
+  "avatar_url": "https://avatars.githubusercontent.com/u/730765?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/littlepad",
+  "html_url": "https://github.com/littlepad",
+  "followers_url": "https://api.github.com/users/littlepad/followers",
+  "following_url": "https://api.github.com/users/littlepad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/littlepad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/littlepad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/littlepad/subscriptions",
+  "organizations_url": "https://api.github.com/users/littlepad/orgs",
+  "repos_url": "https://api.github.com/users/littlepad/repos",
+  "events_url": "https://api.github.com/users/littlepad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/littlepad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
