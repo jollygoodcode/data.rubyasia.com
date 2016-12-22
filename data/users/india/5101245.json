@@ -1,0 +1,20 @@
+{
+  "login": "Vilash",
+  "id": 5101245,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5101245?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Vilash",
+  "html_url": "https://github.com/Vilash",
+  "followers_url": "https://api.github.com/users/Vilash/followers",
+  "following_url": "https://api.github.com/users/Vilash/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Vilash/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Vilash/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Vilash/subscriptions",
+  "organizations_url": "https://api.github.com/users/Vilash/orgs",
+  "repos_url": "https://api.github.com/users/Vilash/repos",
+  "events_url": "https://api.github.com/users/Vilash/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Vilash/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

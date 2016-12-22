@@ -1,0 +1,20 @@
+{
+  "login": "vinvik",
+  "id": 15527120,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15527120?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vinvik",
+  "html_url": "https://github.com/vinvik",
+  "followers_url": "https://api.github.com/users/vinvik/followers",
+  "following_url": "https://api.github.com/users/vinvik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vinvik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vinvik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vinvik/subscriptions",
+  "organizations_url": "https://api.github.com/users/vinvik/orgs",
+  "repos_url": "https://api.github.com/users/vinvik/repos",
+  "events_url": "https://api.github.com/users/vinvik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vinvik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

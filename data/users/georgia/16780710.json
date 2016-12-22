@@ -1,0 +1,20 @@
+{
+  "login": "robertoganiani",
+  "id": 16780710,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16780710?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robertoganiani",
+  "html_url": "https://github.com/robertoganiani",
+  "followers_url": "https://api.github.com/users/robertoganiani/followers",
+  "following_url": "https://api.github.com/users/robertoganiani/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robertoganiani/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robertoganiani/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robertoganiani/subscriptions",
+  "organizations_url": "https://api.github.com/users/robertoganiani/orgs",
+  "repos_url": "https://api.github.com/users/robertoganiani/repos",
+  "events_url": "https://api.github.com/users/robertoganiani/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robertoganiani/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
