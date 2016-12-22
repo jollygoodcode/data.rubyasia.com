@@ -1,0 +1,30 @@
+{
+  "generated_at": "2016-12-22 08:11:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-15..2016-12-21",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 9143,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1356,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/vitals",
+      "description": "Flexible StatsD instrumentation for Rails, Rack, Grape and more",
+      "html_url": "https://github.com/jondot/vitals",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}

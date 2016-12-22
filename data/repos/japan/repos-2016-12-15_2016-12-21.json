@@ -1,0 +1,214 @@
+{
+  "generated_at": "2016-12-22 08:12:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-15..2016-12-21",
+  "repos": [
+    {
+      "full_name": "amatsuda/kaminari",
+      "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+      "html_url": "https://github.com/amatsuda/kaminari",
+      "stars": 6171,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1732,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 870,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/mamiya",
+      "description": "Faster deploy tool using tarballs and serf",
+      "html_url": "https://github.com/sorah/mamiya",
+      "stars": 445,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/ruboty",
+      "description": "Ruby + Bot = Ruboty",
+      "html_url": "https://github.com/r7kamura/ruboty",
+      "stars": 360,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 231,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.0 and Vue.js 2.1.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 187,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/gem-src",
+      "description": "Gem.post_install { `git clone gem_source src` }",
+      "html_url": "https://github.com/amatsuda/gem-src",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 123,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 114,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/dokumi",
+      "description": "Automatically check if anything is wrong with the code in a pull request",
+      "html_url": "https://github.com/cookpad/dokumi",
+      "stars": 110,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 107,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "doches/rwordnet",
+      "description": "A pure Ruby interface to the WordNet database",
+      "html_url": "https://github.com/doches/rwordnet",
+      "stars": 77,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 77,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/mitamae",
+      "description": "Configuration management tool embedding mruby, which is alternative implementation of Itamae",
+      "html_url": "https://github.com/k0kubun/mitamae",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "HHRy/prawn-graph",
+      "description": "Prawn::Graph adds straightforward native graph drawing to Prawn without the need to depend on anything else. All generated graphs are pure PDF Vector Images. It results in smaller document sizes and less complication.",
+      "html_url": "https://github.com/HHRy/prawn-graph",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/itamae-plugin-recipe-rbenv",
+      "description": "Itamae plugin to install ruby with rbenv",
+      "html_url": "https://github.com/k0kubun/itamae-plugin-recipe-rbenv",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masa16/pwrake",
+      "description": "Parallel Workflow extension for Rake, runs on multicores, clusters, clouds.",
+      "html_url": "https://github.com/masa16/pwrake",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdtds/kindlegen",
+      "description": "Installing kindlegen command via gem",
+      "html_url": "https://github.com/tdtds/kindlegen",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": null,
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "DeployGate/deploygate-cli",
+      "description": "A command-line interface for DeployGate",
+      "html_url": "https://github.com/DeployGate/deploygate-cli",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-elasticsearch",
+      "description": "Elasticsearch client helper for Qiita.",
+      "html_url": "https://github.com/increments/qiita-elasticsearch",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rosylilly/ruboty-slack_rtm",
+      "description": "Slack(real time api) adapter for ruboty.",
+      "html_url": "https://github.com/rosylilly/ruboty-slack_rtm",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
