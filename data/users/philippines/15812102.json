@@ -1,0 +1,20 @@
+{
+  "login": "1jhock",
+  "id": 15812102,
+  "avatar_url": "https://avatars.githubusercontent.com/u/15812102?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/1jhock",
+  "html_url": "https://github.com/1jhock",
+  "followers_url": "https://api.github.com/users/1jhock/followers",
+  "following_url": "https://api.github.com/users/1jhock/following{/other_user}",
+  "gists_url": "https://api.github.com/users/1jhock/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/1jhock/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/1jhock/subscriptions",
+  "organizations_url": "https://api.github.com/users/1jhock/orgs",
+  "repos_url": "https://api.github.com/users/1jhock/repos",
+  "events_url": "https://api.github.com/users/1jhock/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/1jhock/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
