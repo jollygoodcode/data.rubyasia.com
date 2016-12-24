@@ -1,0 +1,20 @@
+{
+  "login": "sikachu",
+  "id": 4912,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4912?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sikachu",
+  "html_url": "https://github.com/sikachu",
+  "followers_url": "https://api.github.com/users/sikachu/followers",
+  "following_url": "https://api.github.com/users/sikachu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sikachu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sikachu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sikachu/subscriptions",
+  "organizations_url": "https://api.github.com/users/sikachu/orgs",
+  "repos_url": "https://api.github.com/users/sikachu/repos",
+  "events_url": "https://api.github.com/users/sikachu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sikachu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

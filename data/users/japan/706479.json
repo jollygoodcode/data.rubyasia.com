@@ -1,0 +1,20 @@
+{
+  "login": "geminoa",
+  "id": 706479,
+  "avatar_url": "https://avatars.githubusercontent.com/u/706479?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/geminoa",
+  "html_url": "https://github.com/geminoa",
+  "followers_url": "https://api.github.com/users/geminoa/followers",
+  "following_url": "https://api.github.com/users/geminoa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/geminoa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/geminoa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/geminoa/subscriptions",
+  "organizations_url": "https://api.github.com/users/geminoa/orgs",
+  "repos_url": "https://api.github.com/users/geminoa/repos",
+  "events_url": "https://api.github.com/users/geminoa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/geminoa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
