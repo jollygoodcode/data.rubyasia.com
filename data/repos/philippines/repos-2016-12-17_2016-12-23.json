@@ -1,0 +1,22 @@
+{
+  "generated_at": "2016-12-24 08:12:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-17..2016-12-23",
+  "repos": [
+    {
+      "full_name": "kbparagua/paloma",
+      "description": "page-specific javascript for Rails done right",
+      "html_url": "https://github.com/kbparagua/paloma",
+      "stars": 636,
+      "language": "Ruby",
+      "region": "Philippines"
+    },
+    {
+      "full_name": "rstacruz/npm-pipeline-rails",
+      "description": "Use npm as part of your Rails asset pipeline",
+      "html_url": "https://github.com/rstacruz/npm-pipeline-rails",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Philippines"
+    }
+  ]
+}
