@@ -1,0 +1,20 @@
+{
+  "login": "farisazni",
+  "id": 17560784,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17560784?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/farisazni",
+  "html_url": "https://github.com/farisazni",
+  "followers_url": "https://api.github.com/users/farisazni/followers",
+  "following_url": "https://api.github.com/users/farisazni/following{/other_user}",
+  "gists_url": "https://api.github.com/users/farisazni/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/farisazni/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/farisazni/subscriptions",
+  "organizations_url": "https://api.github.com/users/farisazni/orgs",
+  "repos_url": "https://api.github.com/users/farisazni/repos",
+  "events_url": "https://api.github.com/users/farisazni/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/farisazni/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
