@@ -1,0 +1,20 @@
+{
+  "login": "victorhazbun",
+  "id": 1174604,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1174604?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/victorhazbun",
+  "html_url": "https://github.com/victorhazbun",
+  "followers_url": "https://api.github.com/users/victorhazbun/followers",
+  "following_url": "https://api.github.com/users/victorhazbun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/victorhazbun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/victorhazbun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/victorhazbun/subscriptions",
+  "organizations_url": "https://api.github.com/users/victorhazbun/orgs",
+  "repos_url": "https://api.github.com/users/victorhazbun/repos",
+  "events_url": "https://api.github.com/users/victorhazbun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/victorhazbun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
