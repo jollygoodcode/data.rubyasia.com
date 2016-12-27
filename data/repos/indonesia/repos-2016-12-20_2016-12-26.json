@@ -1,0 +1,14 @@
+{
+  "generated_at": "2016-12-27 08:11:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-20..2016-12-26",
+  "repos": [
+    {
+      "full_name": "Paxa/light_record",
+      "description": "ActiveRecord extension to kick the speed of allocating ActiveRecord object",
+      "html_url": "https://github.com/Paxa/light_record",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}
