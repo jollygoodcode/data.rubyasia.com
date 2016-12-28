@@ -1,0 +1,20 @@
+{
+  "login": "kirilyer",
+  "id": 16389302,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16389302?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kirilyer",
+  "html_url": "https://github.com/kirilyer",
+  "followers_url": "https://api.github.com/users/kirilyer/followers",
+  "following_url": "https://api.github.com/users/kirilyer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kirilyer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kirilyer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kirilyer/subscriptions",
+  "organizations_url": "https://api.github.com/users/kirilyer/orgs",
+  "repos_url": "https://api.github.com/users/kirilyer/repos",
+  "events_url": "https://api.github.com/users/kirilyer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kirilyer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

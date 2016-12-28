@@ -1,0 +1,20 @@
+{
+  "login": "giangstrider",
+  "id": 12697164,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12697164?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/giangstrider",
+  "html_url": "https://github.com/giangstrider",
+  "followers_url": "https://api.github.com/users/giangstrider/followers",
+  "following_url": "https://api.github.com/users/giangstrider/following{/other_user}",
+  "gists_url": "https://api.github.com/users/giangstrider/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/giangstrider/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/giangstrider/subscriptions",
+  "organizations_url": "https://api.github.com/users/giangstrider/orgs",
+  "repos_url": "https://api.github.com/users/giangstrider/repos",
+  "events_url": "https://api.github.com/users/giangstrider/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/giangstrider/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

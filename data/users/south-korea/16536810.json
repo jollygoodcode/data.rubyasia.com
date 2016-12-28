@@ -1,0 +1,20 @@
+{
+  "login": "project42da",
+  "id": 16536810,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16536810?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/project42da",
+  "html_url": "https://github.com/project42da",
+  "followers_url": "https://api.github.com/users/project42da/followers",
+  "following_url": "https://api.github.com/users/project42da/following{/other_user}",
+  "gists_url": "https://api.github.com/users/project42da/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/project42da/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/project42da/subscriptions",
+  "organizations_url": "https://api.github.com/users/project42da/orgs",
+  "repos_url": "https://api.github.com/users/project42da/repos",
+  "events_url": "https://api.github.com/users/project42da/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/project42da/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
