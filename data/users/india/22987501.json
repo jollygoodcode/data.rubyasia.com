@@ -1,0 +1,20 @@
+{
+  "login": "brihijoshi",
+  "id": 22987501,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22987501?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brihijoshi",
+  "html_url": "https://github.com/brihijoshi",
+  "followers_url": "https://api.github.com/users/brihijoshi/followers",
+  "following_url": "https://api.github.com/users/brihijoshi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brihijoshi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brihijoshi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brihijoshi/subscriptions",
+  "organizations_url": "https://api.github.com/users/brihijoshi/orgs",
+  "repos_url": "https://api.github.com/users/brihijoshi/repos",
+  "events_url": "https://api.github.com/users/brihijoshi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brihijoshi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yuta-ishi",
+  "id": 23136978,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23136978?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuta-ishi",
+  "html_url": "https://github.com/yuta-ishi",
+  "followers_url": "https://api.github.com/users/yuta-ishi/followers",
+  "following_url": "https://api.github.com/users/yuta-ishi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuta-ishi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuta-ishi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuta-ishi/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuta-ishi/orgs",
+  "repos_url": "https://api.github.com/users/yuta-ishi/repos",
+  "events_url": "https://api.github.com/users/yuta-ishi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuta-ishi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
