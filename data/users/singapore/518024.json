@@ -1,0 +1,20 @@
+{
+  "login": "eidus",
+  "id": 518024,
+  "avatar_url": "https://avatars.githubusercontent.com/u/518024?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eidus",
+  "html_url": "https://github.com/eidus",
+  "followers_url": "https://api.github.com/users/eidus/followers",
+  "following_url": "https://api.github.com/users/eidus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eidus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eidus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eidus/subscriptions",
+  "organizations_url": "https://api.github.com/users/eidus/orgs",
+  "repos_url": "https://api.github.com/users/eidus/repos",
+  "events_url": "https://api.github.com/users/eidus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eidus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

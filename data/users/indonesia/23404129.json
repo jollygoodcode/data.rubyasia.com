@@ -1,0 +1,20 @@
+{
+  "login": "arisksys",
+  "id": 23404129,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23404129?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arisksys",
+  "html_url": "https://github.com/arisksys",
+  "followers_url": "https://api.github.com/users/arisksys/followers",
+  "following_url": "https://api.github.com/users/arisksys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arisksys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arisksys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arisksys/subscriptions",
+  "organizations_url": "https://api.github.com/users/arisksys/orgs",
+  "repos_url": "https://api.github.com/users/arisksys/repos",
+  "events_url": "https://api.github.com/users/arisksys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arisksys/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
