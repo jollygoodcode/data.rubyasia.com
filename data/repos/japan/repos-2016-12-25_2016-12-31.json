@@ -1,0 +1,302 @@
+{
+  "generated_at": "2017-01-01 08:12:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-25..2016-12-31",
+  "repos": [
+    {
+      "full_name": "amatsuda/kaminari",
+      "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+      "html_url": "https://github.com/amatsuda/kaminari",
+      "stars": 6192,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 882,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3 and Rails 4",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 600,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 572,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/traceroute",
+      "description": "A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app",
+      "html_url": "https://github.com/amatsuda/traceroute",
+      "stars": 530,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 515,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 485,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/jb",
+      "description": "A simple and fast JSON API template engine for Ruby on Rails",
+      "html_url": "https://github.com/amatsuda/jb",
+      "stars": 413,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/stateful_enum",
+      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+      "html_url": "https://github.com/amatsuda/stateful_enum",
+      "stars": 286,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/html5_validators",
+      "description": "A gem/plugin for Rails 3 & Rails 4 that enables client-side validation using ActiveModel + HTML5 Form Validation",
+      "html_url": "https://github.com/amatsuda/html5_validators",
+      "stars": 241,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.0 and Vue.js 2.1.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 189,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/erd",
+      "description": "A Rails engine for drawing your app's ER diagram",
+      "html_url": "https://github.com/amatsuda/erd",
+      "stars": 160,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/json-jwt",
+      "description": "JSON Web Token and its family (JSON Web Signature, JSON Web Encryption and JSON Web Key) in Ruby",
+      "html_url": "https://github.com/nov/json-jwt",
+      "stars": 140,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "skoji/gepub",
+      "description": "a generic EPUB library for Ruby : supports EPUB 3 ",
+      "html_url": "https://github.com/skoji/gepub",
+      "stars": 139,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/motorhead",
+      "description": "A Rails Engine framework that helps safe and rapid feature prototyping",
+      "html_url": "https://github.com/amatsuda/motorhead",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 133,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/nested_scaffold",
+      "description": "Nested scaffold generator for Rails 4.2 and 5",
+      "html_url": "https://github.com/amatsuda/nested_scaffold",
+      "stars": 113,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/rack-user_agent",
+      "description": "Rack::Request extension for handling User-Agent",
+      "html_url": "https://github.com/k0kubun/rack-user_agent",
+      "stars": 109,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/kawaii_validation",
+      "description": "An ActiveRecord extension that adds more kawaii validation syntax",
+      "html_url": "https://github.com/amatsuda/kawaii_validation",
+      "stars": 108,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/tapp",
+      "description": "tap { pp self }",
+      "html_url": "https://github.com/esminc/tapp",
+      "stars": 103,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 89,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/rspec-request_describer",
+      "description": "Force some rules to write self-documenting request spec.",
+      "html_url": "https://github.com/r7kamura/rspec-request_describer",
+      "stars": 79,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "KitaitiMakoto/epub-parser",
+      "description": "EPUB Parser.",
+      "html_url": "https://github.com/KitaitiMakoto/epub-parser",
+      "stars": 77,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 69,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tricknotes/starseeker",
+      "description": "Seek your following's stars!",
+      "html_url": "https://github.com/tricknotes/starseeker",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/mitamae",
+      "description": "Configuration management tool embedding mruby, which is alternative implementation of Itamae",
+      "html_url": "https://github.com/k0kubun/mitamae",
+      "stars": 65,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/itamae-secrets",
+      "description": "Encrypted Data Bag for Itamae",
+      "html_url": "https://github.com/sorah/itamae-secrets",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdtds/kindlegen",
+      "description": "Installing kindlegen command via gem",
+      "html_url": "https://github.com/tdtds/kindlegen",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masa16/pwrake",
+      "description": "Parallel Workflow extension for Rake, runs on multicores, clusters, clouds.",
+      "html_url": "https://github.com/masa16/pwrake",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sugi/mozshot",
+      "description": "screenshot service with mozilla",
+      "html_url": "https://github.com/sugi/mozshot",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "repeatedly/fluent-plugin-netflow",
+      "description": "Netflow plugin for Fluentd",
+      "html_url": "https://github.com/repeatedly/fluent-plugin-netflow",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/kawaii_email_address",
+      "description": "Extraction of validate logic from `validates_email_format_of` to support docomo addresses",
+      "html_url": "https://github.com/esminc/kawaii_email_address",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

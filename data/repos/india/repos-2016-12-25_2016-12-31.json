@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-01-01 08:11:27 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2016-12-25..2016-12-31",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1081,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
