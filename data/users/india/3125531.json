@@ -1,0 +1,20 @@
+{
+  "login": "nsprams",
+  "id": 3125531,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3125531?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nsprams",
+  "html_url": "https://github.com/nsprams",
+  "followers_url": "https://api.github.com/users/nsprams/followers",
+  "following_url": "https://api.github.com/users/nsprams/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nsprams/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nsprams/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nsprams/subscriptions",
+  "organizations_url": "https://api.github.com/users/nsprams/orgs",
+  "repos_url": "https://api.github.com/users/nsprams/repos",
+  "events_url": "https://api.github.com/users/nsprams/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nsprams/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
