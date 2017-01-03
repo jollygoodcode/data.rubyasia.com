@@ -1,0 +1,20 @@
+{
+  "login": "emilsoman",
+  "id": 1707078,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1707078?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emilsoman",
+  "html_url": "https://github.com/emilsoman",
+  "followers_url": "https://api.github.com/users/emilsoman/followers",
+  "following_url": "https://api.github.com/users/emilsoman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emilsoman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emilsoman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emilsoman/subscriptions",
+  "organizations_url": "https://api.github.com/users/emilsoman/orgs",
+  "repos_url": "https://api.github.com/users/emilsoman/repos",
+  "events_url": "https://api.github.com/users/emilsoman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emilsoman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
