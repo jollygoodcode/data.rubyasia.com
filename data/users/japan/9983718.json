@@ -1,0 +1,20 @@
+{
+  "login": "tatsuosasaki",
+  "id": 9983718,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9983718?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tatsuosasaki",
+  "html_url": "https://github.com/tatsuosasaki",
+  "followers_url": "https://api.github.com/users/tatsuosasaki/followers",
+  "following_url": "https://api.github.com/users/tatsuosasaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tatsuosasaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tatsuosasaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tatsuosasaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/tatsuosasaki/orgs",
+  "repos_url": "https://api.github.com/users/tatsuosasaki/repos",
+  "events_url": "https://api.github.com/users/tatsuosasaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tatsuosasaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

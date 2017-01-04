@@ -1,0 +1,20 @@
+{
+  "login": "KobacDice",
+  "id": 10118823,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10118823?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KobacDice",
+  "html_url": "https://github.com/KobacDice",
+  "followers_url": "https://api.github.com/users/KobacDice/followers",
+  "following_url": "https://api.github.com/users/KobacDice/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KobacDice/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KobacDice/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KobacDice/subscriptions",
+  "organizations_url": "https://api.github.com/users/KobacDice/orgs",
+  "repos_url": "https://api.github.com/users/KobacDice/repos",
+  "events_url": "https://api.github.com/users/KobacDice/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KobacDice/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
