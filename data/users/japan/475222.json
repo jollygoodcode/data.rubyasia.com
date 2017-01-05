@@ -1,0 +1,20 @@
+{
+  "login": "narachannel",
+  "id": 475222,
+  "avatar_url": "https://avatars.githubusercontent.com/u/475222?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/narachannel",
+  "html_url": "https://github.com/narachannel",
+  "followers_url": "https://api.github.com/users/narachannel/followers",
+  "following_url": "https://api.github.com/users/narachannel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/narachannel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/narachannel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/narachannel/subscriptions",
+  "organizations_url": "https://api.github.com/users/narachannel/orgs",
+  "repos_url": "https://api.github.com/users/narachannel/repos",
+  "events_url": "https://api.github.com/users/narachannel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/narachannel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

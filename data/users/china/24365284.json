@@ -1,0 +1,20 @@
+{
+  "login": "martinnett",
+  "id": 24365284,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24365284?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/martinnett",
+  "html_url": "https://github.com/martinnett",
+  "followers_url": "https://api.github.com/users/martinnett/followers",
+  "following_url": "https://api.github.com/users/martinnett/following{/other_user}",
+  "gists_url": "https://api.github.com/users/martinnett/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/martinnett/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/martinnett/subscriptions",
+  "organizations_url": "https://api.github.com/users/martinnett/orgs",
+  "repos_url": "https://api.github.com/users/martinnett/repos",
+  "events_url": "https://api.github.com/users/martinnett/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/martinnett/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
