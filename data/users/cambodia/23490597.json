@@ -1,0 +1,20 @@
+{
+  "login": "borrom-dev",
+  "id": 23490597,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23490597?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/borrom-dev",
+  "html_url": "https://github.com/borrom-dev",
+  "followers_url": "https://api.github.com/users/borrom-dev/followers",
+  "following_url": "https://api.github.com/users/borrom-dev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/borrom-dev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/borrom-dev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/borrom-dev/subscriptions",
+  "organizations_url": "https://api.github.com/users/borrom-dev/orgs",
+  "repos_url": "https://api.github.com/users/borrom-dev/repos",
+  "events_url": "https://api.github.com/users/borrom-dev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/borrom-dev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

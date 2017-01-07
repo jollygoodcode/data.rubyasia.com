@@ -1,0 +1,20 @@
+{
+  "login": "vichar",
+  "id": 4270742,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4270742?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vichar",
+  "html_url": "https://github.com/vichar",
+  "followers_url": "https://api.github.com/users/vichar/followers",
+  "following_url": "https://api.github.com/users/vichar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vichar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vichar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vichar/subscriptions",
+  "organizations_url": "https://api.github.com/users/vichar/orgs",
+  "repos_url": "https://api.github.com/users/vichar/repos",
+  "events_url": "https://api.github.com/users/vichar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vichar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
