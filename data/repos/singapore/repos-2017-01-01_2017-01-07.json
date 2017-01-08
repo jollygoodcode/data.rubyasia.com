@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-01-08 08:12:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-01..2017-01-07",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2295,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "basvodde/osaka",
+      "description": "Apple Application automation library using applescript (osascript)",
+      "html_url": "https://github.com/basvodde/osaka",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
