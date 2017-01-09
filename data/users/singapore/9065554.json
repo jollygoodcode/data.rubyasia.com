@@ -1,0 +1,20 @@
+{
+  "login": "brenkoh",
+  "id": 9065554,
+  "avatar_url": "https://avatars.githubusercontent.com/u/9065554?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brenkoh",
+  "html_url": "https://github.com/brenkoh",
+  "followers_url": "https://api.github.com/users/brenkoh/followers",
+  "following_url": "https://api.github.com/users/brenkoh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brenkoh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brenkoh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brenkoh/subscriptions",
+  "organizations_url": "https://api.github.com/users/brenkoh/orgs",
+  "repos_url": "https://api.github.com/users/brenkoh/repos",
+  "events_url": "https://api.github.com/users/brenkoh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brenkoh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Yarosh",
+  "id": 24989524,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24989524?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Yarosh",
+  "html_url": "https://github.com/Yarosh",
+  "followers_url": "https://api.github.com/users/Yarosh/followers",
+  "following_url": "https://api.github.com/users/Yarosh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Yarosh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Yarosh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Yarosh/subscriptions",
+  "organizations_url": "https://api.github.com/users/Yarosh/orgs",
+  "repos_url": "https://api.github.com/users/Yarosh/repos",
+  "events_url": "https://api.github.com/users/Yarosh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Yarosh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

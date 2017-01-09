@@ -1,0 +1,20 @@
+{
+  "login": "ginhton",
+  "id": 17196141,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17196141?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ginhton",
+  "html_url": "https://github.com/ginhton",
+  "followers_url": "https://api.github.com/users/ginhton/followers",
+  "following_url": "https://api.github.com/users/ginhton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ginhton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ginhton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ginhton/subscriptions",
+  "organizations_url": "https://api.github.com/users/ginhton/orgs",
+  "repos_url": "https://api.github.com/users/ginhton/repos",
+  "events_url": "https://api.github.com/users/ginhton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ginhton/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Dragsbaek",
+  "id": 3027841,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3027841?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Dragsbaek",
+  "html_url": "https://github.com/Dragsbaek",
+  "followers_url": "https://api.github.com/users/Dragsbaek/followers",
+  "following_url": "https://api.github.com/users/Dragsbaek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Dragsbaek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Dragsbaek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Dragsbaek/subscriptions",
+  "organizations_url": "https://api.github.com/users/Dragsbaek/orgs",
+  "repos_url": "https://api.github.com/users/Dragsbaek/repos",
+  "events_url": "https://api.github.com/users/Dragsbaek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Dragsbaek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
