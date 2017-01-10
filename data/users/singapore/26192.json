@@ -1,0 +1,20 @@
+{
+  "login": "mlambie",
+  "id": 26192,
+  "avatar_url": "https://avatars.githubusercontent.com/u/26192?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mlambie",
+  "html_url": "https://github.com/mlambie",
+  "followers_url": "https://api.github.com/users/mlambie/followers",
+  "following_url": "https://api.github.com/users/mlambie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mlambie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mlambie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mlambie/subscriptions",
+  "organizations_url": "https://api.github.com/users/mlambie/orgs",
+  "repos_url": "https://api.github.com/users/mlambie/repos",
+  "events_url": "https://api.github.com/users/mlambie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mlambie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

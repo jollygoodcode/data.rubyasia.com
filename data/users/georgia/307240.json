@@ -1,0 +1,20 @@
+{
+  "login": "willstepp",
+  "id": 307240,
+  "avatar_url": "https://avatars.githubusercontent.com/u/307240?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/willstepp",
+  "html_url": "https://github.com/willstepp",
+  "followers_url": "https://api.github.com/users/willstepp/followers",
+  "following_url": "https://api.github.com/users/willstepp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/willstepp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/willstepp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/willstepp/subscriptions",
+  "organizations_url": "https://api.github.com/users/willstepp/orgs",
+  "repos_url": "https://api.github.com/users/willstepp/repos",
+  "events_url": "https://api.github.com/users/willstepp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/willstepp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
