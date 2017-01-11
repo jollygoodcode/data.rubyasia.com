@@ -1,0 +1,20 @@
+{
+  "login": "linh1987",
+  "id": 428321,
+  "avatar_url": "https://avatars.githubusercontent.com/u/428321?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/linh1987",
+  "html_url": "https://github.com/linh1987",
+  "followers_url": "https://api.github.com/users/linh1987/followers",
+  "following_url": "https://api.github.com/users/linh1987/following{/other_user}",
+  "gists_url": "https://api.github.com/users/linh1987/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/linh1987/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/linh1987/subscriptions",
+  "organizations_url": "https://api.github.com/users/linh1987/orgs",
+  "repos_url": "https://api.github.com/users/linh1987/repos",
+  "events_url": "https://api.github.com/users/linh1987/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/linh1987/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
