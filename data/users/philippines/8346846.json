@@ -1,0 +1,20 @@
+{
+  "login": "Gotchit",
+  "id": 8346846,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8346846?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Gotchit",
+  "html_url": "https://github.com/Gotchit",
+  "followers_url": "https://api.github.com/users/Gotchit/followers",
+  "following_url": "https://api.github.com/users/Gotchit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Gotchit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Gotchit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Gotchit/subscriptions",
+  "organizations_url": "https://api.github.com/users/Gotchit/orgs",
+  "repos_url": "https://api.github.com/users/Gotchit/repos",
+  "events_url": "https://api.github.com/users/Gotchit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Gotchit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
