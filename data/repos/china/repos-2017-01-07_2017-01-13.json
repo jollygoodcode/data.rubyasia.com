@@ -1,0 +1,70 @@
+{
+  "generated_at": "2017-01-14 08:04:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-07..2017-01-13",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 832,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/redis-search",
+      "description": "Deprecated! High performance real-time prefix search, indexes store in Redis for Rails application",
+      "html_url": "https://github.com/huacnlee/redis-search",
+      "stars": 692,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 587,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "saberma/china_sms",
+      "description": "中国各个短信平台 Ruby 接口，现支持云片网、推立方、亿美软通、短信宝、畅友网络",
+      "html_url": "https://github.com/saberma/china_sms",
+      "stars": 405,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/rucaptcha",
+      "description": "This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.",
+      "html_url": "https://github.com/huacnlee/rucaptcha",
+      "stars": 353,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4 and 5.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 211,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "pmq20/node-compiler",
+      "description": "Compiler for Node.js which compiles your Node.js application into a single executable.",
+      "html_url": "https://github.com/pmq20/node-compiler",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-01-14 08:04:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-07..2017-01-13",
+  "repos": [
+    {
+      "full_name": "arunagw/omniauth-twitter",
+      "description": "OmniAuth strategy for Twitter",
+      "html_url": "https://github.com/arunagw/omniauth-twitter",
+      "stars": 466,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

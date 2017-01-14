@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-01-14 08:04:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-07..2017-01-13",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 9556,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yonbergman/orly",
+      "description": "A small utility that notifies you when you need to run bundle install or db:migrate",
+      "html_url": "https://github.com/yonbergman/orly",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
