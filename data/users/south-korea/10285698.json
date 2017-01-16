@@ -1,0 +1,20 @@
+{
+  "login": "susuaung",
+  "id": 10285698,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10285698?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/susuaung",
+  "html_url": "https://github.com/susuaung",
+  "followers_url": "https://api.github.com/users/susuaung/followers",
+  "following_url": "https://api.github.com/users/susuaung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/susuaung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/susuaung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/susuaung/subscriptions",
+  "organizations_url": "https://api.github.com/users/susuaung/orgs",
+  "repos_url": "https://api.github.com/users/susuaung/repos",
+  "events_url": "https://api.github.com/users/susuaung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/susuaung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

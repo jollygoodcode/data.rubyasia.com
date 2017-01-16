@@ -1,0 +1,20 @@
+{
+  "login": "ryskito",
+  "id": 14936375,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14936375?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryskito",
+  "html_url": "https://github.com/ryskito",
+  "followers_url": "https://api.github.com/users/ryskito/followers",
+  "following_url": "https://api.github.com/users/ryskito/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryskito/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryskito/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryskito/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryskito/orgs",
+  "repos_url": "https://api.github.com/users/ryskito/repos",
+  "events_url": "https://api.github.com/users/ryskito/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryskito/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

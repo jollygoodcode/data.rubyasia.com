@@ -1,0 +1,20 @@
+{
+  "login": "miller-lover",
+  "id": 8768137,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8768137?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miller-lover",
+  "html_url": "https://github.com/miller-lover",
+  "followers_url": "https://api.github.com/users/miller-lover/followers",
+  "following_url": "https://api.github.com/users/miller-lover/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miller-lover/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miller-lover/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miller-lover/subscriptions",
+  "organizations_url": "https://api.github.com/users/miller-lover/orgs",
+  "repos_url": "https://api.github.com/users/miller-lover/repos",
+  "events_url": "https://api.github.com/users/miller-lover/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miller-lover/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

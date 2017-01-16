@@ -1,0 +1,20 @@
+{
+  "login": "nathantokyo",
+  "id": 8251190,
+  "avatar_url": "https://avatars.githubusercontent.com/u/8251190?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nathantokyo",
+  "html_url": "https://github.com/nathantokyo",
+  "followers_url": "https://api.github.com/users/nathantokyo/followers",
+  "following_url": "https://api.github.com/users/nathantokyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nathantokyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nathantokyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nathantokyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/nathantokyo/orgs",
+  "repos_url": "https://api.github.com/users/nathantokyo/repos",
+  "events_url": "https://api.github.com/users/nathantokyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nathantokyo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

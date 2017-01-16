@@ -1,0 +1,20 @@
+{
+  "login": "sugiki",
+  "id": 733331,
+  "avatar_url": "https://avatars.githubusercontent.com/u/733331?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sugiki",
+  "html_url": "https://github.com/sugiki",
+  "followers_url": "https://api.github.com/users/sugiki/followers",
+  "following_url": "https://api.github.com/users/sugiki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sugiki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sugiki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sugiki/subscriptions",
+  "organizations_url": "https://api.github.com/users/sugiki/orgs",
+  "repos_url": "https://api.github.com/users/sugiki/repos",
+  "events_url": "https://api.github.com/users/sugiki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sugiki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
