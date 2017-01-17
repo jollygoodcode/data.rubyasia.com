@@ -1,0 +1,20 @@
+{
+  "login": "makiton",
+  "id": 201885,
+  "avatar_url": "https://avatars.githubusercontent.com/u/201885?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/makiton",
+  "html_url": "https://github.com/makiton",
+  "followers_url": "https://api.github.com/users/makiton/followers",
+  "following_url": "https://api.github.com/users/makiton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/makiton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/makiton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/makiton/subscriptions",
+  "organizations_url": "https://api.github.com/users/makiton/orgs",
+  "repos_url": "https://api.github.com/users/makiton/repos",
+  "events_url": "https://api.github.com/users/makiton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/makiton/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
