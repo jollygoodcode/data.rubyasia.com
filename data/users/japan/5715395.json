@@ -1,0 +1,20 @@
+{
+  "login": "motorkey",
+  "id": 5715395,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5715395?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/motorkey",
+  "html_url": "https://github.com/motorkey",
+  "followers_url": "https://api.github.com/users/motorkey/followers",
+  "following_url": "https://api.github.com/users/motorkey/following{/other_user}",
+  "gists_url": "https://api.github.com/users/motorkey/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/motorkey/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/motorkey/subscriptions",
+  "organizations_url": "https://api.github.com/users/motorkey/orgs",
+  "repos_url": "https://api.github.com/users/motorkey/repos",
+  "events_url": "https://api.github.com/users/motorkey/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/motorkey/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
