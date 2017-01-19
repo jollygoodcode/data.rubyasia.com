@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-01-19 08:13:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-12..2017-01-18",
+  "repos": [
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
