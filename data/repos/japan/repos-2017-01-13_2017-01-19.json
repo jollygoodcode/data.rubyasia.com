@@ -1,0 +1,310 @@
+{
+  "generated_at": "2017-01-20 08:04:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-13..2017-01-19",
+  "repos": [
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1741,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 908,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3, 4 and 5",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 602,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 560,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/traceroute",
+      "description": "A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app",
+      "html_url": "https://github.com/amatsuda/traceroute",
+      "stars": 532,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 516,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 488,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/garage",
+      "description": "Rails extension for RESTful Hypermedia API",
+      "html_url": "https://github.com/cookpad/garage",
+      "stars": 433,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/infrataster",
+      "description": "Infrastructure Behavior Testing Framework",
+      "html_url": "https://github.com/ryotarai/infrataster",
+      "stars": 265,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 231,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The social platform for anime addicts built with Rails 5.0 and Vue.js 2.1.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 197,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/openid_connect",
+      "description": "OpenID Connect Server & Client Library",
+      "html_url": "https://github.com/nov/openid_connect",
+      "stars": 191,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/ec2ssh",
+      "description": "A ssh_config manager for AWS EC2",
+      "html_url": "https://github.com/mirakui/ec2ssh",
+      "stars": 181,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_segmenter",
+      "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.",
+      "html_url": "https://github.com/diasks2/pragmatic_segmenter",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/json-jwt",
+      "description": "JSON Web Token and its family (JSON Web Signature, JSON Web Encryption and JSON Web Key) in Ruby",
+      "html_url": "https://github.com/nov/json-jwt",
+      "stars": 143,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 127,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 120,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/dokumi",
+      "description": "Automatically check if anything is wrong with the code in a pull request",
+      "html_url": "https://github.com/cookpad/dokumi",
+      "stars": 110,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "higanworks/knife-zero",
+      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
+      "html_url": "https://github.com/higanworks/knife-zero",
+      "stars": 110,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kei-s/github-preview",
+      "description": "Instant Preview for GitHub's README formats",
+      "html_url": "https://github.com/kei-s/github-preview",
+      "stars": 101,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 89,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "chocoby/jp_prefecture",
+      "description": "Convert japan prefecture code(JIS X 0402 based) into prefecture name.",
+      "html_url": "https://github.com/chocoby/jp_prefecture",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tricknotes/starseeker",
+      "description": "Seek your following's stars!",
+      "html_url": "https://github.com/tricknotes/starseeker",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "everyleaf/kozuchi",
+      "description": "Home accounting web application which focused on linkages to other people (family, etc).",
+      "html_url": "https://github.com/everyleaf/kozuchi",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/rack-health",
+      "description": null,
+      "html_url": "https://github.com/mirakui/rack-health",
+      "stars": 55,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/presentations",
+      "description": "The presentations of Cookpad staffs",
+      "html_url": "https://github.com/cookpad/presentations",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tyabe/kpt-it",
+      "description": "KPTによるふりかえりをリアルタイムで共有するアプリケーション",
+      "html_url": "https://github.com/tyabe/kpt-it",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "u-ichi/fluent-plugin-mail",
+      "description": "Fluentd output plugin to send mail",
+      "html_url": "https://github.com/u-ichi/fluent-plugin-mail",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "gongo/turnip_formatter",
+      "description": "A pretty formatter for Turnip",
+      "html_url": "https://github.com/gongo/turnip_formatter",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-mysql-replicator",
+      "description": "Fluentd input plugin to track insert/update/delete event from MySQL databases.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-mysql-replicator",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": null,
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ixixi/fluent-plugin-sqs",
+      "description": "Store fluent-event as queue message to Amazon SQS.",
+      "html_url": "https://github.com/ixixi/fluent-plugin-sqs",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinsaka/fluent-plugin-elb-log",
+      "description": "Amazon ELB log input plugin",
+      "html_url": "https://github.com/shinsaka/fluent-plugin-elb-log",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
