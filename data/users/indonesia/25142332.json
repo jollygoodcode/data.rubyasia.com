@@ -1,0 +1,20 @@
+{
+  "login": "ConfigBoy",
+  "id": 25142332,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25142332?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ConfigBoy",
+  "html_url": "https://github.com/ConfigBoy",
+  "followers_url": "https://api.github.com/users/ConfigBoy/followers",
+  "following_url": "https://api.github.com/users/ConfigBoy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ConfigBoy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ConfigBoy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ConfigBoy/subscriptions",
+  "organizations_url": "https://api.github.com/users/ConfigBoy/orgs",
+  "repos_url": "https://api.github.com/users/ConfigBoy/repos",
+  "events_url": "https://api.github.com/users/ConfigBoy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ConfigBoy/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

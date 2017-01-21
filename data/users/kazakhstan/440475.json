@@ -1,0 +1,20 @@
+{
+  "login": "vovainside",
+  "id": 440475,
+  "avatar_url": "https://avatars.githubusercontent.com/u/440475?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vovainside",
+  "html_url": "https://github.com/vovainside",
+  "followers_url": "https://api.github.com/users/vovainside/followers",
+  "following_url": "https://api.github.com/users/vovainside/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vovainside/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vovainside/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vovainside/subscriptions",
+  "organizations_url": "https://api.github.com/users/vovainside/orgs",
+  "repos_url": "https://api.github.com/users/vovainside/repos",
+  "events_url": "https://api.github.com/users/vovainside/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vovainside/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

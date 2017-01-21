@@ -1,0 +1,20 @@
+{
+  "login": "kekemonster",
+  "id": 6210757,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6210757?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kekemonster",
+  "html_url": "https://github.com/kekemonster",
+  "followers_url": "https://api.github.com/users/kekemonster/followers",
+  "following_url": "https://api.github.com/users/kekemonster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kekemonster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kekemonster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kekemonster/subscriptions",
+  "organizations_url": "https://api.github.com/users/kekemonster/orgs",
+  "repos_url": "https://api.github.com/users/kekemonster/repos",
+  "events_url": "https://api.github.com/users/kekemonster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kekemonster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
