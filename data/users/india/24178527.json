@@ -1,0 +1,20 @@
+{
+  "login": "uv-programmer",
+  "id": 24178527,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24178527?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uv-programmer",
+  "html_url": "https://github.com/uv-programmer",
+  "followers_url": "https://api.github.com/users/uv-programmer/followers",
+  "following_url": "https://api.github.com/users/uv-programmer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uv-programmer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uv-programmer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uv-programmer/subscriptions",
+  "organizations_url": "https://api.github.com/users/uv-programmer/orgs",
+  "repos_url": "https://api.github.com/users/uv-programmer/repos",
+  "events_url": "https://api.github.com/users/uv-programmer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uv-programmer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

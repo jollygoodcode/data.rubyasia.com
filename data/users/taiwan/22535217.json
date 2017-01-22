@@ -1,0 +1,20 @@
+{
+  "login": "gigogithub",
+  "id": 22535217,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22535217?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gigogithub",
+  "html_url": "https://github.com/gigogithub",
+  "followers_url": "https://api.github.com/users/gigogithub/followers",
+  "following_url": "https://api.github.com/users/gigogithub/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gigogithub/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gigogithub/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gigogithub/subscriptions",
+  "organizations_url": "https://api.github.com/users/gigogithub/orgs",
+  "repos_url": "https://api.github.com/users/gigogithub/repos",
+  "events_url": "https://api.github.com/users/gigogithub/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gigogithub/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
