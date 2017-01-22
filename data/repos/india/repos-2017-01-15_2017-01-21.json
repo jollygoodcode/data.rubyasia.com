@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-01-22 08:11:15 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-15..2017-01-21",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1091,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "girishso/pluck_to_hash",
+      "description": "Extend ActiveRecord pluck to return array of hashes",
+      "html_url": "https://github.com/girishso/pluck_to_hash",
+      "stars": 181,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "rajdeepv/parallel_calabash",
+      "description": "Helps running calabash ios/android tests in parallel",
+      "html_url": "https://github.com/rajdeepv/parallel_calabash",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sadiqmmm/clipboard-rails",
+      "description": "clipboard.js javascript library integration for your Rails 4 and Rails 5 applications",
+      "html_url": "https://github.com/sadiqmmm/clipboard-rails",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
