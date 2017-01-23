@@ -1,0 +1,20 @@
+{
+  "login": "salman-akram",
+  "id": 25172889,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25172889?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/salman-akram",
+  "html_url": "https://github.com/salman-akram",
+  "followers_url": "https://api.github.com/users/salman-akram/followers",
+  "following_url": "https://api.github.com/users/salman-akram/following{/other_user}",
+  "gists_url": "https://api.github.com/users/salman-akram/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/salman-akram/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/salman-akram/subscriptions",
+  "organizations_url": "https://api.github.com/users/salman-akram/orgs",
+  "repos_url": "https://api.github.com/users/salman-akram/repos",
+  "events_url": "https://api.github.com/users/salman-akram/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/salman-akram/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

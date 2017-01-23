@@ -1,0 +1,20 @@
+{
+  "login": "chinaSongJian",
+  "id": 23357275,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23357275?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chinaSongJian",
+  "html_url": "https://github.com/chinaSongJian",
+  "followers_url": "https://api.github.com/users/chinaSongJian/followers",
+  "following_url": "https://api.github.com/users/chinaSongJian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chinaSongJian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chinaSongJian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chinaSongJian/subscriptions",
+  "organizations_url": "https://api.github.com/users/chinaSongJian/orgs",
+  "repos_url": "https://api.github.com/users/chinaSongJian/repos",
+  "events_url": "https://api.github.com/users/chinaSongJian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chinaSongJian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
