@@ -1,0 +1,20 @@
+{
+  "login": "lpif",
+  "id": 11905512,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11905512?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lpif",
+  "html_url": "https://github.com/lpif",
+  "followers_url": "https://api.github.com/users/lpif/followers",
+  "following_url": "https://api.github.com/users/lpif/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lpif/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lpif/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lpif/subscriptions",
+  "organizations_url": "https://api.github.com/users/lpif/orgs",
+  "repos_url": "https://api.github.com/users/lpif/repos",
+  "events_url": "https://api.github.com/users/lpif/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lpif/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
