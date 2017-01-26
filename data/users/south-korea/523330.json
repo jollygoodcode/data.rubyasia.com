@@ -1,0 +1,20 @@
+{
+  "login": "toadkicker",
+  "id": 523330,
+  "avatar_url": "https://avatars.githubusercontent.com/u/523330?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toadkicker",
+  "html_url": "https://github.com/toadkicker",
+  "followers_url": "https://api.github.com/users/toadkicker/followers",
+  "following_url": "https://api.github.com/users/toadkicker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toadkicker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toadkicker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toadkicker/subscriptions",
+  "organizations_url": "https://api.github.com/users/toadkicker/orgs",
+  "repos_url": "https://api.github.com/users/toadkicker/repos",
+  "events_url": "https://api.github.com/users/toadkicker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toadkicker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "hnawa",
+  "id": 1722604,
+  "avatar_url": "https://avatars.githubusercontent.com/u/1722604?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hnawa",
+  "html_url": "https://github.com/hnawa",
+  "followers_url": "https://api.github.com/users/hnawa/followers",
+  "following_url": "https://api.github.com/users/hnawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hnawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hnawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hnawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/hnawa/orgs",
+  "repos_url": "https://api.github.com/users/hnawa/repos",
+  "events_url": "https://api.github.com/users/hnawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hnawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

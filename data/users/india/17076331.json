@@ -1,0 +1,20 @@
+{
+  "login": "bittukr",
+  "id": 17076331,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17076331?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bittukr",
+  "html_url": "https://github.com/bittukr",
+  "followers_url": "https://api.github.com/users/bittukr/followers",
+  "following_url": "https://api.github.com/users/bittukr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bittukr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bittukr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bittukr/subscriptions",
+  "organizations_url": "https://api.github.com/users/bittukr/orgs",
+  "repos_url": "https://api.github.com/users/bittukr/repos",
+  "events_url": "https://api.github.com/users/bittukr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bittukr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
