@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-01-26 08:13:09 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-19..2017-01-25",
+  "repos": [
+    {
+      "full_name": "SammyLin/redactor-rails",
+      "description": "This repo is deprecated. Please check out official gem for Redactor 2. https://github.com/Redactor2/redactor2_rails",
+      "html_url": "https://github.com/SammyLin/redactor-rails",
+      "stars": 412,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tsechingho/ckeditor-rails",
+      "description": "Integrate CKEditor javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/ckeditor-rails",
+      "stars": 198,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
