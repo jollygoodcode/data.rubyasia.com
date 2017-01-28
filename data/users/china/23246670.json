@@ -1,0 +1,20 @@
+{
+  "login": "aihehuo",
+  "id": 23246670,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23246670?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aihehuo",
+  "html_url": "https://github.com/aihehuo",
+  "followers_url": "https://api.github.com/users/aihehuo/followers",
+  "following_url": "https://api.github.com/users/aihehuo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aihehuo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aihehuo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aihehuo/subscriptions",
+  "organizations_url": "https://api.github.com/users/aihehuo/orgs",
+  "repos_url": "https://api.github.com/users/aihehuo/repos",
+  "events_url": "https://api.github.com/users/aihehuo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aihehuo/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
