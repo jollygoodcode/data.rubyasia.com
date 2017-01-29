@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-01-29 08:11:10 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-22..2017-01-28",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 92,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 55,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
