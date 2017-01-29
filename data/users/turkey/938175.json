@@ -1,0 +1,20 @@
+{
+  "login": "pagem",
+  "id": 938175,
+  "avatar_url": "https://avatars.githubusercontent.com/u/938175?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pagem",
+  "html_url": "https://github.com/pagem",
+  "followers_url": "https://api.github.com/users/pagem/followers",
+  "following_url": "https://api.github.com/users/pagem/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pagem/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pagem/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pagem/subscriptions",
+  "organizations_url": "https://api.github.com/users/pagem/orgs",
+  "repos_url": "https://api.github.com/users/pagem/repos",
+  "events_url": "https://api.github.com/users/pagem/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pagem/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

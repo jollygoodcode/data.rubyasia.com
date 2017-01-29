@@ -1,0 +1,20 @@
+{
+  "login": "humangas",
+  "id": 4192528,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4192528?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/humangas",
+  "html_url": "https://github.com/humangas",
+  "followers_url": "https://api.github.com/users/humangas/followers",
+  "following_url": "https://api.github.com/users/humangas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/humangas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/humangas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/humangas/subscriptions",
+  "organizations_url": "https://api.github.com/users/humangas/orgs",
+  "repos_url": "https://api.github.com/users/humangas/repos",
+  "events_url": "https://api.github.com/users/humangas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/humangas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

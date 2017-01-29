@@ -1,0 +1,20 @@
+{
+  "login": "nicholaschenofficial",
+  "id": 6445377,
+  "avatar_url": "https://avatars.githubusercontent.com/u/6445377?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nicholaschenofficial",
+  "html_url": "https://github.com/nicholaschenofficial",
+  "followers_url": "https://api.github.com/users/nicholaschenofficial/followers",
+  "following_url": "https://api.github.com/users/nicholaschenofficial/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nicholaschenofficial/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nicholaschenofficial/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nicholaschenofficial/subscriptions",
+  "organizations_url": "https://api.github.com/users/nicholaschenofficial/orgs",
+  "repos_url": "https://api.github.com/users/nicholaschenofficial/repos",
+  "events_url": "https://api.github.com/users/nicholaschenofficial/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nicholaschenofficial/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
