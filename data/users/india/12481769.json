@@ -1,0 +1,20 @@
+{
+  "login": "AndyMental",
+  "id": 12481769,
+  "avatar_url": "https://avatars.githubusercontent.com/u/12481769?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/AndyMental",
+  "html_url": "https://github.com/AndyMental",
+  "followers_url": "https://api.github.com/users/AndyMental/followers",
+  "following_url": "https://api.github.com/users/AndyMental/following{/other_user}",
+  "gists_url": "https://api.github.com/users/AndyMental/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/AndyMental/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/AndyMental/subscriptions",
+  "organizations_url": "https://api.github.com/users/AndyMental/orgs",
+  "repos_url": "https://api.github.com/users/AndyMental/repos",
+  "events_url": "https://api.github.com/users/AndyMental/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/AndyMental/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
