@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-01-31 08:11:16 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-24..2017-01-30",
+  "repos": [
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1386,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/heroku-deflater",
+      "description": "Enable gzip compression on heroku, but don't compress images.",
+      "html_url": "https://github.com/romanbsd/heroku-deflater",
+      "stars": 251,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yonbergman/orly",
+      "description": "A small utility that notifies you when you need to run bundle install or db:migrate",
+      "html_url": "https://github.com/yonbergman/orly",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
