@@ -1,0 +1,20 @@
+{
+  "login": "Yonben",
+  "id": 7793347,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7793347?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Yonben",
+  "html_url": "https://github.com/Yonben",
+  "followers_url": "https://api.github.com/users/Yonben/followers",
+  "following_url": "https://api.github.com/users/Yonben/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Yonben/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Yonben/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Yonben/subscriptions",
+  "organizations_url": "https://api.github.com/users/Yonben/orgs",
+  "repos_url": "https://api.github.com/users/Yonben/repos",
+  "events_url": "https://api.github.com/users/Yonben/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Yonben/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
