@@ -1,0 +1,20 @@
+{
+  "login": "seanryanchan",
+  "id": 19945626,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19945626?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seanryanchan",
+  "html_url": "https://github.com/seanryanchan",
+  "followers_url": "https://api.github.com/users/seanryanchan/followers",
+  "following_url": "https://api.github.com/users/seanryanchan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seanryanchan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seanryanchan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seanryanchan/subscriptions",
+  "organizations_url": "https://api.github.com/users/seanryanchan/orgs",
+  "repos_url": "https://api.github.com/users/seanryanchan/repos",
+  "events_url": "https://api.github.com/users/seanryanchan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seanryanchan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

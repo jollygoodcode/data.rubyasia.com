@@ -1,0 +1,20 @@
+{
+  "login": "yanomasusu",
+  "id": 25470435,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25470435?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yanomasusu",
+  "html_url": "https://github.com/yanomasusu",
+  "followers_url": "https://api.github.com/users/yanomasusu/followers",
+  "following_url": "https://api.github.com/users/yanomasusu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yanomasusu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yanomasusu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yanomasusu/subscriptions",
+  "organizations_url": "https://api.github.com/users/yanomasusu/orgs",
+  "repos_url": "https://api.github.com/users/yanomasusu/repos",
+  "events_url": "https://api.github.com/users/yanomasusu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yanomasusu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
