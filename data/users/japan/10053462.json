@@ -1,0 +1,20 @@
+{
+  "login": "sukeharu",
+  "id": 10053462,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10053462?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sukeharu",
+  "html_url": "https://github.com/sukeharu",
+  "followers_url": "https://api.github.com/users/sukeharu/followers",
+  "following_url": "https://api.github.com/users/sukeharu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sukeharu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sukeharu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sukeharu/subscriptions",
+  "organizations_url": "https://api.github.com/users/sukeharu/orgs",
+  "repos_url": "https://api.github.com/users/sukeharu/repos",
+  "events_url": "https://api.github.com/users/sukeharu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sukeharu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

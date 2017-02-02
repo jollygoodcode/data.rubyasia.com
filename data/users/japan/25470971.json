@@ -1,0 +1,20 @@
+{
+  "login": "soabbiz",
+  "id": 25470971,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25470971?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/soabbiz",
+  "html_url": "https://github.com/soabbiz",
+  "followers_url": "https://api.github.com/users/soabbiz/followers",
+  "following_url": "https://api.github.com/users/soabbiz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/soabbiz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/soabbiz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/soabbiz/subscriptions",
+  "organizations_url": "https://api.github.com/users/soabbiz/orgs",
+  "repos_url": "https://api.github.com/users/soabbiz/repos",
+  "events_url": "https://api.github.com/users/soabbiz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/soabbiz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
