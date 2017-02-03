@@ -1,0 +1,20 @@
+{
+  "login": "yoyocoder",
+  "id": 17252942,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17252942?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yoyocoder",
+  "html_url": "https://github.com/yoyocoder",
+  "followers_url": "https://api.github.com/users/yoyocoder/followers",
+  "following_url": "https://api.github.com/users/yoyocoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yoyocoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yoyocoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yoyocoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/yoyocoder/orgs",
+  "repos_url": "https://api.github.com/users/yoyocoder/repos",
+  "events_url": "https://api.github.com/users/yoyocoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yoyocoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

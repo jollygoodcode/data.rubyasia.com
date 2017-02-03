@@ -1,0 +1,20 @@
+{
+  "login": "nocnoi",
+  "id": 11134903,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11134903?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nocnoi",
+  "html_url": "https://github.com/nocnoi",
+  "followers_url": "https://api.github.com/users/nocnoi/followers",
+  "following_url": "https://api.github.com/users/nocnoi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nocnoi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nocnoi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nocnoi/subscriptions",
+  "organizations_url": "https://api.github.com/users/nocnoi/orgs",
+  "repos_url": "https://api.github.com/users/nocnoi/repos",
+  "events_url": "https://api.github.com/users/nocnoi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nocnoi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

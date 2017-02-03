@@ -1,0 +1,20 @@
+{
+  "login": "sranson",
+  "id": 19676450,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19676450?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sranson",
+  "html_url": "https://github.com/sranson",
+  "followers_url": "https://api.github.com/users/sranson/followers",
+  "following_url": "https://api.github.com/users/sranson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sranson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sranson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sranson/subscriptions",
+  "organizations_url": "https://api.github.com/users/sranson/orgs",
+  "repos_url": "https://api.github.com/users/sranson/repos",
+  "events_url": "https://api.github.com/users/sranson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sranson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
