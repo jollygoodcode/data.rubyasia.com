@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-02-04 08:11:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-28..2017-02-03",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 555,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 128,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
