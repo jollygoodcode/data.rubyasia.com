@@ -1,0 +1,20 @@
+{
+  "login": "bunorita",
+  "id": 20177445,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20177445?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bunorita",
+  "html_url": "https://github.com/bunorita",
+  "followers_url": "https://api.github.com/users/bunorita/followers",
+  "following_url": "https://api.github.com/users/bunorita/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bunorita/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bunorita/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bunorita/subscriptions",
+  "organizations_url": "https://api.github.com/users/bunorita/orgs",
+  "repos_url": "https://api.github.com/users/bunorita/repos",
+  "events_url": "https://api.github.com/users/bunorita/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bunorita/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
