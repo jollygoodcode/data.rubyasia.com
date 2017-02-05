@@ -1,0 +1,20 @@
+{
+  "login": "kentaguilar",
+  "id": 2113559,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2113559?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kentaguilar",
+  "html_url": "https://github.com/kentaguilar",
+  "followers_url": "https://api.github.com/users/kentaguilar/followers",
+  "following_url": "https://api.github.com/users/kentaguilar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kentaguilar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kentaguilar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kentaguilar/subscriptions",
+  "organizations_url": "https://api.github.com/users/kentaguilar/orgs",
+  "repos_url": "https://api.github.com/users/kentaguilar/repos",
+  "events_url": "https://api.github.com/users/kentaguilar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kentaguilar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

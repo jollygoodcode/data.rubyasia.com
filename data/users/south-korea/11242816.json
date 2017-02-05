@@ -1,0 +1,20 @@
+{
+  "login": "MineList",
+  "id": 11242816,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11242816?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MineList",
+  "html_url": "https://github.com/MineList",
+  "followers_url": "https://api.github.com/users/MineList/followers",
+  "following_url": "https://api.github.com/users/MineList/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MineList/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MineList/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MineList/subscriptions",
+  "organizations_url": "https://api.github.com/users/MineList/orgs",
+  "repos_url": "https://api.github.com/users/MineList/repos",
+  "events_url": "https://api.github.com/users/MineList/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MineList/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

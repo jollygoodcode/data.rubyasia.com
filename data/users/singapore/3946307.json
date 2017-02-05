@@ -1,0 +1,20 @@
+{
+  "login": "tsmrachel",
+  "id": 3946307,
+  "avatar_url": "https://avatars.githubusercontent.com/u/3946307?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tsmrachel",
+  "html_url": "https://github.com/tsmrachel",
+  "followers_url": "https://api.github.com/users/tsmrachel/followers",
+  "following_url": "https://api.github.com/users/tsmrachel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tsmrachel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tsmrachel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tsmrachel/subscriptions",
+  "organizations_url": "https://api.github.com/users/tsmrachel/orgs",
+  "repos_url": "https://api.github.com/users/tsmrachel/repos",
+  "events_url": "https://api.github.com/users/tsmrachel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tsmrachel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
