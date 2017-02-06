@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-06 08:13:06 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-30..2017-02-05",
+  "repos": [
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 478,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "SammyLin/redactor-rails",
+      "description": "This repo is deprecated. Please check out official gem for Redactor 2. https://github.com/Redactor2/redactor2_rails",
+      "html_url": "https://github.com/SammyLin/redactor-rails",
+      "stars": 412,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
