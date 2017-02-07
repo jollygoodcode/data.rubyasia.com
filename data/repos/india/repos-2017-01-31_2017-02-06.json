@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-07 08:11:15 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-01-31..2017-02-06",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 556,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 129,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
