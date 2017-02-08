@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-08 08:13:12 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-01..2017-02-07",
+  "repos": [
+    {
+      "full_name": "ejholmes/restforce",
+      "description": "A ruby client for the Salesforce REST api.",
+      "html_url": "https://github.com/ejholmes/restforce",
+      "stars": 417,
+      "language": "Ruby",
+      "region": "Thailand"
+    },
+    {
+      "full_name": "citizen428/methodfinder",
+      "description": "A Smalltalk like Method Finder for Ruby",
+      "html_url": "https://github.com/citizen428/methodfinder",
+      "stars": 198,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}
