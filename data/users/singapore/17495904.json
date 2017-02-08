@@ -1,0 +1,20 @@
+{
+  "login": "biptik",
+  "id": 17495904,
+  "avatar_url": "https://avatars.githubusercontent.com/u/17495904?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/biptik",
+  "html_url": "https://github.com/biptik",
+  "followers_url": "https://api.github.com/users/biptik/followers",
+  "following_url": "https://api.github.com/users/biptik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/biptik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/biptik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/biptik/subscriptions",
+  "organizations_url": "https://api.github.com/users/biptik/orgs",
+  "repos_url": "https://api.github.com/users/biptik/repos",
+  "events_url": "https://api.github.com/users/biptik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/biptik/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

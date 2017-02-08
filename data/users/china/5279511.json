@@ -1,0 +1,20 @@
+{
+  "login": "barbiewang",
+  "id": 5279511,
+  "avatar_url": "https://avatars.githubusercontent.com/u/5279511?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/barbiewang",
+  "html_url": "https://github.com/barbiewang",
+  "followers_url": "https://api.github.com/users/barbiewang/followers",
+  "following_url": "https://api.github.com/users/barbiewang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/barbiewang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/barbiewang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/barbiewang/subscriptions",
+  "organizations_url": "https://api.github.com/users/barbiewang/orgs",
+  "repos_url": "https://api.github.com/users/barbiewang/repos",
+  "events_url": "https://api.github.com/users/barbiewang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/barbiewang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

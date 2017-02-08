@@ -1,0 +1,20 @@
+{
+  "login": "gozali",
+  "id": 20762,
+  "avatar_url": "https://avatars.githubusercontent.com/u/20762?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gozali",
+  "html_url": "https://github.com/gozali",
+  "followers_url": "https://api.github.com/users/gozali/followers",
+  "following_url": "https://api.github.com/users/gozali/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gozali/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gozali/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gozali/subscriptions",
+  "organizations_url": "https://api.github.com/users/gozali/orgs",
+  "repos_url": "https://api.github.com/users/gozali/repos",
+  "events_url": "https://api.github.com/users/gozali/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gozali/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shimomm",
+  "id": 25201716,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25201716?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shimomm",
+  "html_url": "https://github.com/shimomm",
+  "followers_url": "https://api.github.com/users/shimomm/followers",
+  "following_url": "https://api.github.com/users/shimomm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shimomm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shimomm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shimomm/subscriptions",
+  "organizations_url": "https://api.github.com/users/shimomm/orgs",
+  "repos_url": "https://api.github.com/users/shimomm/repos",
+  "events_url": "https://api.github.com/users/shimomm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shimomm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
