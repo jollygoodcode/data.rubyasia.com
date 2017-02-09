@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-09 08:13:07 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-02..2017-02-08",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 1962,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 479,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
