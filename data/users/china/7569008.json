@@ -1,0 +1,20 @@
+{
+  "login": "Shiharoku",
+  "id": 7569008,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7569008?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Shiharoku",
+  "html_url": "https://github.com/Shiharoku",
+  "followers_url": "https://api.github.com/users/Shiharoku/followers",
+  "following_url": "https://api.github.com/users/Shiharoku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Shiharoku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Shiharoku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Shiharoku/subscriptions",
+  "organizations_url": "https://api.github.com/users/Shiharoku/orgs",
+  "repos_url": "https://api.github.com/users/Shiharoku/repos",
+  "events_url": "https://api.github.com/users/Shiharoku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Shiharoku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

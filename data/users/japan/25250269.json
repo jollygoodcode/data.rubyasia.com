@@ -1,0 +1,20 @@
+{
+  "login": "appcot",
+  "id": 25250269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25250269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/appcot",
+  "html_url": "https://github.com/appcot",
+  "followers_url": "https://api.github.com/users/appcot/followers",
+  "following_url": "https://api.github.com/users/appcot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/appcot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/appcot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/appcot/subscriptions",
+  "organizations_url": "https://api.github.com/users/appcot/orgs",
+  "repos_url": "https://api.github.com/users/appcot/repos",
+  "events_url": "https://api.github.com/users/appcot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/appcot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
