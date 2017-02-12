@@ -1,0 +1,20 @@
+{
+  "login": "bigeld",
+  "id": 16337297,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16337297?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bigeld",
+  "html_url": "https://github.com/bigeld",
+  "followers_url": "https://api.github.com/users/bigeld/followers",
+  "following_url": "https://api.github.com/users/bigeld/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bigeld/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bigeld/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bigeld/subscriptions",
+  "organizations_url": "https://api.github.com/users/bigeld/orgs",
+  "repos_url": "https://api.github.com/users/bigeld/repos",
+  "events_url": "https://api.github.com/users/bigeld/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bigeld/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

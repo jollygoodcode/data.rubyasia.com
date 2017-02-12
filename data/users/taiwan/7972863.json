@@ -1,0 +1,20 @@
+{
+  "login": "imfishhead",
+  "id": 7972863,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7972863?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imfishhead",
+  "html_url": "https://github.com/imfishhead",
+  "followers_url": "https://api.github.com/users/imfishhead/followers",
+  "following_url": "https://api.github.com/users/imfishhead/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imfishhead/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imfishhead/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imfishhead/subscriptions",
+  "organizations_url": "https://api.github.com/users/imfishhead/orgs",
+  "repos_url": "https://api.github.com/users/imfishhead/repos",
+  "events_url": "https://api.github.com/users/imfishhead/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imfishhead/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
