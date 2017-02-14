@@ -1,0 +1,262 @@
+{
+  "generated_at": "2017-02-14 08:12:10 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-07..2017-02-13",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1924,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3, 4 and 5",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 610,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 587,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 564,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 494,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/mamiya",
+      "description": "Faster deploy tool using tarballs and serf",
+      "html_url": "https://github.com/sorah/mamiya",
+      "stars": 448,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mischa78/boxroom",
+      "description": "Boxroom is a Rails application that aims to be a simple interface for managing and sharing files in a web browser. It lets users create folders and upload, download and share files. Admins can manage users, groups and permissions.",
+      "html_url": "https://github.com/mischa78/boxroom",
+      "stars": 307,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 232,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.0 and Vue.js 2.1.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 218,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mirakui/ec2ssh",
+      "description": "A ssh_config manager for AWS EC2",
+      "html_url": "https://github.com/mirakui/ec2ssh",
+      "stars": 181,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 130,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 122,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/rfd",
+      "description": "Ruby on Files & Directories",
+      "html_url": "https://github.com/amatsuda/rfd",
+      "stars": 114,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/dokumi",
+      "description": "Automatically check if anything is wrong with the code in a pull request",
+      "html_url": "https://github.com/cookpad/dokumi",
+      "stars": 112,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 92,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/mitamae",
+      "description": "Configuration management tool embedding mruby, which is alternative implementation of Itamae",
+      "html_url": "https://github.com/k0kubun/mitamae",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "KitaitiMakoto/epub-parser",
+      "description": "EPUB Parser. mirror of gitlab.com",
+      "html_url": "https://github.com/KitaitiMakoto/epub-parser",
+      "stars": 79,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "atig/atig",
+      "description": "atig.rb - Another Twitter IRC Gateway",
+      "html_url": "https://github.com/atig/atig",
+      "stars": 65,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "t-k/gmo-payment-ruby",
+      "description": "Ruby client library for the GMO Payment Platform.",
+      "html_url": "https://github.com/t-k/gmo-payment-ruby",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cosmo0920/homebrew-mingw_w64",
+      "description": "unofficial mingw-w64 Homebrew sub-command and Formulae.",
+      "html_url": "https://github.com/cosmo0920/homebrew-mingw_w64",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "youpy/mac-robot",
+      "description": "A Library to Automate User Interactions",
+      "html_url": "https://github.com/youpy/mac-robot",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": null,
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/syoboi_calendar",
+      "description": "An API Client library for http://cal.syoboi.jp/ written in Ruby.",
+      "html_url": "https://github.com/r7kamura/syoboi_calendar",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/gry",
+      "description": "Gry generates .rubocop.yml automatically",
+      "html_url": "https://github.com/pocke/gry",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kufu/kiji",
+      "description": "e-Gov API 連携 gem",
+      "html_url": "https://github.com/kufu/kiji",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "takahashim/md2review",
+      "description": "a converter from Markdown into Re:VIEW, using redcarpet",
+      "html_url": "https://github.com/takahashim/md2review",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ixixi/fluent-plugin-sqs",
+      "description": "Store fluent-event as queue message to Amazon SQS.",
+      "html_url": "https://github.com/ixixi/fluent-plugin-sqs",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "repeatedly/fluent-plugin-netflow",
+      "description": "Netflow plugin for Fluentd",
+      "html_url": "https://github.com/repeatedly/fluent-plugin-netflow",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
