@@ -1,0 +1,20 @@
+{
+  "login": "daenamkim",
+  "id": 16159767,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16159767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daenamkim",
+  "html_url": "https://github.com/daenamkim",
+  "followers_url": "https://api.github.com/users/daenamkim/followers",
+  "following_url": "https://api.github.com/users/daenamkim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daenamkim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daenamkim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daenamkim/subscriptions",
+  "organizations_url": "https://api.github.com/users/daenamkim/orgs",
+  "repos_url": "https://api.github.com/users/daenamkim/repos",
+  "events_url": "https://api.github.com/users/daenamkim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daenamkim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
