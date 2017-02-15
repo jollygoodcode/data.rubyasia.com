@@ -1,0 +1,20 @@
+{
+  "login": "azntastic",
+  "id": 22840191,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22840191?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/azntastic",
+  "html_url": "https://github.com/azntastic",
+  "followers_url": "https://api.github.com/users/azntastic/followers",
+  "following_url": "https://api.github.com/users/azntastic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/azntastic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/azntastic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/azntastic/subscriptions",
+  "organizations_url": "https://api.github.com/users/azntastic/orgs",
+  "repos_url": "https://api.github.com/users/azntastic/repos",
+  "events_url": "https://api.github.com/users/azntastic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/azntastic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

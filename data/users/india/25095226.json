@@ -1,0 +1,20 @@
+{
+  "login": "akashbit",
+  "id": 25095226,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25095226?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akashbit",
+  "html_url": "https://github.com/akashbit",
+  "followers_url": "https://api.github.com/users/akashbit/followers",
+  "following_url": "https://api.github.com/users/akashbit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akashbit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akashbit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akashbit/subscriptions",
+  "organizations_url": "https://api.github.com/users/akashbit/orgs",
+  "repos_url": "https://api.github.com/users/akashbit/repos",
+  "events_url": "https://api.github.com/users/akashbit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akashbit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
