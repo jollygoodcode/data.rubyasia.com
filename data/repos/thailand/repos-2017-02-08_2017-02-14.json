@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-15 08:13:10 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-08..2017-02-14",
+  "repos": [
+    {
+      "full_name": "james2m/seedbank",
+      "description": "Seedbank gives your seed data a little structure. Create seeds for each environment, share seeds between environments and specify dependencies to load your seeds in order. All nicely integrated with simple rake tasks.",
+      "html_url": "https://github.com/james2m/seedbank",
+      "stars": 839,
+      "language": "Ruby",
+      "region": "Thailand"
+    },
+    {
+      "full_name": "ejholmes/restforce",
+      "description": "A ruby client for the Salesforce REST api.",
+      "html_url": "https://github.com/ejholmes/restforce",
+      "stars": 418,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}

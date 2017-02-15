@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-02-15 08:11:11 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-08..2017-02-14",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4452,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 842,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "sishen/uber-ruby",
+      "description": "A Ruby Interface to the Uber API",
+      "html_url": "https://github.com/sishen/uber-ruby",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
