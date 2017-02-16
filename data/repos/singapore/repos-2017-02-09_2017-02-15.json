@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-16 08:12:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-09..2017-02-15",
+  "repos": [
+    {
+      "full_name": "yihangho/emoji-for-jekyll",
+      "description": "A plugin for Jekyll that seamlessly enable emoji.",
+      "html_url": "https://github.com/yihangho/emoji-for-jekyll",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
