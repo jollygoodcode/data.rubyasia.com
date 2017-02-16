@@ -1,0 +1,20 @@
+{
+  "login": "TgMember",
+  "id": 25144432,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25144432?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TgMember",
+  "html_url": "https://github.com/TgMember",
+  "followers_url": "https://api.github.com/users/TgMember/followers",
+  "following_url": "https://api.github.com/users/TgMember/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TgMember/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TgMember/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TgMember/subscriptions",
+  "organizations_url": "https://api.github.com/users/TgMember/orgs",
+  "repos_url": "https://api.github.com/users/TgMember/repos",
+  "events_url": "https://api.github.com/users/TgMember/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TgMember/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
