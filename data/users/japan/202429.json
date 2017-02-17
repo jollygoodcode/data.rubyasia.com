@@ -1,0 +1,20 @@
+{
+  "login": "yshgt",
+  "id": 202429,
+  "avatar_url": "https://avatars.githubusercontent.com/u/202429?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yshgt",
+  "html_url": "https://github.com/yshgt",
+  "followers_url": "https://api.github.com/users/yshgt/followers",
+  "following_url": "https://api.github.com/users/yshgt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yshgt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yshgt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yshgt/subscriptions",
+  "organizations_url": "https://api.github.com/users/yshgt/orgs",
+  "repos_url": "https://api.github.com/users/yshgt/repos",
+  "events_url": "https://api.github.com/users/yshgt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yshgt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
