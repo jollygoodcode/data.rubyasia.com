@@ -1,0 +1,20 @@
+{
+  "login": "codenux",
+  "id": 22574348,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22574348?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codenux",
+  "html_url": "https://github.com/codenux",
+  "followers_url": "https://api.github.com/users/codenux/followers",
+  "following_url": "https://api.github.com/users/codenux/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codenux/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codenux/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codenux/subscriptions",
+  "organizations_url": "https://api.github.com/users/codenux/orgs",
+  "repos_url": "https://api.github.com/users/codenux/repos",
+  "events_url": "https://api.github.com/users/codenux/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codenux/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
