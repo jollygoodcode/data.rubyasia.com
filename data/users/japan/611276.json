@@ -1,0 +1,20 @@
+{
+  "login": "mather",
+  "id": 611276,
+  "avatar_url": "https://avatars.githubusercontent.com/u/611276?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mather",
+  "html_url": "https://github.com/mather",
+  "followers_url": "https://api.github.com/users/mather/followers",
+  "following_url": "https://api.github.com/users/mather/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mather/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mather/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mather/subscriptions",
+  "organizations_url": "https://api.github.com/users/mather/orgs",
+  "repos_url": "https://api.github.com/users/mather/repos",
+  "events_url": "https://api.github.com/users/mather/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mather/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

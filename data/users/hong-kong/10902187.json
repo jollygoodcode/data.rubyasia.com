@@ -1,0 +1,20 @@
+{
+  "login": "thomascharbonnel",
+  "id": 10902187,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10902187?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thomascharbonnel",
+  "html_url": "https://github.com/thomascharbonnel",
+  "followers_url": "https://api.github.com/users/thomascharbonnel/followers",
+  "following_url": "https://api.github.com/users/thomascharbonnel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thomascharbonnel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thomascharbonnel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thomascharbonnel/subscriptions",
+  "organizations_url": "https://api.github.com/users/thomascharbonnel/orgs",
+  "repos_url": "https://api.github.com/users/thomascharbonnel/repos",
+  "events_url": "https://api.github.com/users/thomascharbonnel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thomascharbonnel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

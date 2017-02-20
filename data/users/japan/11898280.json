@@ -1,0 +1,20 @@
+{
+  "login": "hontolab",
+  "id": 11898280,
+  "avatar_url": "https://avatars.githubusercontent.com/u/11898280?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hontolab",
+  "html_url": "https://github.com/hontolab",
+  "followers_url": "https://api.github.com/users/hontolab/followers",
+  "following_url": "https://api.github.com/users/hontolab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hontolab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hontolab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hontolab/subscriptions",
+  "organizations_url": "https://api.github.com/users/hontolab/orgs",
+  "repos_url": "https://api.github.com/users/hontolab/repos",
+  "events_url": "https://api.github.com/users/hontolab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hontolab/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
