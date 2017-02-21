@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-02-21 08:12:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-14..2017-02-20",
+  "repos": [
+    {
+      "full_name": "jugend/amazon-ecs",
+      "description": "Ruby Amazon Product Advertising API",
+      "html_url": "https://github.com/jugend/amazon-ecs",
+      "stars": 506,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "choonkeat/attache",
+      "description": "Yet another approach to file upload",
+      "html_url": "https://github.com/choonkeat/attache",
+      "stars": 185,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 76,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

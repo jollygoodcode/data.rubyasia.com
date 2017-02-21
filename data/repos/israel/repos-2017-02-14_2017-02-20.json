@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-02-21 08:11:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-14..2017-02-20",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 10405,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/heroku-deflater",
+      "description": "Enable gzip compression on heroku, but don't compress images.",
+      "html_url": "https://github.com/romanbsd/heroku-deflater",
+      "stars": 258,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/mongoid_colored_logger",
+      "description": "Beautiful logging for Mongoid",
+      "html_url": "https://github.com/romanbsd/mongoid_colored_logger",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
