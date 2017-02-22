@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-02-22 08:13:09 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-15..2017-02-21",
+  "repos": [
+    {
+      "full_name": "godfat/jellyfish",
+      "description": "Pico web framework for building API-centric web applications",
+      "html_url": "https://github.com/godfat/jellyfish",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
