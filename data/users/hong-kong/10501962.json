@@ -1,0 +1,20 @@
+{
+  "login": "Samppaa",
+  "id": 10501962,
+  "avatar_url": "https://avatars.githubusercontent.com/u/10501962?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Samppaa",
+  "html_url": "https://github.com/Samppaa",
+  "followers_url": "https://api.github.com/users/Samppaa/followers",
+  "following_url": "https://api.github.com/users/Samppaa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Samppaa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Samppaa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Samppaa/subscriptions",
+  "organizations_url": "https://api.github.com/users/Samppaa/orgs",
+  "repos_url": "https://api.github.com/users/Samppaa/repos",
+  "events_url": "https://api.github.com/users/Samppaa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Samppaa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

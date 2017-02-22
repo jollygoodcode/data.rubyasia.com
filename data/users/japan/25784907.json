@@ -1,0 +1,20 @@
+{
+  "login": "fishing-cat",
+  "id": 25784907,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25784907?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fishing-cat",
+  "html_url": "https://github.com/fishing-cat",
+  "followers_url": "https://api.github.com/users/fishing-cat/followers",
+  "following_url": "https://api.github.com/users/fishing-cat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fishing-cat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fishing-cat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fishing-cat/subscriptions",
+  "organizations_url": "https://api.github.com/users/fishing-cat/orgs",
+  "repos_url": "https://api.github.com/users/fishing-cat/repos",
+  "events_url": "https://api.github.com/users/fishing-cat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fishing-cat/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
