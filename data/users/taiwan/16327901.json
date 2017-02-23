@@ -1,0 +1,20 @@
+{
+  "login": "hsnl-dev",
+  "id": 16327901,
+  "avatar_url": "https://avatars.githubusercontent.com/u/16327901?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hsnl-dev",
+  "html_url": "https://github.com/hsnl-dev",
+  "followers_url": "https://api.github.com/users/hsnl-dev/followers",
+  "following_url": "https://api.github.com/users/hsnl-dev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hsnl-dev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hsnl-dev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hsnl-dev/subscriptions",
+  "organizations_url": "https://api.github.com/users/hsnl-dev/orgs",
+  "repos_url": "https://api.github.com/users/hsnl-dev/repos",
+  "events_url": "https://api.github.com/users/hsnl-dev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hsnl-dev/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
