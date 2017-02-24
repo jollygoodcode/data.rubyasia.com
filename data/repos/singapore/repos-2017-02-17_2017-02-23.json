@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-24 08:12:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-17..2017-02-23",
+  "repos": [
+    {
+      "full_name": "jugend/amazon-ecs",
+      "description": "Ruby Amazon Product Advertising API",
+      "html_url": "https://github.com/jugend/amazon-ecs",
+      "stars": 506,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 76,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

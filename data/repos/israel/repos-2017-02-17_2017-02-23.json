@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-24 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-17..2017-02-23",
+  "repos": [
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1401,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/mongoid_colored_logger",
+      "description": "Beautiful logging for Mongoid",
+      "html_url": "https://github.com/romanbsd/mongoid_colored_logger",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}

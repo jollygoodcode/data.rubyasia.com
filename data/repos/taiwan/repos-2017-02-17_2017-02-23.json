@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-02-24 08:13:08 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-17..2017-02-23",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 1987,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "rubytaiwan/ruby-taiwan",
+      "description": "ruby-taiwan.org website source code. # master 追 ruby-china , production 才是 ruby-taiwan",
+      "html_url": "https://github.com/rubytaiwan/ruby-taiwan",
+      "stars": 111,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
