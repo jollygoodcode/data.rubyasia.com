@@ -1,0 +1,20 @@
+{
+  "login": "steevjoem",
+  "id": 22405231,
+  "avatar_url": "https://avatars.githubusercontent.com/u/22405231?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/steevjoem",
+  "html_url": "https://github.com/steevjoem",
+  "followers_url": "https://api.github.com/users/steevjoem/followers",
+  "following_url": "https://api.github.com/users/steevjoem/following{/other_user}",
+  "gists_url": "https://api.github.com/users/steevjoem/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/steevjoem/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/steevjoem/subscriptions",
+  "organizations_url": "https://api.github.com/users/steevjoem/orgs",
+  "repos_url": "https://api.github.com/users/steevjoem/repos",
+  "events_url": "https://api.github.com/users/steevjoem/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/steevjoem/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

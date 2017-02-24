@@ -1,0 +1,20 @@
+{
+  "login": "auvehassan",
+  "id": 23610269,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23610269?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/auvehassan",
+  "html_url": "https://github.com/auvehassan",
+  "followers_url": "https://api.github.com/users/auvehassan/followers",
+  "following_url": "https://api.github.com/users/auvehassan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/auvehassan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/auvehassan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/auvehassan/subscriptions",
+  "organizations_url": "https://api.github.com/users/auvehassan/orgs",
+  "repos_url": "https://api.github.com/users/auvehassan/repos",
+  "events_url": "https://api.github.com/users/auvehassan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/auvehassan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
