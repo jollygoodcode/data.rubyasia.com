@@ -1,0 +1,20 @@
+{
+  "login": "mrjerryho",
+  "id": 21226661,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21226661?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrjerryho",
+  "html_url": "https://github.com/mrjerryho",
+  "followers_url": "https://api.github.com/users/mrjerryho/followers",
+  "following_url": "https://api.github.com/users/mrjerryho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrjerryho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrjerryho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrjerryho/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrjerryho/orgs",
+  "repos_url": "https://api.github.com/users/mrjerryho/repos",
+  "events_url": "https://api.github.com/users/mrjerryho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrjerryho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

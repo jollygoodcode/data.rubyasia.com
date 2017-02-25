@@ -1,0 +1,20 @@
+{
+  "login": "khabaki",
+  "id": 25391006,
+  "avatar_url": "https://avatars.githubusercontent.com/u/25391006?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/khabaki",
+  "html_url": "https://github.com/khabaki",
+  "followers_url": "https://api.github.com/users/khabaki/followers",
+  "following_url": "https://api.github.com/users/khabaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/khabaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/khabaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/khabaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/khabaki/orgs",
+  "repos_url": "https://api.github.com/users/khabaki/repos",
+  "events_url": "https://api.github.com/users/khabaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/khabaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
