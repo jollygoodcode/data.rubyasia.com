@@ -1,0 +1,20 @@
+{
+  "login": "macbash",
+  "id": 14119469,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14119469?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/macbash",
+  "html_url": "https://github.com/macbash",
+  "followers_url": "https://api.github.com/users/macbash/followers",
+  "following_url": "https://api.github.com/users/macbash/following{/other_user}",
+  "gists_url": "https://api.github.com/users/macbash/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/macbash/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/macbash/subscriptions",
+  "organizations_url": "https://api.github.com/users/macbash/orgs",
+  "repos_url": "https://api.github.com/users/macbash/repos",
+  "events_url": "https://api.github.com/users/macbash/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/macbash/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
