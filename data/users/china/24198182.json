@@ -1,0 +1,20 @@
+{
+  "login": "Peakol",
+  "id": 24198182,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24198182?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Peakol",
+  "html_url": "https://github.com/Peakol",
+  "followers_url": "https://api.github.com/users/Peakol/followers",
+  "following_url": "https://api.github.com/users/Peakol/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Peakol/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Peakol/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Peakol/subscriptions",
+  "organizations_url": "https://api.github.com/users/Peakol/orgs",
+  "repos_url": "https://api.github.com/users/Peakol/repos",
+  "events_url": "https://api.github.com/users/Peakol/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Peakol/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

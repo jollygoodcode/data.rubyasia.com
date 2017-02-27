@@ -1,0 +1,20 @@
+{
+  "login": "alpancs",
+  "id": 4321516,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4321516?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alpancs",
+  "html_url": "https://github.com/alpancs",
+  "followers_url": "https://api.github.com/users/alpancs/followers",
+  "following_url": "https://api.github.com/users/alpancs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alpancs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alpancs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alpancs/subscriptions",
+  "organizations_url": "https://api.github.com/users/alpancs/orgs",
+  "repos_url": "https://api.github.com/users/alpancs/repos",
+  "events_url": "https://api.github.com/users/alpancs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alpancs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
