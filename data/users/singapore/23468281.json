@@ -1,0 +1,20 @@
+{
+  "login": "Zhenshuo",
+  "id": 23468281,
+  "avatar_url": "https://avatars.githubusercontent.com/u/23468281?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Zhenshuo",
+  "html_url": "https://github.com/Zhenshuo",
+  "followers_url": "https://api.github.com/users/Zhenshuo/followers",
+  "following_url": "https://api.github.com/users/Zhenshuo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Zhenshuo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Zhenshuo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Zhenshuo/subscriptions",
+  "organizations_url": "https://api.github.com/users/Zhenshuo/orgs",
+  "repos_url": "https://api.github.com/users/Zhenshuo/repos",
+  "events_url": "https://api.github.com/users/Zhenshuo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Zhenshuo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

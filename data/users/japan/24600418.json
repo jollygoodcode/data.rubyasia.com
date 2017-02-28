@@ -1,0 +1,20 @@
+{
+  "login": "spitsfire",
+  "id": 24600418,
+  "avatar_url": "https://avatars.githubusercontent.com/u/24600418?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spitsfire",
+  "html_url": "https://github.com/spitsfire",
+  "followers_url": "https://api.github.com/users/spitsfire/followers",
+  "following_url": "https://api.github.com/users/spitsfire/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spitsfire/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spitsfire/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spitsfire/subscriptions",
+  "organizations_url": "https://api.github.com/users/spitsfire/orgs",
+  "repos_url": "https://api.github.com/users/spitsfire/repos",
+  "events_url": "https://api.github.com/users/spitsfire/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spitsfire/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

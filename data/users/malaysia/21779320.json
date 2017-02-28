@@ -1,0 +1,20 @@
+{
+  "login": "mrfirki",
+  "id": 21779320,
+  "avatar_url": "https://avatars.githubusercontent.com/u/21779320?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrfirki",
+  "html_url": "https://github.com/mrfirki",
+  "followers_url": "https://api.github.com/users/mrfirki/followers",
+  "following_url": "https://api.github.com/users/mrfirki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrfirki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrfirki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrfirki/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrfirki/orgs",
+  "repos_url": "https://api.github.com/users/mrfirki/repos",
+  "events_url": "https://api.github.com/users/mrfirki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrfirki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
