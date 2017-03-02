@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-03-02 08:11:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-23..2017-03-01",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1116,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 566,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
