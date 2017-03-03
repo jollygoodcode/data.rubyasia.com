@@ -1,0 +1,20 @@
+{
+  "login": "stevanus-id",
+  "id": 25049770,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/25049770?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stevanus-id",
+  "html_url": "https://github.com/stevanus-id",
+  "followers_url": "https://api.github.com/users/stevanus-id/followers",
+  "following_url": "https://api.github.com/users/stevanus-id/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stevanus-id/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stevanus-id/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stevanus-id/subscriptions",
+  "organizations_url": "https://api.github.com/users/stevanus-id/orgs",
+  "repos_url": "https://api.github.com/users/stevanus-id/repos",
+  "events_url": "https://api.github.com/users/stevanus-id/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stevanus-id/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

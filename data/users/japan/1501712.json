@@ -1,0 +1,20 @@
+{
+  "login": "rio-development",
+  "id": 1501712,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1501712?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rio-development",
+  "html_url": "https://github.com/rio-development",
+  "followers_url": "https://api.github.com/users/rio-development/followers",
+  "following_url": "https://api.github.com/users/rio-development/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rio-development/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rio-development/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rio-development/subscriptions",
+  "organizations_url": "https://api.github.com/users/rio-development/orgs",
+  "repos_url": "https://api.github.com/users/rio-development/repos",
+  "events_url": "https://api.github.com/users/rio-development/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rio-development/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
