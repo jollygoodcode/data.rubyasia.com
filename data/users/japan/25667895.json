@@ -1,0 +1,20 @@
+{
+  "login": "hisapiyo",
+  "id": 25667895,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/25667895?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hisapiyo",
+  "html_url": "https://github.com/hisapiyo",
+  "followers_url": "https://api.github.com/users/hisapiyo/followers",
+  "following_url": "https://api.github.com/users/hisapiyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hisapiyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hisapiyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hisapiyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/hisapiyo/orgs",
+  "repos_url": "https://api.github.com/users/hisapiyo/repos",
+  "events_url": "https://api.github.com/users/hisapiyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hisapiyo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
