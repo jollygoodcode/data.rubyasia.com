@@ -1,0 +1,20 @@
+{
+  "login": "tocie",
+  "id": 1288135,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1288135?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tocie",
+  "html_url": "https://github.com/tocie",
+  "followers_url": "https://api.github.com/users/tocie/followers",
+  "following_url": "https://api.github.com/users/tocie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tocie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tocie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tocie/subscriptions",
+  "organizations_url": "https://api.github.com/users/tocie/orgs",
+  "repos_url": "https://api.github.com/users/tocie/repos",
+  "events_url": "https://api.github.com/users/tocie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tocie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
