@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-03-07 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-02-28..2017-03-06",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "An \"awesome\" type curated list of React Native components, news, tools, and learning material",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 10799,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1409,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 450,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
