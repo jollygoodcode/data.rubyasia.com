@@ -1,0 +1,20 @@
+{
+  "login": "glaxchen",
+  "id": 1138633,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1138633?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/glaxchen",
+  "html_url": "https://github.com/glaxchen",
+  "followers_url": "https://api.github.com/users/glaxchen/followers",
+  "following_url": "https://api.github.com/users/glaxchen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/glaxchen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/glaxchen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/glaxchen/subscriptions",
+  "organizations_url": "https://api.github.com/users/glaxchen/orgs",
+  "repos_url": "https://api.github.com/users/glaxchen/repos",
+  "events_url": "https://api.github.com/users/glaxchen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/glaxchen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "homakov",
+  "id": 174693,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/174693?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/homakov",
+  "html_url": "https://github.com/homakov",
+  "followers_url": "https://api.github.com/users/homakov/followers",
+  "following_url": "https://api.github.com/users/homakov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/homakov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/homakov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/homakov/subscriptions",
+  "organizations_url": "https://api.github.com/users/homakov/orgs",
+  "repos_url": "https://api.github.com/users/homakov/repos",
+  "events_url": "https://api.github.com/users/homakov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/homakov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
