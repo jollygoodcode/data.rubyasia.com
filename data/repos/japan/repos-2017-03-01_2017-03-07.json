@@ -1,0 +1,174 @@
+{
+  "generated_at": "2017-03-08 08:12:15 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-01..2017-03-07",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 1944,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "matschaffer/knife-solo",
+      "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
+      "html_url": "https://github.com/matschaffer/knife-solo",
+      "stars": 791,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3, 4 and 5",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 618,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 534,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 500,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.0 and Vue.js 2.2.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 224,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kiyoka/fuzzy-string-match",
+      "description": "fuzzy string matching library for ruby",
+      "html_url": "https://github.com/kiyoka/fuzzy-string-match",
+      "stars": 194,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/expeditor",
+      "description": "Expeditor provides asynchronous execution and fault tolerance for microservices",
+      "html_url": "https://github.com/cookpad/expeditor",
+      "stars": 150,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 135,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 133,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "higanworks/knife-zero",
+      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
+      "html_url": "https://github.com/higanworks/knife-zero",
+      "stars": 114,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/view_source_map",
+      "description": "Rails plugin to view source map",
+      "html_url": "https://github.com/r7kamura/view_source_map",
+      "stars": 103,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_banner",
+      "description": "Plugin for redmine to show site-wide banner message.",
+      "html_url": "https://github.com/akiko-pusu/redmine_banner",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/trice",
+      "description": "Provides reference time concept to application. Use it instead of ad-hoc `Time.now`.",
+      "html_url": "https://github.com/cookpad/trice",
+      "stars": 55,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masa16/holiday_japan",
+      "description": "Calculate National Holidays of Japan",
+      "html_url": "https://github.com/masa16/holiday_japan",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yasaichi/gakubuchi",
+      "description": "Static pages management with Asset Pipeline",
+      "html_url": "https://github.com/yasaichi/gakubuchi",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_issue_templates",
+      "description": "Repository for Redmine Issue Template (Ready to move Repository from Bitbucket to GitHub)",
+      "html_url": "https://github.com/akiko-pusu/redmine_issue_templates",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nkpoid/nkroid",
+      "description": "twitter bot",
+      "html_url": "https://github.com/nkpoid/nkroid",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/alerty",
+      "description": "Send alert if a given command failed",
+      "html_url": "https://github.com/sonots/alerty",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
