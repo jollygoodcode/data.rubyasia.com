@@ -1,0 +1,20 @@
+{
+  "login": "quochien",
+  "id": 4023027,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4023027?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/quochien",
+  "html_url": "https://github.com/quochien",
+  "followers_url": "https://api.github.com/users/quochien/followers",
+  "following_url": "https://api.github.com/users/quochien/following{/other_user}",
+  "gists_url": "https://api.github.com/users/quochien/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/quochien/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/quochien/subscriptions",
+  "organizations_url": "https://api.github.com/users/quochien/orgs",
+  "repos_url": "https://api.github.com/users/quochien/repos",
+  "events_url": "https://api.github.com/users/quochien/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/quochien/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
