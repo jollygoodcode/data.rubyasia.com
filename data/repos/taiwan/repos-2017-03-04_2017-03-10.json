@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-11 08:13:06 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-04..2017-03-10",
+  "repos": [
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 112,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "adlerhsieh/interview",
+      "description": "A tool for interviewing Ruby & Rails developers",
+      "html_url": "https://github.com/adlerhsieh/interview",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
