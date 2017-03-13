@@ -1,0 +1,20 @@
+{
+  "login": "lcynot",
+  "id": 471233,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/471233?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lcynot",
+  "html_url": "https://github.com/lcynot",
+  "followers_url": "https://api.github.com/users/lcynot/followers",
+  "following_url": "https://api.github.com/users/lcynot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lcynot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lcynot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lcynot/subscriptions",
+  "organizations_url": "https://api.github.com/users/lcynot/orgs",
+  "repos_url": "https://api.github.com/users/lcynot/repos",
+  "events_url": "https://api.github.com/users/lcynot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lcynot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

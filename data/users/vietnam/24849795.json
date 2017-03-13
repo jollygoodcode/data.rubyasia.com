@@ -1,0 +1,20 @@
+{
+  "login": "polepoe",
+  "id": 24849795,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/24849795?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/polepoe",
+  "html_url": "https://github.com/polepoe",
+  "followers_url": "https://api.github.com/users/polepoe/followers",
+  "following_url": "https://api.github.com/users/polepoe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/polepoe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/polepoe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/polepoe/subscriptions",
+  "organizations_url": "https://api.github.com/users/polepoe/orgs",
+  "repos_url": "https://api.github.com/users/polepoe/repos",
+  "events_url": "https://api.github.com/users/polepoe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/polepoe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
