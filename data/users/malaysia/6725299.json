@@ -1,0 +1,20 @@
+{
+  "login": "chrischua",
+  "id": 6725299,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6725299?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chrischua",
+  "html_url": "https://github.com/chrischua",
+  "followers_url": "https://api.github.com/users/chrischua/followers",
+  "following_url": "https://api.github.com/users/chrischua/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chrischua/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chrischua/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chrischua/subscriptions",
+  "organizations_url": "https://api.github.com/users/chrischua/orgs",
+  "repos_url": "https://api.github.com/users/chrischua/repos",
+  "events_url": "https://api.github.com/users/chrischua/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chrischua/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
