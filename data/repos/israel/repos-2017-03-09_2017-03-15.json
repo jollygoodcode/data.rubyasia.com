@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-16 08:11:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-09..2017-03-15",
+  "repos": [
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 455,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/mongoid_colored_logger",
+      "description": "Beautiful logging for Mongoid",
+      "html_url": "https://github.com/romanbsd/mongoid_colored_logger",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-03-16 08:11:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-09..2017-03-15",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1118,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 571,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sadiqmmm/clipboard-rails",
+      "description": "clipboard.js javascript library integration for your Rails 4 and Rails 5 applications",
+      "html_url": "https://github.com/sadiqmmm/clipboard-rails",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
