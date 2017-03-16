@@ -1,0 +1,20 @@
+{
+  "login": "marshluca",
+  "id": 40177,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/40177?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marshluca",
+  "html_url": "https://github.com/marshluca",
+  "followers_url": "https://api.github.com/users/marshluca/followers",
+  "following_url": "https://api.github.com/users/marshluca/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marshluca/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marshluca/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marshluca/subscriptions",
+  "organizations_url": "https://api.github.com/users/marshluca/orgs",
+  "repos_url": "https://api.github.com/users/marshluca/repos",
+  "events_url": "https://api.github.com/users/marshluca/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marshluca/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
