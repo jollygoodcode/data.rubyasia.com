@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-17 08:11:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-10..2017-03-16",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 571,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sadiqmmm/clipboard-rails",
+      "description": "clipboard.js javascript library integration for your Rails 4 and Rails 5 applications",
+      "html_url": "https://github.com/sadiqmmm/clipboard-rails",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

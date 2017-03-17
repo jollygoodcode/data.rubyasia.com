@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-03-17 08:13:08 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-10..2017-03-16",
+  "repos": [
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 113,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/jellyfish",
+      "description": "Pico web framework for building API-centric web applications",
+      "html_url": "https://github.com/godfat/jellyfish",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "adlerhsieh/interview",
+      "description": "A tool for interviewing Ruby & Rails developers",
+      "html_url": "https://github.com/adlerhsieh/interview",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/muack",
+      "description": "Muack -- Yet Another Mocking Library",
+      "html_url": "https://github.com/godfat/muack",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
