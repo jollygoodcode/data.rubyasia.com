@@ -1,0 +1,20 @@
+{
+  "login": "tonyvicter",
+  "id": 24990602,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/24990602?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tonyvicter",
+  "html_url": "https://github.com/tonyvicter",
+  "followers_url": "https://api.github.com/users/tonyvicter/followers",
+  "following_url": "https://api.github.com/users/tonyvicter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tonyvicter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tonyvicter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tonyvicter/subscriptions",
+  "organizations_url": "https://api.github.com/users/tonyvicter/orgs",
+  "repos_url": "https://api.github.com/users/tonyvicter/repos",
+  "events_url": "https://api.github.com/users/tonyvicter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tonyvicter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
