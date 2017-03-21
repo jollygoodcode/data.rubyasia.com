@@ -1,0 +1,20 @@
+{
+  "login": "mcdurdin",
+  "id": 4498365,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4498365?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mcdurdin",
+  "html_url": "https://github.com/mcdurdin",
+  "followers_url": "https://api.github.com/users/mcdurdin/followers",
+  "following_url": "https://api.github.com/users/mcdurdin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mcdurdin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mcdurdin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mcdurdin/subscriptions",
+  "organizations_url": "https://api.github.com/users/mcdurdin/orgs",
+  "repos_url": "https://api.github.com/users/mcdurdin/repos",
+  "events_url": "https://api.github.com/users/mcdurdin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mcdurdin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
