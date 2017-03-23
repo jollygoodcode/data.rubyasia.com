@@ -1,0 +1,110 @@
+{
+  "generated_at": "2017-03-23 08:11:12 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-16..2017-03-22",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 859,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 590,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 517,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 269,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 232,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/mongoid_auto_increment_id",
+      "description": "Override id field to MySQL like auto increment for Mongoid.",
+      "html_url": "https://github.com/huacnlee/mongoid_auto_increment_id",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "falm/js-namespace-rails",
+      "description": "js-namespace-rails let you choose which javascript snippet can execute in rails assets pipeline",
+      "html_url": "https://github.com/falm/js-namespace-rails",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails-brakeman.com",
+      "description": "online security check for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails-brakeman.com",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "sishen/uber-ruby",
+      "description": "A Ruby Interface to the Uber API",
+      "html_url": "https://github.com/sishen/uber-ruby",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/riif",
+      "description": "A simple DSL to generate QuickBooks IIF file.",
+      "html_url": "https://github.com/linjunpop/riif",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
