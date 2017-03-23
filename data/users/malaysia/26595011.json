@@ -1,0 +1,20 @@
+{
+  "login": "melabapp",
+  "id": 26595011,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/26595011?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/melabapp",
+  "html_url": "https://github.com/melabapp",
+  "followers_url": "https://api.github.com/users/melabapp/followers",
+  "following_url": "https://api.github.com/users/melabapp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/melabapp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/melabapp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/melabapp/subscriptions",
+  "organizations_url": "https://api.github.com/users/melabapp/orgs",
+  "repos_url": "https://api.github.com/users/melabapp/repos",
+  "events_url": "https://api.github.com/users/melabapp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/melabapp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
