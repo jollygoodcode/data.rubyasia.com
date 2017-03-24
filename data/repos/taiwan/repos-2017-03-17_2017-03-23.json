@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-24 08:13:13 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-17..2017-03-23",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3537,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 2018,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
