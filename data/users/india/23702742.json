@@ -1,0 +1,20 @@
+{
+  "login": "anvishinc",
+  "id": 23702742,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/23702742?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anvishinc",
+  "html_url": "https://github.com/anvishinc",
+  "followers_url": "https://api.github.com/users/anvishinc/followers",
+  "following_url": "https://api.github.com/users/anvishinc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anvishinc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anvishinc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anvishinc/subscriptions",
+  "organizations_url": "https://api.github.com/users/anvishinc/orgs",
+  "repos_url": "https://api.github.com/users/anvishinc/repos",
+  "events_url": "https://api.github.com/users/anvishinc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anvishinc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
