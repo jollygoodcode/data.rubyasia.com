@@ -1,0 +1,62 @@
+{
+  "generated_at": "2017-03-25 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-18..2017-03-24",
+  "repos": [
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 590,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 232,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "falm/js-namespace-rails",
+      "description": "js-namespace-rails let you choose which javascript snippet can execute in rails assets pipeline",
+      "html_url": "https://github.com/falm/js-namespace-rails",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails-brakeman.com",
+      "description": "online security check for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails-brakeman.com",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "sishen/uber-ruby",
+      "description": "A Ruby Interface to the Uber API",
+      "html_url": "https://github.com/sishen/uber-ruby",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/riif",
+      "description": "A simple DSL to generate QuickBooks IIF file.",
+      "html_url": "https://github.com/linjunpop/riif",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
