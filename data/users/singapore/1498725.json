@@ -1,0 +1,20 @@
+{
+  "login": "lavaboom",
+  "id": 1498725,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1498725?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lavaboom",
+  "html_url": "https://github.com/lavaboom",
+  "followers_url": "https://api.github.com/users/lavaboom/followers",
+  "following_url": "https://api.github.com/users/lavaboom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lavaboom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lavaboom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lavaboom/subscriptions",
+  "organizations_url": "https://api.github.com/users/lavaboom/orgs",
+  "repos_url": "https://api.github.com/users/lavaboom/repos",
+  "events_url": "https://api.github.com/users/lavaboom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lavaboom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
