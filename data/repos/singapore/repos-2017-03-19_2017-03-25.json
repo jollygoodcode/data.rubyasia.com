@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-03-26 08:12:19 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-19..2017-03-25",
+  "repos": [
+    {
+      "full_name": "jugend/amazon-ecs",
+      "description": "Ruby Amazon Product Advertising API",
+      "html_url": "https://github.com/jugend/amazon-ecs",
+      "stars": 512,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 72,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-26 08:12:16 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-19..2017-03-25",
+  "repos": [
+    {
+      "full_name": "jedld/resugan",
+      "description": "simple, powerful and unobstrusive event driven architecture framework for ruby",
+      "html_url": "https://github.com/jedld/resugan",
+      "stars": 76,
+      "language": "Ruby",
+      "region": "Philippines"
+    },
+    {
+      "full_name": "jedld/brains-jruby",
+      "description": "A feedforward neural network implementation for JRuby",
+      "html_url": "https://github.com/jedld/brains-jruby",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Philippines"
+    }
+  ]
+}
