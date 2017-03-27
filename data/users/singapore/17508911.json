@@ -1,0 +1,20 @@
+{
+  "login": "foremal",
+  "id": 17508911,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/17508911?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/foremal",
+  "html_url": "https://github.com/foremal",
+  "followers_url": "https://api.github.com/users/foremal/followers",
+  "following_url": "https://api.github.com/users/foremal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/foremal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/foremal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/foremal/subscriptions",
+  "organizations_url": "https://api.github.com/users/foremal/orgs",
+  "repos_url": "https://api.github.com/users/foremal/repos",
+  "events_url": "https://api.github.com/users/foremal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/foremal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

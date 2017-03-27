@@ -1,0 +1,20 @@
+{
+  "login": "Saltside",
+  "id": 951567,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/951567?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Saltside",
+  "html_url": "https://github.com/Saltside",
+  "followers_url": "https://api.github.com/users/Saltside/followers",
+  "following_url": "https://api.github.com/users/Saltside/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Saltside/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Saltside/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Saltside/subscriptions",
+  "organizations_url": "https://api.github.com/users/Saltside/orgs",
+  "repos_url": "https://api.github.com/users/Saltside/repos",
+  "events_url": "https://api.github.com/users/Saltside/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Saltside/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
