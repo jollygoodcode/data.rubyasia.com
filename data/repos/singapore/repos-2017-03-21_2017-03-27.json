@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-28 08:12:30 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-21..2017-03-27",
+  "repos": [
+    {
+      "full_name": "jugend/amazon-ecs",
+      "description": "Ruby Amazon Product Advertising API",
+      "html_url": "https://github.com/jugend/amazon-ecs",
+      "stars": 513,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jollygoodcode/reread",
+      "description": "Source of https://reread.io",
+      "html_url": "https://github.com/jollygoodcode/reread",
+      "stars": 72,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
