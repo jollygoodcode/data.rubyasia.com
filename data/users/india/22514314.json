@@ -1,0 +1,20 @@
+{
+  "login": "gaitchs",
+  "id": 22514314,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/22514314?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gaitchs",
+  "html_url": "https://github.com/gaitchs",
+  "followers_url": "https://api.github.com/users/gaitchs/followers",
+  "following_url": "https://api.github.com/users/gaitchs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gaitchs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gaitchs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gaitchs/subscriptions",
+  "organizations_url": "https://api.github.com/users/gaitchs/orgs",
+  "repos_url": "https://api.github.com/users/gaitchs/repos",
+  "events_url": "https://api.github.com/users/gaitchs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gaitchs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

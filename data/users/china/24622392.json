@@ -1,0 +1,20 @@
+{
+  "login": "jesit",
+  "id": 24622392,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/24622392?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jesit",
+  "html_url": "https://github.com/jesit",
+  "followers_url": "https://api.github.com/users/jesit/followers",
+  "following_url": "https://api.github.com/users/jesit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jesit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jesit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jesit/subscriptions",
+  "organizations_url": "https://api.github.com/users/jesit/orgs",
+  "repos_url": "https://api.github.com/users/jesit/repos",
+  "events_url": "https://api.github.com/users/jesit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jesit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
