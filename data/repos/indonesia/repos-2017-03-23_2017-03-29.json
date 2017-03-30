@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-30 08:11:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-23..2017-03-29",
+  "repos": [
+    {
+      "full_name": "pboling/flag_shih_tzu",
+      "description": "Bit fields for ActiveRecord",
+      "html_url": "https://github.com/pboling/flag_shih_tzu",
+      "stars": 368,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "pboling/gem_bench",
+      "description": "Which gems have wat DRAGONS? Keep your worst players on the bench",
+      "html_url": "https://github.com/pboling/gem_bench",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}
