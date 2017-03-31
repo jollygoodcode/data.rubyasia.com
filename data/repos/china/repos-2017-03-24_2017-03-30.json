@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-03-31 08:11:14 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-24..2017-03-30",
+  "repos": [
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3304,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 865,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 235,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

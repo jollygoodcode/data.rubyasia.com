@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-03-31 08:11:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-24..2017-03-30",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 11440,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1423,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 457,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "plashchynski/rgb",
+      "description": "A simple Ruby library built to handle easy conversion and manipulation of colors.",
+      "html_url": "https://github.com/plashchynski/rgb",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-03-31 08:11:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-24..2017-03-30",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 574,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sachin87/week-of-month",
+      "description": "gives a week of month as per given date",
+      "html_url": "https://github.com/sachin87/week-of-month",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
