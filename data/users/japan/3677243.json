@@ -1,0 +1,20 @@
+{
+  "login": "endoyuta",
+  "id": 3677243,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3677243?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/endoyuta",
+  "html_url": "https://github.com/endoyuta",
+  "followers_url": "https://api.github.com/users/endoyuta/followers",
+  "following_url": "https://api.github.com/users/endoyuta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/endoyuta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/endoyuta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/endoyuta/subscriptions",
+  "organizations_url": "https://api.github.com/users/endoyuta/orgs",
+  "repos_url": "https://api.github.com/users/endoyuta/repos",
+  "events_url": "https://api.github.com/users/endoyuta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/endoyuta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
