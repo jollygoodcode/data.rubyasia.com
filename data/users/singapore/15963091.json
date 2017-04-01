@@ -1,0 +1,20 @@
+{
+  "login": "Busterz",
+  "id": 15963091,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/15963091?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Busterz",
+  "html_url": "https://github.com/Busterz",
+  "followers_url": "https://api.github.com/users/Busterz/followers",
+  "following_url": "https://api.github.com/users/Busterz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Busterz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Busterz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Busterz/subscriptions",
+  "organizations_url": "https://api.github.com/users/Busterz/orgs",
+  "repos_url": "https://api.github.com/users/Busterz/repos",
+  "events_url": "https://api.github.com/users/Busterz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Busterz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
