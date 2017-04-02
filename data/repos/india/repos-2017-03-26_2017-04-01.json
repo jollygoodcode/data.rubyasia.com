@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-04-02 08:11:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-26..2017-04-01",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1126,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 574,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
