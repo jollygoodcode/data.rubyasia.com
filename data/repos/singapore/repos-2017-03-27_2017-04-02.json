@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-04-03 08:12:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-03-27..2017-04-02",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2379,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "jugend/amazon-ecs",
+      "description": "Ruby Amazon Product Advertising API",
+      "html_url": "https://github.com/jugend/amazon-ecs",
+      "stars": 513,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
