@@ -1,0 +1,20 @@
+{
+  "login": "werby",
+  "id": 26849979,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/26849979?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/werby",
+  "html_url": "https://github.com/werby",
+  "followers_url": "https://api.github.com/users/werby/followers",
+  "following_url": "https://api.github.com/users/werby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/werby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/werby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/werby/subscriptions",
+  "organizations_url": "https://api.github.com/users/werby/orgs",
+  "repos_url": "https://api.github.com/users/werby/repos",
+  "events_url": "https://api.github.com/users/werby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/werby/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

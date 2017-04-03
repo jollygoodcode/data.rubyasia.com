@@ -1,0 +1,20 @@
+{
+  "login": "olivierklein",
+  "id": 7234822,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7234822?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/olivierklein",
+  "html_url": "https://github.com/olivierklein",
+  "followers_url": "https://api.github.com/users/olivierklein/followers",
+  "following_url": "https://api.github.com/users/olivierklein/following{/other_user}",
+  "gists_url": "https://api.github.com/users/olivierklein/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/olivierklein/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/olivierklein/subscriptions",
+  "organizations_url": "https://api.github.com/users/olivierklein/orgs",
+  "repos_url": "https://api.github.com/users/olivierklein/repos",
+  "events_url": "https://api.github.com/users/olivierklein/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/olivierklein/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
