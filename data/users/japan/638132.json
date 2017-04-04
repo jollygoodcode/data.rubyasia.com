@@ -1,0 +1,20 @@
+{
+  "login": "ippo",
+  "id": 638132,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/638132?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ippo",
+  "html_url": "https://github.com/ippo",
+  "followers_url": "https://api.github.com/users/ippo/followers",
+  "following_url": "https://api.github.com/users/ippo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ippo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ippo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ippo/subscriptions",
+  "organizations_url": "https://api.github.com/users/ippo/orgs",
+  "repos_url": "https://api.github.com/users/ippo/repos",
+  "events_url": "https://api.github.com/users/ippo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ippo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
