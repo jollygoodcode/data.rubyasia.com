@@ -1,0 +1,20 @@
+{
+  "login": "crevo-inc",
+  "id": 9975715,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/9975715?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/crevo-inc",
+  "html_url": "https://github.com/crevo-inc",
+  "followers_url": "https://api.github.com/users/crevo-inc/followers",
+  "following_url": "https://api.github.com/users/crevo-inc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/crevo-inc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/crevo-inc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/crevo-inc/subscriptions",
+  "organizations_url": "https://api.github.com/users/crevo-inc/orgs",
+  "repos_url": "https://api.github.com/users/crevo-inc/repos",
+  "events_url": "https://api.github.com/users/crevo-inc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/crevo-inc/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

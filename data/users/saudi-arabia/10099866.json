@@ -1,0 +1,20 @@
+{
+  "login": "ebe222",
+  "id": 10099866,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10099866?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ebe222",
+  "html_url": "https://github.com/ebe222",
+  "followers_url": "https://api.github.com/users/ebe222/followers",
+  "following_url": "https://api.github.com/users/ebe222/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ebe222/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ebe222/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ebe222/subscriptions",
+  "organizations_url": "https://api.github.com/users/ebe222/orgs",
+  "repos_url": "https://api.github.com/users/ebe222/repos",
+  "events_url": "https://api.github.com/users/ebe222/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ebe222/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
