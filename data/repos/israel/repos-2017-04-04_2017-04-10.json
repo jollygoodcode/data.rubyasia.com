@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-04-11 08:11:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-04..2017-04-10",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 11673,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1428,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/mongoid_colored_logger",
+      "description": "Beautiful logging for Mongoid",
+      "html_url": "https://github.com/romanbsd/mongoid_colored_logger",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
