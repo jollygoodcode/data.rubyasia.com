@@ -1,0 +1,20 @@
+{
+  "login": "swgn",
+  "id": 728506,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/728506?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/swgn",
+  "html_url": "https://github.com/swgn",
+  "followers_url": "https://api.github.com/users/swgn/followers",
+  "following_url": "https://api.github.com/users/swgn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/swgn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/swgn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/swgn/subscriptions",
+  "organizations_url": "https://api.github.com/users/swgn/orgs",
+  "repos_url": "https://api.github.com/users/swgn/repos",
+  "events_url": "https://api.github.com/users/swgn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/swgn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "keegoo",
+  "id": 9443257,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9443257?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/keegoo",
+  "html_url": "https://github.com/keegoo",
+  "followers_url": "https://api.github.com/users/keegoo/followers",
+  "following_url": "https://api.github.com/users/keegoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/keegoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/keegoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/keegoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/keegoo/orgs",
+  "repos_url": "https://api.github.com/users/keegoo/repos",
+  "events_url": "https://api.github.com/users/keegoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/keegoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
