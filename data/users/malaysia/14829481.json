@@ -1,0 +1,20 @@
+{
+  "login": "yewness",
+  "id": 14829481,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/14829481?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yewness",
+  "html_url": "https://github.com/yewness",
+  "followers_url": "https://api.github.com/users/yewness/followers",
+  "following_url": "https://api.github.com/users/yewness/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yewness/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yewness/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yewness/subscriptions",
+  "organizations_url": "https://api.github.com/users/yewness/orgs",
+  "repos_url": "https://api.github.com/users/yewness/repos",
+  "events_url": "https://api.github.com/users/yewness/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yewness/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
