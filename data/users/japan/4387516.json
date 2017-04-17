@@ -1,0 +1,20 @@
+{
+  "login": "dancarter",
+  "id": 4387516,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4387516?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dancarter",
+  "html_url": "https://github.com/dancarter",
+  "followers_url": "https://api.github.com/users/dancarter/followers",
+  "following_url": "https://api.github.com/users/dancarter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dancarter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dancarter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dancarter/subscriptions",
+  "organizations_url": "https://api.github.com/users/dancarter/orgs",
+  "repos_url": "https://api.github.com/users/dancarter/repos",
+  "events_url": "https://api.github.com/users/dancarter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dancarter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
