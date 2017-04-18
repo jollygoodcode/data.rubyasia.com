@@ -1,0 +1,20 @@
+{
+  "login": "madvas",
+  "id": 3857155,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/3857155?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/madvas",
+  "html_url": "https://github.com/madvas",
+  "followers_url": "https://api.github.com/users/madvas/followers",
+  "following_url": "https://api.github.com/users/madvas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/madvas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/madvas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/madvas/subscriptions",
+  "organizations_url": "https://api.github.com/users/madvas/orgs",
+  "repos_url": "https://api.github.com/users/madvas/repos",
+  "events_url": "https://api.github.com/users/madvas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/madvas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

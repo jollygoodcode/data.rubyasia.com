@@ -1,0 +1,20 @@
+{
+  "login": "xarsh",
+  "id": 1436437,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1436437?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xarsh",
+  "html_url": "https://github.com/xarsh",
+  "followers_url": "https://api.github.com/users/xarsh/followers",
+  "following_url": "https://api.github.com/users/xarsh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xarsh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xarsh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xarsh/subscriptions",
+  "organizations_url": "https://api.github.com/users/xarsh/orgs",
+  "repos_url": "https://api.github.com/users/xarsh/repos",
+  "events_url": "https://api.github.com/users/xarsh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xarsh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
