@@ -1,0 +1,158 @@
+{
+  "generated_at": "2017-04-19 08:12:12 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-12..2017-04-18",
+  "repos": [
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 1180,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3, 4 and 5",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 630,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 572,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.0 and Vue.js 2.2.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 244,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 238,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_segmenter",
+      "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.",
+      "html_url": "https://github.com/diasks2/pragmatic_segmenter",
+      "stars": 184,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 102,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 96,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/weak_parameters",
+      "description": "Validates params in your controller.",
+      "html_url": "https://github.com/r7kamura/weak_parameters",
+      "stars": 91,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/barbeque",
+      "description": "Job queue system to run job with Docker",
+      "html_url": "https://github.com/cookpad/barbeque",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/textbringer",
+      "description": "An Emacs-like text editor written in Ruby",
+      "html_url": "https://github.com/shugo/textbringer",
+      "stars": 83,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/trice",
+      "description": "Provides reference time concept to application. Use it instead of ad-hoc `Time.now`.",
+      "html_url": "https://github.com/cookpad/trice",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-geoip",
+      "description": "Fluentd output plugin to geolocate with geoip.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-geoip",
+      "stars": 55,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "banyan/jenkins-ci-skip-plugin",
+      "description": "Skip making a build through commit message",
+      "html_url": "https://github.com/banyan/jenkins-ci-skip-plugin",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-mysql-replicator",
+      "description": "Fluentd input plugin to track insert/update/delete event from MySQL databases.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-mysql-replicator",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "DeployGate/deploygate-cli",
+      "description": "A command-line interface for DeployGate",
+      "html_url": "https://github.com/DeployGate/deploygate-cli",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/kawaii_email_address",
+      "description": "Extraction of validate logic from `validates_email_format_of` to support docomo addresses",
+      "html_url": "https://github.com/esminc/kawaii_email_address",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

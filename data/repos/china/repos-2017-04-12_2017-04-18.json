@@ -1,0 +1,62 @@
+{
+  "generated_at": "2017-04-19 08:11:12 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-12..2017-04-18",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4571,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 274,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 239,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/oauth_china",
+      "description": "OAuth gem for rails，支持新浪，腾讯，网易，搜狐微博和豆瓣。",
+      "html_url": "https://github.com/hooopo/oauth_china",
+      "stars": 197,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 100,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/a_rails_start_up_omakase",
+      "description": "A pre-configured Rails app for startup, focusing on oauth, deployment and maintenance",
+      "html_url": "https://github.com/jasl/a_rails_start_up_omakase",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
