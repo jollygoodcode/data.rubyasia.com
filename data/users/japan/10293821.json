@@ -1,0 +1,20 @@
+{
+  "login": "robotstart",
+  "id": 10293821,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10293821?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robotstart",
+  "html_url": "https://github.com/robotstart",
+  "followers_url": "https://api.github.com/users/robotstart/followers",
+  "following_url": "https://api.github.com/users/robotstart/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robotstart/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robotstart/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robotstart/subscriptions",
+  "organizations_url": "https://api.github.com/users/robotstart/orgs",
+  "repos_url": "https://api.github.com/users/robotstart/repos",
+  "events_url": "https://api.github.com/users/robotstart/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robotstart/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
