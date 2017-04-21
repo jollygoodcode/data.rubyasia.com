@@ -1,0 +1,20 @@
+{
+  "login": "derekso",
+  "id": 1155011,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1155011?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/derekso",
+  "html_url": "https://github.com/derekso",
+  "followers_url": "https://api.github.com/users/derekso/followers",
+  "following_url": "https://api.github.com/users/derekso/following{/other_user}",
+  "gists_url": "https://api.github.com/users/derekso/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/derekso/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/derekso/subscriptions",
+  "organizations_url": "https://api.github.com/users/derekso/orgs",
+  "repos_url": "https://api.github.com/users/derekso/repos",
+  "events_url": "https://api.github.com/users/derekso/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/derekso/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
