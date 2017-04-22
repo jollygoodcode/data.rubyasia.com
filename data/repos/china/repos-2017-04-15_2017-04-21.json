@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-04-22 08:11:15 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-15..2017-04-21",
+  "repos": [
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 240,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4 and 5.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 235,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/oauth_china",
+      "description": "OAuth gem for rails，支持新浪，腾讯，网易，搜狐微博和豆瓣。",
+      "html_url": "https://github.com/hooopo/oauth_china",
+      "stars": 197,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/a_rails_start_up_omakase",
+      "description": "A pre-configured Rails app for startup, focusing on oauth, deployment and maintenance",
+      "html_url": "https://github.com/jasl/a_rails_start_up_omakase",
+      "stars": 93,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails-brakeman.com",
+      "description": "online security check for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails-brakeman.com",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
