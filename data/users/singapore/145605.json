@@ -1,0 +1,20 @@
+{
+  "login": "cedrickchee",
+  "id": 145605,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/145605?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cedrickchee",
+  "html_url": "https://github.com/cedrickchee",
+  "followers_url": "https://api.github.com/users/cedrickchee/followers",
+  "following_url": "https://api.github.com/users/cedrickchee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cedrickchee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cedrickchee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cedrickchee/subscriptions",
+  "organizations_url": "https://api.github.com/users/cedrickchee/orgs",
+  "repos_url": "https://api.github.com/users/cedrickchee/repos",
+  "events_url": "https://api.github.com/users/cedrickchee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cedrickchee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
