@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-04-24 08:11:20 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-17..2017-04-23",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1137,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "Gurpartap/aescrypt",
+      "description": "A simple and opinionated AES encrypt / decrypt Ruby gem that just works.",
+      "html_url": "https://github.com/Gurpartap/aescrypt",
+      "stars": 124,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
