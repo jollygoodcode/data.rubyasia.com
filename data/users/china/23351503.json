@@ -1,0 +1,20 @@
+{
+  "login": "youaresmart",
+  "id": 23351503,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/23351503?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/youaresmart",
+  "html_url": "https://github.com/youaresmart",
+  "followers_url": "https://api.github.com/users/youaresmart/followers",
+  "following_url": "https://api.github.com/users/youaresmart/following{/other_user}",
+  "gists_url": "https://api.github.com/users/youaresmart/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/youaresmart/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/youaresmart/subscriptions",
+  "organizations_url": "https://api.github.com/users/youaresmart/orgs",
+  "repos_url": "https://api.github.com/users/youaresmart/repos",
+  "events_url": "https://api.github.com/users/youaresmart/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/youaresmart/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

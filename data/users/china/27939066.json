@@ -1,0 +1,20 @@
+{
+  "login": "pauseman",
+  "id": 27939066,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/27939066?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pauseman",
+  "html_url": "https://github.com/pauseman",
+  "followers_url": "https://api.github.com/users/pauseman/followers",
+  "following_url": "https://api.github.com/users/pauseman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pauseman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pauseman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pauseman/subscriptions",
+  "organizations_url": "https://api.github.com/users/pauseman/orgs",
+  "repos_url": "https://api.github.com/users/pauseman/repos",
+  "events_url": "https://api.github.com/users/pauseman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pauseman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

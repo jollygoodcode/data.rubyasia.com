@@ -1,0 +1,20 @@
+{
+  "login": "aaing",
+  "id": 25877383,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/25877383?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aaing",
+  "html_url": "https://github.com/aaing",
+  "followers_url": "https://api.github.com/users/aaing/followers",
+  "following_url": "https://api.github.com/users/aaing/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aaing/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aaing/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aaing/subscriptions",
+  "organizations_url": "https://api.github.com/users/aaing/orgs",
+  "repos_url": "https://api.github.com/users/aaing/repos",
+  "events_url": "https://api.github.com/users/aaing/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aaing/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
