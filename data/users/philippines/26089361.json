@@ -1,0 +1,20 @@
+{
+  "login": "paulmdi",
+  "id": 26089361,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/26089361?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paulmdi",
+  "html_url": "https://github.com/paulmdi",
+  "followers_url": "https://api.github.com/users/paulmdi/followers",
+  "following_url": "https://api.github.com/users/paulmdi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paulmdi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paulmdi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paulmdi/subscriptions",
+  "organizations_url": "https://api.github.com/users/paulmdi/orgs",
+  "repos_url": "https://api.github.com/users/paulmdi/repos",
+  "events_url": "https://api.github.com/users/paulmdi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paulmdi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
