@@ -1,0 +1,20 @@
+{
+  "login": "ajou-act",
+  "id": 26863425,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/26863425?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ajou-act",
+  "html_url": "https://github.com/ajou-act",
+  "followers_url": "https://api.github.com/users/ajou-act/followers",
+  "following_url": "https://api.github.com/users/ajou-act/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ajou-act/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ajou-act/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ajou-act/subscriptions",
+  "organizations_url": "https://api.github.com/users/ajou-act/orgs",
+  "repos_url": "https://api.github.com/users/ajou-act/repos",
+  "events_url": "https://api.github.com/users/ajou-act/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ajou-act/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ragdroid",
+  "id": 4904603,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4904603?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ragdroid",
+  "html_url": "https://github.com/ragdroid",
+  "followers_url": "https://api.github.com/users/ragdroid/followers",
+  "following_url": "https://api.github.com/users/ragdroid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ragdroid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ragdroid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ragdroid/subscriptions",
+  "organizations_url": "https://api.github.com/users/ragdroid/orgs",
+  "repos_url": "https://api.github.com/users/ragdroid/repos",
+  "events_url": "https://api.github.com/users/ragdroid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ragdroid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
