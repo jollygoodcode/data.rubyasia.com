@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-04-26 08:11:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-19..2017-04-25",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 12083,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1435,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/heroku-deflater",
+      "description": "Enable gzip compression on heroku, but don't compress images.",
+      "html_url": "https://github.com/romanbsd/heroku-deflater",
+      "stars": 270,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
