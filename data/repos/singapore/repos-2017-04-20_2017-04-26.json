@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-04-27 08:13:08 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-20..2017-04-26",
+  "repos": [
+    {
+      "full_name": "Coursemology/coursemology.org",
+      "description": null,
+      "html_url": "https://github.com/Coursemology/coursemology.org",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
