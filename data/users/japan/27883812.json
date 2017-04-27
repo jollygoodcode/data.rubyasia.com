@@ -1,0 +1,20 @@
+{
+  "login": "moeism",
+  "id": 27883812,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/27883812?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moeism",
+  "html_url": "https://github.com/moeism",
+  "followers_url": "https://api.github.com/users/moeism/followers",
+  "following_url": "https://api.github.com/users/moeism/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moeism/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moeism/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moeism/subscriptions",
+  "organizations_url": "https://api.github.com/users/moeism/orgs",
+  "repos_url": "https://api.github.com/users/moeism/repos",
+  "events_url": "https://api.github.com/users/moeism/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moeism/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
