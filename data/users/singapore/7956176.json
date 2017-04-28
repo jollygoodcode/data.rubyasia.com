@@ -1,0 +1,20 @@
+{
+  "login": "elitesky",
+  "id": 7956176,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7956176?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elitesky",
+  "html_url": "https://github.com/elitesky",
+  "followers_url": "https://api.github.com/users/elitesky/followers",
+  "following_url": "https://api.github.com/users/elitesky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elitesky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elitesky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elitesky/subscriptions",
+  "organizations_url": "https://api.github.com/users/elitesky/orgs",
+  "repos_url": "https://api.github.com/users/elitesky/repos",
+  "events_url": "https://api.github.com/users/elitesky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elitesky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
