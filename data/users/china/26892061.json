@@ -1,0 +1,20 @@
+{
+  "login": "samsprite",
+  "id": 26892061,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/26892061?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/samsprite",
+  "html_url": "https://github.com/samsprite",
+  "followers_url": "https://api.github.com/users/samsprite/followers",
+  "following_url": "https://api.github.com/users/samsprite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/samsprite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/samsprite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/samsprite/subscriptions",
+  "organizations_url": "https://api.github.com/users/samsprite/orgs",
+  "repos_url": "https://api.github.com/users/samsprite/repos",
+  "events_url": "https://api.github.com/users/samsprite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/samsprite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

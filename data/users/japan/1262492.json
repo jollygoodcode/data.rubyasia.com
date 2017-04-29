@@ -1,0 +1,20 @@
+{
+  "login": "m3dev",
+  "id": 1262492,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1262492?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/m3dev",
+  "html_url": "https://github.com/m3dev",
+  "followers_url": "https://api.github.com/users/m3dev/followers",
+  "following_url": "https://api.github.com/users/m3dev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/m3dev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/m3dev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/m3dev/subscriptions",
+  "organizations_url": "https://api.github.com/users/m3dev/orgs",
+  "repos_url": "https://api.github.com/users/m3dev/repos",
+  "events_url": "https://api.github.com/users/m3dev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/m3dev/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
