@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-05-02 08:11:24 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-25..2017-05-01",
+  "repos": [
+    {
+      "full_name": "pboling/flag_shih_tzu",
+      "description": "Bit fields for ActiveRecord",
+      "html_url": "https://github.com/pboling/flag_shih_tzu",
+      "stars": 372,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "Paxa/light_record",
+      "description": "ActiveRecord extension to kick the speed of allocating ActiveRecord object",
+      "html_url": "https://github.com/Paxa/light_record",
+      "stars": 100,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}

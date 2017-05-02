@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-05-02 08:11:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-25..2017-05-01",
+  "repos": [
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 627,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/second_level_cache",
+      "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4 and 5.",
+      "html_url": "https://github.com/hooopo/second_level_cache",
+      "stars": 237,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 182,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
