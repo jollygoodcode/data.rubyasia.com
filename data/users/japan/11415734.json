@@ -1,0 +1,20 @@
+{
+  "login": "miyabishi",
+  "id": 11415734,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11415734?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miyabishi",
+  "html_url": "https://github.com/miyabishi",
+  "followers_url": "https://api.github.com/users/miyabishi/followers",
+  "following_url": "https://api.github.com/users/miyabishi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miyabishi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miyabishi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miyabishi/subscriptions",
+  "organizations_url": "https://api.github.com/users/miyabishi/orgs",
+  "repos_url": "https://api.github.com/users/miyabishi/repos",
+  "events_url": "https://api.github.com/users/miyabishi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miyabishi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
