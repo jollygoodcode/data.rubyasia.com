@@ -1,0 +1,20 @@
+{
+  "login": "autopp",
+  "id": 7571111,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7571111?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/autopp",
+  "html_url": "https://github.com/autopp",
+  "followers_url": "https://api.github.com/users/autopp/followers",
+  "following_url": "https://api.github.com/users/autopp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/autopp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/autopp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/autopp/subscriptions",
+  "organizations_url": "https://api.github.com/users/autopp/orgs",
+  "repos_url": "https://api.github.com/users/autopp/repos",
+  "events_url": "https://api.github.com/users/autopp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/autopp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

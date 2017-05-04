@@ -1,0 +1,20 @@
+{
+  "login": "mmadov",
+  "id": 18708452,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/18708452?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mmadov",
+  "html_url": "https://github.com/mmadov",
+  "followers_url": "https://api.github.com/users/mmadov/followers",
+  "following_url": "https://api.github.com/users/mmadov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mmadov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mmadov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mmadov/subscriptions",
+  "organizations_url": "https://api.github.com/users/mmadov/orgs",
+  "repos_url": "https://api.github.com/users/mmadov/repos",
+  "events_url": "https://api.github.com/users/mmadov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mmadov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

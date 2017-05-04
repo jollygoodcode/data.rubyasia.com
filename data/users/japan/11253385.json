@@ -1,0 +1,20 @@
+{
+  "login": "snakamu",
+  "id": 11253385,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11253385?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/snakamu",
+  "html_url": "https://github.com/snakamu",
+  "followers_url": "https://api.github.com/users/snakamu/followers",
+  "following_url": "https://api.github.com/users/snakamu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/snakamu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/snakamu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/snakamu/subscriptions",
+  "organizations_url": "https://api.github.com/users/snakamu/orgs",
+  "repos_url": "https://api.github.com/users/snakamu/repos",
+  "events_url": "https://api.github.com/users/snakamu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/snakamu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
