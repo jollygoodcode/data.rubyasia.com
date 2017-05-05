@@ -1,0 +1,238 @@
+{
+  "generated_at": "2017-05-05 08:12:13 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-28..2017-05-04",
+  "repos": [
+    {
+      "full_name": "amatsuda/active_decorator",
+      "description": "ORM agnostic truly Object-Oriented view helper for Rails 3, 4 and 5",
+      "html_url": "https://github.com/amatsuda/active_decorator",
+      "stars": 630,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 621,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 548,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 516,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/stateful_enum",
+      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+      "html_url": "https://github.com/amatsuda/stateful_enum",
+      "stars": 311,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.0 and Vue.js 2.3.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 249,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/html5_validators",
+      "description": "A gem/plugin for Rails 3, Rails 4, and Rails 5 that enables client-side validation using ActiveModel + HTML5 Form Validation",
+      "html_url": "https://github.com/amatsuda/html5_validators",
+      "stars": 246,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/expeditor",
+      "description": "Expeditor provides asynchronous execution and fault tolerance for Microservices",
+      "html_url": "https://github.com/cookpad/expeditor",
+      "stars": 153,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/motorhead",
+      "description": "A Rails Engine framework that helps safe and rapid feature prototyping",
+      "html_url": "https://github.com/amatsuda/motorhead",
+      "stars": 144,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/yarn/ncu/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 127,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/nested_scaffold",
+      "description": "Nested scaffold generator for Rails 4.2 and 5",
+      "html_url": "https://github.com/amatsuda/nested_scaffold",
+      "stars": 123,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 117,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/rack-user_agent",
+      "description": "Rack::Request extension for handling User-Agent",
+      "html_url": "https://github.com/k0kubun/rack-user_agent",
+      "stars": 116,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/kawaii_validation",
+      "description": "An ActiveRecord extension that adds more kawaii validation syntax",
+      "html_url": "https://github.com/amatsuda/kawaii_validation",
+      "stars": 111,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/activerecord-precount",
+      "description": "N+1 count query killer for ActiveRecord",
+      "html_url": "https://github.com/k0kubun/activerecord-precount",
+      "stars": 110,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/mitamae",
+      "description": "Configuration management tool embedding mruby, which is alternative implementation of Itamae",
+      "html_url": "https://github.com/k0kubun/mitamae",
+      "stars": 95,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/barbeque",
+      "description": "Job queue system to run job with Docker",
+      "html_url": "https://github.com/cookpad/barbeque",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/textbringer",
+      "description": "An Emacs-like text editor written in Ruby",
+      "html_url": "https://github.com/shugo/textbringer",
+      "stars": 86,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 84,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 74,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mrkn/pycall",
+      "description": "Calling Python functions from the Ruby language",
+      "html_url": "https://github.com/mrkn/pycall",
+      "stars": 73,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masa16/pwrake",
+      "description": "Parallel Workflow extension for Rake, runs on multicores, clusters, clouds.",
+      "html_url": "https://github.com/masa16/pwrake",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yohasebe/rsyntaxtree",
+      "description": "Syntax tree generator made with Ruby and RMagic",
+      "html_url": "https://github.com/yohasebe/rsyntaxtree",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_tokenizer",
+      "description": "A multilingual tokenizer to split a string into tokens",
+      "html_url": "https://github.com/diasks2/pragmatic_tokenizer",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "momibun926/redmine_issue_evm",
+      "description": "This plugin provides the function of calculating evm of projects . EVM can help you to track your project progress and its status and to forecast the future performance of the project. ",
+      "html_url": "https://github.com/momibun926/redmine_issue_evm",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yterajima/middleman-robots",
+      "description": "middleman-robots is extension of MMiddleman. This extension create robots.txt by config.rb.",
+      "html_url": "https://github.com/yterajima/middleman-robots",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
