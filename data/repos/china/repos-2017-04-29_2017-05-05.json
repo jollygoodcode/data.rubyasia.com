@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-05-06 08:11:17 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-04-29..2017-05-05",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 884,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 278,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 181,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/qiniu_direct_uploader",
+      "description": "A gem can direct upload your files to a Qiniu storage bucket",
+      "html_url": "https://github.com/huobazi/qiniu_direct_uploader",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
