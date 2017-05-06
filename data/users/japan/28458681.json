@@ -1,0 +1,20 @@
+{
+  "login": "closedon",
+  "id": 28458681,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/28458681?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/closedon",
+  "html_url": "https://github.com/closedon",
+  "followers_url": "https://api.github.com/users/closedon/followers",
+  "following_url": "https://api.github.com/users/closedon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/closedon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/closedon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/closedon/subscriptions",
+  "organizations_url": "https://api.github.com/users/closedon/orgs",
+  "repos_url": "https://api.github.com/users/closedon/repos",
+  "events_url": "https://api.github.com/users/closedon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/closedon/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
