@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-05-08 08:11:22 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-01..2017-05-07",
+  "repos": [
+    {
+      "full_name": "pboling/flag_shih_tzu",
+      "description": "Bit fields for ActiveRecord",
+      "html_url": "https://github.com/pboling/flag_shih_tzu",
+      "stars": 373,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "pboling/cacheable-flash",
+      "description": "Gets the Rails flash object working with page cacheing.",
+      "html_url": "https://github.com/pboling/cacheable-flash",
+      "stars": 101,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "Paxa/green_monkey",
+      "description": "Rails 4 & 5 microdata helpers",
+      "html_url": "https://github.com/Paxa/green_monkey",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}
