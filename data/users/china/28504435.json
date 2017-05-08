@@ -1,0 +1,20 @@
+{
+  "login": "pdinfg",
+  "id": 28504435,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/28504435?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pdinfg",
+  "html_url": "https://github.com/pdinfg",
+  "followers_url": "https://api.github.com/users/pdinfg/followers",
+  "following_url": "https://api.github.com/users/pdinfg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pdinfg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pdinfg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pdinfg/subscriptions",
+  "organizations_url": "https://api.github.com/users/pdinfg/orgs",
+  "repos_url": "https://api.github.com/users/pdinfg/repos",
+  "events_url": "https://api.github.com/users/pdinfg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pdinfg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
