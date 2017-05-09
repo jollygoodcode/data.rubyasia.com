@@ -1,0 +1,20 @@
+{
+  "login": "rlarachan",
+  "id": 17536585,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/17536585?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rlarachan",
+  "html_url": "https://github.com/rlarachan",
+  "followers_url": "https://api.github.com/users/rlarachan/followers",
+  "following_url": "https://api.github.com/users/rlarachan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rlarachan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rlarachan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rlarachan/subscriptions",
+  "organizations_url": "https://api.github.com/users/rlarachan/orgs",
+  "repos_url": "https://api.github.com/users/rlarachan/repos",
+  "events_url": "https://api.github.com/users/rlarachan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rlarachan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

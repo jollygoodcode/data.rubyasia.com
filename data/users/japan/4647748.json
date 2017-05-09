@@ -1,0 +1,20 @@
+{
+  "login": "kobadev",
+  "id": 4647748,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4647748?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kobadev",
+  "html_url": "https://github.com/kobadev",
+  "followers_url": "https://api.github.com/users/kobadev/followers",
+  "following_url": "https://api.github.com/users/kobadev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kobadev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kobadev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kobadev/subscriptions",
+  "organizations_url": "https://api.github.com/users/kobadev/orgs",
+  "repos_url": "https://api.github.com/users/kobadev/repos",
+  "events_url": "https://api.github.com/users/kobadev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kobadev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

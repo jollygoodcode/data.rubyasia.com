@@ -1,0 +1,20 @@
+{
+  "login": "samueldobbie",
+  "id": 22631229,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/22631229?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/samueldobbie",
+  "html_url": "https://github.com/samueldobbie",
+  "followers_url": "https://api.github.com/users/samueldobbie/followers",
+  "following_url": "https://api.github.com/users/samueldobbie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/samueldobbie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/samueldobbie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/samueldobbie/subscriptions",
+  "organizations_url": "https://api.github.com/users/samueldobbie/orgs",
+  "repos_url": "https://api.github.com/users/samueldobbie/repos",
+  "events_url": "https://api.github.com/users/samueldobbie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/samueldobbie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
