@@ -1,0 +1,20 @@
+{
+  "login": "hitsumabushi",
+  "id": 1145948,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1145948?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hitsumabushi",
+  "html_url": "https://github.com/hitsumabushi",
+  "followers_url": "https://api.github.com/users/hitsumabushi/followers",
+  "following_url": "https://api.github.com/users/hitsumabushi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hitsumabushi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hitsumabushi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hitsumabushi/subscriptions",
+  "organizations_url": "https://api.github.com/users/hitsumabushi/orgs",
+  "repos_url": "https://api.github.com/users/hitsumabushi/repos",
+  "events_url": "https://api.github.com/users/hitsumabushi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hitsumabushi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
