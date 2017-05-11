@@ -1,0 +1,20 @@
+{
+  "login": "CrisLi",
+  "id": 360767,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/360767?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CrisLi",
+  "html_url": "https://github.com/CrisLi",
+  "followers_url": "https://api.github.com/users/CrisLi/followers",
+  "following_url": "https://api.github.com/users/CrisLi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CrisLi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CrisLi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CrisLi/subscriptions",
+  "organizations_url": "https://api.github.com/users/CrisLi/orgs",
+  "repos_url": "https://api.github.com/users/CrisLi/repos",
+  "events_url": "https://api.github.com/users/CrisLi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CrisLi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
