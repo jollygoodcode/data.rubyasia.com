@@ -1,0 +1,20 @@
+{
+  "login": "denpaio",
+  "id": 20357796,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/20357796?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/denpaio",
+  "html_url": "https://github.com/denpaio",
+  "followers_url": "https://api.github.com/users/denpaio/followers",
+  "following_url": "https://api.github.com/users/denpaio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/denpaio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/denpaio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/denpaio/subscriptions",
+  "organizations_url": "https://api.github.com/users/denpaio/orgs",
+  "repos_url": "https://api.github.com/users/denpaio/repos",
+  "events_url": "https://api.github.com/users/denpaio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/denpaio/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
