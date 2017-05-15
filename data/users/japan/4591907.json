@@ -1,0 +1,20 @@
+{
+  "login": "a-tak",
+  "id": 4591907,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4591907?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/a-tak",
+  "html_url": "https://github.com/a-tak",
+  "followers_url": "https://api.github.com/users/a-tak/followers",
+  "following_url": "https://api.github.com/users/a-tak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/a-tak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/a-tak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/a-tak/subscriptions",
+  "organizations_url": "https://api.github.com/users/a-tak/orgs",
+  "repos_url": "https://api.github.com/users/a-tak/repos",
+  "events_url": "https://api.github.com/users/a-tak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/a-tak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

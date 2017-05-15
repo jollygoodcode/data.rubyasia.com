@@ -1,0 +1,20 @@
+{
+  "login": "alexhawkins",
+  "id": 5912301,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5912301?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexhawkins",
+  "html_url": "https://github.com/alexhawkins",
+  "followers_url": "https://api.github.com/users/alexhawkins/followers",
+  "following_url": "https://api.github.com/users/alexhawkins/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexhawkins/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexhawkins/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexhawkins/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexhawkins/orgs",
+  "repos_url": "https://api.github.com/users/alexhawkins/repos",
+  "events_url": "https://api.github.com/users/alexhawkins/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexhawkins/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
