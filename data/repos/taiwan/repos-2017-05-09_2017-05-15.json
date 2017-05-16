@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-05-16 08:13:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-09..2017-05-15",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3611,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

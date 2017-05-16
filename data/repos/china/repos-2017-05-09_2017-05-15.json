@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-05-16 08:11:18 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-09..2017-05-15",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4606,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "railsbp/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/railsbp/rails_best_practices",
+      "stars": 3327,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 634,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/cywin",
+      "description": "Cywin Closed( Chinese name: 创业赢 )",
+      "html_url": "https://github.com/windy/cywin",
+      "stars": 302,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 183,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 89,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
