@@ -1,0 +1,20 @@
+{
+  "login": "thatguysimon",
+  "id": 14040554,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/14040554?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thatguysimon",
+  "html_url": "https://github.com/thatguysimon",
+  "followers_url": "https://api.github.com/users/thatguysimon/followers",
+  "following_url": "https://api.github.com/users/thatguysimon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thatguysimon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thatguysimon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thatguysimon/subscriptions",
+  "organizations_url": "https://api.github.com/users/thatguysimon/orgs",
+  "repos_url": "https://api.github.com/users/thatguysimon/repos",
+  "events_url": "https://api.github.com/users/thatguysimon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thatguysimon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
