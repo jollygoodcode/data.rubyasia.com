@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-05-17 08:10:23 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-10..2017-05-16",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1151,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "rajdeepv/parallel_calabash",
+      "description": "Helps running calabash ios/android tests in parallel",
+      "html_url": "https://github.com/rajdeepv/parallel_calabash",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
