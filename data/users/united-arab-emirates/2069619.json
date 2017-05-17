@@ -1,0 +1,20 @@
+{
+  "login": "a-tibi",
+  "id": 2069619,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2069619?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/a-tibi",
+  "html_url": "https://github.com/a-tibi",
+  "followers_url": "https://api.github.com/users/a-tibi/followers",
+  "following_url": "https://api.github.com/users/a-tibi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/a-tibi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/a-tibi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/a-tibi/subscriptions",
+  "organizations_url": "https://api.github.com/users/a-tibi/orgs",
+  "repos_url": "https://api.github.com/users/a-tibi/repos",
+  "events_url": "https://api.github.com/users/a-tibi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/a-tibi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
