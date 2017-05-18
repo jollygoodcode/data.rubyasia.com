@@ -1,0 +1,20 @@
+{
+  "login": "tom2rd",
+  "id": 20276791,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/20276791?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tom2rd",
+  "html_url": "https://github.com/tom2rd",
+  "followers_url": "https://api.github.com/users/tom2rd/followers",
+  "following_url": "https://api.github.com/users/tom2rd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tom2rd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tom2rd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tom2rd/subscriptions",
+  "organizations_url": "https://api.github.com/users/tom2rd/orgs",
+  "repos_url": "https://api.github.com/users/tom2rd/repos",
+  "events_url": "https://api.github.com/users/tom2rd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tom2rd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
