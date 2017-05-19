@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-05-19 08:11:25 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-12..2017-05-18",
+  "repos": [
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "Redmine's Time & Expense Plugin",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "rajdeepv/parallel_calabash",
+      "description": "Helps running calabash ios/android tests in parallel",
+      "html_url": "https://github.com/rajdeepv/parallel_calabash",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
