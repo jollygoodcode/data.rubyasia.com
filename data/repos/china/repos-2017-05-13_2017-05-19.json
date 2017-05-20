@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-05-20 08:11:21 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-13..2017-05-19",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 892,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 572,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 184,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
