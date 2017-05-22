@@ -1,0 +1,20 @@
+{
+  "login": "skyloken",
+  "id": 28672058,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/28672058?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skyloken",
+  "html_url": "https://github.com/skyloken",
+  "followers_url": "https://api.github.com/users/skyloken/followers",
+  "following_url": "https://api.github.com/users/skyloken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skyloken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skyloken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skyloken/subscriptions",
+  "organizations_url": "https://api.github.com/users/skyloken/orgs",
+  "repos_url": "https://api.github.com/users/skyloken/repos",
+  "events_url": "https://api.github.com/users/skyloken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skyloken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
