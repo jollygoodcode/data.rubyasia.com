@@ -1,0 +1,20 @@
+{
+  "login": "curvegrid",
+  "id": 28252859,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/28252859?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/curvegrid",
+  "html_url": "https://github.com/curvegrid",
+  "followers_url": "https://api.github.com/users/curvegrid/followers",
+  "following_url": "https://api.github.com/users/curvegrid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/curvegrid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/curvegrid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/curvegrid/subscriptions",
+  "organizations_url": "https://api.github.com/users/curvegrid/orgs",
+  "repos_url": "https://api.github.com/users/curvegrid/repos",
+  "events_url": "https://api.github.com/users/curvegrid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/curvegrid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
