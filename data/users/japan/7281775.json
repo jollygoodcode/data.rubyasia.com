@@ -1,0 +1,20 @@
+{
+  "login": "87carats",
+  "id": 7281775,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7281775?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/87carats",
+  "html_url": "https://github.com/87carats",
+  "followers_url": "https://api.github.com/users/87carats/followers",
+  "following_url": "https://api.github.com/users/87carats/following{/other_user}",
+  "gists_url": "https://api.github.com/users/87carats/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/87carats/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/87carats/subscriptions",
+  "organizations_url": "https://api.github.com/users/87carats/orgs",
+  "repos_url": "https://api.github.com/users/87carats/repos",
+  "events_url": "https://api.github.com/users/87carats/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/87carats/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
