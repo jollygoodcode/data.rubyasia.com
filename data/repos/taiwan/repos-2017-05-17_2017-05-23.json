@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-05-24 08:13:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-17..2017-05-23",
+  "repos": [
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 131,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tonytonyjan/gistyle",
+      "description": "GIStyle is a Rails plug-in for DOM-based routing of Javascript, inspired from Paul Irish and Jason Garber.",
+      "html_url": "https://github.com/tonytonyjan/gistyle",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "5xRuby/spgateway-rails",
+      "description": "智付通金流的 Rails plugin (well, not completely tested for production yet)。",
+      "html_url": "https://github.com/5xRuby/spgateway-rails",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
