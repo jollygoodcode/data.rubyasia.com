@@ -1,0 +1,20 @@
+{
+  "login": "padbits",
+  "id": 28530150,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/28530150?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/padbits",
+  "html_url": "https://github.com/padbits",
+  "followers_url": "https://api.github.com/users/padbits/followers",
+  "following_url": "https://api.github.com/users/padbits/following{/other_user}",
+  "gists_url": "https://api.github.com/users/padbits/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/padbits/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/padbits/subscriptions",
+  "organizations_url": "https://api.github.com/users/padbits/orgs",
+  "repos_url": "https://api.github.com/users/padbits/repos",
+  "events_url": "https://api.github.com/users/padbits/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/padbits/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
