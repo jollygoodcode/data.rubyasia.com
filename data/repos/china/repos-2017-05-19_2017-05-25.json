@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-05-26 08:11:32 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-19..2017-05-25",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4641,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3338,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "daqing/rabel",
+      "description": "Community redefined.",
+      "html_url": "https://github.com/daqing/rabel",
+      "stars": 629,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 89,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-05-26 08:13:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-19..2017-05-25",
+  "repos": [
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 131,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "5xRuby/spgateway-rails",
+      "description": "智付通金流的 Rails plugin (well, not completely tested for production yet)。",
+      "html_url": "https://github.com/5xRuby/spgateway-rails",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
