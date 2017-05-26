@@ -1,0 +1,20 @@
+{
+  "login": "devops-internal",
+  "id": 25956550,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/25956550?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devops-internal",
+  "html_url": "https://github.com/devops-internal",
+  "followers_url": "https://api.github.com/users/devops-internal/followers",
+  "following_url": "https://api.github.com/users/devops-internal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devops-internal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devops-internal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devops-internal/subscriptions",
+  "organizations_url": "https://api.github.com/users/devops-internal/orgs",
+  "repos_url": "https://api.github.com/users/devops-internal/repos",
+  "events_url": "https://api.github.com/users/devops-internal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devops-internal/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
