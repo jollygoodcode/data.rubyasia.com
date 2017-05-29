@@ -1,0 +1,20 @@
+{
+  "login": "yandha",
+  "id": 14568766,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/14568766?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yandha",
+  "html_url": "https://github.com/yandha",
+  "followers_url": "https://api.github.com/users/yandha/followers",
+  "following_url": "https://api.github.com/users/yandha/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yandha/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yandha/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yandha/subscriptions",
+  "organizations_url": "https://api.github.com/users/yandha/orgs",
+  "repos_url": "https://api.github.com/users/yandha/repos",
+  "events_url": "https://api.github.com/users/yandha/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yandha/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
