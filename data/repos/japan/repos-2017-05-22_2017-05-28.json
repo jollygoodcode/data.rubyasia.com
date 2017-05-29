@@ -1,0 +1,262 @@
+{
+  "generated_at": "2017-05-29 08:12:26 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-22..2017-05-28",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 2004,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1902,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 1198,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 634,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/md2key",
+      "description": "Convert markdown to keynote",
+      "html_url": "https://github.com/k0kubun/md2key",
+      "stars": 623,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 519,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mischa78/boxroom",
+      "description": "Boxroom is a Rails application that aims to be a simple interface for managing and sharing files in a web browser. It lets users create folders and upload, download and share files. Admins can manage users, groups and permissions.",
+      "html_url": "https://github.com/mischa78/boxroom",
+      "stars": 306,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.3.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 255,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 237,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/openid_connect",
+      "description": "OpenID Connect Server & Client Library",
+      "html_url": "https://github.com/nov/openid_connect",
+      "stars": 210,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/yarn/ncu/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 128,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cxn03651/write_xlsx",
+      "description": "Rubygem for create excel xlsx file",
+      "html_url": "https://github.com/cxn03651/write_xlsx",
+      "stars": 122,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "higanworks/knife-zero",
+      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
+      "html_url": "https://github.com/higanworks/knife-zero",
+      "stars": 117,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/waker",
+      "description": "Wake someone up!",
+      "html_url": "https://github.com/ryotarai/waker",
+      "stars": 105,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/barbeque",
+      "description": "Job queue system to run job with Docker",
+      "html_url": "https://github.com/cookpad/barbeque",
+      "stars": 91,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mrkn/pycall",
+      "description": "Calling Python functions from the Ruby language",
+      "html_url": "https://github.com/mrkn/pycall",
+      "stars": 89,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/fluent-plugin-record-reformer",
+      "description": "Fluentd plugin to add or replace fields of a event record",
+      "html_url": "https://github.com/sonots/fluent-plugin-record-reformer",
+      "stars": 82,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masa16/pwrake",
+      "description": "Parallel Workflow extension for Rake, runs on multicores, clusters, clouds.",
+      "html_url": "https://github.com/masa16/pwrake",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yasaichi/gakubuchi",
+      "description": "Static pages management with Asset Pipeline",
+      "html_url": "https://github.com/yasaichi/gakubuchi",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "labocho/rubydoc-ja-docsets",
+      "description": "Ruby リファレンスマニュアル (http://doc.ruby-lang.org/ja/) を Dash (http://kapeli.com/) で閲覧できる形式 (Docsets) にするツールです。",
+      "html_url": "https://github.com/labocho/rubydoc-ja-docsets",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mitaku/komachi_heartbeat",
+      "description": null,
+      "html_url": "https://github.com/mitaku/komachi_heartbeat",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": null,
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "udzura/rspec-padrino",
+      "description": "rspec-padrino is a gem including helpers for testing a Padrino app.",
+      "html_url": "https://github.com/udzura/rspec-padrino",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "momibun926/redmine_issue_evm",
+      "description": "This plugin provides the function of calculating evm of projects . EVM can help you to track your project progress and its status and to forecast the future performance of the project. ",
+      "html_url": "https://github.com/momibun926/redmine_issue_evm",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "haw-itn/openassets-ruby",
+      "description": "The implementation of the Open Assets Protocol for Ruby.",
+      "html_url": "https://github.com/haw-itn/openassets-ruby",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kymmt90/hatenablog",
+      "description": "A Ruby gem for Hatena Blog AtomPub API",
+      "html_url": "https://github.com/kymmt90/hatenablog",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
