@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-05-30 08:13:29 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-23..2017-05-29",
+  "repos": [
+    {
+      "full_name": "5xRuby/spgateway-rails",
+      "description": "智付通金流的 Rails plugin (well, not completely tested for production yet)。",
+      "html_url": "https://github.com/5xRuby/spgateway-rails",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
