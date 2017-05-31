@@ -1,0 +1,20 @@
+{
+  "login": "elarahq",
+  "id": 2893936,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2893936?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elarahq",
+  "html_url": "https://github.com/elarahq",
+  "followers_url": "https://api.github.com/users/elarahq/followers",
+  "following_url": "https://api.github.com/users/elarahq/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elarahq/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elarahq/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elarahq/subscriptions",
+  "organizations_url": "https://api.github.com/users/elarahq/orgs",
+  "repos_url": "https://api.github.com/users/elarahq/repos",
+  "events_url": "https://api.github.com/users/elarahq/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elarahq/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
