@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-05-31 08:13:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-24..2017-05-30",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2415,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "winston/google_visualr",
+      "description": "A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart.",
+      "html_url": "https://github.com/winston/google_visualr",
+      "stars": 420,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
