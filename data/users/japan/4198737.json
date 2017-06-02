@@ -1,0 +1,20 @@
+{
+  "login": "mahori",
+  "id": 4198737,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4198737?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mahori",
+  "html_url": "https://github.com/mahori",
+  "followers_url": "https://api.github.com/users/mahori/followers",
+  "following_url": "https://api.github.com/users/mahori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mahori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mahori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mahori/subscriptions",
+  "organizations_url": "https://api.github.com/users/mahori/orgs",
+  "repos_url": "https://api.github.com/users/mahori/repos",
+  "events_url": "https://api.github.com/users/mahori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mahori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
