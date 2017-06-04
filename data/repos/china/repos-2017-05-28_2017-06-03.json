@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-06-04 08:11:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-28..2017-06-03",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4652,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3340,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

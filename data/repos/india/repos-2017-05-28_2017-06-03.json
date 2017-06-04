@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-06-04 08:11:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-28..2017-06-03",
+  "repos": [
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 153,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "AdiChat/Repository-Hunter",
+      "description": ":rose: Making GitHub:octocat: more socially engaging 🎮 and fun 🍥 for all 👦 + 👧 + 👴 + 👶 + 🐮 + 🐦 + 🐱 ...",
+      "html_url": "https://github.com/AdiChat/Repository-Hunter",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sachin87/week-of-month",
+      "description": "gives a week of month as per given date",
+      "html_url": "https://github.com/sachin87/week-of-month",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
