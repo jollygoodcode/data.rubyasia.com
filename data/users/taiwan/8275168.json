@@ -1,0 +1,20 @@
+{
+  "login": "juinc",
+  "id": 8275168,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/8275168?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/juinc",
+  "html_url": "https://github.com/juinc",
+  "followers_url": "https://api.github.com/users/juinc/followers",
+  "following_url": "https://api.github.com/users/juinc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/juinc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/juinc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/juinc/subscriptions",
+  "organizations_url": "https://api.github.com/users/juinc/orgs",
+  "repos_url": "https://api.github.com/users/juinc/repos",
+  "events_url": "https://api.github.com/users/juinc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/juinc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
