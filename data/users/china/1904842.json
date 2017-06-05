@@ -1,0 +1,20 @@
+{
+  "login": "xmlu",
+  "id": 1904842,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1904842?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xmlu",
+  "html_url": "https://github.com/xmlu",
+  "followers_url": "https://api.github.com/users/xmlu/followers",
+  "following_url": "https://api.github.com/users/xmlu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xmlu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xmlu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xmlu/subscriptions",
+  "organizations_url": "https://api.github.com/users/xmlu/orgs",
+  "repos_url": "https://api.github.com/users/xmlu/repos",
+  "events_url": "https://api.github.com/users/xmlu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xmlu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

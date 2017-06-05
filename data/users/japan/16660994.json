@@ -1,0 +1,20 @@
+{
+  "login": "cgsimmons",
+  "id": 16660994,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/16660994?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cgsimmons",
+  "html_url": "https://github.com/cgsimmons",
+  "followers_url": "https://api.github.com/users/cgsimmons/followers",
+  "following_url": "https://api.github.com/users/cgsimmons/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cgsimmons/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cgsimmons/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cgsimmons/subscriptions",
+  "organizations_url": "https://api.github.com/users/cgsimmons/orgs",
+  "repos_url": "https://api.github.com/users/cgsimmons/repos",
+  "events_url": "https://api.github.com/users/cgsimmons/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cgsimmons/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

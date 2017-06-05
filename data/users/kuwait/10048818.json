@@ -1,0 +1,20 @@
+{
+  "login": "iammoaz",
+  "id": 10048818,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10048818?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iammoaz",
+  "html_url": "https://github.com/iammoaz",
+  "followers_url": "https://api.github.com/users/iammoaz/followers",
+  "following_url": "https://api.github.com/users/iammoaz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iammoaz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iammoaz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iammoaz/subscriptions",
+  "organizations_url": "https://api.github.com/users/iammoaz/orgs",
+  "repos_url": "https://api.github.com/users/iammoaz/repos",
+  "events_url": "https://api.github.com/users/iammoaz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iammoaz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
