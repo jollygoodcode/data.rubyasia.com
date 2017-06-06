@@ -1,0 +1,20 @@
+{
+  "login": "sunlymaster",
+  "id": 7588092,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7588092?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sunlymaster",
+  "html_url": "https://github.com/sunlymaster",
+  "followers_url": "https://api.github.com/users/sunlymaster/followers",
+  "following_url": "https://api.github.com/users/sunlymaster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sunlymaster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sunlymaster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sunlymaster/subscriptions",
+  "organizations_url": "https://api.github.com/users/sunlymaster/orgs",
+  "repos_url": "https://api.github.com/users/sunlymaster/repos",
+  "events_url": "https://api.github.com/users/sunlymaster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sunlymaster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

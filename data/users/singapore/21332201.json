@@ -1,0 +1,20 @@
+{
+  "login": "lbias",
+  "id": 21332201,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/21332201?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lbias",
+  "html_url": "https://github.com/lbias",
+  "followers_url": "https://api.github.com/users/lbias/followers",
+  "following_url": "https://api.github.com/users/lbias/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lbias/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lbias/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lbias/subscriptions",
+  "organizations_url": "https://api.github.com/users/lbias/orgs",
+  "repos_url": "https://api.github.com/users/lbias/repos",
+  "events_url": "https://api.github.com/users/lbias/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lbias/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

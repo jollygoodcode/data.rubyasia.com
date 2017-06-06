@@ -1,0 +1,20 @@
+{
+  "login": "alfandash",
+  "id": 5524272,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5524272?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alfandash",
+  "html_url": "https://github.com/alfandash",
+  "followers_url": "https://api.github.com/users/alfandash/followers",
+  "following_url": "https://api.github.com/users/alfandash/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alfandash/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alfandash/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alfandash/subscriptions",
+  "organizations_url": "https://api.github.com/users/alfandash/orgs",
+  "repos_url": "https://api.github.com/users/alfandash/repos",
+  "events_url": "https://api.github.com/users/alfandash/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alfandash/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

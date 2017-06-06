@@ -1,0 +1,20 @@
+{
+  "login": "codespectator",
+  "id": 209700,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/209700?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codespectator",
+  "html_url": "https://github.com/codespectator",
+  "followers_url": "https://api.github.com/users/codespectator/followers",
+  "following_url": "https://api.github.com/users/codespectator/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codespectator/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codespectator/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codespectator/subscriptions",
+  "organizations_url": "https://api.github.com/users/codespectator/orgs",
+  "repos_url": "https://api.github.com/users/codespectator/repos",
+  "events_url": "https://api.github.com/users/codespectator/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codespectator/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

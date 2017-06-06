@@ -1,0 +1,20 @@
+{
+  "login": "kimsuk",
+  "id": 3695412,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3695412?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimsuk",
+  "html_url": "https://github.com/kimsuk",
+  "followers_url": "https://api.github.com/users/kimsuk/followers",
+  "following_url": "https://api.github.com/users/kimsuk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimsuk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimsuk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimsuk/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimsuk/orgs",
+  "repos_url": "https://api.github.com/users/kimsuk/repos",
+  "events_url": "https://api.github.com/users/kimsuk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimsuk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
