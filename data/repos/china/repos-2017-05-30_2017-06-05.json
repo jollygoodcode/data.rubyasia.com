@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-06-06 08:11:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-05-30..2017-06-05",
+  "repos": [
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3343,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails-brakeman.com",
+      "description": "online security check for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails-brakeman.com",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
