@@ -1,0 +1,20 @@
+{
+  "login": "ferrygun",
+  "id": 3617343,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3617343?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ferrygun",
+  "html_url": "https://github.com/ferrygun",
+  "followers_url": "https://api.github.com/users/ferrygun/followers",
+  "following_url": "https://api.github.com/users/ferrygun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ferrygun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ferrygun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ferrygun/subscriptions",
+  "organizations_url": "https://api.github.com/users/ferrygun/orgs",
+  "repos_url": "https://api.github.com/users/ferrygun/repos",
+  "events_url": "https://api.github.com/users/ferrygun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ferrygun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
