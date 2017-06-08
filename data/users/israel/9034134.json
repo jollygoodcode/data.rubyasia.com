@@ -1,0 +1,20 @@
+{
+  "login": "NewstHet",
+  "id": 9034134,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/9034134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NewstHet",
+  "html_url": "https://github.com/NewstHet",
+  "followers_url": "https://api.github.com/users/NewstHet/followers",
+  "following_url": "https://api.github.com/users/NewstHet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NewstHet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NewstHet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NewstHet/subscriptions",
+  "organizations_url": "https://api.github.com/users/NewstHet/orgs",
+  "repos_url": "https://api.github.com/users/NewstHet/repos",
+  "events_url": "https://api.github.com/users/NewstHet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NewstHet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

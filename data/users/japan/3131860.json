@@ -1,0 +1,20 @@
+{
+  "login": "justastartup",
+  "id": 3131860,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3131860?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/justastartup",
+  "html_url": "https://github.com/justastartup",
+  "followers_url": "https://api.github.com/users/justastartup/followers",
+  "following_url": "https://api.github.com/users/justastartup/following{/other_user}",
+  "gists_url": "https://api.github.com/users/justastartup/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/justastartup/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/justastartup/subscriptions",
+  "organizations_url": "https://api.github.com/users/justastartup/orgs",
+  "repos_url": "https://api.github.com/users/justastartup/repos",
+  "events_url": "https://api.github.com/users/justastartup/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/justastartup/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
