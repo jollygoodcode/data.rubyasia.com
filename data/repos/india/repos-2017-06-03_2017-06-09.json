@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-06-10 08:11:49 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-03..2017-06-09",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1169,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 155,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sachin/silverspoon",
+      "description": "rails5 app with devise, bootstrap4, active admin, exception notifier and flash messages",
+      "html_url": "https://github.com/sachin/silverspoon",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sadiqmmm/clipboard-rails",
+      "description": "clipboard.js javascript library integration for your Rails 4 and Rails 5 applications",
+      "html_url": "https://github.com/sadiqmmm/clipboard-rails",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

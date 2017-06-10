@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-06-10 08:13:50 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-03..2017-06-09",
+  "repos": [
+    {
+      "full_name": "james2m/canard",
+      "description": "Makes role based authorization in Rails3 really simple. Wraps CanCan and RoleModel up with a smattering of syntactic sugar, some generators and scopes.",
+      "html_url": "https://github.com/james2m/canard",
+      "stars": 123,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}
