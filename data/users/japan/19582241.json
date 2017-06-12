@@ -1,0 +1,20 @@
+{
+  "login": "andrewjkay",
+  "id": 19582241,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/19582241?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andrewjkay",
+  "html_url": "https://github.com/andrewjkay",
+  "followers_url": "https://api.github.com/users/andrewjkay/followers",
+  "following_url": "https://api.github.com/users/andrewjkay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andrewjkay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andrewjkay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andrewjkay/subscriptions",
+  "organizations_url": "https://api.github.com/users/andrewjkay/orgs",
+  "repos_url": "https://api.github.com/users/andrewjkay/repos",
+  "events_url": "https://api.github.com/users/andrewjkay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andrewjkay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tony-sunny",
+  "id": 20499489,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/20499489?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tony-sunny",
+  "html_url": "https://github.com/tony-sunny",
+  "followers_url": "https://api.github.com/users/tony-sunny/followers",
+  "following_url": "https://api.github.com/users/tony-sunny/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tony-sunny/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tony-sunny/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tony-sunny/subscriptions",
+  "organizations_url": "https://api.github.com/users/tony-sunny/orgs",
+  "repos_url": "https://api.github.com/users/tony-sunny/repos",
+  "events_url": "https://api.github.com/users/tony-sunny/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tony-sunny/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
