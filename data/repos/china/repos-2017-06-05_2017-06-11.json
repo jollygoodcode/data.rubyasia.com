@@ -1,0 +1,62 @@
+{
+  "generated_at": "2017-06-12 08:11:42 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-05..2017-06-11",
+  "repos": [
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3345,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 663,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "An unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 595,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/oauth_china",
+      "description": "OAuth gem for rails，支持新浪，腾讯，网易，搜狐微博和豆瓣。",
+      "html_url": "https://github.com/hooopo/oauth_china",
+      "stars": 197,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails-brakeman.com",
+      "description": "online security check for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails-brakeman.com",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
