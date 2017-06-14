@@ -1,0 +1,20 @@
+{
+  "login": "sato11",
+  "id": 22004610,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/22004610?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sato11",
+  "html_url": "https://github.com/sato11",
+  "followers_url": "https://api.github.com/users/sato11/followers",
+  "following_url": "https://api.github.com/users/sato11/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sato11/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sato11/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sato11/subscriptions",
+  "organizations_url": "https://api.github.com/users/sato11/orgs",
+  "repos_url": "https://api.github.com/users/sato11/repos",
+  "events_url": "https://api.github.com/users/sato11/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sato11/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
