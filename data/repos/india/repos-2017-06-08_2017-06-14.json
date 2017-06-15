@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-06-15 08:11:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-08..2017-06-14",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1170,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "AdiChat/Repository-Hunter",
+      "description": ":rose: Making GitHub:octocat: more socially engaging 🎮 and fun 🍥 for all 👦 + 👧 + 👴 + 👶 + 🐮 + 🐦 + 🐱 ...",
+      "html_url": "https://github.com/AdiChat/Repository-Hunter",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
