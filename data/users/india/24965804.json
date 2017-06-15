@@ -1,0 +1,20 @@
+{
+  "login": "inneal",
+  "id": 24965804,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/24965804?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inneal",
+  "html_url": "https://github.com/inneal",
+  "followers_url": "https://api.github.com/users/inneal/followers",
+  "following_url": "https://api.github.com/users/inneal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inneal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inneal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inneal/subscriptions",
+  "organizations_url": "https://api.github.com/users/inneal/orgs",
+  "repos_url": "https://api.github.com/users/inneal/repos",
+  "events_url": "https://api.github.com/users/inneal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inneal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
