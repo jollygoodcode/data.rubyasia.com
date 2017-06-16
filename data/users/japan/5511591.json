@@ -1,0 +1,20 @@
+{
+  "login": "KazuCocoa",
+  "id": 5511591,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5511591?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KazuCocoa",
+  "html_url": "https://github.com/KazuCocoa",
+  "followers_url": "https://api.github.com/users/KazuCocoa/followers",
+  "following_url": "https://api.github.com/users/KazuCocoa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KazuCocoa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KazuCocoa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KazuCocoa/subscriptions",
+  "organizations_url": "https://api.github.com/users/KazuCocoa/orgs",
+  "repos_url": "https://api.github.com/users/KazuCocoa/repos",
+  "events_url": "https://api.github.com/users/KazuCocoa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KazuCocoa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

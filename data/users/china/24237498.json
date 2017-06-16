@@ -1,0 +1,20 @@
+{
+  "login": "CXHacker",
+  "id": 24237498,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/24237498?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CXHacker",
+  "html_url": "https://github.com/CXHacker",
+  "followers_url": "https://api.github.com/users/CXHacker/followers",
+  "following_url": "https://api.github.com/users/CXHacker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CXHacker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CXHacker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CXHacker/subscriptions",
+  "organizations_url": "https://api.github.com/users/CXHacker/orgs",
+  "repos_url": "https://api.github.com/users/CXHacker/repos",
+  "events_url": "https://api.github.com/users/CXHacker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CXHacker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

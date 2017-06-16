@@ -1,0 +1,20 @@
+{
+  "login": "muan",
+  "id": 1153134,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1153134?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/muan",
+  "html_url": "https://github.com/muan",
+  "followers_url": "https://api.github.com/users/muan/followers",
+  "following_url": "https://api.github.com/users/muan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/muan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/muan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/muan/subscriptions",
+  "organizations_url": "https://api.github.com/users/muan/orgs",
+  "repos_url": "https://api.github.com/users/muan/repos",
+  "events_url": "https://api.github.com/users/muan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/muan/received_events",
+  "type": "User",
+  "site_admin": true,
+  "score": 1.0
+}
