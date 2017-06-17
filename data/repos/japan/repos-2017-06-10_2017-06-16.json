@@ -1,0 +1,142 @@
+{
+  "generated_at": "2017-06-17 08:12:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-10..2017-06-16",
+  "repos": [
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 1172,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 523,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mischa78/boxroom",
+      "description": "Boxroom is a Rails application that aims to be a simple interface for managing and sharing files in a web browser. It lets users create folders and upload, download and share files. Admins can manage users, groups and permissions.",
+      "html_url": "https://github.com/mischa78/boxroom",
+      "stars": 307,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 258,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 238,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 165,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/gem-src",
+      "description": "Gem.post_install { `git clone gem_source src` }",
+      "html_url": "https://github.com/amatsuda/gem-src",
+      "stars": 147,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mrkn/pycall",
+      "description": "Calling Python functions from the Ruby language",
+      "html_url": "https://github.com/mrkn/pycall",
+      "stars": 101,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 99,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 88,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/textbringer",
+      "description": "An Emacs-like text editor written in Ruby",
+      "html_url": "https://github.com/shugo/textbringer",
+      "stars": 86,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yasaichi/gakubuchi",
+      "description": "Static pages management with Asset Pipeline",
+      "html_url": "https://github.com/yasaichi/gakubuchi",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/presentations",
+      "description": "The presentations of Cookpad staffs",
+      "html_url": "https://github.com/cookpad/presentations",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

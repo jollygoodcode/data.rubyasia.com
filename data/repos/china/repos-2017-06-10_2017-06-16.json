@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-06-17 08:11:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-10..2017-06-16",
+  "repos": [
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 666,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "An unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 595,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 155,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "nowa/carrierwave-upyun",
+      "description": "UpYun storage for CarrierWave ",
+      "html_url": "https://github.com/nowa/carrierwave-upyun",
+      "stars": 150,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails-brakeman.com",
+      "description": "online security check for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails-brakeman.com",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
