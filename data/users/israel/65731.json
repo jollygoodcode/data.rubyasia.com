@@ -1,0 +1,20 @@
+{
+  "login": "northbear",
+  "id": 65731,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/65731?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/northbear",
+  "html_url": "https://github.com/northbear",
+  "followers_url": "https://api.github.com/users/northbear/followers",
+  "following_url": "https://api.github.com/users/northbear/following{/other_user}",
+  "gists_url": "https://api.github.com/users/northbear/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/northbear/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/northbear/subscriptions",
+  "organizations_url": "https://api.github.com/users/northbear/orgs",
+  "repos_url": "https://api.github.com/users/northbear/repos",
+  "events_url": "https://api.github.com/users/northbear/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/northbear/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
