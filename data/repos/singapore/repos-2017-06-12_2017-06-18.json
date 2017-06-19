@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-06-19 08:13:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-12..2017-06-18",
+  "repos": [
+    {
+      "full_name": "winston/google_visualr",
+      "description": "A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart.",
+      "html_url": "https://github.com/winston/google_visualr",
+      "stars": 420,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
