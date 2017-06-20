@@ -1,0 +1,20 @@
+{
+  "login": "unforsaken",
+  "id": 21004421,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/21004421?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unforsaken",
+  "html_url": "https://github.com/unforsaken",
+  "followers_url": "https://api.github.com/users/unforsaken/followers",
+  "following_url": "https://api.github.com/users/unforsaken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unforsaken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unforsaken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unforsaken/subscriptions",
+  "organizations_url": "https://api.github.com/users/unforsaken/orgs",
+  "repos_url": "https://api.github.com/users/unforsaken/repos",
+  "events_url": "https://api.github.com/users/unforsaken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unforsaken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

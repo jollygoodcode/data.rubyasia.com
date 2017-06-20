@@ -1,0 +1,20 @@
+{
+  "login": "GetuiLaboratory",
+  "id": 14173336,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/14173336?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GetuiLaboratory",
+  "html_url": "https://github.com/GetuiLaboratory",
+  "followers_url": "https://api.github.com/users/GetuiLaboratory/followers",
+  "following_url": "https://api.github.com/users/GetuiLaboratory/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GetuiLaboratory/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GetuiLaboratory/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GetuiLaboratory/subscriptions",
+  "organizations_url": "https://api.github.com/users/GetuiLaboratory/orgs",
+  "repos_url": "https://api.github.com/users/GetuiLaboratory/repos",
+  "events_url": "https://api.github.com/users/GetuiLaboratory/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GetuiLaboratory/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

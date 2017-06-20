@@ -1,0 +1,20 @@
+{
+  "login": "aryung",
+  "id": 1563143,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1563143?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aryung",
+  "html_url": "https://github.com/aryung",
+  "followers_url": "https://api.github.com/users/aryung/followers",
+  "following_url": "https://api.github.com/users/aryung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aryung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aryung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aryung/subscriptions",
+  "organizations_url": "https://api.github.com/users/aryung/orgs",
+  "repos_url": "https://api.github.com/users/aryung/repos",
+  "events_url": "https://api.github.com/users/aryung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aryung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
