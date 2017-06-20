@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-06-20 08:11:42 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-13..2017-06-19",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 913,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 668,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "An unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 597,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "nowa/carrierwave-upyun",
+      "description": "UpYun storage for CarrierWave ",
+      "html_url": "https://github.com/nowa/carrierwave-upyun",
+      "stars": 150,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/imessage",
+      "description": "Command line tool to send iMessage.",
+      "html_url": "https://github.com/linjunpop/imessage",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
