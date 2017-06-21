@@ -1,0 +1,20 @@
+{
+  "login": "BananaCoding",
+  "id": 8064342,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8064342?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BananaCoding",
+  "html_url": "https://github.com/BananaCoding",
+  "followers_url": "https://api.github.com/users/BananaCoding/followers",
+  "following_url": "https://api.github.com/users/BananaCoding/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BananaCoding/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BananaCoding/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BananaCoding/subscriptions",
+  "organizations_url": "https://api.github.com/users/BananaCoding/orgs",
+  "repos_url": "https://api.github.com/users/BananaCoding/repos",
+  "events_url": "https://api.github.com/users/BananaCoding/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BananaCoding/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
