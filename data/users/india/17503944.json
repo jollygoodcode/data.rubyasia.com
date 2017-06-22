@@ -1,0 +1,20 @@
+{
+  "login": "c-threepio",
+  "id": 17503944,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/17503944?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/c-threepio",
+  "html_url": "https://github.com/c-threepio",
+  "followers_url": "https://api.github.com/users/c-threepio/followers",
+  "following_url": "https://api.github.com/users/c-threepio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/c-threepio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/c-threepio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/c-threepio/subscriptions",
+  "organizations_url": "https://api.github.com/users/c-threepio/orgs",
+  "repos_url": "https://api.github.com/users/c-threepio/repos",
+  "events_url": "https://api.github.com/users/c-threepio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/c-threepio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

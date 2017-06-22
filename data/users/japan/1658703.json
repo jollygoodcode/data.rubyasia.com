@@ -1,0 +1,20 @@
+{
+  "login": "simozono",
+  "id": 1658703,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1658703?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simozono",
+  "html_url": "https://github.com/simozono",
+  "followers_url": "https://api.github.com/users/simozono/followers",
+  "following_url": "https://api.github.com/users/simozono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simozono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simozono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simozono/subscriptions",
+  "organizations_url": "https://api.github.com/users/simozono/orgs",
+  "repos_url": "https://api.github.com/users/simozono/repos",
+  "events_url": "https://api.github.com/users/simozono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simozono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
