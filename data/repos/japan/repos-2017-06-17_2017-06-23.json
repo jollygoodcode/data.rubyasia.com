@@ -1,0 +1,174 @@
+{
+  "generated_at": "2017-06-24 08:12:42 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-17..2017-06-23",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 2022,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/md2key",
+      "description": "Convert markdown to keynote",
+      "html_url": "https://github.com/k0kubun/md2key",
+      "stars": 640,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 639,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/garage",
+      "description": "Rails extension for RESTful Hypermedia API",
+      "html_url": "https://github.com/cookpad/garage",
+      "stars": 448,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/rrrspec",
+      "description": "Distributed RSpec",
+      "html_url": "https://github.com/cookpad/rrrspec",
+      "stars": 395,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 260,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "willnet/gimei",
+      "description": "random Japanese name and address generator",
+      "html_url": "https://github.com/willnet/gimei",
+      "stars": 199,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 166,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 161,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/yarn/ncu/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 132,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/activerecord-precount",
+      "description": "N+1 count query killer for ActiveRecord",
+      "html_url": "https://github.com/k0kubun/activerecord-precount",
+      "stars": 112,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 76,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/itamae-secrets",
+      "description": "Encrypted Data Bag for Itamae",
+      "html_url": "https://github.com/sorah/itamae-secrets",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shokai/websocket-client-simple",
+      "description": "Simple WebSocket Client on Ruby",
+      "html_url": "https://github.com/shokai/websocket-client-simple",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-geoip",
+      "description": "Fluentd output plugin to geolocate with geoip.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-geoip",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "Yellowen/Faalis",
+      "description": "A RubyOnRails platform for rapid web application development. Containing a rich and flexible dashboard interface",
+      "html_url": "https://github.com/Yellowen/Faalis",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ma2gedev/bundle-star",
+      "description": "Star github repositories automatically when you bundle installing",
+      "html_url": "https://github.com/ma2gedev/bundle-star",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": null,
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
