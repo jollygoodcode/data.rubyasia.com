@@ -1,0 +1,20 @@
+{
+  "login": "STuhoo",
+  "id": 17267890,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/17267890?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/STuhoo",
+  "html_url": "https://github.com/STuhoo",
+  "followers_url": "https://api.github.com/users/STuhoo/followers",
+  "following_url": "https://api.github.com/users/STuhoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/STuhoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/STuhoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/STuhoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/STuhoo/orgs",
+  "repos_url": "https://api.github.com/users/STuhoo/repos",
+  "events_url": "https://api.github.com/users/STuhoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/STuhoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

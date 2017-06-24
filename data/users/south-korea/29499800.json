@@ -1,0 +1,20 @@
+{
+  "login": "codedals",
+  "id": 29499800,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/29499800?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codedals",
+  "html_url": "https://github.com/codedals",
+  "followers_url": "https://api.github.com/users/codedals/followers",
+  "following_url": "https://api.github.com/users/codedals/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codedals/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codedals/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codedals/subscriptions",
+  "organizations_url": "https://api.github.com/users/codedals/orgs",
+  "repos_url": "https://api.github.com/users/codedals/repos",
+  "events_url": "https://api.github.com/users/codedals/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codedals/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

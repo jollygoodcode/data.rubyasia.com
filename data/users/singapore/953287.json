@@ -1,0 +1,20 @@
+{
+  "login": "mutablestate",
+  "id": 953287,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/953287?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mutablestate",
+  "html_url": "https://github.com/mutablestate",
+  "followers_url": "https://api.github.com/users/mutablestate/followers",
+  "following_url": "https://api.github.com/users/mutablestate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mutablestate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mutablestate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mutablestate/subscriptions",
+  "organizations_url": "https://api.github.com/users/mutablestate/orgs",
+  "repos_url": "https://api.github.com/users/mutablestate/repos",
+  "events_url": "https://api.github.com/users/mutablestate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mutablestate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
