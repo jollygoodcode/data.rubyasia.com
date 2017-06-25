@@ -1,0 +1,20 @@
+{
+  "login": "egarbin",
+  "id": 5088621,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5088621?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/egarbin",
+  "html_url": "https://github.com/egarbin",
+  "followers_url": "https://api.github.com/users/egarbin/followers",
+  "following_url": "https://api.github.com/users/egarbin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/egarbin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/egarbin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/egarbin/subscriptions",
+  "organizations_url": "https://api.github.com/users/egarbin/orgs",
+  "repos_url": "https://api.github.com/users/egarbin/repos",
+  "events_url": "https://api.github.com/users/egarbin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/egarbin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
