@@ -1,0 +1,20 @@
+{
+  "login": "KKBOX",
+  "id": 443354,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/443354?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KKBOX",
+  "html_url": "https://github.com/KKBOX",
+  "followers_url": "https://api.github.com/users/KKBOX/followers",
+  "following_url": "https://api.github.com/users/KKBOX/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KKBOX/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KKBOX/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KKBOX/subscriptions",
+  "organizations_url": "https://api.github.com/users/KKBOX/orgs",
+  "repos_url": "https://api.github.com/users/KKBOX/repos",
+  "events_url": "https://api.github.com/users/KKBOX/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KKBOX/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

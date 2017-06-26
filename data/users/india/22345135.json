@@ -1,0 +1,20 @@
+{
+  "login": "monst3rslappy",
+  "id": 22345135,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/22345135?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/monst3rslappy",
+  "html_url": "https://github.com/monst3rslappy",
+  "followers_url": "https://api.github.com/users/monst3rslappy/followers",
+  "following_url": "https://api.github.com/users/monst3rslappy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/monst3rslappy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/monst3rslappy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/monst3rslappy/subscriptions",
+  "organizations_url": "https://api.github.com/users/monst3rslappy/orgs",
+  "repos_url": "https://api.github.com/users/monst3rslappy/repos",
+  "events_url": "https://api.github.com/users/monst3rslappy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/monst3rslappy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
