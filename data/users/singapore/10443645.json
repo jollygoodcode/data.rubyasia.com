@@ -1,0 +1,20 @@
+{
+  "login": "colynprater",
+  "id": 10443645,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10443645?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/colynprater",
+  "html_url": "https://github.com/colynprater",
+  "followers_url": "https://api.github.com/users/colynprater/followers",
+  "following_url": "https://api.github.com/users/colynprater/following{/other_user}",
+  "gists_url": "https://api.github.com/users/colynprater/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/colynprater/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/colynprater/subscriptions",
+  "organizations_url": "https://api.github.com/users/colynprater/orgs",
+  "repos_url": "https://api.github.com/users/colynprater/repos",
+  "events_url": "https://api.github.com/users/colynprater/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/colynprater/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
