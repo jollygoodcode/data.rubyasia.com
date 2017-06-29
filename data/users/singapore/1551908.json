@@ -1,0 +1,20 @@
+{
+  "login": "gwlim",
+  "id": 1551908,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1551908?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gwlim",
+  "html_url": "https://github.com/gwlim",
+  "followers_url": "https://api.github.com/users/gwlim/followers",
+  "following_url": "https://api.github.com/users/gwlim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gwlim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gwlim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gwlim/subscriptions",
+  "organizations_url": "https://api.github.com/users/gwlim/orgs",
+  "repos_url": "https://api.github.com/users/gwlim/repos",
+  "events_url": "https://api.github.com/users/gwlim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gwlim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

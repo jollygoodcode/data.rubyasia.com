@@ -1,0 +1,20 @@
+{
+  "login": "ztchia",
+  "id": 15308068,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/15308068?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ztchia",
+  "html_url": "https://github.com/ztchia",
+  "followers_url": "https://api.github.com/users/ztchia/followers",
+  "following_url": "https://api.github.com/users/ztchia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ztchia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ztchia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ztchia/subscriptions",
+  "organizations_url": "https://api.github.com/users/ztchia/orgs",
+  "repos_url": "https://api.github.com/users/ztchia/repos",
+  "events_url": "https://api.github.com/users/ztchia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ztchia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
