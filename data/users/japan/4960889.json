@@ -1,0 +1,20 @@
+{
+  "login": "zartheit",
+  "id": 4960889,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4960889?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zartheit",
+  "html_url": "https://github.com/zartheit",
+  "followers_url": "https://api.github.com/users/zartheit/followers",
+  "following_url": "https://api.github.com/users/zartheit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zartheit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zartheit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zartheit/subscriptions",
+  "organizations_url": "https://api.github.com/users/zartheit/orgs",
+  "repos_url": "https://api.github.com/users/zartheit/repos",
+  "events_url": "https://api.github.com/users/zartheit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zartheit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

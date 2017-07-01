@@ -1,0 +1,20 @@
+{
+  "login": "webzorg",
+  "id": 7377320,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7377320?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/webzorg",
+  "html_url": "https://github.com/webzorg",
+  "followers_url": "https://api.github.com/users/webzorg/followers",
+  "following_url": "https://api.github.com/users/webzorg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/webzorg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/webzorg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/webzorg/subscriptions",
+  "organizations_url": "https://api.github.com/users/webzorg/orgs",
+  "repos_url": "https://api.github.com/users/webzorg/repos",
+  "events_url": "https://api.github.com/users/webzorg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/webzorg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
