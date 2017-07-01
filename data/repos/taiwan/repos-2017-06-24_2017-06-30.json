@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-07-01 08:12:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-24..2017-06-30",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/active_sample",
+      "description": "I'm feeling lucky! :game_die:",
+      "html_url": "https://github.com/JuanitoFatas/active_sample",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "5xRuby/spgateway-rails",
+      "description": "智付通金流的 Rails plugin (well, not completely tested for production yet)。",
+      "html_url": "https://github.com/5xRuby/spgateway-rails",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
