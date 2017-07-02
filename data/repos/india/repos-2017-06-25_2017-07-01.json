@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-07-02 08:11:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-25..2017-07-01",
+  "repos": [
+    {
+      "full_name": "girishso/pluck_to_hash",
+      "description": "Extend ActiveRecord pluck to return array of hashes",
+      "html_url": "https://github.com/girishso/pluck_to_hash",
+      "stars": 199,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "coderhs/ruby_open_weather_map",
+      "description": "A ruby wrapper for open weather map",
+      "html_url": "https://github.com/coderhs/ruby_open_weather_map",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
