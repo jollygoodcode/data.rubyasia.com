@@ -1,0 +1,20 @@
+{
+  "login": "alebaffa",
+  "id": 465513,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/465513?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alebaffa",
+  "html_url": "https://github.com/alebaffa",
+  "followers_url": "https://api.github.com/users/alebaffa/followers",
+  "following_url": "https://api.github.com/users/alebaffa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alebaffa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alebaffa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alebaffa/subscriptions",
+  "organizations_url": "https://api.github.com/users/alebaffa/orgs",
+  "repos_url": "https://api.github.com/users/alebaffa/repos",
+  "events_url": "https://api.github.com/users/alebaffa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alebaffa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

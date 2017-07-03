@@ -1,0 +1,20 @@
+{
+  "login": "LoopyLoo",
+  "id": 8967479,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8967479?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LoopyLoo",
+  "html_url": "https://github.com/LoopyLoo",
+  "followers_url": "https://api.github.com/users/LoopyLoo/followers",
+  "following_url": "https://api.github.com/users/LoopyLoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LoopyLoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LoopyLoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LoopyLoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/LoopyLoo/orgs",
+  "repos_url": "https://api.github.com/users/LoopyLoo/repos",
+  "events_url": "https://api.github.com/users/LoopyLoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LoopyLoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
