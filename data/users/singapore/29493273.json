@@ -1,0 +1,20 @@
+{
+  "login": "gojektech",
+  "id": 29493273,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/29493273?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gojektech",
+  "html_url": "https://github.com/gojektech",
+  "followers_url": "https://api.github.com/users/gojektech/followers",
+  "following_url": "https://api.github.com/users/gojektech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gojektech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gojektech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gojektech/subscriptions",
+  "organizations_url": "https://api.github.com/users/gojektech/orgs",
+  "repos_url": "https://api.github.com/users/gojektech/repos",
+  "events_url": "https://api.github.com/users/gojektech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gojektech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

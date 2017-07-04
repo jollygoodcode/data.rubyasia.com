@@ -1,0 +1,20 @@
+{
+  "login": "mbootland",
+  "id": 10160677,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10160677?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mbootland",
+  "html_url": "https://github.com/mbootland",
+  "followers_url": "https://api.github.com/users/mbootland/followers",
+  "following_url": "https://api.github.com/users/mbootland/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mbootland/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mbootland/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mbootland/subscriptions",
+  "organizations_url": "https://api.github.com/users/mbootland/orgs",
+  "repos_url": "https://api.github.com/users/mbootland/repos",
+  "events_url": "https://api.github.com/users/mbootland/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mbootland/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
