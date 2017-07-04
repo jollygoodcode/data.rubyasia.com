@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-07-04 08:11:42 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-27..2017-07-03",
+  "repos": [
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 674,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "daqing/rabel",
+      "description": "Community redefined.",
+      "html_url": "https://github.com/daqing/rabel",
+      "stars": 638,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 602,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 286,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "pmq20/mathjax-rails",
+      "description": "Simple gem to integrate MathJax with Rails and maintains MathJax at a system-wide directory.",
+      "html_url": "https://github.com/pmq20/mathjax-rails",
+      "stars": 61,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
