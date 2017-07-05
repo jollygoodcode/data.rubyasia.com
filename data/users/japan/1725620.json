@@ -1,0 +1,20 @@
+{
+  "login": "siman-man",
+  "id": 1725620,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1725620?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/siman-man",
+  "html_url": "https://github.com/siman-man",
+  "followers_url": "https://api.github.com/users/siman-man/followers",
+  "following_url": "https://api.github.com/users/siman-man/following{/other_user}",
+  "gists_url": "https://api.github.com/users/siman-man/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/siman-man/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/siman-man/subscriptions",
+  "organizations_url": "https://api.github.com/users/siman-man/orgs",
+  "repos_url": "https://api.github.com/users/siman-man/repos",
+  "events_url": "https://api.github.com/users/siman-man/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/siman-man/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

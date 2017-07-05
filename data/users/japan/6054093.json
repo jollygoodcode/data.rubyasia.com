@@ -1,0 +1,20 @@
+{
+  "login": "komietty",
+  "id": 6054093,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6054093?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/komietty",
+  "html_url": "https://github.com/komietty",
+  "followers_url": "https://api.github.com/users/komietty/followers",
+  "following_url": "https://api.github.com/users/komietty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/komietty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/komietty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/komietty/subscriptions",
+  "organizations_url": "https://api.github.com/users/komietty/orgs",
+  "repos_url": "https://api.github.com/users/komietty/repos",
+  "events_url": "https://api.github.com/users/komietty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/komietty/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

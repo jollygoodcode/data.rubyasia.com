@@ -1,0 +1,20 @@
+{
+  "login": "naltun",
+  "id": 7507990,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7507990?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/naltun",
+  "html_url": "https://github.com/naltun",
+  "followers_url": "https://api.github.com/users/naltun/followers",
+  "following_url": "https://api.github.com/users/naltun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/naltun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/naltun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/naltun/subscriptions",
+  "organizations_url": "https://api.github.com/users/naltun/orgs",
+  "repos_url": "https://api.github.com/users/naltun/repos",
+  "events_url": "https://api.github.com/users/naltun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/naltun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

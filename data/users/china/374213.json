@@ -1,0 +1,20 @@
+{
+  "login": "deaboway",
+  "id": 374213,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/374213?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deaboway",
+  "html_url": "https://github.com/deaboway",
+  "followers_url": "https://api.github.com/users/deaboway/followers",
+  "following_url": "https://api.github.com/users/deaboway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deaboway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deaboway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deaboway/subscriptions",
+  "organizations_url": "https://api.github.com/users/deaboway/orgs",
+  "repos_url": "https://api.github.com/users/deaboway/repos",
+  "events_url": "https://api.github.com/users/deaboway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deaboway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
