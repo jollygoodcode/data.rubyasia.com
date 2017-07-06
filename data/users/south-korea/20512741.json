@@ -1,0 +1,20 @@
+{
+  "login": "linkprice",
+  "id": 20512741,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20512741?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/linkprice",
+  "html_url": "https://github.com/linkprice",
+  "followers_url": "https://api.github.com/users/linkprice/followers",
+  "following_url": "https://api.github.com/users/linkprice/following{/other_user}",
+  "gists_url": "https://api.github.com/users/linkprice/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/linkprice/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/linkprice/subscriptions",
+  "organizations_url": "https://api.github.com/users/linkprice/orgs",
+  "repos_url": "https://api.github.com/users/linkprice/repos",
+  "events_url": "https://api.github.com/users/linkprice/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/linkprice/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
