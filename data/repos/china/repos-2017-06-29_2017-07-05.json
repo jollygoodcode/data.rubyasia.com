@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-07-06 08:10:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-29..2017-07-05",
+  "repos": [
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 674,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "daqing/rabel",
+      "description": "Community redefined.",
+      "html_url": "https://github.com/daqing/rabel",
+      "stars": 638,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 603,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
