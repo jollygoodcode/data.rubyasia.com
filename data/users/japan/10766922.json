@@ -1,0 +1,20 @@
+{
+  "login": "haliver",
+  "id": 10766922,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/10766922?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/haliver",
+  "html_url": "https://github.com/haliver",
+  "followers_url": "https://api.github.com/users/haliver/followers",
+  "following_url": "https://api.github.com/users/haliver/following{/other_user}",
+  "gists_url": "https://api.github.com/users/haliver/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/haliver/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/haliver/subscriptions",
+  "organizations_url": "https://api.github.com/users/haliver/orgs",
+  "repos_url": "https://api.github.com/users/haliver/repos",
+  "events_url": "https://api.github.com/users/haliver/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/haliver/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
