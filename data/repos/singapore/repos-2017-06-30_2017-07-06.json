@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-07-07 08:13:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-06-30..2017-07-06",
+  "repos": [
+    {
+      "full_name": "choonkeat/active_waiter",
+      "description": "allow your users to wait for the completion of your `ActiveJob`",
+      "html_url": "https://github.com/choonkeat/active_waiter",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology.org",
+      "description": "[OBSOLETE] Coursemology v1 has now been superseded by v2 (https://github.com/coursemology/coursemology2)",
+      "html_url": "https://github.com/Coursemology/coursemology.org",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
