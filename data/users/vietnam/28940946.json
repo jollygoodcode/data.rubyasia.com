@@ -1,0 +1,20 @@
+{
+  "login": "querygroup",
+  "id": 28940946,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/28940946?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/querygroup",
+  "html_url": "https://github.com/querygroup",
+  "followers_url": "https://api.github.com/users/querygroup/followers",
+  "following_url": "https://api.github.com/users/querygroup/following{/other_user}",
+  "gists_url": "https://api.github.com/users/querygroup/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/querygroup/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/querygroup/subscriptions",
+  "organizations_url": "https://api.github.com/users/querygroup/orgs",
+  "repos_url": "https://api.github.com/users/querygroup/repos",
+  "events_url": "https://api.github.com/users/querygroup/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/querygroup/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

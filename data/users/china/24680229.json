@@ -1,0 +1,20 @@
+{
+  "login": "LaxWorks",
+  "id": 24680229,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/24680229?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LaxWorks",
+  "html_url": "https://github.com/LaxWorks",
+  "followers_url": "https://api.github.com/users/LaxWorks/followers",
+  "following_url": "https://api.github.com/users/LaxWorks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LaxWorks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LaxWorks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LaxWorks/subscriptions",
+  "organizations_url": "https://api.github.com/users/LaxWorks/orgs",
+  "repos_url": "https://api.github.com/users/LaxWorks/repos",
+  "events_url": "https://api.github.com/users/LaxWorks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LaxWorks/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
