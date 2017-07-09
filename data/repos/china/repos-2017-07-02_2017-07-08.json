@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-07-09 08:11:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-02..2017-07-08",
+  "repos": [
+    {
+      "full_name": "daqing/rabel",
+      "description": "Community redefined.",
+      "html_url": "https://github.com/daqing/rabel",
+      "stars": 638,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 604,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 93,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
