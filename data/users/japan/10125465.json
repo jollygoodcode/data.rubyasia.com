@@ -1,0 +1,20 @@
+{
+  "login": "airtidy",
+  "id": 10125465,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10125465?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/airtidy",
+  "html_url": "https://github.com/airtidy",
+  "followers_url": "https://api.github.com/users/airtidy/followers",
+  "following_url": "https://api.github.com/users/airtidy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/airtidy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/airtidy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/airtidy/subscriptions",
+  "organizations_url": "https://api.github.com/users/airtidy/orgs",
+  "repos_url": "https://api.github.com/users/airtidy/repos",
+  "events_url": "https://api.github.com/users/airtidy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/airtidy/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

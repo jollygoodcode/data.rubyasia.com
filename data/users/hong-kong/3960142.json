@@ -1,0 +1,20 @@
+{
+  "login": "Swingcloud",
+  "id": 3960142,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3960142?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Swingcloud",
+  "html_url": "https://github.com/Swingcloud",
+  "followers_url": "https://api.github.com/users/Swingcloud/followers",
+  "following_url": "https://api.github.com/users/Swingcloud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Swingcloud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Swingcloud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Swingcloud/subscriptions",
+  "organizations_url": "https://api.github.com/users/Swingcloud/orgs",
+  "repos_url": "https://api.github.com/users/Swingcloud/repos",
+  "events_url": "https://api.github.com/users/Swingcloud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Swingcloud/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
