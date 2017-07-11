@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-07-11 08:13:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-04..2017-07-10",
+  "repos": [
+    {
+      "full_name": "gazay/ids_please",
+      "description": "Helps to get IDs or screen names from links to social network accounts",
+      "html_url": "https://github.com/gazay/ids_please",
+      "stars": 147,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology.org",
+      "description": "[OBSOLETE] Coursemology v1 has now been superseded by v2 (https://github.com/coursemology/coursemology2)",
+      "html_url": "https://github.com/Coursemology/coursemology.org",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

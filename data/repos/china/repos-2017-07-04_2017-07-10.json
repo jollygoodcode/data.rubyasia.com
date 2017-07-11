@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-07-11 08:11:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-04..2017-07-10",
+  "repos": [
+    {
+      "full_name": "daqing/rabel",
+      "description": "Community redefined.",
+      "html_url": "https://github.com/daqing/rabel",
+      "stars": 639,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 603,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 93,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "pmq20/mathjax-rails",
+      "description": "Simple gem to integrate MathJax with Rails and maintains MathJax at a system-wide directory.",
+      "html_url": "https://github.com/pmq20/mathjax-rails",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
