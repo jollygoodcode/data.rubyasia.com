@@ -1,0 +1,20 @@
+{
+  "login": "kaodim",
+  "id": 12215819,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12215819?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaodim",
+  "html_url": "https://github.com/kaodim",
+  "followers_url": "https://api.github.com/users/kaodim/followers",
+  "following_url": "https://api.github.com/users/kaodim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaodim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaodim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaodim/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaodim/orgs",
+  "repos_url": "https://api.github.com/users/kaodim/repos",
+  "events_url": "https://api.github.com/users/kaodim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaodim/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
