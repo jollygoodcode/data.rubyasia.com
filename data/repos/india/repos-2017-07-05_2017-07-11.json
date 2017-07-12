@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-07-12 08:11:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-05..2017-07-11",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1177,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 165,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "ERPmine is an open source free ERP for Service Industries.  It runs within Redmine",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
