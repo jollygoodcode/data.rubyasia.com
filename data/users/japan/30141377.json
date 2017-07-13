@@ -1,0 +1,20 @@
+{
+  "login": "synapse-jp",
+  "id": 30141377,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/30141377?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/synapse-jp",
+  "html_url": "https://github.com/synapse-jp",
+  "followers_url": "https://api.github.com/users/synapse-jp/followers",
+  "following_url": "https://api.github.com/users/synapse-jp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/synapse-jp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/synapse-jp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/synapse-jp/subscriptions",
+  "organizations_url": "https://api.github.com/users/synapse-jp/orgs",
+  "repos_url": "https://api.github.com/users/synapse-jp/repos",
+  "events_url": "https://api.github.com/users/synapse-jp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/synapse-jp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

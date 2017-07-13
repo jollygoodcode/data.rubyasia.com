@@ -1,0 +1,20 @@
+{
+  "login": "donorbox",
+  "id": 10325357,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10325357?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/donorbox",
+  "html_url": "https://github.com/donorbox",
+  "followers_url": "https://api.github.com/users/donorbox/followers",
+  "following_url": "https://api.github.com/users/donorbox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/donorbox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/donorbox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/donorbox/subscriptions",
+  "organizations_url": "https://api.github.com/users/donorbox/orgs",
+  "repos_url": "https://api.github.com/users/donorbox/repos",
+  "events_url": "https://api.github.com/users/donorbox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/donorbox/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
