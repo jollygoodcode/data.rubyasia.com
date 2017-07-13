@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-07-13 08:11:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-06..2017-07-12",
+  "repos": [
+    {
+      "full_name": "romanbsd/heroku-deflater",
+      "description": "Enable gzip compression on heroku, but don't compress images.",
+      "html_url": "https://github.com/romanbsd/heroku-deflater",
+      "stars": 283,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
