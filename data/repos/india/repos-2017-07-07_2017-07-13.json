@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-07-14 08:11:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-07..2017-07-13",
+  "repos": [
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 165,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "ERPmine is an open source free ERP for Service Industries.  It runs within Redmine",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
