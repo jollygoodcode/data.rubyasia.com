@@ -1,0 +1,20 @@
+{
+  "login": "Scelta",
+  "id": 9637282,
+  "avatar_url": "https://avatars5.githubusercontent.com/u/9637282?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Scelta",
+  "html_url": "https://github.com/Scelta",
+  "followers_url": "https://api.github.com/users/Scelta/followers",
+  "following_url": "https://api.github.com/users/Scelta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Scelta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Scelta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Scelta/subscriptions",
+  "organizations_url": "https://api.github.com/users/Scelta/orgs",
+  "repos_url": "https://api.github.com/users/Scelta/repos",
+  "events_url": "https://api.github.com/users/Scelta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Scelta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

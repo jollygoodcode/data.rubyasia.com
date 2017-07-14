@@ -1,0 +1,20 @@
+{
+  "login": "jmissale",
+  "id": 1194899,
+  "avatar_url": "https://avatars6.githubusercontent.com/u/1194899?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jmissale",
+  "html_url": "https://github.com/jmissale",
+  "followers_url": "https://api.github.com/users/jmissale/followers",
+  "following_url": "https://api.github.com/users/jmissale/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jmissale/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jmissale/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jmissale/subscriptions",
+  "organizations_url": "https://api.github.com/users/jmissale/orgs",
+  "repos_url": "https://api.github.com/users/jmissale/repos",
+  "events_url": "https://api.github.com/users/jmissale/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jmissale/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
