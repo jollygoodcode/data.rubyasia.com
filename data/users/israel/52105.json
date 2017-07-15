@@ -1,0 +1,20 @@
+{
+  "login": "yezzziam",
+  "id": 52105,
+  "avatar_url": "https://avatars4.githubusercontent.com/u/52105?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yezzziam",
+  "html_url": "https://github.com/yezzziam",
+  "followers_url": "https://api.github.com/users/yezzziam/followers",
+  "following_url": "https://api.github.com/users/yezzziam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yezzziam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yezzziam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yezzziam/subscriptions",
+  "organizations_url": "https://api.github.com/users/yezzziam/orgs",
+  "repos_url": "https://api.github.com/users/yezzziam/repos",
+  "events_url": "https://api.github.com/users/yezzziam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yezzziam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
