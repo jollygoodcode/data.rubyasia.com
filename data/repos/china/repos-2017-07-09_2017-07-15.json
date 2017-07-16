@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-07-16 08:11:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-09..2017-07-15",
+  "repos": [
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 604,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 602,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 288,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/carrierwave-aliyun",
+      "description": "阿里云 OSS Ruby 上传组件，基于 Carrierwave",
+      "html_url": "https://github.com/huacnlee/carrierwave-aliyun",
+      "stars": 151,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jjyr/minidown",
+      "description": "Minidown is a lightweight & fast markdown parser, with complete GFM support.",
+      "html_url": "https://github.com/jjyr/minidown",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
