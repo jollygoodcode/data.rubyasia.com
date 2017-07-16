@@ -1,0 +1,20 @@
+{
+  "login": "ckush",
+  "id": 25913086,
+  "avatar_url": "https://avatars6.githubusercontent.com/u/25913086?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ckush",
+  "html_url": "https://github.com/ckush",
+  "followers_url": "https://api.github.com/users/ckush/followers",
+  "following_url": "https://api.github.com/users/ckush/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ckush/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ckush/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ckush/subscriptions",
+  "organizations_url": "https://api.github.com/users/ckush/orgs",
+  "repos_url": "https://api.github.com/users/ckush/repos",
+  "events_url": "https://api.github.com/users/ckush/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ckush/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

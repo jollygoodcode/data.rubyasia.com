@@ -1,0 +1,20 @@
+{
+  "login": "lwoody",
+  "id": 18063356,
+  "avatar_url": "https://avatars5.githubusercontent.com/u/18063356?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lwoody",
+  "html_url": "https://github.com/lwoody",
+  "followers_url": "https://api.github.com/users/lwoody/followers",
+  "following_url": "https://api.github.com/users/lwoody/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lwoody/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lwoody/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lwoody/subscriptions",
+  "organizations_url": "https://api.github.com/users/lwoody/orgs",
+  "repos_url": "https://api.github.com/users/lwoody/repos",
+  "events_url": "https://api.github.com/users/lwoody/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lwoody/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
