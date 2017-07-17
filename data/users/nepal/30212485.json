@@ -1,0 +1,20 @@
+{
+  "login": "ravitaja",
+  "id": 30212485,
+  "avatar_url": "https://avatars5.githubusercontent.com/u/30212485?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ravitaja",
+  "html_url": "https://github.com/ravitaja",
+  "followers_url": "https://api.github.com/users/ravitaja/followers",
+  "following_url": "https://api.github.com/users/ravitaja/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ravitaja/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ravitaja/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ravitaja/subscriptions",
+  "organizations_url": "https://api.github.com/users/ravitaja/orgs",
+  "repos_url": "https://api.github.com/users/ravitaja/repos",
+  "events_url": "https://api.github.com/users/ravitaja/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ravitaja/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
