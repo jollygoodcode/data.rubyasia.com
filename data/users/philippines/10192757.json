@@ -1,0 +1,20 @@
+{
+  "login": "sephvice",
+  "id": 10192757,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10192757?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sephvice",
+  "html_url": "https://github.com/sephvice",
+  "followers_url": "https://api.github.com/users/sephvice/followers",
+  "following_url": "https://api.github.com/users/sephvice/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sephvice/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sephvice/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sephvice/subscriptions",
+  "organizations_url": "https://api.github.com/users/sephvice/orgs",
+  "repos_url": "https://api.github.com/users/sephvice/repos",
+  "events_url": "https://api.github.com/users/sephvice/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sephvice/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "FontUp",
+  "id": 22824198,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/22824198?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FontUp",
+  "html_url": "https://github.com/FontUp",
+  "followers_url": "https://api.github.com/users/FontUp/followers",
+  "following_url": "https://api.github.com/users/FontUp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FontUp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FontUp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FontUp/subscriptions",
+  "organizations_url": "https://api.github.com/users/FontUp/orgs",
+  "repos_url": "https://api.github.com/users/FontUp/repos",
+  "events_url": "https://api.github.com/users/FontUp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FontUp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

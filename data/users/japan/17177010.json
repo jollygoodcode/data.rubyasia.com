@@ -1,0 +1,20 @@
+{
+  "login": "otaku-dev",
+  "id": 17177010,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/17177010?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/otaku-dev",
+  "html_url": "https://github.com/otaku-dev",
+  "followers_url": "https://api.github.com/users/otaku-dev/followers",
+  "following_url": "https://api.github.com/users/otaku-dev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/otaku-dev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/otaku-dev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/otaku-dev/subscriptions",
+  "organizations_url": "https://api.github.com/users/otaku-dev/orgs",
+  "repos_url": "https://api.github.com/users/otaku-dev/repos",
+  "events_url": "https://api.github.com/users/otaku-dev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/otaku-dev/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

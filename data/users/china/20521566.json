@@ -1,0 +1,20 @@
+{
+  "login": "School-X",
+  "id": 20521566,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/20521566?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/School-X",
+  "html_url": "https://github.com/School-X",
+  "followers_url": "https://api.github.com/users/School-X/followers",
+  "following_url": "https://api.github.com/users/School-X/following{/other_user}",
+  "gists_url": "https://api.github.com/users/School-X/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/School-X/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/School-X/subscriptions",
+  "organizations_url": "https://api.github.com/users/School-X/orgs",
+  "repos_url": "https://api.github.com/users/School-X/repos",
+  "events_url": "https://api.github.com/users/School-X/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/School-X/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "elekli",
+  "id": 835192,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/835192?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elekli",
+  "html_url": "https://github.com/elekli",
+  "followers_url": "https://api.github.com/users/elekli/followers",
+  "following_url": "https://api.github.com/users/elekli/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elekli/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elekli/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elekli/subscriptions",
+  "organizations_url": "https://api.github.com/users/elekli/orgs",
+  "repos_url": "https://api.github.com/users/elekli/repos",
+  "events_url": "https://api.github.com/users/elekli/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elekli/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

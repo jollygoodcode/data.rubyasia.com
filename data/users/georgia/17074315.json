@@ -1,0 +1,20 @@
+{
+  "login": "cemholmes",
+  "id": 17074315,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/17074315?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cemholmes",
+  "html_url": "https://github.com/cemholmes",
+  "followers_url": "https://api.github.com/users/cemholmes/followers",
+  "following_url": "https://api.github.com/users/cemholmes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cemholmes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cemholmes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cemholmes/subscriptions",
+  "organizations_url": "https://api.github.com/users/cemholmes/orgs",
+  "repos_url": "https://api.github.com/users/cemholmes/repos",
+  "events_url": "https://api.github.com/users/cemholmes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cemholmes/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

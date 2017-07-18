@@ -1,0 +1,20 @@
+{
+  "login": "KirShur",
+  "id": 1710857,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1710857?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KirShur",
+  "html_url": "https://github.com/KirShur",
+  "followers_url": "https://api.github.com/users/KirShur/followers",
+  "following_url": "https://api.github.com/users/KirShur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KirShur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KirShur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KirShur/subscriptions",
+  "organizations_url": "https://api.github.com/users/KirShur/orgs",
+  "repos_url": "https://api.github.com/users/KirShur/repos",
+  "events_url": "https://api.github.com/users/KirShur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KirShur/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

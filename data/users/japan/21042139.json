@@ -1,0 +1,20 @@
+{
+  "login": "SFHProject",
+  "id": 21042139,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/21042139?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SFHProject",
+  "html_url": "https://github.com/SFHProject",
+  "followers_url": "https://api.github.com/users/SFHProject/followers",
+  "following_url": "https://api.github.com/users/SFHProject/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SFHProject/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SFHProject/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SFHProject/subscriptions",
+  "organizations_url": "https://api.github.com/users/SFHProject/orgs",
+  "repos_url": "https://api.github.com/users/SFHProject/repos",
+  "events_url": "https://api.github.com/users/SFHProject/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SFHProject/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gitlane",
+  "id": 12692861,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12692861?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gitlane",
+  "html_url": "https://github.com/gitlane",
+  "followers_url": "https://api.github.com/users/gitlane/followers",
+  "following_url": "https://api.github.com/users/gitlane/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gitlane/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gitlane/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gitlane/subscriptions",
+  "organizations_url": "https://api.github.com/users/gitlane/orgs",
+  "repos_url": "https://api.github.com/users/gitlane/repos",
+  "events_url": "https://api.github.com/users/gitlane/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gitlane/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ruby-ext",
+  "id": 26644345,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/26644345?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ruby-ext",
+  "html_url": "https://github.com/ruby-ext",
+  "followers_url": "https://api.github.com/users/ruby-ext/followers",
+  "following_url": "https://api.github.com/users/ruby-ext/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ruby-ext/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ruby-ext/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ruby-ext/subscriptions",
+  "organizations_url": "https://api.github.com/users/ruby-ext/orgs",
+  "repos_url": "https://api.github.com/users/ruby-ext/repos",
+  "events_url": "https://api.github.com/users/ruby-ext/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ruby-ext/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

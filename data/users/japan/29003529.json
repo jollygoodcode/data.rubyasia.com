@@ -1,0 +1,20 @@
+{
+  "login": "route36",
+  "id": 29003529,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/29003529?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/route36",
+  "html_url": "https://github.com/route36",
+  "followers_url": "https://api.github.com/users/route36/followers",
+  "following_url": "https://api.github.com/users/route36/following{/other_user}",
+  "gists_url": "https://api.github.com/users/route36/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/route36/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/route36/subscriptions",
+  "organizations_url": "https://api.github.com/users/route36/orgs",
+  "repos_url": "https://api.github.com/users/route36/repos",
+  "events_url": "https://api.github.com/users/route36/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/route36/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

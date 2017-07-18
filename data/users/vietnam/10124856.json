@@ -1,0 +1,20 @@
+{
+  "login": "ldkdev",
+  "id": 10124856,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10124856?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ldkdev",
+  "html_url": "https://github.com/ldkdev",
+  "followers_url": "https://api.github.com/users/ldkdev/followers",
+  "following_url": "https://api.github.com/users/ldkdev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ldkdev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ldkdev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ldkdev/subscriptions",
+  "organizations_url": "https://api.github.com/users/ldkdev/orgs",
+  "repos_url": "https://api.github.com/users/ldkdev/repos",
+  "events_url": "https://api.github.com/users/ldkdev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ldkdev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
