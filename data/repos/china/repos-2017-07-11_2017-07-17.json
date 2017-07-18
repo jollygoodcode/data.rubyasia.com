@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-07-18 08:11:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-11..2017-07-17",
+  "repos": [
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 605,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "goofansu/wechat-starter",
+      "description": "Template for developing wechat in rails",
+      "html_url": "https://github.com/goofansu/wechat-starter",
+      "stars": 288,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jjyr/minidown",
+      "description": "Minidown is a lightweight & fast markdown parser, with complete GFM support.",
+      "html_url": "https://github.com/jjyr/minidown",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/weui-rails",
+      "description": "An UI library for WeChat, includes widgets/modules in mobile web app.",
+      "html_url": "https://github.com/Eric-Guo/weui-rails",
+      "stars": 108,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "cryptape/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/cryptape/ruby-ethereum",
+      "stars": 101,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
