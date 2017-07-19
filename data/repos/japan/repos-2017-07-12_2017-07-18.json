@@ -1,0 +1,158 @@
+{
+  "generated_at": "2017-07-19 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-12..2017-07-18",
+  "repos": [
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 1231,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 1221,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/chanko",
+      "description": "Rapidly and safely prototyping your rails application",
+      "html_url": "https://github.com/cookpad/chanko",
+      "stars": 566,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.3.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 273,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 240,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 168,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "skoji/gepub",
+      "description": "a generic EPUB library for Ruby : supports EPUB 3 ",
+      "html_url": "https://github.com/skoji/gepub",
+      "stars": 142,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mrkn/pycall",
+      "description": "Calling Python functions from the Ruby language",
+      "html_url": "https://github.com/mrkn/pycall",
+      "stars": 120,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "higanworks/knife-zero",
+      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
+      "html_url": "https://github.com/higanworks/knife-zero",
+      "stars": 119,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 100,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/textbringer",
+      "description": "An Emacs-like text editor written in Ruby",
+      "html_url": "https://github.com/shugo/textbringer",
+      "stars": 90,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masa16/pwrake",
+      "description": "Parallel Workflow extension for Rake, runs on multicores, clusters, clouds.",
+      "html_url": "https://github.com/masa16/pwrake",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_issue_templates",
+      "description": "Repository for Redmine Issue Template (Ready to move Repository from Bitbucket to GitHub)",
+      "html_url": "https://github.com/akiko-pusu/redmine_issue_templates",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hidakatsuya/redmine_default_custom_query",
+      "description": "Redmine plugin for setting default custom query of Issues for each project",
+      "html_url": "https://github.com/hidakatsuya/redmine_default_custom_query",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "momibun926/redmine_issue_evm",
+      "description": "This plugin provides the function of calculating evm of projects . EVM can help you to track your project progress and its status and to forecast the future performance of the project. ",
+      "html_url": "https://github.com/momibun926/redmine_issue_evm",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "codeout/junoser",
+      "description": "PEG parser for JUNOS configuration.",
+      "html_url": "https://github.com/codeout/junoser",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
