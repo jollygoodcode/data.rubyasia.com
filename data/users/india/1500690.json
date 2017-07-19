@@ -1,0 +1,20 @@
+{
+  "login": "anykate",
+  "id": 1500690,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1500690?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anykate",
+  "html_url": "https://github.com/anykate",
+  "followers_url": "https://api.github.com/users/anykate/followers",
+  "following_url": "https://api.github.com/users/anykate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anykate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anykate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anykate/subscriptions",
+  "organizations_url": "https://api.github.com/users/anykate/orgs",
+  "repos_url": "https://api.github.com/users/anykate/repos",
+  "events_url": "https://api.github.com/users/anykate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anykate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
