@@ -1,0 +1,20 @@
+{
+  "login": "arinco",
+  "id": 4300647,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4300647?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arinco",
+  "html_url": "https://github.com/arinco",
+  "followers_url": "https://api.github.com/users/arinco/followers",
+  "following_url": "https://api.github.com/users/arinco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arinco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arinco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arinco/subscriptions",
+  "organizations_url": "https://api.github.com/users/arinco/orgs",
+  "repos_url": "https://api.github.com/users/arinco/repos",
+  "events_url": "https://api.github.com/users/arinco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arinco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
