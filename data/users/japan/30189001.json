@@ -1,0 +1,20 @@
+{
+  "login": "westjustice",
+  "id": 30189001,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/30189001?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/westjustice",
+  "html_url": "https://github.com/westjustice",
+  "followers_url": "https://api.github.com/users/westjustice/followers",
+  "following_url": "https://api.github.com/users/westjustice/following{/other_user}",
+  "gists_url": "https://api.github.com/users/westjustice/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/westjustice/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/westjustice/subscriptions",
+  "organizations_url": "https://api.github.com/users/westjustice/orgs",
+  "repos_url": "https://api.github.com/users/westjustice/repos",
+  "events_url": "https://api.github.com/users/westjustice/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/westjustice/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

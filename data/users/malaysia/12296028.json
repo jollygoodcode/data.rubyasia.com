@@ -1,0 +1,20 @@
+{
+  "login": "darkspoot",
+  "id": 12296028,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12296028?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/darkspoot",
+  "html_url": "https://github.com/darkspoot",
+  "followers_url": "https://api.github.com/users/darkspoot/followers",
+  "following_url": "https://api.github.com/users/darkspoot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/darkspoot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/darkspoot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/darkspoot/subscriptions",
+  "organizations_url": "https://api.github.com/users/darkspoot/orgs",
+  "repos_url": "https://api.github.com/users/darkspoot/repos",
+  "events_url": "https://api.github.com/users/darkspoot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/darkspoot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

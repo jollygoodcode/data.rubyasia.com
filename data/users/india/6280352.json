@@ -1,0 +1,20 @@
+{
+  "login": "webmattic",
+  "id": 6280352,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6280352?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/webmattic",
+  "html_url": "https://github.com/webmattic",
+  "followers_url": "https://api.github.com/users/webmattic/followers",
+  "following_url": "https://api.github.com/users/webmattic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/webmattic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/webmattic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/webmattic/subscriptions",
+  "organizations_url": "https://api.github.com/users/webmattic/orgs",
+  "repos_url": "https://api.github.com/users/webmattic/repos",
+  "events_url": "https://api.github.com/users/webmattic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/webmattic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

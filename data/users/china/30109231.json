@@ -1,0 +1,20 @@
+{
+  "login": "HankMax",
+  "id": 30109231,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/30109231?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HankMax",
+  "html_url": "https://github.com/HankMax",
+  "followers_url": "https://api.github.com/users/HankMax/followers",
+  "following_url": "https://api.github.com/users/HankMax/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HankMax/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HankMax/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HankMax/subscriptions",
+  "organizations_url": "https://api.github.com/users/HankMax/orgs",
+  "repos_url": "https://api.github.com/users/HankMax/repos",
+  "events_url": "https://api.github.com/users/HankMax/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HankMax/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

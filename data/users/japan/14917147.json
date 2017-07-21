@@ -1,0 +1,20 @@
+{
+  "login": "ei-plus",
+  "id": 14917147,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/14917147?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ei-plus",
+  "html_url": "https://github.com/ei-plus",
+  "followers_url": "https://api.github.com/users/ei-plus/followers",
+  "following_url": "https://api.github.com/users/ei-plus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ei-plus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ei-plus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ei-plus/subscriptions",
+  "organizations_url": "https://api.github.com/users/ei-plus/orgs",
+  "repos_url": "https://api.github.com/users/ei-plus/repos",
+  "events_url": "https://api.github.com/users/ei-plus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ei-plus/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
