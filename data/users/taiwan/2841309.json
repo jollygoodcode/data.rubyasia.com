@@ -1,0 +1,20 @@
+{
+  "login": "helldiver",
+  "id": 2841309,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2841309?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/helldiver",
+  "html_url": "https://github.com/helldiver",
+  "followers_url": "https://api.github.com/users/helldiver/followers",
+  "following_url": "https://api.github.com/users/helldiver/following{/other_user}",
+  "gists_url": "https://api.github.com/users/helldiver/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/helldiver/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/helldiver/subscriptions",
+  "organizations_url": "https://api.github.com/users/helldiver/orgs",
+  "repos_url": "https://api.github.com/users/helldiver/repos",
+  "events_url": "https://api.github.com/users/helldiver/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/helldiver/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
