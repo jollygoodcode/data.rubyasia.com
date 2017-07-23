@@ -1,0 +1,20 @@
+{
+  "login": "anoworl",
+  "id": 126017,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/126017?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anoworl",
+  "html_url": "https://github.com/anoworl",
+  "followers_url": "https://api.github.com/users/anoworl/followers",
+  "following_url": "https://api.github.com/users/anoworl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anoworl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anoworl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anoworl/subscriptions",
+  "organizations_url": "https://api.github.com/users/anoworl/orgs",
+  "repos_url": "https://api.github.com/users/anoworl/repos",
+  "events_url": "https://api.github.com/users/anoworl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anoworl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
