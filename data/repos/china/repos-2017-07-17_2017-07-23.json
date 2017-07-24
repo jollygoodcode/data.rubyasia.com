@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-07-24 08:11:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-17..2017-07-23",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4719,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3383,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 935,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 158,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
