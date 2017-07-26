@@ -1,0 +1,20 @@
+{
+  "login": "circlein",
+  "id": 19849433,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/19849433?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/circlein",
+  "html_url": "https://github.com/circlein",
+  "followers_url": "https://api.github.com/users/circlein/followers",
+  "following_url": "https://api.github.com/users/circlein/following{/other_user}",
+  "gists_url": "https://api.github.com/users/circlein/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/circlein/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/circlein/subscriptions",
+  "organizations_url": "https://api.github.com/users/circlein/orgs",
+  "repos_url": "https://api.github.com/users/circlein/repos",
+  "events_url": "https://api.github.com/users/circlein/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/circlein/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
