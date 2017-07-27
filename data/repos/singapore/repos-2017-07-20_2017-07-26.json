@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-07-27 08:13:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-20..2017-07-26",
+  "repos": [
+    {
+      "full_name": "jollygoodcode/twemoji",
+      "description": ":shipit: Twitter emoji in Ruby :blush:",
+      "html_url": "https://github.com/jollygoodcode/twemoji",
+      "stars": 82,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "sausheong/naive-bayes",
+      "description": "Simple naive bayesian classifier implemented in Ruby",
+      "html_url": "https://github.com/sausheong/naive-bayes",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
