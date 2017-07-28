@@ -1,0 +1,20 @@
+{
+  "login": "feathrd",
+  "id": 8214539,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8214539?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/feathrd",
+  "html_url": "https://github.com/feathrd",
+  "followers_url": "https://api.github.com/users/feathrd/followers",
+  "following_url": "https://api.github.com/users/feathrd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/feathrd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/feathrd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/feathrd/subscriptions",
+  "organizations_url": "https://api.github.com/users/feathrd/orgs",
+  "repos_url": "https://api.github.com/users/feathrd/repos",
+  "events_url": "https://api.github.com/users/feathrd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/feathrd/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
