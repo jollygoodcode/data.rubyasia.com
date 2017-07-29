@@ -1,0 +1,20 @@
+{
+  "login": "jason-kuo",
+  "id": 29912600,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/29912600?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jason-kuo",
+  "html_url": "https://github.com/jason-kuo",
+  "followers_url": "https://api.github.com/users/jason-kuo/followers",
+  "following_url": "https://api.github.com/users/jason-kuo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jason-kuo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jason-kuo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jason-kuo/subscriptions",
+  "organizations_url": "https://api.github.com/users/jason-kuo/orgs",
+  "repos_url": "https://api.github.com/users/jason-kuo/repos",
+  "events_url": "https://api.github.com/users/jason-kuo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jason-kuo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

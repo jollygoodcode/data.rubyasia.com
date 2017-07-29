@@ -1,0 +1,20 @@
+{
+  "login": "yplog",
+  "id": 2940870,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2940870?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yplog",
+  "html_url": "https://github.com/yplog",
+  "followers_url": "https://api.github.com/users/yplog/followers",
+  "following_url": "https://api.github.com/users/yplog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yplog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yplog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yplog/subscriptions",
+  "organizations_url": "https://api.github.com/users/yplog/orgs",
+  "repos_url": "https://api.github.com/users/yplog/repos",
+  "events_url": "https://api.github.com/users/yplog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yplog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
