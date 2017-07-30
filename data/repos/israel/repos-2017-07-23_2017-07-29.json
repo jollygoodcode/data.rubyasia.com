@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-07-30 08:11:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-23..2017-07-29",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 13952,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "romanbsd/heroku-deflater",
+      "description": "Enable gzip compression on heroku, but don't compress images.",
+      "html_url": "https://github.com/romanbsd/heroku-deflater",
+      "stars": 287,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
