@@ -1,0 +1,20 @@
+{
+  "login": "daniel-sullivan",
+  "id": 9961306,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/9961306?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daniel-sullivan",
+  "html_url": "https://github.com/daniel-sullivan",
+  "followers_url": "https://api.github.com/users/daniel-sullivan/followers",
+  "following_url": "https://api.github.com/users/daniel-sullivan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daniel-sullivan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daniel-sullivan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daniel-sullivan/subscriptions",
+  "organizations_url": "https://api.github.com/users/daniel-sullivan/orgs",
+  "repos_url": "https://api.github.com/users/daniel-sullivan/repos",
+  "events_url": "https://api.github.com/users/daniel-sullivan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daniel-sullivan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

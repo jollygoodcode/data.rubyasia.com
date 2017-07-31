@@ -1,0 +1,20 @@
+{
+  "login": "104corp",
+  "id": 24703599,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/24703599?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/104corp",
+  "html_url": "https://github.com/104corp",
+  "followers_url": "https://api.github.com/users/104corp/followers",
+  "following_url": "https://api.github.com/users/104corp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/104corp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/104corp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/104corp/subscriptions",
+  "organizations_url": "https://api.github.com/users/104corp/orgs",
+  "repos_url": "https://api.github.com/users/104corp/repos",
+  "events_url": "https://api.github.com/users/104corp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/104corp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
