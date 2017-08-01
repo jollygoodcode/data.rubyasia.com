@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-08-01 08:11:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-25..2017-07-31",
+  "repos": [
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3388,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 936,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 607,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 268,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/code_analyzer",
+      "description": "code analyzer tool which is extracted from rails_best_practices",
+      "html_url": "https://github.com/flyerhzm/code_analyzer",
+      "stars": 82,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
