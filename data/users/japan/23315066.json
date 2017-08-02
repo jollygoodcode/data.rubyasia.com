@@ -1,0 +1,20 @@
+{
+  "login": "lepo-project",
+  "id": 23315066,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/23315066?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lepo-project",
+  "html_url": "https://github.com/lepo-project",
+  "followers_url": "https://api.github.com/users/lepo-project/followers",
+  "following_url": "https://api.github.com/users/lepo-project/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lepo-project/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lepo-project/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lepo-project/subscriptions",
+  "organizations_url": "https://api.github.com/users/lepo-project/orgs",
+  "repos_url": "https://api.github.com/users/lepo-project/repos",
+  "events_url": "https://api.github.com/users/lepo-project/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lepo-project/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
