@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-08-04 08:11:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-28..2017-08-03",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1182,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "asanghi/fiscali",
+      "description": "Fiscal Year Date Functions",
+      "html_url": "https://github.com/asanghi/fiscali",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
