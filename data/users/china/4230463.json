@@ -1,0 +1,20 @@
+{
+  "login": "opensmarty",
+  "id": 4230463,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4230463?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/opensmarty",
+  "html_url": "https://github.com/opensmarty",
+  "followers_url": "https://api.github.com/users/opensmarty/followers",
+  "following_url": "https://api.github.com/users/opensmarty/following{/other_user}",
+  "gists_url": "https://api.github.com/users/opensmarty/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/opensmarty/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/opensmarty/subscriptions",
+  "organizations_url": "https://api.github.com/users/opensmarty/orgs",
+  "repos_url": "https://api.github.com/users/opensmarty/repos",
+  "events_url": "https://api.github.com/users/opensmarty/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/opensmarty/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
