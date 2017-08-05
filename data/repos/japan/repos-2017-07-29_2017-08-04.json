@@ -1,0 +1,166 @@
+{
+  "generated_at": "2017-08-05 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-29..2017-08-04",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 2045,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1959,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 648,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 533,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.3.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 276,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/github-ranking",
+      "description": "GitHub star ranking for users, organizations and repositories",
+      "html_url": "https://github.com/k0kubun/github-ranking",
+      "stars": 263,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 240,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/openid_connect",
+      "description": "OpenID Connect Server & Client Library",
+      "html_url": "https://github.com/nov/openid_connect",
+      "stars": 217,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/barbeque",
+      "description": "Job queue system to run job with Docker",
+      "html_url": "https://github.com/cookpad/barbeque",
+      "stars": 100,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/acmesmith",
+      "description": "An effective ACME client: Manage keys on the cloud (e.g. S3)",
+      "html_url": "https://github.com/sorah/acmesmith",
+      "stars": 73,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "unhappychoice/Circler",
+      "description": "CLI client for CircleCI",
+      "html_url": "https://github.com/unhappychoice/Circler",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masa16/pwrake",
+      "description": "Parallel Workflow extension for Rake, runs on multicores, clusters, clouds.",
+      "html_url": "https://github.com/masa16/pwrake",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tckz/redmine-wiki_graphviz_plugin",
+      "description": "Wiki macro for redmine. The macro render graph-image from wiki contents as dot.",
+      "html_url": "https://github.com/tckz/redmine-wiki_graphviz_plugin",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mitaku/komachi_heartbeat",
+      "description": null,
+      "html_url": "https://github.com/mitaku/komachi_heartbeat",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "takuti/jekyll-lazy-tweet-embedding",
+      "description": ":hatching_chick: A Jekyll plugin to embed the Twitter cards into {.html, .md} pages, by just pasting tweet urls",
+      "html_url": "https://github.com/takuti/jekyll-lazy-tweet-embedding",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yaocloud/yao",
+      "description": "Yet Another OpenStack API wrapper",
+      "html_url": "https://github.com/yaocloud/yao",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "haw-itn/openassets-ruby",
+      "description": "The implementation of the Open Assets Protocol for Ruby.",
+      "html_url": "https://github.com/haw-itn/openassets-ruby",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kiyoka/sekka",
+      "description": "Yet another Japanese Input Method inspired by SKK.",
+      "html_url": "https://github.com/kiyoka/sekka",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
