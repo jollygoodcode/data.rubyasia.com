@@ -1,0 +1,20 @@
+{
+  "login": "JoeWoodward",
+  "id": 442279,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/442279?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JoeWoodward",
+  "html_url": "https://github.com/JoeWoodward",
+  "followers_url": "https://api.github.com/users/JoeWoodward/followers",
+  "following_url": "https://api.github.com/users/JoeWoodward/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JoeWoodward/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JoeWoodward/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JoeWoodward/subscriptions",
+  "organizations_url": "https://api.github.com/users/JoeWoodward/orgs",
+  "repos_url": "https://api.github.com/users/JoeWoodward/repos",
+  "events_url": "https://api.github.com/users/JoeWoodward/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JoeWoodward/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
