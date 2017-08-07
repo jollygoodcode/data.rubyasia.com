@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-08-07 08:11:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-07-31..2017-08-06",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 14084,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1506,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
