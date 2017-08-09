@@ -1,0 +1,20 @@
+{
+  "login": "SimplySmartTech",
+  "id": 17123038,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/17123038?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SimplySmartTech",
+  "html_url": "https://github.com/SimplySmartTech",
+  "followers_url": "https://api.github.com/users/SimplySmartTech/followers",
+  "following_url": "https://api.github.com/users/SimplySmartTech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SimplySmartTech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SimplySmartTech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SimplySmartTech/subscriptions",
+  "organizations_url": "https://api.github.com/users/SimplySmartTech/orgs",
+  "repos_url": "https://api.github.com/users/SimplySmartTech/repos",
+  "events_url": "https://api.github.com/users/SimplySmartTech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SimplySmartTech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
