@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-08-11 08:11:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-04..2017-08-10",
+  "repos": [
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 613,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/kiba-plus",
+      "description": "Kiba enhancement for Ruby ETL.",
+      "html_url": "https://github.com/hooopo/kiba-plus",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

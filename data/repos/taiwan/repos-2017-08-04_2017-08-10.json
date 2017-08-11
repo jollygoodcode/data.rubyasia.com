@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-08-11 08:13:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-04..2017-08-10",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 2183,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 131,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "5xRuby/spgateway-rails",
+      "description": "智付通金流的 Rails plugin (well, not completely tested for production yet)。",
+      "html_url": "https://github.com/5xRuby/spgateway-rails",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
