@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-08-12 08:11:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-05..2017-08-11",
+  "repos": [
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 159,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/kiba-plus",
+      "description": "Kiba enhancement for Ruby ETL.",
+      "html_url": "https://github.com/hooopo/kiba-plus",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

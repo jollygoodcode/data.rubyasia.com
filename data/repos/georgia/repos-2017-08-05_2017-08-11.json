@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-08-12 08:11:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-05..2017-08-11",
+  "repos": [
+    {
+      "full_name": "ledbettj/systemd-journal",
+      "description": "Ruby bindings for reading/writing to the systemd journal.",
+      "html_url": "https://github.com/ledbettj/systemd-journal",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Georgia"
+    }
+  ]
+}
