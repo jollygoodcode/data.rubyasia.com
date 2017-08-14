@@ -1,0 +1,20 @@
+{
+  "login": "toddlers",
+  "id": 2045904,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2045904?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toddlers",
+  "html_url": "https://github.com/toddlers",
+  "followers_url": "https://api.github.com/users/toddlers/followers",
+  "following_url": "https://api.github.com/users/toddlers/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toddlers/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toddlers/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toddlers/subscriptions",
+  "organizations_url": "https://api.github.com/users/toddlers/orgs",
+  "repos_url": "https://api.github.com/users/toddlers/repos",
+  "events_url": "https://api.github.com/users/toddlers/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toddlers/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
