@@ -1,0 +1,20 @@
+{
+  "login": "Gomasy",
+  "id": 5166681,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5166681?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Gomasy",
+  "html_url": "https://github.com/Gomasy",
+  "followers_url": "https://api.github.com/users/Gomasy/followers",
+  "following_url": "https://api.github.com/users/Gomasy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Gomasy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Gomasy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Gomasy/subscriptions",
+  "organizations_url": "https://api.github.com/users/Gomasy/orgs",
+  "repos_url": "https://api.github.com/users/Gomasy/repos",
+  "events_url": "https://api.github.com/users/Gomasy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Gomasy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

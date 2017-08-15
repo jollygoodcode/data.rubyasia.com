@@ -1,0 +1,20 @@
+{
+  "login": "rivid",
+  "id": 2074682,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2074682?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rivid",
+  "html_url": "https://github.com/rivid",
+  "followers_url": "https://api.github.com/users/rivid/followers",
+  "following_url": "https://api.github.com/users/rivid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rivid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rivid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rivid/subscriptions",
+  "organizations_url": "https://api.github.com/users/rivid/orgs",
+  "repos_url": "https://api.github.com/users/rivid/repos",
+  "events_url": "https://api.github.com/users/rivid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rivid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

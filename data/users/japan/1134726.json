@@ -1,0 +1,20 @@
+{
+  "login": "quindim",
+  "id": 1134726,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1134726?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/quindim",
+  "html_url": "https://github.com/quindim",
+  "followers_url": "https://api.github.com/users/quindim/followers",
+  "following_url": "https://api.github.com/users/quindim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/quindim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/quindim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/quindim/subscriptions",
+  "organizations_url": "https://api.github.com/users/quindim/orgs",
+  "repos_url": "https://api.github.com/users/quindim/repos",
+  "events_url": "https://api.github.com/users/quindim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/quindim/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

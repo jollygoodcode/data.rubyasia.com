@@ -1,0 +1,20 @@
+{
+  "login": "risgk",
+  "id": 1222888,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1222888?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/risgk",
+  "html_url": "https://github.com/risgk",
+  "followers_url": "https://api.github.com/users/risgk/followers",
+  "following_url": "https://api.github.com/users/risgk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/risgk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/risgk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/risgk/subscriptions",
+  "organizations_url": "https://api.github.com/users/risgk/orgs",
+  "repos_url": "https://api.github.com/users/risgk/repos",
+  "events_url": "https://api.github.com/users/risgk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/risgk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

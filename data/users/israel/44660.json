@@ -1,0 +1,20 @@
+{
+  "login": "shmichael",
+  "id": 44660,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/44660?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shmichael",
+  "html_url": "https://github.com/shmichael",
+  "followers_url": "https://api.github.com/users/shmichael/followers",
+  "following_url": "https://api.github.com/users/shmichael/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shmichael/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shmichael/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shmichael/subscriptions",
+  "organizations_url": "https://api.github.com/users/shmichael/orgs",
+  "repos_url": "https://api.github.com/users/shmichael/repos",
+  "events_url": "https://api.github.com/users/shmichael/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shmichael/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

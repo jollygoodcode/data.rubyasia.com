@@ -1,0 +1,20 @@
+{
+  "login": "adbutterfield",
+  "id": 4752047,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4752047?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/adbutterfield",
+  "html_url": "https://github.com/adbutterfield",
+  "followers_url": "https://api.github.com/users/adbutterfield/followers",
+  "following_url": "https://api.github.com/users/adbutterfield/following{/other_user}",
+  "gists_url": "https://api.github.com/users/adbutterfield/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/adbutterfield/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/adbutterfield/subscriptions",
+  "organizations_url": "https://api.github.com/users/adbutterfield/orgs",
+  "repos_url": "https://api.github.com/users/adbutterfield/repos",
+  "events_url": "https://api.github.com/users/adbutterfield/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/adbutterfield/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

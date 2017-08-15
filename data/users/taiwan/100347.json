@@ -1,0 +1,20 @@
+{
+  "login": "cyanglee",
+  "id": 100347,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/100347?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cyanglee",
+  "html_url": "https://github.com/cyanglee",
+  "followers_url": "https://api.github.com/users/cyanglee/followers",
+  "following_url": "https://api.github.com/users/cyanglee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cyanglee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cyanglee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cyanglee/subscriptions",
+  "organizations_url": "https://api.github.com/users/cyanglee/orgs",
+  "repos_url": "https://api.github.com/users/cyanglee/repos",
+  "events_url": "https://api.github.com/users/cyanglee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cyanglee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

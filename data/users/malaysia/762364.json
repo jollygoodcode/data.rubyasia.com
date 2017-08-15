@@ -1,0 +1,20 @@
+{
+  "login": "leokoo",
+  "id": 762364,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/762364?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leokoo",
+  "html_url": "https://github.com/leokoo",
+  "followers_url": "https://api.github.com/users/leokoo/followers",
+  "following_url": "https://api.github.com/users/leokoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leokoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leokoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leokoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/leokoo/orgs",
+  "repos_url": "https://api.github.com/users/leokoo/repos",
+  "events_url": "https://api.github.com/users/leokoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leokoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

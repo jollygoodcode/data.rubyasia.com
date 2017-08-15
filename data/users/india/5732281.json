@@ -1,0 +1,20 @@
+{
+  "login": "techAPJ",
+  "id": 5732281,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5732281?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/techAPJ",
+  "html_url": "https://github.com/techAPJ",
+  "followers_url": "https://api.github.com/users/techAPJ/followers",
+  "following_url": "https://api.github.com/users/techAPJ/following{/other_user}",
+  "gists_url": "https://api.github.com/users/techAPJ/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/techAPJ/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/techAPJ/subscriptions",
+  "organizations_url": "https://api.github.com/users/techAPJ/orgs",
+  "repos_url": "https://api.github.com/users/techAPJ/repos",
+  "events_url": "https://api.github.com/users/techAPJ/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/techAPJ/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

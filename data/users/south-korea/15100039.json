@@ -1,0 +1,20 @@
+{
+  "login": "nsdictionary",
+  "id": 15100039,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/15100039?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nsdictionary",
+  "html_url": "https://github.com/nsdictionary",
+  "followers_url": "https://api.github.com/users/nsdictionary/followers",
+  "following_url": "https://api.github.com/users/nsdictionary/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nsdictionary/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nsdictionary/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nsdictionary/subscriptions",
+  "organizations_url": "https://api.github.com/users/nsdictionary/orgs",
+  "repos_url": "https://api.github.com/users/nsdictionary/repos",
+  "events_url": "https://api.github.com/users/nsdictionary/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nsdictionary/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

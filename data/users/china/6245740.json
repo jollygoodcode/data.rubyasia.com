@@ -1,0 +1,20 @@
+{
+  "login": "HeroShane",
+  "id": 6245740,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6245740?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HeroShane",
+  "html_url": "https://github.com/HeroShane",
+  "followers_url": "https://api.github.com/users/HeroShane/followers",
+  "following_url": "https://api.github.com/users/HeroShane/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HeroShane/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HeroShane/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HeroShane/subscriptions",
+  "organizations_url": "https://api.github.com/users/HeroShane/orgs",
+  "repos_url": "https://api.github.com/users/HeroShane/repos",
+  "events_url": "https://api.github.com/users/HeroShane/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HeroShane/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

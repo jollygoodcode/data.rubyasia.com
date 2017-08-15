@@ -1,0 +1,20 @@
+{
+  "login": "mitkot",
+  "id": 1127241,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1127241?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mitkot",
+  "html_url": "https://github.com/mitkot",
+  "followers_url": "https://api.github.com/users/mitkot/followers",
+  "following_url": "https://api.github.com/users/mitkot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mitkot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mitkot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mitkot/subscriptions",
+  "organizations_url": "https://api.github.com/users/mitkot/orgs",
+  "repos_url": "https://api.github.com/users/mitkot/repos",
+  "events_url": "https://api.github.com/users/mitkot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mitkot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

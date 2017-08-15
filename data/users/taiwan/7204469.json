@@ -1,0 +1,20 @@
+{
+  "login": "afgnsu",
+  "id": 7204469,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/7204469?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/afgnsu",
+  "html_url": "https://github.com/afgnsu",
+  "followers_url": "https://api.github.com/users/afgnsu/followers",
+  "following_url": "https://api.github.com/users/afgnsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/afgnsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/afgnsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/afgnsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/afgnsu/orgs",
+  "repos_url": "https://api.github.com/users/afgnsu/repos",
+  "events_url": "https://api.github.com/users/afgnsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/afgnsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

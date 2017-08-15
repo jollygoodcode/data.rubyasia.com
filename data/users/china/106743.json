@@ -1,0 +1,20 @@
+{
+  "login": "chevalun",
+  "id": 106743,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/106743?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chevalun",
+  "html_url": "https://github.com/chevalun",
+  "followers_url": "https://api.github.com/users/chevalun/followers",
+  "following_url": "https://api.github.com/users/chevalun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chevalun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chevalun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chevalun/subscriptions",
+  "organizations_url": "https://api.github.com/users/chevalun/orgs",
+  "repos_url": "https://api.github.com/users/chevalun/repos",
+  "events_url": "https://api.github.com/users/chevalun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chevalun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

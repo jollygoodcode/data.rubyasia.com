@@ -1,0 +1,20 @@
+{
+  "login": "fcce",
+  "id": 3869932,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3869932?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fcce",
+  "html_url": "https://github.com/fcce",
+  "followers_url": "https://api.github.com/users/fcce/followers",
+  "following_url": "https://api.github.com/users/fcce/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fcce/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fcce/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fcce/subscriptions",
+  "organizations_url": "https://api.github.com/users/fcce/orgs",
+  "repos_url": "https://api.github.com/users/fcce/repos",
+  "events_url": "https://api.github.com/users/fcce/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fcce/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "nihonzaru",
+  "id": 60030,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/60030?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nihonzaru",
+  "html_url": "https://github.com/nihonzaru",
+  "followers_url": "https://api.github.com/users/nihonzaru/followers",
+  "following_url": "https://api.github.com/users/nihonzaru/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nihonzaru/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nihonzaru/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nihonzaru/subscriptions",
+  "organizations_url": "https://api.github.com/users/nihonzaru/orgs",
+  "repos_url": "https://api.github.com/users/nihonzaru/repos",
+  "events_url": "https://api.github.com/users/nihonzaru/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nihonzaru/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

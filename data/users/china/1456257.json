@@ -1,0 +1,20 @@
+{
+  "login": "GuyCheung",
+  "id": 1456257,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1456257?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/GuyCheung",
+  "html_url": "https://github.com/GuyCheung",
+  "followers_url": "https://api.github.com/users/GuyCheung/followers",
+  "following_url": "https://api.github.com/users/GuyCheung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GuyCheung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/GuyCheung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GuyCheung/subscriptions",
+  "organizations_url": "https://api.github.com/users/GuyCheung/orgs",
+  "repos_url": "https://api.github.com/users/GuyCheung/repos",
+  "events_url": "https://api.github.com/users/GuyCheung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/GuyCheung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

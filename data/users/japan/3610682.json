@@ -1,0 +1,20 @@
+{
+  "login": "rnakano",
+  "id": 3610682,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3610682?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rnakano",
+  "html_url": "https://github.com/rnakano",
+  "followers_url": "https://api.github.com/users/rnakano/followers",
+  "following_url": "https://api.github.com/users/rnakano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rnakano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rnakano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rnakano/subscriptions",
+  "organizations_url": "https://api.github.com/users/rnakano/orgs",
+  "repos_url": "https://api.github.com/users/rnakano/repos",
+  "events_url": "https://api.github.com/users/rnakano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rnakano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

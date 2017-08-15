@@ -1,0 +1,20 @@
+{
+  "login": "bastengao",
+  "id": 785335,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/785335?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bastengao",
+  "html_url": "https://github.com/bastengao",
+  "followers_url": "https://api.github.com/users/bastengao/followers",
+  "following_url": "https://api.github.com/users/bastengao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bastengao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bastengao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bastengao/subscriptions",
+  "organizations_url": "https://api.github.com/users/bastengao/orgs",
+  "repos_url": "https://api.github.com/users/bastengao/repos",
+  "events_url": "https://api.github.com/users/bastengao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bastengao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

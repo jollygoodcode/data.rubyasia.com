@@ -1,0 +1,20 @@
+{
+  "login": "hbin",
+  "id": 1296308,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1296308?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hbin",
+  "html_url": "https://github.com/hbin",
+  "followers_url": "https://api.github.com/users/hbin/followers",
+  "following_url": "https://api.github.com/users/hbin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hbin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hbin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hbin/subscriptions",
+  "organizations_url": "https://api.github.com/users/hbin/orgs",
+  "repos_url": "https://api.github.com/users/hbin/repos",
+  "events_url": "https://api.github.com/users/hbin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hbin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

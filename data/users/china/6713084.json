@@ -1,0 +1,20 @@
+{
+  "login": "ilcc",
+  "id": 6713084,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6713084?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ilcc",
+  "html_url": "https://github.com/ilcc",
+  "followers_url": "https://api.github.com/users/ilcc/followers",
+  "following_url": "https://api.github.com/users/ilcc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ilcc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ilcc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ilcc/subscriptions",
+  "organizations_url": "https://api.github.com/users/ilcc/orgs",
+  "repos_url": "https://api.github.com/users/ilcc/repos",
+  "events_url": "https://api.github.com/users/ilcc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ilcc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

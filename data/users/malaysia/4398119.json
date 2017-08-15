@@ -1,0 +1,20 @@
+{
+  "login": "z4q",
+  "id": 4398119,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4398119?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/z4q",
+  "html_url": "https://github.com/z4q",
+  "followers_url": "https://api.github.com/users/z4q/followers",
+  "following_url": "https://api.github.com/users/z4q/following{/other_user}",
+  "gists_url": "https://api.github.com/users/z4q/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/z4q/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/z4q/subscriptions",
+  "organizations_url": "https://api.github.com/users/z4q/orgs",
+  "repos_url": "https://api.github.com/users/z4q/repos",
+  "events_url": "https://api.github.com/users/z4q/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/z4q/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

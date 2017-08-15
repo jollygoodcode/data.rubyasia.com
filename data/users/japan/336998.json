@@ -1,0 +1,20 @@
+{
+  "login": "yuchan",
+  "id": 336998,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/336998?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuchan",
+  "html_url": "https://github.com/yuchan",
+  "followers_url": "https://api.github.com/users/yuchan/followers",
+  "following_url": "https://api.github.com/users/yuchan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuchan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuchan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuchan/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuchan/orgs",
+  "repos_url": "https://api.github.com/users/yuchan/repos",
+  "events_url": "https://api.github.com/users/yuchan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuchan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

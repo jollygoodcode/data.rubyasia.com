@@ -1,0 +1,20 @@
+{
+  "login": "classpro",
+  "id": 5645723,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5645723?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/classpro",
+  "html_url": "https://github.com/classpro",
+  "followers_url": "https://api.github.com/users/classpro/followers",
+  "following_url": "https://api.github.com/users/classpro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/classpro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/classpro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/classpro/subscriptions",
+  "organizations_url": "https://api.github.com/users/classpro/orgs",
+  "repos_url": "https://api.github.com/users/classpro/repos",
+  "events_url": "https://api.github.com/users/classpro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/classpro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

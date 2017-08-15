@@ -1,0 +1,20 @@
+{
+  "login": "ogom",
+  "id": 471923,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/471923?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ogom",
+  "html_url": "https://github.com/ogom",
+  "followers_url": "https://api.github.com/users/ogom/followers",
+  "following_url": "https://api.github.com/users/ogom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ogom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ogom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ogom/subscriptions",
+  "organizations_url": "https://api.github.com/users/ogom/orgs",
+  "repos_url": "https://api.github.com/users/ogom/repos",
+  "events_url": "https://api.github.com/users/ogom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ogom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

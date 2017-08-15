@@ -1,0 +1,20 @@
+{
+  "login": "olivierobert",
+  "id": 696529,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/696529?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/olivierobert",
+  "html_url": "https://github.com/olivierobert",
+  "followers_url": "https://api.github.com/users/olivierobert/followers",
+  "following_url": "https://api.github.com/users/olivierobert/following{/other_user}",
+  "gists_url": "https://api.github.com/users/olivierobert/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/olivierobert/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/olivierobert/subscriptions",
+  "organizations_url": "https://api.github.com/users/olivierobert/orgs",
+  "repos_url": "https://api.github.com/users/olivierobert/repos",
+  "events_url": "https://api.github.com/users/olivierobert/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/olivierobert/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

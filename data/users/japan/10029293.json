@@ -1,0 +1,20 @@
+{
+  "login": "ppyv",
+  "id": 10029293,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10029293?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ppyv",
+  "html_url": "https://github.com/ppyv",
+  "followers_url": "https://api.github.com/users/ppyv/followers",
+  "following_url": "https://api.github.com/users/ppyv/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ppyv/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ppyv/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ppyv/subscriptions",
+  "organizations_url": "https://api.github.com/users/ppyv/orgs",
+  "repos_url": "https://api.github.com/users/ppyv/repos",
+  "events_url": "https://api.github.com/users/ppyv/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ppyv/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

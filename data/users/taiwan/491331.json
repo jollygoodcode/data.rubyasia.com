@@ -1,0 +1,20 @@
+{
+  "login": "jonatw",
+  "id": 491331,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/491331?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jonatw",
+  "html_url": "https://github.com/jonatw",
+  "followers_url": "https://api.github.com/users/jonatw/followers",
+  "following_url": "https://api.github.com/users/jonatw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jonatw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jonatw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jonatw/subscriptions",
+  "organizations_url": "https://api.github.com/users/jonatw/orgs",
+  "repos_url": "https://api.github.com/users/jonatw/repos",
+  "events_url": "https://api.github.com/users/jonatw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jonatw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

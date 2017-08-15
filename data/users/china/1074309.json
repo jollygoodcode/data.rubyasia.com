@@ -1,0 +1,20 @@
+{
+  "login": "github101",
+  "id": 1074309,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1074309?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/github101",
+  "html_url": "https://github.com/github101",
+  "followers_url": "https://api.github.com/users/github101/followers",
+  "following_url": "https://api.github.com/users/github101/following{/other_user}",
+  "gists_url": "https://api.github.com/users/github101/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/github101/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/github101/subscriptions",
+  "organizations_url": "https://api.github.com/users/github101/orgs",
+  "repos_url": "https://api.github.com/users/github101/repos",
+  "events_url": "https://api.github.com/users/github101/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/github101/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

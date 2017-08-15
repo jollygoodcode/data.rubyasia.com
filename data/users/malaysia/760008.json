@@ -1,0 +1,20 @@
+{
+  "login": "hanxue",
+  "id": 760008,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/760008?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hanxue",
+  "html_url": "https://github.com/hanxue",
+  "followers_url": "https://api.github.com/users/hanxue/followers",
+  "following_url": "https://api.github.com/users/hanxue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hanxue/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hanxue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hanxue/subscriptions",
+  "organizations_url": "https://api.github.com/users/hanxue/orgs",
+  "repos_url": "https://api.github.com/users/hanxue/repos",
+  "events_url": "https://api.github.com/users/hanxue/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hanxue/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "Passerby",
+  "id": 1323588,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1323588?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Passerby",
+  "html_url": "https://github.com/Passerby",
+  "followers_url": "https://api.github.com/users/Passerby/followers",
+  "following_url": "https://api.github.com/users/Passerby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Passerby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Passerby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Passerby/subscriptions",
+  "organizations_url": "https://api.github.com/users/Passerby/orgs",
+  "repos_url": "https://api.github.com/users/Passerby/repos",
+  "events_url": "https://api.github.com/users/Passerby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Passerby/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "eohtake",
+  "id": 13766344,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13766344?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eohtake",
+  "html_url": "https://github.com/eohtake",
+  "followers_url": "https://api.github.com/users/eohtake/followers",
+  "following_url": "https://api.github.com/users/eohtake/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eohtake/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eohtake/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eohtake/subscriptions",
+  "organizations_url": "https://api.github.com/users/eohtake/orgs",
+  "repos_url": "https://api.github.com/users/eohtake/repos",
+  "events_url": "https://api.github.com/users/eohtake/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eohtake/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "poligen",
+  "id": 4186736,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4186736?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/poligen",
+  "html_url": "https://github.com/poligen",
+  "followers_url": "https://api.github.com/users/poligen/followers",
+  "following_url": "https://api.github.com/users/poligen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/poligen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/poligen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/poligen/subscriptions",
+  "organizations_url": "https://api.github.com/users/poligen/orgs",
+  "repos_url": "https://api.github.com/users/poligen/repos",
+  "events_url": "https://api.github.com/users/poligen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/poligen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

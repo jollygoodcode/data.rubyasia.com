@@ -1,0 +1,20 @@
+{
+  "login": "ammit",
+  "id": 2105944,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2105944?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ammit",
+  "html_url": "https://github.com/ammit",
+  "followers_url": "https://api.github.com/users/ammit/followers",
+  "following_url": "https://api.github.com/users/ammit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ammit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ammit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ammit/subscriptions",
+  "organizations_url": "https://api.github.com/users/ammit/orgs",
+  "repos_url": "https://api.github.com/users/ammit/repos",
+  "events_url": "https://api.github.com/users/ammit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ammit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

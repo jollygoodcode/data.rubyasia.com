@@ -1,0 +1,20 @@
+{
+  "login": "alexfalkowski",
+  "id": 676531,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/676531?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexfalkowski",
+  "html_url": "https://github.com/alexfalkowski",
+  "followers_url": "https://api.github.com/users/alexfalkowski/followers",
+  "following_url": "https://api.github.com/users/alexfalkowski/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexfalkowski/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexfalkowski/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexfalkowski/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexfalkowski/orgs",
+  "repos_url": "https://api.github.com/users/alexfalkowski/repos",
+  "events_url": "https://api.github.com/users/alexfalkowski/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexfalkowski/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

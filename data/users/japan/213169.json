@@ -1,0 +1,20 @@
+{
+  "login": "tnantoka",
+  "id": 213169,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/213169?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tnantoka",
+  "html_url": "https://github.com/tnantoka",
+  "followers_url": "https://api.github.com/users/tnantoka/followers",
+  "following_url": "https://api.github.com/users/tnantoka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tnantoka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tnantoka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tnantoka/subscriptions",
+  "organizations_url": "https://api.github.com/users/tnantoka/orgs",
+  "repos_url": "https://api.github.com/users/tnantoka/repos",
+  "events_url": "https://api.github.com/users/tnantoka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tnantoka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

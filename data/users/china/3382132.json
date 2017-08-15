@@ -1,0 +1,20 @@
+{
+  "login": "mainframer",
+  "id": 3382132,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3382132?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mainframer",
+  "html_url": "https://github.com/mainframer",
+  "followers_url": "https://api.github.com/users/mainframer/followers",
+  "following_url": "https://api.github.com/users/mainframer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mainframer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mainframer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mainframer/subscriptions",
+  "organizations_url": "https://api.github.com/users/mainframer/orgs",
+  "repos_url": "https://api.github.com/users/mainframer/repos",
+  "events_url": "https://api.github.com/users/mainframer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mainframer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

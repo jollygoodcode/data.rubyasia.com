@@ -1,0 +1,20 @@
+{
+  "login": "imhou",
+  "id": 7485154,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7485154?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imhou",
+  "html_url": "https://github.com/imhou",
+  "followers_url": "https://api.github.com/users/imhou/followers",
+  "following_url": "https://api.github.com/users/imhou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imhou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imhou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imhou/subscriptions",
+  "organizations_url": "https://api.github.com/users/imhou/orgs",
+  "repos_url": "https://api.github.com/users/imhou/repos",
+  "events_url": "https://api.github.com/users/imhou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imhou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

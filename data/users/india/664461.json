@@ -1,0 +1,20 @@
+{
+  "login": "aarvay",
+  "id": 664461,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/664461?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aarvay",
+  "html_url": "https://github.com/aarvay",
+  "followers_url": "https://api.github.com/users/aarvay/followers",
+  "following_url": "https://api.github.com/users/aarvay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aarvay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aarvay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aarvay/subscriptions",
+  "organizations_url": "https://api.github.com/users/aarvay/orgs",
+  "repos_url": "https://api.github.com/users/aarvay/repos",
+  "events_url": "https://api.github.com/users/aarvay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aarvay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "goldginkgo",
+  "id": 2216927,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2216927?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/goldginkgo",
+  "html_url": "https://github.com/goldginkgo",
+  "followers_url": "https://api.github.com/users/goldginkgo/followers",
+  "following_url": "https://api.github.com/users/goldginkgo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/goldginkgo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/goldginkgo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/goldginkgo/subscriptions",
+  "organizations_url": "https://api.github.com/users/goldginkgo/orgs",
+  "repos_url": "https://api.github.com/users/goldginkgo/repos",
+  "events_url": "https://api.github.com/users/goldginkgo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/goldginkgo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

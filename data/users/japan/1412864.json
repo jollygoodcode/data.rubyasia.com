@@ -1,0 +1,20 @@
+{
+  "login": "ta1kt0me",
+  "id": 1412864,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1412864?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ta1kt0me",
+  "html_url": "https://github.com/ta1kt0me",
+  "followers_url": "https://api.github.com/users/ta1kt0me/followers",
+  "following_url": "https://api.github.com/users/ta1kt0me/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ta1kt0me/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ta1kt0me/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ta1kt0me/subscriptions",
+  "organizations_url": "https://api.github.com/users/ta1kt0me/orgs",
+  "repos_url": "https://api.github.com/users/ta1kt0me/repos",
+  "events_url": "https://api.github.com/users/ta1kt0me/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ta1kt0me/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

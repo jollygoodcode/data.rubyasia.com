@@ -1,0 +1,20 @@
+{
+  "login": "takus",
+  "id": 290039,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/290039?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takus",
+  "html_url": "https://github.com/takus",
+  "followers_url": "https://api.github.com/users/takus/followers",
+  "following_url": "https://api.github.com/users/takus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takus/subscriptions",
+  "organizations_url": "https://api.github.com/users/takus/orgs",
+  "repos_url": "https://api.github.com/users/takus/repos",
+  "events_url": "https://api.github.com/users/takus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

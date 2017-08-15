@@ -1,0 +1,20 @@
+{
+  "login": "jkerry",
+  "id": 2170651,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2170651?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jkerry",
+  "html_url": "https://github.com/jkerry",
+  "followers_url": "https://api.github.com/users/jkerry/followers",
+  "following_url": "https://api.github.com/users/jkerry/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jkerry/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jkerry/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jkerry/subscriptions",
+  "organizations_url": "https://api.github.com/users/jkerry/orgs",
+  "repos_url": "https://api.github.com/users/jkerry/repos",
+  "events_url": "https://api.github.com/users/jkerry/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jkerry/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

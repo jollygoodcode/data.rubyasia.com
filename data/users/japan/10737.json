@@ -1,0 +1,20 @@
+{
+  "login": "chitsaou",
+  "id": 10737,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10737?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chitsaou",
+  "html_url": "https://github.com/chitsaou",
+  "followers_url": "https://api.github.com/users/chitsaou/followers",
+  "following_url": "https://api.github.com/users/chitsaou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chitsaou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chitsaou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chitsaou/subscriptions",
+  "organizations_url": "https://api.github.com/users/chitsaou/orgs",
+  "repos_url": "https://api.github.com/users/chitsaou/repos",
+  "events_url": "https://api.github.com/users/chitsaou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chitsaou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

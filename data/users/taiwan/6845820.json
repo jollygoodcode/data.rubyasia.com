@@ -1,0 +1,20 @@
+{
+  "login": "puff-tw",
+  "id": 6845820,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6845820?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/puff-tw",
+  "html_url": "https://github.com/puff-tw",
+  "followers_url": "https://api.github.com/users/puff-tw/followers",
+  "following_url": "https://api.github.com/users/puff-tw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/puff-tw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/puff-tw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/puff-tw/subscriptions",
+  "organizations_url": "https://api.github.com/users/puff-tw/orgs",
+  "repos_url": "https://api.github.com/users/puff-tw/repos",
+  "events_url": "https://api.github.com/users/puff-tw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/puff-tw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

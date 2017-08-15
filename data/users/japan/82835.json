@@ -1,0 +1,20 @@
+{
+  "login": "rramsden",
+  "id": 82835,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/82835?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rramsden",
+  "html_url": "https://github.com/rramsden",
+  "followers_url": "https://api.github.com/users/rramsden/followers",
+  "following_url": "https://api.github.com/users/rramsden/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rramsden/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rramsden/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rramsden/subscriptions",
+  "organizations_url": "https://api.github.com/users/rramsden/orgs",
+  "repos_url": "https://api.github.com/users/rramsden/repos",
+  "events_url": "https://api.github.com/users/rramsden/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rramsden/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sandect",
+  "id": 143490,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/143490?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sandect",
+  "html_url": "https://github.com/sandect",
+  "followers_url": "https://api.github.com/users/sandect/followers",
+  "following_url": "https://api.github.com/users/sandect/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sandect/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sandect/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sandect/subscriptions",
+  "organizations_url": "https://api.github.com/users/sandect/orgs",
+  "repos_url": "https://api.github.com/users/sandect/repos",
+  "events_url": "https://api.github.com/users/sandect/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sandect/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

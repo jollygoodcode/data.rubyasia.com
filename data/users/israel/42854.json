@@ -1,0 +1,20 @@
+{
+  "login": "elib",
+  "id": 42854,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/42854?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/elib",
+  "html_url": "https://github.com/elib",
+  "followers_url": "https://api.github.com/users/elib/followers",
+  "following_url": "https://api.github.com/users/elib/following{/other_user}",
+  "gists_url": "https://api.github.com/users/elib/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/elib/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/elib/subscriptions",
+  "organizations_url": "https://api.github.com/users/elib/orgs",
+  "repos_url": "https://api.github.com/users/elib/repos",
+  "events_url": "https://api.github.com/users/elib/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/elib/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

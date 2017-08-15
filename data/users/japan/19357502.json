@@ -1,0 +1,20 @@
+{
+  "login": "masaun",
+  "id": 19357502,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/19357502?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masaun",
+  "html_url": "https://github.com/masaun",
+  "followers_url": "https://api.github.com/users/masaun/followers",
+  "following_url": "https://api.github.com/users/masaun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masaun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masaun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masaun/subscriptions",
+  "organizations_url": "https://api.github.com/users/masaun/orgs",
+  "repos_url": "https://api.github.com/users/masaun/repos",
+  "events_url": "https://api.github.com/users/masaun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masaun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

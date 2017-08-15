@@ -1,0 +1,20 @@
+{
+  "login": "jimxl",
+  "id": 31751,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/31751?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jimxl",
+  "html_url": "https://github.com/jimxl",
+  "followers_url": "https://api.github.com/users/jimxl/followers",
+  "following_url": "https://api.github.com/users/jimxl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jimxl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jimxl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jimxl/subscriptions",
+  "organizations_url": "https://api.github.com/users/jimxl/orgs",
+  "repos_url": "https://api.github.com/users/jimxl/repos",
+  "events_url": "https://api.github.com/users/jimxl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jimxl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

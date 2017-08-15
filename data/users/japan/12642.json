@@ -1,0 +1,20 @@
+{
+  "login": "kamipo",
+  "id": 12642,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12642?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kamipo",
+  "html_url": "https://github.com/kamipo",
+  "followers_url": "https://api.github.com/users/kamipo/followers",
+  "following_url": "https://api.github.com/users/kamipo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kamipo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kamipo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kamipo/subscriptions",
+  "organizations_url": "https://api.github.com/users/kamipo/orgs",
+  "repos_url": "https://api.github.com/users/kamipo/repos",
+  "events_url": "https://api.github.com/users/kamipo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kamipo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

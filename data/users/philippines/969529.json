@@ -1,0 +1,20 @@
+{
+  "login": "gracesojor",
+  "id": 969529,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/969529?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gracesojor",
+  "html_url": "https://github.com/gracesojor",
+  "followers_url": "https://api.github.com/users/gracesojor/followers",
+  "following_url": "https://api.github.com/users/gracesojor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gracesojor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gracesojor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gracesojor/subscriptions",
+  "organizations_url": "https://api.github.com/users/gracesojor/orgs",
+  "repos_url": "https://api.github.com/users/gracesojor/repos",
+  "events_url": "https://api.github.com/users/gracesojor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gracesojor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

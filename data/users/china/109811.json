@@ -1,0 +1,20 @@
+{
+  "login": "flanker",
+  "id": 109811,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/109811?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flanker",
+  "html_url": "https://github.com/flanker",
+  "followers_url": "https://api.github.com/users/flanker/followers",
+  "following_url": "https://api.github.com/users/flanker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flanker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flanker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flanker/subscriptions",
+  "organizations_url": "https://api.github.com/users/flanker/orgs",
+  "repos_url": "https://api.github.com/users/flanker/repos",
+  "events_url": "https://api.github.com/users/flanker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flanker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

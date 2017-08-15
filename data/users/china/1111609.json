@@ -1,0 +1,20 @@
+{
+  "login": "huangxiangdan",
+  "id": 1111609,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1111609?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/huangxiangdan",
+  "html_url": "https://github.com/huangxiangdan",
+  "followers_url": "https://api.github.com/users/huangxiangdan/followers",
+  "following_url": "https://api.github.com/users/huangxiangdan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/huangxiangdan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/huangxiangdan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/huangxiangdan/subscriptions",
+  "organizations_url": "https://api.github.com/users/huangxiangdan/orgs",
+  "repos_url": "https://api.github.com/users/huangxiangdan/repos",
+  "events_url": "https://api.github.com/users/huangxiangdan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/huangxiangdan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

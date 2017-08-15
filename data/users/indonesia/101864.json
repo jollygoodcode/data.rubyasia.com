@@ -1,0 +1,20 @@
+{
+  "login": "edpratomo",
+  "id": 101864,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/101864?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/edpratomo",
+  "html_url": "https://github.com/edpratomo",
+  "followers_url": "https://api.github.com/users/edpratomo/followers",
+  "following_url": "https://api.github.com/users/edpratomo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/edpratomo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/edpratomo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/edpratomo/subscriptions",
+  "organizations_url": "https://api.github.com/users/edpratomo/orgs",
+  "repos_url": "https://api.github.com/users/edpratomo/repos",
+  "events_url": "https://api.github.com/users/edpratomo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/edpratomo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

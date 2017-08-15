@@ -1,0 +1,20 @@
+{
+  "login": "vochicong",
+  "id": 123111,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/123111?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vochicong",
+  "html_url": "https://github.com/vochicong",
+  "followers_url": "https://api.github.com/users/vochicong/followers",
+  "following_url": "https://api.github.com/users/vochicong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vochicong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vochicong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vochicong/subscriptions",
+  "organizations_url": "https://api.github.com/users/vochicong/orgs",
+  "repos_url": "https://api.github.com/users/vochicong/repos",
+  "events_url": "https://api.github.com/users/vochicong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vochicong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

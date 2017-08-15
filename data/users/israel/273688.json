@@ -1,0 +1,20 @@
+{
+  "login": "cben",
+  "id": 273688,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/273688?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cben",
+  "html_url": "https://github.com/cben",
+  "followers_url": "https://api.github.com/users/cben/followers",
+  "following_url": "https://api.github.com/users/cben/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cben/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cben/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cben/subscriptions",
+  "organizations_url": "https://api.github.com/users/cben/orgs",
+  "repos_url": "https://api.github.com/users/cben/repos",
+  "events_url": "https://api.github.com/users/cben/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cben/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

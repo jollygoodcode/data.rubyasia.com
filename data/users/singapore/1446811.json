@@ -1,0 +1,20 @@
+{
+  "login": "stania1",
+  "id": 1446811,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1446811?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stania1",
+  "html_url": "https://github.com/stania1",
+  "followers_url": "https://api.github.com/users/stania1/followers",
+  "following_url": "https://api.github.com/users/stania1/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stania1/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stania1/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stania1/subscriptions",
+  "organizations_url": "https://api.github.com/users/stania1/orgs",
+  "repos_url": "https://api.github.com/users/stania1/repos",
+  "events_url": "https://api.github.com/users/stania1/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stania1/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

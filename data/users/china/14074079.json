@@ -1,0 +1,20 @@
+{
+  "login": "lokyoung",
+  "id": 14074079,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/14074079?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lokyoung",
+  "html_url": "https://github.com/lokyoung",
+  "followers_url": "https://api.github.com/users/lokyoung/followers",
+  "following_url": "https://api.github.com/users/lokyoung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lokyoung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lokyoung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lokyoung/subscriptions",
+  "organizations_url": "https://api.github.com/users/lokyoung/orgs",
+  "repos_url": "https://api.github.com/users/lokyoung/repos",
+  "events_url": "https://api.github.com/users/lokyoung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lokyoung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

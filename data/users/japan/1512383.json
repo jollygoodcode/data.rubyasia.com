@@ -1,0 +1,20 @@
+{
+  "login": "v2e4lisp",
+  "id": 1512383,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1512383?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/v2e4lisp",
+  "html_url": "https://github.com/v2e4lisp",
+  "followers_url": "https://api.github.com/users/v2e4lisp/followers",
+  "following_url": "https://api.github.com/users/v2e4lisp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/v2e4lisp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/v2e4lisp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/v2e4lisp/subscriptions",
+  "organizations_url": "https://api.github.com/users/v2e4lisp/orgs",
+  "repos_url": "https://api.github.com/users/v2e4lisp/repos",
+  "events_url": "https://api.github.com/users/v2e4lisp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/v2e4lisp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

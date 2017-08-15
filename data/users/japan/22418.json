@@ -1,0 +1,20 @@
+{
+  "login": "asip",
+  "id": 22418,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/22418?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asip",
+  "html_url": "https://github.com/asip",
+  "followers_url": "https://api.github.com/users/asip/followers",
+  "following_url": "https://api.github.com/users/asip/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asip/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asip/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asip/subscriptions",
+  "organizations_url": "https://api.github.com/users/asip/orgs",
+  "repos_url": "https://api.github.com/users/asip/repos",
+  "events_url": "https://api.github.com/users/asip/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asip/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

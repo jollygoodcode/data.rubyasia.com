@@ -1,0 +1,20 @@
+{
+  "login": "tmitz",
+  "id": 28998,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/28998?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tmitz",
+  "html_url": "https://github.com/tmitz",
+  "followers_url": "https://api.github.com/users/tmitz/followers",
+  "following_url": "https://api.github.com/users/tmitz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tmitz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tmitz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tmitz/subscriptions",
+  "organizations_url": "https://api.github.com/users/tmitz/orgs",
+  "repos_url": "https://api.github.com/users/tmitz/repos",
+  "events_url": "https://api.github.com/users/tmitz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tmitz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

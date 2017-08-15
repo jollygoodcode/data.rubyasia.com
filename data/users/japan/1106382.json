@@ -1,0 +1,20 @@
+{
+  "login": "oakbow",
+  "id": 1106382,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1106382?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oakbow",
+  "html_url": "https://github.com/oakbow",
+  "followers_url": "https://api.github.com/users/oakbow/followers",
+  "following_url": "https://api.github.com/users/oakbow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oakbow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oakbow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oakbow/subscriptions",
+  "organizations_url": "https://api.github.com/users/oakbow/orgs",
+  "repos_url": "https://api.github.com/users/oakbow/repos",
+  "events_url": "https://api.github.com/users/oakbow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oakbow/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

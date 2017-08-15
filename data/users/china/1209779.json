@@ -1,0 +1,20 @@
+{
+  "login": "rockuw",
+  "id": 1209779,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1209779?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rockuw",
+  "html_url": "https://github.com/rockuw",
+  "followers_url": "https://api.github.com/users/rockuw/followers",
+  "following_url": "https://api.github.com/users/rockuw/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rockuw/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rockuw/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rockuw/subscriptions",
+  "organizations_url": "https://api.github.com/users/rockuw/orgs",
+  "repos_url": "https://api.github.com/users/rockuw/repos",
+  "events_url": "https://api.github.com/users/rockuw/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rockuw/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

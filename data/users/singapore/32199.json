@@ -1,0 +1,20 @@
+{
+  "login": "jsantos",
+  "id": 32199,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/32199?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jsantos",
+  "html_url": "https://github.com/jsantos",
+  "followers_url": "https://api.github.com/users/jsantos/followers",
+  "following_url": "https://api.github.com/users/jsantos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jsantos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jsantos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jsantos/subscriptions",
+  "organizations_url": "https://api.github.com/users/jsantos/orgs",
+  "repos_url": "https://api.github.com/users/jsantos/repos",
+  "events_url": "https://api.github.com/users/jsantos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jsantos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

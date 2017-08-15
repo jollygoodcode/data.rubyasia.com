@@ -1,0 +1,20 @@
+{
+  "login": "oseppe",
+  "id": 6657189,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6657189?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oseppe",
+  "html_url": "https://github.com/oseppe",
+  "followers_url": "https://api.github.com/users/oseppe/followers",
+  "following_url": "https://api.github.com/users/oseppe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oseppe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oseppe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oseppe/subscriptions",
+  "organizations_url": "https://api.github.com/users/oseppe/orgs",
+  "repos_url": "https://api.github.com/users/oseppe/repos",
+  "events_url": "https://api.github.com/users/oseppe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oseppe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

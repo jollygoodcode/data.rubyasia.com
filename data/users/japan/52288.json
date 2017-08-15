@@ -1,0 +1,20 @@
+{
+  "login": "unlearned",
+  "id": 52288,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/52288?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unlearned",
+  "html_url": "https://github.com/unlearned",
+  "followers_url": "https://api.github.com/users/unlearned/followers",
+  "following_url": "https://api.github.com/users/unlearned/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unlearned/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unlearned/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unlearned/subscriptions",
+  "organizations_url": "https://api.github.com/users/unlearned/orgs",
+  "repos_url": "https://api.github.com/users/unlearned/repos",
+  "events_url": "https://api.github.com/users/unlearned/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unlearned/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

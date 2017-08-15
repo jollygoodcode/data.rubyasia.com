@@ -1,0 +1,20 @@
+{
+  "login": "MarkFull",
+  "id": 498866,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/498866?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MarkFull",
+  "html_url": "https://github.com/MarkFull",
+  "followers_url": "https://api.github.com/users/MarkFull/followers",
+  "following_url": "https://api.github.com/users/MarkFull/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MarkFull/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MarkFull/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MarkFull/subscriptions",
+  "organizations_url": "https://api.github.com/users/MarkFull/orgs",
+  "repos_url": "https://api.github.com/users/MarkFull/repos",
+  "events_url": "https://api.github.com/users/MarkFull/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MarkFull/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

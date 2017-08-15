@@ -1,0 +1,20 @@
+{
+  "login": "rneuo",
+  "id": 6357063,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6357063?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rneuo",
+  "html_url": "https://github.com/rneuo",
+  "followers_url": "https://api.github.com/users/rneuo/followers",
+  "following_url": "https://api.github.com/users/rneuo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rneuo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rneuo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rneuo/subscriptions",
+  "organizations_url": "https://api.github.com/users/rneuo/orgs",
+  "repos_url": "https://api.github.com/users/rneuo/repos",
+  "events_url": "https://api.github.com/users/rneuo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rneuo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

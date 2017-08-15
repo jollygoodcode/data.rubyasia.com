@@ -1,0 +1,20 @@
+{
+  "login": "qdlin",
+  "id": 7855249,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7855249?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qdlin",
+  "html_url": "https://github.com/qdlin",
+  "followers_url": "https://api.github.com/users/qdlin/followers",
+  "following_url": "https://api.github.com/users/qdlin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qdlin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qdlin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qdlin/subscriptions",
+  "organizations_url": "https://api.github.com/users/qdlin/orgs",
+  "repos_url": "https://api.github.com/users/qdlin/repos",
+  "events_url": "https://api.github.com/users/qdlin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qdlin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

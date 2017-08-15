@@ -1,0 +1,20 @@
+{
+  "login": "miurahr",
+  "id": 123720,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/123720?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miurahr",
+  "html_url": "https://github.com/miurahr",
+  "followers_url": "https://api.github.com/users/miurahr/followers",
+  "following_url": "https://api.github.com/users/miurahr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miurahr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miurahr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miurahr/subscriptions",
+  "organizations_url": "https://api.github.com/users/miurahr/orgs",
+  "repos_url": "https://api.github.com/users/miurahr/repos",
+  "events_url": "https://api.github.com/users/miurahr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miurahr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

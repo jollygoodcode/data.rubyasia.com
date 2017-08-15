@@ -1,0 +1,20 @@
+{
+  "login": "mrleoyoung",
+  "id": 64165,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/64165?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrleoyoung",
+  "html_url": "https://github.com/mrleoyoung",
+  "followers_url": "https://api.github.com/users/mrleoyoung/followers",
+  "following_url": "https://api.github.com/users/mrleoyoung/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrleoyoung/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrleoyoung/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrleoyoung/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrleoyoung/orgs",
+  "repos_url": "https://api.github.com/users/mrleoyoung/repos",
+  "events_url": "https://api.github.com/users/mrleoyoung/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrleoyoung/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

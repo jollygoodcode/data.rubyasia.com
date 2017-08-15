@@ -1,0 +1,20 @@
+{
+  "login": "ayemos",
+  "id": 2426082,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2426082?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayemos",
+  "html_url": "https://github.com/ayemos",
+  "followers_url": "https://api.github.com/users/ayemos/followers",
+  "following_url": "https://api.github.com/users/ayemos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayemos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayemos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayemos/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayemos/orgs",
+  "repos_url": "https://api.github.com/users/ayemos/repos",
+  "events_url": "https://api.github.com/users/ayemos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayemos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

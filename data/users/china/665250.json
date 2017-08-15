@@ -1,0 +1,20 @@
+{
+  "login": "Slacken",
+  "id": 665250,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/665250?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Slacken",
+  "html_url": "https://github.com/Slacken",
+  "followers_url": "https://api.github.com/users/Slacken/followers",
+  "following_url": "https://api.github.com/users/Slacken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Slacken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Slacken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Slacken/subscriptions",
+  "organizations_url": "https://api.github.com/users/Slacken/orgs",
+  "repos_url": "https://api.github.com/users/Slacken/repos",
+  "events_url": "https://api.github.com/users/Slacken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Slacken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

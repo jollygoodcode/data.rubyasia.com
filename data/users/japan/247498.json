@@ -1,0 +1,20 @@
+{
+  "login": "cignoir",
+  "id": 247498,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/247498?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cignoir",
+  "html_url": "https://github.com/cignoir",
+  "followers_url": "https://api.github.com/users/cignoir/followers",
+  "following_url": "https://api.github.com/users/cignoir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cignoir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cignoir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cignoir/subscriptions",
+  "organizations_url": "https://api.github.com/users/cignoir/orgs",
+  "repos_url": "https://api.github.com/users/cignoir/repos",
+  "events_url": "https://api.github.com/users/cignoir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cignoir/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

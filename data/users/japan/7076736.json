@@ -1,0 +1,20 @@
+{
+  "login": "renshuki",
+  "id": 7076736,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7076736?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/renshuki",
+  "html_url": "https://github.com/renshuki",
+  "followers_url": "https://api.github.com/users/renshuki/followers",
+  "following_url": "https://api.github.com/users/renshuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/renshuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/renshuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/renshuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/renshuki/orgs",
+  "repos_url": "https://api.github.com/users/renshuki/repos",
+  "events_url": "https://api.github.com/users/renshuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/renshuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

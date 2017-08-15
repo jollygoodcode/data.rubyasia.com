@@ -1,0 +1,20 @@
+{
+  "login": "polamjag",
+  "id": 685936,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/685936?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/polamjag",
+  "html_url": "https://github.com/polamjag",
+  "followers_url": "https://api.github.com/users/polamjag/followers",
+  "following_url": "https://api.github.com/users/polamjag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/polamjag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/polamjag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/polamjag/subscriptions",
+  "organizations_url": "https://api.github.com/users/polamjag/orgs",
+  "repos_url": "https://api.github.com/users/polamjag/repos",
+  "events_url": "https://api.github.com/users/polamjag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/polamjag/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "delacruzjames",
+  "id": 1852427,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1852427?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/delacruzjames",
+  "html_url": "https://github.com/delacruzjames",
+  "followers_url": "https://api.github.com/users/delacruzjames/followers",
+  "following_url": "https://api.github.com/users/delacruzjames/following{/other_user}",
+  "gists_url": "https://api.github.com/users/delacruzjames/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/delacruzjames/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/delacruzjames/subscriptions",
+  "organizations_url": "https://api.github.com/users/delacruzjames/orgs",
+  "repos_url": "https://api.github.com/users/delacruzjames/repos",
+  "events_url": "https://api.github.com/users/delacruzjames/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/delacruzjames/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

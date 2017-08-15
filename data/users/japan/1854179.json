@@ -1,0 +1,20 @@
+{
+  "login": "avellable",
+  "id": 1854179,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1854179?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/avellable",
+  "html_url": "https://github.com/avellable",
+  "followers_url": "https://api.github.com/users/avellable/followers",
+  "following_url": "https://api.github.com/users/avellable/following{/other_user}",
+  "gists_url": "https://api.github.com/users/avellable/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/avellable/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/avellable/subscriptions",
+  "organizations_url": "https://api.github.com/users/avellable/orgs",
+  "repos_url": "https://api.github.com/users/avellable/repos",
+  "events_url": "https://api.github.com/users/avellable/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/avellable/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

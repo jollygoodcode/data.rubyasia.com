@@ -1,0 +1,20 @@
+{
+  "login": "zetavg",
+  "id": 3784687,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3784687?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zetavg",
+  "html_url": "https://github.com/zetavg",
+  "followers_url": "https://api.github.com/users/zetavg/followers",
+  "following_url": "https://api.github.com/users/zetavg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zetavg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zetavg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zetavg/subscriptions",
+  "organizations_url": "https://api.github.com/users/zetavg/orgs",
+  "repos_url": "https://api.github.com/users/zetavg/repos",
+  "events_url": "https://api.github.com/users/zetavg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zetavg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

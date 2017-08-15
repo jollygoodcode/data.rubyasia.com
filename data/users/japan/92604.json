@@ -1,0 +1,20 @@
+{
+  "login": "hirakiuc",
+  "id": 92604,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/92604?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hirakiuc",
+  "html_url": "https://github.com/hirakiuc",
+  "followers_url": "https://api.github.com/users/hirakiuc/followers",
+  "following_url": "https://api.github.com/users/hirakiuc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hirakiuc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hirakiuc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hirakiuc/subscriptions",
+  "organizations_url": "https://api.github.com/users/hirakiuc/orgs",
+  "repos_url": "https://api.github.com/users/hirakiuc/repos",
+  "events_url": "https://api.github.com/users/hirakiuc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hirakiuc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

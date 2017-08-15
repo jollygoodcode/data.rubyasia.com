@@ -1,0 +1,20 @@
+{
+  "login": "fybwid",
+  "id": 17536001,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/17536001?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fybwid",
+  "html_url": "https://github.com/fybwid",
+  "followers_url": "https://api.github.com/users/fybwid/followers",
+  "following_url": "https://api.github.com/users/fybwid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fybwid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fybwid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fybwid/subscriptions",
+  "organizations_url": "https://api.github.com/users/fybwid/orgs",
+  "repos_url": "https://api.github.com/users/fybwid/repos",
+  "events_url": "https://api.github.com/users/fybwid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fybwid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "offsecguy",
+  "id": 9607484,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9607484?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/offsecguy",
+  "html_url": "https://github.com/offsecguy",
+  "followers_url": "https://api.github.com/users/offsecguy/followers",
+  "following_url": "https://api.github.com/users/offsecguy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/offsecguy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/offsecguy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/offsecguy/subscriptions",
+  "organizations_url": "https://api.github.com/users/offsecguy/orgs",
+  "repos_url": "https://api.github.com/users/offsecguy/repos",
+  "events_url": "https://api.github.com/users/offsecguy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/offsecguy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

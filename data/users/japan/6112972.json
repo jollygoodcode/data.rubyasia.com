@@ -1,0 +1,20 @@
+{
+  "login": "Osushi",
+  "id": 6112972,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6112972?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Osushi",
+  "html_url": "https://github.com/Osushi",
+  "followers_url": "https://api.github.com/users/Osushi/followers",
+  "following_url": "https://api.github.com/users/Osushi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Osushi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Osushi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Osushi/subscriptions",
+  "organizations_url": "https://api.github.com/users/Osushi/orgs",
+  "repos_url": "https://api.github.com/users/Osushi/repos",
+  "events_url": "https://api.github.com/users/Osushi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Osushi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

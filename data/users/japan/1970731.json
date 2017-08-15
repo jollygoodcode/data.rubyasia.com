@@ -1,0 +1,20 @@
+{
+  "login": "chenzww",
+  "id": 1970731,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1970731?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chenzww",
+  "html_url": "https://github.com/chenzww",
+  "followers_url": "https://api.github.com/users/chenzww/followers",
+  "following_url": "https://api.github.com/users/chenzww/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chenzww/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chenzww/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chenzww/subscriptions",
+  "organizations_url": "https://api.github.com/users/chenzww/orgs",
+  "repos_url": "https://api.github.com/users/chenzww/repos",
+  "events_url": "https://api.github.com/users/chenzww/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chenzww/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

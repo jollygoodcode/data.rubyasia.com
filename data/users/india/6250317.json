@@ -1,0 +1,20 @@
+{
+  "login": "alonevision",
+  "id": 6250317,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6250317?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alonevision",
+  "html_url": "https://github.com/alonevision",
+  "followers_url": "https://api.github.com/users/alonevision/followers",
+  "following_url": "https://api.github.com/users/alonevision/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alonevision/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alonevision/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alonevision/subscriptions",
+  "organizations_url": "https://api.github.com/users/alonevision/orgs",
+  "repos_url": "https://api.github.com/users/alonevision/repos",
+  "events_url": "https://api.github.com/users/alonevision/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alonevision/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

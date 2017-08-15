@@ -1,0 +1,20 @@
+{
+  "login": "everittchen",
+  "id": 1312605,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1312605?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/everittchen",
+  "html_url": "https://github.com/everittchen",
+  "followers_url": "https://api.github.com/users/everittchen/followers",
+  "following_url": "https://api.github.com/users/everittchen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/everittchen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/everittchen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/everittchen/subscriptions",
+  "organizations_url": "https://api.github.com/users/everittchen/orgs",
+  "repos_url": "https://api.github.com/users/everittchen/repos",
+  "events_url": "https://api.github.com/users/everittchen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/everittchen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

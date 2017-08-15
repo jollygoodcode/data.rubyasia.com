@@ -1,0 +1,20 @@
+{
+  "login": "kumamotone",
+  "id": 8403570,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/8403570?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kumamotone",
+  "html_url": "https://github.com/kumamotone",
+  "followers_url": "https://api.github.com/users/kumamotone/followers",
+  "following_url": "https://api.github.com/users/kumamotone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kumamotone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kumamotone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kumamotone/subscriptions",
+  "organizations_url": "https://api.github.com/users/kumamotone/orgs",
+  "repos_url": "https://api.github.com/users/kumamotone/repos",
+  "events_url": "https://api.github.com/users/kumamotone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kumamotone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "emosei",
+  "id": 31956,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/31956?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emosei",
+  "html_url": "https://github.com/emosei",
+  "followers_url": "https://api.github.com/users/emosei/followers",
+  "following_url": "https://api.github.com/users/emosei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emosei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emosei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emosei/subscriptions",
+  "organizations_url": "https://api.github.com/users/emosei/orgs",
+  "repos_url": "https://api.github.com/users/emosei/repos",
+  "events_url": "https://api.github.com/users/emosei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emosei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

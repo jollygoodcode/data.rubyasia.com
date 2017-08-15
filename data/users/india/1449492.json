@@ -1,0 +1,20 @@
+{
+  "login": "lorefnon",
+  "id": 1449492,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1449492?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lorefnon",
+  "html_url": "https://github.com/lorefnon",
+  "followers_url": "https://api.github.com/users/lorefnon/followers",
+  "following_url": "https://api.github.com/users/lorefnon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lorefnon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lorefnon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lorefnon/subscriptions",
+  "organizations_url": "https://api.github.com/users/lorefnon/orgs",
+  "repos_url": "https://api.github.com/users/lorefnon/repos",
+  "events_url": "https://api.github.com/users/lorefnon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lorefnon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

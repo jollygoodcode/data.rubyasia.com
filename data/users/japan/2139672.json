@@ -1,0 +1,20 @@
+{
+  "login": "ynojima",
+  "id": 2139672,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2139672?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ynojima",
+  "html_url": "https://github.com/ynojima",
+  "followers_url": "https://api.github.com/users/ynojima/followers",
+  "following_url": "https://api.github.com/users/ynojima/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ynojima/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ynojima/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ynojima/subscriptions",
+  "organizations_url": "https://api.github.com/users/ynojima/orgs",
+  "repos_url": "https://api.github.com/users/ynojima/repos",
+  "events_url": "https://api.github.com/users/ynojima/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ynojima/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

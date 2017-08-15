@@ -1,0 +1,20 @@
+{
+  "login": "codegracie",
+  "id": 16146873,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/16146873?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codegracie",
+  "html_url": "https://github.com/codegracie",
+  "followers_url": "https://api.github.com/users/codegracie/followers",
+  "following_url": "https://api.github.com/users/codegracie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codegracie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codegracie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codegracie/subscriptions",
+  "organizations_url": "https://api.github.com/users/codegracie/orgs",
+  "repos_url": "https://api.github.com/users/codegracie/repos",
+  "events_url": "https://api.github.com/users/codegracie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codegracie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

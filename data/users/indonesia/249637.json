@@ -1,0 +1,20 @@
+{
+  "login": "panggi",
+  "id": 249637,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/249637?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/panggi",
+  "html_url": "https://github.com/panggi",
+  "followers_url": "https://api.github.com/users/panggi/followers",
+  "following_url": "https://api.github.com/users/panggi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/panggi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/panggi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/panggi/subscriptions",
+  "organizations_url": "https://api.github.com/users/panggi/orgs",
+  "repos_url": "https://api.github.com/users/panggi/repos",
+  "events_url": "https://api.github.com/users/panggi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/panggi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

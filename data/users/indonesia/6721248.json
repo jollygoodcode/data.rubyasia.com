@@ -1,0 +1,20 @@
+{
+  "login": "ukazap",
+  "id": 6721248,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6721248?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ukazap",
+  "html_url": "https://github.com/ukazap",
+  "followers_url": "https://api.github.com/users/ukazap/followers",
+  "following_url": "https://api.github.com/users/ukazap/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ukazap/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ukazap/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ukazap/subscriptions",
+  "organizations_url": "https://api.github.com/users/ukazap/orgs",
+  "repos_url": "https://api.github.com/users/ukazap/repos",
+  "events_url": "https://api.github.com/users/ukazap/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ukazap/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

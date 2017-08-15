@@ -1,0 +1,20 @@
+{
+  "login": "akinrt",
+  "id": 5040538,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5040538?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akinrt",
+  "html_url": "https://github.com/akinrt",
+  "followers_url": "https://api.github.com/users/akinrt/followers",
+  "following_url": "https://api.github.com/users/akinrt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akinrt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akinrt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akinrt/subscriptions",
+  "organizations_url": "https://api.github.com/users/akinrt/orgs",
+  "repos_url": "https://api.github.com/users/akinrt/repos",
+  "events_url": "https://api.github.com/users/akinrt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akinrt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

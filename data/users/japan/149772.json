@@ -1,0 +1,20 @@
+{
+  "login": "yono",
+  "id": 149772,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/149772?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yono",
+  "html_url": "https://github.com/yono",
+  "followers_url": "https://api.github.com/users/yono/followers",
+  "following_url": "https://api.github.com/users/yono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yono/subscriptions",
+  "organizations_url": "https://api.github.com/users/yono/orgs",
+  "repos_url": "https://api.github.com/users/yono/repos",
+  "events_url": "https://api.github.com/users/yono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

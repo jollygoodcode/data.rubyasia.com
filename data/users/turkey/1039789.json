@@ -1,0 +1,20 @@
+{
+  "login": "ahmetkapikiran",
+  "id": 1039789,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1039789?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ahmetkapikiran",
+  "html_url": "https://github.com/ahmetkapikiran",
+  "followers_url": "https://api.github.com/users/ahmetkapikiran/followers",
+  "following_url": "https://api.github.com/users/ahmetkapikiran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ahmetkapikiran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ahmetkapikiran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ahmetkapikiran/subscriptions",
+  "organizations_url": "https://api.github.com/users/ahmetkapikiran/orgs",
+  "repos_url": "https://api.github.com/users/ahmetkapikiran/repos",
+  "events_url": "https://api.github.com/users/ahmetkapikiran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ahmetkapikiran/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

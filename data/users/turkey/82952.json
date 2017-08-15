@@ -1,0 +1,20 @@
+{
+  "login": "vigo",
+  "id": 82952,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/82952?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vigo",
+  "html_url": "https://github.com/vigo",
+  "followers_url": "https://api.github.com/users/vigo/followers",
+  "following_url": "https://api.github.com/users/vigo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vigo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vigo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vigo/subscriptions",
+  "organizations_url": "https://api.github.com/users/vigo/orgs",
+  "repos_url": "https://api.github.com/users/vigo/repos",
+  "events_url": "https://api.github.com/users/vigo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vigo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

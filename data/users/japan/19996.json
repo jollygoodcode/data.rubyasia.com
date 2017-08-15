@@ -1,0 +1,20 @@
+{
+  "login": "mallowlabs",
+  "id": 19996,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/19996?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mallowlabs",
+  "html_url": "https://github.com/mallowlabs",
+  "followers_url": "https://api.github.com/users/mallowlabs/followers",
+  "following_url": "https://api.github.com/users/mallowlabs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mallowlabs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mallowlabs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mallowlabs/subscriptions",
+  "organizations_url": "https://api.github.com/users/mallowlabs/orgs",
+  "repos_url": "https://api.github.com/users/mallowlabs/repos",
+  "events_url": "https://api.github.com/users/mallowlabs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mallowlabs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

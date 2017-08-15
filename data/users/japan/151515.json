@@ -1,0 +1,20 @@
+{
+  "login": "ephesus",
+  "id": 151515,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/151515?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ephesus",
+  "html_url": "https://github.com/ephesus",
+  "followers_url": "https://api.github.com/users/ephesus/followers",
+  "following_url": "https://api.github.com/users/ephesus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ephesus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ephesus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ephesus/subscriptions",
+  "organizations_url": "https://api.github.com/users/ephesus/orgs",
+  "repos_url": "https://api.github.com/users/ephesus/repos",
+  "events_url": "https://api.github.com/users/ephesus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ephesus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "asartalo",
+  "id": 310708,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/310708?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asartalo",
+  "html_url": "https://github.com/asartalo",
+  "followers_url": "https://api.github.com/users/asartalo/followers",
+  "following_url": "https://api.github.com/users/asartalo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asartalo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asartalo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asartalo/subscriptions",
+  "organizations_url": "https://api.github.com/users/asartalo/orgs",
+  "repos_url": "https://api.github.com/users/asartalo/repos",
+  "events_url": "https://api.github.com/users/asartalo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asartalo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bobzhen",
+  "id": 2601931,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2601931?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bobzhen",
+  "html_url": "https://github.com/bobzhen",
+  "followers_url": "https://api.github.com/users/bobzhen/followers",
+  "following_url": "https://api.github.com/users/bobzhen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bobzhen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bobzhen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bobzhen/subscriptions",
+  "organizations_url": "https://api.github.com/users/bobzhen/orgs",
+  "repos_url": "https://api.github.com/users/bobzhen/repos",
+  "events_url": "https://api.github.com/users/bobzhen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bobzhen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

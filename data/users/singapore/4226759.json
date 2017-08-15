@@ -1,0 +1,20 @@
+{
+  "login": "nhattan",
+  "id": 4226759,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4226759?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nhattan",
+  "html_url": "https://github.com/nhattan",
+  "followers_url": "https://api.github.com/users/nhattan/followers",
+  "following_url": "https://api.github.com/users/nhattan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nhattan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nhattan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nhattan/subscriptions",
+  "organizations_url": "https://api.github.com/users/nhattan/orgs",
+  "repos_url": "https://api.github.com/users/nhattan/repos",
+  "events_url": "https://api.github.com/users/nhattan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nhattan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

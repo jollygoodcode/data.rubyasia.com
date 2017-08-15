@@ -1,0 +1,20 @@
+{
+  "login": "jwhitcraft",
+  "id": 26738,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/26738?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jwhitcraft",
+  "html_url": "https://github.com/jwhitcraft",
+  "followers_url": "https://api.github.com/users/jwhitcraft/followers",
+  "following_url": "https://api.github.com/users/jwhitcraft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jwhitcraft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jwhitcraft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jwhitcraft/subscriptions",
+  "organizations_url": "https://api.github.com/users/jwhitcraft/orgs",
+  "repos_url": "https://api.github.com/users/jwhitcraft/repos",
+  "events_url": "https://api.github.com/users/jwhitcraft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jwhitcraft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

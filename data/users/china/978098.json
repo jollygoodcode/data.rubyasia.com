@@ -1,0 +1,20 @@
+{
+  "login": "richarddong",
+  "id": 978098,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/978098?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/richarddong",
+  "html_url": "https://github.com/richarddong",
+  "followers_url": "https://api.github.com/users/richarddong/followers",
+  "following_url": "https://api.github.com/users/richarddong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/richarddong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/richarddong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/richarddong/subscriptions",
+  "organizations_url": "https://api.github.com/users/richarddong/orgs",
+  "repos_url": "https://api.github.com/users/richarddong/repos",
+  "events_url": "https://api.github.com/users/richarddong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/richarddong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

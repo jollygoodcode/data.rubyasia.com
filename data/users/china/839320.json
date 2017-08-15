@@ -1,0 +1,20 @@
+{
+  "login": "smartweb",
+  "id": 839320,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/839320?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smartweb",
+  "html_url": "https://github.com/smartweb",
+  "followers_url": "https://api.github.com/users/smartweb/followers",
+  "following_url": "https://api.github.com/users/smartweb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smartweb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smartweb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smartweb/subscriptions",
+  "organizations_url": "https://api.github.com/users/smartweb/orgs",
+  "repos_url": "https://api.github.com/users/smartweb/repos",
+  "events_url": "https://api.github.com/users/smartweb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smartweb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

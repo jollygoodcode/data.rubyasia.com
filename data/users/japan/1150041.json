@@ -1,0 +1,20 @@
+{
+  "login": "shoyan",
+  "id": 1150041,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1150041?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shoyan",
+  "html_url": "https://github.com/shoyan",
+  "followers_url": "https://api.github.com/users/shoyan/followers",
+  "following_url": "https://api.github.com/users/shoyan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shoyan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shoyan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shoyan/subscriptions",
+  "organizations_url": "https://api.github.com/users/shoyan/orgs",
+  "repos_url": "https://api.github.com/users/shoyan/repos",
+  "events_url": "https://api.github.com/users/shoyan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shoyan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

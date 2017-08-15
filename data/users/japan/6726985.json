@@ -1,0 +1,20 @@
+{
+  "login": "etdev",
+  "id": 6726985,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6726985?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/etdev",
+  "html_url": "https://github.com/etdev",
+  "followers_url": "https://api.github.com/users/etdev/followers",
+  "following_url": "https://api.github.com/users/etdev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/etdev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/etdev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/etdev/subscriptions",
+  "organizations_url": "https://api.github.com/users/etdev/orgs",
+  "repos_url": "https://api.github.com/users/etdev/repos",
+  "events_url": "https://api.github.com/users/etdev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/etdev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

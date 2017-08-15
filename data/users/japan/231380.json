@@ -1,0 +1,20 @@
+{
+  "login": "mono0x",
+  "id": 231380,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/231380?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mono0x",
+  "html_url": "https://github.com/mono0x",
+  "followers_url": "https://api.github.com/users/mono0x/followers",
+  "following_url": "https://api.github.com/users/mono0x/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mono0x/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mono0x/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mono0x/subscriptions",
+  "organizations_url": "https://api.github.com/users/mono0x/orgs",
+  "repos_url": "https://api.github.com/users/mono0x/repos",
+  "events_url": "https://api.github.com/users/mono0x/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mono0x/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

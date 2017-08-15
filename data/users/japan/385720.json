@@ -1,0 +1,20 @@
+{
+  "login": "amazedkoumei",
+  "id": 385720,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/385720?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amazedkoumei",
+  "html_url": "https://github.com/amazedkoumei",
+  "followers_url": "https://api.github.com/users/amazedkoumei/followers",
+  "following_url": "https://api.github.com/users/amazedkoumei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amazedkoumei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amazedkoumei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amazedkoumei/subscriptions",
+  "organizations_url": "https://api.github.com/users/amazedkoumei/orgs",
+  "repos_url": "https://api.github.com/users/amazedkoumei/repos",
+  "events_url": "https://api.github.com/users/amazedkoumei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amazedkoumei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

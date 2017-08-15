@@ -1,0 +1,20 @@
+{
+  "login": "juanpaulo",
+  "id": 2783678,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2783678?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/juanpaulo",
+  "html_url": "https://github.com/juanpaulo",
+  "followers_url": "https://api.github.com/users/juanpaulo/followers",
+  "following_url": "https://api.github.com/users/juanpaulo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/juanpaulo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/juanpaulo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/juanpaulo/subscriptions",
+  "organizations_url": "https://api.github.com/users/juanpaulo/orgs",
+  "repos_url": "https://api.github.com/users/juanpaulo/repos",
+  "events_url": "https://api.github.com/users/juanpaulo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/juanpaulo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

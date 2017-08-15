@@ -1,0 +1,20 @@
+{
+  "login": "norikt",
+  "id": 933867,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/933867?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/norikt",
+  "html_url": "https://github.com/norikt",
+  "followers_url": "https://api.github.com/users/norikt/followers",
+  "following_url": "https://api.github.com/users/norikt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/norikt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/norikt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/norikt/subscriptions",
+  "organizations_url": "https://api.github.com/users/norikt/orgs",
+  "repos_url": "https://api.github.com/users/norikt/repos",
+  "events_url": "https://api.github.com/users/norikt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/norikt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "junheon",
+  "id": 339420,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/339420?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/junheon",
+  "html_url": "https://github.com/junheon",
+  "followers_url": "https://api.github.com/users/junheon/followers",
+  "following_url": "https://api.github.com/users/junheon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/junheon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/junheon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/junheon/subscriptions",
+  "organizations_url": "https://api.github.com/users/junheon/orgs",
+  "repos_url": "https://api.github.com/users/junheon/repos",
+  "events_url": "https://api.github.com/users/junheon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/junheon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

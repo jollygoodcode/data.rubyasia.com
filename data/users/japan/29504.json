@@ -1,0 +1,20 @@
+{
+  "login": "kurain",
+  "id": 29504,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/29504?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kurain",
+  "html_url": "https://github.com/kurain",
+  "followers_url": "https://api.github.com/users/kurain/followers",
+  "following_url": "https://api.github.com/users/kurain/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kurain/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kurain/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kurain/subscriptions",
+  "organizations_url": "https://api.github.com/users/kurain/orgs",
+  "repos_url": "https://api.github.com/users/kurain/repos",
+  "events_url": "https://api.github.com/users/kurain/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kurain/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

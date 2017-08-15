@@ -1,0 +1,20 @@
+{
+  "login": "micusic",
+  "id": 5790540,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5790540?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/micusic",
+  "html_url": "https://github.com/micusic",
+  "followers_url": "https://api.github.com/users/micusic/followers",
+  "following_url": "https://api.github.com/users/micusic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/micusic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/micusic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/micusic/subscriptions",
+  "organizations_url": "https://api.github.com/users/micusic/orgs",
+  "repos_url": "https://api.github.com/users/micusic/repos",
+  "events_url": "https://api.github.com/users/micusic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/micusic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

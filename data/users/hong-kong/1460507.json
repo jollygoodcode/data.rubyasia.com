@@ -1,0 +1,20 @@
+{
+  "login": "gillien",
+  "id": 1460507,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1460507?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gillien",
+  "html_url": "https://github.com/gillien",
+  "followers_url": "https://api.github.com/users/gillien/followers",
+  "following_url": "https://api.github.com/users/gillien/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gillien/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gillien/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gillien/subscriptions",
+  "organizations_url": "https://api.github.com/users/gillien/orgs",
+  "repos_url": "https://api.github.com/users/gillien/repos",
+  "events_url": "https://api.github.com/users/gillien/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gillien/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

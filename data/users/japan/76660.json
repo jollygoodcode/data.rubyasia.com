@@ -1,0 +1,20 @@
+{
+  "login": "acotie",
+  "id": 76660,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/76660?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/acotie",
+  "html_url": "https://github.com/acotie",
+  "followers_url": "https://api.github.com/users/acotie/followers",
+  "following_url": "https://api.github.com/users/acotie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/acotie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/acotie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/acotie/subscriptions",
+  "organizations_url": "https://api.github.com/users/acotie/orgs",
+  "repos_url": "https://api.github.com/users/acotie/repos",
+  "events_url": "https://api.github.com/users/acotie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/acotie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

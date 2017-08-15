@@ -1,0 +1,20 @@
+{
+  "login": "mojacc",
+  "id": 700863,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/700863?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mojacc",
+  "html_url": "https://github.com/mojacc",
+  "followers_url": "https://api.github.com/users/mojacc/followers",
+  "following_url": "https://api.github.com/users/mojacc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mojacc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mojacc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mojacc/subscriptions",
+  "organizations_url": "https://api.github.com/users/mojacc/orgs",
+  "repos_url": "https://api.github.com/users/mojacc/repos",
+  "events_url": "https://api.github.com/users/mojacc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mojacc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

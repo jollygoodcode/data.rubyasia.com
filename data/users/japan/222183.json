@@ -1,0 +1,20 @@
+{
+  "login": "youchan",
+  "id": 222183,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/222183?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/youchan",
+  "html_url": "https://github.com/youchan",
+  "followers_url": "https://api.github.com/users/youchan/followers",
+  "following_url": "https://api.github.com/users/youchan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/youchan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/youchan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/youchan/subscriptions",
+  "organizations_url": "https://api.github.com/users/youchan/orgs",
+  "repos_url": "https://api.github.com/users/youchan/repos",
+  "events_url": "https://api.github.com/users/youchan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/youchan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

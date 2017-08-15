@@ -1,0 +1,20 @@
+{
+  "login": "NumberGuy",
+  "id": 1478201,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1478201?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NumberGuy",
+  "html_url": "https://github.com/NumberGuy",
+  "followers_url": "https://api.github.com/users/NumberGuy/followers",
+  "following_url": "https://api.github.com/users/NumberGuy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NumberGuy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NumberGuy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NumberGuy/subscriptions",
+  "organizations_url": "https://api.github.com/users/NumberGuy/orgs",
+  "repos_url": "https://api.github.com/users/NumberGuy/repos",
+  "events_url": "https://api.github.com/users/NumberGuy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NumberGuy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

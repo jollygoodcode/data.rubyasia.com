@@ -1,0 +1,20 @@
+{
+  "login": "kmdsbng",
+  "id": 11285,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11285?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kmdsbng",
+  "html_url": "https://github.com/kmdsbng",
+  "followers_url": "https://api.github.com/users/kmdsbng/followers",
+  "following_url": "https://api.github.com/users/kmdsbng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kmdsbng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kmdsbng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kmdsbng/subscriptions",
+  "organizations_url": "https://api.github.com/users/kmdsbng/orgs",
+  "repos_url": "https://api.github.com/users/kmdsbng/repos",
+  "events_url": "https://api.github.com/users/kmdsbng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kmdsbng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

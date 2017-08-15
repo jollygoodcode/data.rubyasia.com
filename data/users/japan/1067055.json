@@ -1,0 +1,20 @@
+{
+  "login": "hamburgerkid",
+  "id": 1067055,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1067055?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hamburgerkid",
+  "html_url": "https://github.com/hamburgerkid",
+  "followers_url": "https://api.github.com/users/hamburgerkid/followers",
+  "following_url": "https://api.github.com/users/hamburgerkid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hamburgerkid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hamburgerkid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hamburgerkid/subscriptions",
+  "organizations_url": "https://api.github.com/users/hamburgerkid/orgs",
+  "repos_url": "https://api.github.com/users/hamburgerkid/repos",
+  "events_url": "https://api.github.com/users/hamburgerkid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hamburgerkid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

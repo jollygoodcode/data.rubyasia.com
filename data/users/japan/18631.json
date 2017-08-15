@@ -1,0 +1,20 @@
+{
+  "login": "ngs",
+  "id": 18631,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/18631?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ngs",
+  "html_url": "https://github.com/ngs",
+  "followers_url": "https://api.github.com/users/ngs/followers",
+  "following_url": "https://api.github.com/users/ngs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ngs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ngs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ngs/subscriptions",
+  "organizations_url": "https://api.github.com/users/ngs/orgs",
+  "repos_url": "https://api.github.com/users/ngs/repos",
+  "events_url": "https://api.github.com/users/ngs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ngs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

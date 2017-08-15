@@ -1,0 +1,20 @@
+{
+  "login": "sparkle",
+  "id": 10790,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10790?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sparkle",
+  "html_url": "https://github.com/sparkle",
+  "followers_url": "https://api.github.com/users/sparkle/followers",
+  "following_url": "https://api.github.com/users/sparkle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sparkle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sparkle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sparkle/subscriptions",
+  "organizations_url": "https://api.github.com/users/sparkle/orgs",
+  "repos_url": "https://api.github.com/users/sparkle/repos",
+  "events_url": "https://api.github.com/users/sparkle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sparkle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

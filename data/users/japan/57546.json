@@ -1,0 +1,20 @@
+{
+  "login": "neotag",
+  "id": 57546,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/57546?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/neotag",
+  "html_url": "https://github.com/neotag",
+  "followers_url": "https://api.github.com/users/neotag/followers",
+  "following_url": "https://api.github.com/users/neotag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/neotag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/neotag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/neotag/subscriptions",
+  "organizations_url": "https://api.github.com/users/neotag/orgs",
+  "repos_url": "https://api.github.com/users/neotag/repos",
+  "events_url": "https://api.github.com/users/neotag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/neotag/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "pomecec",
+  "id": 5165116,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5165116?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pomecec",
+  "html_url": "https://github.com/pomecec",
+  "followers_url": "https://api.github.com/users/pomecec/followers",
+  "following_url": "https://api.github.com/users/pomecec/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pomecec/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pomecec/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pomecec/subscriptions",
+  "organizations_url": "https://api.github.com/users/pomecec/orgs",
+  "repos_url": "https://api.github.com/users/pomecec/repos",
+  "events_url": "https://api.github.com/users/pomecec/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pomecec/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

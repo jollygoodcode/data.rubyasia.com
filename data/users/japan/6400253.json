@@ -1,0 +1,20 @@
+{
+  "login": "Everysick",
+  "id": 6400253,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6400253?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Everysick",
+  "html_url": "https://github.com/Everysick",
+  "followers_url": "https://api.github.com/users/Everysick/followers",
+  "following_url": "https://api.github.com/users/Everysick/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Everysick/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Everysick/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Everysick/subscriptions",
+  "organizations_url": "https://api.github.com/users/Everysick/orgs",
+  "repos_url": "https://api.github.com/users/Everysick/repos",
+  "events_url": "https://api.github.com/users/Everysick/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Everysick/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

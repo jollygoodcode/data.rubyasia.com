@@ -1,0 +1,20 @@
+{
+  "login": "solo123",
+  "id": 160261,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/160261?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/solo123",
+  "html_url": "https://github.com/solo123",
+  "followers_url": "https://api.github.com/users/solo123/followers",
+  "following_url": "https://api.github.com/users/solo123/following{/other_user}",
+  "gists_url": "https://api.github.com/users/solo123/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/solo123/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/solo123/subscriptions",
+  "organizations_url": "https://api.github.com/users/solo123/orgs",
+  "repos_url": "https://api.github.com/users/solo123/repos",
+  "events_url": "https://api.github.com/users/solo123/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/solo123/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

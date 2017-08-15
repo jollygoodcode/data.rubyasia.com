@@ -1,0 +1,20 @@
+{
+  "login": "serihiro",
+  "id": 681496,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/681496?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/serihiro",
+  "html_url": "https://github.com/serihiro",
+  "followers_url": "https://api.github.com/users/serihiro/followers",
+  "following_url": "https://api.github.com/users/serihiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/serihiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/serihiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/serihiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/serihiro/orgs",
+  "repos_url": "https://api.github.com/users/serihiro/repos",
+  "events_url": "https://api.github.com/users/serihiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/serihiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "katoy",
+  "id": 11354,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11354?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katoy",
+  "html_url": "https://github.com/katoy",
+  "followers_url": "https://api.github.com/users/katoy/followers",
+  "following_url": "https://api.github.com/users/katoy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katoy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katoy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katoy/subscriptions",
+  "organizations_url": "https://api.github.com/users/katoy/orgs",
+  "repos_url": "https://api.github.com/users/katoy/repos",
+  "events_url": "https://api.github.com/users/katoy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katoy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

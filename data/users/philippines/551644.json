@@ -1,0 +1,20 @@
+{
+  "login": "katpadi",
+  "id": 551644,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/551644?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katpadi",
+  "html_url": "https://github.com/katpadi",
+  "followers_url": "https://api.github.com/users/katpadi/followers",
+  "following_url": "https://api.github.com/users/katpadi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katpadi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katpadi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katpadi/subscriptions",
+  "organizations_url": "https://api.github.com/users/katpadi/orgs",
+  "repos_url": "https://api.github.com/users/katpadi/repos",
+  "events_url": "https://api.github.com/users/katpadi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katpadi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

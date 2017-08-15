@@ -1,0 +1,20 @@
+{
+  "login": "sesame",
+  "id": 1622587,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1622587?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sesame",
+  "html_url": "https://github.com/sesame",
+  "followers_url": "https://api.github.com/users/sesame/followers",
+  "following_url": "https://api.github.com/users/sesame/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sesame/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sesame/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sesame/subscriptions",
+  "organizations_url": "https://api.github.com/users/sesame/orgs",
+  "repos_url": "https://api.github.com/users/sesame/repos",
+  "events_url": "https://api.github.com/users/sesame/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sesame/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

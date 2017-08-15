@@ -1,0 +1,20 @@
+{
+  "login": "rentalname",
+  "id": 1182962,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1182962?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rentalname",
+  "html_url": "https://github.com/rentalname",
+  "followers_url": "https://api.github.com/users/rentalname/followers",
+  "following_url": "https://api.github.com/users/rentalname/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rentalname/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rentalname/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rentalname/subscriptions",
+  "organizations_url": "https://api.github.com/users/rentalname/orgs",
+  "repos_url": "https://api.github.com/users/rentalname/repos",
+  "events_url": "https://api.github.com/users/rentalname/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rentalname/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

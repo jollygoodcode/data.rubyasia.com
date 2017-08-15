@@ -1,0 +1,20 @@
+{
+  "login": "cflee",
+  "id": 8225175,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/8225175?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cflee",
+  "html_url": "https://github.com/cflee",
+  "followers_url": "https://api.github.com/users/cflee/followers",
+  "following_url": "https://api.github.com/users/cflee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cflee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cflee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cflee/subscriptions",
+  "organizations_url": "https://api.github.com/users/cflee/orgs",
+  "repos_url": "https://api.github.com/users/cflee/repos",
+  "events_url": "https://api.github.com/users/cflee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cflee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

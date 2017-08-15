@@ -1,0 +1,20 @@
+{
+  "login": "yasu",
+  "id": 54614,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/54614?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yasu",
+  "html_url": "https://github.com/yasu",
+  "followers_url": "https://api.github.com/users/yasu/followers",
+  "following_url": "https://api.github.com/users/yasu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yasu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yasu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yasu/subscriptions",
+  "organizations_url": "https://api.github.com/users/yasu/orgs",
+  "repos_url": "https://api.github.com/users/yasu/repos",
+  "events_url": "https://api.github.com/users/yasu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yasu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

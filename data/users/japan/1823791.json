@@ -1,0 +1,20 @@
+{
+  "login": "otika",
+  "id": 1823791,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1823791?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/otika",
+  "html_url": "https://github.com/otika",
+  "followers_url": "https://api.github.com/users/otika/followers",
+  "following_url": "https://api.github.com/users/otika/following{/other_user}",
+  "gists_url": "https://api.github.com/users/otika/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/otika/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/otika/subscriptions",
+  "organizations_url": "https://api.github.com/users/otika/orgs",
+  "repos_url": "https://api.github.com/users/otika/repos",
+  "events_url": "https://api.github.com/users/otika/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/otika/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

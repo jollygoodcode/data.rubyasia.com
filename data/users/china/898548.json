@@ -1,0 +1,20 @@
+{
+  "login": "rainsun",
+  "id": 898548,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/898548?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rainsun",
+  "html_url": "https://github.com/rainsun",
+  "followers_url": "https://api.github.com/users/rainsun/followers",
+  "following_url": "https://api.github.com/users/rainsun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rainsun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rainsun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rainsun/subscriptions",
+  "organizations_url": "https://api.github.com/users/rainsun/orgs",
+  "repos_url": "https://api.github.com/users/rainsun/repos",
+  "events_url": "https://api.github.com/users/rainsun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rainsun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

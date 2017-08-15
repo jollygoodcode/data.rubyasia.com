@@ -1,0 +1,20 @@
+{
+  "login": "Nyoho",
+  "id": 118150,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/118150?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Nyoho",
+  "html_url": "https://github.com/Nyoho",
+  "followers_url": "https://api.github.com/users/Nyoho/followers",
+  "following_url": "https://api.github.com/users/Nyoho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Nyoho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Nyoho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Nyoho/subscriptions",
+  "organizations_url": "https://api.github.com/users/Nyoho/orgs",
+  "repos_url": "https://api.github.com/users/Nyoho/repos",
+  "events_url": "https://api.github.com/users/Nyoho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Nyoho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

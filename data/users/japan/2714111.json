@@ -1,0 +1,20 @@
+{
+  "login": "yantene",
+  "id": 2714111,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2714111?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yantene",
+  "html_url": "https://github.com/yantene",
+  "followers_url": "https://api.github.com/users/yantene/followers",
+  "following_url": "https://api.github.com/users/yantene/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yantene/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yantene/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yantene/subscriptions",
+  "organizations_url": "https://api.github.com/users/yantene/orgs",
+  "repos_url": "https://api.github.com/users/yantene/repos",
+  "events_url": "https://api.github.com/users/yantene/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yantene/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ace-subido",
+  "id": 730800,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/730800?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ace-subido",
+  "html_url": "https://github.com/ace-subido",
+  "followers_url": "https://api.github.com/users/ace-subido/followers",
+  "following_url": "https://api.github.com/users/ace-subido/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ace-subido/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ace-subido/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ace-subido/subscriptions",
+  "organizations_url": "https://api.github.com/users/ace-subido/orgs",
+  "repos_url": "https://api.github.com/users/ace-subido/repos",
+  "events_url": "https://api.github.com/users/ace-subido/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ace-subido/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

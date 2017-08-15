@@ -1,0 +1,20 @@
+{
+  "login": "Keishake",
+  "id": 1421392,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1421392?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Keishake",
+  "html_url": "https://github.com/Keishake",
+  "followers_url": "https://api.github.com/users/Keishake/followers",
+  "following_url": "https://api.github.com/users/Keishake/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Keishake/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Keishake/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Keishake/subscriptions",
+  "organizations_url": "https://api.github.com/users/Keishake/orgs",
+  "repos_url": "https://api.github.com/users/Keishake/repos",
+  "events_url": "https://api.github.com/users/Keishake/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Keishake/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

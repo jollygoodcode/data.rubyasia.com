@@ -1,0 +1,20 @@
+{
+  "login": "ygotoh",
+  "id": 192432,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/192432?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ygotoh",
+  "html_url": "https://github.com/ygotoh",
+  "followers_url": "https://api.github.com/users/ygotoh/followers",
+  "following_url": "https://api.github.com/users/ygotoh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ygotoh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ygotoh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ygotoh/subscriptions",
+  "organizations_url": "https://api.github.com/users/ygotoh/orgs",
+  "repos_url": "https://api.github.com/users/ygotoh/repos",
+  "events_url": "https://api.github.com/users/ygotoh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ygotoh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

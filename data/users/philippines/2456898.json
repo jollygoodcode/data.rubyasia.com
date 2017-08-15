@@ -1,0 +1,20 @@
+{
+  "login": "anykeyh",
+  "id": 2456898,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2456898?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anykeyh",
+  "html_url": "https://github.com/anykeyh",
+  "followers_url": "https://api.github.com/users/anykeyh/followers",
+  "following_url": "https://api.github.com/users/anykeyh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anykeyh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anykeyh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anykeyh/subscriptions",
+  "organizations_url": "https://api.github.com/users/anykeyh/orgs",
+  "repos_url": "https://api.github.com/users/anykeyh/repos",
+  "events_url": "https://api.github.com/users/anykeyh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anykeyh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

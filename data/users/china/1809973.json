@@ -1,0 +1,20 @@
+{
+  "login": "42thcoder",
+  "id": 1809973,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1809973?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/42thcoder",
+  "html_url": "https://github.com/42thcoder",
+  "followers_url": "https://api.github.com/users/42thcoder/followers",
+  "following_url": "https://api.github.com/users/42thcoder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/42thcoder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/42thcoder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/42thcoder/subscriptions",
+  "organizations_url": "https://api.github.com/users/42thcoder/orgs",
+  "repos_url": "https://api.github.com/users/42thcoder/repos",
+  "events_url": "https://api.github.com/users/42thcoder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/42thcoder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

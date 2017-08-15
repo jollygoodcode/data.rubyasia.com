@@ -1,0 +1,20 @@
+{
+  "login": "taea",
+  "id": 341101,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/341101?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taea",
+  "html_url": "https://github.com/taea",
+  "followers_url": "https://api.github.com/users/taea/followers",
+  "following_url": "https://api.github.com/users/taea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taea/subscriptions",
+  "organizations_url": "https://api.github.com/users/taea/orgs",
+  "repos_url": "https://api.github.com/users/taea/repos",
+  "events_url": "https://api.github.com/users/taea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

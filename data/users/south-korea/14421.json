@@ -1,0 +1,20 @@
+{
+  "login": "sjoonk",
+  "id": 14421,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/14421?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sjoonk",
+  "html_url": "https://github.com/sjoonk",
+  "followers_url": "https://api.github.com/users/sjoonk/followers",
+  "following_url": "https://api.github.com/users/sjoonk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sjoonk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sjoonk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sjoonk/subscriptions",
+  "organizations_url": "https://api.github.com/users/sjoonk/orgs",
+  "repos_url": "https://api.github.com/users/sjoonk/repos",
+  "events_url": "https://api.github.com/users/sjoonk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sjoonk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

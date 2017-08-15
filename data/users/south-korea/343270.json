@@ -1,0 +1,20 @@
+{
+  "login": "leegeng",
+  "id": 343270,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/343270?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leegeng",
+  "html_url": "https://github.com/leegeng",
+  "followers_url": "https://api.github.com/users/leegeng/followers",
+  "following_url": "https://api.github.com/users/leegeng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leegeng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leegeng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leegeng/subscriptions",
+  "organizations_url": "https://api.github.com/users/leegeng/orgs",
+  "repos_url": "https://api.github.com/users/leegeng/repos",
+  "events_url": "https://api.github.com/users/leegeng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leegeng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

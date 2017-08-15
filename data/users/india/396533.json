@@ -1,0 +1,20 @@
+{
+  "login": "Prajjwal",
+  "id": 396533,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/396533?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Prajjwal",
+  "html_url": "https://github.com/Prajjwal",
+  "followers_url": "https://api.github.com/users/Prajjwal/followers",
+  "following_url": "https://api.github.com/users/Prajjwal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Prajjwal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Prajjwal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Prajjwal/subscriptions",
+  "organizations_url": "https://api.github.com/users/Prajjwal/orgs",
+  "repos_url": "https://api.github.com/users/Prajjwal/repos",
+  "events_url": "https://api.github.com/users/Prajjwal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Prajjwal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

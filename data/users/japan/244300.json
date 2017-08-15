@@ -1,0 +1,20 @@
+{
+  "login": "akishin",
+  "id": 244300,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/244300?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akishin",
+  "html_url": "https://github.com/akishin",
+  "followers_url": "https://api.github.com/users/akishin/followers",
+  "following_url": "https://api.github.com/users/akishin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akishin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akishin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akishin/subscriptions",
+  "organizations_url": "https://api.github.com/users/akishin/orgs",
+  "repos_url": "https://api.github.com/users/akishin/repos",
+  "events_url": "https://api.github.com/users/akishin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akishin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lightpriest",
+  "id": 351445,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/351445?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lightpriest",
+  "html_url": "https://github.com/lightpriest",
+  "followers_url": "https://api.github.com/users/lightpriest/followers",
+  "following_url": "https://api.github.com/users/lightpriest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lightpriest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lightpriest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lightpriest/subscriptions",
+  "organizations_url": "https://api.github.com/users/lightpriest/orgs",
+  "repos_url": "https://api.github.com/users/lightpriest/repos",
+  "events_url": "https://api.github.com/users/lightpriest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lightpriest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "assafgelber",
+  "id": 2394509,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2394509?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/assafgelber",
+  "html_url": "https://github.com/assafgelber",
+  "followers_url": "https://api.github.com/users/assafgelber/followers",
+  "following_url": "https://api.github.com/users/assafgelber/following{/other_user}",
+  "gists_url": "https://api.github.com/users/assafgelber/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/assafgelber/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/assafgelber/subscriptions",
+  "organizations_url": "https://api.github.com/users/assafgelber/orgs",
+  "repos_url": "https://api.github.com/users/assafgelber/repos",
+  "events_url": "https://api.github.com/users/assafgelber/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/assafgelber/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

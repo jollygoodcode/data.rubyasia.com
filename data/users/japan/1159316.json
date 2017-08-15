@@ -1,0 +1,20 @@
+{
+  "login": "motchang",
+  "id": 1159316,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1159316?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/motchang",
+  "html_url": "https://github.com/motchang",
+  "followers_url": "https://api.github.com/users/motchang/followers",
+  "following_url": "https://api.github.com/users/motchang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/motchang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/motchang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/motchang/subscriptions",
+  "organizations_url": "https://api.github.com/users/motchang/orgs",
+  "repos_url": "https://api.github.com/users/motchang/repos",
+  "events_url": "https://api.github.com/users/motchang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/motchang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

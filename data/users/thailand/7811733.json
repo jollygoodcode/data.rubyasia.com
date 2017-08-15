@@ -1,0 +1,20 @@
+{
+  "login": "janklimo",
+  "id": 7811733,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7811733?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/janklimo",
+  "html_url": "https://github.com/janklimo",
+  "followers_url": "https://api.github.com/users/janklimo/followers",
+  "following_url": "https://api.github.com/users/janklimo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/janklimo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/janklimo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/janklimo/subscriptions",
+  "organizations_url": "https://api.github.com/users/janklimo/orgs",
+  "repos_url": "https://api.github.com/users/janklimo/repos",
+  "events_url": "https://api.github.com/users/janklimo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/janklimo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

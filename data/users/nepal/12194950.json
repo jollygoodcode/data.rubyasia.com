@@ -1,0 +1,20 @@
+{
+  "login": "prertik",
+  "id": 12194950,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12194950?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/prertik",
+  "html_url": "https://github.com/prertik",
+  "followers_url": "https://api.github.com/users/prertik/followers",
+  "following_url": "https://api.github.com/users/prertik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/prertik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/prertik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/prertik/subscriptions",
+  "organizations_url": "https://api.github.com/users/prertik/orgs",
+  "repos_url": "https://api.github.com/users/prertik/repos",
+  "events_url": "https://api.github.com/users/prertik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/prertik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ljinke",
+  "id": 1277690,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1277690?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ljinke",
+  "html_url": "https://github.com/ljinke",
+  "followers_url": "https://api.github.com/users/ljinke/followers",
+  "following_url": "https://api.github.com/users/ljinke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ljinke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ljinke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ljinke/subscriptions",
+  "organizations_url": "https://api.github.com/users/ljinke/orgs",
+  "repos_url": "https://api.github.com/users/ljinke/repos",
+  "events_url": "https://api.github.com/users/ljinke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ljinke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

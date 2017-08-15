@@ -1,0 +1,20 @@
+{
+  "login": "abicky",
+  "id": 508822,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/508822?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abicky",
+  "html_url": "https://github.com/abicky",
+  "followers_url": "https://api.github.com/users/abicky/followers",
+  "following_url": "https://api.github.com/users/abicky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abicky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abicky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abicky/subscriptions",
+  "organizations_url": "https://api.github.com/users/abicky/orgs",
+  "repos_url": "https://api.github.com/users/abicky/repos",
+  "events_url": "https://api.github.com/users/abicky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abicky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

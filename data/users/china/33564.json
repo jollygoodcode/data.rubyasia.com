@@ -1,0 +1,20 @@
+{
+  "login": "Cary",
+  "id": 33564,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/33564?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Cary",
+  "html_url": "https://github.com/Cary",
+  "followers_url": "https://api.github.com/users/Cary/followers",
+  "following_url": "https://api.github.com/users/Cary/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Cary/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Cary/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Cary/subscriptions",
+  "organizations_url": "https://api.github.com/users/Cary/orgs",
+  "repos_url": "https://api.github.com/users/Cary/repos",
+  "events_url": "https://api.github.com/users/Cary/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Cary/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

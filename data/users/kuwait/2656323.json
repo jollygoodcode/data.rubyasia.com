@@ -1,0 +1,20 @@
+{
+  "login": "Humoud",
+  "id": 2656323,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2656323?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Humoud",
+  "html_url": "https://github.com/Humoud",
+  "followers_url": "https://api.github.com/users/Humoud/followers",
+  "following_url": "https://api.github.com/users/Humoud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Humoud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Humoud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Humoud/subscriptions",
+  "organizations_url": "https://api.github.com/users/Humoud/orgs",
+  "repos_url": "https://api.github.com/users/Humoud/repos",
+  "events_url": "https://api.github.com/users/Humoud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Humoud/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

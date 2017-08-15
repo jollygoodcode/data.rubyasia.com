@@ -1,0 +1,20 @@
+{
+  "login": "leezii",
+  "id": 101896,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/101896?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leezii",
+  "html_url": "https://github.com/leezii",
+  "followers_url": "https://api.github.com/users/leezii/followers",
+  "following_url": "https://api.github.com/users/leezii/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leezii/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leezii/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leezii/subscriptions",
+  "organizations_url": "https://api.github.com/users/leezii/orgs",
+  "repos_url": "https://api.github.com/users/leezii/repos",
+  "events_url": "https://api.github.com/users/leezii/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leezii/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

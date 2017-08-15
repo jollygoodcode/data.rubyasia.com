@@ -1,0 +1,20 @@
+{
+  "login": "lipowen",
+  "id": 2809616,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2809616?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lipowen",
+  "html_url": "https://github.com/lipowen",
+  "followers_url": "https://api.github.com/users/lipowen/followers",
+  "following_url": "https://api.github.com/users/lipowen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lipowen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lipowen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lipowen/subscriptions",
+  "organizations_url": "https://api.github.com/users/lipowen/orgs",
+  "repos_url": "https://api.github.com/users/lipowen/repos",
+  "events_url": "https://api.github.com/users/lipowen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lipowen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

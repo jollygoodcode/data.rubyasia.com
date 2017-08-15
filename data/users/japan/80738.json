@@ -1,0 +1,20 @@
+{
+  "login": "mattsan",
+  "id": 80738,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/80738?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mattsan",
+  "html_url": "https://github.com/mattsan",
+  "followers_url": "https://api.github.com/users/mattsan/followers",
+  "following_url": "https://api.github.com/users/mattsan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mattsan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mattsan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mattsan/subscriptions",
+  "organizations_url": "https://api.github.com/users/mattsan/orgs",
+  "repos_url": "https://api.github.com/users/mattsan/repos",
+  "events_url": "https://api.github.com/users/mattsan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mattsan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

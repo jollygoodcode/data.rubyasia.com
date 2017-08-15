@@ -1,0 +1,20 @@
+{
+  "login": "samchandra",
+  "id": 11963,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11963?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/samchandra",
+  "html_url": "https://github.com/samchandra",
+  "followers_url": "https://api.github.com/users/samchandra/followers",
+  "following_url": "https://api.github.com/users/samchandra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/samchandra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/samchandra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/samchandra/subscriptions",
+  "organizations_url": "https://api.github.com/users/samchandra/orgs",
+  "repos_url": "https://api.github.com/users/samchandra/repos",
+  "events_url": "https://api.github.com/users/samchandra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/samchandra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

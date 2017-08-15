@@ -1,0 +1,20 @@
+{
+  "login": "rhenium",
+  "id": 1033740,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1033740?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rhenium",
+  "html_url": "https://github.com/rhenium",
+  "followers_url": "https://api.github.com/users/rhenium/followers",
+  "following_url": "https://api.github.com/users/rhenium/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rhenium/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rhenium/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rhenium/subscriptions",
+  "organizations_url": "https://api.github.com/users/rhenium/orgs",
+  "repos_url": "https://api.github.com/users/rhenium/repos",
+  "events_url": "https://api.github.com/users/rhenium/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rhenium/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

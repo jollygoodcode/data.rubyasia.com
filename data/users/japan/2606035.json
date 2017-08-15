@@ -1,0 +1,20 @@
+{
+  "login": "syguer",
+  "id": 2606035,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2606035?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/syguer",
+  "html_url": "https://github.com/syguer",
+  "followers_url": "https://api.github.com/users/syguer/followers",
+  "following_url": "https://api.github.com/users/syguer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/syguer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/syguer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/syguer/subscriptions",
+  "organizations_url": "https://api.github.com/users/syguer/orgs",
+  "repos_url": "https://api.github.com/users/syguer/repos",
+  "events_url": "https://api.github.com/users/syguer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/syguer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

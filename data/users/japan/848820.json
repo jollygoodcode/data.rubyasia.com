@@ -1,0 +1,20 @@
+{
+  "login": "kanny",
+  "id": 848820,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/848820?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kanny",
+  "html_url": "https://github.com/kanny",
+  "followers_url": "https://api.github.com/users/kanny/followers",
+  "following_url": "https://api.github.com/users/kanny/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kanny/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kanny/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kanny/subscriptions",
+  "organizations_url": "https://api.github.com/users/kanny/orgs",
+  "repos_url": "https://api.github.com/users/kanny/repos",
+  "events_url": "https://api.github.com/users/kanny/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kanny/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

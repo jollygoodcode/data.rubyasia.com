@@ -1,0 +1,20 @@
+{
+  "login": "mhag",
+  "id": 46727,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/46727?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mhag",
+  "html_url": "https://github.com/mhag",
+  "followers_url": "https://api.github.com/users/mhag/followers",
+  "following_url": "https://api.github.com/users/mhag/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mhag/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mhag/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mhag/subscriptions",
+  "organizations_url": "https://api.github.com/users/mhag/orgs",
+  "repos_url": "https://api.github.com/users/mhag/repos",
+  "events_url": "https://api.github.com/users/mhag/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mhag/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
