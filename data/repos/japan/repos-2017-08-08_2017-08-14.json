@@ -1,0 +1,174 @@
+{
+  "generated_at": "2017-08-15 08:11:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-08..2017-08-14",
+  "repos": [
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1963,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yujinakayama/transpec",
+      "description": "The RSpec syntax converter",
+      "html_url": "https://github.com/yujinakayama/transpec",
+      "stars": 909,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "matschaffer/knife-solo",
+      "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
+      "html_url": "https://github.com/matschaffer/knife-solo",
+      "stars": 796,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 537,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/autodoc",
+      "description": "Generate documentation from your rack application & request-spec.",
+      "html_url": "https://github.com/r7kamura/autodoc",
+      "stars": 316,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/github-ranking",
+      "description": "GitHub star ranking for users, organizations and repositories",
+      "html_url": "https://github.com/k0kubun/github-ranking",
+      "stars": 264,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 198,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 174,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "giginet/xcprofiler",
+      "description": "CLI to profile compilation time of Swift project",
+      "html_url": "https://github.com/giginet/xcprofiler",
+      "stars": 154,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "youchan/hyalite",
+      "description": "A Ruby implemented Virtual DOM in Opal",
+      "html_url": "https://github.com/youchan/hyalite",
+      "stars": 107,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 101,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masutaka/circleci-bundle-update-pr",
+      "description": "Create PullRequest of bundle update in CircleCI",
+      "html_url": "https://github.com/masutaka/circleci-bundle-update-pr",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "igaiga/rails_textbook",
+      "description": null,
+      "html_url": "https://github.com/igaiga/rails_textbook",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masutaka/ci-build-trigger",
+      "description": "A trigger of bundle update",
+      "html_url": "https://github.com/masutaka/ci-build-trigger",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "takafumir/rails_amp",
+      "description": "RailsAmp is a Ruby on Rails plugin for AMP(Accelerated Mobile Pages).",
+      "html_url": "https://github.com/takafumir/rails_amp",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yaocloud/yao",
+      "description": "Yet Another OpenStack API wrapper",
+      "html_url": "https://github.com/yaocloud/yao",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masutaka/github-nippou",
+      "description": "Print today's your GitHub action.",
+      "html_url": "https://github.com/masutaka/github-nippou",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

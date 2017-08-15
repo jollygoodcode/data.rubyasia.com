@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-08-15 08:10:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-08..2017-08-14",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1194,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "girishso/pluck_to_hash",
+      "description": "Extend ActiveRecord pluck to return array of hashes",
+      "html_url": "https://github.com/girishso/pluck_to_hash",
+      "stars": 202,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "v0dro/rubex",
+      "description": "rubex - A Crystal-inspired language for writing Ruby extensions.",
+      "html_url": "https://github.com/v0dro/rubex",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
