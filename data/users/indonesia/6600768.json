@@ -1,0 +1,20 @@
+{
+  "login": "fabrinal",
+  "id": 6600768,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6600768?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fabrinal",
+  "html_url": "https://github.com/fabrinal",
+  "followers_url": "https://api.github.com/users/fabrinal/followers",
+  "following_url": "https://api.github.com/users/fabrinal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fabrinal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fabrinal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fabrinal/subscriptions",
+  "organizations_url": "https://api.github.com/users/fabrinal/orgs",
+  "repos_url": "https://api.github.com/users/fabrinal/repos",
+  "events_url": "https://api.github.com/users/fabrinal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fabrinal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "bekicot",
+  "id": 1826884,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1826884?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bekicot",
+  "html_url": "https://github.com/bekicot",
+  "followers_url": "https://api.github.com/users/bekicot/followers",
+  "following_url": "https://api.github.com/users/bekicot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bekicot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bekicot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bekicot/subscriptions",
+  "organizations_url": "https://api.github.com/users/bekicot/orgs",
+  "repos_url": "https://api.github.com/users/bekicot/repos",
+  "events_url": "https://api.github.com/users/bekicot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bekicot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

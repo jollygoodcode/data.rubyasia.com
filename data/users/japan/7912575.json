@@ -1,0 +1,20 @@
+{
+  "login": "kayato",
+  "id": 7912575,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/7912575?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kayato",
+  "html_url": "https://github.com/kayato",
+  "followers_url": "https://api.github.com/users/kayato/followers",
+  "following_url": "https://api.github.com/users/kayato/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kayato/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kayato/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kayato/subscriptions",
+  "organizations_url": "https://api.github.com/users/kayato/orgs",
+  "repos_url": "https://api.github.com/users/kayato/repos",
+  "events_url": "https://api.github.com/users/kayato/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kayato/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

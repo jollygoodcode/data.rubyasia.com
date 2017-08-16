@@ -1,0 +1,20 @@
+{
+  "login": "kapad",
+  "id": 2017355,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2017355?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kapad",
+  "html_url": "https://github.com/kapad",
+  "followers_url": "https://api.github.com/users/kapad/followers",
+  "following_url": "https://api.github.com/users/kapad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kapad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kapad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kapad/subscriptions",
+  "organizations_url": "https://api.github.com/users/kapad/orgs",
+  "repos_url": "https://api.github.com/users/kapad/repos",
+  "events_url": "https://api.github.com/users/kapad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kapad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

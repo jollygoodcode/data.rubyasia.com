@@ -1,0 +1,20 @@
+{
+  "login": "y-i",
+  "id": 8625179,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8625179?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/y-i",
+  "html_url": "https://github.com/y-i",
+  "followers_url": "https://api.github.com/users/y-i/followers",
+  "following_url": "https://api.github.com/users/y-i/following{/other_user}",
+  "gists_url": "https://api.github.com/users/y-i/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/y-i/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/y-i/subscriptions",
+  "organizations_url": "https://api.github.com/users/y-i/orgs",
+  "repos_url": "https://api.github.com/users/y-i/repos",
+  "events_url": "https://api.github.com/users/y-i/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/y-i/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

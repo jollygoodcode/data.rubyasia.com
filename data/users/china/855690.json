@@ -1,0 +1,20 @@
+{
+  "login": "cnhttpd",
+  "id": 855690,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/855690?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cnhttpd",
+  "html_url": "https://github.com/cnhttpd",
+  "followers_url": "https://api.github.com/users/cnhttpd/followers",
+  "following_url": "https://api.github.com/users/cnhttpd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cnhttpd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cnhttpd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cnhttpd/subscriptions",
+  "organizations_url": "https://api.github.com/users/cnhttpd/orgs",
+  "repos_url": "https://api.github.com/users/cnhttpd/repos",
+  "events_url": "https://api.github.com/users/cnhttpd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cnhttpd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "gurry",
+  "id": 1068853,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1068853?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gurry",
+  "html_url": "https://github.com/gurry",
+  "followers_url": "https://api.github.com/users/gurry/followers",
+  "following_url": "https://api.github.com/users/gurry/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gurry/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gurry/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gurry/subscriptions",
+  "organizations_url": "https://api.github.com/users/gurry/orgs",
+  "repos_url": "https://api.github.com/users/gurry/repos",
+  "events_url": "https://api.github.com/users/gurry/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gurry/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "ofl",
+  "id": 113601,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/113601?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ofl",
+  "html_url": "https://github.com/ofl",
+  "followers_url": "https://api.github.com/users/ofl/followers",
+  "following_url": "https://api.github.com/users/ofl/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ofl/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ofl/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ofl/subscriptions",
+  "organizations_url": "https://api.github.com/users/ofl/orgs",
+  "repos_url": "https://api.github.com/users/ofl/repos",
+  "events_url": "https://api.github.com/users/ofl/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ofl/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

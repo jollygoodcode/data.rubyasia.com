@@ -1,0 +1,20 @@
+{
+  "login": "conf",
+  "id": 124417,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/124417?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/conf",
+  "html_url": "https://github.com/conf",
+  "followers_url": "https://api.github.com/users/conf/followers",
+  "following_url": "https://api.github.com/users/conf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/conf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/conf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/conf/subscriptions",
+  "organizations_url": "https://api.github.com/users/conf/orgs",
+  "repos_url": "https://api.github.com/users/conf/repos",
+  "events_url": "https://api.github.com/users/conf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/conf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "surume",
+  "id": 3624075,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3624075?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/surume",
+  "html_url": "https://github.com/surume",
+  "followers_url": "https://api.github.com/users/surume/followers",
+  "following_url": "https://api.github.com/users/surume/following{/other_user}",
+  "gists_url": "https://api.github.com/users/surume/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/surume/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/surume/subscriptions",
+  "organizations_url": "https://api.github.com/users/surume/orgs",
+  "repos_url": "https://api.github.com/users/surume/repos",
+  "events_url": "https://api.github.com/users/surume/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/surume/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

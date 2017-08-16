@@ -1,0 +1,20 @@
+{
+  "login": "dnswus",
+  "id": 4784288,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4784288?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dnswus",
+  "html_url": "https://github.com/dnswus",
+  "followers_url": "https://api.github.com/users/dnswus/followers",
+  "following_url": "https://api.github.com/users/dnswus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dnswus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dnswus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dnswus/subscriptions",
+  "organizations_url": "https://api.github.com/users/dnswus/orgs",
+  "repos_url": "https://api.github.com/users/dnswus/repos",
+  "events_url": "https://api.github.com/users/dnswus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dnswus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

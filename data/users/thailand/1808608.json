@@ -1,0 +1,20 @@
+{
+  "login": "cpariwat",
+  "id": 1808608,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1808608?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cpariwat",
+  "html_url": "https://github.com/cpariwat",
+  "followers_url": "https://api.github.com/users/cpariwat/followers",
+  "following_url": "https://api.github.com/users/cpariwat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cpariwat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cpariwat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cpariwat/subscriptions",
+  "organizations_url": "https://api.github.com/users/cpariwat/orgs",
+  "repos_url": "https://api.github.com/users/cpariwat/repos",
+  "events_url": "https://api.github.com/users/cpariwat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cpariwat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
