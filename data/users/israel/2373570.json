@@ -1,0 +1,20 @@
+{
+  "login": "erezcohen",
+  "id": 2373570,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2373570?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/erezcohen",
+  "html_url": "https://github.com/erezcohen",
+  "followers_url": "https://api.github.com/users/erezcohen/followers",
+  "following_url": "https://api.github.com/users/erezcohen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/erezcohen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/erezcohen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/erezcohen/subscriptions",
+  "organizations_url": "https://api.github.com/users/erezcohen/orgs",
+  "repos_url": "https://api.github.com/users/erezcohen/repos",
+  "events_url": "https://api.github.com/users/erezcohen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/erezcohen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
