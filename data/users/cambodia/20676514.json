@@ -1,0 +1,20 @@
+{
+  "login": "ulconn",
+  "id": 20676514,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/20676514?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ulconn",
+  "html_url": "https://github.com/ulconn",
+  "followers_url": "https://api.github.com/users/ulconn/followers",
+  "following_url": "https://api.github.com/users/ulconn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ulconn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ulconn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ulconn/subscriptions",
+  "organizations_url": "https://api.github.com/users/ulconn/orgs",
+  "repos_url": "https://api.github.com/users/ulconn/repos",
+  "events_url": "https://api.github.com/users/ulconn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ulconn/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
