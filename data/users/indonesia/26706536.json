@@ -1,0 +1,20 @@
+{
+  "login": "happyfresh",
+  "id": 26706536,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/26706536?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/happyfresh",
+  "html_url": "https://github.com/happyfresh",
+  "followers_url": "https://api.github.com/users/happyfresh/followers",
+  "following_url": "https://api.github.com/users/happyfresh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/happyfresh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/happyfresh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/happyfresh/subscriptions",
+  "organizations_url": "https://api.github.com/users/happyfresh/orgs",
+  "repos_url": "https://api.github.com/users/happyfresh/repos",
+  "events_url": "https://api.github.com/users/happyfresh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/happyfresh/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
