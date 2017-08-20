@@ -1,0 +1,126 @@
+{
+  "generated_at": "2017-08-20 08:11:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-13..2017-08-19",
+  "repos": [
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 540,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/github-ranking",
+      "description": "GitHub star ranking for users, organizations and repositories",
+      "html_url": "https://github.com/k0kubun/github-ranking",
+      "stars": 264,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 262,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 200,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 135,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/waker",
+      "description": "Wake someone up!",
+      "html_url": "https://github.com/ryotarai/waker",
+      "stars": 106,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 102,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/barbeque",
+      "description": "Job queue system to run job with Docker",
+      "html_url": "https://github.com/cookpad/barbeque",
+      "stars": 102,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/json_world",
+      "description": "Provides DSL to define JSON Schema representation of your class.",
+      "html_url": "https://github.com/r7kamura/json_world",
+      "stars": 69,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kazuhisa/ken_all",
+      "description": "Japanese postal code tools.",
+      "html_url": "https://github.com/kazuhisa/ken_all",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "takafumir/rails_amp",
+      "description": "RailsAmp is a Ruby on Rails plugin for AMP(Accelerated Mobile Pages).",
+      "html_url": "https://github.com/takafumir/rails_amp",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "momibun926/redmine_issue_evm",
+      "description": "This plugin provides the function of calculating evm of projects . EVM can help you to track your project progress and its status and to forecast the future performance of the project. ",
+      "html_url": "https://github.com/momibun926/redmine_issue_evm",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masutaka/github-nippou",
+      "description": "Print today's your GitHub action",
+      "html_url": "https://github.com/masutaka/github-nippou",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
