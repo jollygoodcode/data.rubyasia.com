@@ -1,0 +1,20 @@
+{
+  "login": "stkhr",
+  "id": 10850275,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10850275?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stkhr",
+  "html_url": "https://github.com/stkhr",
+  "followers_url": "https://api.github.com/users/stkhr/followers",
+  "following_url": "https://api.github.com/users/stkhr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stkhr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stkhr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stkhr/subscriptions",
+  "organizations_url": "https://api.github.com/users/stkhr/orgs",
+  "repos_url": "https://api.github.com/users/stkhr/repos",
+  "events_url": "https://api.github.com/users/stkhr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stkhr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
