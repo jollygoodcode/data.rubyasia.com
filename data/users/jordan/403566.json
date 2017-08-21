@@ -1,0 +1,20 @@
+{
+  "login": "nathanm",
+  "id": 403566,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/403566?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nathanm",
+  "html_url": "https://github.com/nathanm",
+  "followers_url": "https://api.github.com/users/nathanm/followers",
+  "following_url": "https://api.github.com/users/nathanm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nathanm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nathanm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nathanm/subscriptions",
+  "organizations_url": "https://api.github.com/users/nathanm/orgs",
+  "repos_url": "https://api.github.com/users/nathanm/repos",
+  "events_url": "https://api.github.com/users/nathanm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nathanm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

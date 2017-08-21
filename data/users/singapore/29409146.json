@@ -1,0 +1,20 @@
+{
+  "login": "CosmicWave",
+  "id": 29409146,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/29409146?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CosmicWave",
+  "html_url": "https://github.com/CosmicWave",
+  "followers_url": "https://api.github.com/users/CosmicWave/followers",
+  "following_url": "https://api.github.com/users/CosmicWave/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CosmicWave/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CosmicWave/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CosmicWave/subscriptions",
+  "organizations_url": "https://api.github.com/users/CosmicWave/orgs",
+  "repos_url": "https://api.github.com/users/CosmicWave/repos",
+  "events_url": "https://api.github.com/users/CosmicWave/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CosmicWave/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "purplegrape",
+  "id": 7689554,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/7689554?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/purplegrape",
+  "html_url": "https://github.com/purplegrape",
+  "followers_url": "https://api.github.com/users/purplegrape/followers",
+  "following_url": "https://api.github.com/users/purplegrape/following{/other_user}",
+  "gists_url": "https://api.github.com/users/purplegrape/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/purplegrape/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/purplegrape/subscriptions",
+  "organizations_url": "https://api.github.com/users/purplegrape/orgs",
+  "repos_url": "https://api.github.com/users/purplegrape/repos",
+  "events_url": "https://api.github.com/users/purplegrape/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/purplegrape/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
