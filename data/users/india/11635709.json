@@ -1,0 +1,20 @@
+{
+  "login": "amitsetia",
+  "id": 11635709,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11635709?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/amitsetia",
+  "html_url": "https://github.com/amitsetia",
+  "followers_url": "https://api.github.com/users/amitsetia/followers",
+  "following_url": "https://api.github.com/users/amitsetia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/amitsetia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/amitsetia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/amitsetia/subscriptions",
+  "organizations_url": "https://api.github.com/users/amitsetia/orgs",
+  "repos_url": "https://api.github.com/users/amitsetia/repos",
+  "events_url": "https://api.github.com/users/amitsetia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/amitsetia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

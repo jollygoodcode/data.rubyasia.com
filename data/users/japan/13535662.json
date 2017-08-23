@@ -1,0 +1,20 @@
+{
+  "login": "mzmt",
+  "id": 13535662,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/13535662?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mzmt",
+  "html_url": "https://github.com/mzmt",
+  "followers_url": "https://api.github.com/users/mzmt/followers",
+  "following_url": "https://api.github.com/users/mzmt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mzmt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mzmt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mzmt/subscriptions",
+  "organizations_url": "https://api.github.com/users/mzmt/orgs",
+  "repos_url": "https://api.github.com/users/mzmt/repos",
+  "events_url": "https://api.github.com/users/mzmt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mzmt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
