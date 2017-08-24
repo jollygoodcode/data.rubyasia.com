@@ -1,0 +1,20 @@
+{
+  "login": "paulpdaniels",
+  "id": 2528918,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2528918?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/paulpdaniels",
+  "html_url": "https://github.com/paulpdaniels",
+  "followers_url": "https://api.github.com/users/paulpdaniels/followers",
+  "following_url": "https://api.github.com/users/paulpdaniels/following{/other_user}",
+  "gists_url": "https://api.github.com/users/paulpdaniels/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/paulpdaniels/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/paulpdaniels/subscriptions",
+  "organizations_url": "https://api.github.com/users/paulpdaniels/orgs",
+  "repos_url": "https://api.github.com/users/paulpdaniels/repos",
+  "events_url": "https://api.github.com/users/paulpdaniels/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/paulpdaniels/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
