@@ -1,0 +1,20 @@
+{
+  "login": "vakcode",
+  "id": 31342183,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/31342183?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vakcode",
+  "html_url": "https://github.com/vakcode",
+  "followers_url": "https://api.github.com/users/vakcode/followers",
+  "following_url": "https://api.github.com/users/vakcode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vakcode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vakcode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vakcode/subscriptions",
+  "organizations_url": "https://api.github.com/users/vakcode/orgs",
+  "repos_url": "https://api.github.com/users/vakcode/repos",
+  "events_url": "https://api.github.com/users/vakcode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vakcode/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
