@@ -1,0 +1,78 @@
+{
+  "generated_at": "2017-08-26 08:10:53 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-19..2017-08-25",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4767,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 948,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 616,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 161,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/carrierwave-aliyun",
+      "description": "阿里云 OSS Ruby 上传组件，基于 Carrierwave",
+      "html_url": "https://github.com/huacnlee/carrierwave-aliyun",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/imessage",
+      "description": "💬 Send iMessages from command line",
+      "html_url": "https://github.com/linjunpop/imessage",
+      "stars": 146,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "kikyous/rails-vue-loader",
+      "description": "Vue.js single file component loader for rails",
+      "html_url": "https://github.com/kikyous/rails-vue-loader",
+      "stars": 67,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/kiba-plus",
+      "description": "Kiba enhancement for Ruby ETL.",
+      "html_url": "https://github.com/hooopo/kiba-plus",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
