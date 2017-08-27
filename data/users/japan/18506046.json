@@ -1,0 +1,20 @@
+{
+  "login": "OpenGenus",
+  "id": 18506046,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/18506046?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/OpenGenus",
+  "html_url": "https://github.com/OpenGenus",
+  "followers_url": "https://api.github.com/users/OpenGenus/followers",
+  "following_url": "https://api.github.com/users/OpenGenus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OpenGenus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/OpenGenus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OpenGenus/subscriptions",
+  "organizations_url": "https://api.github.com/users/OpenGenus/orgs",
+  "repos_url": "https://api.github.com/users/OpenGenus/repos",
+  "events_url": "https://api.github.com/users/OpenGenus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/OpenGenus/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

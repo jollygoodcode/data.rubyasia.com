@@ -1,0 +1,20 @@
+{
+  "login": "dingaroo",
+  "id": 11344180,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11344180?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dingaroo",
+  "html_url": "https://github.com/dingaroo",
+  "followers_url": "https://api.github.com/users/dingaroo/followers",
+  "following_url": "https://api.github.com/users/dingaroo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dingaroo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dingaroo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dingaroo/subscriptions",
+  "organizations_url": "https://api.github.com/users/dingaroo/orgs",
+  "repos_url": "https://api.github.com/users/dingaroo/repos",
+  "events_url": "https://api.github.com/users/dingaroo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dingaroo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
