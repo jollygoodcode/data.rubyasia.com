@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-08-27 08:11:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-20..2017-08-26",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 621,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "v0dro/rubex",
+      "description": "rubex - A Ruby-like language for writing Ruby C extensions.",
+      "html_url": "https://github.com/v0dro/rubex",
+      "stars": 83,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
