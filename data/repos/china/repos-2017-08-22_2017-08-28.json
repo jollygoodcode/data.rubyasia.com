@@ -1,0 +1,102 @@
+{
+  "generated_at": "2017-08-29 08:09:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-22..2017-08-28",
+  "repos": [
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3413,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2548,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 950,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 619,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "19wu/19wu",
+      "description": "19屋 - 专注于技术社区的活动平台, Based on Rails, AngularJS and Bootstrap",
+      "html_url": "https://github.com/19wu/19wu",
+      "stars": 585,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huobazi/carrierwave-qiniu",
+      "description": "Qiniu Storage support for CarrierWave",
+      "html_url": "https://github.com/huobazi/carrierwave-qiniu",
+      "stars": 161,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/carrierwave-aliyun",
+      "description": "阿里云 OSS Ruby 上传组件，基于 Carrierwave",
+      "html_url": "https://github.com/huacnlee/carrierwave-aliyun",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/imessage",
+      "description": "💬 Send iMessages from command line",
+      "html_url": "https://github.com/linjunpop/imessage",
+      "stars": 146,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "kikyous/rails-vue-loader",
+      "description": "Vue.js single file component loader for rails",
+      "html_url": "https://github.com/kikyous/rails-vue-loader",
+      "stars": 67,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hooopo/kiba-plus",
+      "description": "Kiba enhancement for Ruby ETL.",
+      "html_url": "https://github.com/hooopo/kiba-plus",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
