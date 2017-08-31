@@ -1,0 +1,20 @@
+{
+  "login": "cdphp",
+  "id": 23209633,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/23209633?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cdphp",
+  "html_url": "https://github.com/cdphp",
+  "followers_url": "https://api.github.com/users/cdphp/followers",
+  "following_url": "https://api.github.com/users/cdphp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cdphp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cdphp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cdphp/subscriptions",
+  "organizations_url": "https://api.github.com/users/cdphp/orgs",
+  "repos_url": "https://api.github.com/users/cdphp/repos",
+  "events_url": "https://api.github.com/users/cdphp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cdphp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
