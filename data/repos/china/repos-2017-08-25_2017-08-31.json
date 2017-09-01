@@ -1,0 +1,110 @@
+{
+  "generated_at": "2017-09-01 08:10:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-25..2017-08-31",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4771,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3415,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2562,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 953,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 619,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "19wu/19wu",
+      "description": "19屋 - 专注于技术社区的活动平台, Based on Rails, AngularJS and Bootstrap",
+      "html_url": "https://github.com/19wu/19wu",
+      "stars": 585,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 273,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/carrierwave-aliyun",
+      "description": "阿里云 OSS Ruby 上传组件，基于 Carrierwave",
+      "html_url": "https://github.com/huacnlee/carrierwave-aliyun",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/imessage",
+      "description": "💬 Send iMessages from command line",
+      "html_url": "https://github.com/linjunpop/imessage",
+      "stars": 146,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "kikyous/rails-vue-loader",
+      "description": "Vue.js single file component loader for rails",
+      "html_url": "https://github.com/kikyous/rails-vue-loader",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "qhwa/Command-Line-Youdao-Dictionary",
+      "description": "在命令行中查单词，使用网易有道词典",
+      "html_url": "https://github.com/qhwa/Command-Line-Youdao-Dictionary",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
