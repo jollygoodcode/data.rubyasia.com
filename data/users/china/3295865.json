@@ -1,0 +1,20 @@
+{
+  "login": "badbye",
+  "id": 3295865,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3295865?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/badbye",
+  "html_url": "https://github.com/badbye",
+  "followers_url": "https://api.github.com/users/badbye/followers",
+  "following_url": "https://api.github.com/users/badbye/following{/other_user}",
+  "gists_url": "https://api.github.com/users/badbye/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/badbye/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/badbye/subscriptions",
+  "organizations_url": "https://api.github.com/users/badbye/orgs",
+  "repos_url": "https://api.github.com/users/badbye/repos",
+  "events_url": "https://api.github.com/users/badbye/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/badbye/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
