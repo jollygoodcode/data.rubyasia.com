@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-09-04 08:11:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-08-28..2017-09-03",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4773,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2568,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 955,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "qhwa/Command-Line-Youdao-Dictionary",
+      "description": "在命令行中查单词，使用网易有道词典",
+      "html_url": "https://github.com/qhwa/Command-Line-Youdao-Dictionary",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
