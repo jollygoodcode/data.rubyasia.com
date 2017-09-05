@@ -1,0 +1,20 @@
+{
+  "login": "taikii",
+  "id": 12361395,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12361395?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taikii",
+  "html_url": "https://github.com/taikii",
+  "followers_url": "https://api.github.com/users/taikii/followers",
+  "following_url": "https://api.github.com/users/taikii/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taikii/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taikii/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taikii/subscriptions",
+  "organizations_url": "https://api.github.com/users/taikii/orgs",
+  "repos_url": "https://api.github.com/users/taikii/repos",
+  "events_url": "https://api.github.com/users/taikii/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taikii/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

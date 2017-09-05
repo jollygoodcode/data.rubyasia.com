@@ -1,0 +1,20 @@
+{
+  "login": "ndallen",
+  "id": 25081666,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/25081666?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ndallen",
+  "html_url": "https://github.com/ndallen",
+  "followers_url": "https://api.github.com/users/ndallen/followers",
+  "following_url": "https://api.github.com/users/ndallen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ndallen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ndallen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ndallen/subscriptions",
+  "organizations_url": "https://api.github.com/users/ndallen/orgs",
+  "repos_url": "https://api.github.com/users/ndallen/repos",
+  "events_url": "https://api.github.com/users/ndallen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ndallen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

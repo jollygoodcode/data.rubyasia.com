@@ -1,0 +1,20 @@
+{
+  "login": "tamashii-io",
+  "id": 31615633,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/31615633?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tamashii-io",
+  "html_url": "https://github.com/tamashii-io",
+  "followers_url": "https://api.github.com/users/tamashii-io/followers",
+  "following_url": "https://api.github.com/users/tamashii-io/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tamashii-io/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tamashii-io/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tamashii-io/subscriptions",
+  "organizations_url": "https://api.github.com/users/tamashii-io/orgs",
+  "repos_url": "https://api.github.com/users/tamashii-io/repos",
+  "events_url": "https://api.github.com/users/tamashii-io/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tamashii-io/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
