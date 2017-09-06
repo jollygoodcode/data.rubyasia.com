@@ -1,0 +1,20 @@
+{
+  "login": "SkBull",
+  "id": 31233236,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/31233236?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SkBull",
+  "html_url": "https://github.com/SkBull",
+  "followers_url": "https://api.github.com/users/SkBull/followers",
+  "following_url": "https://api.github.com/users/SkBull/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SkBull/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SkBull/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SkBull/subscriptions",
+  "organizations_url": "https://api.github.com/users/SkBull/orgs",
+  "repos_url": "https://api.github.com/users/SkBull/repos",
+  "events_url": "https://api.github.com/users/SkBull/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SkBull/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
