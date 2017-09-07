@@ -1,0 +1,20 @@
+{
+  "login": "mynet",
+  "id": 29904781,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/29904781?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mynet",
+  "html_url": "https://github.com/mynet",
+  "followers_url": "https://api.github.com/users/mynet/followers",
+  "following_url": "https://api.github.com/users/mynet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mynet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mynet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mynet/subscriptions",
+  "organizations_url": "https://api.github.com/users/mynet/orgs",
+  "repos_url": "https://api.github.com/users/mynet/repos",
+  "events_url": "https://api.github.com/users/mynet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mynet/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
