@@ -1,0 +1,20 @@
+{
+  "login": "blue1st",
+  "id": 3603673,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/3603673?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/blue1st",
+  "html_url": "https://github.com/blue1st",
+  "followers_url": "https://api.github.com/users/blue1st/followers",
+  "following_url": "https://api.github.com/users/blue1st/following{/other_user}",
+  "gists_url": "https://api.github.com/users/blue1st/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/blue1st/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/blue1st/subscriptions",
+  "organizations_url": "https://api.github.com/users/blue1st/orgs",
+  "repos_url": "https://api.github.com/users/blue1st/repos",
+  "events_url": "https://api.github.com/users/blue1st/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/blue1st/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
