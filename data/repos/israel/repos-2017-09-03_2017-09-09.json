@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-09-10 08:12:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-03..2017-09-09",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 14654,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur is a secrets management solution that automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
