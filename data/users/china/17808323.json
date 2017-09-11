@@ -1,0 +1,20 @@
+{
+  "login": "beitaz",
+  "id": 17808323,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/17808323?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/beitaz",
+  "html_url": "https://github.com/beitaz",
+  "followers_url": "https://api.github.com/users/beitaz/followers",
+  "following_url": "https://api.github.com/users/beitaz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/beitaz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/beitaz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/beitaz/subscriptions",
+  "organizations_url": "https://api.github.com/users/beitaz/orgs",
+  "repos_url": "https://api.github.com/users/beitaz/repos",
+  "events_url": "https://api.github.com/users/beitaz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/beitaz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
