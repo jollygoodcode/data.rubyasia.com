@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-09-12 08:11:52 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-05..2017-09-11",
+  "repos": [
+    {
+      "full_name": "godfat/jellyfish",
+      "description": "Pico web framework for building API-centric web applications",
+      "html_url": "https://github.com/godfat/jellyfish",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "5xRuby/spgateway-rails",
+      "description": "智付通金流的 Rails plugin (well, not completely tested for production yet)。",
+      "html_url": "https://github.com/5xRuby/spgateway-rails",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
