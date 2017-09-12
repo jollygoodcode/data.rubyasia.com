@@ -1,0 +1,20 @@
+{
+  "login": "ktsujichan",
+  "id": 161752,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/161752?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ktsujichan",
+  "html_url": "https://github.com/ktsujichan",
+  "followers_url": "https://api.github.com/users/ktsujichan/followers",
+  "following_url": "https://api.github.com/users/ktsujichan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ktsujichan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ktsujichan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ktsujichan/subscriptions",
+  "organizations_url": "https://api.github.com/users/ktsujichan/orgs",
+  "repos_url": "https://api.github.com/users/ktsujichan/repos",
+  "events_url": "https://api.github.com/users/ktsujichan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ktsujichan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
