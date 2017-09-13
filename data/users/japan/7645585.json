@@ -1,0 +1,20 @@
+{
+  "login": "cafedomancer",
+  "id": 7645585,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7645585?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cafedomancer",
+  "html_url": "https://github.com/cafedomancer",
+  "followers_url": "https://api.github.com/users/cafedomancer/followers",
+  "following_url": "https://api.github.com/users/cafedomancer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cafedomancer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cafedomancer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cafedomancer/subscriptions",
+  "organizations_url": "https://api.github.com/users/cafedomancer/orgs",
+  "repos_url": "https://api.github.com/users/cafedomancer/repos",
+  "events_url": "https://api.github.com/users/cafedomancer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cafedomancer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
