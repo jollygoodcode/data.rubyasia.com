@@ -1,0 +1,20 @@
+{
+  "login": "goatherder",
+  "id": 3206144,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3206144?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/goatherder",
+  "html_url": "https://github.com/goatherder",
+  "followers_url": "https://api.github.com/users/goatherder/followers",
+  "following_url": "https://api.github.com/users/goatherder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/goatherder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/goatherder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/goatherder/subscriptions",
+  "organizations_url": "https://api.github.com/users/goatherder/orgs",
+  "repos_url": "https://api.github.com/users/goatherder/repos",
+  "events_url": "https://api.github.com/users/goatherder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/goatherder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
