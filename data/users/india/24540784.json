@@ -1,0 +1,20 @@
+{
+  "login": "thetestifier",
+  "id": 24540784,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/24540784?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thetestifier",
+  "html_url": "https://github.com/thetestifier",
+  "followers_url": "https://api.github.com/users/thetestifier/followers",
+  "following_url": "https://api.github.com/users/thetestifier/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thetestifier/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thetestifier/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thetestifier/subscriptions",
+  "organizations_url": "https://api.github.com/users/thetestifier/orgs",
+  "repos_url": "https://api.github.com/users/thetestifier/repos",
+  "events_url": "https://api.github.com/users/thetestifier/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thetestifier/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
