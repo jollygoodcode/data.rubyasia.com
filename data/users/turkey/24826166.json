@@ -1,0 +1,20 @@
+{
+  "login": "berlack",
+  "id": 24826166,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/24826166?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/berlack",
+  "html_url": "https://github.com/berlack",
+  "followers_url": "https://api.github.com/users/berlack/followers",
+  "following_url": "https://api.github.com/users/berlack/following{/other_user}",
+  "gists_url": "https://api.github.com/users/berlack/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/berlack/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/berlack/subscriptions",
+  "organizations_url": "https://api.github.com/users/berlack/orgs",
+  "repos_url": "https://api.github.com/users/berlack/repos",
+  "events_url": "https://api.github.com/users/berlack/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/berlack/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

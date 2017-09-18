@@ -1,0 +1,20 @@
+{
+  "login": "chadlwilson",
+  "id": 29788154,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/29788154?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chadlwilson",
+  "html_url": "https://github.com/chadlwilson",
+  "followers_url": "https://api.github.com/users/chadlwilson/followers",
+  "following_url": "https://api.github.com/users/chadlwilson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chadlwilson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chadlwilson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chadlwilson/subscriptions",
+  "organizations_url": "https://api.github.com/users/chadlwilson/orgs",
+  "repos_url": "https://api.github.com/users/chadlwilson/repos",
+  "events_url": "https://api.github.com/users/chadlwilson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chadlwilson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
