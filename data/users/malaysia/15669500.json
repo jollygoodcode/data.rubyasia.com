@@ -1,0 +1,20 @@
+{
+  "login": "jeffhappily",
+  "id": 15669500,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/15669500?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeffhappily",
+  "html_url": "https://github.com/jeffhappily",
+  "followers_url": "https://api.github.com/users/jeffhappily/followers",
+  "following_url": "https://api.github.com/users/jeffhappily/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeffhappily/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeffhappily/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeffhappily/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeffhappily/orgs",
+  "repos_url": "https://api.github.com/users/jeffhappily/repos",
+  "events_url": "https://api.github.com/users/jeffhappily/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeffhappily/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
