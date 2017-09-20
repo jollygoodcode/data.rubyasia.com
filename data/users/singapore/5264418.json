@@ -1,0 +1,20 @@
+{
+  "login": "Jonxu",
+  "id": 5264418,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5264418?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Jonxu",
+  "html_url": "https://github.com/Jonxu",
+  "followers_url": "https://api.github.com/users/Jonxu/followers",
+  "following_url": "https://api.github.com/users/Jonxu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Jonxu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Jonxu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Jonxu/subscriptions",
+  "organizations_url": "https://api.github.com/users/Jonxu/orgs",
+  "repos_url": "https://api.github.com/users/Jonxu/repos",
+  "events_url": "https://api.github.com/users/Jonxu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Jonxu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
