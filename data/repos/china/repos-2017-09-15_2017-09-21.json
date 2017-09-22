@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-09-22 08:10:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-15..2017-09-21",
+  "repos": [
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 730,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/riif",
+      "description": "🏦 A DSL to generate QuickBooks IIF file.",
+      "html_url": "https://github.com/linjunpop/riif",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
