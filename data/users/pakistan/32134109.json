@@ -1,0 +1,20 @@
+{
+  "login": "Samileono",
+  "id": 32134109,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/32134109?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Samileono",
+  "html_url": "https://github.com/Samileono",
+  "followers_url": "https://api.github.com/users/Samileono/followers",
+  "following_url": "https://api.github.com/users/Samileono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Samileono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Samileono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Samileono/subscriptions",
+  "organizations_url": "https://api.github.com/users/Samileono/orgs",
+  "repos_url": "https://api.github.com/users/Samileono/repos",
+  "events_url": "https://api.github.com/users/Samileono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Samileono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
