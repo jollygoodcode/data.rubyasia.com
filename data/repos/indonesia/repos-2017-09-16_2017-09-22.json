@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-09-23 08:11:50 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-16..2017-09-22",
+  "repos": [
+    {
+      "full_name": "pboling/flag_shih_tzu",
+      "description": "Bit fields for ActiveRecord",
+      "html_url": "https://github.com/pboling/flag_shih_tzu",
+      "stars": 381,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "pboling/sanitize_email",
+      "description": "An Email Condom for your Ruby Server",
+      "html_url": "https://github.com/pboling/sanitize_email",
+      "stars": 146,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "pboling/gem_bench",
+      "description": "Static Gemfile Analysis",
+      "html_url": "https://github.com/pboling/gem_bench",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}
