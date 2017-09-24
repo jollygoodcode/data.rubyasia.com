@@ -1,0 +1,222 @@
+{
+  "generated_at": "2017-09-24 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-17..2017-09-23",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3774,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 1336,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 547,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/garage",
+      "description": "Rails extension for RESTful Hypermedia API",
+      "html_url": "https://github.com/cookpad/garage",
+      "stars": 449,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "roma/roma",
+      "description": "ROMA: A Distributed Key-Value Store in Ruby",
+      "html_url": "https://github.com/roma/roma",
+      "stars": 311,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/gem-src",
+      "description": "Gem.post_install { `git clone gem_source src` }",
+      "html_url": "https://github.com/amatsuda/gem-src",
+      "stars": 153,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "eagletmt/hako",
+      "description": "Deploy Docker container",
+      "html_url": "https://github.com/eagletmt/hako",
+      "stars": 140,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 135,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/textbringer",
+      "description": "An Emacs-like text editor written in Ruby",
+      "html_url": "https://github.com/shugo/textbringer",
+      "stars": 118,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "youchan/hyalite",
+      "description": "A Ruby implemented Virtual DOM in Opal",
+      "html_url": "https://github.com/youchan/hyalite",
+      "stars": 109,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/language_server-ruby",
+      "description": "A Ruby Language Server implementation",
+      "html_url": "https://github.com/mtsmfm/language_server-ruby",
+      "stars": 108,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/barbeque",
+      "description": "Job queue system to run job with Docker",
+      "html_url": "https://github.com/cookpad/barbeque",
+      "stars": 105,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 104,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 88,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/fluent-plugin-record-reformer",
+      "description": "Fluentd plugin to add or replace fields of a event record",
+      "html_url": "https://github.com/sonots/fluent-plugin-record-reformer",
+      "stars": 86,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/steep",
+      "description": "Gradual Typing for Ruby",
+      "html_url": "https://github.com/soutaro/steep",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yakitorii/pattern-match-ruby",
+      "description": "This project is to try Pattern Matching in Ruby. It's a conceptual model.",
+      "html_url": "https://github.com/yakitorii/pattern-match-ruby",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/presentations",
+      "description": "The presentations of Cookpad staffs",
+      "html_url": "https://github.com/cookpad/presentations",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_tokenizer",
+      "description": "A multilingual tokenizer to split a string into tokens",
+      "html_url": "https://github.com/diasks2/pragmatic_tokenizer",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/mry",
+      "description": "Mry Migrates .Rubocop.Yml",
+      "html_url": "https://github.com/pocke/mry",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "skoba/openehr-ruby",
+      "description": "Ruby implementation of the openEHR specification",
+      "html_url": "https://github.com/skoba/openehr-ruby",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "DeployGate/deploygate-cli",
+      "description": "A command-line interface for DeployGate",
+      "html_url": "https://github.com/DeployGate/deploygate-cli",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-elasticsearch",
+      "description": "Elasticsearch client helper for Qiita.",
+      "html_url": "https://github.com/increments/qiita-elasticsearch",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

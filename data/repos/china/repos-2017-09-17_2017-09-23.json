@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-09-24 08:11:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-17..2017-09-23",
+  "repos": [
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2630,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 733,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
