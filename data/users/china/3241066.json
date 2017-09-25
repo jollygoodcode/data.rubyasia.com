@@ -1,0 +1,20 @@
+{
+  "login": "butala",
+  "id": 3241066,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/3241066?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/butala",
+  "html_url": "https://github.com/butala",
+  "followers_url": "https://api.github.com/users/butala/followers",
+  "following_url": "https://api.github.com/users/butala/following{/other_user}",
+  "gists_url": "https://api.github.com/users/butala/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/butala/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/butala/subscriptions",
+  "organizations_url": "https://api.github.com/users/butala/orgs",
+  "repos_url": "https://api.github.com/users/butala/repos",
+  "events_url": "https://api.github.com/users/butala/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/butala/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
