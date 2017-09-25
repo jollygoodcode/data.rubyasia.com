@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-09-25 08:11:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-18..2017-09-24",
+  "repos": [
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2629,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 622,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
