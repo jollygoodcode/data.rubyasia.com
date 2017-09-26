@@ -1,0 +1,20 @@
+{
+  "login": "metalunk",
+  "id": 3294475,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3294475?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/metalunk",
+  "html_url": "https://github.com/metalunk",
+  "followers_url": "https://api.github.com/users/metalunk/followers",
+  "following_url": "https://api.github.com/users/metalunk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/metalunk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/metalunk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/metalunk/subscriptions",
+  "organizations_url": "https://api.github.com/users/metalunk/orgs",
+  "repos_url": "https://api.github.com/users/metalunk/repos",
+  "events_url": "https://api.github.com/users/metalunk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/metalunk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

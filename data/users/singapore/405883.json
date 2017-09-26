@@ -1,0 +1,20 @@
+{
+  "login": "inyigo",
+  "id": 405883,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/405883?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/inyigo",
+  "html_url": "https://github.com/inyigo",
+  "followers_url": "https://api.github.com/users/inyigo/followers",
+  "following_url": "https://api.github.com/users/inyigo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/inyigo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/inyigo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/inyigo/subscriptions",
+  "organizations_url": "https://api.github.com/users/inyigo/orgs",
+  "repos_url": "https://api.github.com/users/inyigo/repos",
+  "events_url": "https://api.github.com/users/inyigo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/inyigo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

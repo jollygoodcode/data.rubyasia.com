@@ -1,0 +1,20 @@
+{
+  "login": "harhogefoo",
+  "id": 11906529,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11906529?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harhogefoo",
+  "html_url": "https://github.com/harhogefoo",
+  "followers_url": "https://api.github.com/users/harhogefoo/followers",
+  "following_url": "https://api.github.com/users/harhogefoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harhogefoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harhogefoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harhogefoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/harhogefoo/orgs",
+  "repos_url": "https://api.github.com/users/harhogefoo/repos",
+  "events_url": "https://api.github.com/users/harhogefoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harhogefoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

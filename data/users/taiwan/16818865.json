@@ -1,0 +1,20 @@
+{
+  "login": "verien",
+  "id": 16818865,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/16818865?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/verien",
+  "html_url": "https://github.com/verien",
+  "followers_url": "https://api.github.com/users/verien/followers",
+  "following_url": "https://api.github.com/users/verien/following{/other_user}",
+  "gists_url": "https://api.github.com/users/verien/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/verien/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/verien/subscriptions",
+  "organizations_url": "https://api.github.com/users/verien/orgs",
+  "repos_url": "https://api.github.com/users/verien/repos",
+  "events_url": "https://api.github.com/users/verien/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/verien/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

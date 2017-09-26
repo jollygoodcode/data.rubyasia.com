@@ -1,0 +1,20 @@
+{
+  "login": "bonotake",
+  "id": 980799,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/980799?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bonotake",
+  "html_url": "https://github.com/bonotake",
+  "followers_url": "https://api.github.com/users/bonotake/followers",
+  "following_url": "https://api.github.com/users/bonotake/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bonotake/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bonotake/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bonotake/subscriptions",
+  "organizations_url": "https://api.github.com/users/bonotake/orgs",
+  "repos_url": "https://api.github.com/users/bonotake/repos",
+  "events_url": "https://api.github.com/users/bonotake/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bonotake/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

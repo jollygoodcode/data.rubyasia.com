@@ -1,0 +1,20 @@
+{
+  "login": "zhangalex",
+  "id": 470370,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/470370?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zhangalex",
+  "html_url": "https://github.com/zhangalex",
+  "followers_url": "https://api.github.com/users/zhangalex/followers",
+  "following_url": "https://api.github.com/users/zhangalex/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zhangalex/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zhangalex/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zhangalex/subscriptions",
+  "organizations_url": "https://api.github.com/users/zhangalex/orgs",
+  "repos_url": "https://api.github.com/users/zhangalex/repos",
+  "events_url": "https://api.github.com/users/zhangalex/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zhangalex/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

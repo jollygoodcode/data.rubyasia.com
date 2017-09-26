@@ -1,0 +1,20 @@
+{
+  "login": "konchan",
+  "id": 856492,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/856492?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/konchan",
+  "html_url": "https://github.com/konchan",
+  "followers_url": "https://api.github.com/users/konchan/followers",
+  "following_url": "https://api.github.com/users/konchan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/konchan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/konchan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/konchan/subscriptions",
+  "organizations_url": "https://api.github.com/users/konchan/orgs",
+  "repos_url": "https://api.github.com/users/konchan/repos",
+  "events_url": "https://api.github.com/users/konchan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/konchan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

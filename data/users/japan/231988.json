@@ -1,0 +1,20 @@
+{
+  "login": "hamadata",
+  "id": 231988,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/231988?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hamadata",
+  "html_url": "https://github.com/hamadata",
+  "followers_url": "https://api.github.com/users/hamadata/followers",
+  "following_url": "https://api.github.com/users/hamadata/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hamadata/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hamadata/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hamadata/subscriptions",
+  "organizations_url": "https://api.github.com/users/hamadata/orgs",
+  "repos_url": "https://api.github.com/users/hamadata/repos",
+  "events_url": "https://api.github.com/users/hamadata/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hamadata/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

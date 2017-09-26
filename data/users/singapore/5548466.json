@@ -1,0 +1,20 @@
+{
+  "login": "rpbaltazar",
+  "id": 5548466,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5548466?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rpbaltazar",
+  "html_url": "https://github.com/rpbaltazar",
+  "followers_url": "https://api.github.com/users/rpbaltazar/followers",
+  "following_url": "https://api.github.com/users/rpbaltazar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rpbaltazar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rpbaltazar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rpbaltazar/subscriptions",
+  "organizations_url": "https://api.github.com/users/rpbaltazar/orgs",
+  "repos_url": "https://api.github.com/users/rpbaltazar/repos",
+  "events_url": "https://api.github.com/users/rpbaltazar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rpbaltazar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

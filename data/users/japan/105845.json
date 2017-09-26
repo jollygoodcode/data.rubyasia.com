@@ -1,0 +1,20 @@
+{
+  "login": "sunaoka",
+  "id": 105845,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/105845?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sunaoka",
+  "html_url": "https://github.com/sunaoka",
+  "followers_url": "https://api.github.com/users/sunaoka/followers",
+  "following_url": "https://api.github.com/users/sunaoka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sunaoka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sunaoka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sunaoka/subscriptions",
+  "organizations_url": "https://api.github.com/users/sunaoka/orgs",
+  "repos_url": "https://api.github.com/users/sunaoka/repos",
+  "events_url": "https://api.github.com/users/sunaoka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sunaoka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

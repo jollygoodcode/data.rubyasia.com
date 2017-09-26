@@ -1,0 +1,20 @@
+{
+  "login": "nemupm",
+  "id": 8213881,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/8213881?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nemupm",
+  "html_url": "https://github.com/nemupm",
+  "followers_url": "https://api.github.com/users/nemupm/followers",
+  "following_url": "https://api.github.com/users/nemupm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nemupm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nemupm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nemupm/subscriptions",
+  "organizations_url": "https://api.github.com/users/nemupm/orgs",
+  "repos_url": "https://api.github.com/users/nemupm/repos",
+  "events_url": "https://api.github.com/users/nemupm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nemupm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "donjar",
+  "id": 14049598,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/14049598?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/donjar",
+  "html_url": "https://github.com/donjar",
+  "followers_url": "https://api.github.com/users/donjar/followers",
+  "following_url": "https://api.github.com/users/donjar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/donjar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/donjar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/donjar/subscriptions",
+  "organizations_url": "https://api.github.com/users/donjar/orgs",
+  "repos_url": "https://api.github.com/users/donjar/repos",
+  "events_url": "https://api.github.com/users/donjar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/donjar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

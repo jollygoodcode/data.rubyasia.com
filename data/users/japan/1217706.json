@@ -1,0 +1,20 @@
+{
+  "login": "konyu",
+  "id": 1217706,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1217706?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/konyu",
+  "html_url": "https://github.com/konyu",
+  "followers_url": "https://api.github.com/users/konyu/followers",
+  "following_url": "https://api.github.com/users/konyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/konyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/konyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/konyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/konyu/orgs",
+  "repos_url": "https://api.github.com/users/konyu/repos",
+  "events_url": "https://api.github.com/users/konyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/konyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

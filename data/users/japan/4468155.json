@@ -1,0 +1,20 @@
+{
+  "login": "aeroastro",
+  "id": 4468155,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4468155?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aeroastro",
+  "html_url": "https://github.com/aeroastro",
+  "followers_url": "https://api.github.com/users/aeroastro/followers",
+  "following_url": "https://api.github.com/users/aeroastro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aeroastro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aeroastro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aeroastro/subscriptions",
+  "organizations_url": "https://api.github.com/users/aeroastro/orgs",
+  "repos_url": "https://api.github.com/users/aeroastro/repos",
+  "events_url": "https://api.github.com/users/aeroastro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aeroastro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

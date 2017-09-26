@@ -1,0 +1,20 @@
+{
+  "login": "isaoshimizu",
+  "id": 1400282,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1400282?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/isaoshimizu",
+  "html_url": "https://github.com/isaoshimizu",
+  "followers_url": "https://api.github.com/users/isaoshimizu/followers",
+  "following_url": "https://api.github.com/users/isaoshimizu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/isaoshimizu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/isaoshimizu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/isaoshimizu/subscriptions",
+  "organizations_url": "https://api.github.com/users/isaoshimizu/orgs",
+  "repos_url": "https://api.github.com/users/isaoshimizu/repos",
+  "events_url": "https://api.github.com/users/isaoshimizu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/isaoshimizu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

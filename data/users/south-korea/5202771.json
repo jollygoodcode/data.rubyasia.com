@@ -1,0 +1,20 @@
+{
+  "login": "lumiknit",
+  "id": 5202771,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5202771?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lumiknit",
+  "html_url": "https://github.com/lumiknit",
+  "followers_url": "https://api.github.com/users/lumiknit/followers",
+  "following_url": "https://api.github.com/users/lumiknit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lumiknit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lumiknit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lumiknit/subscriptions",
+  "organizations_url": "https://api.github.com/users/lumiknit/orgs",
+  "repos_url": "https://api.github.com/users/lumiknit/repos",
+  "events_url": "https://api.github.com/users/lumiknit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lumiknit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

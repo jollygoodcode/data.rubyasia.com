@@ -1,0 +1,20 @@
+{
+  "login": "doublemarket",
+  "id": 501949,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/501949?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/doublemarket",
+  "html_url": "https://github.com/doublemarket",
+  "followers_url": "https://api.github.com/users/doublemarket/followers",
+  "following_url": "https://api.github.com/users/doublemarket/following{/other_user}",
+  "gists_url": "https://api.github.com/users/doublemarket/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/doublemarket/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/doublemarket/subscriptions",
+  "organizations_url": "https://api.github.com/users/doublemarket/orgs",
+  "repos_url": "https://api.github.com/users/doublemarket/repos",
+  "events_url": "https://api.github.com/users/doublemarket/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/doublemarket/received_events",
+  "type": "User",
+  "site_admin": true,
+  "score": 1.0
+}

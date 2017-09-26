@@ -1,0 +1,20 @@
+{
+  "login": "shiotomo",
+  "id": 18659407,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/18659407?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shiotomo",
+  "html_url": "https://github.com/shiotomo",
+  "followers_url": "https://api.github.com/users/shiotomo/followers",
+  "following_url": "https://api.github.com/users/shiotomo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shiotomo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shiotomo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shiotomo/subscriptions",
+  "organizations_url": "https://api.github.com/users/shiotomo/orgs",
+  "repos_url": "https://api.github.com/users/shiotomo/repos",
+  "events_url": "https://api.github.com/users/shiotomo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shiotomo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

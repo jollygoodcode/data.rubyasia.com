@@ -1,0 +1,20 @@
+{
+  "login": "TangMonk",
+  "id": 3498786,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3498786?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TangMonk",
+  "html_url": "https://github.com/TangMonk",
+  "followers_url": "https://api.github.com/users/TangMonk/followers",
+  "following_url": "https://api.github.com/users/TangMonk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TangMonk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TangMonk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TangMonk/subscriptions",
+  "organizations_url": "https://api.github.com/users/TangMonk/orgs",
+  "repos_url": "https://api.github.com/users/TangMonk/repos",
+  "events_url": "https://api.github.com/users/TangMonk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TangMonk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

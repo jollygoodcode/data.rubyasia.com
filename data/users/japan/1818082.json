@@ -1,0 +1,20 @@
+{
+  "login": "tadyjp",
+  "id": 1818082,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1818082?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tadyjp",
+  "html_url": "https://github.com/tadyjp",
+  "followers_url": "https://api.github.com/users/tadyjp/followers",
+  "following_url": "https://api.github.com/users/tadyjp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tadyjp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tadyjp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tadyjp/subscriptions",
+  "organizations_url": "https://api.github.com/users/tadyjp/orgs",
+  "repos_url": "https://api.github.com/users/tadyjp/repos",
+  "events_url": "https://api.github.com/users/tadyjp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tadyjp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

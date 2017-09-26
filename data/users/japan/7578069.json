@@ -1,0 +1,20 @@
+{
+  "login": "satoshicano",
+  "id": 7578069,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/7578069?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/satoshicano",
+  "html_url": "https://github.com/satoshicano",
+  "followers_url": "https://api.github.com/users/satoshicano/followers",
+  "following_url": "https://api.github.com/users/satoshicano/following{/other_user}",
+  "gists_url": "https://api.github.com/users/satoshicano/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/satoshicano/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/satoshicano/subscriptions",
+  "organizations_url": "https://api.github.com/users/satoshicano/orgs",
+  "repos_url": "https://api.github.com/users/satoshicano/repos",
+  "events_url": "https://api.github.com/users/satoshicano/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/satoshicano/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
