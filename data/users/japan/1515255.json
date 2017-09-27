@@ -1,0 +1,20 @@
+{
+  "login": "taiSon",
+  "id": 1515255,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1515255?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taiSon",
+  "html_url": "https://github.com/taiSon",
+  "followers_url": "https://api.github.com/users/taiSon/followers",
+  "following_url": "https://api.github.com/users/taiSon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taiSon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taiSon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taiSon/subscriptions",
+  "organizations_url": "https://api.github.com/users/taiSon/orgs",
+  "repos_url": "https://api.github.com/users/taiSon/repos",
+  "events_url": "https://api.github.com/users/taiSon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taiSon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

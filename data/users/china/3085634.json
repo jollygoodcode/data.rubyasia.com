@@ -1,0 +1,20 @@
+{
+  "login": "james-gone",
+  "id": 3085634,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3085634?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/james-gone",
+  "html_url": "https://github.com/james-gone",
+  "followers_url": "https://api.github.com/users/james-gone/followers",
+  "following_url": "https://api.github.com/users/james-gone/following{/other_user}",
+  "gists_url": "https://api.github.com/users/james-gone/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/james-gone/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/james-gone/subscriptions",
+  "organizations_url": "https://api.github.com/users/james-gone/orgs",
+  "repos_url": "https://api.github.com/users/james-gone/repos",
+  "events_url": "https://api.github.com/users/james-gone/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/james-gone/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

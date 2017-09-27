@@ -1,0 +1,20 @@
+{
+  "login": "Drenmi",
+  "id": 5259935,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5259935?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Drenmi",
+  "html_url": "https://github.com/Drenmi",
+  "followers_url": "https://api.github.com/users/Drenmi/followers",
+  "following_url": "https://api.github.com/users/Drenmi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Drenmi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Drenmi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Drenmi/subscriptions",
+  "organizations_url": "https://api.github.com/users/Drenmi/orgs",
+  "repos_url": "https://api.github.com/users/Drenmi/repos",
+  "events_url": "https://api.github.com/users/Drenmi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Drenmi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

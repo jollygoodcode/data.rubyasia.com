@@ -1,0 +1,20 @@
+{
+  "login": "proxhotdog",
+  "id": 1815245,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1815245?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/proxhotdog",
+  "html_url": "https://github.com/proxhotdog",
+  "followers_url": "https://api.github.com/users/proxhotdog/followers",
+  "following_url": "https://api.github.com/users/proxhotdog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/proxhotdog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/proxhotdog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/proxhotdog/subscriptions",
+  "organizations_url": "https://api.github.com/users/proxhotdog/orgs",
+  "repos_url": "https://api.github.com/users/proxhotdog/repos",
+  "events_url": "https://api.github.com/users/proxhotdog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/proxhotdog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

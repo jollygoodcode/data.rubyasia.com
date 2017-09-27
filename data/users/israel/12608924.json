@@ -1,0 +1,20 @@
+{
+  "login": "mxdavis",
+  "id": 12608924,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12608924?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mxdavis",
+  "html_url": "https://github.com/mxdavis",
+  "followers_url": "https://api.github.com/users/mxdavis/followers",
+  "following_url": "https://api.github.com/users/mxdavis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mxdavis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mxdavis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mxdavis/subscriptions",
+  "organizations_url": "https://api.github.com/users/mxdavis/orgs",
+  "repos_url": "https://api.github.com/users/mxdavis/repos",
+  "events_url": "https://api.github.com/users/mxdavis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mxdavis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

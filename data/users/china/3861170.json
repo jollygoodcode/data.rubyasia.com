@@ -1,0 +1,20 @@
+{
+  "login": "lissdy",
+  "id": 3861170,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3861170?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lissdy",
+  "html_url": "https://github.com/lissdy",
+  "followers_url": "https://api.github.com/users/lissdy/followers",
+  "following_url": "https://api.github.com/users/lissdy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lissdy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lissdy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lissdy/subscriptions",
+  "organizations_url": "https://api.github.com/users/lissdy/orgs",
+  "repos_url": "https://api.github.com/users/lissdy/repos",
+  "events_url": "https://api.github.com/users/lissdy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lissdy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yonda",
+  "id": 2101171,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2101171?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yonda",
+  "html_url": "https://github.com/yonda",
+  "followers_url": "https://api.github.com/users/yonda/followers",
+  "following_url": "https://api.github.com/users/yonda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yonda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yonda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yonda/subscriptions",
+  "organizations_url": "https://api.github.com/users/yonda/orgs",
+  "repos_url": "https://api.github.com/users/yonda/repos",
+  "events_url": "https://api.github.com/users/yonda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yonda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

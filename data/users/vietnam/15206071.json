@@ -1,0 +1,20 @@
+{
+  "login": "bachloxo",
+  "id": 15206071,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/15206071?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bachloxo",
+  "html_url": "https://github.com/bachloxo",
+  "followers_url": "https://api.github.com/users/bachloxo/followers",
+  "following_url": "https://api.github.com/users/bachloxo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bachloxo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bachloxo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bachloxo/subscriptions",
+  "organizations_url": "https://api.github.com/users/bachloxo/orgs",
+  "repos_url": "https://api.github.com/users/bachloxo/repos",
+  "events_url": "https://api.github.com/users/bachloxo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bachloxo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

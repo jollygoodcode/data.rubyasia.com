@@ -1,0 +1,20 @@
+{
+  "login": "moseslucas",
+  "id": 30344224,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/30344224?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/moseslucas",
+  "html_url": "https://github.com/moseslucas",
+  "followers_url": "https://api.github.com/users/moseslucas/followers",
+  "following_url": "https://api.github.com/users/moseslucas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/moseslucas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/moseslucas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/moseslucas/subscriptions",
+  "organizations_url": "https://api.github.com/users/moseslucas/orgs",
+  "repos_url": "https://api.github.com/users/moseslucas/repos",
+  "events_url": "https://api.github.com/users/moseslucas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/moseslucas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

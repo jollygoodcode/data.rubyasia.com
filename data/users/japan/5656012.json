@@ -1,0 +1,20 @@
+{
+  "login": "ksoda",
+  "id": 5656012,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5656012?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ksoda",
+  "html_url": "https://github.com/ksoda",
+  "followers_url": "https://api.github.com/users/ksoda/followers",
+  "following_url": "https://api.github.com/users/ksoda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ksoda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ksoda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ksoda/subscriptions",
+  "organizations_url": "https://api.github.com/users/ksoda/orgs",
+  "repos_url": "https://api.github.com/users/ksoda/repos",
+  "events_url": "https://api.github.com/users/ksoda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ksoda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

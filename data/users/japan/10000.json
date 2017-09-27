@@ -1,0 +1,20 @@
+{
+  "login": "takatoshiono",
+  "id": 10000,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10000?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takatoshiono",
+  "html_url": "https://github.com/takatoshiono",
+  "followers_url": "https://api.github.com/users/takatoshiono/followers",
+  "following_url": "https://api.github.com/users/takatoshiono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takatoshiono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takatoshiono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takatoshiono/subscriptions",
+  "organizations_url": "https://api.github.com/users/takatoshiono/orgs",
+  "repos_url": "https://api.github.com/users/takatoshiono/repos",
+  "events_url": "https://api.github.com/users/takatoshiono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takatoshiono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

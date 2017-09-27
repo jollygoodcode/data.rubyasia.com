@@ -1,0 +1,20 @@
+{
+  "login": "yakkun",
+  "id": 696261,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/696261?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yakkun",
+  "html_url": "https://github.com/yakkun",
+  "followers_url": "https://api.github.com/users/yakkun/followers",
+  "following_url": "https://api.github.com/users/yakkun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yakkun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yakkun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yakkun/subscriptions",
+  "organizations_url": "https://api.github.com/users/yakkun/orgs",
+  "repos_url": "https://api.github.com/users/yakkun/repos",
+  "events_url": "https://api.github.com/users/yakkun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yakkun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

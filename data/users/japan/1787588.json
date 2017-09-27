@@ -1,0 +1,20 @@
+{
+  "login": "alexgoodchild",
+  "id": 1787588,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1787588?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexgoodchild",
+  "html_url": "https://github.com/alexgoodchild",
+  "followers_url": "https://api.github.com/users/alexgoodchild/followers",
+  "following_url": "https://api.github.com/users/alexgoodchild/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexgoodchild/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexgoodchild/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexgoodchild/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexgoodchild/orgs",
+  "repos_url": "https://api.github.com/users/alexgoodchild/repos",
+  "events_url": "https://api.github.com/users/alexgoodchild/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexgoodchild/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

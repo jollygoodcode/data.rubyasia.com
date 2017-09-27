@@ -1,0 +1,20 @@
+{
+  "login": "lookageek",
+  "id": 1862045,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1862045?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lookageek",
+  "html_url": "https://github.com/lookageek",
+  "followers_url": "https://api.github.com/users/lookageek/followers",
+  "following_url": "https://api.github.com/users/lookageek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lookageek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lookageek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lookageek/subscriptions",
+  "organizations_url": "https://api.github.com/users/lookageek/orgs",
+  "repos_url": "https://api.github.com/users/lookageek/repos",
+  "events_url": "https://api.github.com/users/lookageek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lookageek/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "lifez",
+  "id": 2588927,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2588927?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lifez",
+  "html_url": "https://github.com/lifez",
+  "followers_url": "https://api.github.com/users/lifez/followers",
+  "following_url": "https://api.github.com/users/lifez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lifez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lifez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lifez/subscriptions",
+  "organizations_url": "https://api.github.com/users/lifez/orgs",
+  "repos_url": "https://api.github.com/users/lifez/repos",
+  "events_url": "https://api.github.com/users/lifez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lifez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

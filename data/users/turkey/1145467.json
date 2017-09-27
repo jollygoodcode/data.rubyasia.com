@@ -1,0 +1,20 @@
+{
+  "login": "kempez",
+  "id": 1145467,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1145467?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kempez",
+  "html_url": "https://github.com/kempez",
+  "followers_url": "https://api.github.com/users/kempez/followers",
+  "following_url": "https://api.github.com/users/kempez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kempez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kempez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kempez/subscriptions",
+  "organizations_url": "https://api.github.com/users/kempez/orgs",
+  "repos_url": "https://api.github.com/users/kempez/repos",
+  "events_url": "https://api.github.com/users/kempez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kempez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yokotalab",
+  "id": 18545596,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/18545596?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yokotalab",
+  "html_url": "https://github.com/yokotalab",
+  "followers_url": "https://api.github.com/users/yokotalab/followers",
+  "following_url": "https://api.github.com/users/yokotalab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yokotalab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yokotalab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yokotalab/subscriptions",
+  "organizations_url": "https://api.github.com/users/yokotalab/orgs",
+  "repos_url": "https://api.github.com/users/yokotalab/repos",
+  "events_url": "https://api.github.com/users/yokotalab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yokotalab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "miyachik",
+  "id": 4222647,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4222647?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miyachik",
+  "html_url": "https://github.com/miyachik",
+  "followers_url": "https://api.github.com/users/miyachik/followers",
+  "following_url": "https://api.github.com/users/miyachik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miyachik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miyachik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miyachik/subscriptions",
+  "organizations_url": "https://api.github.com/users/miyachik/orgs",
+  "repos_url": "https://api.github.com/users/miyachik/repos",
+  "events_url": "https://api.github.com/users/miyachik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miyachik/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

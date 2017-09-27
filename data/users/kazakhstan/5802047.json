@@ -1,0 +1,20 @@
+{
+  "login": "Johnnycus",
+  "id": 5802047,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5802047?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Johnnycus",
+  "html_url": "https://github.com/Johnnycus",
+  "followers_url": "https://api.github.com/users/Johnnycus/followers",
+  "following_url": "https://api.github.com/users/Johnnycus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Johnnycus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Johnnycus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Johnnycus/subscriptions",
+  "organizations_url": "https://api.github.com/users/Johnnycus/orgs",
+  "repos_url": "https://api.github.com/users/Johnnycus/repos",
+  "events_url": "https://api.github.com/users/Johnnycus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Johnnycus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

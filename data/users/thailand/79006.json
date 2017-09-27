@@ -1,0 +1,20 @@
+{
+  "login": "mroach",
+  "id": 79006,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/79006?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mroach",
+  "html_url": "https://github.com/mroach",
+  "followers_url": "https://api.github.com/users/mroach/followers",
+  "following_url": "https://api.github.com/users/mroach/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mroach/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mroach/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mroach/subscriptions",
+  "organizations_url": "https://api.github.com/users/mroach/orgs",
+  "repos_url": "https://api.github.com/users/mroach/repos",
+  "events_url": "https://api.github.com/users/mroach/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mroach/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

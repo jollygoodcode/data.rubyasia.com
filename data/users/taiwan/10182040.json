@@ -1,0 +1,20 @@
+{
+  "login": "Robert-Rino",
+  "id": 10182040,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10182040?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Robert-Rino",
+  "html_url": "https://github.com/Robert-Rino",
+  "followers_url": "https://api.github.com/users/Robert-Rino/followers",
+  "following_url": "https://api.github.com/users/Robert-Rino/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Robert-Rino/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Robert-Rino/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Robert-Rino/subscriptions",
+  "organizations_url": "https://api.github.com/users/Robert-Rino/orgs",
+  "repos_url": "https://api.github.com/users/Robert-Rino/repos",
+  "events_url": "https://api.github.com/users/Robert-Rino/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Robert-Rino/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

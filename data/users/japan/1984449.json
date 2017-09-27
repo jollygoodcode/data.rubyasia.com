@@ -1,0 +1,20 @@
+{
+  "login": "twingo-b",
+  "id": 1984449,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1984449?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/twingo-b",
+  "html_url": "https://github.com/twingo-b",
+  "followers_url": "https://api.github.com/users/twingo-b/followers",
+  "following_url": "https://api.github.com/users/twingo-b/following{/other_user}",
+  "gists_url": "https://api.github.com/users/twingo-b/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/twingo-b/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/twingo-b/subscriptions",
+  "organizations_url": "https://api.github.com/users/twingo-b/orgs",
+  "repos_url": "https://api.github.com/users/twingo-b/repos",
+  "events_url": "https://api.github.com/users/twingo-b/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/twingo-b/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

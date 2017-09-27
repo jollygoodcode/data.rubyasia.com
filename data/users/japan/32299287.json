@@ -1,0 +1,20 @@
+{
+  "login": "Tanukium",
+  "id": 32299287,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/32299287?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Tanukium",
+  "html_url": "https://github.com/Tanukium",
+  "followers_url": "https://api.github.com/users/Tanukium/followers",
+  "following_url": "https://api.github.com/users/Tanukium/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Tanukium/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Tanukium/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Tanukium/subscriptions",
+  "organizations_url": "https://api.github.com/users/Tanukium/orgs",
+  "repos_url": "https://api.github.com/users/Tanukium/repos",
+  "events_url": "https://api.github.com/users/Tanukium/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Tanukium/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

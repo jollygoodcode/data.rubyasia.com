@@ -1,0 +1,20 @@
+{
+  "login": "joelsherwin",
+  "id": 9082609,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/9082609?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joelsherwin",
+  "html_url": "https://github.com/joelsherwin",
+  "followers_url": "https://api.github.com/users/joelsherwin/followers",
+  "following_url": "https://api.github.com/users/joelsherwin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joelsherwin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joelsherwin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joelsherwin/subscriptions",
+  "organizations_url": "https://api.github.com/users/joelsherwin/orgs",
+  "repos_url": "https://api.github.com/users/joelsherwin/repos",
+  "events_url": "https://api.github.com/users/joelsherwin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joelsherwin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

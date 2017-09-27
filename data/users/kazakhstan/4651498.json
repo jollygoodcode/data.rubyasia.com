@@ -1,0 +1,20 @@
+{
+  "login": "evil-preacher",
+  "id": 4651498,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4651498?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/evil-preacher",
+  "html_url": "https://github.com/evil-preacher",
+  "followers_url": "https://api.github.com/users/evil-preacher/followers",
+  "following_url": "https://api.github.com/users/evil-preacher/following{/other_user}",
+  "gists_url": "https://api.github.com/users/evil-preacher/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/evil-preacher/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/evil-preacher/subscriptions",
+  "organizations_url": "https://api.github.com/users/evil-preacher/orgs",
+  "repos_url": "https://api.github.com/users/evil-preacher/repos",
+  "events_url": "https://api.github.com/users/evil-preacher/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/evil-preacher/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

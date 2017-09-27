@@ -1,0 +1,20 @@
+{
+  "login": "chouandy",
+  "id": 5448836,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5448836?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chouandy",
+  "html_url": "https://github.com/chouandy",
+  "followers_url": "https://api.github.com/users/chouandy/followers",
+  "following_url": "https://api.github.com/users/chouandy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chouandy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chouandy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chouandy/subscriptions",
+  "organizations_url": "https://api.github.com/users/chouandy/orgs",
+  "repos_url": "https://api.github.com/users/chouandy/repos",
+  "events_url": "https://api.github.com/users/chouandy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chouandy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

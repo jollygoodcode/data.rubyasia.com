@@ -1,0 +1,20 @@
+{
+  "login": "Hinaser",
+  "id": 12316730,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12316730?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Hinaser",
+  "html_url": "https://github.com/Hinaser",
+  "followers_url": "https://api.github.com/users/Hinaser/followers",
+  "following_url": "https://api.github.com/users/Hinaser/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Hinaser/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Hinaser/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Hinaser/subscriptions",
+  "organizations_url": "https://api.github.com/users/Hinaser/orgs",
+  "repos_url": "https://api.github.com/users/Hinaser/repos",
+  "events_url": "https://api.github.com/users/Hinaser/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Hinaser/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

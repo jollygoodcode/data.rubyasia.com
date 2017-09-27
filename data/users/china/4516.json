@@ -1,0 +1,20 @@
+{
+  "login": "archerzz",
+  "id": 4516,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4516?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/archerzz",
+  "html_url": "https://github.com/archerzz",
+  "followers_url": "https://api.github.com/users/archerzz/followers",
+  "following_url": "https://api.github.com/users/archerzz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/archerzz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/archerzz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/archerzz/subscriptions",
+  "organizations_url": "https://api.github.com/users/archerzz/orgs",
+  "repos_url": "https://api.github.com/users/archerzz/repos",
+  "events_url": "https://api.github.com/users/archerzz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/archerzz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

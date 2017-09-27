@@ -1,0 +1,20 @@
+{
+  "login": "t1h",
+  "id": 2144034,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2144034?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/t1h",
+  "html_url": "https://github.com/t1h",
+  "followers_url": "https://api.github.com/users/t1h/followers",
+  "following_url": "https://api.github.com/users/t1h/following{/other_user}",
+  "gists_url": "https://api.github.com/users/t1h/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/t1h/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/t1h/subscriptions",
+  "organizations_url": "https://api.github.com/users/t1h/orgs",
+  "repos_url": "https://api.github.com/users/t1h/repos",
+  "events_url": "https://api.github.com/users/t1h/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/t1h/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "anonaka",
+  "id": 183960,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/183960?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anonaka",
+  "html_url": "https://github.com/anonaka",
+  "followers_url": "https://api.github.com/users/anonaka/followers",
+  "following_url": "https://api.github.com/users/anonaka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anonaka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anonaka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anonaka/subscriptions",
+  "organizations_url": "https://api.github.com/users/anonaka/orgs",
+  "repos_url": "https://api.github.com/users/anonaka/repos",
+  "events_url": "https://api.github.com/users/anonaka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anonaka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

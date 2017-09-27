@@ -1,0 +1,20 @@
+{
+  "login": "zvlex",
+  "id": 4821468,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4821468?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zvlex",
+  "html_url": "https://github.com/zvlex",
+  "followers_url": "https://api.github.com/users/zvlex/followers",
+  "following_url": "https://api.github.com/users/zvlex/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zvlex/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zvlex/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zvlex/subscriptions",
+  "organizations_url": "https://api.github.com/users/zvlex/orgs",
+  "repos_url": "https://api.github.com/users/zvlex/repos",
+  "events_url": "https://api.github.com/users/zvlex/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zvlex/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

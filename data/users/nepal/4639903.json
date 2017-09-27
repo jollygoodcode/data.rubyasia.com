@@ -1,0 +1,20 @@
+{
+  "login": "userrails",
+  "id": 4639903,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4639903?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/userrails",
+  "html_url": "https://github.com/userrails",
+  "followers_url": "https://api.github.com/users/userrails/followers",
+  "following_url": "https://api.github.com/users/userrails/following{/other_user}",
+  "gists_url": "https://api.github.com/users/userrails/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/userrails/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/userrails/subscriptions",
+  "organizations_url": "https://api.github.com/users/userrails/orgs",
+  "repos_url": "https://api.github.com/users/userrails/repos",
+  "events_url": "https://api.github.com/users/userrails/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/userrails/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

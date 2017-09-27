@@ -1,0 +1,20 @@
+{
+  "login": "kironono",
+  "id": 1225569,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1225569?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kironono",
+  "html_url": "https://github.com/kironono",
+  "followers_url": "https://api.github.com/users/kironono/followers",
+  "following_url": "https://api.github.com/users/kironono/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kironono/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kironono/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kironono/subscriptions",
+  "organizations_url": "https://api.github.com/users/kironono/orgs",
+  "repos_url": "https://api.github.com/users/kironono/repos",
+  "events_url": "https://api.github.com/users/kironono/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kironono/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

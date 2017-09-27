@@ -1,0 +1,20 @@
+{
+  "login": "matsubo",
+  "id": 98103,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/98103?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matsubo",
+  "html_url": "https://github.com/matsubo",
+  "followers_url": "https://api.github.com/users/matsubo/followers",
+  "following_url": "https://api.github.com/users/matsubo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matsubo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matsubo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matsubo/subscriptions",
+  "organizations_url": "https://api.github.com/users/matsubo/orgs",
+  "repos_url": "https://api.github.com/users/matsubo/repos",
+  "events_url": "https://api.github.com/users/matsubo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matsubo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

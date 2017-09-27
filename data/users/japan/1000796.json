@@ -1,0 +1,20 @@
+{
+  "login": "tetsuya",
+  "id": 1000796,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1000796?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tetsuya",
+  "html_url": "https://github.com/tetsuya",
+  "followers_url": "https://api.github.com/users/tetsuya/followers",
+  "following_url": "https://api.github.com/users/tetsuya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tetsuya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tetsuya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tetsuya/subscriptions",
+  "organizations_url": "https://api.github.com/users/tetsuya/orgs",
+  "repos_url": "https://api.github.com/users/tetsuya/repos",
+  "events_url": "https://api.github.com/users/tetsuya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tetsuya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

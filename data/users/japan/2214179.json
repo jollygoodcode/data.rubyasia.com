@@ -1,0 +1,20 @@
+{
+  "login": "kakipo",
+  "id": 2214179,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2214179?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kakipo",
+  "html_url": "https://github.com/kakipo",
+  "followers_url": "https://api.github.com/users/kakipo/followers",
+  "following_url": "https://api.github.com/users/kakipo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kakipo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kakipo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kakipo/subscriptions",
+  "organizations_url": "https://api.github.com/users/kakipo/orgs",
+  "repos_url": "https://api.github.com/users/kakipo/repos",
+  "events_url": "https://api.github.com/users/kakipo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kakipo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
