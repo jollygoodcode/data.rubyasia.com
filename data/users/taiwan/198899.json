@@ -1,0 +1,20 @@
+{
+  "login": "itsliang",
+  "id": 198899,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/198899?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/itsliang",
+  "html_url": "https://github.com/itsliang",
+  "followers_url": "https://api.github.com/users/itsliang/followers",
+  "following_url": "https://api.github.com/users/itsliang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/itsliang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/itsliang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/itsliang/subscriptions",
+  "organizations_url": "https://api.github.com/users/itsliang/orgs",
+  "repos_url": "https://api.github.com/users/itsliang/repos",
+  "events_url": "https://api.github.com/users/itsliang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/itsliang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

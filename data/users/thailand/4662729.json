@@ -1,0 +1,20 @@
+{
+  "login": "omise",
+  "id": 4662729,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4662729?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/omise",
+  "html_url": "https://github.com/omise",
+  "followers_url": "https://api.github.com/users/omise/followers",
+  "following_url": "https://api.github.com/users/omise/following{/other_user}",
+  "gists_url": "https://api.github.com/users/omise/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/omise/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/omise/subscriptions",
+  "organizations_url": "https://api.github.com/users/omise/orgs",
+  "repos_url": "https://api.github.com/users/omise/repos",
+  "events_url": "https://api.github.com/users/omise/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/omise/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

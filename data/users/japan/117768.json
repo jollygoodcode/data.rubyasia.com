@@ -1,0 +1,20 @@
+{
+  "login": "winebarrel",
+  "id": 117768,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/117768?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/winebarrel",
+  "html_url": "https://github.com/winebarrel",
+  "followers_url": "https://api.github.com/users/winebarrel/followers",
+  "following_url": "https://api.github.com/users/winebarrel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/winebarrel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/winebarrel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/winebarrel/subscriptions",
+  "organizations_url": "https://api.github.com/users/winebarrel/orgs",
+  "repos_url": "https://api.github.com/users/winebarrel/repos",
+  "events_url": "https://api.github.com/users/winebarrel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/winebarrel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "retroalgic",
+  "id": 10691963,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10691963?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/retroalgic",
+  "html_url": "https://github.com/retroalgic",
+  "followers_url": "https://api.github.com/users/retroalgic/followers",
+  "following_url": "https://api.github.com/users/retroalgic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/retroalgic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/retroalgic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/retroalgic/subscriptions",
+  "organizations_url": "https://api.github.com/users/retroalgic/orgs",
+  "repos_url": "https://api.github.com/users/retroalgic/repos",
+  "events_url": "https://api.github.com/users/retroalgic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/retroalgic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

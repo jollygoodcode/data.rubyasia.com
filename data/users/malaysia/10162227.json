@@ -1,0 +1,20 @@
+{
+  "login": "Congrammers",
+  "id": 10162227,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/10162227?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Congrammers",
+  "html_url": "https://github.com/Congrammers",
+  "followers_url": "https://api.github.com/users/Congrammers/followers",
+  "following_url": "https://api.github.com/users/Congrammers/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Congrammers/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Congrammers/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Congrammers/subscriptions",
+  "organizations_url": "https://api.github.com/users/Congrammers/orgs",
+  "repos_url": "https://api.github.com/users/Congrammers/repos",
+  "events_url": "https://api.github.com/users/Congrammers/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Congrammers/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

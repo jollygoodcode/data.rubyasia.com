@@ -1,0 +1,20 @@
+{
+  "login": "ianbayne",
+  "id": 10363087,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/10363087?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ianbayne",
+  "html_url": "https://github.com/ianbayne",
+  "followers_url": "https://api.github.com/users/ianbayne/followers",
+  "following_url": "https://api.github.com/users/ianbayne/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ianbayne/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ianbayne/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ianbayne/subscriptions",
+  "organizations_url": "https://api.github.com/users/ianbayne/orgs",
+  "repos_url": "https://api.github.com/users/ianbayne/repos",
+  "events_url": "https://api.github.com/users/ianbayne/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ianbayne/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

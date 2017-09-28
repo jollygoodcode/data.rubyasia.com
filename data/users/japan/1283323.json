@@ -1,0 +1,20 @@
+{
+  "login": "t-cyrill",
+  "id": 1283323,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1283323?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/t-cyrill",
+  "html_url": "https://github.com/t-cyrill",
+  "followers_url": "https://api.github.com/users/t-cyrill/followers",
+  "following_url": "https://api.github.com/users/t-cyrill/following{/other_user}",
+  "gists_url": "https://api.github.com/users/t-cyrill/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/t-cyrill/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/t-cyrill/subscriptions",
+  "organizations_url": "https://api.github.com/users/t-cyrill/orgs",
+  "repos_url": "https://api.github.com/users/t-cyrill/repos",
+  "events_url": "https://api.github.com/users/t-cyrill/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/t-cyrill/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

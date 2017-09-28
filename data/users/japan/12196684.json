@@ -1,0 +1,20 @@
+{
+  "login": "yamotech",
+  "id": 12196684,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/12196684?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yamotech",
+  "html_url": "https://github.com/yamotech",
+  "followers_url": "https://api.github.com/users/yamotech/followers",
+  "following_url": "https://api.github.com/users/yamotech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yamotech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yamotech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yamotech/subscriptions",
+  "organizations_url": "https://api.github.com/users/yamotech/orgs",
+  "repos_url": "https://api.github.com/users/yamotech/repos",
+  "events_url": "https://api.github.com/users/yamotech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yamotech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

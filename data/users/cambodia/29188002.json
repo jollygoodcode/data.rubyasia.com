@@ -1,0 +1,20 @@
+{
+  "login": "JaneSoo",
+  "id": 29188002,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/29188002?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JaneSoo",
+  "html_url": "https://github.com/JaneSoo",
+  "followers_url": "https://api.github.com/users/JaneSoo/followers",
+  "following_url": "https://api.github.com/users/JaneSoo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JaneSoo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JaneSoo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JaneSoo/subscriptions",
+  "organizations_url": "https://api.github.com/users/JaneSoo/orgs",
+  "repos_url": "https://api.github.com/users/JaneSoo/repos",
+  "events_url": "https://api.github.com/users/JaneSoo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JaneSoo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

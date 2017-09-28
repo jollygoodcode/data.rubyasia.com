@@ -1,0 +1,20 @@
+{
+  "login": "aisrael",
+  "id": 89215,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/89215?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aisrael",
+  "html_url": "https://github.com/aisrael",
+  "followers_url": "https://api.github.com/users/aisrael/followers",
+  "following_url": "https://api.github.com/users/aisrael/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aisrael/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aisrael/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aisrael/subscriptions",
+  "organizations_url": "https://api.github.com/users/aisrael/orgs",
+  "repos_url": "https://api.github.com/users/aisrael/repos",
+  "events_url": "https://api.github.com/users/aisrael/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aisrael/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

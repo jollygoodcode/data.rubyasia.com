@@ -1,0 +1,20 @@
+{
+  "login": "devchick",
+  "id": 1430497,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1430497?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devchick",
+  "html_url": "https://github.com/devchick",
+  "followers_url": "https://api.github.com/users/devchick/followers",
+  "following_url": "https://api.github.com/users/devchick/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devchick/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devchick/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devchick/subscriptions",
+  "organizations_url": "https://api.github.com/users/devchick/orgs",
+  "repos_url": "https://api.github.com/users/devchick/repos",
+  "events_url": "https://api.github.com/users/devchick/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devchick/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

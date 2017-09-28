@@ -1,0 +1,20 @@
+{
+  "login": "halaco",
+  "id": 6895967,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6895967?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/halaco",
+  "html_url": "https://github.com/halaco",
+  "followers_url": "https://api.github.com/users/halaco/followers",
+  "following_url": "https://api.github.com/users/halaco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/halaco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/halaco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/halaco/subscriptions",
+  "organizations_url": "https://api.github.com/users/halaco/orgs",
+  "repos_url": "https://api.github.com/users/halaco/repos",
+  "events_url": "https://api.github.com/users/halaco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/halaco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

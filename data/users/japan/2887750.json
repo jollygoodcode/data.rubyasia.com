@@ -1,0 +1,20 @@
+{
+  "login": "suemoc",
+  "id": 2887750,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2887750?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suemoc",
+  "html_url": "https://github.com/suemoc",
+  "followers_url": "https://api.github.com/users/suemoc/followers",
+  "following_url": "https://api.github.com/users/suemoc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suemoc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suemoc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suemoc/subscriptions",
+  "organizations_url": "https://api.github.com/users/suemoc/orgs",
+  "repos_url": "https://api.github.com/users/suemoc/repos",
+  "events_url": "https://api.github.com/users/suemoc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suemoc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

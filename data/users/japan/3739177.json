@@ -1,0 +1,20 @@
+{
+  "login": "phutai",
+  "id": 3739177,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3739177?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/phutai",
+  "html_url": "https://github.com/phutai",
+  "followers_url": "https://api.github.com/users/phutai/followers",
+  "following_url": "https://api.github.com/users/phutai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/phutai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/phutai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/phutai/subscriptions",
+  "organizations_url": "https://api.github.com/users/phutai/orgs",
+  "repos_url": "https://api.github.com/users/phutai/repos",
+  "events_url": "https://api.github.com/users/phutai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/phutai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

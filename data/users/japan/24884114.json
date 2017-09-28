@@ -1,0 +1,20 @@
+{
+  "login": "takayamaki",
+  "id": 24884114,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/24884114?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takayamaki",
+  "html_url": "https://github.com/takayamaki",
+  "followers_url": "https://api.github.com/users/takayamaki/followers",
+  "following_url": "https://api.github.com/users/takayamaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takayamaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takayamaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takayamaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/takayamaki/orgs",
+  "repos_url": "https://api.github.com/users/takayamaki/repos",
+  "events_url": "https://api.github.com/users/takayamaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takayamaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

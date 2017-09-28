@@ -1,0 +1,20 @@
+{
+  "login": "raeoks",
+  "id": 1040312,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1040312?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raeoks",
+  "html_url": "https://github.com/raeoks",
+  "followers_url": "https://api.github.com/users/raeoks/followers",
+  "following_url": "https://api.github.com/users/raeoks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raeoks/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raeoks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raeoks/subscriptions",
+  "organizations_url": "https://api.github.com/users/raeoks/orgs",
+  "repos_url": "https://api.github.com/users/raeoks/repos",
+  "events_url": "https://api.github.com/users/raeoks/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raeoks/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "carlodalid",
+  "id": 2812293,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2812293?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/carlodalid",
+  "html_url": "https://github.com/carlodalid",
+  "followers_url": "https://api.github.com/users/carlodalid/followers",
+  "following_url": "https://api.github.com/users/carlodalid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/carlodalid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/carlodalid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/carlodalid/subscriptions",
+  "organizations_url": "https://api.github.com/users/carlodalid/orgs",
+  "repos_url": "https://api.github.com/users/carlodalid/repos",
+  "events_url": "https://api.github.com/users/carlodalid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/carlodalid/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

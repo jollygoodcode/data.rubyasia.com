@@ -1,0 +1,20 @@
+{
+  "login": "yuasabe",
+  "id": 5180742,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5180742?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuasabe",
+  "html_url": "https://github.com/yuasabe",
+  "followers_url": "https://api.github.com/users/yuasabe/followers",
+  "following_url": "https://api.github.com/users/yuasabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuasabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuasabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuasabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuasabe/orgs",
+  "repos_url": "https://api.github.com/users/yuasabe/repos",
+  "events_url": "https://api.github.com/users/yuasabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuasabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

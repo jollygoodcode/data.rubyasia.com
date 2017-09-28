@@ -1,0 +1,20 @@
+{
+  "login": "mkmn",
+  "id": 5079965,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5079965?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mkmn",
+  "html_url": "https://github.com/mkmn",
+  "followers_url": "https://api.github.com/users/mkmn/followers",
+  "following_url": "https://api.github.com/users/mkmn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mkmn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mkmn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mkmn/subscriptions",
+  "organizations_url": "https://api.github.com/users/mkmn/orgs",
+  "repos_url": "https://api.github.com/users/mkmn/repos",
+  "events_url": "https://api.github.com/users/mkmn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mkmn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

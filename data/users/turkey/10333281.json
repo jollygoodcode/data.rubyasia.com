@@ -1,0 +1,20 @@
+{
+  "login": "wemrekurt",
+  "id": 10333281,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10333281?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wemrekurt",
+  "html_url": "https://github.com/wemrekurt",
+  "followers_url": "https://api.github.com/users/wemrekurt/followers",
+  "following_url": "https://api.github.com/users/wemrekurt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wemrekurt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wemrekurt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wemrekurt/subscriptions",
+  "organizations_url": "https://api.github.com/users/wemrekurt/orgs",
+  "repos_url": "https://api.github.com/users/wemrekurt/repos",
+  "events_url": "https://api.github.com/users/wemrekurt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wemrekurt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "daisuke",
+  "id": 12772154,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12772154?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/daisuke",
+  "html_url": "https://github.com/daisuke",
+  "followers_url": "https://api.github.com/users/daisuke/followers",
+  "following_url": "https://api.github.com/users/daisuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/daisuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/daisuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/daisuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/daisuke/orgs",
+  "repos_url": "https://api.github.com/users/daisuke/repos",
+  "events_url": "https://api.github.com/users/daisuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/daisuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

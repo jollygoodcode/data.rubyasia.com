@@ -1,0 +1,20 @@
+{
+  "login": "Ellyster",
+  "id": 4518921,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4518921?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Ellyster",
+  "html_url": "https://github.com/Ellyster",
+  "followers_url": "https://api.github.com/users/Ellyster/followers",
+  "following_url": "https://api.github.com/users/Ellyster/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Ellyster/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Ellyster/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Ellyster/subscriptions",
+  "organizations_url": "https://api.github.com/users/Ellyster/orgs",
+  "repos_url": "https://api.github.com/users/Ellyster/repos",
+  "events_url": "https://api.github.com/users/Ellyster/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Ellyster/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

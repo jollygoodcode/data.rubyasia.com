@@ -1,0 +1,20 @@
+{
+  "login": "dgp",
+  "id": 956444,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/956444?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dgp",
+  "html_url": "https://github.com/dgp",
+  "followers_url": "https://api.github.com/users/dgp/followers",
+  "following_url": "https://api.github.com/users/dgp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dgp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dgp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dgp/subscriptions",
+  "organizations_url": "https://api.github.com/users/dgp/orgs",
+  "repos_url": "https://api.github.com/users/dgp/repos",
+  "events_url": "https://api.github.com/users/dgp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dgp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

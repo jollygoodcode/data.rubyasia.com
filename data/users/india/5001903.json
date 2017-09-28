@@ -1,0 +1,20 @@
+{
+  "login": "savanr",
+  "id": 5001903,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5001903?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/savanr",
+  "html_url": "https://github.com/savanr",
+  "followers_url": "https://api.github.com/users/savanr/followers",
+  "following_url": "https://api.github.com/users/savanr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/savanr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/savanr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/savanr/subscriptions",
+  "organizations_url": "https://api.github.com/users/savanr/orgs",
+  "repos_url": "https://api.github.com/users/savanr/repos",
+  "events_url": "https://api.github.com/users/savanr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/savanr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

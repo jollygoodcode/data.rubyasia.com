@@ -1,0 +1,20 @@
+{
+  "login": "ganta",
+  "id": 471182,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/471182?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ganta",
+  "html_url": "https://github.com/ganta",
+  "followers_url": "https://api.github.com/users/ganta/followers",
+  "following_url": "https://api.github.com/users/ganta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ganta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ganta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ganta/subscriptions",
+  "organizations_url": "https://api.github.com/users/ganta/orgs",
+  "repos_url": "https://api.github.com/users/ganta/repos",
+  "events_url": "https://api.github.com/users/ganta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ganta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

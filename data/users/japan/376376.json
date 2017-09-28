@@ -1,0 +1,20 @@
+{
+  "login": "STAR-ZERO",
+  "id": 376376,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/376376?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/STAR-ZERO",
+  "html_url": "https://github.com/STAR-ZERO",
+  "followers_url": "https://api.github.com/users/STAR-ZERO/followers",
+  "following_url": "https://api.github.com/users/STAR-ZERO/following{/other_user}",
+  "gists_url": "https://api.github.com/users/STAR-ZERO/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/STAR-ZERO/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/STAR-ZERO/subscriptions",
+  "organizations_url": "https://api.github.com/users/STAR-ZERO/orgs",
+  "repos_url": "https://api.github.com/users/STAR-ZERO/repos",
+  "events_url": "https://api.github.com/users/STAR-ZERO/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/STAR-ZERO/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

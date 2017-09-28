@@ -1,0 +1,20 @@
+{
+  "login": "taku1201",
+  "id": 10263861,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10263861?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taku1201",
+  "html_url": "https://github.com/taku1201",
+  "followers_url": "https://api.github.com/users/taku1201/followers",
+  "following_url": "https://api.github.com/users/taku1201/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taku1201/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taku1201/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taku1201/subscriptions",
+  "organizations_url": "https://api.github.com/users/taku1201/orgs",
+  "repos_url": "https://api.github.com/users/taku1201/repos",
+  "events_url": "https://api.github.com/users/taku1201/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taku1201/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

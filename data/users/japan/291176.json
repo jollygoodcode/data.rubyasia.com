@@ -1,0 +1,20 @@
+{
+  "login": "isseium",
+  "id": 291176,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/291176?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/isseium",
+  "html_url": "https://github.com/isseium",
+  "followers_url": "https://api.github.com/users/isseium/followers",
+  "following_url": "https://api.github.com/users/isseium/following{/other_user}",
+  "gists_url": "https://api.github.com/users/isseium/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/isseium/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/isseium/subscriptions",
+  "organizations_url": "https://api.github.com/users/isseium/orgs",
+  "repos_url": "https://api.github.com/users/isseium/repos",
+  "events_url": "https://api.github.com/users/isseium/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/isseium/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "awwa",
+  "id": 327181,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/327181?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/awwa",
+  "html_url": "https://github.com/awwa",
+  "followers_url": "https://api.github.com/users/awwa/followers",
+  "following_url": "https://api.github.com/users/awwa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/awwa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/awwa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/awwa/subscriptions",
+  "organizations_url": "https://api.github.com/users/awwa/orgs",
+  "repos_url": "https://api.github.com/users/awwa/repos",
+  "events_url": "https://api.github.com/users/awwa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/awwa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

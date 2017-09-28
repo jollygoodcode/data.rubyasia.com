@@ -1,0 +1,20 @@
+{
+  "login": "tmpnam-com",
+  "id": 13044086,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13044086?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tmpnam-com",
+  "html_url": "https://github.com/tmpnam-com",
+  "followers_url": "https://api.github.com/users/tmpnam-com/followers",
+  "following_url": "https://api.github.com/users/tmpnam-com/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tmpnam-com/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tmpnam-com/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tmpnam-com/subscriptions",
+  "organizations_url": "https://api.github.com/users/tmpnam-com/orgs",
+  "repos_url": "https://api.github.com/users/tmpnam-com/repos",
+  "events_url": "https://api.github.com/users/tmpnam-com/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tmpnam-com/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

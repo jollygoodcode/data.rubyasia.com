@@ -1,0 +1,20 @@
+{
+  "login": "bydmm",
+  "id": 1404532,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1404532?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bydmm",
+  "html_url": "https://github.com/bydmm",
+  "followers_url": "https://api.github.com/users/bydmm/followers",
+  "following_url": "https://api.github.com/users/bydmm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bydmm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bydmm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bydmm/subscriptions",
+  "organizations_url": "https://api.github.com/users/bydmm/orgs",
+  "repos_url": "https://api.github.com/users/bydmm/repos",
+  "events_url": "https://api.github.com/users/bydmm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bydmm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
