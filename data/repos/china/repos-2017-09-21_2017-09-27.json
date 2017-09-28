@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-09-28 08:10:01 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-21..2017-09-27",
+  "repos": [
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2644,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "heckpsi-lab/em-midori",
+      "description": "Lightweight, Flexible and Fast Ruby Web Framework",
+      "html_url": "https://github.com/heckpsi-lab/em-midori",
+      "stars": 738,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 623,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beenhero/omniauth-weibo-oauth2",
+      "description": "OmniAuth Oauth2 strategy for weibo.com.",
+      "html_url": "https://github.com/beenhero/omniauth-weibo-oauth2",
+      "stars": 139,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "lidaobing/paperclip-qiniu",
+      "description": "Simple gem that makes paperclip save the attachments to qiniu.com",
+      "html_url": "https://github.com/lidaobing/paperclip-qiniu",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
