@@ -1,0 +1,20 @@
+{
+  "login": "iandeth",
+  "id": 900714,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/900714?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iandeth",
+  "html_url": "https://github.com/iandeth",
+  "followers_url": "https://api.github.com/users/iandeth/followers",
+  "following_url": "https://api.github.com/users/iandeth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iandeth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iandeth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iandeth/subscriptions",
+  "organizations_url": "https://api.github.com/users/iandeth/orgs",
+  "repos_url": "https://api.github.com/users/iandeth/repos",
+  "events_url": "https://api.github.com/users/iandeth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iandeth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

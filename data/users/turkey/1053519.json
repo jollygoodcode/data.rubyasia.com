@@ -1,0 +1,20 @@
+{
+  "login": "eatbas",
+  "id": 1053519,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1053519?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eatbas",
+  "html_url": "https://github.com/eatbas",
+  "followers_url": "https://api.github.com/users/eatbas/followers",
+  "following_url": "https://api.github.com/users/eatbas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eatbas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eatbas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eatbas/subscriptions",
+  "organizations_url": "https://api.github.com/users/eatbas/orgs",
+  "repos_url": "https://api.github.com/users/eatbas/repos",
+  "events_url": "https://api.github.com/users/eatbas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eatbas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

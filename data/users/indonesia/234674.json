@@ -1,0 +1,20 @@
+{
+  "login": "shunam",
+  "id": 234674,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/234674?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shunam",
+  "html_url": "https://github.com/shunam",
+  "followers_url": "https://api.github.com/users/shunam/followers",
+  "following_url": "https://api.github.com/users/shunam/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shunam/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shunam/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shunam/subscriptions",
+  "organizations_url": "https://api.github.com/users/shunam/orgs",
+  "repos_url": "https://api.github.com/users/shunam/repos",
+  "events_url": "https://api.github.com/users/shunam/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shunam/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

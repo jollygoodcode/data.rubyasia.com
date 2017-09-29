@@ -1,0 +1,20 @@
+{
+  "login": "miyay",
+  "id": 630426,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/630426?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/miyay",
+  "html_url": "https://github.com/miyay",
+  "followers_url": "https://api.github.com/users/miyay/followers",
+  "following_url": "https://api.github.com/users/miyay/following{/other_user}",
+  "gists_url": "https://api.github.com/users/miyay/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/miyay/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/miyay/subscriptions",
+  "organizations_url": "https://api.github.com/users/miyay/orgs",
+  "repos_url": "https://api.github.com/users/miyay/repos",
+  "events_url": "https://api.github.com/users/miyay/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/miyay/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

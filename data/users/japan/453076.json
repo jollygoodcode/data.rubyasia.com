@@ -1,0 +1,20 @@
+{
+  "login": "eccyan",
+  "id": 453076,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/453076?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eccyan",
+  "html_url": "https://github.com/eccyan",
+  "followers_url": "https://api.github.com/users/eccyan/followers",
+  "following_url": "https://api.github.com/users/eccyan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eccyan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eccyan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eccyan/subscriptions",
+  "organizations_url": "https://api.github.com/users/eccyan/orgs",
+  "repos_url": "https://api.github.com/users/eccyan/repos",
+  "events_url": "https://api.github.com/users/eccyan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eccyan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

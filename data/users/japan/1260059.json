@@ -1,0 +1,20 @@
+{
+  "login": "nacchi-practice",
+  "id": 1260059,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1260059?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nacchi-practice",
+  "html_url": "https://github.com/nacchi-practice",
+  "followers_url": "https://api.github.com/users/nacchi-practice/followers",
+  "following_url": "https://api.github.com/users/nacchi-practice/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nacchi-practice/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nacchi-practice/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nacchi-practice/subscriptions",
+  "organizations_url": "https://api.github.com/users/nacchi-practice/orgs",
+  "repos_url": "https://api.github.com/users/nacchi-practice/repos",
+  "events_url": "https://api.github.com/users/nacchi-practice/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nacchi-practice/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shellchen",
+  "id": 2375130,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2375130?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shellchen",
+  "html_url": "https://github.com/shellchen",
+  "followers_url": "https://api.github.com/users/shellchen/followers",
+  "following_url": "https://api.github.com/users/shellchen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shellchen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shellchen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shellchen/subscriptions",
+  "organizations_url": "https://api.github.com/users/shellchen/orgs",
+  "repos_url": "https://api.github.com/users/shellchen/repos",
+  "events_url": "https://api.github.com/users/shellchen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shellchen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

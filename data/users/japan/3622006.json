@@ -1,0 +1,20 @@
+{
+  "login": "hoshitocat",
+  "id": 3622006,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3622006?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoshitocat",
+  "html_url": "https://github.com/hoshitocat",
+  "followers_url": "https://api.github.com/users/hoshitocat/followers",
+  "following_url": "https://api.github.com/users/hoshitocat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoshitocat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoshitocat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoshitocat/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoshitocat/orgs",
+  "repos_url": "https://api.github.com/users/hoshitocat/repos",
+  "events_url": "https://api.github.com/users/hoshitocat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoshitocat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

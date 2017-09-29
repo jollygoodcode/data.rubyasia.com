@@ -1,0 +1,20 @@
+{
+  "login": "Akkiesoft",
+  "id": 422590,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/422590?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Akkiesoft",
+  "html_url": "https://github.com/Akkiesoft",
+  "followers_url": "https://api.github.com/users/Akkiesoft/followers",
+  "following_url": "https://api.github.com/users/Akkiesoft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Akkiesoft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Akkiesoft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Akkiesoft/subscriptions",
+  "organizations_url": "https://api.github.com/users/Akkiesoft/orgs",
+  "repos_url": "https://api.github.com/users/Akkiesoft/repos",
+  "events_url": "https://api.github.com/users/Akkiesoft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Akkiesoft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

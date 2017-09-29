@@ -1,0 +1,20 @@
+{
+  "login": "HashBug",
+  "id": 7071867,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7071867?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HashBug",
+  "html_url": "https://github.com/HashBug",
+  "followers_url": "https://api.github.com/users/HashBug/followers",
+  "following_url": "https://api.github.com/users/HashBug/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HashBug/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HashBug/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HashBug/subscriptions",
+  "organizations_url": "https://api.github.com/users/HashBug/orgs",
+  "repos_url": "https://api.github.com/users/HashBug/repos",
+  "events_url": "https://api.github.com/users/HashBug/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HashBug/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

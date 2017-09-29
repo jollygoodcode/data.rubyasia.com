@@ -1,0 +1,20 @@
+{
+  "login": "hidesys",
+  "id": 1846285,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1846285?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hidesys",
+  "html_url": "https://github.com/hidesys",
+  "followers_url": "https://api.github.com/users/hidesys/followers",
+  "following_url": "https://api.github.com/users/hidesys/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hidesys/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hidesys/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hidesys/subscriptions",
+  "organizations_url": "https://api.github.com/users/hidesys/orgs",
+  "repos_url": "https://api.github.com/users/hidesys/repos",
+  "events_url": "https://api.github.com/users/hidesys/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hidesys/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

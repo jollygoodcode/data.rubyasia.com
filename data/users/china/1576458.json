@@ -1,0 +1,20 @@
+{
+  "login": "johnnykramer",
+  "id": 1576458,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1576458?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/johnnykramer",
+  "html_url": "https://github.com/johnnykramer",
+  "followers_url": "https://api.github.com/users/johnnykramer/followers",
+  "following_url": "https://api.github.com/users/johnnykramer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/johnnykramer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/johnnykramer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/johnnykramer/subscriptions",
+  "organizations_url": "https://api.github.com/users/johnnykramer/orgs",
+  "repos_url": "https://api.github.com/users/johnnykramer/repos",
+  "events_url": "https://api.github.com/users/johnnykramer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/johnnykramer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

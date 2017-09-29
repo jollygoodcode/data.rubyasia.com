@@ -1,0 +1,20 @@
+{
+  "login": "beol",
+  "id": 97210,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/97210?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/beol",
+  "html_url": "https://github.com/beol",
+  "followers_url": "https://api.github.com/users/beol/followers",
+  "following_url": "https://api.github.com/users/beol/following{/other_user}",
+  "gists_url": "https://api.github.com/users/beol/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/beol/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/beol/subscriptions",
+  "organizations_url": "https://api.github.com/users/beol/orgs",
+  "repos_url": "https://api.github.com/users/beol/repos",
+  "events_url": "https://api.github.com/users/beol/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/beol/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "katsusuke",
+  "id": 624736,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/624736?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katsusuke",
+  "html_url": "https://github.com/katsusuke",
+  "followers_url": "https://api.github.com/users/katsusuke/followers",
+  "following_url": "https://api.github.com/users/katsusuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katsusuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katsusuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katsusuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/katsusuke/orgs",
+  "repos_url": "https://api.github.com/users/katsusuke/repos",
+  "events_url": "https://api.github.com/users/katsusuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katsusuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

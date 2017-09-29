@@ -1,0 +1,20 @@
+{
+  "login": "nwatth",
+  "id": 4511295,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4511295?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nwatth",
+  "html_url": "https://github.com/nwatth",
+  "followers_url": "https://api.github.com/users/nwatth/followers",
+  "following_url": "https://api.github.com/users/nwatth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nwatth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nwatth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nwatth/subscriptions",
+  "organizations_url": "https://api.github.com/users/nwatth/orgs",
+  "repos_url": "https://api.github.com/users/nwatth/repos",
+  "events_url": "https://api.github.com/users/nwatth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nwatth/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

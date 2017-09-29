@@ -1,0 +1,20 @@
+{
+  "login": "ringular",
+  "id": 2114515,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2114515?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ringular",
+  "html_url": "https://github.com/ringular",
+  "followers_url": "https://api.github.com/users/ringular/followers",
+  "following_url": "https://api.github.com/users/ringular/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ringular/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ringular/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ringular/subscriptions",
+  "organizations_url": "https://api.github.com/users/ringular/orgs",
+  "repos_url": "https://api.github.com/users/ringular/repos",
+  "events_url": "https://api.github.com/users/ringular/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ringular/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

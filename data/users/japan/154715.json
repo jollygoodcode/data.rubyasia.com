@@ -1,0 +1,20 @@
+{
+  "login": "sasai",
+  "id": 154715,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/154715?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sasai",
+  "html_url": "https://github.com/sasai",
+  "followers_url": "https://api.github.com/users/sasai/followers",
+  "following_url": "https://api.github.com/users/sasai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sasai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sasai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sasai/subscriptions",
+  "organizations_url": "https://api.github.com/users/sasai/orgs",
+  "repos_url": "https://api.github.com/users/sasai/repos",
+  "events_url": "https://api.github.com/users/sasai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sasai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

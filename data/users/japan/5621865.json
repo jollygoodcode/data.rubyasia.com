@@ -1,0 +1,20 @@
+{
+  "login": "yanakend",
+  "id": 5621865,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5621865?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yanakend",
+  "html_url": "https://github.com/yanakend",
+  "followers_url": "https://api.github.com/users/yanakend/followers",
+  "following_url": "https://api.github.com/users/yanakend/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yanakend/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yanakend/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yanakend/subscriptions",
+  "organizations_url": "https://api.github.com/users/yanakend/orgs",
+  "repos_url": "https://api.github.com/users/yanakend/repos",
+  "events_url": "https://api.github.com/users/yanakend/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yanakend/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

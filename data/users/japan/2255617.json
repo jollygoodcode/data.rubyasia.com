@@ -1,0 +1,20 @@
+{
+  "login": "yassun",
+  "id": 2255617,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2255617?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yassun",
+  "html_url": "https://github.com/yassun",
+  "followers_url": "https://api.github.com/users/yassun/followers",
+  "following_url": "https://api.github.com/users/yassun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yassun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yassun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yassun/subscriptions",
+  "organizations_url": "https://api.github.com/users/yassun/orgs",
+  "repos_url": "https://api.github.com/users/yassun/repos",
+  "events_url": "https://api.github.com/users/yassun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yassun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

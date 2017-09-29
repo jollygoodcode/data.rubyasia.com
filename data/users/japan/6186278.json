@@ -1,0 +1,20 @@
+{
+  "login": "kaami",
+  "id": 6186278,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6186278?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaami",
+  "html_url": "https://github.com/kaami",
+  "followers_url": "https://api.github.com/users/kaami/followers",
+  "following_url": "https://api.github.com/users/kaami/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaami/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaami/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaami/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaami/orgs",
+  "repos_url": "https://api.github.com/users/kaami/repos",
+  "events_url": "https://api.github.com/users/kaami/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaami/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

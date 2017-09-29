@@ -1,0 +1,20 @@
+{
+  "login": "asheba",
+  "id": 946760,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/946760?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asheba",
+  "html_url": "https://github.com/asheba",
+  "followers_url": "https://api.github.com/users/asheba/followers",
+  "following_url": "https://api.github.com/users/asheba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asheba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asheba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asheba/subscriptions",
+  "organizations_url": "https://api.github.com/users/asheba/orgs",
+  "repos_url": "https://api.github.com/users/asheba/repos",
+  "events_url": "https://api.github.com/users/asheba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asheba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "stadia",
+  "id": 223683,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/223683?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stadia",
+  "html_url": "https://github.com/stadia",
+  "followers_url": "https://api.github.com/users/stadia/followers",
+  "following_url": "https://api.github.com/users/stadia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stadia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stadia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stadia/subscriptions",
+  "organizations_url": "https://api.github.com/users/stadia/orgs",
+  "repos_url": "https://api.github.com/users/stadia/repos",
+  "events_url": "https://api.github.com/users/stadia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stadia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

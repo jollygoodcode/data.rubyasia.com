@@ -1,0 +1,20 @@
+{
+  "login": "wate",
+  "id": 935096,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/935096?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wate",
+  "html_url": "https://github.com/wate",
+  "followers_url": "https://api.github.com/users/wate/followers",
+  "following_url": "https://api.github.com/users/wate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wate/subscriptions",
+  "organizations_url": "https://api.github.com/users/wate/orgs",
+  "repos_url": "https://api.github.com/users/wate/repos",
+  "events_url": "https://api.github.com/users/wate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

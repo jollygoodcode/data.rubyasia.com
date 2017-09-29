@@ -1,0 +1,20 @@
+{
+  "login": "yonekawa",
+  "id": 572235,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/572235?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yonekawa",
+  "html_url": "https://github.com/yonekawa",
+  "followers_url": "https://api.github.com/users/yonekawa/followers",
+  "following_url": "https://api.github.com/users/yonekawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yonekawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yonekawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yonekawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/yonekawa/orgs",
+  "repos_url": "https://api.github.com/users/yonekawa/repos",
+  "events_url": "https://api.github.com/users/yonekawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yonekawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

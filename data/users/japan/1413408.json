@@ -1,0 +1,20 @@
+{
+  "login": "morishin",
+  "id": 1413408,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1413408?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/morishin",
+  "html_url": "https://github.com/morishin",
+  "followers_url": "https://api.github.com/users/morishin/followers",
+  "following_url": "https://api.github.com/users/morishin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/morishin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/morishin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/morishin/subscriptions",
+  "organizations_url": "https://api.github.com/users/morishin/orgs",
+  "repos_url": "https://api.github.com/users/morishin/repos",
+  "events_url": "https://api.github.com/users/morishin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/morishin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "shtoma",
+  "id": 3041508,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3041508?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shtoma",
+  "html_url": "https://github.com/shtoma",
+  "followers_url": "https://api.github.com/users/shtoma/followers",
+  "following_url": "https://api.github.com/users/shtoma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shtoma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shtoma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shtoma/subscriptions",
+  "organizations_url": "https://api.github.com/users/shtoma/orgs",
+  "repos_url": "https://api.github.com/users/shtoma/repos",
+  "events_url": "https://api.github.com/users/shtoma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shtoma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

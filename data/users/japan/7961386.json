@@ -1,0 +1,20 @@
+{
+  "login": "harvath",
+  "id": 7961386,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7961386?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/harvath",
+  "html_url": "https://github.com/harvath",
+  "followers_url": "https://api.github.com/users/harvath/followers",
+  "following_url": "https://api.github.com/users/harvath/following{/other_user}",
+  "gists_url": "https://api.github.com/users/harvath/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/harvath/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/harvath/subscriptions",
+  "organizations_url": "https://api.github.com/users/harvath/orgs",
+  "repos_url": "https://api.github.com/users/harvath/repos",
+  "events_url": "https://api.github.com/users/harvath/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/harvath/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

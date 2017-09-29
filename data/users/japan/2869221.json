@@ -1,0 +1,20 @@
+{
+  "login": "youcune",
+  "id": 2869221,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2869221?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/youcune",
+  "html_url": "https://github.com/youcune",
+  "followers_url": "https://api.github.com/users/youcune/followers",
+  "following_url": "https://api.github.com/users/youcune/following{/other_user}",
+  "gists_url": "https://api.github.com/users/youcune/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/youcune/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/youcune/subscriptions",
+  "organizations_url": "https://api.github.com/users/youcune/orgs",
+  "repos_url": "https://api.github.com/users/youcune/repos",
+  "events_url": "https://api.github.com/users/youcune/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/youcune/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

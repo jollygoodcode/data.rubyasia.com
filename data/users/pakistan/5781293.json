@@ -1,0 +1,20 @@
+{
+  "login": "imraza",
+  "id": 5781293,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5781293?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imraza",
+  "html_url": "https://github.com/imraza",
+  "followers_url": "https://api.github.com/users/imraza/followers",
+  "following_url": "https://api.github.com/users/imraza/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imraza/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imraza/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imraza/subscriptions",
+  "organizations_url": "https://api.github.com/users/imraza/orgs",
+  "repos_url": "https://api.github.com/users/imraza/repos",
+  "events_url": "https://api.github.com/users/imraza/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imraza/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

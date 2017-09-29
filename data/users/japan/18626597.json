@@ -1,0 +1,20 @@
+{
+  "login": "hikaru-light",
+  "id": 18626597,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/18626597?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hikaru-light",
+  "html_url": "https://github.com/hikaru-light",
+  "followers_url": "https://api.github.com/users/hikaru-light/followers",
+  "following_url": "https://api.github.com/users/hikaru-light/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hikaru-light/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hikaru-light/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hikaru-light/subscriptions",
+  "organizations_url": "https://api.github.com/users/hikaru-light/orgs",
+  "repos_url": "https://api.github.com/users/hikaru-light/repos",
+  "events_url": "https://api.github.com/users/hikaru-light/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hikaru-light/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
