@@ -1,0 +1,20 @@
+{
+  "login": "michaelpautov",
+  "id": 11714058,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11714058?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/michaelpautov",
+  "html_url": "https://github.com/michaelpautov",
+  "followers_url": "https://api.github.com/users/michaelpautov/followers",
+  "following_url": "https://api.github.com/users/michaelpautov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/michaelpautov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/michaelpautov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/michaelpautov/subscriptions",
+  "organizations_url": "https://api.github.com/users/michaelpautov/orgs",
+  "repos_url": "https://api.github.com/users/michaelpautov/repos",
+  "events_url": "https://api.github.com/users/michaelpautov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/michaelpautov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

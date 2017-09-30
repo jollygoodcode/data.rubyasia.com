@@ -1,0 +1,20 @@
+{
+  "login": "memetor",
+  "id": 1520153,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1520153?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/memetor",
+  "html_url": "https://github.com/memetor",
+  "followers_url": "https://api.github.com/users/memetor/followers",
+  "following_url": "https://api.github.com/users/memetor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/memetor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/memetor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/memetor/subscriptions",
+  "organizations_url": "https://api.github.com/users/memetor/orgs",
+  "repos_url": "https://api.github.com/users/memetor/repos",
+  "events_url": "https://api.github.com/users/memetor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/memetor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

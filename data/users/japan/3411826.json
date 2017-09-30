@@ -1,0 +1,20 @@
+{
+  "login": "mametora",
+  "id": 3411826,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3411826?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mametora",
+  "html_url": "https://github.com/mametora",
+  "followers_url": "https://api.github.com/users/mametora/followers",
+  "following_url": "https://api.github.com/users/mametora/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mametora/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mametora/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mametora/subscriptions",
+  "organizations_url": "https://api.github.com/users/mametora/orgs",
+  "repos_url": "https://api.github.com/users/mametora/repos",
+  "events_url": "https://api.github.com/users/mametora/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mametora/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

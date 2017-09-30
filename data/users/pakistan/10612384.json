@@ -1,0 +1,20 @@
+{
+  "login": "usama-dev",
+  "id": 10612384,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10612384?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/usama-dev",
+  "html_url": "https://github.com/usama-dev",
+  "followers_url": "https://api.github.com/users/usama-dev/followers",
+  "following_url": "https://api.github.com/users/usama-dev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/usama-dev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/usama-dev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/usama-dev/subscriptions",
+  "organizations_url": "https://api.github.com/users/usama-dev/orgs",
+  "repos_url": "https://api.github.com/users/usama-dev/repos",
+  "events_url": "https://api.github.com/users/usama-dev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/usama-dev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

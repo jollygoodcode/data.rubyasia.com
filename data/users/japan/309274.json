@@ -1,0 +1,20 @@
+{
+  "login": "mryoshio",
+  "id": 309274,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/309274?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mryoshio",
+  "html_url": "https://github.com/mryoshio",
+  "followers_url": "https://api.github.com/users/mryoshio/followers",
+  "following_url": "https://api.github.com/users/mryoshio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mryoshio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mryoshio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mryoshio/subscriptions",
+  "organizations_url": "https://api.github.com/users/mryoshio/orgs",
+  "repos_url": "https://api.github.com/users/mryoshio/repos",
+  "events_url": "https://api.github.com/users/mryoshio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mryoshio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

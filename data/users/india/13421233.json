@@ -1,0 +1,20 @@
+{
+  "login": "freakuency",
+  "id": 13421233,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/13421233?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/freakuency",
+  "html_url": "https://github.com/freakuency",
+  "followers_url": "https://api.github.com/users/freakuency/followers",
+  "following_url": "https://api.github.com/users/freakuency/following{/other_user}",
+  "gists_url": "https://api.github.com/users/freakuency/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/freakuency/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/freakuency/subscriptions",
+  "organizations_url": "https://api.github.com/users/freakuency/orgs",
+  "repos_url": "https://api.github.com/users/freakuency/repos",
+  "events_url": "https://api.github.com/users/freakuency/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/freakuency/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

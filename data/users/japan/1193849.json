@@ -1,0 +1,20 @@
+{
+  "login": "distkloc",
+  "id": 1193849,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1193849?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/distkloc",
+  "html_url": "https://github.com/distkloc",
+  "followers_url": "https://api.github.com/users/distkloc/followers",
+  "following_url": "https://api.github.com/users/distkloc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/distkloc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/distkloc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/distkloc/subscriptions",
+  "organizations_url": "https://api.github.com/users/distkloc/orgs",
+  "repos_url": "https://api.github.com/users/distkloc/repos",
+  "events_url": "https://api.github.com/users/distkloc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/distkloc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

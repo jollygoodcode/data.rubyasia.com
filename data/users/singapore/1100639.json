@@ -1,0 +1,20 @@
+{
+  "login": "loma",
+  "id": 1100639,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1100639?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/loma",
+  "html_url": "https://github.com/loma",
+  "followers_url": "https://api.github.com/users/loma/followers",
+  "following_url": "https://api.github.com/users/loma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/loma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/loma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/loma/subscriptions",
+  "organizations_url": "https://api.github.com/users/loma/orgs",
+  "repos_url": "https://api.github.com/users/loma/repos",
+  "events_url": "https://api.github.com/users/loma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/loma/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

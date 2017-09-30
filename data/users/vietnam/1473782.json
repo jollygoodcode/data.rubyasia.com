@@ -1,0 +1,20 @@
+{
+  "login": "soccernee",
+  "id": 1473782,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1473782?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/soccernee",
+  "html_url": "https://github.com/soccernee",
+  "followers_url": "https://api.github.com/users/soccernee/followers",
+  "following_url": "https://api.github.com/users/soccernee/following{/other_user}",
+  "gists_url": "https://api.github.com/users/soccernee/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/soccernee/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/soccernee/subscriptions",
+  "organizations_url": "https://api.github.com/users/soccernee/orgs",
+  "repos_url": "https://api.github.com/users/soccernee/repos",
+  "events_url": "https://api.github.com/users/soccernee/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/soccernee/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "chaz1942",
+  "id": 12437868,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/12437868?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chaz1942",
+  "html_url": "https://github.com/chaz1942",
+  "followers_url": "https://api.github.com/users/chaz1942/followers",
+  "following_url": "https://api.github.com/users/chaz1942/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chaz1942/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chaz1942/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chaz1942/subscriptions",
+  "organizations_url": "https://api.github.com/users/chaz1942/orgs",
+  "repos_url": "https://api.github.com/users/chaz1942/repos",
+  "events_url": "https://api.github.com/users/chaz1942/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chaz1942/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

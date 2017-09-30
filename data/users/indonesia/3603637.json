@@ -1,0 +1,20 @@
+{
+  "login": "edwardsamuel",
+  "id": 3603637,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3603637?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/edwardsamuel",
+  "html_url": "https://github.com/edwardsamuel",
+  "followers_url": "https://api.github.com/users/edwardsamuel/followers",
+  "following_url": "https://api.github.com/users/edwardsamuel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/edwardsamuel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/edwardsamuel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/edwardsamuel/subscriptions",
+  "organizations_url": "https://api.github.com/users/edwardsamuel/orgs",
+  "repos_url": "https://api.github.com/users/edwardsamuel/repos",
+  "events_url": "https://api.github.com/users/edwardsamuel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/edwardsamuel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

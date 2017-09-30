@@ -1,0 +1,20 @@
+{
+  "login": "pworker",
+  "id": 434033,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/434033?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pworker",
+  "html_url": "https://github.com/pworker",
+  "followers_url": "https://api.github.com/users/pworker/followers",
+  "following_url": "https://api.github.com/users/pworker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pworker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pworker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pworker/subscriptions",
+  "organizations_url": "https://api.github.com/users/pworker/orgs",
+  "repos_url": "https://api.github.com/users/pworker/repos",
+  "events_url": "https://api.github.com/users/pworker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pworker/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
