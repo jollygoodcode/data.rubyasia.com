@@ -1,0 +1,20 @@
+{
+  "login": "thomastran",
+  "id": 1247199,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1247199?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thomastran",
+  "html_url": "https://github.com/thomastran",
+  "followers_url": "https://api.github.com/users/thomastran/followers",
+  "following_url": "https://api.github.com/users/thomastran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thomastran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thomastran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thomastran/subscriptions",
+  "organizations_url": "https://api.github.com/users/thomastran/orgs",
+  "repos_url": "https://api.github.com/users/thomastran/repos",
+  "events_url": "https://api.github.com/users/thomastran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thomastran/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

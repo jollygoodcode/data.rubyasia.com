@@ -1,0 +1,20 @@
+{
+  "login": "satraul",
+  "id": 24841231,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/24841231?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/satraul",
+  "html_url": "https://github.com/satraul",
+  "followers_url": "https://api.github.com/users/satraul/followers",
+  "following_url": "https://api.github.com/users/satraul/following{/other_user}",
+  "gists_url": "https://api.github.com/users/satraul/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/satraul/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/satraul/subscriptions",
+  "organizations_url": "https://api.github.com/users/satraul/orgs",
+  "repos_url": "https://api.github.com/users/satraul/repos",
+  "events_url": "https://api.github.com/users/satraul/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/satraul/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

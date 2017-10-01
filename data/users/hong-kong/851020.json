@@ -1,0 +1,20 @@
+{
+  "login": "ckho",
+  "id": 851020,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/851020?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ckho",
+  "html_url": "https://github.com/ckho",
+  "followers_url": "https://api.github.com/users/ckho/followers",
+  "following_url": "https://api.github.com/users/ckho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ckho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ckho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ckho/subscriptions",
+  "organizations_url": "https://api.github.com/users/ckho/orgs",
+  "repos_url": "https://api.github.com/users/ckho/repos",
+  "events_url": "https://api.github.com/users/ckho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ckho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

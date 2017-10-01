@@ -1,0 +1,20 @@
+{
+  "login": "halringo",
+  "id": 4532079,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4532079?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/halringo",
+  "html_url": "https://github.com/halringo",
+  "followers_url": "https://api.github.com/users/halringo/followers",
+  "following_url": "https://api.github.com/users/halringo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/halringo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/halringo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/halringo/subscriptions",
+  "organizations_url": "https://api.github.com/users/halringo/orgs",
+  "repos_url": "https://api.github.com/users/halringo/repos",
+  "events_url": "https://api.github.com/users/halringo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/halringo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

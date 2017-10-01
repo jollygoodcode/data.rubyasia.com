@@ -1,0 +1,20 @@
+{
+  "login": "yuucha",
+  "id": 1501678,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1501678?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yuucha",
+  "html_url": "https://github.com/yuucha",
+  "followers_url": "https://api.github.com/users/yuucha/followers",
+  "following_url": "https://api.github.com/users/yuucha/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yuucha/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yuucha/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yuucha/subscriptions",
+  "organizations_url": "https://api.github.com/users/yuucha/orgs",
+  "repos_url": "https://api.github.com/users/yuucha/repos",
+  "events_url": "https://api.github.com/users/yuucha/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yuucha/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

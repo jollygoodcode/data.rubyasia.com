@@ -1,0 +1,20 @@
+{
+  "login": "seolahKIM",
+  "id": 31103721,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/31103721?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seolahKIM",
+  "html_url": "https://github.com/seolahKIM",
+  "followers_url": "https://api.github.com/users/seolahKIM/followers",
+  "following_url": "https://api.github.com/users/seolahKIM/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seolahKIM/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seolahKIM/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seolahKIM/subscriptions",
+  "organizations_url": "https://api.github.com/users/seolahKIM/orgs",
+  "repos_url": "https://api.github.com/users/seolahKIM/repos",
+  "events_url": "https://api.github.com/users/seolahKIM/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seolahKIM/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

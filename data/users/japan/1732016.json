@@ -1,0 +1,20 @@
+{
+  "login": "showwin",
+  "id": 1732016,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1732016?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/showwin",
+  "html_url": "https://github.com/showwin",
+  "followers_url": "https://api.github.com/users/showwin/followers",
+  "following_url": "https://api.github.com/users/showwin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/showwin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/showwin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/showwin/subscriptions",
+  "organizations_url": "https://api.github.com/users/showwin/orgs",
+  "repos_url": "https://api.github.com/users/showwin/repos",
+  "events_url": "https://api.github.com/users/showwin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/showwin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

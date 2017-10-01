@@ -1,0 +1,20 @@
+{
+  "login": "umeyuki",
+  "id": 738594,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/738594?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/umeyuki",
+  "html_url": "https://github.com/umeyuki",
+  "followers_url": "https://api.github.com/users/umeyuki/followers",
+  "following_url": "https://api.github.com/users/umeyuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/umeyuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/umeyuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/umeyuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/umeyuki/orgs",
+  "repos_url": "https://api.github.com/users/umeyuki/repos",
+  "events_url": "https://api.github.com/users/umeyuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/umeyuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

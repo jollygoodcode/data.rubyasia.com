@@ -1,0 +1,20 @@
+{
+  "login": "kitao",
+  "id": 678802,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/678802?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kitao",
+  "html_url": "https://github.com/kitao",
+  "followers_url": "https://api.github.com/users/kitao/followers",
+  "following_url": "https://api.github.com/users/kitao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kitao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kitao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kitao/subscriptions",
+  "organizations_url": "https://api.github.com/users/kitao/orgs",
+  "repos_url": "https://api.github.com/users/kitao/repos",
+  "events_url": "https://api.github.com/users/kitao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kitao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

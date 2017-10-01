@@ -1,0 +1,20 @@
+{
+  "login": "sawakun",
+  "id": 1576082,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1576082?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sawakun",
+  "html_url": "https://github.com/sawakun",
+  "followers_url": "https://api.github.com/users/sawakun/followers",
+  "following_url": "https://api.github.com/users/sawakun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sawakun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sawakun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sawakun/subscriptions",
+  "organizations_url": "https://api.github.com/users/sawakun/orgs",
+  "repos_url": "https://api.github.com/users/sawakun/repos",
+  "events_url": "https://api.github.com/users/sawakun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sawakun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "heyjared",
+  "id": 395522,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/395522?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/heyjared",
+  "html_url": "https://github.com/heyjared",
+  "followers_url": "https://api.github.com/users/heyjared/followers",
+  "following_url": "https://api.github.com/users/heyjared/following{/other_user}",
+  "gists_url": "https://api.github.com/users/heyjared/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/heyjared/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/heyjared/subscriptions",
+  "organizations_url": "https://api.github.com/users/heyjared/orgs",
+  "repos_url": "https://api.github.com/users/heyjared/repos",
+  "events_url": "https://api.github.com/users/heyjared/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/heyjared/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

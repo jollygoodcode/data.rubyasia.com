@@ -1,0 +1,20 @@
+{
+  "login": "esphas",
+  "id": 12829836,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/12829836?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/esphas",
+  "html_url": "https://github.com/esphas",
+  "followers_url": "https://api.github.com/users/esphas/followers",
+  "following_url": "https://api.github.com/users/esphas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/esphas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/esphas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/esphas/subscriptions",
+  "organizations_url": "https://api.github.com/users/esphas/orgs",
+  "repos_url": "https://api.github.com/users/esphas/repos",
+  "events_url": "https://api.github.com/users/esphas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/esphas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

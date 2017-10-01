@@ -1,0 +1,20 @@
+{
+  "login": "primenumber",
+  "id": 1918373,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1918373?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/primenumber",
+  "html_url": "https://github.com/primenumber",
+  "followers_url": "https://api.github.com/users/primenumber/followers",
+  "following_url": "https://api.github.com/users/primenumber/following{/other_user}",
+  "gists_url": "https://api.github.com/users/primenumber/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/primenumber/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/primenumber/subscriptions",
+  "organizations_url": "https://api.github.com/users/primenumber/orgs",
+  "repos_url": "https://api.github.com/users/primenumber/repos",
+  "events_url": "https://api.github.com/users/primenumber/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/primenumber/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
