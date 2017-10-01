@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-01 08:12:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-24..2017-09-30",
+  "repos": [
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "description": "Ethereum library for the Ruby language",
+      "html_url": "https://github.com/DigixGlobal/ethereum-ruby",
+      "stars": 131,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 4 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
