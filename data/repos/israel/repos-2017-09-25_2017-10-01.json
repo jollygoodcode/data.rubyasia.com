@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-02 08:11:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-25..2017-10-01",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 14979,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
