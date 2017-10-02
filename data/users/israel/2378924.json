@@ -1,0 +1,20 @@
+{
+  "login": "motro",
+  "id": 2378924,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2378924?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/motro",
+  "html_url": "https://github.com/motro",
+  "followers_url": "https://api.github.com/users/motro/followers",
+  "following_url": "https://api.github.com/users/motro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/motro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/motro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/motro/subscriptions",
+  "organizations_url": "https://api.github.com/users/motro/orgs",
+  "repos_url": "https://api.github.com/users/motro/repos",
+  "events_url": "https://api.github.com/users/motro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/motro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

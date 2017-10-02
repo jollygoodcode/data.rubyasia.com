@@ -1,0 +1,20 @@
+{
+  "login": "brandonpittman",
+  "id": 967145,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/967145?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brandonpittman",
+  "html_url": "https://github.com/brandonpittman",
+  "followers_url": "https://api.github.com/users/brandonpittman/followers",
+  "following_url": "https://api.github.com/users/brandonpittman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brandonpittman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brandonpittman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brandonpittman/subscriptions",
+  "organizations_url": "https://api.github.com/users/brandonpittman/orgs",
+  "repos_url": "https://api.github.com/users/brandonpittman/repos",
+  "events_url": "https://api.github.com/users/brandonpittman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brandonpittman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "peyloride",
+  "id": 10589068,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/10589068?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/peyloride",
+  "html_url": "https://github.com/peyloride",
+  "followers_url": "https://api.github.com/users/peyloride/followers",
+  "following_url": "https://api.github.com/users/peyloride/following{/other_user}",
+  "gists_url": "https://api.github.com/users/peyloride/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/peyloride/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/peyloride/subscriptions",
+  "organizations_url": "https://api.github.com/users/peyloride/orgs",
+  "repos_url": "https://api.github.com/users/peyloride/repos",
+  "events_url": "https://api.github.com/users/peyloride/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/peyloride/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

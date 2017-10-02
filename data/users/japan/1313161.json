@@ -1,0 +1,20 @@
+{
+  "login": "atfujiwara",
+  "id": 1313161,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1313161?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atfujiwara",
+  "html_url": "https://github.com/atfujiwara",
+  "followers_url": "https://api.github.com/users/atfujiwara/followers",
+  "following_url": "https://api.github.com/users/atfujiwara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atfujiwara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atfujiwara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atfujiwara/subscriptions",
+  "organizations_url": "https://api.github.com/users/atfujiwara/orgs",
+  "repos_url": "https://api.github.com/users/atfujiwara/repos",
+  "events_url": "https://api.github.com/users/atfujiwara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atfujiwara/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sraskin",
+  "id": 8543779,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8543779?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sraskin",
+  "html_url": "https://github.com/sraskin",
+  "followers_url": "https://api.github.com/users/sraskin/followers",
+  "following_url": "https://api.github.com/users/sraskin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sraskin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sraskin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sraskin/subscriptions",
+  "organizations_url": "https://api.github.com/users/sraskin/orgs",
+  "repos_url": "https://api.github.com/users/sraskin/repos",
+  "events_url": "https://api.github.com/users/sraskin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sraskin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

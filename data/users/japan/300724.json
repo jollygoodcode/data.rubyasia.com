@@ -1,0 +1,20 @@
+{
+  "login": "kkyouhei",
+  "id": 300724,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/300724?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kkyouhei",
+  "html_url": "https://github.com/kkyouhei",
+  "followers_url": "https://api.github.com/users/kkyouhei/followers",
+  "following_url": "https://api.github.com/users/kkyouhei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kkyouhei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kkyouhei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kkyouhei/subscriptions",
+  "organizations_url": "https://api.github.com/users/kkyouhei/orgs",
+  "repos_url": "https://api.github.com/users/kkyouhei/repos",
+  "events_url": "https://api.github.com/users/kkyouhei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kkyouhei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

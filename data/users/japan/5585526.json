@@ -1,0 +1,20 @@
+{
+  "login": "Mizune",
+  "id": 5585526,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5585526?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Mizune",
+  "html_url": "https://github.com/Mizune",
+  "followers_url": "https://api.github.com/users/Mizune/followers",
+  "following_url": "https://api.github.com/users/Mizune/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Mizune/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Mizune/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Mizune/subscriptions",
+  "organizations_url": "https://api.github.com/users/Mizune/orgs",
+  "repos_url": "https://api.github.com/users/Mizune/repos",
+  "events_url": "https://api.github.com/users/Mizune/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Mizune/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

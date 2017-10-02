@@ -1,0 +1,20 @@
+{
+  "login": "tunanosuke",
+  "id": 4114473,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4114473?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tunanosuke",
+  "html_url": "https://github.com/tunanosuke",
+  "followers_url": "https://api.github.com/users/tunanosuke/followers",
+  "following_url": "https://api.github.com/users/tunanosuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tunanosuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tunanosuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tunanosuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/tunanosuke/orgs",
+  "repos_url": "https://api.github.com/users/tunanosuke/repos",
+  "events_url": "https://api.github.com/users/tunanosuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tunanosuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

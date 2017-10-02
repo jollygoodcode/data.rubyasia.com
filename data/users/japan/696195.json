@@ -1,0 +1,20 @@
+{
+  "login": "tanihiro",
+  "id": 696195,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/696195?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tanihiro",
+  "html_url": "https://github.com/tanihiro",
+  "followers_url": "https://api.github.com/users/tanihiro/followers",
+  "following_url": "https://api.github.com/users/tanihiro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tanihiro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tanihiro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tanihiro/subscriptions",
+  "organizations_url": "https://api.github.com/users/tanihiro/orgs",
+  "repos_url": "https://api.github.com/users/tanihiro/repos",
+  "events_url": "https://api.github.com/users/tanihiro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tanihiro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

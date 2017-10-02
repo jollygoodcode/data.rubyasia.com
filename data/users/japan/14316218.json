@@ -1,0 +1,20 @@
+{
+  "login": "katyou",
+  "id": 14316218,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/14316218?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/katyou",
+  "html_url": "https://github.com/katyou",
+  "followers_url": "https://api.github.com/users/katyou/followers",
+  "following_url": "https://api.github.com/users/katyou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/katyou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/katyou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/katyou/subscriptions",
+  "organizations_url": "https://api.github.com/users/katyou/orgs",
+  "repos_url": "https://api.github.com/users/katyou/repos",
+  "events_url": "https://api.github.com/users/katyou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/katyou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

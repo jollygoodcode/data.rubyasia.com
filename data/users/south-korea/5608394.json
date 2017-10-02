@@ -1,0 +1,20 @@
+{
+  "login": "Nalipp",
+  "id": 5608394,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5608394?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Nalipp",
+  "html_url": "https://github.com/Nalipp",
+  "followers_url": "https://api.github.com/users/Nalipp/followers",
+  "following_url": "https://api.github.com/users/Nalipp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Nalipp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Nalipp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Nalipp/subscriptions",
+  "organizations_url": "https://api.github.com/users/Nalipp/orgs",
+  "repos_url": "https://api.github.com/users/Nalipp/repos",
+  "events_url": "https://api.github.com/users/Nalipp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Nalipp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

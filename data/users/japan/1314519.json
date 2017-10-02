@@ -1,0 +1,20 @@
+{
+  "login": "chunky-cookie",
+  "id": 1314519,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1314519?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chunky-cookie",
+  "html_url": "https://github.com/chunky-cookie",
+  "followers_url": "https://api.github.com/users/chunky-cookie/followers",
+  "following_url": "https://api.github.com/users/chunky-cookie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chunky-cookie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chunky-cookie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chunky-cookie/subscriptions",
+  "organizations_url": "https://api.github.com/users/chunky-cookie/orgs",
+  "repos_url": "https://api.github.com/users/chunky-cookie/repos",
+  "events_url": "https://api.github.com/users/chunky-cookie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chunky-cookie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

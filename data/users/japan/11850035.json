@@ -1,0 +1,20 @@
+{
+  "login": "chojuku",
+  "id": 11850035,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11850035?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chojuku",
+  "html_url": "https://github.com/chojuku",
+  "followers_url": "https://api.github.com/users/chojuku/followers",
+  "following_url": "https://api.github.com/users/chojuku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chojuku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chojuku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chojuku/subscriptions",
+  "organizations_url": "https://api.github.com/users/chojuku/orgs",
+  "repos_url": "https://api.github.com/users/chojuku/repos",
+  "events_url": "https://api.github.com/users/chojuku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chojuku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

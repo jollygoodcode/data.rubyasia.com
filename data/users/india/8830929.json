@@ -1,0 +1,20 @@
+{
+  "login": "SGKumar",
+  "id": 8830929,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8830929?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SGKumar",
+  "html_url": "https://github.com/SGKumar",
+  "followers_url": "https://api.github.com/users/SGKumar/followers",
+  "following_url": "https://api.github.com/users/SGKumar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SGKumar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SGKumar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SGKumar/subscriptions",
+  "organizations_url": "https://api.github.com/users/SGKumar/orgs",
+  "repos_url": "https://api.github.com/users/SGKumar/repos",
+  "events_url": "https://api.github.com/users/SGKumar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SGKumar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

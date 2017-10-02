@@ -1,0 +1,20 @@
+{
+  "login": "ixistic",
+  "id": 1896985,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1896985?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ixistic",
+  "html_url": "https://github.com/ixistic",
+  "followers_url": "https://api.github.com/users/ixistic/followers",
+  "following_url": "https://api.github.com/users/ixistic/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ixistic/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ixistic/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ixistic/subscriptions",
+  "organizations_url": "https://api.github.com/users/ixistic/orgs",
+  "repos_url": "https://api.github.com/users/ixistic/repos",
+  "events_url": "https://api.github.com/users/ixistic/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ixistic/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "alienware",
+  "id": 2356208,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2356208?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alienware",
+  "html_url": "https://github.com/alienware",
+  "followers_url": "https://api.github.com/users/alienware/followers",
+  "following_url": "https://api.github.com/users/alienware/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alienware/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alienware/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alienware/subscriptions",
+  "organizations_url": "https://api.github.com/users/alienware/orgs",
+  "repos_url": "https://api.github.com/users/alienware/repos",
+  "events_url": "https://api.github.com/users/alienware/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alienware/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "RossyWhite",
+  "id": 16730512,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/16730512?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/RossyWhite",
+  "html_url": "https://github.com/RossyWhite",
+  "followers_url": "https://api.github.com/users/RossyWhite/followers",
+  "following_url": "https://api.github.com/users/RossyWhite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/RossyWhite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/RossyWhite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/RossyWhite/subscriptions",
+  "organizations_url": "https://api.github.com/users/RossyWhite/orgs",
+  "repos_url": "https://api.github.com/users/RossyWhite/repos",
+  "events_url": "https://api.github.com/users/RossyWhite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/RossyWhite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

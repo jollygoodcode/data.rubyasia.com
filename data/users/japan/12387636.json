@@ -1,0 +1,20 @@
+{
+  "login": "tap1ra",
+  "id": 12387636,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12387636?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tap1ra",
+  "html_url": "https://github.com/tap1ra",
+  "followers_url": "https://api.github.com/users/tap1ra/followers",
+  "following_url": "https://api.github.com/users/tap1ra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tap1ra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tap1ra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tap1ra/subscriptions",
+  "organizations_url": "https://api.github.com/users/tap1ra/orgs",
+  "repos_url": "https://api.github.com/users/tap1ra/repos",
+  "events_url": "https://api.github.com/users/tap1ra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tap1ra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

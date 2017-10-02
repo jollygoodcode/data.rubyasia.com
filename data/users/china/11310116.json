@@ -1,0 +1,20 @@
+{
+  "login": "senique",
+  "id": 11310116,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11310116?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/senique",
+  "html_url": "https://github.com/senique",
+  "followers_url": "https://api.github.com/users/senique/followers",
+  "following_url": "https://api.github.com/users/senique/following{/other_user}",
+  "gists_url": "https://api.github.com/users/senique/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/senique/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/senique/subscriptions",
+  "organizations_url": "https://api.github.com/users/senique/orgs",
+  "repos_url": "https://api.github.com/users/senique/repos",
+  "events_url": "https://api.github.com/users/senique/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/senique/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

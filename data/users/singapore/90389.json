@@ -1,0 +1,20 @@
+{
+  "login": "takashiyoshida",
+  "id": 90389,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/90389?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takashiyoshida",
+  "html_url": "https://github.com/takashiyoshida",
+  "followers_url": "https://api.github.com/users/takashiyoshida/followers",
+  "following_url": "https://api.github.com/users/takashiyoshida/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takashiyoshida/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takashiyoshida/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takashiyoshida/subscriptions",
+  "organizations_url": "https://api.github.com/users/takashiyoshida/orgs",
+  "repos_url": "https://api.github.com/users/takashiyoshida/repos",
+  "events_url": "https://api.github.com/users/takashiyoshida/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takashiyoshida/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sandboy",
+  "id": 7421503,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7421503?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sandboy",
+  "html_url": "https://github.com/sandboy",
+  "followers_url": "https://api.github.com/users/sandboy/followers",
+  "following_url": "https://api.github.com/users/sandboy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sandboy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sandboy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sandboy/subscriptions",
+  "organizations_url": "https://api.github.com/users/sandboy/orgs",
+  "repos_url": "https://api.github.com/users/sandboy/repos",
+  "events_url": "https://api.github.com/users/sandboy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sandboy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

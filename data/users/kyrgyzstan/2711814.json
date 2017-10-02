@@ -1,0 +1,20 @@
+{
+  "login": "kadder",
+  "id": 2711814,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2711814?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kadder",
+  "html_url": "https://github.com/kadder",
+  "followers_url": "https://api.github.com/users/kadder/followers",
+  "following_url": "https://api.github.com/users/kadder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kadder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kadder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kadder/subscriptions",
+  "organizations_url": "https://api.github.com/users/kadder/orgs",
+  "repos_url": "https://api.github.com/users/kadder/repos",
+  "events_url": "https://api.github.com/users/kadder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kadder/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
