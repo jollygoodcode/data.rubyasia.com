@@ -1,0 +1,20 @@
+{
+  "login": "simplon",
+  "id": 3594653,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3594653?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simplon",
+  "html_url": "https://github.com/simplon",
+  "followers_url": "https://api.github.com/users/simplon/followers",
+  "following_url": "https://api.github.com/users/simplon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simplon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simplon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simplon/subscriptions",
+  "organizations_url": "https://api.github.com/users/simplon/orgs",
+  "repos_url": "https://api.github.com/users/simplon/repos",
+  "events_url": "https://api.github.com/users/simplon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simplon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

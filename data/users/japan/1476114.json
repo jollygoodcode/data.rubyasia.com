@@ -1,0 +1,20 @@
+{
+  "login": "kimikato",
+  "id": 1476114,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1476114?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimikato",
+  "html_url": "https://github.com/kimikato",
+  "followers_url": "https://api.github.com/users/kimikato/followers",
+  "following_url": "https://api.github.com/users/kimikato/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimikato/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimikato/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimikato/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimikato/orgs",
+  "repos_url": "https://api.github.com/users/kimikato/repos",
+  "events_url": "https://api.github.com/users/kimikato/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimikato/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

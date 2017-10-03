@@ -1,0 +1,20 @@
+{
+  "login": "yaoquan",
+  "id": 374390,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/374390?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yaoquan",
+  "html_url": "https://github.com/yaoquan",
+  "followers_url": "https://api.github.com/users/yaoquan/followers",
+  "following_url": "https://api.github.com/users/yaoquan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yaoquan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yaoquan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yaoquan/subscriptions",
+  "organizations_url": "https://api.github.com/users/yaoquan/orgs",
+  "repos_url": "https://api.github.com/users/yaoquan/repos",
+  "events_url": "https://api.github.com/users/yaoquan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yaoquan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

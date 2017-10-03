@@ -1,0 +1,20 @@
+{
+  "login": "ijikeman",
+  "id": 1572653,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1572653?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ijikeman",
+  "html_url": "https://github.com/ijikeman",
+  "followers_url": "https://api.github.com/users/ijikeman/followers",
+  "following_url": "https://api.github.com/users/ijikeman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ijikeman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ijikeman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ijikeman/subscriptions",
+  "organizations_url": "https://api.github.com/users/ijikeman/orgs",
+  "repos_url": "https://api.github.com/users/ijikeman/repos",
+  "events_url": "https://api.github.com/users/ijikeman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ijikeman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

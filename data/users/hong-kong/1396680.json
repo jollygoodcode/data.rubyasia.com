@@ -1,0 +1,20 @@
+{
+  "login": "beeto",
+  "id": 1396680,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1396680?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/beeto",
+  "html_url": "https://github.com/beeto",
+  "followers_url": "https://api.github.com/users/beeto/followers",
+  "following_url": "https://api.github.com/users/beeto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/beeto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/beeto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/beeto/subscriptions",
+  "organizations_url": "https://api.github.com/users/beeto/orgs",
+  "repos_url": "https://api.github.com/users/beeto/repos",
+  "events_url": "https://api.github.com/users/beeto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/beeto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

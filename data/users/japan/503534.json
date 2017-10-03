@@ -1,0 +1,20 @@
+{
+  "login": "takamario",
+  "id": 503534,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/503534?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takamario",
+  "html_url": "https://github.com/takamario",
+  "followers_url": "https://api.github.com/users/takamario/followers",
+  "following_url": "https://api.github.com/users/takamario/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takamario/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takamario/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takamario/subscriptions",
+  "organizations_url": "https://api.github.com/users/takamario/orgs",
+  "repos_url": "https://api.github.com/users/takamario/repos",
+  "events_url": "https://api.github.com/users/takamario/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takamario/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

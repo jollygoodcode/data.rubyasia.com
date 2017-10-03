@@ -1,0 +1,20 @@
+{
+  "login": "nakamegu",
+  "id": 1005599,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1005599?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nakamegu",
+  "html_url": "https://github.com/nakamegu",
+  "followers_url": "https://api.github.com/users/nakamegu/followers",
+  "following_url": "https://api.github.com/users/nakamegu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nakamegu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nakamegu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nakamegu/subscriptions",
+  "organizations_url": "https://api.github.com/users/nakamegu/orgs",
+  "repos_url": "https://api.github.com/users/nakamegu/repos",
+  "events_url": "https://api.github.com/users/nakamegu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nakamegu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

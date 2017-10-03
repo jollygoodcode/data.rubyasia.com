@@ -1,0 +1,20 @@
+{
+  "login": "mwiking",
+  "id": 1629302,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1629302?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mwiking",
+  "html_url": "https://github.com/mwiking",
+  "followers_url": "https://api.github.com/users/mwiking/followers",
+  "following_url": "https://api.github.com/users/mwiking/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mwiking/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mwiking/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mwiking/subscriptions",
+  "organizations_url": "https://api.github.com/users/mwiking/orgs",
+  "repos_url": "https://api.github.com/users/mwiking/repos",
+  "events_url": "https://api.github.com/users/mwiking/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mwiking/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "tungri",
+  "id": 8101741,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8101741?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tungri",
+  "html_url": "https://github.com/tungri",
+  "followers_url": "https://api.github.com/users/tungri/followers",
+  "following_url": "https://api.github.com/users/tungri/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tungri/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tungri/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tungri/subscriptions",
+  "organizations_url": "https://api.github.com/users/tungri/orgs",
+  "repos_url": "https://api.github.com/users/tungri/repos",
+  "events_url": "https://api.github.com/users/tungri/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tungri/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

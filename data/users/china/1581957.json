@@ -1,0 +1,20 @@
+{
+  "login": "chinakr",
+  "id": 1581957,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1581957?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chinakr",
+  "html_url": "https://github.com/chinakr",
+  "followers_url": "https://api.github.com/users/chinakr/followers",
+  "following_url": "https://api.github.com/users/chinakr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chinakr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chinakr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chinakr/subscriptions",
+  "organizations_url": "https://api.github.com/users/chinakr/orgs",
+  "repos_url": "https://api.github.com/users/chinakr/repos",
+  "events_url": "https://api.github.com/users/chinakr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chinakr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

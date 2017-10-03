@@ -1,0 +1,20 @@
+{
+  "login": "mildjester",
+  "id": 16119464,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/16119464?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mildjester",
+  "html_url": "https://github.com/mildjester",
+  "followers_url": "https://api.github.com/users/mildjester/followers",
+  "following_url": "https://api.github.com/users/mildjester/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mildjester/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mildjester/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mildjester/subscriptions",
+  "organizations_url": "https://api.github.com/users/mildjester/orgs",
+  "repos_url": "https://api.github.com/users/mildjester/repos",
+  "events_url": "https://api.github.com/users/mildjester/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mildjester/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

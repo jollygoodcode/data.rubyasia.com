@@ -1,0 +1,20 @@
+{
+  "login": "shnmorimoto",
+  "id": 1239431,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1239431?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shnmorimoto",
+  "html_url": "https://github.com/shnmorimoto",
+  "followers_url": "https://api.github.com/users/shnmorimoto/followers",
+  "following_url": "https://api.github.com/users/shnmorimoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shnmorimoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shnmorimoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shnmorimoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/shnmorimoto/orgs",
+  "repos_url": "https://api.github.com/users/shnmorimoto/repos",
+  "events_url": "https://api.github.com/users/shnmorimoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shnmorimoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

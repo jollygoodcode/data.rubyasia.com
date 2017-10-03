@@ -1,0 +1,20 @@
+{
+  "login": "tomoyukiinoue",
+  "id": 90077,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/90077?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tomoyukiinoue",
+  "html_url": "https://github.com/tomoyukiinoue",
+  "followers_url": "https://api.github.com/users/tomoyukiinoue/followers",
+  "following_url": "https://api.github.com/users/tomoyukiinoue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tomoyukiinoue/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tomoyukiinoue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tomoyukiinoue/subscriptions",
+  "organizations_url": "https://api.github.com/users/tomoyukiinoue/orgs",
+  "repos_url": "https://api.github.com/users/tomoyukiinoue/repos",
+  "events_url": "https://api.github.com/users/tomoyukiinoue/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tomoyukiinoue/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

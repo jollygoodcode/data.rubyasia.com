@@ -1,0 +1,20 @@
+{
+  "login": "yzaki",
+  "id": 9818043,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9818043?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yzaki",
+  "html_url": "https://github.com/yzaki",
+  "followers_url": "https://api.github.com/users/yzaki/followers",
+  "following_url": "https://api.github.com/users/yzaki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yzaki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yzaki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yzaki/subscriptions",
+  "organizations_url": "https://api.github.com/users/yzaki/orgs",
+  "repos_url": "https://api.github.com/users/yzaki/repos",
+  "events_url": "https://api.github.com/users/yzaki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yzaki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

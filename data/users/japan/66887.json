@@ -1,0 +1,20 @@
+{
+  "login": "hrix",
+  "id": 66887,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/66887?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hrix",
+  "html_url": "https://github.com/hrix",
+  "followers_url": "https://api.github.com/users/hrix/followers",
+  "following_url": "https://api.github.com/users/hrix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hrix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hrix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hrix/subscriptions",
+  "organizations_url": "https://api.github.com/users/hrix/orgs",
+  "repos_url": "https://api.github.com/users/hrix/repos",
+  "events_url": "https://api.github.com/users/hrix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hrix/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
