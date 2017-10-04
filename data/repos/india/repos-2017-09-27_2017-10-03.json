@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-04 08:10:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-27..2017-10-03",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1225,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "ERPmine is an open source free ERP for Service Industries.  It runs within Redmine",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

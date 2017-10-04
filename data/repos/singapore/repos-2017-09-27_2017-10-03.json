@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-04 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-27..2017-10-03",
+  "repos": [
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "description": "Ethereum library for the Ruby language",
+      "html_url": "https://github.com/DigixGlobal/ethereum-ruby",
+      "stars": 133,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "allenwq/devise-multi_email",
+      "description": "✉️ Let devise support multiple emails (authenticatable, confirmable and validatable).",
+      "html_url": "https://github.com/allenwq/devise-multi_email",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-10-04 08:10:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-27..2017-10-03",
+  "repos": [
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 624,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beenhero/omniauth-weibo-oauth2",
+      "description": "OmniAuth Oauth2 strategy for weibo.com.",
+      "html_url": "https://github.com/beenhero/omniauth-weibo-oauth2",
+      "stars": 139,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 77,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/active_service",
+      "description": "ActiveService is a service object framework.",
+      "html_url": "https://github.com/chloerei/active_service",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "lidaobing/paperclip-qiniu",
+      "description": "Simple gem that makes paperclip save the attachments to qiniu.com",
+      "html_url": "https://github.com/lidaobing/paperclip-qiniu",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
