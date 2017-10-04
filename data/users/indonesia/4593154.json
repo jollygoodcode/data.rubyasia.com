@@ -1,0 +1,20 @@
+{
+  "login": "15june",
+  "id": 4593154,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4593154?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/15june",
+  "html_url": "https://github.com/15june",
+  "followers_url": "https://api.github.com/users/15june/followers",
+  "following_url": "https://api.github.com/users/15june/following{/other_user}",
+  "gists_url": "https://api.github.com/users/15june/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/15june/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/15june/subscriptions",
+  "organizations_url": "https://api.github.com/users/15june/orgs",
+  "repos_url": "https://api.github.com/users/15june/repos",
+  "events_url": "https://api.github.com/users/15june/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/15june/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "himeyon",
+  "id": 4468822,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4468822?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/himeyon",
+  "html_url": "https://github.com/himeyon",
+  "followers_url": "https://api.github.com/users/himeyon/followers",
+  "following_url": "https://api.github.com/users/himeyon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/himeyon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/himeyon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/himeyon/subscriptions",
+  "organizations_url": "https://api.github.com/users/himeyon/orgs",
+  "repos_url": "https://api.github.com/users/himeyon/repos",
+  "events_url": "https://api.github.com/users/himeyon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/himeyon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "yukimaeno",
+  "id": 9563671,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/9563671?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yukimaeno",
+  "html_url": "https://github.com/yukimaeno",
+  "followers_url": "https://api.github.com/users/yukimaeno/followers",
+  "following_url": "https://api.github.com/users/yukimaeno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yukimaeno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yukimaeno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yukimaeno/subscriptions",
+  "organizations_url": "https://api.github.com/users/yukimaeno/orgs",
+  "repos_url": "https://api.github.com/users/yukimaeno/repos",
+  "events_url": "https://api.github.com/users/yukimaeno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yukimaeno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

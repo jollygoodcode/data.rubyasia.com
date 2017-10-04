@@ -1,0 +1,20 @@
+{
+  "login": "rvillage",
+  "id": 1464572,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1464572?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rvillage",
+  "html_url": "https://github.com/rvillage",
+  "followers_url": "https://api.github.com/users/rvillage/followers",
+  "following_url": "https://api.github.com/users/rvillage/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rvillage/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rvillage/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rvillage/subscriptions",
+  "organizations_url": "https://api.github.com/users/rvillage/orgs",
+  "repos_url": "https://api.github.com/users/rvillage/repos",
+  "events_url": "https://api.github.com/users/rvillage/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rvillage/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

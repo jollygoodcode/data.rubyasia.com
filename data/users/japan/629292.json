@@ -1,0 +1,20 @@
+{
+  "login": "luckypool",
+  "id": 629292,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/629292?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/luckypool",
+  "html_url": "https://github.com/luckypool",
+  "followers_url": "https://api.github.com/users/luckypool/followers",
+  "following_url": "https://api.github.com/users/luckypool/following{/other_user}",
+  "gists_url": "https://api.github.com/users/luckypool/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/luckypool/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/luckypool/subscriptions",
+  "organizations_url": "https://api.github.com/users/luckypool/orgs",
+  "repos_url": "https://api.github.com/users/luckypool/repos",
+  "events_url": "https://api.github.com/users/luckypool/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/luckypool/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

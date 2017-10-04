@@ -1,0 +1,20 @@
+{
+  "login": "codeByScott",
+  "id": 14066909,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/14066909?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codeByScott",
+  "html_url": "https://github.com/codeByScott",
+  "followers_url": "https://api.github.com/users/codeByScott/followers",
+  "following_url": "https://api.github.com/users/codeByScott/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codeByScott/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codeByScott/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codeByScott/subscriptions",
+  "organizations_url": "https://api.github.com/users/codeByScott/orgs",
+  "repos_url": "https://api.github.com/users/codeByScott/repos",
+  "events_url": "https://api.github.com/users/codeByScott/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codeByScott/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

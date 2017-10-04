@@ -1,0 +1,20 @@
+{
+  "login": "snowmi",
+  "id": 2148786,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2148786?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/snowmi",
+  "html_url": "https://github.com/snowmi",
+  "followers_url": "https://api.github.com/users/snowmi/followers",
+  "following_url": "https://api.github.com/users/snowmi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/snowmi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/snowmi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/snowmi/subscriptions",
+  "organizations_url": "https://api.github.com/users/snowmi/orgs",
+  "repos_url": "https://api.github.com/users/snowmi/repos",
+  "events_url": "https://api.github.com/users/snowmi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/snowmi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

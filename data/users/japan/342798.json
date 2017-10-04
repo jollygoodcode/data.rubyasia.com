@@ -1,0 +1,20 @@
+{
+  "login": "choplin",
+  "id": 342798,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/342798?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/choplin",
+  "html_url": "https://github.com/choplin",
+  "followers_url": "https://api.github.com/users/choplin/followers",
+  "following_url": "https://api.github.com/users/choplin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/choplin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/choplin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/choplin/subscriptions",
+  "organizations_url": "https://api.github.com/users/choplin/orgs",
+  "repos_url": "https://api.github.com/users/choplin/repos",
+  "events_url": "https://api.github.com/users/choplin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/choplin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

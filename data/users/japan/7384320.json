@@ -1,0 +1,20 @@
+{
+  "login": "kackyt",
+  "id": 7384320,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/7384320?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kackyt",
+  "html_url": "https://github.com/kackyt",
+  "followers_url": "https://api.github.com/users/kackyt/followers",
+  "following_url": "https://api.github.com/users/kackyt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kackyt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kackyt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kackyt/subscriptions",
+  "organizations_url": "https://api.github.com/users/kackyt/orgs",
+  "repos_url": "https://api.github.com/users/kackyt/repos",
+  "events_url": "https://api.github.com/users/kackyt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kackyt/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

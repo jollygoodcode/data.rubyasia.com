@@ -1,0 +1,20 @@
+{
+  "login": "sinstein",
+  "id": 4283218,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4283218?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sinstein",
+  "html_url": "https://github.com/sinstein",
+  "followers_url": "https://api.github.com/users/sinstein/followers",
+  "following_url": "https://api.github.com/users/sinstein/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sinstein/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sinstein/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sinstein/subscriptions",
+  "organizations_url": "https://api.github.com/users/sinstein/orgs",
+  "repos_url": "https://api.github.com/users/sinstein/repos",
+  "events_url": "https://api.github.com/users/sinstein/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sinstein/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

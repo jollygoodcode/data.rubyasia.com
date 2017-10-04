@@ -1,0 +1,20 @@
+{
+  "login": "greensteph",
+  "id": 11343071,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11343071?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/greensteph",
+  "html_url": "https://github.com/greensteph",
+  "followers_url": "https://api.github.com/users/greensteph/followers",
+  "following_url": "https://api.github.com/users/greensteph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/greensteph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/greensteph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/greensteph/subscriptions",
+  "organizations_url": "https://api.github.com/users/greensteph/orgs",
+  "repos_url": "https://api.github.com/users/greensteph/repos",
+  "events_url": "https://api.github.com/users/greensteph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/greensteph/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

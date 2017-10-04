@@ -1,0 +1,20 @@
+{
+  "login": "fung-vin",
+  "id": 20800080,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20800080?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fung-vin",
+  "html_url": "https://github.com/fung-vin",
+  "followers_url": "https://api.github.com/users/fung-vin/followers",
+  "following_url": "https://api.github.com/users/fung-vin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fung-vin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fung-vin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fung-vin/subscriptions",
+  "organizations_url": "https://api.github.com/users/fung-vin/orgs",
+  "repos_url": "https://api.github.com/users/fung-vin/repos",
+  "events_url": "https://api.github.com/users/fung-vin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fung-vin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

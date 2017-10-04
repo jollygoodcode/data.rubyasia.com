@@ -1,0 +1,20 @@
+{
+  "login": "programever",
+  "id": 5208876,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5208876?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/programever",
+  "html_url": "https://github.com/programever",
+  "followers_url": "https://api.github.com/users/programever/followers",
+  "following_url": "https://api.github.com/users/programever/following{/other_user}",
+  "gists_url": "https://api.github.com/users/programever/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/programever/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/programever/subscriptions",
+  "organizations_url": "https://api.github.com/users/programever/orgs",
+  "repos_url": "https://api.github.com/users/programever/repos",
+  "events_url": "https://api.github.com/users/programever/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/programever/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
