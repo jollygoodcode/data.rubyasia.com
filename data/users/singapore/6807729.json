@@ -1,0 +1,20 @@
+{
+  "login": "kedanco",
+  "id": 6807729,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6807729?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kedanco",
+  "html_url": "https://github.com/kedanco",
+  "followers_url": "https://api.github.com/users/kedanco/followers",
+  "following_url": "https://api.github.com/users/kedanco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kedanco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kedanco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kedanco/subscriptions",
+  "organizations_url": "https://api.github.com/users/kedanco/orgs",
+  "repos_url": "https://api.github.com/users/kedanco/repos",
+  "events_url": "https://api.github.com/users/kedanco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kedanco/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

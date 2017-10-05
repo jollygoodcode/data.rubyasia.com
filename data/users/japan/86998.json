@@ -1,0 +1,20 @@
+{
+  "login": "kikumoto",
+  "id": 86998,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/86998?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kikumoto",
+  "html_url": "https://github.com/kikumoto",
+  "followers_url": "https://api.github.com/users/kikumoto/followers",
+  "following_url": "https://api.github.com/users/kikumoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kikumoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kikumoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kikumoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/kikumoto/orgs",
+  "repos_url": "https://api.github.com/users/kikumoto/repos",
+  "events_url": "https://api.github.com/users/kikumoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kikumoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

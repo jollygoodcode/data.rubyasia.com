@@ -1,0 +1,20 @@
+{
+  "login": "akatakun",
+  "id": 8606083,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8606083?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akatakun",
+  "html_url": "https://github.com/akatakun",
+  "followers_url": "https://api.github.com/users/akatakun/followers",
+  "following_url": "https://api.github.com/users/akatakun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akatakun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akatakun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akatakun/subscriptions",
+  "organizations_url": "https://api.github.com/users/akatakun/orgs",
+  "repos_url": "https://api.github.com/users/akatakun/repos",
+  "events_url": "https://api.github.com/users/akatakun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akatakun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

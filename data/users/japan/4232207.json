@@ -1,0 +1,20 @@
+{
+  "login": "hi-ogawa",
+  "id": 4232207,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4232207?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hi-ogawa",
+  "html_url": "https://github.com/hi-ogawa",
+  "followers_url": "https://api.github.com/users/hi-ogawa/followers",
+  "following_url": "https://api.github.com/users/hi-ogawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hi-ogawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hi-ogawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hi-ogawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/hi-ogawa/orgs",
+  "repos_url": "https://api.github.com/users/hi-ogawa/repos",
+  "events_url": "https://api.github.com/users/hi-ogawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hi-ogawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

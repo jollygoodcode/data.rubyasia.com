@@ -1,0 +1,20 @@
+{
+  "login": "nagity",
+  "id": 5047902,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5047902?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nagity",
+  "html_url": "https://github.com/nagity",
+  "followers_url": "https://api.github.com/users/nagity/followers",
+  "following_url": "https://api.github.com/users/nagity/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nagity/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nagity/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nagity/subscriptions",
+  "organizations_url": "https://api.github.com/users/nagity/orgs",
+  "repos_url": "https://api.github.com/users/nagity/repos",
+  "events_url": "https://api.github.com/users/nagity/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nagity/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

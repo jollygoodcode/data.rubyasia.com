@@ -1,0 +1,20 @@
+{
+  "login": "atmarksharp",
+  "id": 3406260,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3406260?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atmarksharp",
+  "html_url": "https://github.com/atmarksharp",
+  "followers_url": "https://api.github.com/users/atmarksharp/followers",
+  "following_url": "https://api.github.com/users/atmarksharp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atmarksharp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atmarksharp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atmarksharp/subscriptions",
+  "organizations_url": "https://api.github.com/users/atmarksharp/orgs",
+  "repos_url": "https://api.github.com/users/atmarksharp/repos",
+  "events_url": "https://api.github.com/users/atmarksharp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atmarksharp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

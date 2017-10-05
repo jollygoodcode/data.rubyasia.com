@@ -1,0 +1,20 @@
+{
+  "login": "nomnel",
+  "id": 870629,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/870629?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nomnel",
+  "html_url": "https://github.com/nomnel",
+  "followers_url": "https://api.github.com/users/nomnel/followers",
+  "following_url": "https://api.github.com/users/nomnel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nomnel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nomnel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nomnel/subscriptions",
+  "organizations_url": "https://api.github.com/users/nomnel/orgs",
+  "repos_url": "https://api.github.com/users/nomnel/repos",
+  "events_url": "https://api.github.com/users/nomnel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nomnel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

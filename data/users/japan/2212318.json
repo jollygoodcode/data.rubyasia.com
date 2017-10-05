@@ -1,0 +1,20 @@
+{
+  "login": "hunishi",
+  "id": 2212318,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2212318?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hunishi",
+  "html_url": "https://github.com/hunishi",
+  "followers_url": "https://api.github.com/users/hunishi/followers",
+  "following_url": "https://api.github.com/users/hunishi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hunishi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hunishi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hunishi/subscriptions",
+  "organizations_url": "https://api.github.com/users/hunishi/orgs",
+  "repos_url": "https://api.github.com/users/hunishi/repos",
+  "events_url": "https://api.github.com/users/hunishi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hunishi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

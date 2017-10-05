@@ -1,0 +1,20 @@
+{
+  "login": "hogehiga",
+  "id": 6975731,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6975731?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hogehiga",
+  "html_url": "https://github.com/hogehiga",
+  "followers_url": "https://api.github.com/users/hogehiga/followers",
+  "following_url": "https://api.github.com/users/hogehiga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hogehiga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hogehiga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hogehiga/subscriptions",
+  "organizations_url": "https://api.github.com/users/hogehiga/orgs",
+  "repos_url": "https://api.github.com/users/hogehiga/repos",
+  "events_url": "https://api.github.com/users/hogehiga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hogehiga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

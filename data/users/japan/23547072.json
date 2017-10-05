@@ -1,0 +1,20 @@
+{
+  "login": "ueyuki",
+  "id": 23547072,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/23547072?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ueyuki",
+  "html_url": "https://github.com/ueyuki",
+  "followers_url": "https://api.github.com/users/ueyuki/followers",
+  "following_url": "https://api.github.com/users/ueyuki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ueyuki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ueyuki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ueyuki/subscriptions",
+  "organizations_url": "https://api.github.com/users/ueyuki/orgs",
+  "repos_url": "https://api.github.com/users/ueyuki/repos",
+  "events_url": "https://api.github.com/users/ueyuki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ueyuki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

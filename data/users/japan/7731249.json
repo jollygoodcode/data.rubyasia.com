@@ -1,0 +1,20 @@
+{
+  "login": "saekis",
+  "id": 7731249,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/7731249?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/saekis",
+  "html_url": "https://github.com/saekis",
+  "followers_url": "https://api.github.com/users/saekis/followers",
+  "following_url": "https://api.github.com/users/saekis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/saekis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/saekis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/saekis/subscriptions",
+  "organizations_url": "https://api.github.com/users/saekis/orgs",
+  "repos_url": "https://api.github.com/users/saekis/repos",
+  "events_url": "https://api.github.com/users/saekis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/saekis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

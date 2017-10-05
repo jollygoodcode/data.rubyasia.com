@@ -1,0 +1,20 @@
+{
+  "login": "toku345",
+  "id": 3142849,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3142849?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/toku345",
+  "html_url": "https://github.com/toku345",
+  "followers_url": "https://api.github.com/users/toku345/followers",
+  "following_url": "https://api.github.com/users/toku345/following{/other_user}",
+  "gists_url": "https://api.github.com/users/toku345/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/toku345/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/toku345/subscriptions",
+  "organizations_url": "https://api.github.com/users/toku345/orgs",
+  "repos_url": "https://api.github.com/users/toku345/repos",
+  "events_url": "https://api.github.com/users/toku345/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/toku345/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

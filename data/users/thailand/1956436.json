@@ -1,0 +1,20 @@
+{
+  "login": "icmpecho",
+  "id": 1956436,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1956436?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/icmpecho",
+  "html_url": "https://github.com/icmpecho",
+  "followers_url": "https://api.github.com/users/icmpecho/followers",
+  "following_url": "https://api.github.com/users/icmpecho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/icmpecho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/icmpecho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/icmpecho/subscriptions",
+  "organizations_url": "https://api.github.com/users/icmpecho/orgs",
+  "repos_url": "https://api.github.com/users/icmpecho/repos",
+  "events_url": "https://api.github.com/users/icmpecho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/icmpecho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

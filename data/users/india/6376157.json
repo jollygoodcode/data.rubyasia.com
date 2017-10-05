@@ -1,0 +1,20 @@
+{
+  "login": "mrfinch",
+  "id": 6376157,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6376157?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrfinch",
+  "html_url": "https://github.com/mrfinch",
+  "followers_url": "https://api.github.com/users/mrfinch/followers",
+  "following_url": "https://api.github.com/users/mrfinch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrfinch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrfinch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrfinch/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrfinch/orgs",
+  "repos_url": "https://api.github.com/users/mrfinch/repos",
+  "events_url": "https://api.github.com/users/mrfinch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrfinch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
