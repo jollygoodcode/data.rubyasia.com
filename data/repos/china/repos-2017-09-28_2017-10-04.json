@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-10-05 08:10:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-09-28..2017-10-04",
+  "repos": [
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2655,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beenhero/omniauth-weibo-oauth2",
+      "description": "OmniAuth Oauth2 strategy for weibo.com.",
+      "html_url": "https://github.com/beenhero/omniauth-weibo-oauth2",
+      "stars": 139,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/where-or",
+      "description": "Where or function backport from Rails 5 for Rails 4.2",
+      "html_url": "https://github.com/Eric-Guo/where-or",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/active_service",
+      "description": "ActiveService is a service object framework.",
+      "html_url": "https://github.com/chloerei/active_service",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
