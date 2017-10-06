@@ -1,0 +1,20 @@
+{
+  "login": "sliranc",
+  "id": 3120643,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3120643?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sliranc",
+  "html_url": "https://github.com/sliranc",
+  "followers_url": "https://api.github.com/users/sliranc/followers",
+  "following_url": "https://api.github.com/users/sliranc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sliranc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sliranc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sliranc/subscriptions",
+  "organizations_url": "https://api.github.com/users/sliranc/orgs",
+  "repos_url": "https://api.github.com/users/sliranc/repos",
+  "events_url": "https://api.github.com/users/sliranc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sliranc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "jithinkr",
+  "id": 537512,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/537512?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jithinkr",
+  "html_url": "https://github.com/jithinkr",
+  "followers_url": "https://api.github.com/users/jithinkr/followers",
+  "following_url": "https://api.github.com/users/jithinkr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jithinkr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jithinkr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jithinkr/subscriptions",
+  "organizations_url": "https://api.github.com/users/jithinkr/orgs",
+  "repos_url": "https://api.github.com/users/jithinkr/repos",
+  "events_url": "https://api.github.com/users/jithinkr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jithinkr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

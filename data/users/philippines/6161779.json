@@ -1,0 +1,20 @@
+{
+  "login": "jacemonje",
+  "id": 6161779,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6161779?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jacemonje",
+  "html_url": "https://github.com/jacemonje",
+  "followers_url": "https://api.github.com/users/jacemonje/followers",
+  "following_url": "https://api.github.com/users/jacemonje/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jacemonje/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jacemonje/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jacemonje/subscriptions",
+  "organizations_url": "https://api.github.com/users/jacemonje/orgs",
+  "repos_url": "https://api.github.com/users/jacemonje/repos",
+  "events_url": "https://api.github.com/users/jacemonje/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jacemonje/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

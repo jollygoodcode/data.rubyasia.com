@@ -1,0 +1,20 @@
+{
+  "login": "prp-e",
+  "id": 1078404,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1078404?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/prp-e",
+  "html_url": "https://github.com/prp-e",
+  "followers_url": "https://api.github.com/users/prp-e/followers",
+  "following_url": "https://api.github.com/users/prp-e/following{/other_user}",
+  "gists_url": "https://api.github.com/users/prp-e/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/prp-e/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/prp-e/subscriptions",
+  "organizations_url": "https://api.github.com/users/prp-e/orgs",
+  "repos_url": "https://api.github.com/users/prp-e/repos",
+  "events_url": "https://api.github.com/users/prp-e/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/prp-e/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

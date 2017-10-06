@@ -1,0 +1,20 @@
+{
+  "login": "izad",
+  "id": 1480906,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1480906?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/izad",
+  "html_url": "https://github.com/izad",
+  "followers_url": "https://api.github.com/users/izad/followers",
+  "following_url": "https://api.github.com/users/izad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/izad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/izad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/izad/subscriptions",
+  "organizations_url": "https://api.github.com/users/izad/orgs",
+  "repos_url": "https://api.github.com/users/izad/repos",
+  "events_url": "https://api.github.com/users/izad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/izad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

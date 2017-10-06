@@ -1,0 +1,20 @@
+{
+  "login": "programmingsteve",
+  "id": 6830232,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6830232?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/programmingsteve",
+  "html_url": "https://github.com/programmingsteve",
+  "followers_url": "https://api.github.com/users/programmingsteve/followers",
+  "following_url": "https://api.github.com/users/programmingsteve/following{/other_user}",
+  "gists_url": "https://api.github.com/users/programmingsteve/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/programmingsteve/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/programmingsteve/subscriptions",
+  "organizations_url": "https://api.github.com/users/programmingsteve/orgs",
+  "repos_url": "https://api.github.com/users/programmingsteve/repos",
+  "events_url": "https://api.github.com/users/programmingsteve/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/programmingsteve/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "timothio",
+  "id": 13586025,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/13586025?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/timothio",
+  "html_url": "https://github.com/timothio",
+  "followers_url": "https://api.github.com/users/timothio/followers",
+  "following_url": "https://api.github.com/users/timothio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/timothio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/timothio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/timothio/subscriptions",
+  "organizations_url": "https://api.github.com/users/timothio/orgs",
+  "repos_url": "https://api.github.com/users/timothio/repos",
+  "events_url": "https://api.github.com/users/timothio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/timothio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

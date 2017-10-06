@@ -1,0 +1,20 @@
+{
+  "login": "jackyvo",
+  "id": 7042919,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7042919?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jackyvo",
+  "html_url": "https://github.com/jackyvo",
+  "followers_url": "https://api.github.com/users/jackyvo/followers",
+  "following_url": "https://api.github.com/users/jackyvo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jackyvo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jackyvo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jackyvo/subscriptions",
+  "organizations_url": "https://api.github.com/users/jackyvo/orgs",
+  "repos_url": "https://api.github.com/users/jackyvo/repos",
+  "events_url": "https://api.github.com/users/jackyvo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jackyvo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
