@@ -1,0 +1,20 @@
+{
+  "login": "abraverm",
+  "id": 7045898,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7045898?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/abraverm",
+  "html_url": "https://github.com/abraverm",
+  "followers_url": "https://api.github.com/users/abraverm/followers",
+  "following_url": "https://api.github.com/users/abraverm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/abraverm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/abraverm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/abraverm/subscriptions",
+  "organizations_url": "https://api.github.com/users/abraverm/orgs",
+  "repos_url": "https://api.github.com/users/abraverm/repos",
+  "events_url": "https://api.github.com/users/abraverm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/abraverm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

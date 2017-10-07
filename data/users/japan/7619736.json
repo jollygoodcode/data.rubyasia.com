@@ -1,0 +1,20 @@
+{
+  "login": "kainoku",
+  "id": 7619736,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/7619736?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kainoku",
+  "html_url": "https://github.com/kainoku",
+  "followers_url": "https://api.github.com/users/kainoku/followers",
+  "following_url": "https://api.github.com/users/kainoku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kainoku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kainoku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kainoku/subscriptions",
+  "organizations_url": "https://api.github.com/users/kainoku/orgs",
+  "repos_url": "https://api.github.com/users/kainoku/repos",
+  "events_url": "https://api.github.com/users/kainoku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kainoku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

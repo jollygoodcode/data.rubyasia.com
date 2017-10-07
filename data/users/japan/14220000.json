@@ -1,0 +1,20 @@
+{
+  "login": "rikoroku",
+  "id": 14220000,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/14220000?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rikoroku",
+  "html_url": "https://github.com/rikoroku",
+  "followers_url": "https://api.github.com/users/rikoroku/followers",
+  "following_url": "https://api.github.com/users/rikoroku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rikoroku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rikoroku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rikoroku/subscriptions",
+  "organizations_url": "https://api.github.com/users/rikoroku/orgs",
+  "repos_url": "https://api.github.com/users/rikoroku/repos",
+  "events_url": "https://api.github.com/users/rikoroku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rikoroku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

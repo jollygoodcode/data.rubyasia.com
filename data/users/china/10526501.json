@@ -1,0 +1,20 @@
+{
+  "login": "ijunfly",
+  "id": 10526501,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10526501?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ijunfly",
+  "html_url": "https://github.com/ijunfly",
+  "followers_url": "https://api.github.com/users/ijunfly/followers",
+  "following_url": "https://api.github.com/users/ijunfly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ijunfly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ijunfly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ijunfly/subscriptions",
+  "organizations_url": "https://api.github.com/users/ijunfly/orgs",
+  "repos_url": "https://api.github.com/users/ijunfly/repos",
+  "events_url": "https://api.github.com/users/ijunfly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ijunfly/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

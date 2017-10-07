@@ -1,0 +1,20 @@
+{
+  "login": "shenqi",
+  "id": 94707,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/94707?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shenqi",
+  "html_url": "https://github.com/shenqi",
+  "followers_url": "https://api.github.com/users/shenqi/followers",
+  "following_url": "https://api.github.com/users/shenqi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shenqi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shenqi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shenqi/subscriptions",
+  "organizations_url": "https://api.github.com/users/shenqi/orgs",
+  "repos_url": "https://api.github.com/users/shenqi/repos",
+  "events_url": "https://api.github.com/users/shenqi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shenqi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

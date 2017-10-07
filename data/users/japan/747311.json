@@ -1,0 +1,20 @@
+{
+  "login": "tpdn",
+  "id": 747311,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/747311?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tpdn",
+  "html_url": "https://github.com/tpdn",
+  "followers_url": "https://api.github.com/users/tpdn/followers",
+  "following_url": "https://api.github.com/users/tpdn/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tpdn/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tpdn/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tpdn/subscriptions",
+  "organizations_url": "https://api.github.com/users/tpdn/orgs",
+  "repos_url": "https://api.github.com/users/tpdn/repos",
+  "events_url": "https://api.github.com/users/tpdn/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tpdn/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

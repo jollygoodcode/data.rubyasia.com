@@ -1,0 +1,20 @@
+{
+  "login": "1pac",
+  "id": 3327593,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3327593?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/1pac",
+  "html_url": "https://github.com/1pac",
+  "followers_url": "https://api.github.com/users/1pac/followers",
+  "following_url": "https://api.github.com/users/1pac/following{/other_user}",
+  "gists_url": "https://api.github.com/users/1pac/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/1pac/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/1pac/subscriptions",
+  "organizations_url": "https://api.github.com/users/1pac/orgs",
+  "repos_url": "https://api.github.com/users/1pac/repos",
+  "events_url": "https://api.github.com/users/1pac/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/1pac/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

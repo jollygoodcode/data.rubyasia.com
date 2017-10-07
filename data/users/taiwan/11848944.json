@@ -1,0 +1,20 @@
+{
+  "login": "kadair",
+  "id": 11848944,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11848944?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kadair",
+  "html_url": "https://github.com/kadair",
+  "followers_url": "https://api.github.com/users/kadair/followers",
+  "following_url": "https://api.github.com/users/kadair/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kadair/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kadair/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kadair/subscriptions",
+  "organizations_url": "https://api.github.com/users/kadair/orgs",
+  "repos_url": "https://api.github.com/users/kadair/repos",
+  "events_url": "https://api.github.com/users/kadair/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kadair/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
