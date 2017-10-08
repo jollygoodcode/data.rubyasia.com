@@ -1,0 +1,20 @@
+{
+  "login": "yusukegoto",
+  "id": 1221440,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1221440?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yusukegoto",
+  "html_url": "https://github.com/yusukegoto",
+  "followers_url": "https://api.github.com/users/yusukegoto/followers",
+  "following_url": "https://api.github.com/users/yusukegoto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yusukegoto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yusukegoto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yusukegoto/subscriptions",
+  "organizations_url": "https://api.github.com/users/yusukegoto/orgs",
+  "repos_url": "https://api.github.com/users/yusukegoto/repos",
+  "events_url": "https://api.github.com/users/yusukegoto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yusukegoto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "KittiCode",
+  "id": 19288676,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/19288676?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/KittiCode",
+  "html_url": "https://github.com/KittiCode",
+  "followers_url": "https://api.github.com/users/KittiCode/followers",
+  "following_url": "https://api.github.com/users/KittiCode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/KittiCode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/KittiCode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/KittiCode/subscriptions",
+  "organizations_url": "https://api.github.com/users/KittiCode/orgs",
+  "repos_url": "https://api.github.com/users/KittiCode/repos",
+  "events_url": "https://api.github.com/users/KittiCode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/KittiCode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "dancar",
+  "id": 969588,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/969588?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dancar",
+  "html_url": "https://github.com/dancar",
+  "followers_url": "https://api.github.com/users/dancar/followers",
+  "following_url": "https://api.github.com/users/dancar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dancar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dancar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dancar/subscriptions",
+  "organizations_url": "https://api.github.com/users/dancar/orgs",
+  "repos_url": "https://api.github.com/users/dancar/repos",
+  "events_url": "https://api.github.com/users/dancar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dancar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
