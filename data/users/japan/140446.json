@@ -1,0 +1,20 @@
+{
+  "login": "tnj",
+  "id": 140446,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/140446?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tnj",
+  "html_url": "https://github.com/tnj",
+  "followers_url": "https://api.github.com/users/tnj/followers",
+  "following_url": "https://api.github.com/users/tnj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tnj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tnj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tnj/subscriptions",
+  "organizations_url": "https://api.github.com/users/tnj/orgs",
+  "repos_url": "https://api.github.com/users/tnj/repos",
+  "events_url": "https://api.github.com/users/tnj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tnj/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

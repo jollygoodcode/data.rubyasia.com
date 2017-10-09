@@ -1,0 +1,20 @@
+{
+  "login": "microcerebus",
+  "id": 11850584,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11850584?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/microcerebus",
+  "html_url": "https://github.com/microcerebus",
+  "followers_url": "https://api.github.com/users/microcerebus/followers",
+  "following_url": "https://api.github.com/users/microcerebus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/microcerebus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/microcerebus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/microcerebus/subscriptions",
+  "organizations_url": "https://api.github.com/users/microcerebus/orgs",
+  "repos_url": "https://api.github.com/users/microcerebus/repos",
+  "events_url": "https://api.github.com/users/microcerebus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/microcerebus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

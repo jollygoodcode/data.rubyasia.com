@@ -1,0 +1,20 @@
+{
+  "login": "dolpa",
+  "id": 4534500,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4534500?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dolpa",
+  "html_url": "https://github.com/dolpa",
+  "followers_url": "https://api.github.com/users/dolpa/followers",
+  "following_url": "https://api.github.com/users/dolpa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dolpa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dolpa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dolpa/subscriptions",
+  "organizations_url": "https://api.github.com/users/dolpa/orgs",
+  "repos_url": "https://api.github.com/users/dolpa/repos",
+  "events_url": "https://api.github.com/users/dolpa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dolpa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

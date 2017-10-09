@@ -1,0 +1,20 @@
+{
+  "login": "antarts",
+  "id": 20819450,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/20819450?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/antarts",
+  "html_url": "https://github.com/antarts",
+  "followers_url": "https://api.github.com/users/antarts/followers",
+  "following_url": "https://api.github.com/users/antarts/following{/other_user}",
+  "gists_url": "https://api.github.com/users/antarts/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/antarts/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/antarts/subscriptions",
+  "organizations_url": "https://api.github.com/users/antarts/orgs",
+  "repos_url": "https://api.github.com/users/antarts/repos",
+  "events_url": "https://api.github.com/users/antarts/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/antarts/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

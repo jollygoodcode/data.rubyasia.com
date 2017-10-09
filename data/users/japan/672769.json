@@ -1,0 +1,20 @@
+{
+  "login": "patorash",
+  "id": 672769,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/672769?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/patorash",
+  "html_url": "https://github.com/patorash",
+  "followers_url": "https://api.github.com/users/patorash/followers",
+  "following_url": "https://api.github.com/users/patorash/following{/other_user}",
+  "gists_url": "https://api.github.com/users/patorash/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/patorash/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/patorash/subscriptions",
+  "organizations_url": "https://api.github.com/users/patorash/orgs",
+  "repos_url": "https://api.github.com/users/patorash/repos",
+  "events_url": "https://api.github.com/users/patorash/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/patorash/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

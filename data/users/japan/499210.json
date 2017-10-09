@@ -1,0 +1,20 @@
+{
+  "login": "tetran",
+  "id": 499210,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/499210?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tetran",
+  "html_url": "https://github.com/tetran",
+  "followers_url": "https://api.github.com/users/tetran/followers",
+  "following_url": "https://api.github.com/users/tetran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tetran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tetran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tetran/subscriptions",
+  "organizations_url": "https://api.github.com/users/tetran/orgs",
+  "repos_url": "https://api.github.com/users/tetran/repos",
+  "events_url": "https://api.github.com/users/tetran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tetran/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

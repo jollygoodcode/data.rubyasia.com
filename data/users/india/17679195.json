@@ -1,0 +1,20 @@
+{
+  "login": "bob2build",
+  "id": 17679195,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/17679195?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bob2build",
+  "html_url": "https://github.com/bob2build",
+  "followers_url": "https://api.github.com/users/bob2build/followers",
+  "following_url": "https://api.github.com/users/bob2build/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bob2build/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bob2build/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bob2build/subscriptions",
+  "organizations_url": "https://api.github.com/users/bob2build/orgs",
+  "repos_url": "https://api.github.com/users/bob2build/repos",
+  "events_url": "https://api.github.com/users/bob2build/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bob2build/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

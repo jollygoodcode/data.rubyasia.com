@@ -1,0 +1,20 @@
+{
+  "login": "tekina",
+  "id": 5358503,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5358503?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tekina",
+  "html_url": "https://github.com/tekina",
+  "followers_url": "https://api.github.com/users/tekina/followers",
+  "following_url": "https://api.github.com/users/tekina/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tekina/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tekina/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tekina/subscriptions",
+  "organizations_url": "https://api.github.com/users/tekina/orgs",
+  "repos_url": "https://api.github.com/users/tekina/repos",
+  "events_url": "https://api.github.com/users/tekina/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tekina/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

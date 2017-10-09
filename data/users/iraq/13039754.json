@@ -1,0 +1,20 @@
+{
+  "login": "eq0",
+  "id": 13039754,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13039754?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eq0",
+  "html_url": "https://github.com/eq0",
+  "followers_url": "https://api.github.com/users/eq0/followers",
+  "following_url": "https://api.github.com/users/eq0/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eq0/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eq0/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eq0/subscriptions",
+  "organizations_url": "https://api.github.com/users/eq0/orgs",
+  "repos_url": "https://api.github.com/users/eq0/repos",
+  "events_url": "https://api.github.com/users/eq0/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eq0/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
