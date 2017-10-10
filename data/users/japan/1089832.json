@@ -1,0 +1,20 @@
+{
+  "login": "aktsk",
+  "id": 1089832,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1089832?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aktsk",
+  "html_url": "https://github.com/aktsk",
+  "followers_url": "https://api.github.com/users/aktsk/followers",
+  "following_url": "https://api.github.com/users/aktsk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aktsk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aktsk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aktsk/subscriptions",
+  "organizations_url": "https://api.github.com/users/aktsk/orgs",
+  "repos_url": "https://api.github.com/users/aktsk/repos",
+  "events_url": "https://api.github.com/users/aktsk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aktsk/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

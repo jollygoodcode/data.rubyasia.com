@@ -1,0 +1,20 @@
+{
+  "login": "cuteneko",
+  "id": 13958782,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13958782?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cuteneko",
+  "html_url": "https://github.com/cuteneko",
+  "followers_url": "https://api.github.com/users/cuteneko/followers",
+  "following_url": "https://api.github.com/users/cuteneko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cuteneko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cuteneko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cuteneko/subscriptions",
+  "organizations_url": "https://api.github.com/users/cuteneko/orgs",
+  "repos_url": "https://api.github.com/users/cuteneko/repos",
+  "events_url": "https://api.github.com/users/cuteneko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cuteneko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

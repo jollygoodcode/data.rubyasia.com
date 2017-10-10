@@ -1,0 +1,20 @@
+{
+  "login": "tjoelsson",
+  "id": 2793514,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2793514?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tjoelsson",
+  "html_url": "https://github.com/tjoelsson",
+  "followers_url": "https://api.github.com/users/tjoelsson/followers",
+  "following_url": "https://api.github.com/users/tjoelsson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tjoelsson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tjoelsson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tjoelsson/subscriptions",
+  "organizations_url": "https://api.github.com/users/tjoelsson/orgs",
+  "repos_url": "https://api.github.com/users/tjoelsson/repos",
+  "events_url": "https://api.github.com/users/tjoelsson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tjoelsson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

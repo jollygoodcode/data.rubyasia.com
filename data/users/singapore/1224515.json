@@ -1,0 +1,20 @@
+{
+  "login": "fsperling",
+  "id": 1224515,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1224515?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fsperling",
+  "html_url": "https://github.com/fsperling",
+  "followers_url": "https://api.github.com/users/fsperling/followers",
+  "following_url": "https://api.github.com/users/fsperling/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fsperling/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fsperling/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fsperling/subscriptions",
+  "organizations_url": "https://api.github.com/users/fsperling/orgs",
+  "repos_url": "https://api.github.com/users/fsperling/repos",
+  "events_url": "https://api.github.com/users/fsperling/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fsperling/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

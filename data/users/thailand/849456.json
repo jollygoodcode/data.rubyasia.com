@@ -1,0 +1,20 @@
+{
+  "login": "marsiox",
+  "id": 849456,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/849456?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marsiox",
+  "html_url": "https://github.com/marsiox",
+  "followers_url": "https://api.github.com/users/marsiox/followers",
+  "following_url": "https://api.github.com/users/marsiox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marsiox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marsiox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marsiox/subscriptions",
+  "organizations_url": "https://api.github.com/users/marsiox/orgs",
+  "repos_url": "https://api.github.com/users/marsiox/repos",
+  "events_url": "https://api.github.com/users/marsiox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marsiox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

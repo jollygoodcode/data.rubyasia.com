@@ -1,0 +1,20 @@
+{
+  "login": "corselia",
+  "id": 14275619,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/14275619?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/corselia",
+  "html_url": "https://github.com/corselia",
+  "followers_url": "https://api.github.com/users/corselia/followers",
+  "following_url": "https://api.github.com/users/corselia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/corselia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/corselia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/corselia/subscriptions",
+  "organizations_url": "https://api.github.com/users/corselia/orgs",
+  "repos_url": "https://api.github.com/users/corselia/repos",
+  "events_url": "https://api.github.com/users/corselia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/corselia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

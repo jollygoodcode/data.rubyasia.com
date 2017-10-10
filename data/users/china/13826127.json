@@ -1,0 +1,20 @@
+{
+  "login": "MosTec",
+  "id": 13826127,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/13826127?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MosTec",
+  "html_url": "https://github.com/MosTec",
+  "followers_url": "https://api.github.com/users/MosTec/followers",
+  "following_url": "https://api.github.com/users/MosTec/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MosTec/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MosTec/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MosTec/subscriptions",
+  "organizations_url": "https://api.github.com/users/MosTec/orgs",
+  "repos_url": "https://api.github.com/users/MosTec/repos",
+  "events_url": "https://api.github.com/users/MosTec/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MosTec/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

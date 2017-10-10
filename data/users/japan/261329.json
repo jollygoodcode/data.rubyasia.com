@@ -1,0 +1,20 @@
+{
+  "login": "anakahala",
+  "id": 261329,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/261329?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anakahala",
+  "html_url": "https://github.com/anakahala",
+  "followers_url": "https://api.github.com/users/anakahala/followers",
+  "following_url": "https://api.github.com/users/anakahala/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anakahala/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anakahala/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anakahala/subscriptions",
+  "organizations_url": "https://api.github.com/users/anakahala/orgs",
+  "repos_url": "https://api.github.com/users/anakahala/repos",
+  "events_url": "https://api.github.com/users/anakahala/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anakahala/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

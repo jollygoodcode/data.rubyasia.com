@@ -1,0 +1,20 @@
+{
+  "login": "kennch",
+  "id": 5048683,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5048683?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kennch",
+  "html_url": "https://github.com/kennch",
+  "followers_url": "https://api.github.com/users/kennch/followers",
+  "following_url": "https://api.github.com/users/kennch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kennch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kennch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kennch/subscriptions",
+  "organizations_url": "https://api.github.com/users/kennch/orgs",
+  "repos_url": "https://api.github.com/users/kennch/repos",
+  "events_url": "https://api.github.com/users/kennch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kennch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
