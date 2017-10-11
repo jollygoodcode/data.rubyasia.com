@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-10-11 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-04..2017-10-10",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 15089,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "bahchis/airflow-cookbook",
+      "description": "Airflow workflow management platform chef cookbook.",
+      "html_url": "https://github.com/bahchis/airflow-cookbook",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
