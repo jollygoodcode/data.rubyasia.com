@@ -1,0 +1,20 @@
+{
+  "login": "akagisho",
+  "id": 606793,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/606793?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akagisho",
+  "html_url": "https://github.com/akagisho",
+  "followers_url": "https://api.github.com/users/akagisho/followers",
+  "following_url": "https://api.github.com/users/akagisho/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akagisho/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akagisho/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akagisho/subscriptions",
+  "organizations_url": "https://api.github.com/users/akagisho/orgs",
+  "repos_url": "https://api.github.com/users/akagisho/repos",
+  "events_url": "https://api.github.com/users/akagisho/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akagisho/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

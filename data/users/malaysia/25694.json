@@ -1,0 +1,20 @@
+{
+  "login": "lucaslew",
+  "id": 25694,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/25694?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lucaslew",
+  "html_url": "https://github.com/lucaslew",
+  "followers_url": "https://api.github.com/users/lucaslew/followers",
+  "following_url": "https://api.github.com/users/lucaslew/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lucaslew/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lucaslew/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lucaslew/subscriptions",
+  "organizations_url": "https://api.github.com/users/lucaslew/orgs",
+  "repos_url": "https://api.github.com/users/lucaslew/repos",
+  "events_url": "https://api.github.com/users/lucaslew/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lucaslew/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

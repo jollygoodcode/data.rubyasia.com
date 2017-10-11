@@ -1,0 +1,20 @@
+{
+  "login": "dvarun",
+  "id": 5650543,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5650543?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dvarun",
+  "html_url": "https://github.com/dvarun",
+  "followers_url": "https://api.github.com/users/dvarun/followers",
+  "following_url": "https://api.github.com/users/dvarun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dvarun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dvarun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dvarun/subscriptions",
+  "organizations_url": "https://api.github.com/users/dvarun/orgs",
+  "repos_url": "https://api.github.com/users/dvarun/repos",
+  "events_url": "https://api.github.com/users/dvarun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dvarun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "kadzuya",
+  "id": 107217,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/107217?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kadzuya",
+  "html_url": "https://github.com/kadzuya",
+  "followers_url": "https://api.github.com/users/kadzuya/followers",
+  "following_url": "https://api.github.com/users/kadzuya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kadzuya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kadzuya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kadzuya/subscriptions",
+  "organizations_url": "https://api.github.com/users/kadzuya/orgs",
+  "repos_url": "https://api.github.com/users/kadzuya/repos",
+  "events_url": "https://api.github.com/users/kadzuya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kadzuya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

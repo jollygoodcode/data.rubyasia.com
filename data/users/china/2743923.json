@@ -1,0 +1,20 @@
+{
+  "login": "cg122",
+  "id": 2743923,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2743923?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cg122",
+  "html_url": "https://github.com/cg122",
+  "followers_url": "https://api.github.com/users/cg122/followers",
+  "following_url": "https://api.github.com/users/cg122/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cg122/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cg122/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cg122/subscriptions",
+  "organizations_url": "https://api.github.com/users/cg122/orgs",
+  "repos_url": "https://api.github.com/users/cg122/repos",
+  "events_url": "https://api.github.com/users/cg122/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cg122/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "funcode",
+  "id": 1192662,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1192662?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/funcode",
+  "html_url": "https://github.com/funcode",
+  "followers_url": "https://api.github.com/users/funcode/followers",
+  "following_url": "https://api.github.com/users/funcode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/funcode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/funcode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/funcode/subscriptions",
+  "organizations_url": "https://api.github.com/users/funcode/orgs",
+  "repos_url": "https://api.github.com/users/funcode/repos",
+  "events_url": "https://api.github.com/users/funcode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/funcode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

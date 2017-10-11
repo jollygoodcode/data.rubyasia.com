@@ -1,0 +1,20 @@
+{
+  "login": "sozgur",
+  "id": 634004,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/634004?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sozgur",
+  "html_url": "https://github.com/sozgur",
+  "followers_url": "https://api.github.com/users/sozgur/followers",
+  "following_url": "https://api.github.com/users/sozgur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sozgur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sozgur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sozgur/subscriptions",
+  "organizations_url": "https://api.github.com/users/sozgur/orgs",
+  "repos_url": "https://api.github.com/users/sozgur/repos",
+  "events_url": "https://api.github.com/users/sozgur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sozgur/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

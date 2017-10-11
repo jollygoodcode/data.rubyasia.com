@@ -1,0 +1,20 @@
+{
+  "login": "waterblues",
+  "id": 20311186,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/20311186?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/waterblues",
+  "html_url": "https://github.com/waterblues",
+  "followers_url": "https://api.github.com/users/waterblues/followers",
+  "following_url": "https://api.github.com/users/waterblues/following{/other_user}",
+  "gists_url": "https://api.github.com/users/waterblues/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/waterblues/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/waterblues/subscriptions",
+  "organizations_url": "https://api.github.com/users/waterblues/orgs",
+  "repos_url": "https://api.github.com/users/waterblues/repos",
+  "events_url": "https://api.github.com/users/waterblues/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/waterblues/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

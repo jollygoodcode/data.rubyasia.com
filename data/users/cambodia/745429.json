@@ -1,0 +1,20 @@
+{
+  "login": "kakada",
+  "id": 745429,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/745429?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kakada",
+  "html_url": "https://github.com/kakada",
+  "followers_url": "https://api.github.com/users/kakada/followers",
+  "following_url": "https://api.github.com/users/kakada/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kakada/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kakada/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kakada/subscriptions",
+  "organizations_url": "https://api.github.com/users/kakada/orgs",
+  "repos_url": "https://api.github.com/users/kakada/repos",
+  "events_url": "https://api.github.com/users/kakada/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kakada/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
