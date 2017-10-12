@@ -1,0 +1,20 @@
+{
+  "login": "sasuga",
+  "id": 3725971,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3725971?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sasuga",
+  "html_url": "https://github.com/sasuga",
+  "followers_url": "https://api.github.com/users/sasuga/followers",
+  "following_url": "https://api.github.com/users/sasuga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sasuga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sasuga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sasuga/subscriptions",
+  "organizations_url": "https://api.github.com/users/sasuga/orgs",
+  "repos_url": "https://api.github.com/users/sasuga/repos",
+  "events_url": "https://api.github.com/users/sasuga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sasuga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

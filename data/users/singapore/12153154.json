@@ -1,0 +1,20 @@
+{
+  "login": "humjosh",
+  "id": 12153154,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/12153154?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/humjosh",
+  "html_url": "https://github.com/humjosh",
+  "followers_url": "https://api.github.com/users/humjosh/followers",
+  "following_url": "https://api.github.com/users/humjosh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/humjosh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/humjosh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/humjosh/subscriptions",
+  "organizations_url": "https://api.github.com/users/humjosh/orgs",
+  "repos_url": "https://api.github.com/users/humjosh/repos",
+  "events_url": "https://api.github.com/users/humjosh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/humjosh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

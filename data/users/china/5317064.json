@@ -1,0 +1,20 @@
+{
+  "login": "ArchFish",
+  "id": 5317064,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5317064?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ArchFish",
+  "html_url": "https://github.com/ArchFish",
+  "followers_url": "https://api.github.com/users/ArchFish/followers",
+  "following_url": "https://api.github.com/users/ArchFish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ArchFish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ArchFish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ArchFish/subscriptions",
+  "organizations_url": "https://api.github.com/users/ArchFish/orgs",
+  "repos_url": "https://api.github.com/users/ArchFish/repos",
+  "events_url": "https://api.github.com/users/ArchFish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ArchFish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

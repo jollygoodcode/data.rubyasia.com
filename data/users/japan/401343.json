@@ -1,0 +1,20 @@
+{
+  "login": "ckazu",
+  "id": 401343,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/401343?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ckazu",
+  "html_url": "https://github.com/ckazu",
+  "followers_url": "https://api.github.com/users/ckazu/followers",
+  "following_url": "https://api.github.com/users/ckazu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ckazu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ckazu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ckazu/subscriptions",
+  "organizations_url": "https://api.github.com/users/ckazu/orgs",
+  "repos_url": "https://api.github.com/users/ckazu/repos",
+  "events_url": "https://api.github.com/users/ckazu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ckazu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

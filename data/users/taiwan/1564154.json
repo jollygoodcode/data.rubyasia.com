@@ -1,0 +1,20 @@
+{
+  "login": "Sinya",
+  "id": 1564154,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1564154?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Sinya",
+  "html_url": "https://github.com/Sinya",
+  "followers_url": "https://api.github.com/users/Sinya/followers",
+  "following_url": "https://api.github.com/users/Sinya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Sinya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Sinya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Sinya/subscriptions",
+  "organizations_url": "https://api.github.com/users/Sinya/orgs",
+  "repos_url": "https://api.github.com/users/Sinya/repos",
+  "events_url": "https://api.github.com/users/Sinya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Sinya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
