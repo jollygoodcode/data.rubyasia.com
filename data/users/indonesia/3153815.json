@@ -1,0 +1,20 @@
+{
+  "login": "sevtigo",
+  "id": 3153815,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3153815?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sevtigo",
+  "html_url": "https://github.com/sevtigo",
+  "followers_url": "https://api.github.com/users/sevtigo/followers",
+  "following_url": "https://api.github.com/users/sevtigo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sevtigo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sevtigo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sevtigo/subscriptions",
+  "organizations_url": "https://api.github.com/users/sevtigo/orgs",
+  "repos_url": "https://api.github.com/users/sevtigo/repos",
+  "events_url": "https://api.github.com/users/sevtigo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sevtigo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

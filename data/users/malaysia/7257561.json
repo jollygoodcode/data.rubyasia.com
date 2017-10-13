@@ -1,0 +1,20 @@
+{
+  "login": "hewrin",
+  "id": 7257561,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7257561?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hewrin",
+  "html_url": "https://github.com/hewrin",
+  "followers_url": "https://api.github.com/users/hewrin/followers",
+  "following_url": "https://api.github.com/users/hewrin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hewrin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hewrin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hewrin/subscriptions",
+  "organizations_url": "https://api.github.com/users/hewrin/orgs",
+  "repos_url": "https://api.github.com/users/hewrin/repos",
+  "events_url": "https://api.github.com/users/hewrin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hewrin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
