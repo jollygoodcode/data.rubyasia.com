@@ -1,0 +1,20 @@
+{
+  "login": "tyb",
+  "id": 555358,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/555358?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tyb",
+  "html_url": "https://github.com/tyb",
+  "followers_url": "https://api.github.com/users/tyb/followers",
+  "following_url": "https://api.github.com/users/tyb/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tyb/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tyb/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tyb/subscriptions",
+  "organizations_url": "https://api.github.com/users/tyb/orgs",
+  "repos_url": "https://api.github.com/users/tyb/repos",
+  "events_url": "https://api.github.com/users/tyb/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tyb/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

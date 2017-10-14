@@ -1,0 +1,20 @@
+{
+  "login": "kimulab",
+  "id": 1823260,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1823260?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kimulab",
+  "html_url": "https://github.com/kimulab",
+  "followers_url": "https://api.github.com/users/kimulab/followers",
+  "following_url": "https://api.github.com/users/kimulab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kimulab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kimulab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kimulab/subscriptions",
+  "organizations_url": "https://api.github.com/users/kimulab/orgs",
+  "repos_url": "https://api.github.com/users/kimulab/repos",
+  "events_url": "https://api.github.com/users/kimulab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kimulab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
