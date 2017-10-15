@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-15 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-08..2017-10-14",
+  "repos": [
+    {
+      "full_name": "marjinal1st/medium-editor-rails",
+      "description": "Medium Editor integrated in Rails Asset Pipeline",
+      "html_url": "https://github.com/marjinal1st/medium-editor-rails",
+      "stars": 99,
+      "language": "Ruby",
+      "region": "Turkey"
+    },
+    {
+      "full_name": "rubytr/ruby-tr",
+      "description": "Ruby Türkiye Topluluk Sitesi",
+      "html_url": "https://github.com/rubytr/ruby-tr",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Turkey"
+    }
+  ]
+}
