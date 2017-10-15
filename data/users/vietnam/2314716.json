@@ -1,0 +1,20 @@
+{
+  "login": "scrum2b-admin",
+  "id": 2314716,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2314716?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/scrum2b-admin",
+  "html_url": "https://github.com/scrum2b-admin",
+  "followers_url": "https://api.github.com/users/scrum2b-admin/followers",
+  "following_url": "https://api.github.com/users/scrum2b-admin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/scrum2b-admin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/scrum2b-admin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/scrum2b-admin/subscriptions",
+  "organizations_url": "https://api.github.com/users/scrum2b-admin/orgs",
+  "repos_url": "https://api.github.com/users/scrum2b-admin/repos",
+  "events_url": "https://api.github.com/users/scrum2b-admin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/scrum2b-admin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

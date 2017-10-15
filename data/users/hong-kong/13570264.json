@@ -1,0 +1,20 @@
+{
+  "login": "madchun",
+  "id": 13570264,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/13570264?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/madchun",
+  "html_url": "https://github.com/madchun",
+  "followers_url": "https://api.github.com/users/madchun/followers",
+  "following_url": "https://api.github.com/users/madchun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/madchun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/madchun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/madchun/subscriptions",
+  "organizations_url": "https://api.github.com/users/madchun/orgs",
+  "repos_url": "https://api.github.com/users/madchun/repos",
+  "events_url": "https://api.github.com/users/madchun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/madchun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

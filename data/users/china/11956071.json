@@ -1,0 +1,20 @@
+{
+  "login": "seancheer",
+  "id": 11956071,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11956071?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seancheer",
+  "html_url": "https://github.com/seancheer",
+  "followers_url": "https://api.github.com/users/seancheer/followers",
+  "following_url": "https://api.github.com/users/seancheer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seancheer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seancheer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seancheer/subscriptions",
+  "organizations_url": "https://api.github.com/users/seancheer/orgs",
+  "repos_url": "https://api.github.com/users/seancheer/repos",
+  "events_url": "https://api.github.com/users/seancheer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seancheer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
