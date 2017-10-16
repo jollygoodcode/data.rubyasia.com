@@ -1,0 +1,20 @@
+{
+  "login": "yakel",
+  "id": 4366572,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4366572?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yakel",
+  "html_url": "https://github.com/yakel",
+  "followers_url": "https://api.github.com/users/yakel/followers",
+  "following_url": "https://api.github.com/users/yakel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yakel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yakel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yakel/subscriptions",
+  "organizations_url": "https://api.github.com/users/yakel/orgs",
+  "repos_url": "https://api.github.com/users/yakel/repos",
+  "events_url": "https://api.github.com/users/yakel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yakel/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

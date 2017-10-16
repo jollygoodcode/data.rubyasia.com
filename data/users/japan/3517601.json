@@ -1,0 +1,20 @@
+{
+  "login": "kehra",
+  "id": 3517601,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3517601?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kehra",
+  "html_url": "https://github.com/kehra",
+  "followers_url": "https://api.github.com/users/kehra/followers",
+  "following_url": "https://api.github.com/users/kehra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kehra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kehra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kehra/subscriptions",
+  "organizations_url": "https://api.github.com/users/kehra/orgs",
+  "repos_url": "https://api.github.com/users/kehra/repos",
+  "events_url": "https://api.github.com/users/kehra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kehra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

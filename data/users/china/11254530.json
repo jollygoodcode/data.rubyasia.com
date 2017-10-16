@@ -1,0 +1,20 @@
+{
+  "login": "zonshy",
+  "id": 11254530,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11254530?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zonshy",
+  "html_url": "https://github.com/zonshy",
+  "followers_url": "https://api.github.com/users/zonshy/followers",
+  "following_url": "https://api.github.com/users/zonshy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zonshy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zonshy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zonshy/subscriptions",
+  "organizations_url": "https://api.github.com/users/zonshy/orgs",
+  "repos_url": "https://api.github.com/users/zonshy/repos",
+  "events_url": "https://api.github.com/users/zonshy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zonshy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
