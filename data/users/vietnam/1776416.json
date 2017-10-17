@@ -1,0 +1,20 @@
+{
+  "login": "anvox",
+  "id": 1776416,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1776416?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/anvox",
+  "html_url": "https://github.com/anvox",
+  "followers_url": "https://api.github.com/users/anvox/followers",
+  "following_url": "https://api.github.com/users/anvox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/anvox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/anvox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/anvox/subscriptions",
+  "organizations_url": "https://api.github.com/users/anvox/orgs",
+  "repos_url": "https://api.github.com/users/anvox/repos",
+  "events_url": "https://api.github.com/users/anvox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/anvox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

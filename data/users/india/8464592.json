@@ -1,0 +1,20 @@
+{
+  "login": "fingerwarrior",
+  "id": 8464592,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8464592?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fingerwarrior",
+  "html_url": "https://github.com/fingerwarrior",
+  "followers_url": "https://api.github.com/users/fingerwarrior/followers",
+  "following_url": "https://api.github.com/users/fingerwarrior/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fingerwarrior/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fingerwarrior/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fingerwarrior/subscriptions",
+  "organizations_url": "https://api.github.com/users/fingerwarrior/orgs",
+  "repos_url": "https://api.github.com/users/fingerwarrior/repos",
+  "events_url": "https://api.github.com/users/fingerwarrior/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fingerwarrior/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

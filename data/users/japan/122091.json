@@ -1,0 +1,20 @@
+{
+  "login": "kbutti",
+  "id": 122091,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/122091?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kbutti",
+  "html_url": "https://github.com/kbutti",
+  "followers_url": "https://api.github.com/users/kbutti/followers",
+  "following_url": "https://api.github.com/users/kbutti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kbutti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kbutti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kbutti/subscriptions",
+  "organizations_url": "https://api.github.com/users/kbutti/orgs",
+  "repos_url": "https://api.github.com/users/kbutti/repos",
+  "events_url": "https://api.github.com/users/kbutti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kbutti/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

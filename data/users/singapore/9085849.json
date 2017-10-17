@@ -1,0 +1,20 @@
+{
+  "login": "bctoh",
+  "id": 9085849,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9085849?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bctoh",
+  "html_url": "https://github.com/bctoh",
+  "followers_url": "https://api.github.com/users/bctoh/followers",
+  "following_url": "https://api.github.com/users/bctoh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bctoh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bctoh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bctoh/subscriptions",
+  "organizations_url": "https://api.github.com/users/bctoh/orgs",
+  "repos_url": "https://api.github.com/users/bctoh/repos",
+  "events_url": "https://api.github.com/users/bctoh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bctoh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

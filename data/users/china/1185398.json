@@ -1,0 +1,20 @@
+{
+  "login": "pennyjs",
+  "id": 1185398,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1185398?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pennyjs",
+  "html_url": "https://github.com/pennyjs",
+  "followers_url": "https://api.github.com/users/pennyjs/followers",
+  "following_url": "https://api.github.com/users/pennyjs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pennyjs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pennyjs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pennyjs/subscriptions",
+  "organizations_url": "https://api.github.com/users/pennyjs/orgs",
+  "repos_url": "https://api.github.com/users/pennyjs/repos",
+  "events_url": "https://api.github.com/users/pennyjs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pennyjs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

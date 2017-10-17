@@ -1,0 +1,20 @@
+{
+  "login": "gizipp",
+  "id": 3817875,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3817875?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gizipp",
+  "html_url": "https://github.com/gizipp",
+  "followers_url": "https://api.github.com/users/gizipp/followers",
+  "following_url": "https://api.github.com/users/gizipp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gizipp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gizipp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gizipp/subscriptions",
+  "organizations_url": "https://api.github.com/users/gizipp/orgs",
+  "repos_url": "https://api.github.com/users/gizipp/repos",
+  "events_url": "https://api.github.com/users/gizipp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gizipp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

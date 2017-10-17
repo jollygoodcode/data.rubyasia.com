@@ -1,0 +1,20 @@
+{
+  "login": "karso",
+  "id": 5886644,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5886644?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/karso",
+  "html_url": "https://github.com/karso",
+  "followers_url": "https://api.github.com/users/karso/followers",
+  "following_url": "https://api.github.com/users/karso/following{/other_user}",
+  "gists_url": "https://api.github.com/users/karso/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/karso/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/karso/subscriptions",
+  "organizations_url": "https://api.github.com/users/karso/orgs",
+  "repos_url": "https://api.github.com/users/karso/repos",
+  "events_url": "https://api.github.com/users/karso/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/karso/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

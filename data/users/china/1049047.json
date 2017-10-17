@@ -1,0 +1,20 @@
+{
+  "login": "feir",
+  "id": 1049047,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1049047?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/feir",
+  "html_url": "https://github.com/feir",
+  "followers_url": "https://api.github.com/users/feir/followers",
+  "following_url": "https://api.github.com/users/feir/following{/other_user}",
+  "gists_url": "https://api.github.com/users/feir/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/feir/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/feir/subscriptions",
+  "organizations_url": "https://api.github.com/users/feir/orgs",
+  "repos_url": "https://api.github.com/users/feir/repos",
+  "events_url": "https://api.github.com/users/feir/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/feir/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

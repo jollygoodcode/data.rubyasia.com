@@ -1,0 +1,20 @@
+{
+  "login": "xra",
+  "id": 4919820,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4919820?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xra",
+  "html_url": "https://github.com/xra",
+  "followers_url": "https://api.github.com/users/xra/followers",
+  "following_url": "https://api.github.com/users/xra/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xra/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xra/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xra/subscriptions",
+  "organizations_url": "https://api.github.com/users/xra/orgs",
+  "repos_url": "https://api.github.com/users/xra/repos",
+  "events_url": "https://api.github.com/users/xra/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xra/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

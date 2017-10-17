@@ -1,0 +1,20 @@
+{
+  "login": "lunaimaginea",
+  "id": 32506821,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/32506821?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lunaimaginea",
+  "html_url": "https://github.com/lunaimaginea",
+  "followers_url": "https://api.github.com/users/lunaimaginea/followers",
+  "following_url": "https://api.github.com/users/lunaimaginea/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lunaimaginea/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lunaimaginea/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lunaimaginea/subscriptions",
+  "organizations_url": "https://api.github.com/users/lunaimaginea/orgs",
+  "repos_url": "https://api.github.com/users/lunaimaginea/repos",
+  "events_url": "https://api.github.com/users/lunaimaginea/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lunaimaginea/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
