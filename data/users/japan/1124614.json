@@ -1,0 +1,20 @@
+{
+  "login": "aoitaku",
+  "id": 1124614,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1124614?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aoitaku",
+  "html_url": "https://github.com/aoitaku",
+  "followers_url": "https://api.github.com/users/aoitaku/followers",
+  "following_url": "https://api.github.com/users/aoitaku/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aoitaku/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aoitaku/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aoitaku/subscriptions",
+  "organizations_url": "https://api.github.com/users/aoitaku/orgs",
+  "repos_url": "https://api.github.com/users/aoitaku/repos",
+  "events_url": "https://api.github.com/users/aoitaku/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aoitaku/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mftaff",
+  "id": 24872482,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/24872482?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mftaff",
+  "html_url": "https://github.com/mftaff",
+  "followers_url": "https://api.github.com/users/mftaff/followers",
+  "following_url": "https://api.github.com/users/mftaff/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mftaff/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mftaff/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mftaff/subscriptions",
+  "organizations_url": "https://api.github.com/users/mftaff/orgs",
+  "repos_url": "https://api.github.com/users/mftaff/repos",
+  "events_url": "https://api.github.com/users/mftaff/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mftaff/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

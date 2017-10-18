@@ -1,0 +1,20 @@
+{
+  "login": "plembeck",
+  "id": 11470198,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11470198?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plembeck",
+  "html_url": "https://github.com/plembeck",
+  "followers_url": "https://api.github.com/users/plembeck/followers",
+  "following_url": "https://api.github.com/users/plembeck/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plembeck/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plembeck/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plembeck/subscriptions",
+  "organizations_url": "https://api.github.com/users/plembeck/orgs",
+  "repos_url": "https://api.github.com/users/plembeck/repos",
+  "events_url": "https://api.github.com/users/plembeck/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plembeck/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "taqueci",
+  "id": 8342349,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8342349?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taqueci",
+  "html_url": "https://github.com/taqueci",
+  "followers_url": "https://api.github.com/users/taqueci/followers",
+  "following_url": "https://api.github.com/users/taqueci/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taqueci/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taqueci/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taqueci/subscriptions",
+  "organizations_url": "https://api.github.com/users/taqueci/orgs",
+  "repos_url": "https://api.github.com/users/taqueci/repos",
+  "events_url": "https://api.github.com/users/taqueci/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taqueci/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
