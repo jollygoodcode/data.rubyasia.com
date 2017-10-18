@@ -1,0 +1,238 @@
+{
+  "generated_at": "2017-10-18 08:11:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-11..2017-10-17",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 2093,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 1379,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 672,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "winebarrel/ridgepole",
+      "description": "Ridgepole is a tool to manage DB schema.  It defines DB schema using Rails DSL, and updates DB schema according to DSL. (like Chef/Puppet)",
+      "html_url": "https://github.com/winebarrel/ridgepole",
+      "stars": 485,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.3.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 291,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/jenkins-backup-script",
+      "description": "archive jenkins setting and plugins",
+      "html_url": "https://github.com/sue445/jenkins-backup-script",
+      "stars": 206,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 136,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/language_server-ruby",
+      "description": "A Ruby Language Server implementation",
+      "html_url": "https://github.com/mtsmfm/language_server-ruby",
+      "stars": 132,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "youchan/hyalite",
+      "description": "A Ruby implemented Virtual DOM in Opal",
+      "html_url": "https://github.com/youchan/hyalite",
+      "stars": 110,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/tapp",
+      "description": "tap { pp self }",
+      "html_url": "https://github.com/esminc/tapp",
+      "stars": 110,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 107,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/barbeque",
+      "description": "Job queue system to run job with Docker",
+      "html_url": "https://github.com/cookpad/barbeque",
+      "stars": 105,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hiki/hiki",
+      "description": "Hiki is a powerful and fast wiki clone written in Ruby.",
+      "html_url": "https://github.com/hiki/hiki",
+      "stars": 81,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "knu/ruby-unf",
+      "description": "A wrapper library to bring Unicode Normalization Form support to Ruby/JRuby",
+      "html_url": "https://github.com/knu/ruby-unf",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "makimoto/romaji",
+      "description": "Romaji-Kana transliterator",
+      "html_url": "https://github.com/makimoto/romaji",
+      "stars": 61,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "next-l/enju_leaf",
+      "description": "Next-L Enju Leaf 統合図書館管理システム / integrated library system http://enju.next-l.jp/",
+      "html_url": "https://github.com/next-l/enju_leaf",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/presentations",
+      "description": "The presentations of Cookpad staffs",
+      "html_url": "https://github.com/cookpad/presentations",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tomiacannondale/era_ja",
+      "description": "Convert to Japanese era",
+      "html_url": "https://github.com/tomiacannondale/era_ja",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tsuwatch/nazrin",
+      "description": "a Ruby wrapper of Amazon CloudSearch (aws-sdk), with ActiveRecord support for easy integration with your Rails application.",
+      "html_url": "https://github.com/tsuwatch/nazrin",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "skoba/openehr-ruby",
+      "description": "Ruby implementation of the openEHR specification",
+      "html_url": "https://github.com/skoba/openehr-ruby",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "keiju/reish",
+      "description": "Reish - Unix shell for rubyist",
+      "html_url": "https://github.com/keiju/reish",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "riseshia/cal4w",
+      "description": "Meetup Schedule calendar for WeirdMeetup",
+      "html_url": "https://github.com/riseshia/cal4w",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "codeout/junoser",
+      "description": "PEG parser for JUNOS configuration.",
+      "html_url": "https://github.com/codeout/junoser",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

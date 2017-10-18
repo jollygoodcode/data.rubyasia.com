@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-10-18 08:10:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-11..2017-10-17",
+  "repos": [
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "syhsyh9696/javlibrary-rails",
+      "description": "Elegant way to build your own javlibrary database.",
+      "html_url": "https://github.com/syhsyh9696/javlibrary-rails",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hlcfan/pokr",
+      "description": "Make agile estimating and planning easy with our online planning or scrum poker tool",
+      "html_url": "https://github.com/hlcfan/pokr",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
