@@ -1,0 +1,20 @@
+{
+  "login": "opensrc-org",
+  "id": 30374745,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/30374745?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/opensrc-org",
+  "html_url": "https://github.com/opensrc-org",
+  "followers_url": "https://api.github.com/users/opensrc-org/followers",
+  "following_url": "https://api.github.com/users/opensrc-org/following{/other_user}",
+  "gists_url": "https://api.github.com/users/opensrc-org/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/opensrc-org/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/opensrc-org/subscriptions",
+  "organizations_url": "https://api.github.com/users/opensrc-org/orgs",
+  "repos_url": "https://api.github.com/users/opensrc-org/repos",
+  "events_url": "https://api.github.com/users/opensrc-org/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/opensrc-org/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

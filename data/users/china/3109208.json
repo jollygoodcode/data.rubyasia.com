@@ -1,0 +1,20 @@
+{
+  "login": "Davidtsang",
+  "id": 3109208,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3109208?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Davidtsang",
+  "html_url": "https://github.com/Davidtsang",
+  "followers_url": "https://api.github.com/users/Davidtsang/followers",
+  "following_url": "https://api.github.com/users/Davidtsang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Davidtsang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Davidtsang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Davidtsang/subscriptions",
+  "organizations_url": "https://api.github.com/users/Davidtsang/orgs",
+  "repos_url": "https://api.github.com/users/Davidtsang/repos",
+  "events_url": "https://api.github.com/users/Davidtsang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Davidtsang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

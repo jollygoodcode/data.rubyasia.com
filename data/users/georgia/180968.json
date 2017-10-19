@@ -1,0 +1,20 @@
+{
+  "login": "kwbock",
+  "id": 180968,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/180968?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kwbock",
+  "html_url": "https://github.com/kwbock",
+  "followers_url": "https://api.github.com/users/kwbock/followers",
+  "following_url": "https://api.github.com/users/kwbock/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kwbock/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kwbock/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kwbock/subscriptions",
+  "organizations_url": "https://api.github.com/users/kwbock/orgs",
+  "repos_url": "https://api.github.com/users/kwbock/repos",
+  "events_url": "https://api.github.com/users/kwbock/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kwbock/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

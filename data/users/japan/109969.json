@@ -1,0 +1,20 @@
+{
+  "login": "yayohei",
+  "id": 109969,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/109969?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yayohei",
+  "html_url": "https://github.com/yayohei",
+  "followers_url": "https://api.github.com/users/yayohei/followers",
+  "following_url": "https://api.github.com/users/yayohei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yayohei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yayohei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yayohei/subscriptions",
+  "organizations_url": "https://api.github.com/users/yayohei/orgs",
+  "repos_url": "https://api.github.com/users/yayohei/repos",
+  "events_url": "https://api.github.com/users/yayohei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yayohei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
