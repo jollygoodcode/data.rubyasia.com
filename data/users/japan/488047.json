@@ -1,0 +1,20 @@
+{
+  "login": "mcfish",
+  "id": 488047,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/488047?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mcfish",
+  "html_url": "https://github.com/mcfish",
+  "followers_url": "https://api.github.com/users/mcfish/followers",
+  "following_url": "https://api.github.com/users/mcfish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mcfish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mcfish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mcfish/subscriptions",
+  "organizations_url": "https://api.github.com/users/mcfish/orgs",
+  "repos_url": "https://api.github.com/users/mcfish/repos",
+  "events_url": "https://api.github.com/users/mcfish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mcfish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sweadi",
+  "id": 96191,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/96191?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sweadi",
+  "html_url": "https://github.com/sweadi",
+  "followers_url": "https://api.github.com/users/sweadi/followers",
+  "following_url": "https://api.github.com/users/sweadi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sweadi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sweadi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sweadi/subscriptions",
+  "organizations_url": "https://api.github.com/users/sweadi/orgs",
+  "repos_url": "https://api.github.com/users/sweadi/repos",
+  "events_url": "https://api.github.com/users/sweadi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sweadi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

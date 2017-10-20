@@ -1,0 +1,20 @@
+{
+  "login": "shekhtman",
+  "id": 8742187,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8742187?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shekhtman",
+  "html_url": "https://github.com/shekhtman",
+  "followers_url": "https://api.github.com/users/shekhtman/followers",
+  "following_url": "https://api.github.com/users/shekhtman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shekhtman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shekhtman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shekhtman/subscriptions",
+  "organizations_url": "https://api.github.com/users/shekhtman/orgs",
+  "repos_url": "https://api.github.com/users/shekhtman/repos",
+  "events_url": "https://api.github.com/users/shekhtman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shekhtman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
