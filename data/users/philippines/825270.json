@@ -1,0 +1,20 @@
+{
+  "login": "EdLittle",
+  "id": 825270,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/825270?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/EdLittle",
+  "html_url": "https://github.com/EdLittle",
+  "followers_url": "https://api.github.com/users/EdLittle/followers",
+  "following_url": "https://api.github.com/users/EdLittle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/EdLittle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/EdLittle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/EdLittle/subscriptions",
+  "organizations_url": "https://api.github.com/users/EdLittle/orgs",
+  "repos_url": "https://api.github.com/users/EdLittle/repos",
+  "events_url": "https://api.github.com/users/EdLittle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/EdLittle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
