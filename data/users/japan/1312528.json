@@ -1,0 +1,20 @@
+{
+  "login": "orita",
+  "id": 1312528,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1312528?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/orita",
+  "html_url": "https://github.com/orita",
+  "followers_url": "https://api.github.com/users/orita/followers",
+  "following_url": "https://api.github.com/users/orita/following{/other_user}",
+  "gists_url": "https://api.github.com/users/orita/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/orita/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/orita/subscriptions",
+  "organizations_url": "https://api.github.com/users/orita/orgs",
+  "repos_url": "https://api.github.com/users/orita/repos",
+  "events_url": "https://api.github.com/users/orita/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/orita/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

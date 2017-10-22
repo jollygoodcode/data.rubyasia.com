@@ -1,0 +1,20 @@
+{
+  "login": "nof",
+  "id": 1901767,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1901767?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nof",
+  "html_url": "https://github.com/nof",
+  "followers_url": "https://api.github.com/users/nof/followers",
+  "following_url": "https://api.github.com/users/nof/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nof/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nof/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nof/subscriptions",
+  "organizations_url": "https://api.github.com/users/nof/orgs",
+  "repos_url": "https://api.github.com/users/nof/repos",
+  "events_url": "https://api.github.com/users/nof/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nof/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

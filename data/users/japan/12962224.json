@@ -1,0 +1,20 @@
+{
+  "login": "ryouzi",
+  "id": 12962224,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12962224?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryouzi",
+  "html_url": "https://github.com/ryouzi",
+  "followers_url": "https://api.github.com/users/ryouzi/followers",
+  "following_url": "https://api.github.com/users/ryouzi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryouzi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryouzi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryouzi/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryouzi/orgs",
+  "repos_url": "https://api.github.com/users/ryouzi/repos",
+  "events_url": "https://api.github.com/users/ryouzi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryouzi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

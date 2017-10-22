@@ -1,0 +1,20 @@
+{
+  "login": "Trigonoculus",
+  "id": 20501245,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20501245?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Trigonoculus",
+  "html_url": "https://github.com/Trigonoculus",
+  "followers_url": "https://api.github.com/users/Trigonoculus/followers",
+  "following_url": "https://api.github.com/users/Trigonoculus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Trigonoculus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Trigonoculus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Trigonoculus/subscriptions",
+  "organizations_url": "https://api.github.com/users/Trigonoculus/orgs",
+  "repos_url": "https://api.github.com/users/Trigonoculus/repos",
+  "events_url": "https://api.github.com/users/Trigonoculus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Trigonoculus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

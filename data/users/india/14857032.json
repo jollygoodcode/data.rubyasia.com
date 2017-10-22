@@ -1,0 +1,20 @@
+{
+  "login": "snagoor",
+  "id": 14857032,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/14857032?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/snagoor",
+  "html_url": "https://github.com/snagoor",
+  "followers_url": "https://api.github.com/users/snagoor/followers",
+  "following_url": "https://api.github.com/users/snagoor/following{/other_user}",
+  "gists_url": "https://api.github.com/users/snagoor/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/snagoor/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/snagoor/subscriptions",
+  "organizations_url": "https://api.github.com/users/snagoor/orgs",
+  "repos_url": "https://api.github.com/users/snagoor/repos",
+  "events_url": "https://api.github.com/users/snagoor/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/snagoor/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
