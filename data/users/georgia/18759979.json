@@ -1,0 +1,20 @@
+{
+  "login": "TechNerd1",
+  "id": 18759979,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/18759979?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TechNerd1",
+  "html_url": "https://github.com/TechNerd1",
+  "followers_url": "https://api.github.com/users/TechNerd1/followers",
+  "following_url": "https://api.github.com/users/TechNerd1/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TechNerd1/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TechNerd1/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TechNerd1/subscriptions",
+  "organizations_url": "https://api.github.com/users/TechNerd1/orgs",
+  "repos_url": "https://api.github.com/users/TechNerd1/repos",
+  "events_url": "https://api.github.com/users/TechNerd1/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TechNerd1/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
