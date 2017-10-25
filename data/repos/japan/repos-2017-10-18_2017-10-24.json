@@ -1,0 +1,262 @@
+{
+  "generated_at": "2017-10-25 08:11:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-18..2017-10-24",
+  "repos": [
+    {
+      "full_name": "mame/quine-relay",
+      "description": "An uroboros program with 100+ programming languages",
+      "html_url": "https://github.com/mame/quine-relay",
+      "stars": 6249,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3813,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/serverspec",
+      "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+      "html_url": "https://github.com/mizzy/serverspec",
+      "stars": 1991,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 1392,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 580,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 559,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mame/optcarrot",
+      "description": "A NES emulator written in Ruby",
+      "html_url": "https://github.com/mame/optcarrot",
+      "stars": 442,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/ruboty",
+      "description": "Ruby + Bot = Ruboty",
+      "html_url": "https://github.com/r7kamura/ruboty",
+      "stars": 376,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.3.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 293,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 244,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "giginet/xcprofiler",
+      "description": "CLI to profile compilation time of Swift project",
+      "html_url": "https://github.com/giginet/xcprofiler",
+      "stars": 212,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "willnet/gimei",
+      "description": "random Japanese name and address generator",
+      "html_url": "https://github.com/willnet/gimei",
+      "stars": 209,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/gem-src",
+      "description": "Gem.post_install { `git clone gem_source src` }",
+      "html_url": "https://github.com/amatsuda/gem-src",
+      "stars": 153,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/language_server-ruby",
+      "description": "A Ruby Language Server implementation",
+      "html_url": "https://github.com/mtsmfm/language_server-ruby",
+      "stars": 137,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 106,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/fb_graph2",
+      "description": null,
+      "html_url": "https://github.com/nov/fb_graph2",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/rubicure",
+      "description": "All about Japanese battle heroine \"Pretty Cure (Precure)\"",
+      "html_url": "https://github.com/sue445/rubicure",
+      "stars": 86,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hogelog/dmemo",
+      "description": null,
+      "html_url": "https://github.com/hogelog/dmemo",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "chiastolite/vagrant-itamae",
+      "description": null,
+      "html_url": "https://github.com/chiastolite/vagrant-itamae",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/jekyll-toc",
+      "description": "A liquid filter plugin for Jekyll which generates a table of contents.",
+      "html_url": "https://github.com/toshimaru/jekyll-toc",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rochefort/git-trend",
+      "description": "fetch Trending repository on github",
+      "html_url": "https://github.com/rochefort/git-trend",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/mry",
+      "description": "Mry Migrates .Rubocop.Yml",
+      "html_url": "https://github.com/pocke/mry",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "winebarrel/ddbcli",
+      "description": "ddbcli is an interactive command-line client of Amazon DynamoDB.",
+      "html_url": "https://github.com/winebarrel/ddbcli",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yaocloud/yao",
+      "description": "Yet Another OpenStack API wrapper",
+      "html_url": "https://github.com/yaocloud/yao",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "keiju/reish",
+      "description": "Reish - Unix shell for rubyist",
+      "html_url": "https://github.com/keiju/reish",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "rosylilly/ruboty-slack_rtm",
+      "description": "Slack(real time api) adapter for ruboty.",
+      "html_url": "https://github.com/rosylilly/ruboty-slack_rtm",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mrkn/matplotlib.rb",
+      "description": "matplotlib wrapper for Ruby",
+      "html_url": "https://github.com/mrkn/matplotlib.rb",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "codeout/junoser",
+      "description": "PEG parser for JUNOS configuration.",
+      "html_url": "https://github.com/codeout/junoser",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
