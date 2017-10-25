@@ -1,0 +1,20 @@
+{
+  "login": "hiro-kun",
+  "id": 11159659,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11159659?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hiro-kun",
+  "html_url": "https://github.com/hiro-kun",
+  "followers_url": "https://api.github.com/users/hiro-kun/followers",
+  "following_url": "https://api.github.com/users/hiro-kun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hiro-kun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hiro-kun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hiro-kun/subscriptions",
+  "organizations_url": "https://api.github.com/users/hiro-kun/orgs",
+  "repos_url": "https://api.github.com/users/hiro-kun/repos",
+  "events_url": "https://api.github.com/users/hiro-kun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hiro-kun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "smelamud",
+  "id": 1369041,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1369041?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/smelamud",
+  "html_url": "https://github.com/smelamud",
+  "followers_url": "https://api.github.com/users/smelamud/followers",
+  "following_url": "https://api.github.com/users/smelamud/following{/other_user}",
+  "gists_url": "https://api.github.com/users/smelamud/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/smelamud/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/smelamud/subscriptions",
+  "organizations_url": "https://api.github.com/users/smelamud/orgs",
+  "repos_url": "https://api.github.com/users/smelamud/repos",
+  "events_url": "https://api.github.com/users/smelamud/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/smelamud/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

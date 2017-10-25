@@ -1,0 +1,20 @@
+{
+  "login": "borori",
+  "id": 30886879,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/30886879?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/borori",
+  "html_url": "https://github.com/borori",
+  "followers_url": "https://api.github.com/users/borori/followers",
+  "following_url": "https://api.github.com/users/borori/following{/other_user}",
+  "gists_url": "https://api.github.com/users/borori/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/borori/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/borori/subscriptions",
+  "organizations_url": "https://api.github.com/users/borori/orgs",
+  "repos_url": "https://api.github.com/users/borori/repos",
+  "events_url": "https://api.github.com/users/borori/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/borori/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

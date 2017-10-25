@@ -1,0 +1,20 @@
+{
+  "login": "kentat",
+  "id": 839248,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/839248?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kentat",
+  "html_url": "https://github.com/kentat",
+  "followers_url": "https://api.github.com/users/kentat/followers",
+  "following_url": "https://api.github.com/users/kentat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kentat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kentat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kentat/subscriptions",
+  "organizations_url": "https://api.github.com/users/kentat/orgs",
+  "repos_url": "https://api.github.com/users/kentat/repos",
+  "events_url": "https://api.github.com/users/kentat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kentat/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "veracosta",
+  "id": 5159002,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5159002?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/veracosta",
+  "html_url": "https://github.com/veracosta",
+  "followers_url": "https://api.github.com/users/veracosta/followers",
+  "following_url": "https://api.github.com/users/veracosta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/veracosta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/veracosta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/veracosta/subscriptions",
+  "organizations_url": "https://api.github.com/users/veracosta/orgs",
+  "repos_url": "https://api.github.com/users/veracosta/repos",
+  "events_url": "https://api.github.com/users/veracosta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/veracosta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
