@@ -1,0 +1,20 @@
+{
+  "login": "shockby",
+  "id": 992552,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/992552?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shockby",
+  "html_url": "https://github.com/shockby",
+  "followers_url": "https://api.github.com/users/shockby/followers",
+  "following_url": "https://api.github.com/users/shockby/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shockby/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shockby/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shockby/subscriptions",
+  "organizations_url": "https://api.github.com/users/shockby/orgs",
+  "repos_url": "https://api.github.com/users/shockby/repos",
+  "events_url": "https://api.github.com/users/shockby/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shockby/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

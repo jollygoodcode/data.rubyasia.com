@@ -1,0 +1,20 @@
+{
+  "login": "trytook",
+  "id": 23339511,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/23339511?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/trytook",
+  "html_url": "https://github.com/trytook",
+  "followers_url": "https://api.github.com/users/trytook/followers",
+  "following_url": "https://api.github.com/users/trytook/following{/other_user}",
+  "gists_url": "https://api.github.com/users/trytook/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/trytook/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/trytook/subscriptions",
+  "organizations_url": "https://api.github.com/users/trytook/orgs",
+  "repos_url": "https://api.github.com/users/trytook/repos",
+  "events_url": "https://api.github.com/users/trytook/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/trytook/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

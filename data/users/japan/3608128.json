@@ -1,0 +1,20 @@
+{
+  "login": "ugai",
+  "id": 3608128,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3608128?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ugai",
+  "html_url": "https://github.com/ugai",
+  "followers_url": "https://api.github.com/users/ugai/followers",
+  "following_url": "https://api.github.com/users/ugai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ugai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ugai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ugai/subscriptions",
+  "organizations_url": "https://api.github.com/users/ugai/orgs",
+  "repos_url": "https://api.github.com/users/ugai/repos",
+  "events_url": "https://api.github.com/users/ugai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ugai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
