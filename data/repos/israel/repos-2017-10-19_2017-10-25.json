@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-10-26 08:11:35 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-19..2017-10-25",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 15321,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "plashchynski/crono",
+      "description": "A time-based background job scheduler daemon (just like Cron) for Rails",
+      "html_url": "https://github.com/plashchynski/crono",
+      "stars": 504,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "lbeder/health-monitor-rails",
+      "description": "A Rails plugin which provides a health checking and monitoring API of various services and application aspects.",
+      "html_url": "https://github.com/lbeder/health-monitor-rails",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
