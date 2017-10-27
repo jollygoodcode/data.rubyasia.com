@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-27 08:10:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-20..2017-10-26",
+  "repos": [
+    {
+      "full_name": "arunagw/omniauth-twitter",
+      "description": "OmniAuth strategy for Twitter",
+      "html_url": "https://github.com/arunagw/omniauth-twitter",
+      "stars": 500,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "ERPmine is an open source free ERP for Service Industries.  It runs within Redmine",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

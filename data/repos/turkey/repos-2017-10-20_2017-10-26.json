@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-27 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-20..2017-10-26",
+  "repos": [
+    {
+      "full_name": "marjinal1st/medium-editor-rails",
+      "description": "Medium Editor integrated in Rails Asset Pipeline",
+      "html_url": "https://github.com/marjinal1st/medium-editor-rails",
+      "stars": 99,
+      "language": "Ruby",
+      "region": "Turkey"
+    },
+    {
+      "full_name": "sbagdat/turkish_support",
+      "description": "Turkish character support for core ruby methods. ",
+      "html_url": "https://github.com/sbagdat/turkish_support",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "Turkey"
+    }
+  ]
+}
