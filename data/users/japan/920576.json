@@ -1,0 +1,20 @@
+{
+  "login": "mmagu",
+  "id": 920576,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/920576?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mmagu",
+  "html_url": "https://github.com/mmagu",
+  "followers_url": "https://api.github.com/users/mmagu/followers",
+  "following_url": "https://api.github.com/users/mmagu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mmagu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mmagu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mmagu/subscriptions",
+  "organizations_url": "https://api.github.com/users/mmagu/orgs",
+  "repos_url": "https://api.github.com/users/mmagu/repos",
+  "events_url": "https://api.github.com/users/mmagu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mmagu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

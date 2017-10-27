@@ -1,0 +1,20 @@
+{
+  "login": "awtian",
+  "id": 33123999,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/33123999?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/awtian",
+  "html_url": "https://github.com/awtian",
+  "followers_url": "https://api.github.com/users/awtian/followers",
+  "following_url": "https://api.github.com/users/awtian/following{/other_user}",
+  "gists_url": "https://api.github.com/users/awtian/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/awtian/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/awtian/subscriptions",
+  "organizations_url": "https://api.github.com/users/awtian/orgs",
+  "repos_url": "https://api.github.com/users/awtian/repos",
+  "events_url": "https://api.github.com/users/awtian/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/awtian/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

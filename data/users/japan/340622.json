@@ -1,0 +1,20 @@
+{
+  "login": "izawa",
+  "id": 340622,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/340622?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/izawa",
+  "html_url": "https://github.com/izawa",
+  "followers_url": "https://api.github.com/users/izawa/followers",
+  "following_url": "https://api.github.com/users/izawa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/izawa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/izawa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/izawa/subscriptions",
+  "organizations_url": "https://api.github.com/users/izawa/orgs",
+  "repos_url": "https://api.github.com/users/izawa/repos",
+  "events_url": "https://api.github.com/users/izawa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/izawa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
