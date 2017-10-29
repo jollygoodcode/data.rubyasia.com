@@ -1,0 +1,20 @@
+{
+  "login": "IAmPramod",
+  "id": 2184241,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2184241?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/IAmPramod",
+  "html_url": "https://github.com/IAmPramod",
+  "followers_url": "https://api.github.com/users/IAmPramod/followers",
+  "following_url": "https://api.github.com/users/IAmPramod/following{/other_user}",
+  "gists_url": "https://api.github.com/users/IAmPramod/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/IAmPramod/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/IAmPramod/subscriptions",
+  "organizations_url": "https://api.github.com/users/IAmPramod/orgs",
+  "repos_url": "https://api.github.com/users/IAmPramod/repos",
+  "events_url": "https://api.github.com/users/IAmPramod/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/IAmPramod/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

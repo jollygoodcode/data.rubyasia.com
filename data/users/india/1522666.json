@@ -1,0 +1,20 @@
+{
+  "login": "stormfire",
+  "id": 1522666,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1522666?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stormfire",
+  "html_url": "https://github.com/stormfire",
+  "followers_url": "https://api.github.com/users/stormfire/followers",
+  "following_url": "https://api.github.com/users/stormfire/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stormfire/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stormfire/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stormfire/subscriptions",
+  "organizations_url": "https://api.github.com/users/stormfire/orgs",
+  "repos_url": "https://api.github.com/users/stormfire/repos",
+  "events_url": "https://api.github.com/users/stormfire/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stormfire/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
