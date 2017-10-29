@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-29 08:10:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-22..2017-10-28",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 632,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "ERPmine is an open source free ERP for Service Industries.  It runs within Redmine",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
