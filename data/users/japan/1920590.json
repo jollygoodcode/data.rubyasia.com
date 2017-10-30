@@ -1,0 +1,20 @@
+{
+  "login": "kensantou",
+  "id": 1920590,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1920590?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kensantou",
+  "html_url": "https://github.com/kensantou",
+  "followers_url": "https://api.github.com/users/kensantou/followers",
+  "following_url": "https://api.github.com/users/kensantou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kensantou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kensantou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kensantou/subscriptions",
+  "organizations_url": "https://api.github.com/users/kensantou/orgs",
+  "repos_url": "https://api.github.com/users/kensantou/repos",
+  "events_url": "https://api.github.com/users/kensantou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kensantou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
