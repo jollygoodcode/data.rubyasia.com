@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-30 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-23..2017-10-29",
+  "repos": [
+    {
+      "full_name": "james2m/seedbank",
+      "description": "Seedbank gives your seed data a little structure. Create seeds for each environment, share seeds between environments and specify dependencies to load your seeds in order. All nicely integrated with simple rake tasks.",
+      "html_url": "https://github.com/james2m/seedbank",
+      "stars": 888,
+      "language": "Ruby",
+      "region": "Thailand"
+    },
+    {
+      "full_name": "citizen428/methodfinder",
+      "description": "A Smalltalk like Method Finder for Ruby",
+      "html_url": "https://github.com/citizen428/methodfinder",
+      "stars": 199,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}

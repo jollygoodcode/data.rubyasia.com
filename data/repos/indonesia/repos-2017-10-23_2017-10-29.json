@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-10-30 08:10:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-23..2017-10-29",
+  "repos": [
+    {
+      "full_name": "Paxa/light_record",
+      "description": "ActiveRecord extension to kick the speed of allocating ActiveRecord object",
+      "html_url": "https://github.com/Paxa/light_record",
+      "stars": 114,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "pboling/gem_bench",
+      "description": "Static Gemfile Analysis",
+      "html_url": "https://github.com/pboling/gem_bench",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}
