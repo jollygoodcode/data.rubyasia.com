@@ -1,0 +1,20 @@
+{
+  "login": "timotheos",
+  "id": 8765960,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8765960?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/timotheos",
+  "html_url": "https://github.com/timotheos",
+  "followers_url": "https://api.github.com/users/timotheos/followers",
+  "following_url": "https://api.github.com/users/timotheos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/timotheos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/timotheos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/timotheos/subscriptions",
+  "organizations_url": "https://api.github.com/users/timotheos/orgs",
+  "repos_url": "https://api.github.com/users/timotheos/repos",
+  "events_url": "https://api.github.com/users/timotheos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/timotheos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

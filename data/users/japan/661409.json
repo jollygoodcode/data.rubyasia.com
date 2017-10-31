@@ -1,0 +1,20 @@
+{
+  "login": "yste",
+  "id": 661409,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/661409?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yste",
+  "html_url": "https://github.com/yste",
+  "followers_url": "https://api.github.com/users/yste/followers",
+  "following_url": "https://api.github.com/users/yste/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yste/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yste/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yste/subscriptions",
+  "organizations_url": "https://api.github.com/users/yste/orgs",
+  "repos_url": "https://api.github.com/users/yste/repos",
+  "events_url": "https://api.github.com/users/yste/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yste/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

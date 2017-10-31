@@ -1,0 +1,20 @@
+{
+  "login": "m-saitou",
+  "id": 10075193,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10075193?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/m-saitou",
+  "html_url": "https://github.com/m-saitou",
+  "followers_url": "https://api.github.com/users/m-saitou/followers",
+  "following_url": "https://api.github.com/users/m-saitou/following{/other_user}",
+  "gists_url": "https://api.github.com/users/m-saitou/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/m-saitou/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/m-saitou/subscriptions",
+  "organizations_url": "https://api.github.com/users/m-saitou/orgs",
+  "repos_url": "https://api.github.com/users/m-saitou/repos",
+  "events_url": "https://api.github.com/users/m-saitou/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/m-saitou/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

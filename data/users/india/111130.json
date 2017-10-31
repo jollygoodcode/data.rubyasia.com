@@ -1,0 +1,20 @@
+{
+  "login": "razasayed",
+  "id": 111130,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/111130?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/razasayed",
+  "html_url": "https://github.com/razasayed",
+  "followers_url": "https://api.github.com/users/razasayed/followers",
+  "following_url": "https://api.github.com/users/razasayed/following{/other_user}",
+  "gists_url": "https://api.github.com/users/razasayed/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/razasayed/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/razasayed/subscriptions",
+  "organizations_url": "https://api.github.com/users/razasayed/orgs",
+  "repos_url": "https://api.github.com/users/razasayed/repos",
+  "events_url": "https://api.github.com/users/razasayed/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/razasayed/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
