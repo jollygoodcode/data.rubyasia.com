@@ -1,0 +1,20 @@
+{
+  "login": "onoff50",
+  "id": 1551611,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1551611?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/onoff50",
+  "html_url": "https://github.com/onoff50",
+  "followers_url": "https://api.github.com/users/onoff50/followers",
+  "following_url": "https://api.github.com/users/onoff50/following{/other_user}",
+  "gists_url": "https://api.github.com/users/onoff50/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/onoff50/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/onoff50/subscriptions",
+  "organizations_url": "https://api.github.com/users/onoff50/orgs",
+  "repos_url": "https://api.github.com/users/onoff50/repos",
+  "events_url": "https://api.github.com/users/onoff50/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/onoff50/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
