@@ -1,0 +1,20 @@
+{
+  "login": "oschreib",
+  "id": 7105897,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7105897?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oschreib",
+  "html_url": "https://github.com/oschreib",
+  "followers_url": "https://api.github.com/users/oschreib/followers",
+  "following_url": "https://api.github.com/users/oschreib/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oschreib/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oschreib/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oschreib/subscriptions",
+  "organizations_url": "https://api.github.com/users/oschreib/orgs",
+  "repos_url": "https://api.github.com/users/oschreib/repos",
+  "events_url": "https://api.github.com/users/oschreib/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oschreib/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

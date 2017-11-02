@@ -1,0 +1,20 @@
+{
+  "login": "Arpedia",
+  "id": 19776220,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/19776220?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Arpedia",
+  "html_url": "https://github.com/Arpedia",
+  "followers_url": "https://api.github.com/users/Arpedia/followers",
+  "following_url": "https://api.github.com/users/Arpedia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Arpedia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Arpedia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Arpedia/subscriptions",
+  "organizations_url": "https://api.github.com/users/Arpedia/orgs",
+  "repos_url": "https://api.github.com/users/Arpedia/repos",
+  "events_url": "https://api.github.com/users/Arpedia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Arpedia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

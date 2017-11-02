@@ -1,0 +1,20 @@
+{
+  "login": "CodingCatX",
+  "id": 1538579,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1538579?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/CodingCatX",
+  "html_url": "https://github.com/CodingCatX",
+  "followers_url": "https://api.github.com/users/CodingCatX/followers",
+  "following_url": "https://api.github.com/users/CodingCatX/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CodingCatX/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/CodingCatX/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CodingCatX/subscriptions",
+  "organizations_url": "https://api.github.com/users/CodingCatX/orgs",
+  "repos_url": "https://api.github.com/users/CodingCatX/repos",
+  "events_url": "https://api.github.com/users/CodingCatX/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/CodingCatX/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

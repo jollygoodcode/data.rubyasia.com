@@ -1,0 +1,20 @@
+{
+  "login": "occ-corp",
+  "id": 1026222,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1026222?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/occ-corp",
+  "html_url": "https://github.com/occ-corp",
+  "followers_url": "https://api.github.com/users/occ-corp/followers",
+  "following_url": "https://api.github.com/users/occ-corp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/occ-corp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/occ-corp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/occ-corp/subscriptions",
+  "organizations_url": "https://api.github.com/users/occ-corp/orgs",
+  "repos_url": "https://api.github.com/users/occ-corp/repos",
+  "events_url": "https://api.github.com/users/occ-corp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/occ-corp/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
