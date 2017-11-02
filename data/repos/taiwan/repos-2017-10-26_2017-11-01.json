@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-11-02 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-26..2017-11-01",
+  "repos": [
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "A tool for you easy to find the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 267,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

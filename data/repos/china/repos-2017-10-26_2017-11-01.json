@@ -1,0 +1,46 @@
+{
+  "generated_at": "2017-11-02 08:10:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-26..2017-11-01",
+  "repos": [
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 622,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 58,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "sishen/uber-ruby",
+      "description": "A Ruby Interface to the Uber API",
+      "html_url": "https://github.com/sishen/uber-ruby",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hlcfan/pokr",
+      "description": "Make agile estimating and planning easy with our online planning or scrum poker tool",
+      "html_url": "https://github.com/hlcfan/pokr",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
