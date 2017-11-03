@@ -1,0 +1,20 @@
+{
+  "login": "halchiyo",
+  "id": 1647961,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1647961?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/halchiyo",
+  "html_url": "https://github.com/halchiyo",
+  "followers_url": "https://api.github.com/users/halchiyo/followers",
+  "following_url": "https://api.github.com/users/halchiyo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/halchiyo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/halchiyo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/halchiyo/subscriptions",
+  "organizations_url": "https://api.github.com/users/halchiyo/orgs",
+  "repos_url": "https://api.github.com/users/halchiyo/repos",
+  "events_url": "https://api.github.com/users/halchiyo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/halchiyo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

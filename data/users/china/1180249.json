@@ -1,0 +1,20 @@
+{
+  "login": "lisnsh",
+  "id": 1180249,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1180249?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/lisnsh",
+  "html_url": "https://github.com/lisnsh",
+  "followers_url": "https://api.github.com/users/lisnsh/followers",
+  "following_url": "https://api.github.com/users/lisnsh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/lisnsh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/lisnsh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/lisnsh/subscriptions",
+  "organizations_url": "https://api.github.com/users/lisnsh/orgs",
+  "repos_url": "https://api.github.com/users/lisnsh/repos",
+  "events_url": "https://api.github.com/users/lisnsh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/lisnsh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

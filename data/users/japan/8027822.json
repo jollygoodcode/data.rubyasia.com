@@ -1,0 +1,20 @@
+{
+  "login": "muuto",
+  "id": 8027822,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/8027822?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/muuto",
+  "html_url": "https://github.com/muuto",
+  "followers_url": "https://api.github.com/users/muuto/followers",
+  "following_url": "https://api.github.com/users/muuto/following{/other_user}",
+  "gists_url": "https://api.github.com/users/muuto/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/muuto/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/muuto/subscriptions",
+  "organizations_url": "https://api.github.com/users/muuto/orgs",
+  "repos_url": "https://api.github.com/users/muuto/repos",
+  "events_url": "https://api.github.com/users/muuto/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/muuto/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
