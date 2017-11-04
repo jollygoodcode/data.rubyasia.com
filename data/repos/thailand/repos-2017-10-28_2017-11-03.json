@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-11-04 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-28..2017-11-03",
+  "repos": [
+    {
+      "full_name": "citizen428/methodfinder",
+      "description": "A Smalltalk like Method Finder for Ruby",
+      "html_url": "https://github.com/citizen428/methodfinder",
+      "stars": 199,
+      "language": "Ruby",
+      "region": "Thailand"
+    },
+    {
+      "full_name": "omise/omise-ruby",
+      "description": "Omise Ruby Library",
+      "html_url": "https://github.com/omise/omise-ruby",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}
