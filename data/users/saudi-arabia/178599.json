@@ -1,0 +1,20 @@
+{
+  "login": "mrCode",
+  "id": 178599,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/178599?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrCode",
+  "html_url": "https://github.com/mrCode",
+  "followers_url": "https://api.github.com/users/mrCode/followers",
+  "following_url": "https://api.github.com/users/mrCode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrCode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrCode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrCode/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrCode/orgs",
+  "repos_url": "https://api.github.com/users/mrCode/repos",
+  "events_url": "https://api.github.com/users/mrCode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrCode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

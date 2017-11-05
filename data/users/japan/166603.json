@@ -1,0 +1,20 @@
+{
+  "login": "tooru",
+  "id": 166603,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/166603?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tooru",
+  "html_url": "https://github.com/tooru",
+  "followers_url": "https://api.github.com/users/tooru/followers",
+  "following_url": "https://api.github.com/users/tooru/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tooru/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tooru/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tooru/subscriptions",
+  "organizations_url": "https://api.github.com/users/tooru/orgs",
+  "repos_url": "https://api.github.com/users/tooru/repos",
+  "events_url": "https://api.github.com/users/tooru/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tooru/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
