@@ -1,0 +1,20 @@
+{
+  "login": "VirginTech",
+  "id": 7164431,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/7164431?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/VirginTech",
+  "html_url": "https://github.com/VirginTech",
+  "followers_url": "https://api.github.com/users/VirginTech/followers",
+  "following_url": "https://api.github.com/users/VirginTech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/VirginTech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/VirginTech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/VirginTech/subscriptions",
+  "organizations_url": "https://api.github.com/users/VirginTech/orgs",
+  "repos_url": "https://api.github.com/users/VirginTech/repos",
+  "events_url": "https://api.github.com/users/VirginTech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/VirginTech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
