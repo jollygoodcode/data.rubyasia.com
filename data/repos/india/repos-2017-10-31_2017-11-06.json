@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-11-07 08:10:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-10-31..2017-11-06",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1243,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "anaynayak/aws-security-viz",
+      "description": "Visualize your aws security groups.",
+      "html_url": "https://github.com/anaynayak/aws-security-viz",
+      "stars": 189,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
