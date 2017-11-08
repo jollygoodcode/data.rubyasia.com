@@ -1,0 +1,20 @@
+{
+  "login": "hashimoton",
+  "id": 5894641,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5894641?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hashimoton",
+  "html_url": "https://github.com/hashimoton",
+  "followers_url": "https://api.github.com/users/hashimoton/followers",
+  "following_url": "https://api.github.com/users/hashimoton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hashimoton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hashimoton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hashimoton/subscriptions",
+  "organizations_url": "https://api.github.com/users/hashimoton/orgs",
+  "repos_url": "https://api.github.com/users/hashimoton/repos",
+  "events_url": "https://api.github.com/users/hashimoton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hashimoton/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
