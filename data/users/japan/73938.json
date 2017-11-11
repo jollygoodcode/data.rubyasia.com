@@ -1,0 +1,20 @@
+{
+  "login": "nilab",
+  "id": 73938,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/73938?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nilab",
+  "html_url": "https://github.com/nilab",
+  "followers_url": "https://api.github.com/users/nilab/followers",
+  "following_url": "https://api.github.com/users/nilab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nilab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nilab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nilab/subscriptions",
+  "organizations_url": "https://api.github.com/users/nilab/orgs",
+  "repos_url": "https://api.github.com/users/nilab/repos",
+  "events_url": "https://api.github.com/users/nilab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nilab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

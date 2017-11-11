@@ -1,0 +1,20 @@
+{
+  "login": "neilbryson",
+  "id": 10649516,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10649516?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/neilbryson",
+  "html_url": "https://github.com/neilbryson",
+  "followers_url": "https://api.github.com/users/neilbryson/followers",
+  "following_url": "https://api.github.com/users/neilbryson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/neilbryson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/neilbryson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/neilbryson/subscriptions",
+  "organizations_url": "https://api.github.com/users/neilbryson/orgs",
+  "repos_url": "https://api.github.com/users/neilbryson/repos",
+  "events_url": "https://api.github.com/users/neilbryson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/neilbryson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

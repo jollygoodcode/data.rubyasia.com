@@ -1,0 +1,20 @@
+{
+  "login": "graydot",
+  "id": 61547,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/61547?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/graydot",
+  "html_url": "https://github.com/graydot",
+  "followers_url": "https://api.github.com/users/graydot/followers",
+  "following_url": "https://api.github.com/users/graydot/following{/other_user}",
+  "gists_url": "https://api.github.com/users/graydot/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/graydot/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/graydot/subscriptions",
+  "organizations_url": "https://api.github.com/users/graydot/orgs",
+  "repos_url": "https://api.github.com/users/graydot/repos",
+  "events_url": "https://api.github.com/users/graydot/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/graydot/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
