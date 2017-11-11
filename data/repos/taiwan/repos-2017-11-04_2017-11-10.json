@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-11-11 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-04..2017-11-10",
+  "repos": [
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "A tool for you easy to find the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 279,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "hothero/wpdb_activerecord",
+      "description": "It's a wrapper for the WordPress database, using ActiveRecord.",
+      "html_url": "https://github.com/hothero/wpdb_activerecord",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
