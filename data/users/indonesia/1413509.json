@@ -1,0 +1,20 @@
+{
+  "login": "rifan",
+  "id": 1413509,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1413509?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rifan",
+  "html_url": "https://github.com/rifan",
+  "followers_url": "https://api.github.com/users/rifan/followers",
+  "following_url": "https://api.github.com/users/rifan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rifan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rifan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rifan/subscriptions",
+  "organizations_url": "https://api.github.com/users/rifan/orgs",
+  "repos_url": "https://api.github.com/users/rifan/repos",
+  "events_url": "https://api.github.com/users/rifan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rifan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
