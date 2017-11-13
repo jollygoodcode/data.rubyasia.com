@@ -1,0 +1,20 @@
+{
+  "login": "enkidoodles",
+  "id": 10890779,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10890779?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/enkidoodles",
+  "html_url": "https://github.com/enkidoodles",
+  "followers_url": "https://api.github.com/users/enkidoodles/followers",
+  "following_url": "https://api.github.com/users/enkidoodles/following{/other_user}",
+  "gists_url": "https://api.github.com/users/enkidoodles/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/enkidoodles/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/enkidoodles/subscriptions",
+  "organizations_url": "https://api.github.com/users/enkidoodles/orgs",
+  "repos_url": "https://api.github.com/users/enkidoodles/repos",
+  "events_url": "https://api.github.com/users/enkidoodles/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/enkidoodles/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

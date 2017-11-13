@@ -1,0 +1,20 @@
+{
+  "login": "leerset",
+  "id": 18276175,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/18276175?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leerset",
+  "html_url": "https://github.com/leerset",
+  "followers_url": "https://api.github.com/users/leerset/followers",
+  "following_url": "https://api.github.com/users/leerset/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leerset/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leerset/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leerset/subscriptions",
+  "organizations_url": "https://api.github.com/users/leerset/orgs",
+  "repos_url": "https://api.github.com/users/leerset/repos",
+  "events_url": "https://api.github.com/users/leerset/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leerset/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
