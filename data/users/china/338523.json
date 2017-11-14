@@ -1,0 +1,20 @@
+{
+  "login": "foxban",
+  "id": 338523,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/338523?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/foxban",
+  "html_url": "https://github.com/foxban",
+  "followers_url": "https://api.github.com/users/foxban/followers",
+  "following_url": "https://api.github.com/users/foxban/following{/other_user}",
+  "gists_url": "https://api.github.com/users/foxban/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/foxban/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/foxban/subscriptions",
+  "organizations_url": "https://api.github.com/users/foxban/orgs",
+  "repos_url": "https://api.github.com/users/foxban/repos",
+  "events_url": "https://api.github.com/users/foxban/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/foxban/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
