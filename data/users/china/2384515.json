@@ -1,0 +1,20 @@
+{
+  "login": "dalezhang",
+  "id": 2384515,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2384515?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dalezhang",
+  "html_url": "https://github.com/dalezhang",
+  "followers_url": "https://api.github.com/users/dalezhang/followers",
+  "following_url": "https://api.github.com/users/dalezhang/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dalezhang/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dalezhang/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dalezhang/subscriptions",
+  "organizations_url": "https://api.github.com/users/dalezhang/orgs",
+  "repos_url": "https://api.github.com/users/dalezhang/repos",
+  "events_url": "https://api.github.com/users/dalezhang/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dalezhang/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

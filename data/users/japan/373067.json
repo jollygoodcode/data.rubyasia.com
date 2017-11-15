@@ -1,0 +1,20 @@
+{
+  "login": "helloinc",
+  "id": 373067,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/373067?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/helloinc",
+  "html_url": "https://github.com/helloinc",
+  "followers_url": "https://api.github.com/users/helloinc/followers",
+  "following_url": "https://api.github.com/users/helloinc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/helloinc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/helloinc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/helloinc/subscriptions",
+  "organizations_url": "https://api.github.com/users/helloinc/orgs",
+  "repos_url": "https://api.github.com/users/helloinc/repos",
+  "events_url": "https://api.github.com/users/helloinc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/helloinc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
