@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-11-15 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-08..2017-11-14",
+  "repos": [
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "A tool for you easy to find the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 283,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provides powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
