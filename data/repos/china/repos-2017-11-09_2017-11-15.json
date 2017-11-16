@@ -1,0 +1,62 @@
+{
+  "generated_at": "2017-11-16 08:10:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-09..2017-11-15",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4856,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Macrow/rails_kindeditor",
+      "description": "Kindeditor for Ruby on Rails",
+      "html_url": "https://github.com/Macrow/rails_kindeditor",
+      "stars": 253,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/uniform_notifier",
+      "description": "uniform notifier for rails logger, customized logger, javascript alert, javascript console, growl and xmpp",
+      "html_url": "https://github.com/flyerhzm/uniform_notifier",
+      "stars": 159,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 60,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "syhsyh9696/javlibrary-rails",
+      "description": "Elegant way to build your own javlibrary database.",
+      "html_url": "https://github.com/syhsyh9696/javlibrary-rails",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
