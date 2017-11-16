@@ -1,0 +1,20 @@
+{
+  "login": "isuke",
+  "id": 6189067,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6189067?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/isuke",
+  "html_url": "https://github.com/isuke",
+  "followers_url": "https://api.github.com/users/isuke/followers",
+  "following_url": "https://api.github.com/users/isuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/isuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/isuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/isuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/isuke/orgs",
+  "repos_url": "https://api.github.com/users/isuke/repos",
+  "events_url": "https://api.github.com/users/isuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/isuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

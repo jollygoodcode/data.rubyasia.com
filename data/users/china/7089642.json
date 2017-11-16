@@ -1,0 +1,20 @@
+{
+  "login": "ohimy",
+  "id": 7089642,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/7089642?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ohimy",
+  "html_url": "https://github.com/ohimy",
+  "followers_url": "https://api.github.com/users/ohimy/followers",
+  "following_url": "https://api.github.com/users/ohimy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ohimy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ohimy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ohimy/subscriptions",
+  "organizations_url": "https://api.github.com/users/ohimy/orgs",
+  "repos_url": "https://api.github.com/users/ohimy/repos",
+  "events_url": "https://api.github.com/users/ohimy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ohimy/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

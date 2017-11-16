@@ -1,0 +1,20 @@
+{
+  "login": "xuanchien",
+  "id": 1203702,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1203702?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/xuanchien",
+  "html_url": "https://github.com/xuanchien",
+  "followers_url": "https://api.github.com/users/xuanchien/followers",
+  "following_url": "https://api.github.com/users/xuanchien/following{/other_user}",
+  "gists_url": "https://api.github.com/users/xuanchien/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/xuanchien/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/xuanchien/subscriptions",
+  "organizations_url": "https://api.github.com/users/xuanchien/orgs",
+  "repos_url": "https://api.github.com/users/xuanchien/repos",
+  "events_url": "https://api.github.com/users/xuanchien/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/xuanchien/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "zooboa",
+  "id": 1637747,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1637747?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zooboa",
+  "html_url": "https://github.com/zooboa",
+  "followers_url": "https://api.github.com/users/zooboa/followers",
+  "following_url": "https://api.github.com/users/zooboa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zooboa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zooboa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zooboa/subscriptions",
+  "organizations_url": "https://api.github.com/users/zooboa/orgs",
+  "repos_url": "https://api.github.com/users/zooboa/repos",
+  "events_url": "https://api.github.com/users/zooboa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zooboa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

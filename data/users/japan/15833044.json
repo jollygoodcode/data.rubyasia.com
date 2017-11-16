@@ -1,0 +1,20 @@
+{
+  "login": "sakaihi",
+  "id": 15833044,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/15833044?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sakaihi",
+  "html_url": "https://github.com/sakaihi",
+  "followers_url": "https://api.github.com/users/sakaihi/followers",
+  "following_url": "https://api.github.com/users/sakaihi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sakaihi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sakaihi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sakaihi/subscriptions",
+  "organizations_url": "https://api.github.com/users/sakaihi/orgs",
+  "repos_url": "https://api.github.com/users/sakaihi/repos",
+  "events_url": "https://api.github.com/users/sakaihi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sakaihi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

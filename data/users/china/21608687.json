@@ -1,0 +1,20 @@
+{
+  "login": "codingOnGithub",
+  "id": 21608687,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/21608687?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codingOnGithub",
+  "html_url": "https://github.com/codingOnGithub",
+  "followers_url": "https://api.github.com/users/codingOnGithub/followers",
+  "following_url": "https://api.github.com/users/codingOnGithub/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codingOnGithub/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codingOnGithub/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codingOnGithub/subscriptions",
+  "organizations_url": "https://api.github.com/users/codingOnGithub/orgs",
+  "repos_url": "https://api.github.com/users/codingOnGithub/repos",
+  "events_url": "https://api.github.com/users/codingOnGithub/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codingOnGithub/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
