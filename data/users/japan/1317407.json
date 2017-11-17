@@ -1,0 +1,20 @@
+{
+  "login": "mzsima",
+  "id": 1317407,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1317407?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mzsima",
+  "html_url": "https://github.com/mzsima",
+  "followers_url": "https://api.github.com/users/mzsima/followers",
+  "following_url": "https://api.github.com/users/mzsima/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mzsima/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mzsima/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mzsima/subscriptions",
+  "organizations_url": "https://api.github.com/users/mzsima/orgs",
+  "repos_url": "https://api.github.com/users/mzsima/repos",
+  "events_url": "https://api.github.com/users/mzsima/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mzsima/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

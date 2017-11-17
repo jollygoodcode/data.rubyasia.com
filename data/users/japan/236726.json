@@ -1,0 +1,20 @@
+{
+  "login": "mdoi",
+  "id": 236726,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/236726?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mdoi",
+  "html_url": "https://github.com/mdoi",
+  "followers_url": "https://api.github.com/users/mdoi/followers",
+  "following_url": "https://api.github.com/users/mdoi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mdoi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mdoi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mdoi/subscriptions",
+  "organizations_url": "https://api.github.com/users/mdoi/orgs",
+  "repos_url": "https://api.github.com/users/mdoi/repos",
+  "events_url": "https://api.github.com/users/mdoi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mdoi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

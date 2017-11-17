@@ -1,0 +1,20 @@
+{
+  "login": "bigbinary",
+  "id": 780670,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/780670?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bigbinary",
+  "html_url": "https://github.com/bigbinary",
+  "followers_url": "https://api.github.com/users/bigbinary/followers",
+  "following_url": "https://api.github.com/users/bigbinary/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bigbinary/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bigbinary/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bigbinary/subscriptions",
+  "organizations_url": "https://api.github.com/users/bigbinary/orgs",
+  "repos_url": "https://api.github.com/users/bigbinary/repos",
+  "events_url": "https://api.github.com/users/bigbinary/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bigbinary/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
