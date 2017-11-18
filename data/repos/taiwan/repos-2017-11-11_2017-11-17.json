@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-11-18 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-11..2017-11-17",
+  "repos": [
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provides powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "hothero/wpdb_activerecord",
+      "description": "It's a wrapper for the WordPress database, using ActiveRecord.",
+      "html_url": "https://github.com/hothero/wpdb_activerecord",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
