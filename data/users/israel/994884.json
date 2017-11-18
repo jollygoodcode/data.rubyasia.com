@@ -1,0 +1,20 @@
+{
+  "login": "ubar-on",
+  "id": 994884,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/994884?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ubar-on",
+  "html_url": "https://github.com/ubar-on",
+  "followers_url": "https://api.github.com/users/ubar-on/followers",
+  "following_url": "https://api.github.com/users/ubar-on/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ubar-on/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ubar-on/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ubar-on/subscriptions",
+  "organizations_url": "https://api.github.com/users/ubar-on/orgs",
+  "repos_url": "https://api.github.com/users/ubar-on/repos",
+  "events_url": "https://api.github.com/users/ubar-on/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ubar-on/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
