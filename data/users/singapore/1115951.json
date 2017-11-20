@@ -1,0 +1,20 @@
+{
+  "login": "brilyuhns",
+  "id": 1115951,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1115951?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brilyuhns",
+  "html_url": "https://github.com/brilyuhns",
+  "followers_url": "https://api.github.com/users/brilyuhns/followers",
+  "following_url": "https://api.github.com/users/brilyuhns/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brilyuhns/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brilyuhns/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brilyuhns/subscriptions",
+  "organizations_url": "https://api.github.com/users/brilyuhns/orgs",
+  "repos_url": "https://api.github.com/users/brilyuhns/repos",
+  "events_url": "https://api.github.com/users/brilyuhns/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brilyuhns/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
