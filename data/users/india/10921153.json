@@ -1,0 +1,20 @@
+{
+  "login": "coderdba",
+  "id": 10921153,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10921153?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/coderdba",
+  "html_url": "https://github.com/coderdba",
+  "followers_url": "https://api.github.com/users/coderdba/followers",
+  "following_url": "https://api.github.com/users/coderdba/following{/other_user}",
+  "gists_url": "https://api.github.com/users/coderdba/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/coderdba/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/coderdba/subscriptions",
+  "organizations_url": "https://api.github.com/users/coderdba/orgs",
+  "repos_url": "https://api.github.com/users/coderdba/repos",
+  "events_url": "https://api.github.com/users/coderdba/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/coderdba/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
