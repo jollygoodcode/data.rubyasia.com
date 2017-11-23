@@ -1,0 +1,20 @@
+{
+  "login": "simgesen",
+  "id": 15477899,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/15477899?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simgesen",
+  "html_url": "https://github.com/simgesen",
+  "followers_url": "https://api.github.com/users/simgesen/followers",
+  "following_url": "https://api.github.com/users/simgesen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simgesen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simgesen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simgesen/subscriptions",
+  "organizations_url": "https://api.github.com/users/simgesen/orgs",
+  "repos_url": "https://api.github.com/users/simgesen/repos",
+  "events_url": "https://api.github.com/users/simgesen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simgesen/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
