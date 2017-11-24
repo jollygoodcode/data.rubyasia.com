@@ -1,0 +1,174 @@
+{
+  "generated_at": "2017-11-24 08:11:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-17..2017-11-23",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 2117,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 1270,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "winebarrel/ridgepole",
+      "description": "Ridgepole is a tool to manage DB schema.  It defines DB schema using Rails DSL, and updates DB schema according to DSL. (like Chef/Puppet)",
+      "html_url": "https://github.com/winebarrel/ridgepole",
+      "stars": 496,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.3.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 302,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 274,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/language_server-ruby",
+      "description": "A Ruby Language Server implementation",
+      "html_url": "https://github.com/mtsmfm/language_server-ruby",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/fb_graph2",
+      "description": null,
+      "html_url": "https://github.com/nov/fb_graph2",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hogelog/dmemo",
+      "description": null,
+      "html_url": "https://github.com/hogelog/dmemo",
+      "stars": 81,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "simukappu/activity_notification",
+      "description": "Integrated user activity notifications for Ruby on Rails",
+      "html_url": "https://github.com/simukappu/activity_notification",
+      "stars": 58,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masutaka/circleci-bundle-update-pr",
+      "description": "Create PullRequest of bundle update in CircleCI",
+      "html_url": "https://github.com/masutaka/circleci-bundle-update-pr",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ochko/markdoc",
+      "description": "Markdown with support for pseudocode to flowchart and sequence diagram generation",
+      "html_url": "https://github.com/ochko/markdoc",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinosakarb/tebukuro",
+      "description": "Build communities and ticketing",
+      "html_url": "https://github.com/shinosakarb/tebukuro",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/rapa",
+      "description": "An API client library for Amazon Product Advertising API, written in Ruby.",
+      "html_url": "https://github.com/r7kamura/rapa",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinsaka/fluent-plugin-elb-log",
+      "description": "Amazon ELB log input plugin",
+      "html_url": "https://github.com/shinsaka/fluent-plugin-elb-log",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "keiju/reish",
+      "description": "Reish - Unix shell for rubyist",
+      "html_url": "https://github.com/keiju/reish",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
