@@ -1,0 +1,20 @@
+{
+  "login": "aluminous",
+  "id": 1480234,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1480234?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aluminous",
+  "html_url": "https://github.com/aluminous",
+  "followers_url": "https://api.github.com/users/aluminous/followers",
+  "following_url": "https://api.github.com/users/aluminous/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aluminous/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aluminous/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aluminous/subscriptions",
+  "organizations_url": "https://api.github.com/users/aluminous/orgs",
+  "repos_url": "https://api.github.com/users/aluminous/repos",
+  "events_url": "https://api.github.com/users/aluminous/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aluminous/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
