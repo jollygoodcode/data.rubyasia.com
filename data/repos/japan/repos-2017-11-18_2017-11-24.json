@@ -1,0 +1,182 @@
+{
+  "generated_at": "2017-11-25 08:11:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-18..2017-11-24",
+  "repos": [
+    {
+      "full_name": "sorah/mamiya",
+      "description": "Faster deploy tool using tarballs and serf",
+      "html_url": "https://github.com/sorah/mamiya",
+      "stars": 477,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 274,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/language_server-ruby",
+      "description": "A Ruby Language Server implementation",
+      "html_url": "https://github.com/mtsmfm/language_server-ruby",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "eagletmt/hako",
+      "description": "Deploy Docker container",
+      "html_url": "https://github.com/eagletmt/hako",
+      "stars": 151,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/waker",
+      "description": "Wake someone up!",
+      "html_url": "https://github.com/ryotarai/waker",
+      "stars": 111,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "whiteleaf7/narou",
+      "description": "Narou.rb ― 「小説家になろう」等の小説を管理・電子書籍に変換するアプリケーション",
+      "html_url": "https://github.com/whiteleaf7/narou",
+      "stars": 106,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/fb_graph2",
+      "description": null,
+      "html_url": "https://github.com/nov/fb_graph2",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hogelog/dmemo",
+      "description": null,
+      "html_url": "https://github.com/hogelog/dmemo",
+      "stars": 81,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/querly",
+      "description": "Query Method Calls from Ruby Programs",
+      "html_url": "https://github.com/soutaro/querly",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "simukappu/activity_notification",
+      "description": "Integrated user activity notifications for Ruby on Rails",
+      "html_url": "https://github.com/simukappu/activity_notification",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ochko/markdoc",
+      "description": "Markdown with support for pseudocode to flowchart and sequence diagram generation",
+      "html_url": "https://github.com/ochko/markdoc",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "udzura/rack-block",
+      "description": "A rack middleware for handling search bot access, ip block, etc.",
+      "html_url": "https://github.com/udzura/rack-block",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinosakarb/tebukuro",
+      "description": "Build communities and ticketing",
+      "html_url": "https://github.com/shinosakarb/tebukuro",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/rapa",
+      "description": "An API client library for Amazon Product Advertising API, written in Ruby.",
+      "html_url": "https://github.com/r7kamura/rapa",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinsaka/fluent-plugin-elb-log",
+      "description": "Amazon ELB log input plugin",
+      "html_url": "https://github.com/shinsaka/fluent-plugin-elb-log",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "keiju/reish",
+      "description": "Reish - Unix shell for rubyist",
+      "html_url": "https://github.com/keiju/reish",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
