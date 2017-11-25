@@ -1,0 +1,20 @@
+{
+  "login": "naberon",
+  "id": 132741,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/132741?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/naberon",
+  "html_url": "https://github.com/naberon",
+  "followers_url": "https://api.github.com/users/naberon/followers",
+  "following_url": "https://api.github.com/users/naberon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/naberon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/naberon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/naberon/subscriptions",
+  "organizations_url": "https://api.github.com/users/naberon/orgs",
+  "repos_url": "https://api.github.com/users/naberon/repos",
+  "events_url": "https://api.github.com/users/naberon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/naberon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

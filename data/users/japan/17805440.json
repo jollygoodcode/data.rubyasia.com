@@ -1,0 +1,20 @@
+{
+  "login": "yogoken",
+  "id": 17805440,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/17805440?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yogoken",
+  "html_url": "https://github.com/yogoken",
+  "followers_url": "https://api.github.com/users/yogoken/followers",
+  "following_url": "https://api.github.com/users/yogoken/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yogoken/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yogoken/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yogoken/subscriptions",
+  "organizations_url": "https://api.github.com/users/yogoken/orgs",
+  "repos_url": "https://api.github.com/users/yogoken/repos",
+  "events_url": "https://api.github.com/users/yogoken/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yogoken/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
