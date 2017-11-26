@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-11-26 08:10:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-19..2017-11-25",
+  "repos": [
+    {
+      "full_name": "pboling/cacheable-flash",
+      "description": "Gets the Rails flash object working with page cacheing.",
+      "html_url": "https://github.com/pboling/cacheable-flash",
+      "stars": 103,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}

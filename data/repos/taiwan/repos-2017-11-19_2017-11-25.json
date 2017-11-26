@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-11-26 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-19..2017-11-25",
+  "repos": [
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provides powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 61,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "hothero/wpdb_activerecord",
+      "description": "It's a wrapper for the WordPress database, using ActiveRecord.",
+      "html_url": "https://github.com/hothero/wpdb_activerecord",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "joshua5201/tioj",
+      "description": "TIOJ Infor Online Judge",
+      "html_url": "https://github.com/joshua5201/tioj",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "lulalala/adequate_errors",
+      "description": "Overcoming limitation of Rails model errors API",
+      "html_url": "https://github.com/lulalala/adequate_errors",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
