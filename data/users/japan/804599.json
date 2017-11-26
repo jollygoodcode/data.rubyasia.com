@@ -1,0 +1,20 @@
+{
+  "login": "codehm",
+  "id": 804599,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/804599?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codehm",
+  "html_url": "https://github.com/codehm",
+  "followers_url": "https://api.github.com/users/codehm/followers",
+  "following_url": "https://api.github.com/users/codehm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codehm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codehm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codehm/subscriptions",
+  "organizations_url": "https://api.github.com/users/codehm/orgs",
+  "repos_url": "https://api.github.com/users/codehm/repos",
+  "events_url": "https://api.github.com/users/codehm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codehm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
