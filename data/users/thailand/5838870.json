@@ -1,0 +1,20 @@
+{
+  "login": "takp",
+  "id": 5838870,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5838870?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takp",
+  "html_url": "https://github.com/takp",
+  "followers_url": "https://api.github.com/users/takp/followers",
+  "following_url": "https://api.github.com/users/takp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takp/subscriptions",
+  "organizations_url": "https://api.github.com/users/takp/orgs",
+  "repos_url": "https://api.github.com/users/takp/repos",
+  "events_url": "https://api.github.com/users/takp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takp/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

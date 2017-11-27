@@ -1,0 +1,20 @@
+{
+  "login": "raw5",
+  "id": 1407898,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1407898?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raw5",
+  "html_url": "https://github.com/raw5",
+  "followers_url": "https://api.github.com/users/raw5/followers",
+  "following_url": "https://api.github.com/users/raw5/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raw5/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raw5/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raw5/subscriptions",
+  "organizations_url": "https://api.github.com/users/raw5/orgs",
+  "repos_url": "https://api.github.com/users/raw5/repos",
+  "events_url": "https://api.github.com/users/raw5/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raw5/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
