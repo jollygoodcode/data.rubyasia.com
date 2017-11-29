@@ -1,0 +1,20 @@
+{
+  "login": "sadmad",
+  "id": 11834044,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11834044?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sadmad",
+  "html_url": "https://github.com/sadmad",
+  "followers_url": "https://api.github.com/users/sadmad/followers",
+  "following_url": "https://api.github.com/users/sadmad/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sadmad/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sadmad/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sadmad/subscriptions",
+  "organizations_url": "https://api.github.com/users/sadmad/orgs",
+  "repos_url": "https://api.github.com/users/sadmad/repos",
+  "events_url": "https://api.github.com/users/sadmad/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sadmad/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "mshindo",
+  "id": 182843,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/182843?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mshindo",
+  "html_url": "https://github.com/mshindo",
+  "followers_url": "https://api.github.com/users/mshindo/followers",
+  "following_url": "https://api.github.com/users/mshindo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mshindo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mshindo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mshindo/subscriptions",
+  "organizations_url": "https://api.github.com/users/mshindo/orgs",
+  "repos_url": "https://api.github.com/users/mshindo/repos",
+  "events_url": "https://api.github.com/users/mshindo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mshindo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
