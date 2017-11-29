@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-11-29 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-22..2017-11-28",
+  "repos": [
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1567,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 51,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
