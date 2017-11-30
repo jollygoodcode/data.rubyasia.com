@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-11-30 08:10:42 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-23..2017-11-29",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1251,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "coderhs/ruby_open_weather_map",
+      "description": "A ruby wrapper for open weather map",
+      "html_url": "https://github.com/coderhs/ruby_open_weather_map",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

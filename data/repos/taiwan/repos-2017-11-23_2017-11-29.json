@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-11-30 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-23..2017-11-29",
+  "repos": [
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "lulalala/adequate_errors",
+      "description": "Overcoming limitation of Rails model errors API",
+      "html_url": "https://github.com/lulalala/adequate_errors",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
