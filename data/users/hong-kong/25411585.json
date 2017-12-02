@@ -1,0 +1,20 @@
+{
+  "login": "stevesaf",
+  "id": 25411585,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/25411585?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stevesaf",
+  "html_url": "https://github.com/stevesaf",
+  "followers_url": "https://api.github.com/users/stevesaf/followers",
+  "following_url": "https://api.github.com/users/stevesaf/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stevesaf/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stevesaf/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stevesaf/subscriptions",
+  "organizations_url": "https://api.github.com/users/stevesaf/orgs",
+  "repos_url": "https://api.github.com/users/stevesaf/repos",
+  "events_url": "https://api.github.com/users/stevesaf/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stevesaf/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
