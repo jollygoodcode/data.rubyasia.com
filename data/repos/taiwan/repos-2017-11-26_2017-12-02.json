@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-12-03 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-26..2017-12-02",
+  "repos": [
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provides powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 61,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/dm-is-reflective",
+      "description": "DataMapper plugin that helps you manipulate an existing database.",
+      "html_url": "https://github.com/godfat/dm-is-reflective",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
