@@ -1,0 +1,20 @@
+{
+  "login": "qooa",
+  "id": 11558164,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/11558164?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/qooa",
+  "html_url": "https://github.com/qooa",
+  "followers_url": "https://api.github.com/users/qooa/followers",
+  "following_url": "https://api.github.com/users/qooa/following{/other_user}",
+  "gists_url": "https://api.github.com/users/qooa/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/qooa/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/qooa/subscriptions",
+  "organizations_url": "https://api.github.com/users/qooa/orgs",
+  "repos_url": "https://api.github.com/users/qooa/repos",
+  "events_url": "https://api.github.com/users/qooa/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/qooa/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

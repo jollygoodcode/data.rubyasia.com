@@ -1,0 +1,20 @@
+{
+  "login": "SeokJongYu",
+  "id": 1789232,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1789232?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SeokJongYu",
+  "html_url": "https://github.com/SeokJongYu",
+  "followers_url": "https://api.github.com/users/SeokJongYu/followers",
+  "following_url": "https://api.github.com/users/SeokJongYu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SeokJongYu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SeokJongYu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SeokJongYu/subscriptions",
+  "organizations_url": "https://api.github.com/users/SeokJongYu/orgs",
+  "repos_url": "https://api.github.com/users/SeokJongYu/repos",
+  "events_url": "https://api.github.com/users/SeokJongYu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SeokJongYu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

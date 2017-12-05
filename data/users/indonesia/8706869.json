@@ -1,0 +1,20 @@
+{
+  "login": "artistio",
+  "id": 8706869,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8706869?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/artistio",
+  "html_url": "https://github.com/artistio",
+  "followers_url": "https://api.github.com/users/artistio/followers",
+  "following_url": "https://api.github.com/users/artistio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/artistio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/artistio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/artistio/subscriptions",
+  "organizations_url": "https://api.github.com/users/artistio/orgs",
+  "repos_url": "https://api.github.com/users/artistio/repos",
+  "events_url": "https://api.github.com/users/artistio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/artistio/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

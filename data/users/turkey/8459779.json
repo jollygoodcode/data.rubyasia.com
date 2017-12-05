@@ -1,0 +1,20 @@
+{
+  "login": "udoga",
+  "id": 8459779,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8459779?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/udoga",
+  "html_url": "https://github.com/udoga",
+  "followers_url": "https://api.github.com/users/udoga/followers",
+  "following_url": "https://api.github.com/users/udoga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/udoga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/udoga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/udoga/subscriptions",
+  "organizations_url": "https://api.github.com/users/udoga/orgs",
+  "repos_url": "https://api.github.com/users/udoga/repos",
+  "events_url": "https://api.github.com/users/udoga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/udoga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

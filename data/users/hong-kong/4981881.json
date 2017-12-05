@@ -1,0 +1,20 @@
+{
+  "login": "andrewoons",
+  "id": 4981881,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4981881?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/andrewoons",
+  "html_url": "https://github.com/andrewoons",
+  "followers_url": "https://api.github.com/users/andrewoons/followers",
+  "following_url": "https://api.github.com/users/andrewoons/following{/other_user}",
+  "gists_url": "https://api.github.com/users/andrewoons/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/andrewoons/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/andrewoons/subscriptions",
+  "organizations_url": "https://api.github.com/users/andrewoons/orgs",
+  "repos_url": "https://api.github.com/users/andrewoons/repos",
+  "events_url": "https://api.github.com/users/andrewoons/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/andrewoons/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
