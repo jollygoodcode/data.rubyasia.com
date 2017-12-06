@@ -1,0 +1,20 @@
+{
+  "login": "hidekuro",
+  "id": 3986668,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3986668?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hidekuro",
+  "html_url": "https://github.com/hidekuro",
+  "followers_url": "https://api.github.com/users/hidekuro/followers",
+  "following_url": "https://api.github.com/users/hidekuro/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hidekuro/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hidekuro/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hidekuro/subscriptions",
+  "organizations_url": "https://api.github.com/users/hidekuro/orgs",
+  "repos_url": "https://api.github.com/users/hidekuro/repos",
+  "events_url": "https://api.github.com/users/hidekuro/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hidekuro/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

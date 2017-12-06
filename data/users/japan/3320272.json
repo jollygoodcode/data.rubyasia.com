@@ -1,0 +1,20 @@
+{
+  "login": "reona",
+  "id": 3320272,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3320272?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/reona",
+  "html_url": "https://github.com/reona",
+  "followers_url": "https://api.github.com/users/reona/followers",
+  "following_url": "https://api.github.com/users/reona/following{/other_user}",
+  "gists_url": "https://api.github.com/users/reona/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/reona/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/reona/subscriptions",
+  "organizations_url": "https://api.github.com/users/reona/orgs",
+  "repos_url": "https://api.github.com/users/reona/repos",
+  "events_url": "https://api.github.com/users/reona/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/reona/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
