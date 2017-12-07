@@ -1,0 +1,62 @@
+{
+  "generated_at": "2017-12-07 08:10:37 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-30..2017-12-06",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4879,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 2868,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 995,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 96,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "syhsyh9696/javlibrary-rails",
+      "description": "Elegant way to build your own javlibrary database.",
+      "html_url": "https://github.com/syhsyh9696/javlibrary-rails",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hlcfan/pokr",
+      "description": "Make agile estimating and planning easy with our online planning or scrum poker tool",
+      "html_url": "https://github.com/hlcfan/pokr",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}

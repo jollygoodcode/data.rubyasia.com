@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-12-07 08:12:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-11-30..2017-12-06",
+  "repos": [
+    {
+      "full_name": "allenwq/devise-multi_email",
+      "description": "✉️ Let devise support multiple emails (authenticatable, confirmable and validatable).",
+      "html_url": "https://github.com/allenwq/devise-multi_email",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
