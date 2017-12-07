@@ -1,0 +1,20 @@
+{
+  "login": "aborham",
+  "id": 596869,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/596869?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aborham",
+  "html_url": "https://github.com/aborham",
+  "followers_url": "https://api.github.com/users/aborham/followers",
+  "following_url": "https://api.github.com/users/aborham/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aborham/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aborham/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aborham/subscriptions",
+  "organizations_url": "https://api.github.com/users/aborham/orgs",
+  "repos_url": "https://api.github.com/users/aborham/repos",
+  "events_url": "https://api.github.com/users/aborham/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aborham/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
