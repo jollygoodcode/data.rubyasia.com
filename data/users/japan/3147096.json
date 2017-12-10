@@ -1,0 +1,20 @@
+{
+  "login": "suzukimit",
+  "id": 3147096,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3147096?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/suzukimit",
+  "html_url": "https://github.com/suzukimit",
+  "followers_url": "https://api.github.com/users/suzukimit/followers",
+  "following_url": "https://api.github.com/users/suzukimit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/suzukimit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/suzukimit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/suzukimit/subscriptions",
+  "organizations_url": "https://api.github.com/users/suzukimit/orgs",
+  "repos_url": "https://api.github.com/users/suzukimit/repos",
+  "events_url": "https://api.github.com/users/suzukimit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/suzukimit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

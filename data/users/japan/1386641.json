@@ -1,0 +1,20 @@
+{
+  "login": "chorogis",
+  "id": 1386641,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1386641?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chorogis",
+  "html_url": "https://github.com/chorogis",
+  "followers_url": "https://api.github.com/users/chorogis/followers",
+  "following_url": "https://api.github.com/users/chorogis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chorogis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chorogis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chorogis/subscriptions",
+  "organizations_url": "https://api.github.com/users/chorogis/orgs",
+  "repos_url": "https://api.github.com/users/chorogis/repos",
+  "events_url": "https://api.github.com/users/chorogis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chorogis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
