@@ -1,0 +1,20 @@
+{
+  "login": "iNanos",
+  "id": 1085564,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1085564?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iNanos",
+  "html_url": "https://github.com/iNanos",
+  "followers_url": "https://api.github.com/users/iNanos/followers",
+  "following_url": "https://api.github.com/users/iNanos/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iNanos/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iNanos/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iNanos/subscriptions",
+  "organizations_url": "https://api.github.com/users/iNanos/orgs",
+  "repos_url": "https://api.github.com/users/iNanos/repos",
+  "events_url": "https://api.github.com/users/iNanos/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iNanos/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
