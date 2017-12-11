@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-12-11 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-04..2017-12-10",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 16109,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yosiat/panko_serializer",
+      "description": "High Performance Serialization for ActiveRecord",
+      "html_url": "https://github.com/yosiat/panko_serializer",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
