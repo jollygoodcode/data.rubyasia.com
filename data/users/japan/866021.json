@@ -1,0 +1,20 @@
+{
+  "login": "wmsuke",
+  "id": 866021,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/866021?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wmsuke",
+  "html_url": "https://github.com/wmsuke",
+  "followers_url": "https://api.github.com/users/wmsuke/followers",
+  "following_url": "https://api.github.com/users/wmsuke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wmsuke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wmsuke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wmsuke/subscriptions",
+  "organizations_url": "https://api.github.com/users/wmsuke/orgs",
+  "repos_url": "https://api.github.com/users/wmsuke/repos",
+  "events_url": "https://api.github.com/users/wmsuke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wmsuke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
