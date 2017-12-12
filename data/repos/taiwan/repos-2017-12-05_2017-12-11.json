@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-12-12 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-05..2017-12-11",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 2306,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "lulalala/adequate_errors",
+      "description": "Overcoming limitation of Rails model errors API",
+      "html_url": "https://github.com/lulalala/adequate_errors",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

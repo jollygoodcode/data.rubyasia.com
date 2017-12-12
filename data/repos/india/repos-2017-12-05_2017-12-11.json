@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-12-12 08:10:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-05..2017-12-11",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1259,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "bigbinary/wheel",
+      "description": "Don't reinvent the wheel for every new Rails project. Use sane Defaults.",
+      "html_url": "https://github.com/bigbinary/wheel",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sachin87/week-of-month",
+      "description": "gives a week of month as per given date",
+      "html_url": "https://github.com/sachin87/week-of-month",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

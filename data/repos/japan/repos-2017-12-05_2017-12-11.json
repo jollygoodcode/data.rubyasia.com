@@ -1,0 +1,262 @@
+{
+  "generated_at": "2017-12-12 08:11:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-05..2017-12-11",
+  "repos": [
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 2129,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/hamlit",
+      "description": "High Performance Haml Implementation",
+      "html_url": "https://github.com/k0kubun/hamlit",
+      "stars": 691,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/md2key",
+      "description": "Convert markdown to keynote",
+      "html_url": "https://github.com/k0kubun/md2key",
+      "stars": 678,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 586,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 578,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/stateful_enum",
+      "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+      "html_url": "https://github.com/amatsuda/stateful_enum",
+      "stars": 340,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.5.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 303,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "increments/qiita-markdown",
+      "description": "Qiita-specified markdown processor.",
+      "html_url": "https://github.com/increments/qiita-markdown",
+      "stars": 276,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/openid_connect",
+      "description": "OpenID Connect Server & Client Library",
+      "html_url": "https://github.com/nov/openid_connect",
+      "stars": 233,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_segmenter",
+      "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.",
+      "html_url": "https://github.com/diasks2/pragmatic_segmenter",
+      "stars": 219,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yujinakayama/guard-rubocop",
+      "description": "Guard plugin for RuboCop",
+      "html_url": "https://github.com/yujinakayama/guard-rubocop",
+      "stars": 206,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/json-jwt",
+      "description": "JSON Web Token and its family (JSON Web Signature, JSON Web Encryption and JSON Web Key) in Ruby",
+      "html_url": "https://github.com/nov/json-jwt",
+      "stars": 167,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/expeditor",
+      "description": "Expeditor provides asynchronous execution and fault tolerance for Microservices",
+      "html_url": "https://github.com/cookpad/expeditor",
+      "stars": 161,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/language_server-ruby",
+      "description": "A Ruby Language Server implementation",
+      "html_url": "https://github.com/mtsmfm/language_server-ruby",
+      "stars": 160,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/gem-src",
+      "description": "Gem.post_install { `git clone gem_source src` }",
+      "html_url": "https://github.com/amatsuda/gem-src",
+      "stars": 155,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "eagletmt/hako",
+      "description": "Deploy Docker container",
+      "html_url": "https://github.com/eagletmt/hako",
+      "stars": 155,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cxn03651/write_xlsx",
+      "description": "Rubygem for create excel xlsx file",
+      "html_url": "https://github.com/cxn03651/write_xlsx",
+      "stars": 148,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/yarn/ncu/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shokai/tw",
+      "description": "Twitter client on Ruby.",
+      "html_url": "https://github.com/shokai/tw",
+      "stars": 131,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/activerecord-precount",
+      "description": "N+1 count query killer for ActiveRecord",
+      "html_url": "https://github.com/k0kubun/activerecord-precount",
+      "stars": 126,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 96,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "hogelog/dmemo",
+      "description": null,
+      "html_url": "https://github.com/hogelog/dmemo",
+      "stars": 81,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/capistrano-bundle_rsync",
+      "description": "Deploy an application and bundled gems via rsync ",
+      "html_url": "https://github.com/sonots/capistrano-bundle_rsync",
+      "stars": 65,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_issue_templates",
+      "description": "Repository for Redmine Issue Template (Ready to move Repository from Bitbucket to GitHub)",
+      "html_url": "https://github.com/akiko-pusu/redmine_issue_templates",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/iro.vim",
+      "description": "Iro.vim is a Vim plugin that is a next generation syntax highlighter.",
+      "html_url": "https://github.com/pocke/iro.vim",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yyuu/hotdog",
+      "description": "Yet another command-line tool for Datadog",
+      "html_url": "https://github.com/yyuu/hotdog",
+      "stars": 35,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinosakarb/tebukuro",
+      "description": "Build communities and ticketing",
+      "html_url": "https://github.com/shinosakarb/tebukuro",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "keiju/reish",
+      "description": "Reish - Unix shell for rubyist",
+      "html_url": "https://github.com/keiju/reish",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "jue58/kintone",
+      "description": "kintone REST API client for Ruby",
+      "html_url": "https://github.com/jue58/kintone",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "8398a7/abilitysheet",
+      "description": "This app is ability sheet for beatmania iidx music of level 12.",
+      "html_url": "https://github.com/8398a7/abilitysheet",
+      "stars": 22,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}
