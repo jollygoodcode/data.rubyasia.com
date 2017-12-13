@@ -1,0 +1,20 @@
+{
+  "login": "kondog",
+  "id": 1094171,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1094171?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kondog",
+  "html_url": "https://github.com/kondog",
+  "followers_url": "https://api.github.com/users/kondog/followers",
+  "following_url": "https://api.github.com/users/kondog/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kondog/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kondog/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kondog/subscriptions",
+  "organizations_url": "https://api.github.com/users/kondog/orgs",
+  "repos_url": "https://api.github.com/users/kondog/repos",
+  "events_url": "https://api.github.com/users/kondog/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kondog/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
