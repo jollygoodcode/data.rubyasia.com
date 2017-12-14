@@ -1,0 +1,20 @@
+{
+  "login": "hkdnet",
+  "id": 11524757,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11524757?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hkdnet",
+  "html_url": "https://github.com/hkdnet",
+  "followers_url": "https://api.github.com/users/hkdnet/followers",
+  "following_url": "https://api.github.com/users/hkdnet/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hkdnet/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hkdnet/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hkdnet/subscriptions",
+  "organizations_url": "https://api.github.com/users/hkdnet/orgs",
+  "repos_url": "https://api.github.com/users/hkdnet/repos",
+  "events_url": "https://api.github.com/users/hkdnet/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hkdnet/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
