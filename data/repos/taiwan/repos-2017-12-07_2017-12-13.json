@@ -1,0 +1,14 @@
+{
+  "generated_at": "2017-12-14 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-07..2017-12-13",
+  "repos": [
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
