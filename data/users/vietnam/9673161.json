@@ -1,0 +1,20 @@
+{
+  "login": "tmtuan",
+  "id": 9673161,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9673161?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tmtuan",
+  "html_url": "https://github.com/tmtuan",
+  "followers_url": "https://api.github.com/users/tmtuan/followers",
+  "following_url": "https://api.github.com/users/tmtuan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tmtuan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tmtuan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tmtuan/subscriptions",
+  "organizations_url": "https://api.github.com/users/tmtuan/orgs",
+  "repos_url": "https://api.github.com/users/tmtuan/repos",
+  "events_url": "https://api.github.com/users/tmtuan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tmtuan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

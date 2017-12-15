@@ -1,0 +1,20 @@
+{
+  "login": "kwmur",
+  "id": 2267940,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2267940?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kwmur",
+  "html_url": "https://github.com/kwmur",
+  "followers_url": "https://api.github.com/users/kwmur/followers",
+  "following_url": "https://api.github.com/users/kwmur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kwmur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kwmur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kwmur/subscriptions",
+  "organizations_url": "https://api.github.com/users/kwmur/orgs",
+  "repos_url": "https://api.github.com/users/kwmur/repos",
+  "events_url": "https://api.github.com/users/kwmur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kwmur/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

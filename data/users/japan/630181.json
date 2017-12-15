@@ -1,0 +1,20 @@
+{
+  "login": "asonas",
+  "id": 630181,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/630181?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/asonas",
+  "html_url": "https://github.com/asonas",
+  "followers_url": "https://api.github.com/users/asonas/followers",
+  "following_url": "https://api.github.com/users/asonas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asonas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asonas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asonas/subscriptions",
+  "organizations_url": "https://api.github.com/users/asonas/orgs",
+  "repos_url": "https://api.github.com/users/asonas/repos",
+  "events_url": "https://api.github.com/users/asonas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asonas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

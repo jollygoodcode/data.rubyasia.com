@@ -1,0 +1,20 @@
+{
+  "login": "seagetch",
+  "id": 449741,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/449741?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seagetch",
+  "html_url": "https://github.com/seagetch",
+  "followers_url": "https://api.github.com/users/seagetch/followers",
+  "following_url": "https://api.github.com/users/seagetch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seagetch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seagetch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seagetch/subscriptions",
+  "organizations_url": "https://api.github.com/users/seagetch/orgs",
+  "repos_url": "https://api.github.com/users/seagetch/repos",
+  "events_url": "https://api.github.com/users/seagetch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seagetch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
