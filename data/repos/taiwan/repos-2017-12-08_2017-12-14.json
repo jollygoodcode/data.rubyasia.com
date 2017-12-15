@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-12-15 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-08..2017-12-14",
+  "repos": [
+    {
+      "full_name": "lulalala/adequate_errors",
+      "description": "Overcoming limitation of Rails model errors API",
+      "html_url": "https://github.com/lulalala/adequate_errors",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "KKBOX/redmine-trello-card-sync",
+      "description": "Sync Redmine ticket to Trello card",
+      "html_url": "https://github.com/KKBOX/redmine-trello-card-sync",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
