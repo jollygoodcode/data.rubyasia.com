@@ -1,0 +1,20 @@
+{
+  "login": "railsmith",
+  "id": 5390273,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5390273?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/railsmith",
+  "html_url": "https://github.com/railsmith",
+  "followers_url": "https://api.github.com/users/railsmith/followers",
+  "following_url": "https://api.github.com/users/railsmith/following{/other_user}",
+  "gists_url": "https://api.github.com/users/railsmith/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/railsmith/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/railsmith/subscriptions",
+  "organizations_url": "https://api.github.com/users/railsmith/orgs",
+  "repos_url": "https://api.github.com/users/railsmith/repos",
+  "events_url": "https://api.github.com/users/railsmith/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/railsmith/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
