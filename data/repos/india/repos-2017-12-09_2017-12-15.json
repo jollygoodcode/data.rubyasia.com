@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-12-16 08:10:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-09..2017-12-15",
+  "repos": [
+    {
+      "full_name": "bigbinary/wheel",
+      "description": "Don't reinvent the wheel for every new Rails project. Use sane Defaults.",
+      "html_url": "https://github.com/bigbinary/wheel",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "dhanasingh/redmine_wktime",
+      "description": "ERPmine is an open source free ERP for Service Industries.  It runs within Redmine",
+      "html_url": "https://github.com/dhanasingh/redmine_wktime",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generated_at": "2017-12-16 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-09..2017-12-15",
+  "repos": [
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 134,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "lulalala/adequate_errors",
+      "description": "Overcoming limitation of Rails model errors API",
+      "html_url": "https://github.com/lulalala/adequate_errors",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "KKBOX/redmine-trello-card-sync",
+      "description": "Sync Redmine ticket to Trello card",
+      "html_url": "https://github.com/KKBOX/redmine-trello-card-sync",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
