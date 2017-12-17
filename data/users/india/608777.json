@@ -1,0 +1,20 @@
+{
+  "login": "pocha",
+  "id": 608777,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/608777?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pocha",
+  "html_url": "https://github.com/pocha",
+  "followers_url": "https://api.github.com/users/pocha/followers",
+  "following_url": "https://api.github.com/users/pocha/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pocha/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pocha/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pocha/subscriptions",
+  "organizations_url": "https://api.github.com/users/pocha/orgs",
+  "repos_url": "https://api.github.com/users/pocha/repos",
+  "events_url": "https://api.github.com/users/pocha/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pocha/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
