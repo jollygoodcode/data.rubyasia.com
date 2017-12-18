@@ -1,0 +1,20 @@
+{
+  "login": "ryanchans",
+  "id": 7233447,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7233447?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryanchans",
+  "html_url": "https://github.com/ryanchans",
+  "followers_url": "https://api.github.com/users/ryanchans/followers",
+  "following_url": "https://api.github.com/users/ryanchans/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryanchans/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryanchans/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryanchans/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryanchans/orgs",
+  "repos_url": "https://api.github.com/users/ryanchans/repos",
+  "events_url": "https://api.github.com/users/ryanchans/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryanchans/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

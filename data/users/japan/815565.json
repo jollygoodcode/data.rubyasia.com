@@ -1,0 +1,20 @@
+{
+  "login": "duerst",
+  "id": 815565,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/815565?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/duerst",
+  "html_url": "https://github.com/duerst",
+  "followers_url": "https://api.github.com/users/duerst/followers",
+  "following_url": "https://api.github.com/users/duerst/following{/other_user}",
+  "gists_url": "https://api.github.com/users/duerst/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/duerst/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/duerst/subscriptions",
+  "organizations_url": "https://api.github.com/users/duerst/orgs",
+  "repos_url": "https://api.github.com/users/duerst/repos",
+  "events_url": "https://api.github.com/users/duerst/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/duerst/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
