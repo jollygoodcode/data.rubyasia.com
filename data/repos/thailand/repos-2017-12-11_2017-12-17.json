@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-12-18 08:12:49 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-11..2017-12-17",
+  "repos": [
+    {
+      "full_name": "Jellyfishboy/trado",
+      "description": "Trado is a lightweight, easy to use ecommerce platform; designed to allow developers to quickly deploy a premium ecommerce store for their business",
+      "html_url": "https://github.com/Jellyfishboy/trado",
+      "stars": 114,
+      "language": "Ruby",
+      "region": "Thailand"
+    },
+    {
+      "full_name": "omise/omise-ruby",
+      "description": "Omise Ruby Library",
+      "html_url": "https://github.com/omise/omise-ruby",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Thailand"
+    }
+  ]
+}
