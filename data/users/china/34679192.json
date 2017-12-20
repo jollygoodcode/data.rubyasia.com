@@ -1,0 +1,20 @@
+{
+  "login": "atyun",
+  "id": 34679192,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/34679192?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atyun",
+  "html_url": "https://github.com/atyun",
+  "followers_url": "https://api.github.com/users/atyun/followers",
+  "following_url": "https://api.github.com/users/atyun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atyun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atyun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atyun/subscriptions",
+  "organizations_url": "https://api.github.com/users/atyun/orgs",
+  "repos_url": "https://api.github.com/users/atyun/repos",
+  "events_url": "https://api.github.com/users/atyun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atyun/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

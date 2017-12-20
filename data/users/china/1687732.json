@@ -1,0 +1,20 @@
+{
+  "login": "blogbin",
+  "id": 1687732,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1687732?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/blogbin",
+  "html_url": "https://github.com/blogbin",
+  "followers_url": "https://api.github.com/users/blogbin/followers",
+  "following_url": "https://api.github.com/users/blogbin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/blogbin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/blogbin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/blogbin/subscriptions",
+  "organizations_url": "https://api.github.com/users/blogbin/orgs",
+  "repos_url": "https://api.github.com/users/blogbin/repos",
+  "events_url": "https://api.github.com/users/blogbin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/blogbin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
