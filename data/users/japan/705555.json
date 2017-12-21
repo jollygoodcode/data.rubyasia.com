@@ -1,0 +1,20 @@
+{
+  "login": "unarist",
+  "id": 705555,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/705555?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unarist",
+  "html_url": "https://github.com/unarist",
+  "followers_url": "https://api.github.com/users/unarist/followers",
+  "following_url": "https://api.github.com/users/unarist/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unarist/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unarist/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unarist/subscriptions",
+  "organizations_url": "https://api.github.com/users/unarist/orgs",
+  "repos_url": "https://api.github.com/users/unarist/repos",
+  "events_url": "https://api.github.com/users/unarist/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unarist/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
