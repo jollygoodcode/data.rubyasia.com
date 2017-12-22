@@ -1,0 +1,20 @@
+{
+  "login": "uipiki",
+  "id": 4945188,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4945188?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/uipiki",
+  "html_url": "https://github.com/uipiki",
+  "followers_url": "https://api.github.com/users/uipiki/followers",
+  "following_url": "https://api.github.com/users/uipiki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/uipiki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/uipiki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/uipiki/subscriptions",
+  "organizations_url": "https://api.github.com/users/uipiki/orgs",
+  "repos_url": "https://api.github.com/users/uipiki/repos",
+  "events_url": "https://api.github.com/users/uipiki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/uipiki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
