@@ -1,0 +1,22 @@
+{
+  "generated_at": "2017-12-23 08:12:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-16..2017-12-22",
+  "repos": [
+    {
+      "full_name": "ytbryan/vuejs",
+      "description": ":v: Ship with latest Vue + Resource + Router + Validator + Vuex + Axios for Rails' Asset Pipeline.",
+      "html_url": "https://github.com/ytbryan/vuejs",
+      "stars": 88,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 5 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
