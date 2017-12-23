@@ -1,0 +1,20 @@
+{
+  "login": "tenbrother",
+  "id": 2571834,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2571834?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tenbrother",
+  "html_url": "https://github.com/tenbrother",
+  "followers_url": "https://api.github.com/users/tenbrother/followers",
+  "following_url": "https://api.github.com/users/tenbrother/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tenbrother/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tenbrother/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tenbrother/subscriptions",
+  "organizations_url": "https://api.github.com/users/tenbrother/orgs",
+  "repos_url": "https://api.github.com/users/tenbrother/repos",
+  "events_url": "https://api.github.com/users/tenbrother/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tenbrother/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

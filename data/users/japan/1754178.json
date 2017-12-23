@@ -1,0 +1,20 @@
+{
+  "login": "WizFox",
+  "id": 1754178,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1754178?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/WizFox",
+  "html_url": "https://github.com/WizFox",
+  "followers_url": "https://api.github.com/users/WizFox/followers",
+  "following_url": "https://api.github.com/users/WizFox/following{/other_user}",
+  "gists_url": "https://api.github.com/users/WizFox/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/WizFox/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/WizFox/subscriptions",
+  "organizations_url": "https://api.github.com/users/WizFox/orgs",
+  "repos_url": "https://api.github.com/users/WizFox/repos",
+  "events_url": "https://api.github.com/users/WizFox/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/WizFox/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
