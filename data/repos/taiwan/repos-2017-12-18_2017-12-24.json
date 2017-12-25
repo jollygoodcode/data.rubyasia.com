@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-12-25 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-18..2017-12-24",
+  "repos": [
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 491,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "A tool for you easy to find the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 297,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tsechingho/ckeditor-rails",
+      "description": "Integrate CKEditor javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/ckeditor-rails",
+      "stars": 214,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provides powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 67,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "joshua5201/tioj",
+      "description": "TIOJ Infor Online Judge",
+      "html_url": "https://github.com/joshua5201/tioj",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "dlackty/fluent-plugin-remote_syslog",
+      "description": "Fluentd plugin for output to remote syslog serivce (e.g. Papertrail)",
+      "html_url": "https://github.com/dlackty/fluent-plugin-remote_syslog",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

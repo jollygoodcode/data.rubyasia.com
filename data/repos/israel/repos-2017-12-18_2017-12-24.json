@@ -1,0 +1,30 @@
+{
+  "generated_at": "2017-12-25 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-18..2017-12-24",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 16321,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "lbeder/health-monitor-rails",
+      "description": "A Rails plugin which provides a health checking and monitoring API of various services and application aspects.",
+      "html_url": "https://github.com/lbeder/health-monitor-rails",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yosiat/panko_serializer",
+      "description": "High Performance Serialization for ActiveRecord",
+      "html_url": "https://github.com/yosiat/panko_serializer",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
