@@ -1,0 +1,20 @@
+{
+  "login": "obenda",
+  "id": 1728001,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1728001?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/obenda",
+  "html_url": "https://github.com/obenda",
+  "followers_url": "https://api.github.com/users/obenda/followers",
+  "following_url": "https://api.github.com/users/obenda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/obenda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/obenda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/obenda/subscriptions",
+  "organizations_url": "https://api.github.com/users/obenda/orgs",
+  "repos_url": "https://api.github.com/users/obenda/repos",
+  "events_url": "https://api.github.com/users/obenda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/obenda/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

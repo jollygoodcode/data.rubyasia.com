@@ -1,0 +1,20 @@
+{
+  "login": "defeed",
+  "id": 497537,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/497537?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/defeed",
+  "html_url": "https://github.com/defeed",
+  "followers_url": "https://api.github.com/users/defeed/followers",
+  "following_url": "https://api.github.com/users/defeed/following{/other_user}",
+  "gists_url": "https://api.github.com/users/defeed/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/defeed/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/defeed/subscriptions",
+  "organizations_url": "https://api.github.com/users/defeed/orgs",
+  "repos_url": "https://api.github.com/users/defeed/repos",
+  "events_url": "https://api.github.com/users/defeed/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/defeed/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
