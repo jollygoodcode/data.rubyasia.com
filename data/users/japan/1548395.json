@@ -1,0 +1,20 @@
+{
+  "login": "morinoko",
+  "id": 1548395,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1548395?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/morinoko",
+  "html_url": "https://github.com/morinoko",
+  "followers_url": "https://api.github.com/users/morinoko/followers",
+  "following_url": "https://api.github.com/users/morinoko/following{/other_user}",
+  "gists_url": "https://api.github.com/users/morinoko/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/morinoko/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/morinoko/subscriptions",
+  "organizations_url": "https://api.github.com/users/morinoko/orgs",
+  "repos_url": "https://api.github.com/users/morinoko/repos",
+  "events_url": "https://api.github.com/users/morinoko/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/morinoko/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

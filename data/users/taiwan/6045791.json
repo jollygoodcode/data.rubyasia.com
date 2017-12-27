@@ -1,0 +1,20 @@
+{
+  "login": "boyofsky",
+  "id": 6045791,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6045791?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/boyofsky",
+  "html_url": "https://github.com/boyofsky",
+  "followers_url": "https://api.github.com/users/boyofsky/followers",
+  "following_url": "https://api.github.com/users/boyofsky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/boyofsky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/boyofsky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/boyofsky/subscriptions",
+  "organizations_url": "https://api.github.com/users/boyofsky/orgs",
+  "repos_url": "https://api.github.com/users/boyofsky/repos",
+  "events_url": "https://api.github.com/users/boyofsky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/boyofsky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
