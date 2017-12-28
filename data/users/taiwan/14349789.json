@@ -1,0 +1,20 @@
+{
+  "login": "pinojacky",
+  "id": 14349789,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/14349789?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pinojacky",
+  "html_url": "https://github.com/pinojacky",
+  "followers_url": "https://api.github.com/users/pinojacky/followers",
+  "following_url": "https://api.github.com/users/pinojacky/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pinojacky/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pinojacky/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pinojacky/subscriptions",
+  "organizations_url": "https://api.github.com/users/pinojacky/orgs",
+  "repos_url": "https://api.github.com/users/pinojacky/repos",
+  "events_url": "https://api.github.com/users/pinojacky/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pinojacky/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
