@@ -1,0 +1,20 @@
+{
+  "login": "pi9min",
+  "id": 5151877,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5151877?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pi9min",
+  "html_url": "https://github.com/pi9min",
+  "followers_url": "https://api.github.com/users/pi9min/followers",
+  "following_url": "https://api.github.com/users/pi9min/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pi9min/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pi9min/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pi9min/subscriptions",
+  "organizations_url": "https://api.github.com/users/pi9min/orgs",
+  "repos_url": "https://api.github.com/users/pi9min/repos",
+  "events_url": "https://api.github.com/users/pi9min/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pi9min/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
