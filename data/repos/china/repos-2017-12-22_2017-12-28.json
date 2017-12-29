@@ -1,0 +1,54 @@
+{
+  "generated_at": "2017-12-29 08:10:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-22..2017-12-28",
+  "repos": [
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 1006,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "FIRHQ/fir-cli",
+      "description": "fir.im command-line interface",
+      "html_url": "https://github.com/FIRHQ/fir-cli",
+      "stars": 687,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 647,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 95,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
