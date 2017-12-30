@@ -1,0 +1,20 @@
+{
+  "login": "maceonrails",
+  "id": 10143800,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/10143800?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/maceonrails",
+  "html_url": "https://github.com/maceonrails",
+  "followers_url": "https://api.github.com/users/maceonrails/followers",
+  "following_url": "https://api.github.com/users/maceonrails/following{/other_user}",
+  "gists_url": "https://api.github.com/users/maceonrails/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/maceonrails/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/maceonrails/subscriptions",
+  "organizations_url": "https://api.github.com/users/maceonrails/orgs",
+  "repos_url": "https://api.github.com/users/maceonrails/repos",
+  "events_url": "https://api.github.com/users/maceonrails/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/maceonrails/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

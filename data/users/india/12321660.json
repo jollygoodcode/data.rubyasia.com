@@ -1,0 +1,20 @@
+{
+  "login": "antonyraji",
+  "id": 12321660,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/12321660?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/antonyraji",
+  "html_url": "https://github.com/antonyraji",
+  "followers_url": "https://api.github.com/users/antonyraji/followers",
+  "following_url": "https://api.github.com/users/antonyraji/following{/other_user}",
+  "gists_url": "https://api.github.com/users/antonyraji/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/antonyraji/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/antonyraji/subscriptions",
+  "organizations_url": "https://api.github.com/users/antonyraji/orgs",
+  "repos_url": "https://api.github.com/users/antonyraji/repos",
+  "events_url": "https://api.github.com/users/antonyraji/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/antonyraji/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
