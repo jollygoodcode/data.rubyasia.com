@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-01-01 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-25..2017-12-31",
+  "repos": [
+    {
+      "full_name": "rubytaiwan/jobs.ruby.tw",
+      "description": "Job board for Ruby and Rails developers in Taiwan",
+      "html_url": "https://github.com/rubytaiwan/jobs.ruby.tw",
+      "stars": 145,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "KKBOX/redmine-trello-card-sync",
+      "description": "Sync Redmine ticket to Trello card",
+      "html_url": "https://github.com/KKBOX/redmine-trello-card-sync",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/dm-is-reflective",
+      "description": "DataMapper plugin that helps you manipulate an existing database.",
+      "html_url": "https://github.com/godfat/dm-is-reflective",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
