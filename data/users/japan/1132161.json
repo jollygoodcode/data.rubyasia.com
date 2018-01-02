@@ -1,0 +1,20 @@
+{
+  "login": "shinoyu",
+  "id": 1132161,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1132161?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shinoyu",
+  "html_url": "https://github.com/shinoyu",
+  "followers_url": "https://api.github.com/users/shinoyu/followers",
+  "following_url": "https://api.github.com/users/shinoyu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shinoyu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shinoyu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shinoyu/subscriptions",
+  "organizations_url": "https://api.github.com/users/shinoyu/orgs",
+  "repos_url": "https://api.github.com/users/shinoyu/repos",
+  "events_url": "https://api.github.com/users/shinoyu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shinoyu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

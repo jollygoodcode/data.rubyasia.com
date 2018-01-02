@@ -1,0 +1,20 @@
+{
+  "login": "corcd",
+  "id": 32856376,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/32856376?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/corcd",
+  "html_url": "https://github.com/corcd",
+  "followers_url": "https://api.github.com/users/corcd/followers",
+  "following_url": "https://api.github.com/users/corcd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/corcd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/corcd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/corcd/subscriptions",
+  "organizations_url": "https://api.github.com/users/corcd/orgs",
+  "repos_url": "https://api.github.com/users/corcd/repos",
+  "events_url": "https://api.github.com/users/corcd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/corcd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
