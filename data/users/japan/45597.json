@@ -1,0 +1,20 @@
+{
+  "login": "emergent",
+  "id": 45597,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/45597?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/emergent",
+  "html_url": "https://github.com/emergent",
+  "followers_url": "https://api.github.com/users/emergent/followers",
+  "following_url": "https://api.github.com/users/emergent/following{/other_user}",
+  "gists_url": "https://api.github.com/users/emergent/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/emergent/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/emergent/subscriptions",
+  "organizations_url": "https://api.github.com/users/emergent/orgs",
+  "repos_url": "https://api.github.com/users/emergent/repos",
+  "events_url": "https://api.github.com/users/emergent/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/emergent/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
