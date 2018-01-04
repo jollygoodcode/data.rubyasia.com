@@ -1,0 +1,30 @@
+{
+  "generated_at": "2018-01-04 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-28..2018-01-03",
+  "repos": [
+    {
+      "full_name": "rubytaiwan/jobs.ruby.tw",
+      "description": "Job board for Ruby and Rails developers in Taiwan",
+      "html_url": "https://github.com/rubytaiwan/jobs.ruby.tw",
+      "stars": 145,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/dm-is-reflective",
+      "description": "DataMapper plugin that helps you manipulate an existing database.",
+      "html_url": "https://github.com/godfat/dm-is-reflective",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
