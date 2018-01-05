@@ -1,0 +1,246 @@
+{
+  "generated_at": "2018-01-05 08:11:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-29..2018-01-04",
+  "repos": [
+    {
+      "full_name": "matschaffer/knife-solo",
+      "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.",
+      "html_url": "https://github.com/matschaffer/knife-solo",
+      "stars": 803,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 585,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/database_rewinder",
+      "description": "minimalist's tiny and ultra-fast database cleaner",
+      "html_url": "https://github.com/amatsuda/database_rewinder",
+      "stars": 584,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "winebarrel/ridgepole",
+      "description": "Ridgepole is a tool to manage DB schema.  It defines DB schema using Rails DSL, and updates DB schema according to DSL. (like Chef/Puppet)",
+      "html_url": "https://github.com/winebarrel/ridgepole",
+      "stars": 501,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mame/optcarrot",
+      "description": "A NES emulator written in Ruby",
+      "html_url": "https://github.com/mame/optcarrot",
+      "stars": 468,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "iberianpig/fusuma",
+      "description": "Multitouch gestures with libinput dirver on X11, Linux",
+      "html_url": "https://github.com/iberianpig/fusuma",
+      "stars": 355,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.5.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 306,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/spec",
+      "description": "The Ruby Spec Suite",
+      "html_url": "https://github.com/ruby/spec",
+      "stars": 290,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 272,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/pattern-match",
+      "description": "A pattern matching library for Ruby",
+      "html_url": "https://github.com/k-tsj/pattern-match",
+      "stars": 237,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/gem-src",
+      "description": "Gem.post_install { `git clone gem_source src` }",
+      "html_url": "https://github.com/amatsuda/gem-src",
+      "stars": 156,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "higanworks/knife-zero",
+      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
+      "html_url": "https://github.com/higanworks/knife-zero",
+      "stars": 126,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 97,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/rubicure",
+      "description": "All about Japanese battle heroine \"Pretty Cure (Precure)\"",
+      "html_url": "https://github.com/sue445/rubicure",
+      "stars": 86,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "amatsuda/string_template",
+      "description": "A template engine for Rails, focusing on speed, using Ruby's String interpolation syntax",
+      "html_url": "https://github.com/amatsuda/string_template",
+      "stars": 80,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-contrib",
+      "description": "tDiaryの非正規リポジトリ。どなたでもcommit可能です。commit権希望の方、まずはパッチ等をpull requestして下さい。",
+      "html_url": "https://github.com/tdiary/tdiary-contrib",
+      "stars": 64,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/jekyll-toc",
+      "description": "A liquid filter plugin for Jekyll which generates a table of contents.",
+      "html_url": "https://github.com/toshimaru/jekyll-toc",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "akiko-pusu/redmine_issue_templates",
+      "description": "Repository for Redmine Issue Template (Ready to move Repository from Bitbucket to GitHub)",
+      "html_url": "https://github.com/akiko-pusu/redmine_issue_templates",
+      "stars": 60,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/mry",
+      "description": "Mry Migrates .Rubocop.Yml",
+      "html_url": "https://github.com/pocke/mry",
+      "stars": 59,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mitaku/komachi_heartbeat",
+      "description": null,
+      "html_url": "https://github.com/mitaku/komachi_heartbeat",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/bugs.ruby-lang.org",
+      "description": "A little fork of redmine the issue tracking system, for hosting bugs.ruby-lang.org projects.",
+      "html_url": "https://github.com/ruby/bugs.ruby-lang.org",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/iro.vim",
+      "description": "Iro.vim is a Vim plugin that is a next generation syntax highlighter.",
+      "html_url": "https://github.com/pocke/iro.vim",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "winebarrel/ruby-jq",
+      "description": "Ruby bindings for jq.",
+      "html_url": "https://github.com/winebarrel/ruby-jq",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinosakarb/tebukuro",
+      "description": "Build communities and ticketing",
+      "html_url": "https://github.com/shinosakarb/tebukuro",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "y-ken/fluent-plugin-anonymizer",
+      "description": "Fluentd filter output plugin to anonymize records with MD5/SHA1/SHA256/SHA384/SHA512 algorithms. This data masking plugin protects privacy data such as ID, email, phone number, IPv4/IPv6 address and so on.",
+      "html_url": "https://github.com/y-ken/fluent-plugin-anonymizer",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "willnet/yuba",
+      "description": "Add new layers to rails for more tidy source code",
+      "html_url": "https://github.com/willnet/yuba",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

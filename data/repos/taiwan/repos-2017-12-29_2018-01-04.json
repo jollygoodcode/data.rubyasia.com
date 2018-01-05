@@ -1,0 +1,30 @@
+{
+  "generated_at": "2018-01-05 08:12:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-29..2018-01-04",
+  "repos": [
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 493,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/dm-is-reflective",
+      "description": "DataMapper plugin that helps you manipulate an existing database.",
+      "html_url": "https://github.com/godfat/dm-is-reflective",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
