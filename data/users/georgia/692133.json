@@ -1,0 +1,20 @@
+{
+  "login": "pcmyers",
+  "id": 692133,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/692133?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pcmyers",
+  "html_url": "https://github.com/pcmyers",
+  "followers_url": "https://api.github.com/users/pcmyers/followers",
+  "following_url": "https://api.github.com/users/pcmyers/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pcmyers/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pcmyers/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pcmyers/subscriptions",
+  "organizations_url": "https://api.github.com/users/pcmyers/orgs",
+  "repos_url": "https://api.github.com/users/pcmyers/repos",
+  "events_url": "https://api.github.com/users/pcmyers/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pcmyers/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
