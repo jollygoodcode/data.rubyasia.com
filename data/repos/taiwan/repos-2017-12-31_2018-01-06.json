@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-01-07 08:12:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-31..2018-01-06",
+  "repos": [
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 493,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

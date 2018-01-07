@@ -1,0 +1,54 @@
+{
+  "generated_at": "2018-01-07 08:10:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2017-12-31..2018-01-06",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4904,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "chloerei/alipay",
+      "description": "Unofficial alipay ruby gem",
+      "html_url": "https://github.com/chloerei/alipay",
+      "stars": 650,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jasl/wx_pay",
+      "description": "An unofficial simple wechat pay gem",
+      "html_url": "https://github.com/jasl/wx_pay",
+      "stars": 304,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 63,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "plusor/rest-tor",
+      "description": "Tor-based proxy service  that can change IPs indefinitely to request a target server",
+      "html_url": "https://github.com/plusor/rest-tor",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
