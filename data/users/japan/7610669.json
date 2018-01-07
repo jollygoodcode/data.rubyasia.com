@@ -1,0 +1,20 @@
+{
+  "login": "soyanchu",
+  "id": 7610669,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7610669?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/soyanchu",
+  "html_url": "https://github.com/soyanchu",
+  "followers_url": "https://api.github.com/users/soyanchu/followers",
+  "following_url": "https://api.github.com/users/soyanchu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/soyanchu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/soyanchu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/soyanchu/subscriptions",
+  "organizations_url": "https://api.github.com/users/soyanchu/orgs",
+  "repos_url": "https://api.github.com/users/soyanchu/repos",
+  "events_url": "https://api.github.com/users/soyanchu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/soyanchu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
