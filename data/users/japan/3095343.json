@@ -1,0 +1,20 @@
+{
+  "login": "grooble",
+  "id": 3095343,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3095343?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/grooble",
+  "html_url": "https://github.com/grooble",
+  "followers_url": "https://api.github.com/users/grooble/followers",
+  "following_url": "https://api.github.com/users/grooble/following{/other_user}",
+  "gists_url": "https://api.github.com/users/grooble/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/grooble/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/grooble/subscriptions",
+  "organizations_url": "https://api.github.com/users/grooble/orgs",
+  "repos_url": "https://api.github.com/users/grooble/repos",
+  "events_url": "https://api.github.com/users/grooble/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/grooble/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
