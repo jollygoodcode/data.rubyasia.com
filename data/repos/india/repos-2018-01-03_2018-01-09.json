@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-01-10 08:10:49 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-03..2018-01-09",
+  "repos": [
+    {
+      "full_name": "girishso/pluck_to_hash",
+      "description": "Extend ActiveRecord pluck to return array of hashes",
+      "html_url": "https://github.com/girishso/pluck_to_hash",
+      "stars": 210,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "bigbinary/wheel",
+      "description": "Don't reinvent the wheel for every new Rails project. Use sane Defaults.",
+      "html_url": "https://github.com/bigbinary/wheel",
+      "stars": 46,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
