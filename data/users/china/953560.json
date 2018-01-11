@@ -1,0 +1,20 @@
+{
+  "login": "zGate",
+  "id": 953560,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/953560?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zGate",
+  "html_url": "https://github.com/zGate",
+  "followers_url": "https://api.github.com/users/zGate/followers",
+  "following_url": "https://api.github.com/users/zGate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zGate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zGate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zGate/subscriptions",
+  "organizations_url": "https://api.github.com/users/zGate/orgs",
+  "repos_url": "https://api.github.com/users/zGate/repos",
+  "events_url": "https://api.github.com/users/zGate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zGate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

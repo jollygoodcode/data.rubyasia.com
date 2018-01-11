@@ -1,0 +1,20 @@
+{
+  "login": "neume",
+  "id": 18587460,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/18587460?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/neume",
+  "html_url": "https://github.com/neume",
+  "followers_url": "https://api.github.com/users/neume/followers",
+  "following_url": "https://api.github.com/users/neume/following{/other_user}",
+  "gists_url": "https://api.github.com/users/neume/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/neume/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/neume/subscriptions",
+  "organizations_url": "https://api.github.com/users/neume/orgs",
+  "repos_url": "https://api.github.com/users/neume/repos",
+  "events_url": "https://api.github.com/users/neume/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/neume/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
