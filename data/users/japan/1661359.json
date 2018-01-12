@@ -1,0 +1,20 @@
+{
+  "login": "imasami",
+  "id": 1661359,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1661359?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/imasami",
+  "html_url": "https://github.com/imasami",
+  "followers_url": "https://api.github.com/users/imasami/followers",
+  "following_url": "https://api.github.com/users/imasami/following{/other_user}",
+  "gists_url": "https://api.github.com/users/imasami/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/imasami/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/imasami/subscriptions",
+  "organizations_url": "https://api.github.com/users/imasami/orgs",
+  "repos_url": "https://api.github.com/users/imasami/repos",
+  "events_url": "https://api.github.com/users/imasami/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/imasami/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
