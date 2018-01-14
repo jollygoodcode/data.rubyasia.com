@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-01-14 08:10:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-07..2018-01-13",
+  "repos": [
+    {
+      "full_name": "shadabahmed/logstasher",
+      "description": "Awesome rails logs",
+      "html_url": "https://github.com/shadabahmed/logstasher",
+      "stars": 649,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "bigbinary/wheel",
+      "description": "Don't reinvent the wheel for every new Rails project. Use sane Defaults.",
+      "html_url": "https://github.com/bigbinary/wheel",
+      "stars": 47,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}

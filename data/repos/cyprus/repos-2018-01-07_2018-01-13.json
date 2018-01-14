@@ -1,0 +1,14 @@
+{
+  "generated_at": "2018-01-14 08:10:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-07..2018-01-13",
+  "repos": [
+    {
+      "full_name": "linchus/omniauth-gitlab",
+      "description": "Strategy for authenticating to your GitLab service",
+      "html_url": "https://github.com/linchus/omniauth-gitlab",
+      "stars": 25,
+      "language": "Ruby",
+      "region": "Cyprus"
+    }
+  ]
+}
