@@ -1,0 +1,20 @@
+{
+  "login": "ankitech",
+  "id": 9432041,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9432041?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ankitech",
+  "html_url": "https://github.com/ankitech",
+  "followers_url": "https://api.github.com/users/ankitech/followers",
+  "following_url": "https://api.github.com/users/ankitech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ankitech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ankitech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ankitech/subscriptions",
+  "organizations_url": "https://api.github.com/users/ankitech/orgs",
+  "repos_url": "https://api.github.com/users/ankitech/repos",
+  "events_url": "https://api.github.com/users/ankitech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ankitech/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

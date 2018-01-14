@@ -1,0 +1,20 @@
+{
+  "login": "gomama",
+  "id": 285413,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/285413?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gomama",
+  "html_url": "https://github.com/gomama",
+  "followers_url": "https://api.github.com/users/gomama/followers",
+  "following_url": "https://api.github.com/users/gomama/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gomama/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gomama/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gomama/subscriptions",
+  "organizations_url": "https://api.github.com/users/gomama/orgs",
+  "repos_url": "https://api.github.com/users/gomama/repos",
+  "events_url": "https://api.github.com/users/gomama/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gomama/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
