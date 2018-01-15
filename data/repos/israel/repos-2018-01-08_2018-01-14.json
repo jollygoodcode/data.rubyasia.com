@@ -1,0 +1,46 @@
+{
+  "generated_at": "2018-01-15 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-08..2018-01-14",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 16662,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1580,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "lbeder/health-monitor-rails",
+      "description": "A Rails plugin which provides a health checking and monitoring API of various services and application aspects.",
+      "html_url": "https://github.com/lbeder/health-monitor-rails",
+      "stars": 75,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yosiat/panko_serializer",
+      "description": "High Performance Serialization for ActiveRecord",
+      "html_url": "https://github.com/yosiat/panko_serializer",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
