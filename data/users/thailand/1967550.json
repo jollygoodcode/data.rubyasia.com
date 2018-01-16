@@ -1,0 +1,20 @@
+{
+  "login": "taiphob",
+  "id": 1967550,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1967550?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/taiphob",
+  "html_url": "https://github.com/taiphob",
+  "followers_url": "https://api.github.com/users/taiphob/followers",
+  "following_url": "https://api.github.com/users/taiphob/following{/other_user}",
+  "gists_url": "https://api.github.com/users/taiphob/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/taiphob/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/taiphob/subscriptions",
+  "organizations_url": "https://api.github.com/users/taiphob/orgs",
+  "repos_url": "https://api.github.com/users/taiphob/repos",
+  "events_url": "https://api.github.com/users/taiphob/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/taiphob/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
