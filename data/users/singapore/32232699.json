@@ -1,0 +1,20 @@
+{
+  "login": "Vuulr",
+  "id": 32232699,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/32232699?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Vuulr",
+  "html_url": "https://github.com/Vuulr",
+  "followers_url": "https://api.github.com/users/Vuulr/followers",
+  "following_url": "https://api.github.com/users/Vuulr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Vuulr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Vuulr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Vuulr/subscriptions",
+  "organizations_url": "https://api.github.com/users/Vuulr/orgs",
+  "repos_url": "https://api.github.com/users/Vuulr/repos",
+  "events_url": "https://api.github.com/users/Vuulr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Vuulr/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
