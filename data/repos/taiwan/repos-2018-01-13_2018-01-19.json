@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-01-20 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-13..2018-01-19",
+  "repos": [
+    {
+      "full_name": "tonytonyjan/jaro_winkler",
+      "description": "Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.",
+      "html_url": "https://github.com/tonytonyjan/jaro_winkler",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "hothero/wpdb_activerecord",
+      "description": "It's a wrapper for the WordPress database, using ActiveRecord.",
+      "html_url": "https://github.com/hothero/wpdb_activerecord",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "lulalala/adequate_errors",
+      "description": "Overcoming limitation of Rails model errors API",
+      "html_url": "https://github.com/lulalala/adequate_errors",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "KKBOX/redmine-trello-card-sync",
+      "description": "Sync Redmine ticket to Trello card",
+      "html_url": "https://github.com/KKBOX/redmine-trello-card-sync",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
