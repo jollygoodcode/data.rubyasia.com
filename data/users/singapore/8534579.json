@@ -1,0 +1,20 @@
+{
+  "login": "mrlmarquez",
+  "id": 8534579,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8534579?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrlmarquez",
+  "html_url": "https://github.com/mrlmarquez",
+  "followers_url": "https://api.github.com/users/mrlmarquez/followers",
+  "following_url": "https://api.github.com/users/mrlmarquez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrlmarquez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrlmarquez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrlmarquez/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrlmarquez/orgs",
+  "repos_url": "https://api.github.com/users/mrlmarquez/repos",
+  "events_url": "https://api.github.com/users/mrlmarquez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrlmarquez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

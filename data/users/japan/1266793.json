@@ -1,0 +1,20 @@
+{
+  "login": "ssov",
+  "id": 1266793,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1266793?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ssov",
+  "html_url": "https://github.com/ssov",
+  "followers_url": "https://api.github.com/users/ssov/followers",
+  "following_url": "https://api.github.com/users/ssov/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ssov/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ssov/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ssov/subscriptions",
+  "organizations_url": "https://api.github.com/users/ssov/orgs",
+  "repos_url": "https://api.github.com/users/ssov/repos",
+  "events_url": "https://api.github.com/users/ssov/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ssov/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
