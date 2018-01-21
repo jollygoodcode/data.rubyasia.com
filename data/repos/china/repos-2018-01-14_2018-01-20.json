@@ -1,0 +1,70 @@
+{
+  "generated_at": "2018-01-21 08:10:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-14..2018-01-20",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4918,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 190,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/imessage",
+      "description": "💬 Send iMessages from command-line",
+      "html_url": "https://github.com/linjunpop/imessage",
+      "stars": 163,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "yesmeck/rspec-snapshot",
+      "description": "RSpec snapshot testing.",
+      "html_url": "https://github.com/yesmeck/rspec-snapshot",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "agilejzl/blog-eye",
+      "description": "Blog Eye, you know, a platform for sharing your blogs.",
+      "html_url": "https://github.com/agilejzl/blog-eye",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "plusor/rest-tor",
+      "description": "Tor-based proxy service  that can change IPs indefinitely to request a target server",
+      "html_url": "https://github.com/plusor/rest-tor",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hlcfan/pokr",
+      "description": "Make agile estimating and planning easy with our online planning or scrum poker tool",
+      "html_url": "https://github.com/hlcfan/pokr",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
