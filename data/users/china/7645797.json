@@ -1,0 +1,20 @@
+{
+  "login": "roaway",
+  "id": 7645797,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7645797?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/roaway",
+  "html_url": "https://github.com/roaway",
+  "followers_url": "https://api.github.com/users/roaway/followers",
+  "following_url": "https://api.github.com/users/roaway/following{/other_user}",
+  "gists_url": "https://api.github.com/users/roaway/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/roaway/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/roaway/subscriptions",
+  "organizations_url": "https://api.github.com/users/roaway/orgs",
+  "repos_url": "https://api.github.com/users/roaway/repos",
+  "events_url": "https://api.github.com/users/roaway/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/roaway/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

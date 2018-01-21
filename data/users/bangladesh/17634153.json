@@ -1,0 +1,20 @@
+{
+  "login": "mrc-git",
+  "id": 17634153,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/17634153?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mrc-git",
+  "html_url": "https://github.com/mrc-git",
+  "followers_url": "https://api.github.com/users/mrc-git/followers",
+  "following_url": "https://api.github.com/users/mrc-git/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mrc-git/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mrc-git/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mrc-git/subscriptions",
+  "organizations_url": "https://api.github.com/users/mrc-git/orgs",
+  "repos_url": "https://api.github.com/users/mrc-git/repos",
+  "events_url": "https://api.github.com/users/mrc-git/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mrc-git/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
