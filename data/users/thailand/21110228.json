@@ -1,0 +1,20 @@
+{
+  "login": "nptravis",
+  "id": 21110228,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/21110228?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nptravis",
+  "html_url": "https://github.com/nptravis",
+  "followers_url": "https://api.github.com/users/nptravis/followers",
+  "following_url": "https://api.github.com/users/nptravis/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nptravis/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nptravis/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nptravis/subscriptions",
+  "organizations_url": "https://api.github.com/users/nptravis/orgs",
+  "repos_url": "https://api.github.com/users/nptravis/repos",
+  "events_url": "https://api.github.com/users/nptravis/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nptravis/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "sujeev",
+  "id": 922695,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/922695?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sujeev",
+  "html_url": "https://github.com/sujeev",
+  "followers_url": "https://api.github.com/users/sujeev/followers",
+  "following_url": "https://api.github.com/users/sujeev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sujeev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sujeev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sujeev/subscriptions",
+  "organizations_url": "https://api.github.com/users/sujeev/orgs",
+  "repos_url": "https://api.github.com/users/sujeev/repos",
+  "events_url": "https://api.github.com/users/sujeev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sujeev/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "JamesWatling",
+  "id": 2044104,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2044104?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JamesWatling",
+  "html_url": "https://github.com/JamesWatling",
+  "followers_url": "https://api.github.com/users/JamesWatling/followers",
+  "following_url": "https://api.github.com/users/JamesWatling/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JamesWatling/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JamesWatling/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JamesWatling/subscriptions",
+  "organizations_url": "https://api.github.com/users/JamesWatling/orgs",
+  "repos_url": "https://api.github.com/users/JamesWatling/repos",
+  "events_url": "https://api.github.com/users/JamesWatling/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JamesWatling/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
