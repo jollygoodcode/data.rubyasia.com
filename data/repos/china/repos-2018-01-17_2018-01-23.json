@@ -1,0 +1,62 @@
+{
+  "generated_at": "2018-01-24 08:10:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-17..2018-01-23",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4919,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 190,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/imessage",
+      "description": "💬 Send iMessages from command-line",
+      "html_url": "https://github.com/linjunpop/imessage",
+      "stars": 163,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "yesmeck/rspec-snapshot",
+      "description": "RSpec snapshot testing.",
+      "html_url": "https://github.com/yesmeck/rspec-snapshot",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/riif",
+      "description": "🏦 A DSL to generate QuickBooks IIF file.",
+      "html_url": "https://github.com/linjunpop/riif",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
