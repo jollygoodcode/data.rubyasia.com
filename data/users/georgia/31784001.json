@@ -1,0 +1,20 @@
+{
+  "login": "crayonwriter",
+  "id": 31784001,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/31784001?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/crayonwriter",
+  "html_url": "https://github.com/crayonwriter",
+  "followers_url": "https://api.github.com/users/crayonwriter/followers",
+  "following_url": "https://api.github.com/users/crayonwriter/following{/other_user}",
+  "gists_url": "https://api.github.com/users/crayonwriter/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/crayonwriter/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/crayonwriter/subscriptions",
+  "organizations_url": "https://api.github.com/users/crayonwriter/orgs",
+  "repos_url": "https://api.github.com/users/crayonwriter/repos",
+  "events_url": "https://api.github.com/users/crayonwriter/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/crayonwriter/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

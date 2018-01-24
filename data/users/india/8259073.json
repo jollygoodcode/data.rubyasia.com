@@ -1,0 +1,20 @@
+{
+  "login": "parassaini",
+  "id": 8259073,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8259073?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/parassaini",
+  "html_url": "https://github.com/parassaini",
+  "followers_url": "https://api.github.com/users/parassaini/followers",
+  "following_url": "https://api.github.com/users/parassaini/following{/other_user}",
+  "gists_url": "https://api.github.com/users/parassaini/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/parassaini/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/parassaini/subscriptions",
+  "organizations_url": "https://api.github.com/users/parassaini/orgs",
+  "repos_url": "https://api.github.com/users/parassaini/repos",
+  "events_url": "https://api.github.com/users/parassaini/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/parassaini/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
