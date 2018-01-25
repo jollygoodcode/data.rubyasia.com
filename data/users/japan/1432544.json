@@ -1,0 +1,20 @@
+{
+  "login": "flyingPenguin",
+  "id": 1432544,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1432544?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/flyingPenguin",
+  "html_url": "https://github.com/flyingPenguin",
+  "followers_url": "https://api.github.com/users/flyingPenguin/followers",
+  "following_url": "https://api.github.com/users/flyingPenguin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/flyingPenguin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/flyingPenguin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/flyingPenguin/subscriptions",
+  "organizations_url": "https://api.github.com/users/flyingPenguin/orgs",
+  "repos_url": "https://api.github.com/users/flyingPenguin/repos",
+  "events_url": "https://api.github.com/users/flyingPenguin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/flyingPenguin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

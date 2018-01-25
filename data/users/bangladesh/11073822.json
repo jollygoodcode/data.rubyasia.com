@@ -1,0 +1,20 @@
+{
+  "login": "Swakhar",
+  "id": 11073822,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11073822?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Swakhar",
+  "html_url": "https://github.com/Swakhar",
+  "followers_url": "https://api.github.com/users/Swakhar/followers",
+  "following_url": "https://api.github.com/users/Swakhar/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Swakhar/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Swakhar/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Swakhar/subscriptions",
+  "organizations_url": "https://api.github.com/users/Swakhar/orgs",
+  "repos_url": "https://api.github.com/users/Swakhar/repos",
+  "events_url": "https://api.github.com/users/Swakhar/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Swakhar/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
