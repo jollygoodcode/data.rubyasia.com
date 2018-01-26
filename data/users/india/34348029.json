@@ -1,0 +1,20 @@
+{
+  "login": "authenticryan",
+  "id": 34348029,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/34348029?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/authenticryan",
+  "html_url": "https://github.com/authenticryan",
+  "followers_url": "https://api.github.com/users/authenticryan/followers",
+  "following_url": "https://api.github.com/users/authenticryan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/authenticryan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/authenticryan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/authenticryan/subscriptions",
+  "organizations_url": "https://api.github.com/users/authenticryan/orgs",
+  "repos_url": "https://api.github.com/users/authenticryan/repos",
+  "events_url": "https://api.github.com/users/authenticryan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/authenticryan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
