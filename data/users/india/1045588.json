@@ -1,0 +1,20 @@
+{
+  "login": "hgupta",
+  "id": 1045588,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1045588?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hgupta",
+  "html_url": "https://github.com/hgupta",
+  "followers_url": "https://api.github.com/users/hgupta/followers",
+  "following_url": "https://api.github.com/users/hgupta/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hgupta/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hgupta/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hgupta/subscriptions",
+  "organizations_url": "https://api.github.com/users/hgupta/orgs",
+  "repos_url": "https://api.github.com/users/hgupta/repos",
+  "events_url": "https://api.github.com/users/hgupta/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hgupta/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
