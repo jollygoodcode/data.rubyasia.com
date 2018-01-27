@@ -1,0 +1,286 @@
+{
+  "generated_at": "2018-01-27 08:11:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-20..2018-01-26",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3896,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "gimite/google-drive-ruby",
+      "description": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+      "html_url": "https://github.com/gimite/google-drive-ruby",
+      "stars": 1290,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/rake",
+      "description": "A make-like build utility for Ruby.",
+      "html_url": "https://github.com/ruby/rake",
+      "stars": 1171,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yujinakayama/transpec",
+      "description": "The RSpec syntax converter",
+      "html_url": "https://github.com/yujinakayama/transpec",
+      "stars": 926,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nahi/httpclient",
+      "description": "'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.",
+      "html_url": "https://github.com/nahi/httpclient",
+      "stars": 606,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 592,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/rdoc",
+      "description": "RDoc produces HTML and online documentation for Ruby projects.  RDoc includes the rdoc and ri tools for generating and displaying online documentation.",
+      "html_url": "https://github.com/ruby/rdoc",
+      "stars": 445,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.5.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 313,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 279,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yujinakayama/guard-rubocop",
+      "description": "Guard plugin for RuboCop",
+      "html_url": "https://github.com/yujinakayama/guard-rubocop",
+      "stars": 208,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 195,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sanemat/tachikoma",
+      "description": "Interval Pull Requester with bundler/carton/david/cocoapods/composer/yarn/ncu/none update.",
+      "html_url": "https://github.com/sanemat/tachikoma",
+      "stars": 143,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 137,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/steep",
+      "description": "Gradual Typing for Ruby",
+      "html_url": "https://github.com/soutaro/steep",
+      "stars": 130,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryotarai/fluent-plugin-cloudwatch-logs",
+      "description": "CloudWatch Logs Plugin for Fluentd",
+      "html_url": "https://github.com/ryotarai/fluent-plugin-cloudwatch-logs",
+      "stars": 88,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 83,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ko1/rubyhackchallenge",
+      "description": null,
+      "html_url": "https://github.com/ko1/rubyhackchallenge",
+      "stars": 81,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "simukappu/activity_notification",
+      "description": "Integrated user activity notifications for Ruby on Rails",
+      "html_url": "https://github.com/simukappu/activity_notification",
+      "stars": 74,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "t-k/gmo-payment-ruby",
+      "description": "Ruby client library for the GMO Payment Platform.",
+      "html_url": "https://github.com/t-k/gmo-payment-ruby",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yujinakayama/rspec-hue_formatter",
+      "description": "Bring RSpec integration into your room with Philips Hue",
+      "html_url": "https://github.com/yujinakayama/rspec-hue_formatter",
+      "stars": 60,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yujinakayama/astrolabe",
+      "description": "An object-oriented Ruby AST extension for Parser",
+      "html_url": "https://github.com/yujinakayama/astrolabe",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/bugs.ruby-lang.org",
+      "description": "A little fork of redmine the issue tracking system, for hosting bugs.ruby-lang.org projects.",
+      "html_url": "https://github.com/ruby/bugs.ruby-lang.org",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "asonas/chatwork-ruby",
+      "description": null,
+      "html_url": "https://github.com/asonas/chatwork-ruby",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/iro.vim",
+      "description": "Iro.vim is a Vim plugin that is a next generation syntax highlighter.",
+      "html_url": "https://github.com/pocke/iro.vim",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "taiki45/mixed_gauge",
+      "description": "A simple and robust database sharding with ActiveRecord.",
+      "html_url": "https://github.com/taiki45/mixed_gauge",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tsuwatch/nazrin",
+      "description": "a Ruby wrapper of Amazon CloudSearch (aws-sdk), with ActiveRecord, Mongoid support for easy integration with your Rails application.",
+      "html_url": "https://github.com/tsuwatch/nazrin",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/docomoru",
+      "description": "Client library for docomo API written in Ruby.",
+      "html_url": "https://github.com/r7kamura/docomoru",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/rubocop-rails",
+      "description": "RuboCop configuration which has the same code style checking as official Ruby on Rails",
+      "html_url": "https://github.com/toshimaru/rubocop-rails",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "siaflab/petal",
+      "description": "A small language on Sonic Pi with similar syntax to TidalCycles",
+      "html_url": "https://github.com/siaflab/petal",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "codeout/junoser",
+      "description": "PEG parser for JUNOS configuration.",
+      "html_url": "https://github.com/codeout/junoser",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

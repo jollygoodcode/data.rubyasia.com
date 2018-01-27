@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-01-27 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-20..2018-01-26",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 16936,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yosiat/panko_serializer",
+      "description": "High Performance Serialization for ActiveRecord",
+      "html_url": "https://github.com/yosiat/panko_serializer",
+      "stars": 37,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
