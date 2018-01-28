@@ -1,0 +1,20 @@
+{
+  "login": "karloberas",
+  "id": 7484848,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/7484848?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/karloberas",
+  "html_url": "https://github.com/karloberas",
+  "followers_url": "https://api.github.com/users/karloberas/followers",
+  "following_url": "https://api.github.com/users/karloberas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/karloberas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/karloberas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/karloberas/subscriptions",
+  "organizations_url": "https://api.github.com/users/karloberas/orgs",
+  "repos_url": "https://api.github.com/users/karloberas/repos",
+  "events_url": "https://api.github.com/users/karloberas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/karloberas/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
