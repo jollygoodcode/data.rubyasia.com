@@ -1,0 +1,20 @@
+{
+  "login": "nextann",
+  "id": 7468894,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7468894?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nextann",
+  "html_url": "https://github.com/nextann",
+  "followers_url": "https://api.github.com/users/nextann/followers",
+  "following_url": "https://api.github.com/users/nextann/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nextann/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nextann/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nextann/subscriptions",
+  "organizations_url": "https://api.github.com/users/nextann/orgs",
+  "repos_url": "https://api.github.com/users/nextann/repos",
+  "events_url": "https://api.github.com/users/nextann/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nextann/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
