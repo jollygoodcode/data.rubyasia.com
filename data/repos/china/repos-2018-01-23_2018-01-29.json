@@ -1,0 +1,86 @@
+{
+  "generated_at": "2018-01-30 08:10:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-23..2018-01-29",
+  "repos": [
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3483,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "Eric-Guo/wechat",
+      "description": "API, command and message handling for WeChat in Rails",
+      "html_url": "https://github.com/Eric-Guo/wechat",
+      "stars": 1013,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/wblog",
+      "description": "The missing independent blog system for Ruby on Rails",
+      "html_url": "https://github.com/windy/wblog",
+      "stars": 191,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/redis-sentinel",
+      "description": "another redis automatic master/slave failover solution for ruby by using built-in redis sentinel (deprecated)",
+      "html_url": "https://github.com/flyerhzm/redis-sentinel",
+      "stars": 188,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "huacnlee/carrierwave-aliyun",
+      "description": "阿里云 OSS Ruby 上传组件，基于 Carrierwave",
+      "html_url": "https://github.com/huacnlee/carrierwave-aliyun",
+      "stars": 166,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "mycolorway/tao_on_rails",
+      "description": " The Missing Front-end Framework for Rails Project",
+      "html_url": "https://github.com/mycolorway/tao_on_rails",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "linjunpop/riif",
+      "description": "🏦 A DSL to generate QuickBooks IIF file.",
+      "html_url": "https://github.com/linjunpop/riif",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "plusor/rest-tor",
+      "description": "Tor-based proxy service  that can change IPs indefinitely to request a target server",
+      "html_url": "https://github.com/plusor/rest-tor",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hlcfan/pokr",
+      "description": "Make agile estimating and planning easy with our online planning or scrum poker tool",
+      "html_url": "https://github.com/hlcfan/pokr",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
