@@ -1,0 +1,20 @@
+{
+  "login": "clacke",
+  "id": 199180,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/199180?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/clacke",
+  "html_url": "https://github.com/clacke",
+  "followers_url": "https://api.github.com/users/clacke/followers",
+  "following_url": "https://api.github.com/users/clacke/following{/other_user}",
+  "gists_url": "https://api.github.com/users/clacke/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/clacke/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/clacke/subscriptions",
+  "organizations_url": "https://api.github.com/users/clacke/orgs",
+  "repos_url": "https://api.github.com/users/clacke/repos",
+  "events_url": "https://api.github.com/users/clacke/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/clacke/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
