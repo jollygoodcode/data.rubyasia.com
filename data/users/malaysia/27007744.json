@@ -1,0 +1,20 @@
+{
+  "login": "plokmi",
+  "id": 27007744,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/27007744?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plokmi",
+  "html_url": "https://github.com/plokmi",
+  "followers_url": "https://api.github.com/users/plokmi/followers",
+  "following_url": "https://api.github.com/users/plokmi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plokmi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plokmi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plokmi/subscriptions",
+  "organizations_url": "https://api.github.com/users/plokmi/orgs",
+  "repos_url": "https://api.github.com/users/plokmi/repos",
+  "events_url": "https://api.github.com/users/plokmi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plokmi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
