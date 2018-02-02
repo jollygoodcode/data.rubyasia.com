@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-02-02 08:12:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-26..2018-02-01",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3901,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "Best tool for finding the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 319,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
