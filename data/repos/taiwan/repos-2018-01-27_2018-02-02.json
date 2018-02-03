@@ -1,0 +1,30 @@
+{
+  "generated_at": "2018-02-03 08:12:44 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-27..2018-02-02",
+  "repos": [
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "Best tool for finding the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 319,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rib",
+      "description": "Ruby-Interactive-ruBy -- Yet another interactive Ruby shell",
+      "html_url": "https://github.com/godfat/rib",
+      "stars": 138,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
