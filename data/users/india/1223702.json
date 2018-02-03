@@ -1,0 +1,20 @@
+{
+  "login": "vajapravin",
+  "id": 1223702,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1223702?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vajapravin",
+  "html_url": "https://github.com/vajapravin",
+  "followers_url": "https://api.github.com/users/vajapravin/followers",
+  "following_url": "https://api.github.com/users/vajapravin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vajapravin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vajapravin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vajapravin/subscriptions",
+  "organizations_url": "https://api.github.com/users/vajapravin/orgs",
+  "repos_url": "https://api.github.com/users/vajapravin/repos",
+  "events_url": "https://api.github.com/users/vajapravin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vajapravin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
