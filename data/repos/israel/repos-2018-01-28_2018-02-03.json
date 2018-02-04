@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-02-04 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-28..2018-02-03",
+  "repos": [
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yosiat/panko_serializer",
+      "description": "High Performance JSON Serialization for ActiveRecord",
+      "html_url": "https://github.com/yosiat/panko_serializer",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
