@@ -1,0 +1,20 @@
+{
+  "login": "tomyuk",
+  "id": 641485,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/641485?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tomyuk",
+  "html_url": "https://github.com/tomyuk",
+  "followers_url": "https://api.github.com/users/tomyuk/followers",
+  "following_url": "https://api.github.com/users/tomyuk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tomyuk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tomyuk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tomyuk/subscriptions",
+  "organizations_url": "https://api.github.com/users/tomyuk/orgs",
+  "repos_url": "https://api.github.com/users/tomyuk/repos",
+  "events_url": "https://api.github.com/users/tomyuk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tomyuk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

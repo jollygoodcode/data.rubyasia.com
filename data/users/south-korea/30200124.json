@@ -1,0 +1,20 @@
+{
+  "login": "wiskingdom",
+  "id": 30200124,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/30200124?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wiskingdom",
+  "html_url": "https://github.com/wiskingdom",
+  "followers_url": "https://api.github.com/users/wiskingdom/followers",
+  "following_url": "https://api.github.com/users/wiskingdom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wiskingdom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wiskingdom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wiskingdom/subscriptions",
+  "organizations_url": "https://api.github.com/users/wiskingdom/orgs",
+  "repos_url": "https://api.github.com/users/wiskingdom/repos",
+  "events_url": "https://api.github.com/users/wiskingdom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wiskingdom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
