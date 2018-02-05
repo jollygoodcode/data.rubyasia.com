@@ -1,0 +1,20 @@
+{
+  "login": "keinico",
+  "id": 2427836,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2427836?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/keinico",
+  "html_url": "https://github.com/keinico",
+  "followers_url": "https://api.github.com/users/keinico/followers",
+  "following_url": "https://api.github.com/users/keinico/following{/other_user}",
+  "gists_url": "https://api.github.com/users/keinico/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/keinico/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/keinico/subscriptions",
+  "organizations_url": "https://api.github.com/users/keinico/orgs",
+  "repos_url": "https://api.github.com/users/keinico/repos",
+  "events_url": "https://api.github.com/users/keinico/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/keinico/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
