@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-02-06 08:10:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-30..2018-02-05",
+  "repos": [
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 632,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/cywin",
+      "description": "Cywin Closed( Chinese name: 创业赢 )",
+      "html_url": "https://github.com/windy/cywin",
+      "stars": 309,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 95,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
