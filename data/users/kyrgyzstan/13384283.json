@@ -1,0 +1,20 @@
+{
+  "login": "DaveSal",
+  "id": 13384283,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/13384283?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/DaveSal",
+  "html_url": "https://github.com/DaveSal",
+  "followers_url": "https://api.github.com/users/DaveSal/followers",
+  "following_url": "https://api.github.com/users/DaveSal/following{/other_user}",
+  "gists_url": "https://api.github.com/users/DaveSal/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/DaveSal/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/DaveSal/subscriptions",
+  "organizations_url": "https://api.github.com/users/DaveSal/orgs",
+  "repos_url": "https://api.github.com/users/DaveSal/repos",
+  "events_url": "https://api.github.com/users/DaveSal/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/DaveSal/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
