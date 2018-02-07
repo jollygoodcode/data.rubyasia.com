@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-02-07 08:10:41 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-01-31..2018-02-06",
+  "repos": [
+    {
+      "full_name": "flyerhzm/switch_user",
+      "description": "Easily switch current user",
+      "html_url": "https://github.com/flyerhzm/switch_user",
+      "stars": 632,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/cywin",
+      "description": "Cywin Closed( Chinese name: 创业赢 )",
+      "html_url": "https://github.com/windy/cywin",
+      "stars": 309,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 96,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
