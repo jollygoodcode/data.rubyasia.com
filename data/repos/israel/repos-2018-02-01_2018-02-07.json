@@ -1,0 +1,14 @@
+{
+  "generated_at": "2018-02-08 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-01..2018-02-07",
+  "repos": [
+    {
+      "full_name": "yosiat/panko_serializer",
+      "description": "High Performance JSON Serialization for ActiveRecord",
+      "html_url": "https://github.com/yosiat/panko_serializer",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
