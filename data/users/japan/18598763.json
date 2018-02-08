@@ -1,0 +1,20 @@
+{
+  "login": "gojdd",
+  "id": 18598763,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/18598763?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gojdd",
+  "html_url": "https://github.com/gojdd",
+  "followers_url": "https://api.github.com/users/gojdd/followers",
+  "following_url": "https://api.github.com/users/gojdd/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gojdd/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gojdd/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gojdd/subscriptions",
+  "organizations_url": "https://api.github.com/users/gojdd/orgs",
+  "repos_url": "https://api.github.com/users/gojdd/repos",
+  "events_url": "https://api.github.com/users/gojdd/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gojdd/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
