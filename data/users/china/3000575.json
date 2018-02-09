@@ -1,0 +1,20 @@
+{
+  "login": "alvingao",
+  "id": 3000575,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3000575?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alvingao",
+  "html_url": "https://github.com/alvingao",
+  "followers_url": "https://api.github.com/users/alvingao/followers",
+  "following_url": "https://api.github.com/users/alvingao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alvingao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alvingao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alvingao/subscriptions",
+  "organizations_url": "https://api.github.com/users/alvingao/orgs",
+  "repos_url": "https://api.github.com/users/alvingao/repos",
+  "events_url": "https://api.github.com/users/alvingao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alvingao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
