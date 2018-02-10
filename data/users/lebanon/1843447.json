@@ -1,0 +1,20 @@
+{
+  "login": "medu-dev",
+  "id": 1843447,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1843447?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/medu-dev",
+  "html_url": "https://github.com/medu-dev",
+  "followers_url": "https://api.github.com/users/medu-dev/followers",
+  "following_url": "https://api.github.com/users/medu-dev/following{/other_user}",
+  "gists_url": "https://api.github.com/users/medu-dev/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/medu-dev/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/medu-dev/subscriptions",
+  "organizations_url": "https://api.github.com/users/medu-dev/orgs",
+  "repos_url": "https://api.github.com/users/medu-dev/repos",
+  "events_url": "https://api.github.com/users/medu-dev/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/medu-dev/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

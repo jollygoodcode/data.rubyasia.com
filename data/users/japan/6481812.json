@@ -1,0 +1,20 @@
+{
+  "login": "tets331",
+  "id": 6481812,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6481812?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tets331",
+  "html_url": "https://github.com/tets331",
+  "followers_url": "https://api.github.com/users/tets331/followers",
+  "following_url": "https://api.github.com/users/tets331/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tets331/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tets331/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tets331/subscriptions",
+  "organizations_url": "https://api.github.com/users/tets331/orgs",
+  "repos_url": "https://api.github.com/users/tets331/repos",
+  "events_url": "https://api.github.com/users/tets331/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tets331/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
