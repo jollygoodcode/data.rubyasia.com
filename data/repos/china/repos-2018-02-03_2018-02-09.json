@@ -1,0 +1,54 @@
+{
+  "generated_at": "2018-02-10 08:10:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-03..2018-02-09",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4943,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "windy/cywin",
+      "description": "Cywin Closed( Chinese name: 创业赢 )",
+      "html_url": "https://github.com/windy/cywin",
+      "stars": 309,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "AndorChen/rails-guides",
+      "description": "Rails Guides 中文版",
+      "html_url": "https://github.com/AndorChen/rails-guides",
+      "stars": 97,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. http://linuxbrew.sh",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hlcfan/pokr",
+      "description": "Make agile estimating and planning easy with our online planning or scrum poker tool",
+      "html_url": "https://github.com/hlcfan/pokr",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "jhjguxin/weixin",
+      "description": "微信公众平台 开放消息接口",
+      "html_url": "https://github.com/jhjguxin/weixin",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
