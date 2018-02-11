@@ -1,0 +1,270 @@
+{
+  "generated_at": "2018-02-11 08:11:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-04..2018-02-10",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3909,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "randym/axlsx",
+      "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+      "html_url": "https://github.com/randym/axlsx",
+      "stars": 2172,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "dtan4/terraforming",
+      "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+      "html_url": "https://github.com/dtan4/terraforming",
+      "stars": 1603,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/rake",
+      "description": "A make-like build utility for Ruby.",
+      "html_url": "https://github.com/ruby/rake",
+      "stars": 1183,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "kmuto/review",
+      "description": "Re:VIEW is flexible document format/conversion system",
+      "html_url": "https://github.com/kmuto/review",
+      "stars": 596,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.5.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 321,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shioyama/mobility",
+      "description": "Pluggable Ruby translation framework",
+      "html_url": "https://github.com/shioyama/mobility",
+      "stars": 285,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mizzy/specinfra",
+      "description": "Command Execution Framework for serverspec, itamae and so on",
+      "html_url": "https://github.com/mizzy/specinfra",
+      "stars": 248,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 198,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/steep",
+      "description": "Gradual Typing for Ruby",
+      "html_url": "https://github.com/soutaro/steep",
+      "stars": 133,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/textbringer",
+      "description": "An Emacs-like text editor written in Ruby",
+      "html_url": "https://github.com/shugo/textbringer",
+      "stars": 129,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k-tsj/power_assert",
+      "description": "Power Assert for Ruby",
+      "html_url": "https://github.com/k-tsj/power_assert",
+      "stars": 101,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ko1/rubyhackchallenge",
+      "description": null,
+      "html_url": "https://github.com/ko1/rubyhackchallenge",
+      "stars": 94,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "esminc/adhoq",
+      "description": "Rails engine to generate instant reports from adhoc SQL query.",
+      "html_url": "https://github.com/esminc/adhoq",
+      "stars": 84,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/jekyll-toc",
+      "description": "A liquid filter plugin for Jekyll which generates a table of contents.",
+      "html_url": "https://github.com/toshimaru/jekyll-toc",
+      "stars": 73,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tricknotes/starseeker",
+      "description": "Seek your following's stars!",
+      "html_url": "https://github.com/tricknotes/starseeker",
+      "stars": 69,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "axsh/openvnet",
+      "description": "Data Center Level Virtual Network Toolkit based on Edge Overlaid Network using OpenFlow 1.3.",
+      "html_url": "https://github.com/axsh/openvnet",
+      "stars": 55,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 54,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mitaku/komachi_heartbeat",
+      "description": null,
+      "html_url": "https://github.com/mitaku/komachi_heartbeat",
+      "stars": 45,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/bugs.ruby-lang.org",
+      "description": "A little fork of redmine the issue tracking system, for hosting bugs.ruby-lang.org projects.",
+      "html_url": "https://github.com/ruby/bugs.ruby-lang.org",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "asonas/chatwork-ruby",
+      "description": null,
+      "html_url": "https://github.com/asonas/chatwork-ruby",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/iro.vim",
+      "description": "Iro.vim is a Vim plugin that is a next generation syntax highlighter.",
+      "html_url": "https://github.com/pocke/iro.vim",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/yarv-mjit",
+      "description": "MRI method JIT compiler based on original stack-based YARV instructions (Development Repository of ruby/ruby#1782)",
+      "html_url": "https://github.com/k0kubun/yarv-mjit",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sonots/ruby-server-starter",
+      "description": "a superdaemon for hot-deploying server programs (ruby port of p5-Server-Starter)",
+      "html_url": "https://github.com/sonots/ruby-server-starter",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tsuwatch/nazrin",
+      "description": "a Ruby wrapper of Amazon CloudSearch (aws-sdk), with ActiveRecord, Mongoid support for easy integration with your Rails application.",
+      "html_url": "https://github.com/tsuwatch/nazrin",
+      "stars": 39,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tomiacannondale/era_ja",
+      "description": "Convert to Japanese era",
+      "html_url": "https://github.com/tomiacannondale/era_ja",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "r7kamura/somemoji",
+      "description": "A grand unified emoji mapper for some emoji providers.",
+      "html_url": "https://github.com/r7kamura/somemoji",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "DeployGate/deploygate-cli",
+      "description": "A command-line interface for DeployGate",
+      "html_url": "https://github.com/DeployGate/deploygate-cli",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "great-h/great-h.github.io",
+      "description": "すごい広島",
+      "html_url": "https://github.com/great-h/great-h.github.io",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pepabo/ngx_mruby-package-builder",
+      "description": "Package Builder of ngx_mruby with Docker",
+      "html_url": "https://github.com/pepabo/ngx_mruby-package-builder",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/ccc_privacy_crawler",
+      "description": "Tカードの 個人情報提供の停止 対象企業一覧 の新着を通知するためのTwitterボットです",
+      "html_url": "https://github.com/sue445/ccc_privacy_crawler",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/benchmark_driver",
+      "description": "Benchmark driver for different Ruby executables",
+      "html_url": "https://github.com/k0kubun/benchmark_driver",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/yaichi",
+      "description": "Yaichi is a reverse proxy for developers using Docker on development environment.",
+      "html_url": "https://github.com/mtsmfm/yaichi",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

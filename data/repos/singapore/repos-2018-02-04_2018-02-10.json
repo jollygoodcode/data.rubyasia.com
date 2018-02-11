@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-02-11 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-04..2018-02-10",
+  "repos": [
+    {
+      "full_name": "gazay/gon",
+      "description": "Your Rails variables in your JS",
+      "html_url": "https://github.com/gazay/gon",
+      "stars": 2568,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "sausheong/muse",
+      "description": "A Ruby DSL for making music",
+      "html_url": "https://github.com/sausheong/muse",
+      "stars": 105,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
