@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-02-12 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-05..2018-02-11",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3910,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "tsechingho/chosen-rails",
+      "description": "Integrate Chosen javascript library with Rails asset pipeline",
+      "html_url": "https://github.com/tsechingho/chosen-rails",
+      "stars": 494,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provide powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
