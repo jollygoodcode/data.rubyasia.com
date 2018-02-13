@@ -1,0 +1,46 @@
+{
+  "generated_at": "2018-02-13 08:12:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-06..2018-02-12",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3911,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provide powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 85,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "khiav223577/rails_or",
+      "description": "Cleaner syntax for writing OR Query in Rails 5. And also add #or support to Rails 3 and 4.",
+      "html_url": "https://github.com/khiav223577/rails_or",
+      "stars": 71,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "khiav223577/pluck_all",
+      "description": "Pluck multiple columns/attributes in Rails 3, 4, 5, and can return data as hash instead of only array. If you have a rails 3 project, and want to pluck not only one column, feel free to use this gem and no need to worry about upgrading to Rails 4 in the future will break this.",
+      "html_url": "https://github.com/khiav223577/pluck_all",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
