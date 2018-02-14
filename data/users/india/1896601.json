@@ -1,0 +1,20 @@
+{
+  "login": "laserninja",
+  "id": 1896601,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1896601?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/laserninja",
+  "html_url": "https://github.com/laserninja",
+  "followers_url": "https://api.github.com/users/laserninja/followers",
+  "following_url": "https://api.github.com/users/laserninja/following{/other_user}",
+  "gists_url": "https://api.github.com/users/laserninja/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/laserninja/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/laserninja/subscriptions",
+  "organizations_url": "https://api.github.com/users/laserninja/orgs",
+  "repos_url": "https://api.github.com/users/laserninja/repos",
+  "events_url": "https://api.github.com/users/laserninja/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/laserninja/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

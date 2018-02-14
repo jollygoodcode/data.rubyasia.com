@@ -1,0 +1,20 @@
+{
+  "login": "savanmorya",
+  "id": 11198879,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11198879?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/savanmorya",
+  "html_url": "https://github.com/savanmorya",
+  "followers_url": "https://api.github.com/users/savanmorya/followers",
+  "following_url": "https://api.github.com/users/savanmorya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/savanmorya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/savanmorya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/savanmorya/subscriptions",
+  "organizations_url": "https://api.github.com/users/savanmorya/orgs",
+  "repos_url": "https://api.github.com/users/savanmorya/repos",
+  "events_url": "https://api.github.com/users/savanmorya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/savanmorya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

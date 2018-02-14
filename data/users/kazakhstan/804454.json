@@ -1,0 +1,20 @@
+{
+  "login": "defaultlocale",
+  "id": 804454,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/804454?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/defaultlocale",
+  "html_url": "https://github.com/defaultlocale",
+  "followers_url": "https://api.github.com/users/defaultlocale/followers",
+  "following_url": "https://api.github.com/users/defaultlocale/following{/other_user}",
+  "gists_url": "https://api.github.com/users/defaultlocale/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/defaultlocale/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/defaultlocale/subscriptions",
+  "organizations_url": "https://api.github.com/users/defaultlocale/orgs",
+  "repos_url": "https://api.github.com/users/defaultlocale/repos",
+  "events_url": "https://api.github.com/users/defaultlocale/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/defaultlocale/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
