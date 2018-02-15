@@ -1,0 +1,20 @@
+{
+  "login": "plxus",
+  "id": 20094399,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20094399?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/plxus",
+  "html_url": "https://github.com/plxus",
+  "followers_url": "https://api.github.com/users/plxus/followers",
+  "following_url": "https://api.github.com/users/plxus/following{/other_user}",
+  "gists_url": "https://api.github.com/users/plxus/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/plxus/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/plxus/subscriptions",
+  "organizations_url": "https://api.github.com/users/plxus/orgs",
+  "repos_url": "https://api.github.com/users/plxus/repos",
+  "events_url": "https://api.github.com/users/plxus/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/plxus/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
