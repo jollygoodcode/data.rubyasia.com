@@ -1,0 +1,20 @@
+{
+  "login": "spidergears",
+  "id": 3817081,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3817081?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spidergears",
+  "html_url": "https://github.com/spidergears",
+  "followers_url": "https://api.github.com/users/spidergears/followers",
+  "following_url": "https://api.github.com/users/spidergears/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spidergears/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spidergears/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spidergears/subscriptions",
+  "organizations_url": "https://api.github.com/users/spidergears/orgs",
+  "repos_url": "https://api.github.com/users/spidergears/repos",
+  "events_url": "https://api.github.com/users/spidergears/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spidergears/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
