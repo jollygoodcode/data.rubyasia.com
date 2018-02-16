@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-02-16 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-09..2018-02-15",
+  "repos": [
+    {
+      "full_name": "sausheong/muse",
+      "description": "A Ruby DSL for making music",
+      "html_url": "https://github.com/sausheong/muse",
+      "stars": 104,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 5 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
