@@ -1,0 +1,20 @@
+{
+  "login": "hnishide",
+  "id": 2911569,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2911569?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hnishide",
+  "html_url": "https://github.com/hnishide",
+  "followers_url": "https://api.github.com/users/hnishide/followers",
+  "following_url": "https://api.github.com/users/hnishide/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hnishide/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hnishide/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hnishide/subscriptions",
+  "organizations_url": "https://api.github.com/users/hnishide/orgs",
+  "repos_url": "https://api.github.com/users/hnishide/repos",
+  "events_url": "https://api.github.com/users/hnishide/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hnishide/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
