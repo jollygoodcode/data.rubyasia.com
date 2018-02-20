@@ -1,0 +1,20 @@
+{
+  "login": "t-umeno",
+  "id": 5688335,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5688335?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/t-umeno",
+  "html_url": "https://github.com/t-umeno",
+  "followers_url": "https://api.github.com/users/t-umeno/followers",
+  "following_url": "https://api.github.com/users/t-umeno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/t-umeno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/t-umeno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/t-umeno/subscriptions",
+  "organizations_url": "https://api.github.com/users/t-umeno/orgs",
+  "repos_url": "https://api.github.com/users/t-umeno/repos",
+  "events_url": "https://api.github.com/users/t-umeno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/t-umeno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
