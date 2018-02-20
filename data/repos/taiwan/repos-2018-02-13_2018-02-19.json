@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-02-20 08:12:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-13..2018-02-19",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3921,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "Best tool for finding the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 328,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "khiav223577/deep_pluck",
+      "description": "Allow you to pluck deeply into nested associations without loading a bunch of records. And DRY up your code when using #as_json.",
+      "html_url": "https://github.com/khiav223577/deep_pluck",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provide powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 86,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}

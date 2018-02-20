@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-02-20 08:10:40 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-13..2018-02-19",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4951,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "beenhero/omniauth-weibo-oauth2",
+      "description": "OmniAuth Oauth2 strategy for weibo.com.",
+      "html_url": "https://github.com/beenhero/omniauth-weibo-oauth2",
+      "stars": 139,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 62,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "hlcfan/pokr",
+      "description": "Make agile estimating and planning easy with our online planning or scrum poker tool",
+      "html_url": "https://github.com/hlcfan/pokr",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
