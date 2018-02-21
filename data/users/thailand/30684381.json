@@ -1,0 +1,20 @@
+{
+  "login": "Hassaya",
+  "id": 30684381,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/30684381?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Hassaya",
+  "html_url": "https://github.com/Hassaya",
+  "followers_url": "https://api.github.com/users/Hassaya/followers",
+  "following_url": "https://api.github.com/users/Hassaya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Hassaya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Hassaya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Hassaya/subscriptions",
+  "organizations_url": "https://api.github.com/users/Hassaya/orgs",
+  "repos_url": "https://api.github.com/users/Hassaya/repos",
+  "events_url": "https://api.github.com/users/Hassaya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Hassaya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

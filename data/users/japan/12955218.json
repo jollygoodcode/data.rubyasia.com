@@ -1,0 +1,20 @@
+{
+  "login": "dev-bandai",
+  "id": 12955218,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/12955218?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dev-bandai",
+  "html_url": "https://github.com/dev-bandai",
+  "followers_url": "https://api.github.com/users/dev-bandai/followers",
+  "following_url": "https://api.github.com/users/dev-bandai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dev-bandai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dev-bandai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dev-bandai/subscriptions",
+  "organizations_url": "https://api.github.com/users/dev-bandai/orgs",
+  "repos_url": "https://api.github.com/users/dev-bandai/repos",
+  "events_url": "https://api.github.com/users/dev-bandai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dev-bandai/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
