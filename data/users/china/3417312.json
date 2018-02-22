@@ -1,0 +1,20 @@
+{
+  "login": "grayagon",
+  "id": 3417312,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3417312?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/grayagon",
+  "html_url": "https://github.com/grayagon",
+  "followers_url": "https://api.github.com/users/grayagon/followers",
+  "following_url": "https://api.github.com/users/grayagon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/grayagon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/grayagon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/grayagon/subscriptions",
+  "organizations_url": "https://api.github.com/users/grayagon/orgs",
+  "repos_url": "https://api.github.com/users/grayagon/repos",
+  "events_url": "https://api.github.com/users/grayagon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/grayagon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
