@@ -1,0 +1,30 @@
+{
+  "generated_at": "2018-02-23 08:10:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-16..2018-02-22",
+  "repos": [
+    {
+      "full_name": "arunagw/omniauth-twitter",
+      "description": "OmniAuth strategy for Twitter",
+      "html_url": "https://github.com/arunagw/omniauth-twitter",
+      "stars": 510,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "bigbinary/wheel",
+      "description": "Don't reinvent the wheel for every new Rails project. Use sane Defaults.",
+      "html_url": "https://github.com/bigbinary/wheel",
+      "stars": 49,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "sachin87/week-of-month",
+      "description": "gives a week of month as per given date",
+      "html_url": "https://github.com/sachin87/week-of-month",
+      "stars": 36,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
