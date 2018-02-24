@@ -1,0 +1,20 @@
+{
+  "login": "e-luck",
+  "id": 127240,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/127240?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/e-luck",
+  "html_url": "https://github.com/e-luck",
+  "followers_url": "https://api.github.com/users/e-luck/followers",
+  "following_url": "https://api.github.com/users/e-luck/following{/other_user}",
+  "gists_url": "https://api.github.com/users/e-luck/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/e-luck/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/e-luck/subscriptions",
+  "organizations_url": "https://api.github.com/users/e-luck/orgs",
+  "repos_url": "https://api.github.com/users/e-luck/repos",
+  "events_url": "https://api.github.com/users/e-luck/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/e-luck/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
