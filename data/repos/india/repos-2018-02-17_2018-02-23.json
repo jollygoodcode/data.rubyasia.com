@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-02-24 08:10:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-17..2018-02-23",
+  "repos": [
+    {
+      "full_name": "arunagw/omniauth-twitter",
+      "description": "OmniAuth strategy for Twitter",
+      "html_url": "https://github.com/arunagw/omniauth-twitter",
+      "stars": 510,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "bigbinary/wheel",
+      "description": "Don't reinvent the wheel for every new Rails project. Use sane Defaults.",
+      "html_url": "https://github.com/bigbinary/wheel",
+      "stars": 50,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
