@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-02-25 08:12:43 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-18..2018-02-24",
+  "repos": [
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 5 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "ytbryan/chart",
+      "description": ":v: Add beautiful and reusable charts with one line of ruby for Rails 5.x",
+      "html_url": "https://github.com/ytbryan/chart",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}
