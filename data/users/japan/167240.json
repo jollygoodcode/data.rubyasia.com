@@ -1,0 +1,20 @@
+{
+  "login": "babydaemons",
+  "id": 167240,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/167240?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/babydaemons",
+  "html_url": "https://github.com/babydaemons",
+  "followers_url": "https://api.github.com/users/babydaemons/followers",
+  "following_url": "https://api.github.com/users/babydaemons/following{/other_user}",
+  "gists_url": "https://api.github.com/users/babydaemons/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/babydaemons/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/babydaemons/subscriptions",
+  "organizations_url": "https://api.github.com/users/babydaemons/orgs",
+  "repos_url": "https://api.github.com/users/babydaemons/repos",
+  "events_url": "https://api.github.com/users/babydaemons/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/babydaemons/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

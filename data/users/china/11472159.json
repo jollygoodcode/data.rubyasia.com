@@ -1,0 +1,20 @@
+{
+  "login": "nicecoding",
+  "id": 11472159,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11472159?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nicecoding",
+  "html_url": "https://github.com/nicecoding",
+  "followers_url": "https://api.github.com/users/nicecoding/followers",
+  "following_url": "https://api.github.com/users/nicecoding/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nicecoding/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nicecoding/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nicecoding/subscriptions",
+  "organizations_url": "https://api.github.com/users/nicecoding/orgs",
+  "repos_url": "https://api.github.com/users/nicecoding/repos",
+  "events_url": "https://api.github.com/users/nicecoding/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nicecoding/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}
