@@ -1,0 +1,20 @@
+{
+  "login": "bob-frost",
+  "id": 1378816,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1378816?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bob-frost",
+  "html_url": "https://github.com/bob-frost",
+  "followers_url": "https://api.github.com/users/bob-frost/followers",
+  "following_url": "https://api.github.com/users/bob-frost/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bob-frost/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bob-frost/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bob-frost/subscriptions",
+  "organizations_url": "https://api.github.com/users/bob-frost/orgs",
+  "repos_url": "https://api.github.com/users/bob-frost/repos",
+  "events_url": "https://api.github.com/users/bob-frost/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bob-frost/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

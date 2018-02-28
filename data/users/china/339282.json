@@ -1,0 +1,20 @@
+{
+  "login": "afei",
+  "id": 339282,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/339282?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/afei",
+  "html_url": "https://github.com/afei",
+  "followers_url": "https://api.github.com/users/afei/followers",
+  "following_url": "https://api.github.com/users/afei/following{/other_user}",
+  "gists_url": "https://api.github.com/users/afei/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/afei/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/afei/subscriptions",
+  "organizations_url": "https://api.github.com/users/afei/orgs",
+  "repos_url": "https://api.github.com/users/afei/repos",
+  "events_url": "https://api.github.com/users/afei/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/afei/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
