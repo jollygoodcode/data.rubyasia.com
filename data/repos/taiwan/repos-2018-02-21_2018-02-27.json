@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-02-28 08:12:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-21..2018-02-27",
+  "repos": [
+    {
+      "full_name": "KKBOX/redmine-trello-card-sync",
+      "description": "Sync Redmine ticket to Trello card",
+      "html_url": "https://github.com/KKBOX/redmine-trello-card-sync",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "dlackty/fluent-plugin-remote_syslog",
+      "description": "Fluentd plugin for output to remote syslog serivce (e.g. Papertrail)",
+      "html_url": "https://github.com/dlackty/fluent-plugin-remote_syslog",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
