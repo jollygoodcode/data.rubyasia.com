@@ -1,0 +1,20 @@
+{
+  "login": "hoqqun",
+  "id": 6639578,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6639578?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hoqqun",
+  "html_url": "https://github.com/hoqqun",
+  "followers_url": "https://api.github.com/users/hoqqun/followers",
+  "following_url": "https://api.github.com/users/hoqqun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hoqqun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hoqqun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hoqqun/subscriptions",
+  "organizations_url": "https://api.github.com/users/hoqqun/orgs",
+  "repos_url": "https://api.github.com/users/hoqqun/repos",
+  "events_url": "https://api.github.com/users/hoqqun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hoqqun/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
