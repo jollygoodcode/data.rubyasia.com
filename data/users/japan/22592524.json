@@ -1,0 +1,20 @@
+{
+  "login": "hieki",
+  "id": 22592524,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/22592524?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hieki",
+  "html_url": "https://github.com/hieki",
+  "followers_url": "https://api.github.com/users/hieki/followers",
+  "following_url": "https://api.github.com/users/hieki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hieki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hieki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hieki/subscriptions",
+  "organizations_url": "https://api.github.com/users/hieki/orgs",
+  "repos_url": "https://api.github.com/users/hieki/repos",
+  "events_url": "https://api.github.com/users/hieki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hieki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
