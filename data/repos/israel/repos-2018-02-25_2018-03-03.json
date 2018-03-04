@@ -1,0 +1,38 @@
+{
+  "generated_at": "2018-03-04 08:11:36 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-25..2018-03-03",
+  "repos": [
+    {
+      "full_name": "jondot/awesome-react-native",
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "html_url": "https://github.com/jondot/awesome-react-native",
+      "stars": 17588,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1597,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 102,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "yosiat/panko_serializer",
+      "description": "High Performance JSON Serialization for ActiveRecord & Ruby Objects",
+      "html_url": "https://github.com/yosiat/panko_serializer",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
