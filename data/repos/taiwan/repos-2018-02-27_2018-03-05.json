@@ -1,0 +1,30 @@
+{
+  "generated_at": "2018-03-06 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-27..2018-03-05",
+  "repos": [
+    {
+      "full_name": "khiav223577/deep_pluck",
+      "description": "Allow you to pluck deeply into nested associations without loading a bunch of records. And DRY up your code when using #as_json.",
+      "html_url": "https://github.com/khiav223577/deep_pluck",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "joshua5201/tioj",
+      "description": "TIOJ Infor Online Judge",
+      "html_url": "https://github.com/joshua5201/tioj",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "dlackty/fluent-plugin-remote_syslog",
+      "description": "Fluentd plugin for output to remote syslog serivce (e.g. Papertrail)",
+      "html_url": "https://github.com/dlackty/fluent-plugin-remote_syslog",
+      "stars": 27,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
