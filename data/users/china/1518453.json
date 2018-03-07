@@ -1,0 +1,20 @@
+{
+  "login": "Alex-Cheng",
+  "id": 1518453,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1518453?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Alex-Cheng",
+  "html_url": "https://github.com/Alex-Cheng",
+  "followers_url": "https://api.github.com/users/Alex-Cheng/followers",
+  "following_url": "https://api.github.com/users/Alex-Cheng/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Alex-Cheng/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Alex-Cheng/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Alex-Cheng/subscriptions",
+  "organizations_url": "https://api.github.com/users/Alex-Cheng/orgs",
+  "repos_url": "https://api.github.com/users/Alex-Cheng/repos",
+  "events_url": "https://api.github.com/users/Alex-Cheng/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Alex-Cheng/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

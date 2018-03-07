@@ -1,0 +1,20 @@
+{
+  "login": "robbychs",
+  "id": 1331153,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1331153?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robbychs",
+  "html_url": "https://github.com/robbychs",
+  "followers_url": "https://api.github.com/users/robbychs/followers",
+  "following_url": "https://api.github.com/users/robbychs/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robbychs/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robbychs/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robbychs/subscriptions",
+  "organizations_url": "https://api.github.com/users/robbychs/orgs",
+  "repos_url": "https://api.github.com/users/robbychs/repos",
+  "events_url": "https://api.github.com/users/robbychs/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robbychs/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
