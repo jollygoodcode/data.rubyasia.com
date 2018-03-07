@@ -1,0 +1,30 @@
+{
+  "generated_at": "2018-03-07 08:12:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-02-28..2018-03-06",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 2378,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "khiav223577/deep_pluck",
+      "description": "Allow you to pluck deeply into nested associations without loading a bunch of records. And DRY up your code when using #as_json.",
+      "html_url": "https://github.com/khiav223577/deep_pluck",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "joshua5201/tioj",
+      "description": "TIOJ Infor Online Judge",
+      "html_url": "https://github.com/joshua5201/tioj",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
