@@ -1,0 +1,20 @@
+{
+  "login": "Gnommer",
+  "id": 15103553,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/15103553?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Gnommer",
+  "html_url": "https://github.com/Gnommer",
+  "followers_url": "https://api.github.com/users/Gnommer/followers",
+  "following_url": "https://api.github.com/users/Gnommer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Gnommer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Gnommer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Gnommer/subscriptions",
+  "organizations_url": "https://api.github.com/users/Gnommer/orgs",
+  "repos_url": "https://api.github.com/users/Gnommer/repos",
+  "events_url": "https://api.github.com/users/Gnommer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Gnommer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

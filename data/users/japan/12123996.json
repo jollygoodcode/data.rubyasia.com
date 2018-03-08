@@ -1,0 +1,20 @@
+{
+  "login": "yyk-la",
+  "id": 12123996,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/12123996?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yyk-la",
+  "html_url": "https://github.com/yyk-la",
+  "followers_url": "https://api.github.com/users/yyk-la/followers",
+  "following_url": "https://api.github.com/users/yyk-la/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yyk-la/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yyk-la/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yyk-la/subscriptions",
+  "organizations_url": "https://api.github.com/users/yyk-la/orgs",
+  "repos_url": "https://api.github.com/users/yyk-la/repos",
+  "events_url": "https://api.github.com/users/yyk-la/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yyk-la/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
