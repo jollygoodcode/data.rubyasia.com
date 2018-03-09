@@ -1,0 +1,20 @@
+{
+  "login": "codeweft",
+  "id": 4687459,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4687459?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codeweft",
+  "html_url": "https://github.com/codeweft",
+  "followers_url": "https://api.github.com/users/codeweft/followers",
+  "following_url": "https://api.github.com/users/codeweft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codeweft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codeweft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codeweft/subscriptions",
+  "organizations_url": "https://api.github.com/users/codeweft/orgs",
+  "repos_url": "https://api.github.com/users/codeweft/repos",
+  "events_url": "https://api.github.com/users/codeweft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codeweft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

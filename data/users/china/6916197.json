@@ -1,0 +1,20 @@
+{
+  "login": "Merisc",
+  "id": 6916197,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6916197?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Merisc",
+  "html_url": "https://github.com/Merisc",
+  "followers_url": "https://api.github.com/users/Merisc/followers",
+  "following_url": "https://api.github.com/users/Merisc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Merisc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Merisc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Merisc/subscriptions",
+  "organizations_url": "https://api.github.com/users/Merisc/orgs",
+  "repos_url": "https://api.github.com/users/Merisc/repos",
+  "events_url": "https://api.github.com/users/Merisc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Merisc/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

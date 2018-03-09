@@ -1,0 +1,20 @@
+{
+  "login": "mikataka",
+  "id": 3830918,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/3830918?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mikataka",
+  "html_url": "https://github.com/mikataka",
+  "followers_url": "https://api.github.com/users/mikataka/followers",
+  "following_url": "https://api.github.com/users/mikataka/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mikataka/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mikataka/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mikataka/subscriptions",
+  "organizations_url": "https://api.github.com/users/mikataka/orgs",
+  "repos_url": "https://api.github.com/users/mikataka/repos",
+  "events_url": "https://api.github.com/users/mikataka/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mikataka/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

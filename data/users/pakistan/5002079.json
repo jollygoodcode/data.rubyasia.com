@@ -1,0 +1,20 @@
+{
+  "login": "kiplip",
+  "id": 5002079,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5002079?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kiplip",
+  "html_url": "https://github.com/kiplip",
+  "followers_url": "https://api.github.com/users/kiplip/followers",
+  "following_url": "https://api.github.com/users/kiplip/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kiplip/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kiplip/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kiplip/subscriptions",
+  "organizations_url": "https://api.github.com/users/kiplip/orgs",
+  "repos_url": "https://api.github.com/users/kiplip/repos",
+  "events_url": "https://api.github.com/users/kiplip/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kiplip/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

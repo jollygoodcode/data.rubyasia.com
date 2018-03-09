@@ -1,0 +1,20 @@
+{
+  "login": "tenfrontier",
+  "id": 1651247,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1651247?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tenfrontier",
+  "html_url": "https://github.com/tenfrontier",
+  "followers_url": "https://api.github.com/users/tenfrontier/followers",
+  "following_url": "https://api.github.com/users/tenfrontier/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tenfrontier/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tenfrontier/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tenfrontier/subscriptions",
+  "organizations_url": "https://api.github.com/users/tenfrontier/orgs",
+  "repos_url": "https://api.github.com/users/tenfrontier/repos",
+  "events_url": "https://api.github.com/users/tenfrontier/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tenfrontier/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

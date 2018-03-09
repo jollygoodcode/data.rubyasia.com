@@ -1,0 +1,20 @@
+{
+  "login": "kjsm",
+  "id": 5326815,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5326815?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kjsm",
+  "html_url": "https://github.com/kjsm",
+  "followers_url": "https://api.github.com/users/kjsm/followers",
+  "following_url": "https://api.github.com/users/kjsm/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kjsm/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kjsm/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kjsm/subscriptions",
+  "organizations_url": "https://api.github.com/users/kjsm/orgs",
+  "repos_url": "https://api.github.com/users/kjsm/repos",
+  "events_url": "https://api.github.com/users/kjsm/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kjsm/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "downson",
+  "id": 5747821,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5747821?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/downson",
+  "html_url": "https://github.com/downson",
+  "followers_url": "https://api.github.com/users/downson/followers",
+  "following_url": "https://api.github.com/users/downson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/downson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/downson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/downson/subscriptions",
+  "organizations_url": "https://api.github.com/users/downson/orgs",
+  "repos_url": "https://api.github.com/users/downson/repos",
+  "events_url": "https://api.github.com/users/downson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/downson/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

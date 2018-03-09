@@ -1,0 +1,20 @@
+{
+  "login": "filderschoice",
+  "id": 870408,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/870408?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/filderschoice",
+  "html_url": "https://github.com/filderschoice",
+  "followers_url": "https://api.github.com/users/filderschoice/followers",
+  "following_url": "https://api.github.com/users/filderschoice/following{/other_user}",
+  "gists_url": "https://api.github.com/users/filderschoice/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/filderschoice/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/filderschoice/subscriptions",
+  "organizations_url": "https://api.github.com/users/filderschoice/orgs",
+  "repos_url": "https://api.github.com/users/filderschoice/repos",
+  "events_url": "https://api.github.com/users/filderschoice/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/filderschoice/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

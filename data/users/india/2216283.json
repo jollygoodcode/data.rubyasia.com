@@ -1,0 +1,20 @@
+{
+  "login": "garythomasgeorge",
+  "id": 2216283,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2216283?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/garythomasgeorge",
+  "html_url": "https://github.com/garythomasgeorge",
+  "followers_url": "https://api.github.com/users/garythomasgeorge/followers",
+  "following_url": "https://api.github.com/users/garythomasgeorge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/garythomasgeorge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/garythomasgeorge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/garythomasgeorge/subscriptions",
+  "organizations_url": "https://api.github.com/users/garythomasgeorge/orgs",
+  "repos_url": "https://api.github.com/users/garythomasgeorge/repos",
+  "events_url": "https://api.github.com/users/garythomasgeorge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/garythomasgeorge/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

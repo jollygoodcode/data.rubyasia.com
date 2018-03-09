@@ -1,0 +1,20 @@
+{
+  "login": "gmrind",
+  "id": 12180635,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12180635?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gmrind",
+  "html_url": "https://github.com/gmrind",
+  "followers_url": "https://api.github.com/users/gmrind/followers",
+  "following_url": "https://api.github.com/users/gmrind/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gmrind/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gmrind/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gmrind/subscriptions",
+  "organizations_url": "https://api.github.com/users/gmrind/orgs",
+  "repos_url": "https://api.github.com/users/gmrind/repos",
+  "events_url": "https://api.github.com/users/gmrind/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gmrind/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

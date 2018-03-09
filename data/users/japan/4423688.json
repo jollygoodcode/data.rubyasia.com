@@ -1,0 +1,20 @@
+{
+  "login": "quicktwit",
+  "id": 4423688,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4423688?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/quicktwit",
+  "html_url": "https://github.com/quicktwit",
+  "followers_url": "https://api.github.com/users/quicktwit/followers",
+  "following_url": "https://api.github.com/users/quicktwit/following{/other_user}",
+  "gists_url": "https://api.github.com/users/quicktwit/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/quicktwit/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/quicktwit/subscriptions",
+  "organizations_url": "https://api.github.com/users/quicktwit/orgs",
+  "repos_url": "https://api.github.com/users/quicktwit/repos",
+  "events_url": "https://api.github.com/users/quicktwit/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/quicktwit/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

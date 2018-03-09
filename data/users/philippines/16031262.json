@@ -1,0 +1,20 @@
+{
+  "login": "rdcode",
+  "id": 16031262,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/16031262?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rdcode",
+  "html_url": "https://github.com/rdcode",
+  "followers_url": "https://api.github.com/users/rdcode/followers",
+  "following_url": "https://api.github.com/users/rdcode/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rdcode/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rdcode/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rdcode/subscriptions",
+  "organizations_url": "https://api.github.com/users/rdcode/orgs",
+  "repos_url": "https://api.github.com/users/rdcode/repos",
+  "events_url": "https://api.github.com/users/rdcode/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rdcode/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

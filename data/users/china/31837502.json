@@ -1,0 +1,20 @@
+{
+  "login": "jstom",
+  "id": 31837502,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/31837502?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jstom",
+  "html_url": "https://github.com/jstom",
+  "followers_url": "https://api.github.com/users/jstom/followers",
+  "following_url": "https://api.github.com/users/jstom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jstom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jstom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jstom/subscriptions",
+  "organizations_url": "https://api.github.com/users/jstom/orgs",
+  "repos_url": "https://api.github.com/users/jstom/repos",
+  "events_url": "https://api.github.com/users/jstom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jstom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

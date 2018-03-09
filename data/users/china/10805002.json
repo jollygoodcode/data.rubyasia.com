@@ -1,0 +1,20 @@
+{
+  "login": "ElsieHarvard",
+  "id": 10805002,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10805002?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ElsieHarvard",
+  "html_url": "https://github.com/ElsieHarvard",
+  "followers_url": "https://api.github.com/users/ElsieHarvard/followers",
+  "following_url": "https://api.github.com/users/ElsieHarvard/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ElsieHarvard/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ElsieHarvard/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ElsieHarvard/subscriptions",
+  "organizations_url": "https://api.github.com/users/ElsieHarvard/orgs",
+  "repos_url": "https://api.github.com/users/ElsieHarvard/repos",
+  "events_url": "https://api.github.com/users/ElsieHarvard/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ElsieHarvard/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

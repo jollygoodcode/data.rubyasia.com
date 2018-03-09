@@ -1,0 +1,20 @@
+{
+  "login": "HendiGood",
+  "id": 12978682,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/12978682?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HendiGood",
+  "html_url": "https://github.com/HendiGood",
+  "followers_url": "https://api.github.com/users/HendiGood/followers",
+  "following_url": "https://api.github.com/users/HendiGood/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HendiGood/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HendiGood/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HendiGood/subscriptions",
+  "organizations_url": "https://api.github.com/users/HendiGood/orgs",
+  "repos_url": "https://api.github.com/users/HendiGood/repos",
+  "events_url": "https://api.github.com/users/HendiGood/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HendiGood/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "masahikojin",
+  "id": 2019489,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2019489?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/masahikojin",
+  "html_url": "https://github.com/masahikojin",
+  "followers_url": "https://api.github.com/users/masahikojin/followers",
+  "following_url": "https://api.github.com/users/masahikojin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/masahikojin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/masahikojin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/masahikojin/subscriptions",
+  "organizations_url": "https://api.github.com/users/masahikojin/orgs",
+  "repos_url": "https://api.github.com/users/masahikojin/repos",
+  "events_url": "https://api.github.com/users/masahikojin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/masahikojin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

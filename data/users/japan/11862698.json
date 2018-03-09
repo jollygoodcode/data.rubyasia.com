@@ -1,0 +1,20 @@
+{
+  "login": "ohayokki",
+  "id": 11862698,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11862698?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ohayokki",
+  "html_url": "https://github.com/ohayokki",
+  "followers_url": "https://api.github.com/users/ohayokki/followers",
+  "following_url": "https://api.github.com/users/ohayokki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ohayokki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ohayokki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ohayokki/subscriptions",
+  "organizations_url": "https://api.github.com/users/ohayokki/orgs",
+  "repos_url": "https://api.github.com/users/ohayokki/repos",
+  "events_url": "https://api.github.com/users/ohayokki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ohayokki/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

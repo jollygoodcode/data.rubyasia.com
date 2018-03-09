@@ -1,0 +1,20 @@
+{
+  "login": "kno2502",
+  "id": 1230425,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1230425?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kno2502",
+  "html_url": "https://github.com/kno2502",
+  "followers_url": "https://api.github.com/users/kno2502/followers",
+  "following_url": "https://api.github.com/users/kno2502/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kno2502/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kno2502/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kno2502/subscriptions",
+  "organizations_url": "https://api.github.com/users/kno2502/orgs",
+  "repos_url": "https://api.github.com/users/kno2502/repos",
+  "events_url": "https://api.github.com/users/kno2502/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kno2502/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

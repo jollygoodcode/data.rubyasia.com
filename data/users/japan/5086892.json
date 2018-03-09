@@ -1,0 +1,20 @@
+{
+  "login": "virtualtech",
+  "id": 5086892,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5086892?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/virtualtech",
+  "html_url": "https://github.com/virtualtech",
+  "followers_url": "https://api.github.com/users/virtualtech/followers",
+  "following_url": "https://api.github.com/users/virtualtech/following{/other_user}",
+  "gists_url": "https://api.github.com/users/virtualtech/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/virtualtech/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/virtualtech/subscriptions",
+  "organizations_url": "https://api.github.com/users/virtualtech/orgs",
+  "repos_url": "https://api.github.com/users/virtualtech/repos",
+  "events_url": "https://api.github.com/users/virtualtech/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/virtualtech/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

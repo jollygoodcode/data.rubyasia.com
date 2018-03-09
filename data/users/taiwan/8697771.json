@@ -1,0 +1,20 @@
+{
+  "login": "raphliu",
+  "id": 8697771,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/8697771?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/raphliu",
+  "html_url": "https://github.com/raphliu",
+  "followers_url": "https://api.github.com/users/raphliu/followers",
+  "following_url": "https://api.github.com/users/raphliu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/raphliu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/raphliu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/raphliu/subscriptions",
+  "organizations_url": "https://api.github.com/users/raphliu/orgs",
+  "repos_url": "https://api.github.com/users/raphliu/repos",
+  "events_url": "https://api.github.com/users/raphliu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/raphliu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

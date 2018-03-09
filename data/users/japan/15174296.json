@@ -1,0 +1,20 @@
+{
+  "login": "takeshi-akutsu",
+  "id": 15174296,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/15174296?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/takeshi-akutsu",
+  "html_url": "https://github.com/takeshi-akutsu",
+  "followers_url": "https://api.github.com/users/takeshi-akutsu/followers",
+  "following_url": "https://api.github.com/users/takeshi-akutsu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/takeshi-akutsu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/takeshi-akutsu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/takeshi-akutsu/subscriptions",
+  "organizations_url": "https://api.github.com/users/takeshi-akutsu/orgs",
+  "repos_url": "https://api.github.com/users/takeshi-akutsu/repos",
+  "events_url": "https://api.github.com/users/takeshi-akutsu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/takeshi-akutsu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

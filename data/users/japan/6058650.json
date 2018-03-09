@@ -1,0 +1,20 @@
+{
+  "login": "Tetsup",
+  "id": 6058650,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6058650?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Tetsup",
+  "html_url": "https://github.com/Tetsup",
+  "followers_url": "https://api.github.com/users/Tetsup/followers",
+  "following_url": "https://api.github.com/users/Tetsup/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Tetsup/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Tetsup/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Tetsup/subscriptions",
+  "organizations_url": "https://api.github.com/users/Tetsup/orgs",
+  "repos_url": "https://api.github.com/users/Tetsup/repos",
+  "events_url": "https://api.github.com/users/Tetsup/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Tetsup/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

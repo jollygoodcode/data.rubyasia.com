@@ -1,0 +1,20 @@
+{
+  "login": "chukuno",
+  "id": 13515071,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13515071?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/chukuno",
+  "html_url": "https://github.com/chukuno",
+  "followers_url": "https://api.github.com/users/chukuno/followers",
+  "following_url": "https://api.github.com/users/chukuno/following{/other_user}",
+  "gists_url": "https://api.github.com/users/chukuno/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/chukuno/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/chukuno/subscriptions",
+  "organizations_url": "https://api.github.com/users/chukuno/orgs",
+  "repos_url": "https://api.github.com/users/chukuno/repos",
+  "events_url": "https://api.github.com/users/chukuno/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/chukuno/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

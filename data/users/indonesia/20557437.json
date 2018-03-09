@@ -1,0 +1,20 @@
+{
+  "login": "myprojectnewbie",
+  "id": 20557437,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/20557437?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/myprojectnewbie",
+  "html_url": "https://github.com/myprojectnewbie",
+  "followers_url": "https://api.github.com/users/myprojectnewbie/followers",
+  "following_url": "https://api.github.com/users/myprojectnewbie/following{/other_user}",
+  "gists_url": "https://api.github.com/users/myprojectnewbie/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/myprojectnewbie/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/myprojectnewbie/subscriptions",
+  "organizations_url": "https://api.github.com/users/myprojectnewbie/orgs",
+  "repos_url": "https://api.github.com/users/myprojectnewbie/repos",
+  "events_url": "https://api.github.com/users/myprojectnewbie/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/myprojectnewbie/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

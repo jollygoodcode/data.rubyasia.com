@@ -1,0 +1,20 @@
+{
+  "login": "mnbi",
+  "id": 352248,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/352248?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mnbi",
+  "html_url": "https://github.com/mnbi",
+  "followers_url": "https://api.github.com/users/mnbi/followers",
+  "following_url": "https://api.github.com/users/mnbi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mnbi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mnbi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mnbi/subscriptions",
+  "organizations_url": "https://api.github.com/users/mnbi/orgs",
+  "repos_url": "https://api.github.com/users/mnbi/repos",
+  "events_url": "https://api.github.com/users/mnbi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mnbi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

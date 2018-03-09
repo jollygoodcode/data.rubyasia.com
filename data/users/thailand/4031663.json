@@ -1,0 +1,20 @@
+{
+  "login": "alexiacole",
+  "id": 4031663,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4031663?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/alexiacole",
+  "html_url": "https://github.com/alexiacole",
+  "followers_url": "https://api.github.com/users/alexiacole/followers",
+  "following_url": "https://api.github.com/users/alexiacole/following{/other_user}",
+  "gists_url": "https://api.github.com/users/alexiacole/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/alexiacole/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/alexiacole/subscriptions",
+  "organizations_url": "https://api.github.com/users/alexiacole/orgs",
+  "repos_url": "https://api.github.com/users/alexiacole/repos",
+  "events_url": "https://api.github.com/users/alexiacole/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/alexiacole/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "marvenhool",
+  "id": 6357170,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6357170?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/marvenhool",
+  "html_url": "https://github.com/marvenhool",
+  "followers_url": "https://api.github.com/users/marvenhool/followers",
+  "following_url": "https://api.github.com/users/marvenhool/following{/other_user}",
+  "gists_url": "https://api.github.com/users/marvenhool/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/marvenhool/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/marvenhool/subscriptions",
+  "organizations_url": "https://api.github.com/users/marvenhool/orgs",
+  "repos_url": "https://api.github.com/users/marvenhool/repos",
+  "events_url": "https://api.github.com/users/marvenhool/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/marvenhool/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

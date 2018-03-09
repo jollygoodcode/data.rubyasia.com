@@ -1,0 +1,20 @@
+{
+  "login": "ayweak",
+  "id": 222470,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/222470?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ayweak",
+  "html_url": "https://github.com/ayweak",
+  "followers_url": "https://api.github.com/users/ayweak/followers",
+  "following_url": "https://api.github.com/users/ayweak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ayweak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ayweak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ayweak/subscriptions",
+  "organizations_url": "https://api.github.com/users/ayweak/orgs",
+  "repos_url": "https://api.github.com/users/ayweak/repos",
+  "events_url": "https://api.github.com/users/ayweak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ayweak/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

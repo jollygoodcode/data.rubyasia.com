@@ -1,0 +1,20 @@
+{
+  "login": "TestMyCloudHost",
+  "id": 33982430,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/33982430?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TestMyCloudHost",
+  "html_url": "https://github.com/TestMyCloudHost",
+  "followers_url": "https://api.github.com/users/TestMyCloudHost/followers",
+  "following_url": "https://api.github.com/users/TestMyCloudHost/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TestMyCloudHost/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TestMyCloudHost/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TestMyCloudHost/subscriptions",
+  "organizations_url": "https://api.github.com/users/TestMyCloudHost/orgs",
+  "repos_url": "https://api.github.com/users/TestMyCloudHost/repos",
+  "events_url": "https://api.github.com/users/TestMyCloudHost/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TestMyCloudHost/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

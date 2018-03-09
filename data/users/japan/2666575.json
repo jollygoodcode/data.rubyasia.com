@@ -1,0 +1,20 @@
+{
+  "login": "stageleft",
+  "id": 2666575,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2666575?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stageleft",
+  "html_url": "https://github.com/stageleft",
+  "followers_url": "https://api.github.com/users/stageleft/followers",
+  "following_url": "https://api.github.com/users/stageleft/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stageleft/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stageleft/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stageleft/subscriptions",
+  "organizations_url": "https://api.github.com/users/stageleft/orgs",
+  "repos_url": "https://api.github.com/users/stageleft/repos",
+  "events_url": "https://api.github.com/users/stageleft/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stageleft/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

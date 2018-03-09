@@ -1,0 +1,20 @@
+{
+  "login": "Awesoham",
+  "id": 2468706,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2468706?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Awesoham",
+  "html_url": "https://github.com/Awesoham",
+  "followers_url": "https://api.github.com/users/Awesoham/followers",
+  "following_url": "https://api.github.com/users/Awesoham/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Awesoham/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Awesoham/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Awesoham/subscriptions",
+  "organizations_url": "https://api.github.com/users/Awesoham/orgs",
+  "repos_url": "https://api.github.com/users/Awesoham/repos",
+  "events_url": "https://api.github.com/users/Awesoham/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Awesoham/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

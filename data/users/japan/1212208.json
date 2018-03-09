@@ -1,0 +1,20 @@
+{
+  "login": "deluizon",
+  "id": 1212208,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1212208?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deluizon",
+  "html_url": "https://github.com/deluizon",
+  "followers_url": "https://api.github.com/users/deluizon/followers",
+  "following_url": "https://api.github.com/users/deluizon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deluizon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deluizon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deluizon/subscriptions",
+  "organizations_url": "https://api.github.com/users/deluizon/orgs",
+  "repos_url": "https://api.github.com/users/deluizon/repos",
+  "events_url": "https://api.github.com/users/deluizon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deluizon/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

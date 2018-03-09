@@ -1,0 +1,20 @@
+{
+  "login": "viruslab",
+  "id": 11624673,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/11624673?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/viruslab",
+  "html_url": "https://github.com/viruslab",
+  "followers_url": "https://api.github.com/users/viruslab/followers",
+  "following_url": "https://api.github.com/users/viruslab/following{/other_user}",
+  "gists_url": "https://api.github.com/users/viruslab/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/viruslab/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/viruslab/subscriptions",
+  "organizations_url": "https://api.github.com/users/viruslab/orgs",
+  "repos_url": "https://api.github.com/users/viruslab/repos",
+  "events_url": "https://api.github.com/users/viruslab/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/viruslab/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

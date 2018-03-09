@@ -1,0 +1,20 @@
+{
+  "login": "oncity",
+  "id": 1127506,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1127506?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/oncity",
+  "html_url": "https://github.com/oncity",
+  "followers_url": "https://api.github.com/users/oncity/followers",
+  "following_url": "https://api.github.com/users/oncity/following{/other_user}",
+  "gists_url": "https://api.github.com/users/oncity/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/oncity/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/oncity/subscriptions",
+  "organizations_url": "https://api.github.com/users/oncity/orgs",
+  "repos_url": "https://api.github.com/users/oncity/repos",
+  "events_url": "https://api.github.com/users/oncity/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/oncity/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

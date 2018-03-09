@@ -1,0 +1,20 @@
+{
+  "login": "deiorate",
+  "id": 2376480,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2376480?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deiorate",
+  "html_url": "https://github.com/deiorate",
+  "followers_url": "https://api.github.com/users/deiorate/followers",
+  "following_url": "https://api.github.com/users/deiorate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deiorate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deiorate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deiorate/subscriptions",
+  "organizations_url": "https://api.github.com/users/deiorate/orgs",
+  "repos_url": "https://api.github.com/users/deiorate/repos",
+  "events_url": "https://api.github.com/users/deiorate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deiorate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

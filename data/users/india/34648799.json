@@ -1,0 +1,20 @@
+{
+  "login": "pinelane",
+  "id": 34648799,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/34648799?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pinelane",
+  "html_url": "https://github.com/pinelane",
+  "followers_url": "https://api.github.com/users/pinelane/followers",
+  "following_url": "https://api.github.com/users/pinelane/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pinelane/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pinelane/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pinelane/subscriptions",
+  "organizations_url": "https://api.github.com/users/pinelane/orgs",
+  "repos_url": "https://api.github.com/users/pinelane/repos",
+  "events_url": "https://api.github.com/users/pinelane/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pinelane/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "fanbright",
+  "id": 5306613,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5306613?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fanbright",
+  "html_url": "https://github.com/fanbright",
+  "followers_url": "https://api.github.com/users/fanbright/followers",
+  "following_url": "https://api.github.com/users/fanbright/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fanbright/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fanbright/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fanbright/subscriptions",
+  "organizations_url": "https://api.github.com/users/fanbright/orgs",
+  "repos_url": "https://api.github.com/users/fanbright/repos",
+  "events_url": "https://api.github.com/users/fanbright/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fanbright/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

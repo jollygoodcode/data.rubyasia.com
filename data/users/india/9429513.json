@@ -1,0 +1,20 @@
+{
+  "login": "gishu",
+  "id": 9429513,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/9429513?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gishu",
+  "html_url": "https://github.com/gishu",
+  "followers_url": "https://api.github.com/users/gishu/followers",
+  "following_url": "https://api.github.com/users/gishu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gishu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gishu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gishu/subscriptions",
+  "organizations_url": "https://api.github.com/users/gishu/orgs",
+  "repos_url": "https://api.github.com/users/gishu/repos",
+  "events_url": "https://api.github.com/users/gishu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gishu/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

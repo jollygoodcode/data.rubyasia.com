@@ -1,0 +1,20 @@
+{
+  "login": "brandyburdick",
+  "id": 20133093,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/20133093?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brandyburdick",
+  "html_url": "https://github.com/brandyburdick",
+  "followers_url": "https://api.github.com/users/brandyburdick/followers",
+  "following_url": "https://api.github.com/users/brandyburdick/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brandyburdick/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brandyburdick/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brandyburdick/subscriptions",
+  "organizations_url": "https://api.github.com/users/brandyburdick/orgs",
+  "repos_url": "https://api.github.com/users/brandyburdick/repos",
+  "events_url": "https://api.github.com/users/brandyburdick/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brandyburdick/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

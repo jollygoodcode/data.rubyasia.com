@@ -1,0 +1,20 @@
+{
+  "login": "zzzin",
+  "id": 1296494,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1296494?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zzzin",
+  "html_url": "https://github.com/zzzin",
+  "followers_url": "https://api.github.com/users/zzzin/followers",
+  "following_url": "https://api.github.com/users/zzzin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zzzin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zzzin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zzzin/subscriptions",
+  "organizations_url": "https://api.github.com/users/zzzin/orgs",
+  "repos_url": "https://api.github.com/users/zzzin/repos",
+  "events_url": "https://api.github.com/users/zzzin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zzzin/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

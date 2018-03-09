@@ -1,0 +1,20 @@
+{
+  "login": "crowwhite",
+  "id": 9726337,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/9726337?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/crowwhite",
+  "html_url": "https://github.com/crowwhite",
+  "followers_url": "https://api.github.com/users/crowwhite/followers",
+  "following_url": "https://api.github.com/users/crowwhite/following{/other_user}",
+  "gists_url": "https://api.github.com/users/crowwhite/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/crowwhite/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/crowwhite/subscriptions",
+  "organizations_url": "https://api.github.com/users/crowwhite/orgs",
+  "repos_url": "https://api.github.com/users/crowwhite/repos",
+  "events_url": "https://api.github.com/users/crowwhite/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/crowwhite/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

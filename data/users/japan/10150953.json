@@ -1,0 +1,20 @@
+{
+  "login": "rsensesystems",
+  "id": 10150953,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10150953?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rsensesystems",
+  "html_url": "https://github.com/rsensesystems",
+  "followers_url": "https://api.github.com/users/rsensesystems/followers",
+  "following_url": "https://api.github.com/users/rsensesystems/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rsensesystems/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rsensesystems/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rsensesystems/subscriptions",
+  "organizations_url": "https://api.github.com/users/rsensesystems/orgs",
+  "repos_url": "https://api.github.com/users/rsensesystems/repos",
+  "events_url": "https://api.github.com/users/rsensesystems/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rsensesystems/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

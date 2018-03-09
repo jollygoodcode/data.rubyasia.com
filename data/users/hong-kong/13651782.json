@@ -1,0 +1,20 @@
+{
+  "login": "jonchrisong",
+  "id": 13651782,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/13651782?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jonchrisong",
+  "html_url": "https://github.com/jonchrisong",
+  "followers_url": "https://api.github.com/users/jonchrisong/followers",
+  "following_url": "https://api.github.com/users/jonchrisong/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jonchrisong/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jonchrisong/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jonchrisong/subscriptions",
+  "organizations_url": "https://api.github.com/users/jonchrisong/orgs",
+  "repos_url": "https://api.github.com/users/jonchrisong/repos",
+  "events_url": "https://api.github.com/users/jonchrisong/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jonchrisong/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

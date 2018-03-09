@@ -1,0 +1,20 @@
+{
+  "login": "mclaingeorgia",
+  "id": 12841294,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12841294?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mclaingeorgia",
+  "html_url": "https://github.com/mclaingeorgia",
+  "followers_url": "https://api.github.com/users/mclaingeorgia/followers",
+  "following_url": "https://api.github.com/users/mclaingeorgia/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mclaingeorgia/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mclaingeorgia/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mclaingeorgia/subscriptions",
+  "organizations_url": "https://api.github.com/users/mclaingeorgia/orgs",
+  "repos_url": "https://api.github.com/users/mclaingeorgia/repos",
+  "events_url": "https://api.github.com/users/mclaingeorgia/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mclaingeorgia/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

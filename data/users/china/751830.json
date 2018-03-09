@@ -1,0 +1,20 @@
+{
+  "login": "wongr",
+  "id": 751830,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/751830?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/wongr",
+  "html_url": "https://github.com/wongr",
+  "followers_url": "https://api.github.com/users/wongr/followers",
+  "following_url": "https://api.github.com/users/wongr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/wongr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/wongr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/wongr/subscriptions",
+  "organizations_url": "https://api.github.com/users/wongr/orgs",
+  "repos_url": "https://api.github.com/users/wongr/repos",
+  "events_url": "https://api.github.com/users/wongr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/wongr/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

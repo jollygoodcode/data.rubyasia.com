@@ -1,0 +1,20 @@
+{
+  "login": "sanyatark",
+  "id": 12522218,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12522218?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sanyatark",
+  "html_url": "https://github.com/sanyatark",
+  "followers_url": "https://api.github.com/users/sanyatark/followers",
+  "following_url": "https://api.github.com/users/sanyatark/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sanyatark/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sanyatark/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sanyatark/subscriptions",
+  "organizations_url": "https://api.github.com/users/sanyatark/orgs",
+  "repos_url": "https://api.github.com/users/sanyatark/repos",
+  "events_url": "https://api.github.com/users/sanyatark/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sanyatark/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

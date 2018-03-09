@@ -1,0 +1,20 @@
+{
+  "login": "dforest",
+  "id": 628404,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/628404?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dforest",
+  "html_url": "https://github.com/dforest",
+  "followers_url": "https://api.github.com/users/dforest/followers",
+  "following_url": "https://api.github.com/users/dforest/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dforest/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dforest/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dforest/subscriptions",
+  "organizations_url": "https://api.github.com/users/dforest/orgs",
+  "repos_url": "https://api.github.com/users/dforest/repos",
+  "events_url": "https://api.github.com/users/dforest/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dforest/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

@@ -1,0 +1,20 @@
+{
+  "login": "cbaditya",
+  "id": 8321918,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8321918?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cbaditya",
+  "html_url": "https://github.com/cbaditya",
+  "followers_url": "https://api.github.com/users/cbaditya/followers",
+  "following_url": "https://api.github.com/users/cbaditya/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cbaditya/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cbaditya/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cbaditya/subscriptions",
+  "organizations_url": "https://api.github.com/users/cbaditya/orgs",
+  "repos_url": "https://api.github.com/users/cbaditya/repos",
+  "events_url": "https://api.github.com/users/cbaditya/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cbaditya/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

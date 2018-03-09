@@ -1,0 +1,20 @@
+{
+  "login": "intorgate",
+  "id": 10221210,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/10221210?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/intorgate",
+  "html_url": "https://github.com/intorgate",
+  "followers_url": "https://api.github.com/users/intorgate/followers",
+  "following_url": "https://api.github.com/users/intorgate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/intorgate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/intorgate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/intorgate/subscriptions",
+  "organizations_url": "https://api.github.com/users/intorgate/orgs",
+  "repos_url": "https://api.github.com/users/intorgate/repos",
+  "events_url": "https://api.github.com/users/intorgate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/intorgate/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

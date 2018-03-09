@@ -1,0 +1,20 @@
+{
+  "login": "unfreedom",
+  "id": 30496724,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/30496724?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/unfreedom",
+  "html_url": "https://github.com/unfreedom",
+  "followers_url": "https://api.github.com/users/unfreedom/followers",
+  "following_url": "https://api.github.com/users/unfreedom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/unfreedom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/unfreedom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/unfreedom/subscriptions",
+  "organizations_url": "https://api.github.com/users/unfreedom/orgs",
+  "repos_url": "https://api.github.com/users/unfreedom/repos",
+  "events_url": "https://api.github.com/users/unfreedom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/unfreedom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

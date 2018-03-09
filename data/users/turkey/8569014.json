@@ -1,0 +1,20 @@
+{
+  "login": "sanrobo",
+  "id": 8569014,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8569014?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sanrobo",
+  "html_url": "https://github.com/sanrobo",
+  "followers_url": "https://api.github.com/users/sanrobo/followers",
+  "following_url": "https://api.github.com/users/sanrobo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sanrobo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sanrobo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sanrobo/subscriptions",
+  "organizations_url": "https://api.github.com/users/sanrobo/orgs",
+  "repos_url": "https://api.github.com/users/sanrobo/repos",
+  "events_url": "https://api.github.com/users/sanrobo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sanrobo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

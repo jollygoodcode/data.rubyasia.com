@@ -1,0 +1,20 @@
+{
+  "login": "brijsingh",
+  "id": 3291989,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3291989?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brijsingh",
+  "html_url": "https://github.com/brijsingh",
+  "followers_url": "https://api.github.com/users/brijsingh/followers",
+  "following_url": "https://api.github.com/users/brijsingh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brijsingh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brijsingh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brijsingh/subscriptions",
+  "organizations_url": "https://api.github.com/users/brijsingh/orgs",
+  "repos_url": "https://api.github.com/users/brijsingh/repos",
+  "events_url": "https://api.github.com/users/brijsingh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brijsingh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

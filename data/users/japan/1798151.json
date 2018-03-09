@@ -1,0 +1,20 @@
+{
+  "login": "banri",
+  "id": 1798151,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1798151?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/banri",
+  "html_url": "https://github.com/banri",
+  "followers_url": "https://api.github.com/users/banri/followers",
+  "following_url": "https://api.github.com/users/banri/following{/other_user}",
+  "gists_url": "https://api.github.com/users/banri/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/banri/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/banri/subscriptions",
+  "organizations_url": "https://api.github.com/users/banri/orgs",
+  "repos_url": "https://api.github.com/users/banri/repos",
+  "events_url": "https://api.github.com/users/banri/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/banri/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

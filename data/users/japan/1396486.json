@@ -1,0 +1,20 @@
+{
+  "login": "sogabe",
+  "id": 1396486,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1396486?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/sogabe",
+  "html_url": "https://github.com/sogabe",
+  "followers_url": "https://api.github.com/users/sogabe/followers",
+  "following_url": "https://api.github.com/users/sogabe/following{/other_user}",
+  "gists_url": "https://api.github.com/users/sogabe/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/sogabe/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/sogabe/subscriptions",
+  "organizations_url": "https://api.github.com/users/sogabe/orgs",
+  "repos_url": "https://api.github.com/users/sogabe/repos",
+  "events_url": "https://api.github.com/users/sogabe/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/sogabe/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

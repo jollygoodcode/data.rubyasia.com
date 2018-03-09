@@ -1,0 +1,20 @@
+{
+  "login": "siriusSnape",
+  "id": 8610050,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/8610050?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/siriusSnape",
+  "html_url": "https://github.com/siriusSnape",
+  "followers_url": "https://api.github.com/users/siriusSnape/followers",
+  "following_url": "https://api.github.com/users/siriusSnape/following{/other_user}",
+  "gists_url": "https://api.github.com/users/siriusSnape/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/siriusSnape/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/siriusSnape/subscriptions",
+  "organizations_url": "https://api.github.com/users/siriusSnape/orgs",
+  "repos_url": "https://api.github.com/users/siriusSnape/repos",
+  "events_url": "https://api.github.com/users/siriusSnape/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/siriusSnape/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

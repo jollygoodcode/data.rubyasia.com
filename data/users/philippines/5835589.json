@@ -1,0 +1,20 @@
+{
+  "login": "damenez",
+  "id": 5835589,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5835589?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/damenez",
+  "html_url": "https://github.com/damenez",
+  "followers_url": "https://api.github.com/users/damenez/followers",
+  "following_url": "https://api.github.com/users/damenez/following{/other_user}",
+  "gists_url": "https://api.github.com/users/damenez/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/damenez/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/damenez/subscriptions",
+  "organizations_url": "https://api.github.com/users/damenez/orgs",
+  "repos_url": "https://api.github.com/users/damenez/repos",
+  "events_url": "https://api.github.com/users/damenez/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/damenez/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

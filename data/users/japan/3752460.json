@@ -1,0 +1,20 @@
+{
+  "login": "obolzer",
+  "id": 3752460,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3752460?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/obolzer",
+  "html_url": "https://github.com/obolzer",
+  "followers_url": "https://api.github.com/users/obolzer/followers",
+  "following_url": "https://api.github.com/users/obolzer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/obolzer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/obolzer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/obolzer/subscriptions",
+  "organizations_url": "https://api.github.com/users/obolzer/orgs",
+  "repos_url": "https://api.github.com/users/obolzer/repos",
+  "events_url": "https://api.github.com/users/obolzer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/obolzer/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
