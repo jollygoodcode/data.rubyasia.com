@@ -1,0 +1,20 @@
+{
+  "login": "codertomns",
+  "id": 24384314,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/24384314?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/codertomns",
+  "html_url": "https://github.com/codertomns",
+  "followers_url": "https://api.github.com/users/codertomns/followers",
+  "following_url": "https://api.github.com/users/codertomns/following{/other_user}",
+  "gists_url": "https://api.github.com/users/codertomns/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/codertomns/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/codertomns/subscriptions",
+  "organizations_url": "https://api.github.com/users/codertomns/orgs",
+  "repos_url": "https://api.github.com/users/codertomns/repos",
+  "events_url": "https://api.github.com/users/codertomns/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/codertomns/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
