@@ -1,0 +1,46 @@
+{
+  "generated_at": "2018-03-11 08:10:39 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-04..2018-03-10",
+  "repos": [
+    {
+      "full_name": "flyerhzm/bullet",
+      "description": "help to kill N+1 queries and unused eager loading",
+      "html_url": "https://github.com/flyerhzm/bullet",
+      "stars": 4981,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3498,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "DeathKing/Learning-SICP",
+      "description": "《计算机程序的构造和解释》公开课中文化项目。",
+      "html_url": "https://github.com/DeathKing/Learning-SICP",
+      "stars": 3188,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. Please contribute to monorepo.",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 40,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "plusor/rest-tor",
+      "description": "Tor-based proxy service  that can change IPs indefinitely to request a target server",
+      "html_url": "https://github.com/plusor/rest-tor",
+      "stars": 30,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
