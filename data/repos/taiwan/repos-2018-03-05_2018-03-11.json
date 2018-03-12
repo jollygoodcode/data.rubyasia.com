@@ -1,0 +1,70 @@
+{
+  "generated_at": "2018-03-12 08:12:46 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-05..2018-03-11",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 2387,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "Best tool for finding the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 338,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "khiav223577/deep_pluck",
+      "description": "Allow you to pluck deeply into nested associations without loading a bunch of records. And DRY up your code when using #as_json.",
+      "html_url": "https://github.com/khiav223577/deep_pluck",
+      "stars": 170,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provide powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 89,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "khiav223577/pluck_all",
+      "description": "Pluck multiple columns/attributes in Rails 3, 4, 5, and can return data as hash instead of only array. If you have a rails 3 project, and want to pluck not only one column, feel free to use this gem and no need to worry about upgrading to Rails 4 in the future will break this.",
+      "html_url": "https://github.com/khiav223577/pluck_all",
+      "stars": 42,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "lulalala/settei",
+      "description": "Config as YAML yet still being 12-factor compliant",
+      "html_url": "https://github.com/lulalala/settei",
+      "stars": 24,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
