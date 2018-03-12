@@ -1,0 +1,20 @@
+{
+  "login": "richardvenneman",
+  "id": 75705,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/75705?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/richardvenneman",
+  "html_url": "https://github.com/richardvenneman",
+  "followers_url": "https://api.github.com/users/richardvenneman/followers",
+  "following_url": "https://api.github.com/users/richardvenneman/following{/other_user}",
+  "gists_url": "https://api.github.com/users/richardvenneman/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/richardvenneman/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/richardvenneman/subscriptions",
+  "organizations_url": "https://api.github.com/users/richardvenneman/orgs",
+  "repos_url": "https://api.github.com/users/richardvenneman/repos",
+  "events_url": "https://api.github.com/users/richardvenneman/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/richardvenneman/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
