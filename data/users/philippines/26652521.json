@@ -1,0 +1,20 @@
+{
+  "login": "TopherJan",
+  "id": 26652521,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/26652521?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/TopherJan",
+  "html_url": "https://github.com/TopherJan",
+  "followers_url": "https://api.github.com/users/TopherJan/followers",
+  "following_url": "https://api.github.com/users/TopherJan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TopherJan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/TopherJan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TopherJan/subscriptions",
+  "organizations_url": "https://api.github.com/users/TopherJan/orgs",
+  "repos_url": "https://api.github.com/users/TopherJan/repos",
+  "events_url": "https://api.github.com/users/TopherJan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/TopherJan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
