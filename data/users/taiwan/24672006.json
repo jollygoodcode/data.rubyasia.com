@@ -1,0 +1,20 @@
+{
+  "login": "yobum",
+  "id": 24672006,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/24672006?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yobum",
+  "html_url": "https://github.com/yobum",
+  "followers_url": "https://api.github.com/users/yobum/followers",
+  "following_url": "https://api.github.com/users/yobum/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yobum/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yobum/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yobum/subscriptions",
+  "organizations_url": "https://api.github.com/users/yobum/orgs",
+  "repos_url": "https://api.github.com/users/yobum/repos",
+  "events_url": "https://api.github.com/users/yobum/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yobum/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

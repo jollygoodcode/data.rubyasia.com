@@ -1,0 +1,20 @@
+{
+  "login": "Sqaace",
+  "id": 32670283,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/32670283?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Sqaace",
+  "html_url": "https://github.com/Sqaace",
+  "followers_url": "https://api.github.com/users/Sqaace/followers",
+  "following_url": "https://api.github.com/users/Sqaace/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Sqaace/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Sqaace/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Sqaace/subscriptions",
+  "organizations_url": "https://api.github.com/users/Sqaace/orgs",
+  "repos_url": "https://api.github.com/users/Sqaace/repos",
+  "events_url": "https://api.github.com/users/Sqaace/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Sqaace/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

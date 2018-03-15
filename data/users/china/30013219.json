@@ -1,0 +1,20 @@
+{
+  "login": "Hermesfish",
+  "id": 30013219,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/30013219?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Hermesfish",
+  "html_url": "https://github.com/Hermesfish",
+  "followers_url": "https://api.github.com/users/Hermesfish/followers",
+  "following_url": "https://api.github.com/users/Hermesfish/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Hermesfish/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Hermesfish/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Hermesfish/subscriptions",
+  "organizations_url": "https://api.github.com/users/Hermesfish/orgs",
+  "repos_url": "https://api.github.com/users/Hermesfish/repos",
+  "events_url": "https://api.github.com/users/Hermesfish/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Hermesfish/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

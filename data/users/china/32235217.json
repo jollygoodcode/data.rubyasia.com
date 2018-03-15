@@ -1,0 +1,20 @@
+{
+  "login": "devuncle",
+  "id": 32235217,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/32235217?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/devuncle",
+  "html_url": "https://github.com/devuncle",
+  "followers_url": "https://api.github.com/users/devuncle/followers",
+  "following_url": "https://api.github.com/users/devuncle/following{/other_user}",
+  "gists_url": "https://api.github.com/users/devuncle/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/devuncle/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/devuncle/subscriptions",
+  "organizations_url": "https://api.github.com/users/devuncle/orgs",
+  "repos_url": "https://api.github.com/users/devuncle/repos",
+  "events_url": "https://api.github.com/users/devuncle/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/devuncle/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
