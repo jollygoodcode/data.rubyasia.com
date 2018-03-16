@@ -1,0 +1,20 @@
+{
+  "login": "yaoxao",
+  "id": 7196152,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7196152?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yaoxao",
+  "html_url": "https://github.com/yaoxao",
+  "followers_url": "https://api.github.com/users/yaoxao/followers",
+  "following_url": "https://api.github.com/users/yaoxao/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yaoxao/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yaoxao/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yaoxao/subscriptions",
+  "organizations_url": "https://api.github.com/users/yaoxao/orgs",
+  "repos_url": "https://api.github.com/users/yaoxao/repos",
+  "events_url": "https://api.github.com/users/yaoxao/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yaoxao/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
