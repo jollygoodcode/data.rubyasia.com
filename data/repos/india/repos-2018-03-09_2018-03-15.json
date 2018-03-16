@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-03-16 08:10:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-09..2018-03-15",
+  "repos": [
+    {
+      "full_name": "bigbinary/wheel",
+      "description": "Don't reinvent the wheel for every new Rails project. Use sane Defaults.",
+      "html_url": "https://github.com/bigbinary/wheel",
+      "stars": 53,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "mindaslab/ilrx",
+      "description": "I Love Ruby Examples",
+      "html_url": "https://github.com/mindaslab/ilrx",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
