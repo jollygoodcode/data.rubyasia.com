@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-03-17 08:11:34 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-10..2018-03-16",
+  "repos": [
+    {
+      "full_name": "pboling/flag_shih_tzu",
+      "description": "Bit fields for ActiveRecord",
+      "html_url": "https://github.com/pboling/flag_shih_tzu",
+      "stars": 396,
+      "language": "Ruby",
+      "region": "Indonesia"
+    },
+    {
+      "full_name": "pboling/sanitize_email",
+      "description": "An Email Condom for your Ruby Server",
+      "html_url": "https://github.com/pboling/sanitize_email",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "Indonesia"
+    }
+  ]
+}

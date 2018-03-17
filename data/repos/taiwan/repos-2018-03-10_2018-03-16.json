@@ -1,0 +1,46 @@
+{
+  "generated_at": "2018-03-17 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-10..2018-03-16",
+  "repos": [
+    {
+      "full_name": "hothero/awesome-rails-gem",
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "html_url": "https://github.com/hothero/awesome-rails-gem",
+      "stars": 2392,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "Best tool for finding the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 341,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provide powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 89,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "khiav223577/rails_or",
+      "description": "Cleaner syntax for writing OR Query in Rails 5. And also add #or support to Rails 3 and 4.",
+      "html_url": "https://github.com/khiav223577/rails_or",
+      "stars": 74,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "lulalala/settei",
+      "description": "Config as YAML yet still being 12-factor compliant",
+      "html_url": "https://github.com/lulalala/settei",
+      "stars": 28,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
