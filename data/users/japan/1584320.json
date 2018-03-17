@@ -1,0 +1,20 @@
+{
+  "login": "kyoh",
+  "id": 1584320,
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1584320?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kyoh",
+  "html_url": "https://github.com/kyoh",
+  "followers_url": "https://api.github.com/users/kyoh/followers",
+  "following_url": "https://api.github.com/users/kyoh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kyoh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kyoh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kyoh/subscriptions",
+  "organizations_url": "https://api.github.com/users/kyoh/orgs",
+  "repos_url": "https://api.github.com/users/kyoh/repos",
+  "events_url": "https://api.github.com/users/kyoh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kyoh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
