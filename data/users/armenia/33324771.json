@@ -1,0 +1,20 @@
+{
+  "login": "jamalyan",
+  "id": 33324771,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/33324771?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamalyan",
+  "html_url": "https://github.com/jamalyan",
+  "followers_url": "https://api.github.com/users/jamalyan/followers",
+  "following_url": "https://api.github.com/users/jamalyan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamalyan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamalyan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamalyan/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamalyan/orgs",
+  "repos_url": "https://api.github.com/users/jamalyan/repos",
+  "events_url": "https://api.github.com/users/jamalyan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamalyan/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
