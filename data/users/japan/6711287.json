@@ -1,0 +1,20 @@
+{
+  "login": "ryanstorberg",
+  "id": 6711287,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6711287?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ryanstorberg",
+  "html_url": "https://github.com/ryanstorberg",
+  "followers_url": "https://api.github.com/users/ryanstorberg/followers",
+  "following_url": "https://api.github.com/users/ryanstorberg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ryanstorberg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ryanstorberg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ryanstorberg/subscriptions",
+  "organizations_url": "https://api.github.com/users/ryanstorberg/orgs",
+  "repos_url": "https://api.github.com/users/ryanstorberg/repos",
+  "events_url": "https://api.github.com/users/ryanstorberg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ryanstorberg/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

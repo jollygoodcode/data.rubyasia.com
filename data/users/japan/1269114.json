@@ -1,0 +1,20 @@
+{
+  "login": "akyoz",
+  "id": 1269114,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1269114?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/akyoz",
+  "html_url": "https://github.com/akyoz",
+  "followers_url": "https://api.github.com/users/akyoz/followers",
+  "following_url": "https://api.github.com/users/akyoz/following{/other_user}",
+  "gists_url": "https://api.github.com/users/akyoz/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/akyoz/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/akyoz/subscriptions",
+  "organizations_url": "https://api.github.com/users/akyoz/orgs",
+  "repos_url": "https://api.github.com/users/akyoz/repos",
+  "events_url": "https://api.github.com/users/akyoz/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/akyoz/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
