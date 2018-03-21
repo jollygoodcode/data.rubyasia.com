@@ -1,0 +1,46 @@
+{
+  "generated_at": "2018-03-21 08:10:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-14..2018-03-20",
+  "repos": [
+    {
+      "full_name": "flyerhzm/rails_best_practices",
+      "description": "a code metric tool for rails projects",
+      "html_url": "https://github.com/flyerhzm/rails_best_practices",
+      "stars": 3505,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "cryptape/ruby-ethereum",
+      "description": "A Ruby implementation of Ethereum.",
+      "html_url": "https://github.com/cryptape/ruby-ethereum",
+      "stars": 202,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "bayetech/wechat_mall_applet_backend",
+      "description": null,
+      "html_url": "https://github.com/bayetech/wechat_mall_applet_backend",
+      "stars": 65,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "046569/qq",
+      "description": "QQConnect SDK",
+      "html_url": "https://github.com/046569/qq",
+      "stars": 56,
+      "language": "Ruby",
+      "region": "China"
+    },
+    {
+      "full_name": "athrunsun/homebrew-linuxbinary",
+      "description": "Precompiled binary formulae for the Linuxbrew package manager. Please contribute to monorepo.",
+      "html_url": "https://github.com/athrunsun/homebrew-linuxbinary",
+      "stars": 41,
+      "language": "Ruby",
+      "region": "China"
+    }
+  ]
+}
