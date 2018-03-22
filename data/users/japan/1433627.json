@@ -1,0 +1,20 @@
+{
+  "login": "neucom",
+  "id": 1433627,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1433627?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/neucom",
+  "html_url": "https://github.com/neucom",
+  "followers_url": "https://api.github.com/users/neucom/followers",
+  "following_url": "https://api.github.com/users/neucom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/neucom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/neucom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/neucom/subscriptions",
+  "organizations_url": "https://api.github.com/users/neucom/orgs",
+  "repos_url": "https://api.github.com/users/neucom/repos",
+  "events_url": "https://api.github.com/users/neucom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/neucom/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
