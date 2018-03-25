@@ -1,0 +1,270 @@
+{
+  "generated_at": "2018-03-25 08:11:48 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-18..2018-03-24",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3958,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/rake",
+      "description": "A make-like build utility for Ruby.",
+      "html_url": "https://github.com/ruby/rake",
+      "stars": 1226,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "nov/rack-oauth2",
+      "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.",
+      "html_url": "https://github.com/nov/rack-oauth2",
+      "stars": 598,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "winebarrel/ridgepole",
+      "description": "Ridgepole is a tool to manage DB schema.  It defines DB schema using Rails DSL, and updates DB schema according to DSL. (like Chef/Puppet)",
+      "html_url": "https://github.com/winebarrel/ridgepole",
+      "stars": 527,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/rdoc",
+      "description": "RDoc produces HTML and online documentation for Ruby projects.  RDoc includes the rdoc and ri tools for generating and displaying online documentation.",
+      "html_url": "https://github.com/ruby/rdoc",
+      "stars": 459,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "annict/annict",
+      "description": "The platform for anime addicts built with Rails 5.1 and Vue.js 2.5.",
+      "html_url": "https://github.com/annict/annict",
+      "stars": 328,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/spec",
+      "description": "The Ruby Spec Suite",
+      "html_url": "https://github.com/ruby/spec",
+      "stars": 300,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_segmenter",
+      "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.",
+      "html_url": "https://github.com/diasks2/pragmatic_segmenter",
+      "stars": 232,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cookpad/kuroko2",
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine.",
+      "html_url": "https://github.com/cookpad/kuroko2",
+      "stars": 209,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "soutaro/steep",
+      "description": "Gradual Typing for Ruby",
+      "html_url": "https://github.com/soutaro/steep",
+      "stars": 205,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "volanja/ansible_spec",
+      "description": "It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).",
+      "html_url": "https://github.com/volanja/ansible_spec",
+      "stars": 189,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "mtsmfm/language_server-ruby",
+      "description": "A Ruby Language Server implementation",
+      "html_url": "https://github.com/mtsmfm/language_server-ruby",
+      "stars": 187,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "eagletmt/hako",
+      "description": "Deploy Docker container",
+      "html_url": "https://github.com/eagletmt/hako",
+      "stars": 179,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "cxn03651/write_xlsx",
+      "description": "Rubygem for create excel xlsx file",
+      "html_url": "https://github.com/cxn03651/write_xlsx",
+      "stars": 162,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tdiary/tdiary-core",
+      "description": "tDiary, The TSUKKOMI-able Weblog.",
+      "html_url": "https://github.com/tdiary/tdiary-core",
+      "stars": 137,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shugo/textbringer",
+      "description": "An Emacs-like text editor written in Ruby",
+      "html_url": "https://github.com/shugo/textbringer",
+      "stars": 130,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "higanworks/knife-zero",
+      "description": "Run chef-client at remote node with chef-zero(local-mode) via HTTP over SSH port fowarding.",
+      "html_url": "https://github.com/higanworks/knife-zero",
+      "stars": 129,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ko1/rubyhackchallenge",
+      "description": null,
+      "html_url": "https://github.com/ko1/rubyhackchallenge",
+      "stars": 116,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sue445/rubicure",
+      "description": "All about Japanese battle heroine \"Pretty Cure (Precure)\"",
+      "html_url": "https://github.com/sue445/rubicure",
+      "stars": 87,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "pocke/mry",
+      "description": "Mry Migrates .Rubocop.Yml",
+      "html_url": "https://github.com/pocke/mry",
+      "stars": 70,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tricknotes/starseeker",
+      "description": "Seek your following's stars!",
+      "html_url": "https://github.com/tricknotes/starseeker",
+      "stars": 68,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ryuzee/SlideHub",
+      "description": "SlideHub is an Open Source Slide Sharing Application for Azure / AWS",
+      "html_url": "https://github.com/ryuzee/SlideHub",
+      "stars": 66,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "masutaka/circleci-bundle-update-pr",
+      "description": "Create PullRequest of bundle update in CircleCI",
+      "html_url": "https://github.com/masutaka/circleci-bundle-update-pr",
+      "stars": 57,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "toshimaru/RailsTwitterClone",
+      "description": "Simple Twitter clone using Ruby on Rails 5.",
+      "html_url": "https://github.com/toshimaru/RailsTwitterClone",
+      "stars": 55,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "tmiyamon/acts-as-taggable-array-on",
+      "description": "A simple and high performance tagging gem for Rails using PostgreSQL array.",
+      "html_url": "https://github.com/tmiyamon/acts-as-taggable-array-on",
+      "stars": 48,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/bugs.ruby-lang.org",
+      "description": "A little fork of redmine the issue tracking system, for hosting bugs.ruby-lang.org projects.",
+      "html_url": "https://github.com/ruby/bugs.ruby-lang.org",
+      "stars": 43,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yohasebe/rsyntaxtree",
+      "description": "Syntax tree generator made with Ruby and RMagic",
+      "html_url": "https://github.com/yohasebe/rsyntaxtree",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "diasks2/pragmatic_tokenizer",
+      "description": "A multilingual tokenizer to split a string into tokens",
+      "html_url": "https://github.com/diasks2/pragmatic_tokenizer",
+      "stars": 38,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "k0kubun/benchmark_driver",
+      "description": "Benchmark driver for different Ruby executables",
+      "html_url": "https://github.com/k0kubun/benchmark_driver",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "shinosakarb/tebukuro",
+      "description": "Build communities and ticketing",
+      "html_url": "https://github.com/shinosakarb/tebukuro",
+      "stars": 31,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "yaocloud/yao",
+      "description": "Yet Another OpenStack API wrapper",
+      "html_url": "https://github.com/yaocloud/yao",
+      "stars": 29,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "ruby/chkbuild",
+      "description": "Continuous Integration tool, mainly for Ruby",
+      "html_url": "https://github.com/ruby/chkbuild",
+      "stars": 23,
+      "language": "Ruby",
+      "region": "Japan"
+    },
+    {
+      "full_name": "sorah/config",
+      "description": "config",
+      "html_url": "https://github.com/sorah/config",
+      "stars": 21,
+      "language": "Ruby",
+      "region": "Japan"
+    }
+  ]
+}

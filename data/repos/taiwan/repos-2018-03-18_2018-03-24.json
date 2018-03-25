@@ -1,0 +1,78 @@
+{
+  "generated_at": "2018-03-25 08:12:47 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-18..2018-03-24",
+  "repos": [
+    {
+      "full_name": "JuanitoFatas/fast-ruby",
+      "description": ":dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.",
+      "html_url": "https://github.com/JuanitoFatas/fast-ruby",
+      "stars": 3958,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/one_gadget",
+      "description": "Best tool for finding the one gadget RCE in libc.so.6",
+      "html_url": "https://github.com/david942j/one_gadget",
+      "stars": 346,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "rubytaiwan/jobs.ruby.tw",
+      "description": "Job board for Ruby and Rails developers in Taiwan",
+      "html_url": "https://github.com/rubytaiwan/jobs.ruby.tw",
+      "stars": 149,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/seccomp-tools",
+      "description": "Provide powerful tools for seccomp analysis",
+      "html_url": "https://github.com/david942j/seccomp-tools",
+      "stars": 93,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-core",
+      "description": "Various rest-builder middleware for building REST clients.",
+      "html_url": "https://github.com/godfat/rest-core",
+      "stars": 52,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "KKBOX/redmine-trello-card-sync",
+      "description": "Sync Redmine ticket to Trello card",
+      "html_url": "https://github.com/KKBOX/redmine-trello-card-sync",
+      "stars": 34,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "david942j/heapinfo",
+      "description": "create an interactive memory info interface while pwn / exploiting",
+      "html_url": "https://github.com/david942j/heapinfo",
+      "stars": 33,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "joshua5201/tioj",
+      "description": "TIOJ Infor Online Judge",
+      "html_url": "https://github.com/joshua5201/tioj",
+      "stars": 32,
+      "language": "Ruby",
+      "region": "Taiwan"
+    },
+    {
+      "full_name": "godfat/rest-more",
+      "description": "Various REST clients such as Facebook and Twitter built with rest-core",
+      "html_url": "https://github.com/godfat/rest-more",
+      "stars": 26,
+      "language": "Ruby",
+      "region": "Taiwan"
+    }
+  ]
+}
