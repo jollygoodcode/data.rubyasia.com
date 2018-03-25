@@ -1,0 +1,20 @@
+{
+  "login": "okiohashi",
+  "id": 20331021,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/20331021?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/okiohashi",
+  "html_url": "https://github.com/okiohashi",
+  "followers_url": "https://api.github.com/users/okiohashi/followers",
+  "following_url": "https://api.github.com/users/okiohashi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/okiohashi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/okiohashi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/okiohashi/subscriptions",
+  "organizations_url": "https://api.github.com/users/okiohashi/orgs",
+  "repos_url": "https://api.github.com/users/okiohashi/repos",
+  "events_url": "https://api.github.com/users/okiohashi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/okiohashi/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}

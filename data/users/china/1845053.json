@@ -1,0 +1,20 @@
+{
+  "login": "MapleEve",
+  "id": 1845053,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1845053?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MapleEve",
+  "html_url": "https://github.com/MapleEve",
+  "followers_url": "https://api.github.com/users/MapleEve/followers",
+  "following_url": "https://api.github.com/users/MapleEve/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MapleEve/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MapleEve/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MapleEve/subscriptions",
+  "organizations_url": "https://api.github.com/users/MapleEve/orgs",
+  "repos_url": "https://api.github.com/users/MapleEve/repos",
+  "events_url": "https://api.github.com/users/MapleEve/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MapleEve/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
