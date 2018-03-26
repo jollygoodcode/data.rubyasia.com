@@ -1,0 +1,30 @@
+{
+  "generated_at": "2018-03-26 08:11:38 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-19..2018-03-25",
+  "repos": [
+    {
+      "full_name": "jondot/sneakers",
+      "description": "A fast background processing framework for Ruby and RabbitMQ",
+      "html_url": "https://github.com/jondot/sneakers",
+      "stars": 1629,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "cyberark/conjur",
+      "description": "CyberArk Conjur automatically secures secrets used by privileged users and machine identities",
+      "html_url": "https://github.com/cyberark/conjur",
+      "stars": 112,
+      "language": "Ruby",
+      "region": "Israel"
+    },
+    {
+      "full_name": "lbeder/health-monitor-rails",
+      "description": "A Rails plugin which provides a health checking and monitoring API of various services and application aspects.",
+      "html_url": "https://github.com/lbeder/health-monitor-rails",
+      "stars": 78,
+      "language": "Ruby",
+      "region": "Israel"
+    }
+  ]
+}
