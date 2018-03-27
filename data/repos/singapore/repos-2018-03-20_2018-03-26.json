@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-03-27 08:12:45 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-20..2018-03-26",
+  "repos": [
+    {
+      "full_name": "ytbryan/vuejs",
+      "description": "🛳 Ship with latest Vue + Vuex + Axios for Rails' Asset Pipeline and include single-file component generator",
+      "html_url": "https://github.com/ytbryan/vuejs",
+      "stars": 98,
+      "language": "Ruby",
+      "region": "Singapore"
+    },
+    {
+      "full_name": "Coursemology/coursemology2",
+      "description": "Rails 5 re-write of Coursemology",
+      "html_url": "https://github.com/Coursemology/coursemology2",
+      "stars": 44,
+      "language": "Ruby",
+      "region": "Singapore"
+    }
+  ]
+}

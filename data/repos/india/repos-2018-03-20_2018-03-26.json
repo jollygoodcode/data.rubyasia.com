@@ -1,0 +1,22 @@
+{
+  "generated_at": "2018-03-27 08:10:53 UTC",
+  "criteria": "language:Ruby stars:>20 pushed:2018-03-20..2018-03-26",
+  "repos": [
+    {
+      "full_name": "swanandp/acts_as_list",
+      "description": "An ActiveRecord plugin for managing lists.",
+      "html_url": "https://github.com/swanandp/acts_as_list",
+      "stars": 1320,
+      "language": "Ruby",
+      "region": "India"
+    },
+    {
+      "full_name": "thoughtworks/pacto",
+      "description": "Pacto settles disputes between JSON providers and consumers",
+      "html_url": "https://github.com/thoughtworks/pacto",
+      "stars": 375,
+      "language": "Ruby",
+      "region": "India"
+    }
+  ]
+}
