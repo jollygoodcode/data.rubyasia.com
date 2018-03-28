@@ -1,0 +1,20 @@
+{
+  "login": "yosaga",
+  "id": 13657563,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13657563?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/yosaga",
+  "html_url": "https://github.com/yosaga",
+  "followers_url": "https://api.github.com/users/yosaga/followers",
+  "following_url": "https://api.github.com/users/yosaga/following{/other_user}",
+  "gists_url": "https://api.github.com/users/yosaga/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/yosaga/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/yosaga/subscriptions",
+  "organizations_url": "https://api.github.com/users/yosaga/orgs",
+  "repos_url": "https://api.github.com/users/yosaga/repos",
+  "events_url": "https://api.github.com/users/yosaga/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/yosaga/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
