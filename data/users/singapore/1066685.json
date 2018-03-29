@@ -1,0 +1,20 @@
+{
+  "login": "dewdo",
+  "id": 1066685,
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1066685?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dewdo",
+  "html_url": "https://github.com/dewdo",
+  "followers_url": "https://api.github.com/users/dewdo/followers",
+  "following_url": "https://api.github.com/users/dewdo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dewdo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dewdo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dewdo/subscriptions",
+  "organizations_url": "https://api.github.com/users/dewdo/orgs",
+  "repos_url": "https://api.github.com/users/dewdo/repos",
+  "events_url": "https://api.github.com/users/dewdo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dewdo/received_events",
+  "type": "User",
+  "site_admin": false,
+  "score": 1.0
+}
